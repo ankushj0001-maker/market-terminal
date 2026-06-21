@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Market Terminal — Live Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0a0e14;
+    --surface:#11161f;
+    --surface-2:#161d29;
+    --border:#1f2733;
+    --border-soft:#171f2a;
+    --text:#e7eaf0;
+    --text-dim:#8b93a6;
+    --text-faint:#525b6c;
+    --green:#22d3a0;
+    --green-bg:rgba(34,211,160,.14);
+    --red:#f0475a;
+    --red-bg:rgba(240,71,90,.14);
+    --amber:#f5a623;
+    --amber-bg:rgba(245,166,35,.14);
+    --blue:#4ea1f7;
+    --font-ui:'Inter',system-ui,-apple-system,sans-serif;
+    --font-mono:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;
+    --radius:10px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html,body{height:100%;}
+  body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:var(--font-ui);
+    font-size:14px;
+    line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit;}
+  button{font-family:inherit;}
+
+  header.topbar{
+    position:sticky;top:0;z-index:50;
+    display:flex;align-items:center;gap:10px;flex-wrap:wrap;
+    padding:10px 20px;
+    background:rgba(10,14,20,.94);
+    backdrop-filter:blur(8px);
+    border-bottom:1px solid var(--border);
+  }
+  .brand{display:flex;align-items:center;gap:8px;font-weight:600;letter-spacing:.02em;}
+  .brand .dot{width:8px;height:8px;border-radius:50%;background:var(--text-faint);flex:0 0 auto;transition:background .3s;}
+  .brand-name{font-size:13.5px;}
+  .brand-sub{font-size:11px;color:var(--text-faint);font-family:var(--font-mono);}
+  .topbar-right{margin-left:auto;display:flex;align-items:center;gap:12px;font-family:var(--font-mono);font-size:12px;color:var(--text-dim);flex-wrap:wrap;}
+  .market-status{display:flex;align-items:center;gap:6px;padding:4px 10px;border-radius:999px;border:1px solid var(--border);white-space:nowrap;}
+  .market-status.open{color:var(--green);border-color:rgba(34,211,160,.35);}
+  .market-status.closed{color:var(--text-faint);}
+  .refresh-btn{display:flex;align-items:center;gap:6px;background:var(--surface);border:1px solid var(--border);color:var(--text-dim);padding:6px 12px;border-radius:8px;cursor:pointer;font-size:12px;transition:border-color .15s,color .15s;}
+  .refresh-btn:hover{border-color:var(--blue);color:var(--text);}
+  .refresh-btn:disabled{opacity:.55;cursor:default;}
+  .refresh-btn svg{width:13px;height:13px;display:block;}
+  .refresh-btn.spinning svg{animation:spin .8s linear infinite;}
+  @keyframes spin{to{transform:rotate(360deg);}}
+
+  main{max-width:1280px;margin:0 auto;padding:20px;}
+  section.panel{margin-bottom:30px;}
+  .panel-head{display:flex;align-items:baseline;gap:10px;margin-bottom:12px;flex-wrap:wrap;}
+  .panel-title{font-size:12.5px;font-weight:600;text-transform:uppercase;letter-spacing:.08em;color:var(--text-dim);}
+  .panel-meta{font-family:var(--font-mono);font-size:11px;color:var(--text-faint);margin-left:auto;}
+
+  .kpi-row{display:flex;gap:10px;overflow-x:auto;padding-bottom:6px;scrollbar-width:thin;}
+  .kpi-row::-webkit-scrollbar{height:6px;}
+  .kpi-row::-webkit-scrollbar-thumb{background:var(--border);border-radius:3px;}
+  .kpi-card{flex:0 0 184px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:12px 14px;position:relative;}
+  .kpi-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;}
+  .kpi-label{font-size:11px;font-weight:600;letter-spacing:.04em;color:var(--text-dim);}
+  .kpi-pulse{width:6px;height:6px;border-radius:50%;background:var(--text-faint);flex:0 0 auto;}
+  .kpi-pulse.live{background:var(--green);box-shadow:0 0 0 3px var(--green-bg);animation:pulse 2s ease-in-out infinite;}
+  .kpi-pulse.stale{background:var(--amber);box-shadow:0 0 0 3px var(--amber-bg);}
+  .kpi-pulse.down{background:var(--red);box-shadow:0 0 0 3px var(--red-bg);}
+  @keyframes pulse{0%,100%{opacity:1;}50%{opacity:.35;}}
+  @media (prefers-reduced-motion:reduce){.kpi-pulse.live{animation:none;}}
+  .kpi-price{font-family:var(--font-mono);font-size:19px;font-weight:600;letter-spacing:-.01em;margin-bottom:5px;min-height:24px;}
+  .kpi-change{font-family:var(--font-mono);font-size:11px;display:flex;align-items:center;gap:5px;min-height:14px;}
+  .kpi-change.up{color:var(--green);}
+  .kpi-change.down{color:var(--red);}
+  .kpi-change.flat{color:var(--text-faint);}
+  .kpi-spark{position:absolute;right:10px;bottom:10px;color:var(--text-faint);}
+
+  .news-controls{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:12px;}
+  .search-input{background:var(--surface);border:1px solid var(--border);color:var(--text);padding:7px 10px;border-radius:8px;font-size:12.5px;font-family:var(--font-ui);min-width:200px;flex:1 1 200px;}
+  .search-input::placeholder{color:var(--text-faint);}
+  .search-input:focus{outline:2px solid var(--blue);outline-offset:1px;}
+  .chip-row{display:flex;gap:6px;flex-wrap:wrap;}
+  .chip{background:var(--surface);border:1px solid var(--border);color:var(--text-dim);padding:5px 11px;border-radius:999px;font-size:11px;cursor:pointer;user-select:none;transition:all .15s;}
+  .chip.active{color:var(--bg);background:var(--text-dim);border-color:var(--text-dim);}
+  .chip:focus-visible{outline:2px solid var(--blue);}
+
+  .news-list{display:flex;flex-direction:column;border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;}
+  .news-item{display:flex;align-items:flex-start;gap:10px;padding:11px 14px;border-bottom:1px solid var(--border-soft);text-decoration:none;color:inherit;transition:background .12s;}
+  .news-item:last-child{border-bottom:none;}
+  .news-item:hover{background:var(--surface);}
+  .news-item:focus-visible{outline:2px solid var(--blue);outline-offset:-2px;}
+  .src-pill{flex:0 0 auto;font-family:var(--font-mono);font-size:10px;font-weight:700;padding:2px 7px;border-radius:5px;white-space:nowrap;margin-top:2px;}
+  .pill-et{color:#4ea1f7;background:rgba(78,161,247,.14);}
+  .pill-mc{color:#a78bfa;background:rgba(167,139,250,.14);}
+  .pill-lm{color:#f472b6;background:rgba(244,114,182,.14);}
+  .pill-bs{color:#fb923c;background:rgba(251,146,60,.14);}
+  .pill-rbi{color:#22d3ee;background:rgba(34,211,238,.14);}
+  .news-body{flex:1;min-width:0;}
+  .news-title{font-size:13px;color:var(--text);line-height:1.4;}
+  .news-time{font-family:var(--font-mono);font-size:10.5px;color:var(--text-faint);margin-top:3px;}
+  .news-ext{flex:0 0 auto;color:var(--text-faint);margin-top:3px;}
+  .news-ext svg{display:block;}
+  .news-empty{padding:34px 14px;text-align:center;color:var(--text-faint);font-size:13px;}
+
+  footer{max-width:1280px;margin:0 auto;padding:18px 20px 30px;border-top:1px solid var(--border);color:var(--text-faint);font-size:11px;line-height:1.7;}
+
+  @media (max-width:640px){
+    main{padding:14px;}
+    header.topbar{padding:9px 14px;}
+    .kpi-card{flex:0 0 156px;}
+    .panel-meta{margin-left:0;}
+  }
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="dot" id="connDot"></span>
+    <span class="brand-name">MARKET TERMINAL</span>
+  </div>
+  <span class="brand-sub">live feed · india</span>
+  <div class="topbar-right">
+    <span class="market-status" id="marketStatus">—</span>
+    <span id="clock">--:--:--</span>
+    <button class="refresh-btn" id="refreshBtn" type="button">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 4v5h-5"/></svg>
+      <span id="refreshLabel">Refresh</span>
+    </button>
+  </div>
+</header>
+
+<main>
+  <section class="panel">
+    <div class="panel-head">
+      <span class="panel-title">Market overview</span>
+      <span class="panel-meta" id="kpiMeta">Connecting…</span>
+    </div>
+    <div class="kpi-row" id="kpiRow"></div>
+  </section>
+
+  <section class="panel">
+    <div class="panel-head">
+      <span class="panel-title">News intelligence</span>
+      <span class="panel-meta" id="newsMeta">Connecting…</span>
+    </div>
+    <div class="news-controls">
+      <input type="text" class="search-input" id="searchInput" placeholder="Search headlines…" aria-label="Search headlines">
+      <div class="chip-row" id="chipRow"></div>
+    </div>
+    <div class="news-list" id="newsList">
+      <div class="news-empty">Loading latest headlines…</div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <p>Index prices come from Yahoo Finance's public chart endpoint and headlines from each publisher's official RSS feed (Economic Times, Moneycontrol, LiveMint, Business Standard, rbi.org.in) — only the original headline, source and timestamp are shown; read the full story on the publisher's own site. Data is collected by a scheduled job roughly every 15 minutes and published as a static file, rather than fetched live by your browser, so a single visitor's network or browser settings can't block it.</p>
+  <p style="margin-top:6px;">For information only — not investment advice. Figures reflect the last scheduled update, not tick-by-tick pricing; check the status dot on each card and the "data as of" time before relying on a number. Use the refresh button to check for a newer scheduled update at any time.</p>
+</footer>
+
+<script>
+(function(){
+  'use strict';
+
+  var INDICES = [
+    {id:'nifty50',   label:'NIFTY 50',        kind:'index',     decimals:2},
+    {id:'sensex',    label:'SENSEX',          kind:'index',     decimals:2},
+    {id:'banknifty', label:'BANK NIFTY',      kind:'index',     decimals:2},
+    {id:'vix',       label:'INDIA VIX',       kind:'index',     decimals:2},
+    {id:'usdinr',    label:'USD / INR',       kind:'fx',        decimals:3},
+    {id:'gold',      label:'GOLD (USD/oz)',   kind:'commodity', decimals:2},
+    {id:'crude',     label:'CRUDE OIL (WTI)', kind:'commodity', decimals:2},
+    {id:'us10y',     label:'US 10Y YIELD',    kind:'yield',     decimals:3}
+  ];
+
+  var FEEDS = [
+    {id:'et',  label:'ET',  full:'Economic Times',        cls:'pill-et'},
+    {id:'mc',  label:'MC',  full:'Moneycontrol',           cls:'pill-mc'},
+    {id:'lm',  label:'LM',  full:'LiveMint',                cls:'pill-lm'},
+    {id:'bs',  label:'BS',  full:'Business Standard',       cls:'pill-bs'},
+    {id:'rbi', label:'RBI', full:'Reserve Bank of India',   cls:'pill-rbi'}
+  ];
+
+  var DATA_URL = 'data.json';
+  var POLL_MS = 120000;       // re-check the file every 2 min for a fresh run
+  var STALE_AFTER_MS = 40 * 60000; // if generated_at is older than this, treat as stale even if ok:true
+
+  var state = { payload:null, activeSources:{}, query:'' };
+  FEEDS.forEach(function(f){ state.activeSources[f.id] = true; });
+
+  function $(id){ return document.getElementById(id); }
+
+  function fmtPrice(v, decimals){
+    if(typeof v !== 'number' || isNaN(v)) return '—';
+    return v.toLocaleString('en-IN', {minimumFractionDigits:decimals, maximumFractionDigits:decimals});
+  }
+  function fmtChange(v, decimals){
+    if(typeof v !== 'number' || isNaN(v)) return '—';
+    return (v > 0 ? '+' : '') + v.toLocaleString('en-IN', {minimumFractionDigits:decimals, maximumFractionDigits:decimals});
+  }
+  function fmtPct(v){
+    if(typeof v !== 'number' || isNaN(v)) return '—';
+    return (v > 0 ? '+' : '') + v.toFixed(2) + '%';
+  }
+
+  function sparkPath(closes, w, h){
+    var pts = (closes || []).filter(function(v){ return typeof v === 'number'; });
+    if(pts.length < 3) return '';
+    var min = Math.min.apply(null, pts), max = Math.max.apply(null, pts);
+    var range = (max - min) || 1;
+    var step = w / (pts.length - 1);
+    var d = '';
+    pts.forEach(function(v, i){
+      var x = i * step;
+      var y = h - ((v - min) / range) * h;
+      d += (i === 0 ? 'M' : 'L') + x.toFixed(1) + ',' + y.toFixed(1) + ' ';
+    });
+    return d.trim();
+  }
+
+  function buildKPICards(){
+    var row = $('kpiRow');
+    INDICES.forEach(function(cfg){
+      var card = document.createElement('div');
+      card.className = 'kpi-card';
+
+      var top = document.createElement('div'); top.className = 'kpi-top';
+      var label = document.createElement('span'); label.className = 'kpi-label'; label.textContent = cfg.label;
+      var pulse = document.createElement('span'); pulse.className = 'kpi-pulse'; pulse.id = 'pulse-' + cfg.id; pulse.title = 'Connecting…';
+      top.appendChild(label); top.appendChild(pulse);
+
+      var price = document.createElement('div'); price.className = 'kpi-price'; price.id = 'price-' + cfg.id; price.textContent = '—';
+      var change = document.createElement('div'); change.className = 'kpi-change flat'; change.id = 'change-' + cfg.id; change.textContent = 'waiting for data';
+
+      var svgNS = 'http://www.w3.org/2000/svg';
+      var svg = document.createElementNS(svgNS, 'svg');
+      svg.setAttribute('class', 'kpi-spark');
+      svg.setAttribute('width', '60'); svg.setAttribute('height', '20'); svg.setAttribute('viewBox', '0 0 60 20');
+      var path = document.createElementNS(svgNS, 'path');
+      path.setAttribute('id', 'spark-' + cfg.id);
+      path.setAttribute('fill', 'none');
+      path.setAttribute('stroke', 'currentColor');
+      path.setAttribute('stroke-width', '1.5');
+      svg.appendChild(path);
+
+      card.appendChild(top); card.appendChild(price); card.appendChild(change); card.appendChild(svg);
+      row.appendChild(card);
+    });
+  }
+
+  function updateKPI(cfg, entry){
+    var pulse = $('pulse-' + cfg.id), price = $('price-' + cfg.id), change = $('change-' + cfg.id), spark = $('spark-' + cfg.id);
+    if(!pulse) return;
+
+    var hasValue = entry && typeof entry.price === 'number';
+    var fresh = entry && entry.updated_at && (Date.now() - new Date(entry.updated_at).getTime()) < STALE_AFTER_MS;
+    var status = !hasValue ? 'down' : (entry.ok && fresh ? 'live' : 'stale');
+
+    pulse.className = 'kpi-pulse ' + status;
+    pulse.title = status === 'live' ? 'Live (last scheduled update)' : status === 'stale' ? 'Showing last known value' : 'No data yet';
+
+    if(hasValue){
+      price.textContent = fmtPrice(entry.price, cfg.decimals);
+      var dir = entry.change > 0 ? 'up' : entry.change < 0 ? 'down' : 'flat';
+      change.className = 'kpi-change ' + dir;
+      var arrow = dir === 'up' ? '▲' : dir === 'down' ? '▼' : '·';
+      change.textContent = arrow + ' ' + fmtChange(entry.change, cfg.decimals) + '  (' + fmtPct(entry.pct) + ')';
+      var d = sparkPath(entry.closes, 60, 20);
+      if(d && spark){
+        spark.setAttribute('d', d);
+        spark.parentNode.style.color = dir === 'up' ? 'var(--green)' : dir === 'down' ? 'var(--red)' : 'var(--text-faint)';
+      }
+    } else {
+      price.textContent = '—';
+      change.className = 'kpi-change flat';
+      change.textContent = 'no data yet';
+    }
+  }
+
+  function buildChips(){
+    var row = $('chipRow');
+    FEEDS.forEach(function(f){
+      var chip = document.createElement('button');
+      chip.type = 'button';
+      chip.className = 'chip active';
+      chip.textContent = f.full;
+      chip.id = 'chip-' + f.id;
+      chip.addEventListener('click', function(){
+        state.activeSources[f.id] = !state.activeSources[f.id];
+        chip.className = 'chip' + (state.activeSources[f.id] ? ' active' : '');
+        renderNews();
+      });
+      row.appendChild(chip);
+    });
+  }
+
+  function timeAgo(d){
+    var diff = Math.max(0, Date.now() - d.getTime());
+    var m = Math.floor(diff / 60000);
+    if(m < 1) return 'just now';
+    if(m < 60) return m + 'm ago';
+    var h = Math.floor(m / 60);
+    if(h < 24) return h + 'h ago';
+    return Math.floor(h / 24) + 'd ago';
+  }
+
+  function renderNews(){
+    var list = $('newsList');
+    if(!state.payload){
+      list.innerHTML = '';
+      var loading = document.createElement('div');
+      loading.className = 'news-empty';
+      loading.textContent = 'Loading latest headlines…';
+      list.appendChild(loading);
+      return;
+    }
+
+    var all = [];
+    var seen = {};
+    FEEDS.forEach(function(f){
+      if(!state.activeSources[f.id]) return;
+      var entry = (state.payload.feeds || {})[f.id];
+      if(!entry || !entry.items) return;
+      entry.items.forEach(function(it){
+        var key = it.title.toLowerCase().slice(0, 80);
+        if(seen[key]) return;
+        seen[key] = true;
+        all.push({title: it.title, link: it.link, date: new Date(it.pubDate), feed: f});
+      });
+    });
+    all.sort(function(a, b){ return b.date - a.date; });
+
+    var q = state.query.trim().toLowerCase();
+    if(q){ all = all.filter(function(it){ return it.title.toLowerCase().indexOf(q) >= 0; }); }
+    all = all.slice(0, 45);
+
+    list.innerHTML = '';
+    if(!all.length){
+      var empty = document.createElement('div');
+      empty.className = 'news-empty';
+      empty.textContent = q ? 'No headlines match "' + state.query + '".' : 'No headlines available right now.';
+      list.appendChild(empty);
+      return;
+    }
+
+    all.forEach(function(it){
+      var a = document.createElement('a');
+      a.className = 'news-item';
+      a.href = it.link;
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+
+      var pill = document.createElement('span');
+      pill.className = 'src-pill ' + it.feed.cls;
+      pill.textContent = it.feed.label;
+
+      var body = document.createElement('div');
+      body.className = 'news-body';
+      var title = document.createElement('div');
+      title.className = 'news-title';
+      title.textContent = it.title;
+      var time = document.createElement('div');
+      time.className = 'news-time';
+      time.textContent = timeAgo(it.date) + ' · ' + it.feed.full;
+      body.appendChild(title);
+      body.appendChild(time);
+
+      var ext = document.createElement('span');
+      ext.className = 'news-ext';
+      ext.innerHTML = '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6"/><path d="M10 14 21 3"/></svg>';
+
+      a.appendChild(pill);
+      a.appendChild(body);
+      a.appendChild(ext);
+      list.appendChild(a);
+    });
+  }
+
+  function updateMeta(){
+    var payload = state.payload;
+    var connDot = $('connDot');
+    if(!payload){
+      $('kpiMeta').textContent = 'Connecting…';
+      $('newsMeta').textContent = 'Connecting…';
+      connDot.style.background = 'var(--text-faint)';
+      return;
+    }
+    var liveIdx = INDICES.filter(function(c){ var e=(payload.indices||{})[c.id]; return e && e.ok; }).length;
+    var liveFeeds = FEEDS.filter(function(f){ var e=(payload.feeds||{})[f.id]; return e && e.ok; }).length;
+
+    if(!payload.generated_at){
+      $('kpiMeta').textContent = 'No data yet — run the workflow once from the Actions tab';
+      $('newsMeta').textContent = 'Waiting for first scheduled run…';
+      connDot.style.background = 'var(--text-faint)';
+      return;
+    }
+
+    var genAt = new Date(payload.generated_at);
+    var stamp = genAt.toLocaleTimeString('en-IN', {timeZone:'Asia/Kolkata', hour12:false});
+    $('kpiMeta').textContent = liveIdx + '/' + INDICES.length + ' live · data as of ' + stamp + ' IST';
+    $('newsMeta').textContent = liveFeeds + '/' + FEEDS.length + ' sources live';
+
+    var ageMs = Date.now() - genAt.getTime();
+    if(liveIdx + liveFeeds === 0){ connDot.style.background = 'var(--red)'; }
+    else if(ageMs > STALE_AFTER_MS){ connDot.style.background = 'var(--amber)'; }
+    else { connDot.style.background = 'var(--green)'; }
+  }
+
+  function updateMarketStatus(){
+    var now = new Date(new Date().toLocaleString('en-US', {timeZone:'Asia/Kolkata'}));
+    var day = now.getDay();
+    var mins = now.getHours() * 60 + now.getMinutes();
+    var open = day >= 1 && day <= 5 && mins >= 555 && mins <= 930;
+    var el = $('marketStatus');
+    el.textContent = open ? '● NSE OPEN' : '○ NSE CLOSED';
+    el.className = 'market-status ' + (open ? 'open' : 'closed');
+  }
+
+  function updateClock(){
+    $('clock').textContent = new Date().toLocaleTimeString('en-IN', {timeZone:'Asia/Kolkata', hour12:false}) + ' IST';
+  }
+
+  var refreshing = false;
+  function refreshAll(){
+    if(refreshing) return;
+    refreshing = true;
+    var btn = $('refreshBtn'), label = $('refreshLabel');
+    btn.disabled = true; btn.classList.add('spinning'); label.textContent = 'Refreshing…';
+
+    fetch(DATA_URL + '?t=' + Date.now())
+      .then(function(res){
+        if(!res.ok) throw new Error('HTTP ' + res.status);
+        return res.json();
+      })
+      .then(function(json){
+        state.payload = json;
+        INDICES.forEach(function(cfg){ updateKPI(cfg, (json.indices || {})[cfg.id]); });
+        renderNews();
+        updateMeta();
+      })
+      .catch(function(err){
+        // data.json itself is same-origin static file - if this fails the site
+        // likely hasn't finished its first deploy/run yet, or isn't hosted via
+        // GitHub Pages. Keep whatever was last shown rather than blanking out.
+        console.error('Could not load data.json:', err);
+        if(!state.payload){
+          $('kpiMeta').textContent = 'data.json not found yet — has the workflow run at least once?';
+          $('newsMeta').textContent = 'Waiting for first data run…';
+          renderNews();
+        }
+      })
+      .then(function(){
+        btn.disabled = false; btn.classList.remove('spinning'); label.textContent = 'Refresh';
+        refreshing = false;
+      });
+  }
+
+  function init(){
+    buildKPICards();
+    buildChips();
+    updateMarketStatus();
+    updateClock();
+    setInterval(updateClock, 1000);
+    setInterval(updateMarketStatus, 30000);
+
+    $('searchInput').addEventListener('input', function(e){
+      state.query = e.target.value;
+      renderNews();
+    });
+    $('refreshBtn').addEventListener('click', refreshAll);
+
+    refreshAll();
+    setInterval(refreshAll, POLL_MS);
+  }
+
+  if(document.readyState === 'loading'){
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
+</body>
+</html>

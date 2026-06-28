@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-28T15:07:11.140979+00:00",
+  "generated_at": "2026-06-28T19:57:49.668689+00:00",
   "indices": {
     "nifty50": {
       "price": 24056.0,
-      "change": 34.35,
-      "pct": 0.143,
+      "change": 34.3,
+      "pct": 0.1428,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-06-28T15:07:09.293884+00:00"
+      "updated_at": "2026-06-28T19:57:47.359175+00:00"
     },
     "sensex": {
       "price": 77100.47,
-      "change": 109.25,
+      "change": 109.27,
       "pct": 0.1419,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-06-28T15:07:09.341122+00:00"
+      "updated_at": "2026-06-28T19:57:47.397252+00:00"
     },
     "banknifty": {
       "price": 58177.05,
-      "change": 26.7,
-      "pct": 0.0459,
+      "change": 26.65,
+      "pct": 0.0458,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-06-28T15:07:09.388904+00:00"
+      "updated_at": "2026-06-28T19:57:47.566183+00:00"
     },
     "vix": {
       "price": 13.05,
@@ -31,7 +31,7 @@
       "pct": -2.5028,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-06-28T15:07:09.433694+00:00"
+      "updated_at": "2026-06-28T19:57:47.650959+00:00"
     },
     "usdinr": {
       "price": 94.385,
@@ -59,23 +59,23 @@
         94.30000305175781
       ],
       "ok": true,
-      "updated_at": "2026-06-28T15:07:09.491308+00:00"
+      "updated_at": "2026-06-28T19:57:47.749636+00:00"
     },
     "gold": {
       "price": 4096.3,
-      "change": 48.7,
-      "pct": 1.2032,
+      "change": 0.0,
+      "pct": 0.0,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-06-28T15:07:09.537067+00:00"
+      "updated_at": "2026-06-28T19:57:47.783784+00:00"
     },
     "crude": {
       "price": 69.23,
-      "change": -2.69,
-      "pct": -3.7403,
+      "change": 0.0,
+      "pct": 0.0,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-06-28T15:07:09.583928+00:00"
+      "updated_at": "2026-06-28T19:57:47.824398+00:00"
     },
     "us10y": {
       "price": 4.372,
@@ -144,13 +144,13 @@
         4.372000217437744
       ],
       "ok": true,
-      "updated_at": "2026-06-28T15:07:09.639319+00:00"
+      "updated_at": "2026-06-28T19:57:47.915923+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-06-28T15:07:09.718920+00:00",
+      "updated_at": "2026-06-28T19:57:48.242271+00:00",
       "items": [
         {
           "title": "11 penny stocks plunge up to 55% in a month. Should investors worry?",
@@ -387,8 +387,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-06-28T15:07:10.245106+00:00",
+      "updated_at": "2026-06-28T19:57:48.630192+00:00",
       "items": [
+        {
+          "title": "Tax, policy changes making equities more attractive for investors, likely to sustain inflows: JP Morgan",
+          "link": "https://www.livemint.com/market/tax-policy-changes-making-equities-more-attractive-for-investors-likely-to-sustain-inflows-jp-morgan-11782663870242.html",
+          "pubDate": "2026-06-28T22:05:14+05:30"
+        },
         {
           "title": "Aditya Infotech: investors need to focus on far range clarity as valuation looks stretched for now",
           "link": "https://www.livemint.com/market/mark-to-market/aditya-infotech-stock-analysis-ipo-stock-valuation-growth-outlook-11782641401757.html",
@@ -533,11 +538,6 @@
           "title": "Stocks to buy: Anand Rathi bullish on Hindustan Copper shares, sees 45% upside in the PSU stock; here’s why",
           "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-anand-rathi-bullish-on-hindustan-copper-share-price-sees-45-upside-in-the-psu-stock-here-s-why-11782458627159.html",
           "pubDate": "2026-06-26T13:00:39+05:30"
-        },
-        {
-          "title": "Tata Motors PV is on a clear road. JLR remains the speed bump.",
-          "link": "https://www.livemint.com/market/mark-to-market/tata-motors-pv-growth-roadmap-jlr-recovery-investor-outlook-11782454114087.html",
-          "pubDate": "2026-06-26T13:00:37+05:30"
         }
       ]
     },
@@ -547,7 +547,7 @@
       "items": []
     },
     "rbi": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-06-28T15:07:11.140964+00:00",
       "items": [
         {

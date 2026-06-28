@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T00:16:20.675209+00:00",
+  "generated_at": "2026-06-28T10:16:33.788117+00:00",
   "indices": {
     "nifty50": {
       "price": 24056.0,
@@ -7,7 +7,7 @@
       "pct": 0.143,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-06-28T00:16:18.579315+00:00"
+      "updated_at": "2026-06-28T10:16:32.089422+00:00"
     },
     "sensex": {
       "price": 77100.47,
@@ -15,7 +15,7 @@
       "pct": 0.1419,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-06-28T00:16:18.623638+00:00"
+      "updated_at": "2026-06-28T10:16:32.127201+00:00"
     },
     "banknifty": {
       "price": 58177.05,
@@ -23,7 +23,7 @@
       "pct": 0.0459,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-06-28T00:16:18.668449+00:00"
+      "updated_at": "2026-06-28T10:16:32.163709+00:00"
     },
     "vix": {
       "price": 13.05,
@@ -31,7 +31,7 @@
       "pct": -2.5028,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-06-28T00:16:18.714767+00:00"
+      "updated_at": "2026-06-28T10:16:32.200189+00:00"
     },
     "usdinr": {
       "price": 94.3,
@@ -59,145 +59,23 @@
         94.30000305175781
       ],
       "ok": true,
-      "updated_at": "2026-06-28T00:16:18.769489+00:00"
+      "updated_at": "2026-06-28T10:16:32.260837+00:00"
     },
     "gold": {
       "price": 4096.3,
       "change": 48.7,
       "pct": 1.2032,
-      "closes": [
-        4106.89990234375,
-        4104.39990234375,
-        4106.7998046875,
-        4105.7001953125,
-        4101.2998046875,
-        4102.2998046875,
-        4103.5,
-        4100.0,
-        4099.60009765625,
-        4098.7998046875,
-        4100.5,
-        4099.89990234375,
-        4099.60009765625,
-        4102.0,
-        4098.39990234375,
-        4096.7998046875,
-        4099.89990234375,
-        4096.7001953125,
-        4093.0,
-        4090.699951171875,
-        4091.60009765625,
-        4091.199951171875,
-        4090.39990234375,
-        4089.60009765625,
-        4091.39990234375,
-        4092.199951171875,
-        4091.60009765625,
-        4089.10009765625,
-        4086.699951171875,
-        4088.300048828125,
-        4089.300048828125,
-        4088.39990234375,
-        4087.5,
-        4084.199951171875,
-        4085.10009765625,
-        4082.199951171875,
-        4080.199951171875,
-        4081.39990234375,
-        4084.0,
-        4082.800048828125,
-        4080.10009765625,
-        4080.800048828125,
-        4084.60009765625,
-        4083.0,
-        4083.199951171875,
-        4084.699951171875,
-        4087.699951171875,
-        4086.199951171875,
-        4085.800048828125,
-        4080.300048828125,
-        4082.39990234375,
-        4082.10009765625,
-        4085.699951171875,
-        4086.60009765625,
-        4084.699951171875,
-        4083.800048828125,
-        4085.300048828125,
-        4089.89990234375,
-        4095.800048828125,
-        4096.2998046875
-      ],
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-06-28T00:16:18.853543+00:00"
+      "updated_at": "2026-06-28T10:16:32.304129+00:00"
     },
     "crude": {
       "price": 69.23,
       "change": -2.69,
       "pct": -3.7403,
-      "closes": [
-        69.0,
-        69.1500015258789,
-        68.9800033569336,
-        69.08999633789062,
-        69.16000366210938,
-        69.01000213623047,
-        68.94000244140625,
-        68.98999786376953,
-        69.2699966430664,
-        69.16999816894531,
-        69.2699966430664,
-        69.30000305175781,
-        69.1500015258789,
-        69.0999984741211,
-        69.0999984741211,
-        69.06999969482422,
-        69.12000274658203,
-        69.30999755859375,
-        69.4000015258789,
-        69.41000366210938,
-        69.3499984741211,
-        69.33000183105469,
-        69.38999938964844,
-        69.2699966430664,
-        69.26000213623047,
-        69.31999969482422,
-        69.33999633789062,
-        69.33000183105469,
-        69.19999694824219,
-        69.23999786376953,
-        69.13999938964844,
-        69.19000244140625,
-        69.12999725341797,
-        69.18000030517578,
-        69.13999938964844,
-        69.12000274658203,
-        69.0999984741211,
-        69.08000183105469,
-        69.0999984741211,
-        69.18000030517578,
-        69.18000030517578,
-        69.19999694824219,
-        69.2300033569336,
-        69.33000183105469,
-        69.41999816894531,
-        69.44000244140625,
-        69.47000122070312,
-        69.51000213623047,
-        69.37999725341797,
-        69.41999816894531,
-        69.41000366210938,
-        69.43000030517578,
-        69.5199966430664,
-        69.54000091552734,
-        70.05000305175781,
-        69.8499984741211,
-        69.8499984741211,
-        70.0,
-        70.29000091552734,
-        69.2300033569336
-      ],
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-06-28T00:16:18.936614+00:00"
+      "updated_at": "2026-06-28T10:16:32.350686+00:00"
     },
     "us10y": {
       "price": 4.372,
@@ -266,43 +144,43 @@
         4.372000217437744
       ],
       "ok": true,
-      "updated_at": "2026-06-28T00:16:18.990144+00:00"
+      "updated_at": "2026-06-28T10:16:32.434308+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-06-28T00:16:19.408486+00:00",
+      "updated_at": "2026-06-28T10:16:32.469162+00:00",
       "items": [
         {
-          "title": "Companies should focus on business growth, profitability rather than just share price: NSE chief",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/companies-should-focus-on-business-growth-profitability-rather-than-just-share-price-nse-chief/articleshow/132031843.cms",
-          "pubDate": "2026-06-27T14:45:31+05:30"
+          "title": "11 penny stocks plunge up to 55% in a month. Should investors worry?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/11-penny-stocks-plunge-up-to-55-in-a-month-should-investors-worry/rough-ride/slideshow/132046234.cms",
+          "pubDate": "2026-06-28T11:24:39+05:30"
         },
         {
-          "title": "Dala Street Week Ahead: Nifty to test crucial 24,500 level; breakout may define next trend",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dala-street-week-ahead-nifty-to-test-crucial-24500-level-breakout-may-define-next-trend/articleshow/132031360.cms",
-          "pubDate": "2026-06-27T14:32:09+05:30"
+          "title": "NFO Watch: 5 mutual funds and 2 SIFs open for subscription this week. Check details",
+          "link": "https://economictimes.indiatimes.com/mf/analysis/nfo-watch-5-mutual-funds-and-2-sifs-open-for-subscription-this-week-check-details/icici-prudential-mutual-fund/slideshow/132045698.cms",
+          "pubDate": "2026-06-28T10:34:49+05:30"
         },
         {
-          "title": "Chris Wood’s big warning: The specific risk that will finally trigger the end of AI trade",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/chris-woods-big-warning-the-specific-risk-that-will-finally-trigger-the-end-of-ai-trade/articleshow/132031234.cms",
-          "pubDate": "2026-06-27T13:56:30+05:30"
+          "title": "Funding the 'mother of all cycles': Chris Wood cuts Indian stocks to double down on South Korean chip giants",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/funding-the-mother-of-all-cycles-chris-wood-cuts-indian-stocks-to-double-down-on-south-korean-chip-giants/articleshow/132045664.cms",
+          "pubDate": "2026-06-28T10:28:29+05:30"
         },
         {
-          "title": "Goldman Sachs’ India bets: 8 stocks rally up to 85% in CY26; one new addition",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-india-bets-8-stocks-rally-up-to-85-in-cy26-one-new-addition/slideshow/132030875.cms",
-          "pubDate": "2026-06-27T13:05:14+05:30"
+          "title": "Passive investing explosion: DSP’s Anil Ghelani predicts ETFs, index funds will command 30% of mutual fund industry",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/passive-investing-explosion-dsps-anil-ghelani-predicts-etfs-index-funds-will-command-30-of-mutual-fund-industry/articleshow/132045639.cms",
+          "pubDate": "2026-06-28T10:25:07+05:30"
         },
         {
-          "title": "NSE IPO to value exchange at Rs 5 lakh crore? 2 scenarios every investor should watch",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-to-value-exchange-at-rs-5-lakh-crore-2-scenarios-every-investor-should-watch/articleshow/132030714.cms",
-          "pubDate": "2026-06-27T13:01:56+05:30"
+          "title": "Q1 updates, F&amp;O expiry among 8 factors set to steer D-Street this week",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-extend-gains-or-turn-volatile-q1-updates-fo-expiry-among-8-factors-set-to-steer-stock-market-this-week/articleshow/132045460.cms",
+          "pubDate": "2026-06-28T09:58:55+05:30"
         },
         {
-          "title": "US stocks: US market ends lower as tech stocks weigh on sentiment",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-lower-chips-tumble-and-moderna-rallies/articleshow/132024472.cms",
-          "pubDate": "2026-06-27T01:33:35+05:30"
+          "title": "IPO-bound NSE set to be the change in exchange game",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-bound-nse-set-to-be-the-change-in-exchange-game/articleshow/132045261.cms",
+          "pubDate": "2026-06-28T09:42:33+05:30"
         },
         {
           "title": "This family sold its business for $1.7 billion and rewarded 540 factory workers with a $240 million gift",
@@ -427,8 +305,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-06-27T16:40:40.838435+00:00",
+      "ok": true,
+      "updated_at": "2026-06-28T10:16:32.578469+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -509,8 +387,43 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-06-28T00:16:19.583964+00:00",
+      "updated_at": "2026-06-28T10:16:32.919590+00:00",
       "items": [
+        {
+          "title": "Expert view: How rising global bond yields impact the Indian stock market?",
+          "link": "https://www.livemint.com/market/stock-market-news/expert-view-how-rising-in-global-bond-yields-impact-indian-stock-market-11782636070309.html",
+          "pubDate": "2026-06-28T14:32:24+05:30"
+        },
+        {
+          "title": "Mukul Agrawal-owned multibagger stock will remain in focus tomorrow. Do you own?",
+          "link": "https://www.livemint.com/market/stock-market-news/mukul-agrawal-owned-multibagger-stock-ptc-industries-will-remain-in-focus-tomorrow-do-you-own-11782632317053.html",
+          "pubDate": "2026-06-28T14:07:00+05:30"
+        },
+        {
+          "title": "Mcap of 6 of top-10 most valued firms surges by  ₹88,678 crore; ICICI Bank biggest gainer",
+          "link": "https://www.livemint.com/market/stock-market-news/mcap-of-6-of-top-10-most-valued-firms-surges-by-88-678-crore-icici-bank-biggest-gainer-11782630290683.html",
+          "pubDate": "2026-06-28T12:57:46+05:30"
+        },
+        {
+          "title": "Upcoming IPOs: Aastha Spinex IPO, Knack Packaging IPO among new issues scheduled for next week; check list here",
+          "link": "https://www.livemint.com/market/ipo/upcoming-ipos-aastha-spinex-ipo-knack-packaging-ipo-among-new-issues-scheduled-for-next-week-check-list-11782627353968.html",
+          "pubDate": "2026-06-28T12:32:05+05:30"
+        },
+        {
+          "title": "Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid US-Iran war?",
+          "link": "https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-next-week-amid-us-iran-war-11782621997610.html",
+          "pubDate": "2026-06-28T11:23:00+05:30"
+        },
+        {
+          "title": "Stocks to buy under  ₹100: Sumeet Bagadia recommends three stocks to buy on Monday - 29 June 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-29-june-2026-11782618272489.html",
+          "pubDate": "2026-06-28T09:31:43+05:30"
+        },
+        {
+          "title": "India-US trade deal to US-Iran war: Top five triggers that may dictate the Indian stock market this week",
+          "link": "https://www.livemint.com/market/stock-market-news/indiaus-trade-deal-to-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11782612572745.html",
+          "pubDate": "2026-06-28T08:15:50+05:30"
+        },
         {
           "title": "Turtlemint Fintech IPO GMP signals discounted market debut on 29 June; check subscription and other details",
           "link": "https://www.livemint.com/market/ipo/turtlemint-fintech-ipo-gmp-signals-discounted-market-debut-on-29-june-check-subscription-and-other-details-11782549685614.html",
@@ -625,41 +538,6 @@
           "title": "Bitcoin at $59,900 amid inflation concerns, here's what experts think lies ahead",
           "link": "https://www.livemint.com/market/cryptocurrency/bitcoin-price-today-26-june-59934-us-inflation-concerns-market-cap-investors-fear-experts-sensible-position-ethereum-xrp-11782455465779.html",
           "pubDate": "2026-06-26T12:33:06+05:30"
-        },
-        {
-          "title": "Bitcoin price tumbles below $60,000 to 20-month low as tech rout, rate fears rattle crypto market: What lies ahead?",
-          "link": "https://www.livemint.com/market/cryptocurrency/bitcoin-price-tumbles-below-60-000-to-20-month-low-as-tech-rout-rate-fears-rattle-crypto-market-what-lies-ahead-11782455418796.html",
-          "pubDate": "2026-06-26T12:26:00+05:30"
-        },
-        {
-          "title": "Upcoming IPO: Sathya Agencies, Kanohar Electricals, Torrent Gas get SEBI nod to launch IPOs",
-          "link": "https://www.livemint.com/market/ipo/upcoming-ipo-sathya-agencies-kanohar-electricals-torrent-gas-get-sebi-nod-to-launch-ipos-11782454490578.html",
-          "pubDate": "2026-06-26T12:12:57+05:30"
-        },
-        {
-          "title": "1600% returns in one year! Multibagger stock to watch on Monday after this development",
-          "link": "https://www.livemint.com/market/stock-market-news/1600-returns-in-one-year-magnus-steel-infra-multibagger-stock-to-watch-on-monday-after-this-development-11782455743260.html",
-          "pubDate": "2026-06-26T12:10:58+05:30"
-        },
-        {
-          "title": "OpenAI IPO: ChatGPT maker considers delaying public issue to 2027, stresses on $1 trillion valuation, says report",
-          "link": "https://www.livemint.com/market/ipo/openai-ipo-chatgpt-maker-considers-delaying-public-issue-to-2027-stresses-on-1-trillion-valuation-says-report-11782452242182.html",
-          "pubDate": "2026-06-26T11:16:44+05:30"
-        },
-        {
-          "title": "Turtlemint Fintech IPO listing date on 29 June: Here’s what GMP hints ahead of debut",
-          "link": "https://www.livemint.com/market/ipo/turtlemint-fintech-ipo-gmp-turtlemint-ipo-gmp-turtlemint-fintech-ipo-listing-date-turtlemint-ipo-listing-turtlemint-11782450523817.html",
-          "pubDate": "2026-06-26T11:14:26+05:30"
-        },
-        {
-          "title": "Is ITC stock nearing the end of a 21-month correction? Bajaj Broking sees a 14% rally in 6 months",
-          "link": "https://www.livemint.com/market/stock-market-news/is-itc-stock-nearing-the-end-of-a-21-month-correction-bajaj-broking-sees-a-14-rally-in-6-months-11782451882927.html",
-          "pubDate": "2026-06-26T11:11:42+05:30"
-        },
-        {
-          "title": "‘Gold is about to rise for a long time,’ predicts Rich Dad Poor Dad author Robert Kiyosaki",
-          "link": "https://www.livemint.com/market/commodities/gold-is-about-to-rise-for-a-long-time-predicts-rich-dad-poor-dad-author-robert-kiyosaki-11782446993181.html",
-          "pubDate": "2026-06-26T10:16:48+05:30"
         }
       ]
     },
@@ -670,7 +548,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-06-28T00:16:20.675194+00:00",
+      "updated_at": "2026-06-28T10:16:33.788095+00:00",
       "items": [
         {
           "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",

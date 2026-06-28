@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T10:16:33.788117+00:00",
+  "generated_at": "2026-06-28T15:07:11.140979+00:00",
   "indices": {
     "nifty50": {
       "price": 24056.0,
@@ -7,7 +7,7 @@
       "pct": 0.143,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-06-28T10:16:32.089422+00:00"
+      "updated_at": "2026-06-28T15:07:09.293884+00:00"
     },
     "sensex": {
       "price": 77100.47,
@@ -15,7 +15,7 @@
       "pct": 0.1419,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-06-28T10:16:32.127201+00:00"
+      "updated_at": "2026-06-28T15:07:09.341122+00:00"
     },
     "banknifty": {
       "price": 58177.05,
@@ -23,7 +23,7 @@
       "pct": 0.0459,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-06-28T10:16:32.163709+00:00"
+      "updated_at": "2026-06-28T15:07:09.388904+00:00"
     },
     "vix": {
       "price": 13.05,
@@ -31,12 +31,12 @@
       "pct": -2.5028,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-06-28T10:16:32.200189+00:00"
+      "updated_at": "2026-06-28T15:07:09.433694+00:00"
     },
     "usdinr": {
-      "price": 94.3,
-      "change": -0.085,
-      "pct": -0.0901,
+      "price": 94.385,
+      "change": 0.0,
+      "pct": 0.0,
       "closes": [
         94.38500213623047,
         94.38500213623047,
@@ -59,7 +59,7 @@
         94.30000305175781
       ],
       "ok": true,
-      "updated_at": "2026-06-28T10:16:32.260837+00:00"
+      "updated_at": "2026-06-28T15:07:09.491308+00:00"
     },
     "gold": {
       "price": 4096.3,
@@ -67,7 +67,7 @@
       "pct": 1.2032,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-06-28T10:16:32.304129+00:00"
+      "updated_at": "2026-06-28T15:07:09.537067+00:00"
     },
     "crude": {
       "price": 69.23,
@@ -75,7 +75,7 @@
       "pct": -3.7403,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-06-28T10:16:32.350686+00:00"
+      "updated_at": "2026-06-28T15:07:09.583928+00:00"
     },
     "us10y": {
       "price": 4.372,
@@ -144,18 +144,23 @@
         4.372000217437744
       ],
       "ok": true,
-      "updated_at": "2026-06-28T10:16:32.434308+00:00"
+      "updated_at": "2026-06-28T15:07:09.639319+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-06-28T10:16:32.469162+00:00",
+      "updated_at": "2026-06-28T15:07:09.718920+00:00",
       "items": [
         {
           "title": "11 penny stocks plunge up to 55% in a month. Should investors worry?",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/11-penny-stocks-plunge-up-to-55-in-a-month-should-investors-worry/rough-ride/slideshow/132046234.cms",
           "pubDate": "2026-06-28T11:24:39+05:30"
+        },
+        {
+          "title": "AMFI reshuffle: Hindustan Copper among 6 smallcap stocks that may get upgraded to midcap",
+          "link": "https://economictimes.indiatimes.com/mf/analysis/amfi-reshuffle-hindustan-copper-among-6-smallcap-stocks-that-may-get-upgraded-to-midcap/stock-re-categorization/slideshow/132045877.cms",
+          "pubDate": "2026-06-28T10:41:49+05:30"
         },
         {
           "title": "NFO Watch: 5 mutual funds and 2 SIFs open for subscription this week. Check details",
@@ -171,11 +176,6 @@
           "title": "Passive investing explosion: DSP’s Anil Ghelani predicts ETFs, index funds will command 30% of mutual fund industry",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/passive-investing-explosion-dsps-anil-ghelani-predicts-etfs-index-funds-will-command-30-of-mutual-fund-industry/articleshow/132045639.cms",
           "pubDate": "2026-06-28T10:25:07+05:30"
-        },
-        {
-          "title": "Q1 updates, F&amp;O expiry among 8 factors set to steer D-Street this week",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-extend-gains-or-turn-volatile-q1-updates-fo-expiry-among-8-factors-set-to-steer-stock-market-this-week/articleshow/132045460.cms",
-          "pubDate": "2026-06-28T09:58:55+05:30"
         },
         {
           "title": "IPO-bound NSE set to be the change in exchange game",
@@ -305,7 +305,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-06-28T10:16:32.578469+00:00",
       "items": [
         {
@@ -387,8 +387,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-06-28T10:16:32.919590+00:00",
+      "updated_at": "2026-06-28T15:07:10.245106+00:00",
       "items": [
+        {
+          "title": "Aditya Infotech: investors need to focus on far range clarity as valuation looks stretched for now",
+          "link": "https://www.livemint.com/market/mark-to-market/aditya-infotech-stock-analysis-ipo-stock-valuation-growth-outlook-11782641401757.html",
+          "pubDate": "2026-06-28T17:04:06+05:30"
+        },
         {
           "title": "Expert view: How rising global bond yields impact the Indian stock market?",
           "link": "https://www.livemint.com/market/stock-market-news/expert-view-how-rising-in-global-bond-yields-impact-indian-stock-market-11782636070309.html",
@@ -533,11 +538,6 @@
           "title": "Tata Motors PV is on a clear road. JLR remains the speed bump.",
           "link": "https://www.livemint.com/market/mark-to-market/tata-motors-pv-growth-roadmap-jlr-recovery-investor-outlook-11782454114087.html",
           "pubDate": "2026-06-26T13:00:37+05:30"
-        },
-        {
-          "title": "Bitcoin at $59,900 amid inflation concerns, here's what experts think lies ahead",
-          "link": "https://www.livemint.com/market/cryptocurrency/bitcoin-price-today-26-june-59934-us-inflation-concerns-market-cap-investors-fear-experts-sensible-position-ethereum-xrp-11782455465779.html",
-          "pubDate": "2026-06-26T12:33:06+05:30"
         }
       ]
     },
@@ -548,7 +548,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-06-28T10:16:33.788095+00:00",
+      "updated_at": "2026-06-28T15:07:11.140964+00:00",
       "items": [
         {
           "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",

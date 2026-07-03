@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T15:44:58.575275+00:00",
+  "generated_at": "2026-07-03T20:20:34.987766+00:00",
   "indices": {
     "nifty50": {
       "price": 24270.85,
@@ -68,7 +68,7 @@
         24270.849609375
       ],
       "ok": true,
-      "updated_at": "2026-07-03T15:44:56.279780+00:00"
+      "updated_at": "2026-07-03T20:20:33.194317+00:00"
     },
     "sensex": {
       "price": 77763.91,
@@ -137,7 +137,7 @@
         77763.90625
       ],
       "ok": true,
-      "updated_at": "2026-07-03T15:44:56.328048+00:00"
+      "updated_at": "2026-07-03T20:20:33.244745+00:00"
     },
     "banknifty": {
       "price": 57938.5,
@@ -206,7 +206,7 @@
         57938.5
       ],
       "ok": true,
-      "updated_at": "2026-07-03T15:44:56.417963+00:00"
+      "updated_at": "2026-07-03T20:20:33.295485+00:00"
     },
     "vix": {
       "price": 11.7975,
@@ -275,16 +275,13 @@
         11.797499656677246
       ],
       "ok": true,
-      "updated_at": "2026-07-03T15:44:56.475910+00:00"
+      "updated_at": "2026-07-03T20:20:33.343363+00:00"
     },
     "usdinr": {
       "price": 95.2,
       "change": -0.182,
       "pct": -0.1908,
       "closes": [
-        95.2750015258789,
-        95.28250122070312,
-        95.27999877929688,
         95.26499938964844,
         95.25,
         95.24749755859375,
@@ -341,15 +338,18 @@
         95.21749877929688,
         95.19999694824219,
         95.19999694824219,
+        95.19999694824219,
+        95.19999694824219,
+        95.19999694824219,
         95.19999694824219
       ],
       "ok": true,
-      "updated_at": "2026-07-03T15:44:56.582581+00:00"
+      "updated_at": "2026-07-03T20:20:33.397763+00:00"
     },
     "gold": {
-      "price": 4179.0,
-      "change": 53.3,
-      "pct": 1.2919,
+      "price": 4187.3,
+      "change": 61.6,
+      "pct": 1.4931,
       "closes": [
         4137.7001953125,
         4139.2998046875,
@@ -413,12 +413,12 @@
         4188.5
       ],
       "ok": true,
-      "updated_at": "2026-07-03T15:44:56.645828+00:00"
+      "updated_at": "2026-07-03T20:20:33.500356+00:00"
     },
     "crude": {
-      "price": 68.59,
-      "change": -0.1,
-      "pct": -0.1456,
+      "price": 68.78,
+      "change": 0.09,
+      "pct": 0.131,
       "closes": [
         68.44999694824219,
         68.44000244140625,
@@ -482,7 +482,7 @@
         69.01000213623047
       ],
       "ok": true,
-      "updated_at": "2026-07-03T15:44:56.706987+00:00"
+      "updated_at": "2026-07-03T20:20:33.605992+00:00"
     },
     "us10y": {
       "price": 4.485,
@@ -551,14 +551,19 @@
         4.484999656677246
       ],
       "ok": true,
-      "updated_at": "2026-07-03T15:44:56.763528+00:00"
+      "updated_at": "2026-07-03T20:20:33.662887+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-03T15:44:56.897486+00:00",
+      "updated_at": "2026-07-03T20:20:33.748030+00:00",
       "items": [
+        {
+          "title": "LME approves Adani's major copper smelter in India as listed brand",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/lme-approves-adanis-major-copper-smelter-in-india-as-listed-brand/articleshow/132166327.cms",
+          "pubDate": "2026-07-03T21:58:13+05:30"
+        },
         {
           "title": "Dabur Q1 updates: Co expects double-digit revenue growth as rural demand stays ahead of urban",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/dabur-india-posts-strong-quarterly-outlook-as-price-hikes-cushion-inflation-hit/articleshow/132163007.cms",
@@ -583,11 +588,6 @@
           "title": "Holiday Halt: S&amp;P 500, Nasdaq to remain closed today for Independence Day holiday",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/holiday-halt-sp-500-nasdaq-to-remain-closed-today-for-independence-day-holiday/articleshow/132152818.cms",
           "pubDate": "2026-07-03T10:22:30+05:30"
-        },
-        {
-          "title": "Sensex jumps 262 points, Nifty closes above 24,270. 7 key factors behind today's D-Street gains",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-surges-600-points-nifty-above-24350-key-factors/articleshow/132152040.cms",
-          "pubDate": "2026-07-03T09:29:21+05:30"
         },
         {
           "title": "Mysterious parasite outbreak in US sickens 300 people: Check symptoms, treatment and precautions you sould take",
@@ -712,7 +712,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-07-03T15:44:57.368024+00:00",
       "items": [
         {
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-03T15:44:57.512924+00:00",
+      "updated_at": "2026-07-03T20:20:33.864868+00:00",
       "items": [
+        {
+          "title": "Senco Gold Q1 update: Revenue jumps 60% on festive demand; SSSG at 38%, 8 new showrooms opened",
+          "link": "https://www.livemint.com/market/stock-market-news/senco-gold-q1-update-revenue-jumps-60-on-festive-demand-sssg-at-38-8-new-showrooms-opened-11783098521414.html",
+          "pubDate": "2026-07-03T22:55:53+05:30"
+        },
+        {
+          "title": "KPIT Tech shares plunge 25% in five days to nearly four-year low after weak revenue outlook. Is the worst over?",
+          "link": "https://www.livemint.com/market/stock-market-news/kpit-tech-shares-plunge-25-in-five-days-to-nearly-four-year-low-after-weak-revenue-outlook-is-the-worst-over-11783091888730.html",
+          "pubDate": "2026-07-03T22:15:28+05:30"
+        },
         {
           "title": "Gold, silver prices today: Comex gold and silver extend rally as weak US jobs data cools Fed rate hike fears",
           "link": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-extend-rally-as-weak-us-jobs-data-cools-fed-rate-hike-fears-11783007280731.html",
@@ -935,16 +945,6 @@
           "title": "Kusumgar IPO: Price band set at  ₹398-419 per share; check key dates, issue details",
           "link": "https://www.livemint.com/market/ipo/kusumgar-ipo-price-band-set-at-rs-398-419-per-share-check-key-dates-issue-details-11783055749506.html",
           "pubDate": "2026-07-03T10:57:51+05:30"
-        },
-        {
-          "title": "Crazy Snacks IPO Listing: Shares rally 10% after debuting at 5% premium from issue price despite muted GMP",
-          "link": "https://www.livemint.com/market/stock-market-news/crazy-snacks-ipo-listing-shares-rally-10-after-debuting-at-5-premium-from-issue-price-despite-muted-gmp-11783054326170.html",
-          "pubDate": "2026-07-03T10:29:32+05:30"
-        },
-        {
-          "title": "PC Jeweller share price jumps over 6% after company's claim to become debt-free in the current quarter",
-          "link": "https://www.livemint.com/market/stock-market-news/pc-jeweller-share-price-jumps-over-6-after-companys-claim-to-become-debt-free-in-the-current-quarter-11783054135924.html",
-          "pubDate": "2026-07-03T10:23:02+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-03T15:44:58.575258+00:00",
+      "updated_at": "2026-07-03T20:20:34.987750+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

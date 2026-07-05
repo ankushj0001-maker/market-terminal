@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T21:42:17.947881+00:00",
+  "generated_at": "2026-07-05T08:30:48.605609+00:00",
   "indices": {
     "nifty50": {
       "price": 24270.85,
@@ -68,7 +68,7 @@
         24270.849609375
       ],
       "ok": true,
-      "updated_at": "2026-07-04T21:42:16.453143+00:00"
+      "updated_at": "2026-07-05T08:30:45.039060+00:00"
     },
     "sensex": {
       "price": 77763.91,
@@ -137,7 +137,7 @@
         77763.90625
       ],
       "ok": true,
-      "updated_at": "2026-07-04T21:42:16.494003+00:00"
+      "updated_at": "2026-07-05T08:30:45.198065+00:00"
     },
     "banknifty": {
       "price": 57938.5,
@@ -206,7 +206,7 @@
         57938.5
       ],
       "ok": true,
-      "updated_at": "2026-07-04T21:42:16.542053+00:00"
+      "updated_at": "2026-07-05T08:30:45.359847+00:00"
     },
     "vix": {
       "price": 11.7975,
@@ -275,7 +275,7 @@
         11.797499656677246
       ],
       "ok": true,
-      "updated_at": "2026-07-04T21:42:16.588613+00:00"
+      "updated_at": "2026-07-05T08:30:45.543496+00:00"
     },
     "usdinr": {
       "price": 95.2,
@@ -344,145 +344,23 @@
         95.19999694824219
       ],
       "ok": true,
-      "updated_at": "2026-07-04T21:42:16.636022+00:00"
+      "updated_at": "2026-07-05T08:30:45.727672+00:00"
     },
     "gold": {
       "price": 4187.3,
       "change": 61.6,
       "pct": 1.4931,
-      "closes": [
-        4139.2998046875,
-        4138.2001953125,
-        4137.7998046875,
-        4139.7001953125,
-        4142.2998046875,
-        4138.7998046875,
-        4135.7001953125,
-        4137.60009765625,
-        4143.0,
-        4141.39990234375,
-        4139.2001953125,
-        4144.60009765625,
-        4141.60009765625,
-        4147.5,
-        4148.60009765625,
-        4151.5,
-        4150.39990234375,
-        4147.5,
-        4150.2998046875,
-        4149.5,
-        4153.89990234375,
-        4159.7998046875,
-        4160.0,
-        4174.5,
-        4185.2001953125,
-        4188.7001953125,
-        4190.60009765625,
-        4204.2001953125,
-        4199.7998046875,
-        4205.2001953125,
-        4196.89990234375,
-        4192.2001953125,
-        4193.39990234375,
-        4192.2998046875,
-        4194.89990234375,
-        4192.10009765625,
-        4192.10009765625,
-        4192.60009765625,
-        4189.39990234375,
-        4191.39990234375,
-        4191.89990234375,
-        4193.39990234375,
-        4199.0,
-        4196.5,
-        4193.2001953125,
-        4196.7001953125,
-        4196.7998046875,
-        4195.10009765625,
-        4194.39990234375,
-        4195.7001953125,
-        4195.0,
-        4193.2998046875,
-        4194.5,
-        4194.7998046875,
-        4193.39990234375,
-        4190.60009765625,
-        4189.5,
-        4189.5,
-        4188.5,
-        4187.2998046875
-      ],
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-07-04T21:42:16.691974+00:00"
+      "updated_at": "2026-07-05T08:30:45.879697+00:00"
     },
     "crude": {
       "price": 68.78,
       "change": 0.09,
       "pct": 0.131,
-      "closes": [
-        68.44000244140625,
-        68.4800033569336,
-        68.41999816894531,
-        68.41999816894531,
-        68.45999908447266,
-        68.45999908447266,
-        68.47000122070312,
-        68.47000122070312,
-        68.45999908447266,
-        68.44999694824219,
-        68.4000015258789,
-        68.33999633789062,
-        68.37000274658203,
-        68.4000015258789,
-        68.43000030517578,
-        68.41999816894531,
-        68.38999938964844,
-        68.37999725341797,
-        68.41999816894531,
-        68.41000366210938,
-        68.41000366210938,
-        68.44999694824219,
-        68.44000244140625,
-        68.54000091552734,
-        68.45999908447266,
-        68.4000015258789,
-        68.37000274658203,
-        68.44000244140625,
-        68.54000091552734,
-        68.5999984741211,
-        68.68000030517578,
-        68.80000305175781,
-        68.8499984741211,
-        68.77999877929688,
-        68.9000015258789,
-        68.95999908447266,
-        68.94000244140625,
-        68.94999694824219,
-        68.88999938964844,
-        68.94999694824219,
-        68.94999694824219,
-        69.01000213623047,
-        68.9800033569336,
-        69.06999969482422,
-        69.02999877929688,
-        68.94000244140625,
-        68.88999938964844,
-        68.9800033569336,
-        69.04000091552734,
-        69.05999755859375,
-        69.06999969482422,
-        69.11000061035156,
-        69.08999633789062,
-        69.0199966430664,
-        69.05999755859375,
-        69.0,
-        68.9800033569336,
-        69.0,
-        69.01000213623047,
-        68.77999877929688
-      ],
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-07-04T21:42:16.748104+00:00"
+      "updated_at": "2026-07-05T08:30:46.033014+00:00"
     },
     "us10y": {
       "price": 4.485,
@@ -551,14 +429,34 @@
         4.484999656677246
       ],
       "ok": true,
-      "updated_at": "2026-07-04T21:42:16.798168+00:00"
+      "updated_at": "2026-07-05T08:30:46.191560+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-04T21:42:16.838759+00:00",
+      "updated_at": "2026-07-05T08:30:46.446641+00:00",
       "items": [
+        {
+          "title": "M-cap of 6 of top-10 most valued firms surges Rs 1 lakh cr; Airtel, Bajaj Fin top winners",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/m-cap-of-6-of-top-10-most-valued-firms-surges-rs-1-lakh-cr-airtel-bajaj-fin-top-winners/articleshow/132192191.cms",
+          "pubDate": "2026-07-05T12:36:42+05:30"
+        },
+        {
+          "title": "11 largecap stocks with upside potential of up to 50%. Do you own any?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/11-largecap-stocks-with-upside-potential-of-up-to-50-do-you-own-any/slideshow/132191645.cms",
+          "pubDate": "2026-07-05T11:37:55+05:30"
+        },
+        {
+          "title": "Equity mutual funds delivered up to 8% return last week; international funds led. Check top 10 performers",
+          "link": "https://economictimes.indiatimes.com/mf/analysis/equity-mutual-funds-delivered-up-to-8-return-last-week-international-funds-led-check-top-10-performers/slideshow/132191596.cms",
+          "pubDate": "2026-07-05T11:30:33+05:30"
+        },
+        {
+          "title": "Investors looking for shelter from AI storm are turning to India",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/investors-looking-for-shelter-from-ai-storm-are-turning-to-india/articleshow/132190604.cms",
+          "pubDate": "2026-07-05T09:40:45+05:30"
+        },
         {
           "title": "F&amp;O Talk: Smallcap index better placed than Nifty, says Sudeep Shah; picks 9 stocks for next week",
           "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-smallcap-index-better-placed-than-nifty-says-sudeep-shah-picks-9-stocks-for-next-week/articleshow/132178739.cms",
@@ -568,26 +466,6 @@
           "title": "7 books for stock market investors recommended by Raamdeo Agrawal",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/7-books-for-stock-market-investors-recommended-by-raamdeo-agrawal/articleshow/132178504.cms",
           "pubDate": "2026-07-04T14:56:16+05:30"
-        },
-        {
-          "title": "Retail investors bet on these 10 small-cap stocks; they rally up to 185% in 3 months",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-bet-on-these-10-small-cap-stocks-they-rally-up-to-185-in-3-months/slideshow/132178345.cms",
-          "pubDate": "2026-07-04T14:35:03+05:30"
-        },
-        {
-          "title": "Markets may consolidate; micro, small and mid-caps could lead alpha generation, says Quant Mutual Fund",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/markets-may-consolidate-micro-small-and-mid-caps-could-lead-alpha-generation-says-quant-mutual-fund/articleshow/132177947.cms",
-          "pubDate": "2026-07-04T14:22:13+05:30"
-        },
-        {
-          "title": "11 equity mutual funds deliver over 25% in 3 months. Do you own any?",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/11-equity-mutual-funds-deliver-over-25-in-3-months-do-you-own-any/slideshow/132177862.cms",
-          "pubDate": "2026-07-04T14:07:44+05:30"
-        },
-        {
-          "title": "Bitcoin trades near $62,000; inflation, geopolitical risks remain key market drivers",
-          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-62000-inflation-geopolitical-risks-remain-key-market-drivers/articleshow/132177558.cms",
-          "pubDate": "2026-07-04T13:41:28+05:30"
         },
         {
           "title": "Neil Seal smashes cars, blocks roads in Tasmania and has 1.4 million fans. Now Australia is asking people to respect his privacy",
@@ -712,8 +590,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-07-04T18:15:33.777521+00:00",
+      "ok": true,
+      "updated_at": "2026-07-05T08:30:47.324777+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +672,38 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-04T21:42:17.058717+00:00",
+      "updated_at": "2026-07-05T08:30:47.518595+00:00",
       "items": [
+        {
+          "title": "Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid US-Iran war?",
+          "link": "https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-next-week-amid-us-iran-war-11783229126945.html",
+          "pubDate": "2026-07-05T11:15:50+05:30"
+        },
+        {
+          "title": "Stocks to buy under  ₹100: Sumeet Bagadia recommends three stocks to buy on Monday - 6 July 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-6-july-2026-11783223337985.html",
+          "pubDate": "2026-07-05T10:43:11+05:30"
+        },
+        {
+          "title": "Buy or sell: Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday - 6 July 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-three-stocks-to-buy-on-monday-6-july-2026-11783178957866.html",
+          "pubDate": "2026-07-05T09:50:42+05:30"
+        },
+        {
+          "title": "Q3 results to US-Iran war: Top five triggers that may dictate the Indian stock market this week",
+          "link": "https://www.livemint.com/market/stock-market-news/q3-results-to-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11783166393809.html",
+          "pubDate": "2026-07-05T09:15:26+05:30"
+        },
+        {
+          "title": "Axis Bank Q1 Update: Gross advances, deposits grow 18% YoY; CASA up 11%",
+          "link": "https://www.livemint.com/market/stock-market-news/axis-bank-q1-update-gross-advances-deposits-grow-18-yoy-casa-up-11-11783218668306.html",
+          "pubDate": "2026-07-05T08:06:05+05:30"
+        },
+        {
+          "title": "Laser Power &amp; Infra IPO to open on July 9; cuts issue size to  ₹742 crore",
+          "link": "https://www.livemint.com/market/ipo/laser-power-infra-ipo-to-open-on-july-9-cuts-issue-size-to-rs-742-crore-11783216389368.html",
+          "pubDate": "2026-07-05T07:32:39+05:30"
+        },
         {
           "title": "This small-cap stock has doubled investor wealth in just 3 months; check details",
           "link": "https://www.livemint.com/market/this-multibagger-small-cap-stock-bluspring-enterprises-share-has-doubled-investor-wealth-in-just-3-months-check-details-11783159836339.html",
@@ -915,36 +823,6 @@
           "title": "Market outlook: Monsoon, crude oil prices to earnings - Five key macro triggers for Dalal Street in H2CY26",
           "link": "https://www.livemint.com/market/market-outlook-monsoon-crude-oil-prices-to-earnings-five-key-macro-triggers-for-dalal-street-in-h2cy26-11783068083080.html",
           "pubDate": "2026-07-03T14:44:41+05:30"
-        },
-        {
-          "title": "Sampark India Logistics IPO allotment date likely today; GMP, steps to check share allotment status of SME IPO",
-          "link": "https://www.livemint.com/market/ipo/sampark-india-logistics-ipo-allotment-date-likely-today-gmp-steps-to-check-share-allotment-status-of-sme-ipo-11783068723207.html",
-          "pubDate": "2026-07-03T14:29:01+05:30"
-        },
-        {
-          "title": "Market strategy: How should investors rebalance portfolios for H2CY26? Analysts favour banks, auto, metals, healthcare",
-          "link": "https://www.livemint.com/market/stock-market-news/market-strategy-how-should-investors-rebalance-portfolios-for-h2cy26-analysts-favour-banks-auto-metals-healthcare-11783066012459.html",
-          "pubDate": "2026-07-03T13:47:54+05:30"
-        },
-        {
-          "title": "Multibagger stock: Indiabulls share price zooms 5% to its 52-week high following stock market rally",
-          "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-indiabulls-share-price-zooms-5-to-its-52-week-high-following-indian-stock-market-rally-11783064271642.html",
-          "pubDate": "2026-07-03T13:27:45+05:30"
-        },
-        {
-          "title": "Can US Fed hike rates aggressively this year? How a 50 bps rate increase could impact Indian stock market",
-          "link": "https://www.livemint.com/market/stock-market-news/can-us-fed-hike-rates-aggressively-this-year-how-a-50-bps-rate-increase-could-impact-indian-stock-market-11783062432794.html",
-          "pubDate": "2026-07-03T13:13:41+05:30"
-        },
-        {
-          "title": "Waterways Leisure Tourism shares hit 10% upper circuit for second straight day. Newly listed stock nears its issue price",
-          "link": "https://www.livemint.com/market/stock-market-news/waterways-leisure-tourism-shares-hit-10-upper-circuit-for-second-straight-day-newly-listed-stock-nears-its-issue-price-11783061698016.html",
-          "pubDate": "2026-07-03T13:01:11+05:30"
-        },
-        {
-          "title": "Small-cap stock under  ₹50: Sindhu Trade Links up over 8%. Do you own?",
-          "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-sindhu-trade-links-up-over-8-do-you-own-11783062033447.html",
-          "pubDate": "2026-07-03T12:36:12+05:30"
         }
       ]
     },
@@ -955,7 +833,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-04T21:42:17.947867+00:00",
+      "updated_at": "2026-07-05T08:30:48.605593+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

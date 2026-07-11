@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T10:40:47.231367+00:00",
+  "generated_at": "2026-07-11T14:36:05.876219+00:00",
   "indices": {
     "nifty50": {
       "price": 24206.9,
@@ -68,7 +68,7 @@
         24206.900390625
       ],
       "ok": true,
-      "updated_at": "2026-07-11T10:40:44.049274+00:00"
+      "updated_at": "2026-07-11T14:36:04.028048+00:00"
     },
     "sensex": {
       "price": 77569.39,
@@ -137,7 +137,7 @@
         77569.390625
       ],
       "ok": true,
-      "updated_at": "2026-07-11T10:40:44.184972+00:00"
+      "updated_at": "2026-07-11T14:36:04.074417+00:00"
     },
     "banknifty": {
       "price": 58045.9,
@@ -206,7 +206,7 @@
         58045.8984375
       ],
       "ok": true,
-      "updated_at": "2026-07-11T10:40:44.344455+00:00"
+      "updated_at": "2026-07-11T14:36:04.121666+00:00"
     },
     "vix": {
       "price": 12.252,
@@ -275,7 +275,7 @@
         12.2524995803833
       ],
       "ok": true,
-      "updated_at": "2026-07-11T10:40:44.478125+00:00"
+      "updated_at": "2026-07-11T14:36:04.210234+00:00"
     },
     "usdinr": {
       "price": 95.37,
@@ -344,12 +344,12 @@
         95.37000274658203
       ],
       "ok": true,
-      "updated_at": "2026-07-11T10:40:44.709505+00:00"
+      "updated_at": "2026-07-11T14:36:04.261105+00:00"
     },
     "gold": {
-      "price": 4128.9,
-      "change": 15.2,
-      "pct": 0.3695,
+      "price": 4113.7,
+      "change": -27.1,
+      "pct": -0.6545,
       "closes": [
         4120.39990234375,
         4120.60009765625,
@@ -410,15 +410,15 @@
         4120.2998046875,
         4122.0,
         4127.39990234375,
-        4128.89990234375
+        4113.7001953125
       ],
       "ok": true,
-      "updated_at": "2026-07-11T10:40:44.901137+00:00"
+      "updated_at": "2026-07-11T14:36:04.326324+00:00"
     },
     "crude": {
-      "price": 71.51,
-      "change": 0.1,
-      "pct": 0.14,
+      "price": 71.41,
+      "change": -0.67,
+      "pct": -0.9295,
       "closes": [
         71.2699966430664,
         71.23999786376953,
@@ -479,10 +479,10 @@
         71.51000213623047,
         71.54000091552734,
         71.48999786376953,
-        71.51000213623047
+        71.41000366210938
       ],
       "ok": true,
-      "updated_at": "2026-07-11T10:40:45.070602+00:00"
+      "updated_at": "2026-07-11T14:36:04.383023+00:00"
     },
     "us10y": {
       "price": 4.569,
@@ -551,14 +551,29 @@
         4.568999767303467
       ],
       "ok": true,
-      "updated_at": "2026-07-11T10:40:45.281744+00:00"
+      "updated_at": "2026-07-11T14:36:04.429064+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-11T10:40:45.516249+00:00",
+      "updated_at": "2026-07-11T14:36:04.602186+00:00",
       "items": [
+        {
+          "title": "SIF AUM jumps 29% to Rs 17,858 crore in June; inflows surge 171% MoM",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sif-aum-jumps-29-to-rs-17858-crore-in-june-inflows-surge-171-mom/articleshow/132329280.cms",
+          "pubDate": "2026-07-11T16:38:47+05:30"
+        },
+        {
+          "title": "DMart Q1 results: Cons PAT up 11% to Rs 860 crore, revenue rises to Rs 18,795 crore",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dmart-q1-results-cons-pat-up-11-to-rs-860-crore-revenue-rises-to-rs-18795-crore/articleshow/132324295.cms",
+          "pubDate": "2026-07-11T16:17:15+05:30"
+        },
+        {
+          "title": "Nearly 60% of foreign inflows into India-focused funds withdrawn since 2024 peak: Report",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nearly-60-of-foreign-inflows-into-india-focused-funds-withdrawn-since-2024-peak-report/articleshow/132328818.cms",
+          "pubDate": "2026-07-11T15:59:22+05:30"
+        },
         {
           "title": "George Goodman’s investing wisdom: Why sometimes the best move is to do nothing",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/george-goodmans-investing-wisdom-why-sometimes-the-best-move-is-to-do-nothing/articleshow/132327422.cms",
@@ -570,24 +585,9 @@
           "pubDate": "2026-07-11T12:16:22+05:30"
         },
         {
-          "title": "Unique Picks: 7 stocks held by a single MF scheme in June; rally up to 120% in 3 months",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/unique-picks-7-stocks-held-by-a-single-mf-scheme-in-june-rally-up-to-120-in-3-months/exclusive-mf-holdings/slideshow/132325855.cms",
-          "pubDate": "2026-07-11T11:57:03+05:30"
-        },
-        {
-          "title": "Could oil prices spike further? Inside the fragile US-Iran stance in the Gulf",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/could-oil-prices-spike-further-inside-the-fragile-us-iran-stance-in-the-gulf/articleshow/132325682.cms",
-          "pubDate": "2026-07-11T11:45:01+05:30"
-        },
-        {
           "title": "Midcap bets! InCred picks 6 stocks with up to 54% upside potential. See full list",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/midcap-bets-incred-picks-6-stocks-with-up-to-54-upside-potential-see-full-list/top-midcap-bets/slideshow/132325125.cms",
           "pubDate": "2026-07-11T10:49:55+05:30"
-        },
-        {
-          "title": "Concurrent Gainers: 10 stocks that gained for 5 days in a row",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-10-stocks-that-gained-for-5-days-in-a-row/against-the-tide/slideshow/132325025.cms",
-          "pubDate": "2026-07-11T10:40:50+05:30"
         },
         {
           "title": "China awards two village boys, one studied by lamplight to power a third of world's EVs, the other cracked english in two months to give fighter jets x-ray vision",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-07-11T10:40:45.909561+00:00",
+      "updated_at": "2026-07-11T14:36:04.762490+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,7 +794,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-11T10:40:46.060596+00:00",
+      "updated_at": "2026-07-11T14:36:04.892349+00:00",
       "items": [
         {
           "title": "Nomura sees 22% upside in Ather Energy. Here's why it's the brokerage's top EV pick",
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-11T10:40:47.231353+00:00",
+      "updated_at": "2026-07-11T14:36:05.876207+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

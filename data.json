@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T14:44:33.238730+00:00",
+  "generated_at": "2026-07-12T18:07:19.851335+00:00",
   "indices": {
     "nifty50": {
       "price": 24206.9,
@@ -68,11 +68,11 @@
         24206.900390625
       ],
       "ok": true,
-      "updated_at": "2026-07-12T14:44:31.360241+00:00"
+      "updated_at": "2026-07-12T18:07:17.931434+00:00"
     },
     "sensex": {
       "price": 77569.39,
-      "change": 827.57,
+      "change": 827.59,
       "pct": 1.0784,
       "closes": [
         77499.296875,
@@ -137,12 +137,12 @@
         77569.390625
       ],
       "ok": true,
-      "updated_at": "2026-07-12T14:44:31.415351+00:00"
+      "updated_at": "2026-07-12T18:07:17.982508+00:00"
     },
     "banknifty": {
       "price": 58045.9,
-      "change": 793.45,
-      "pct": 1.3859,
+      "change": 793.5,
+      "pct": 1.386,
       "closes": [
         57912.1015625,
         57933.3515625,
@@ -206,7 +206,7 @@
         58045.8984375
       ],
       "ok": true,
-      "updated_at": "2026-07-12T14:44:31.475513+00:00"
+      "updated_at": "2026-07-12T18:07:18.038400+00:00"
     },
     "vix": {
       "price": 12.2525,
@@ -275,7 +275,7 @@
         12.2524995803833
       ],
       "ok": true,
-      "updated_at": "2026-07-12T14:44:31.526891+00:00"
+      "updated_at": "2026-07-12T18:07:18.090200+00:00"
     },
     "usdinr": {
       "price": 95.37,
@@ -344,7 +344,7 @@
         95.37000274658203
       ],
       "ok": true,
-      "updated_at": "2026-07-12T14:44:31.607467+00:00"
+      "updated_at": "2026-07-12T18:07:18.170445+00:00"
     },
     "gold": {
       "price": 4113.7,
@@ -352,7 +352,7 @@
       "pct": -0.6545,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-07-12T14:44:31.658418+00:00"
+      "updated_at": "2026-07-12T18:07:18.215014+00:00"
     },
     "crude": {
       "price": 71.41,
@@ -360,7 +360,7 @@
       "pct": -0.9295,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-07-12T14:44:31.705530+00:00"
+      "updated_at": "2026-07-12T18:07:18.262063+00:00"
     },
     "us10y": {
       "price": 4.569,
@@ -429,13 +429,13 @@
         4.568999767303467
       ],
       "ok": true,
-      "updated_at": "2026-07-12T14:44:31.759770+00:00"
+      "updated_at": "2026-07-12T18:07:18.320471+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-12T14:44:31.852454+00:00",
+      "updated_at": "2026-07-12T18:07:18.361132+00:00",
       "items": [
         {
           "title": "Market trading guide: CDSL among 2 stock recommendations for Monday",
@@ -672,8 +672,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-12T14:44:32.260135+00:00",
+      "updated_at": "2026-07-12T18:07:18.832149+00:00",
       "items": [
+        {
+          "title": "Week Ahead: Wall Street braces for inflation data, big bank earnings and Middle East developments",
+          "link": "https://www.livemint.com/market/stock-market-news/week-ahead-wall-street-braces-for-inflation-data-big-bank-earnings-and-middle-east-developments-11783868386079.html",
+          "pubDate": "2026-07-12T22:17:57+05:30"
+        },
         {
           "title": "Mcap of 4 of top-10 most valued firms jumps  ₹92,995 cr; HDFC Bank, Airtel top gainers",
           "link": "https://www.livemint.com/market/stock-market-news/mcap-of-4-of-top-10-most-valued-firms-jumps-rs-92-995-cr-hdfc-bank-airtel-top-gainers-11783850935458.html",
@@ -818,11 +823,6 @@
           "title": "Kusumgar IPO: Issue booked 136 times on Day 03; NII, QIB portions see huge demand, GMP signals 39% premium",
           "link": "https://www.livemint.com/market/stock-market-news/kusumgar-ipo-issue-booked-136-times-on-day-03-nii-qib-portions-see-huge-demand-gmp-signals-39-premium-11783686436525.html",
           "pubDate": "2026-07-10T18:22:43+05:30"
-        },
-        {
-          "title": "US stock market today: S&amp;P 500, Nasdaq futures slip after tech-led rally; SK Hynix debut in focus",
-          "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-slip-after-tech-led-rally-sk-hynix-debut-in-focus-11783682416606.html",
-          "pubDate": "2026-07-10T18:11:43+05:30"
         }
       ]
     },
@@ -833,7 +833,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-12T14:44:33.238713+00:00",
+      "updated_at": "2026-07-12T18:07:19.851318+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

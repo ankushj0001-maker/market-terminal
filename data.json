@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T20:14:21.731646+00:00",
+  "generated_at": "2026-07-17T23:11:28.664095+00:00",
   "indices": {
     "nifty50": {
       "price": 24334.3,
@@ -68,7 +68,7 @@
         24334.30078125
       ],
       "ok": true,
-      "updated_at": "2026-07-17T20:14:19.600365+00:00"
+      "updated_at": "2026-07-17T23:11:27.576926+00:00"
     },
     "sensex": {
       "price": 78151.45,
@@ -137,7 +137,7 @@
         78151.453125
       ],
       "ok": true,
-      "updated_at": "2026-07-17T20:14:19.691127+00:00"
+      "updated_at": "2026-07-17T23:11:27.618075+00:00"
     },
     "banknifty": {
       "price": 58521.4,
@@ -206,7 +206,7 @@
         58521.3984375
       ],
       "ok": true,
-      "updated_at": "2026-07-17T20:14:19.728276+00:00"
+      "updated_at": "2026-07-17T23:11:27.688606+00:00"
     },
     "vix": {
       "price": 13.15,
@@ -275,14 +275,13 @@
         13.149999618530273
       ],
       "ok": true,
-      "updated_at": "2026-07-17T20:14:19.778530+00:00"
+      "updated_at": "2026-07-17T23:11:27.733814+00:00"
     },
     "usdinr": {
       "price": 96.27,
       "change": -0.065,
       "pct": -0.0675,
       "closes": [
-        96.35250091552734,
         96.36250305175781,
         96.3550033569336,
         96.36250305175781,
@@ -341,27 +340,17 @@
         96.2699966430664,
         96.2699966430664,
         96.2699966430664,
+        96.2699966430664,
         96.2699966430664
       ],
       "ok": true,
-      "updated_at": "2026-07-17T20:14:19.870773+00:00"
+      "updated_at": "2026-07-17T23:11:27.781284+00:00"
     },
     "gold": {
-      "price": 4018.7,
-      "change": 26.6,
-      "pct": 0.6663,
+      "price": 4023.0,
+      "change": 30.9,
+      "pct": 0.774,
       "closes": [
-        4009.699951171875,
-        4010.10009765625,
-        4012.89990234375,
-        4018.10009765625,
-        4015.300048828125,
-        4018.800048828125,
-        4020.199951171875,
-        4021.300048828125,
-        4025.300048828125,
-        4024.10009765625,
-        4021.89990234375,
         4022.5,
         4022.699951171875,
         4026.10009765625,
@@ -410,27 +399,27 @@
         4020.199951171875,
         4019.89990234375,
         4018.699951171875,
-        4018.699951171875
+        4017.89990234375,
+        4016.800048828125,
+        4013.89990234375,
+        4014.60009765625,
+        4015.39990234375,
+        4013.89990234375,
+        4015.199951171875,
+        4017.699951171875,
+        4020.300048828125,
+        4020.89990234375,
+        4023.0,
+        4023.0
       ],
       "ok": true,
-      "updated_at": "2026-07-17T20:14:19.964268+00:00"
+      "updated_at": "2026-07-17T23:11:27.834615+00:00"
     },
     "crude": {
-      "price": 81.43,
-      "change": 3.15,
-      "pct": 4.024,
+      "price": 81.77,
+      "change": 3.49,
+      "pct": 4.4584,
       "closes": [
-        79.97000122070312,
-        80.16000366210938,
-        80.44999694824219,
-        80.41999816894531,
-        80.69000244140625,
-        80.76000213623047,
-        80.70999908447266,
-        80.6500015258789,
-        80.7699966430664,
-        80.68000030517578,
-        81.19999694824219,
         81.38999938964844,
         81.31999969482422,
         81.30999755859375,
@@ -479,10 +468,21 @@
         81.41000366210938,
         81.44000244140625,
         81.5199966430664,
-        81.43000030517578
+        81.54000091552734,
+        81.51000213623047,
+        81.56999969482422,
+        81.69000244140625,
+        81.72000122070312,
+        81.69999694824219,
+        81.75,
+        81.86000061035156,
+        81.72000122070312,
+        81.70999908447266,
+        81.7699966430664,
+        81.7699966430664
       ],
       "ok": true,
-      "updated_at": "2026-07-17T20:14:20.042299+00:00"
+      "updated_at": "2026-07-17T23:11:27.890303+00:00"
     },
     "us10y": {
       "price": 4.541,
@@ -551,14 +551,19 @@
         4.540999889373779
       ],
       "ok": true,
-      "updated_at": "2026-07-17T20:14:20.157557+00:00"
+      "updated_at": "2026-07-17T23:11:27.930597+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-17T20:14:20.219220+00:00",
+      "updated_at": "2026-07-17T23:11:27.969593+00:00",
       "items": [
+        {
+          "title": "US stocks today: US stocks end lower for the day and week as chip selloff broadens",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-for-the-day-and-week-as-chip-selloff-broadens/articleshow/132469580.cms",
+          "pubDate": "2026-07-18T01:34:39+05:30"
+        },
         {
           "title": "Sebi introduces standing instructions for SWP, STP in mutual funds in demat holdings",
           "link": "https://economictimes.indiatimes.com/mf/mf-news/sebi-introduces-standing-instructions-for-swp-stp-in-mutual-funds-in-demat-holdings/articleshow/132461820.cms",
@@ -583,11 +588,6 @@
           "title": "Rs 9,000 crore bet! Reliance Industries promoters increase stake by 0.5% in June quarter",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-9000-crore-bet-reliance-industries-promoters-increase-stake-by-0-5-in-june-quarter/articleshow/132458644.cms",
           "pubDate": "2026-07-17T15:40:15+05:30"
-        },
-        {
-          "title": "HDFC Bank, Axis Bank, ICICI, Kotak shares rise up to 3% ahead of Q1 earnings; Nifty Bank gains 500 pts. What to expect?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-axis-bank-icici-kotak-shares-rise-up-to-3-ahead-of-q1-earnings-nifty-bank-gains-500-pts-what-to-expect/articleshow/132455002.cms",
-          "pubDate": "2026-07-17T12:35:34+05:30"
         },
         {
           "title": "What is SAVE America Act? Here's all about Trump's plan to overhaul voting in America",
@@ -794,7 +794,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-17T20:14:20.608639+00:00",
+      "updated_at": "2026-07-17T23:11:28.216006+00:00",
       "items": [
         {
           "title": "Netflix shares tumble 13% after weak sales forecast, hit 22-month low",
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-17T20:14:21.731632+00:00",
+      "updated_at": "2026-07-17T23:11:28.664080+00:00",
       "items": [
         {
           "title": "RBI to conduct 7-day Variable Rate Repo (VRR) auction under LAF on July 20, 2026",

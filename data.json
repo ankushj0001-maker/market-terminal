@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T20:27:15.699930+00:00",
+  "generated_at": "2026-07-20T02:29:56.452294+00:00",
   "indices": {
     "nifty50": {
       "price": 24334.3,
@@ -68,7 +68,7 @@
         24334.30078125
       ],
       "ok": true,
-      "updated_at": "2026-07-19T20:27:12.781626+00:00"
+      "updated_at": "2026-07-20T02:29:52.922496+00:00"
     },
     "sensex": {
       "price": 78151.45,
@@ -137,7 +137,7 @@
         78151.453125
       ],
       "ok": true,
-      "updated_at": "2026-07-19T20:27:12.981677+00:00"
+      "updated_at": "2026-07-20T02:29:53.119866+00:00"
     },
     "banknifty": {
       "price": 58521.4,
@@ -206,7 +206,7 @@
         58521.3984375
       ],
       "ok": true,
-      "updated_at": "2026-07-19T20:27:13.179537+00:00"
+      "updated_at": "2026-07-20T02:29:53.325358+00:00"
     },
     "vix": {
       "price": 13.15,
@@ -275,92 +275,138 @@
         13.149999618530273
       ],
       "ok": true,
-      "updated_at": "2026-07-19T20:27:13.396436+00:00"
+      "updated_at": "2026-07-20T02:29:53.523466+00:00"
     },
     "usdinr": {
       "price": 96.27,
-      "change": -0.065,
-      "pct": -0.0675,
+      "change": 0.0,
+      "pct": 0.0,
       "closes": [
-        96.36250305175781,
-        96.3550033569336,
-        96.36250305175781,
-        96.37750244140625,
-        96.36000061035156,
-        96.36000061035156,
-        96.36499786376953,
-        96.36250305175781,
-        96.36250305175781,
-        96.36000061035156,
-        96.36000061035156,
-        96.36000061035156,
-        96.3550033569336,
-        96.3499984741211,
-        96.3499984741211,
-        96.36499786376953,
-        96.36499786376953,
-        96.37000274658203,
-        96.375,
-        96.33799743652344,
-        96.37750244140625,
-        96.40249633789062,
-        96.35250091552734,
-        96.3479995727539,
-        96.33200073242188,
-        96.33499908447266,
-        96.3125,
-        96.32499694824219,
-        96.33999633789062,
-        96.34249877929688,
-        96.3550033569336,
-        96.3499984741211,
-        96.36000061035156,
-        96.36000061035156,
-        96.33000183105469,
-        96.33499908447266,
-        96.3375015258789,
-        96.33999633789062,
-        96.34500122070312,
-        96.30999755859375,
-        96.29000091552734,
-        96.3125,
-        96.27999877929688,
-        96.2925033569336,
-        96.27999877929688,
-        96.30750274658203,
-        96.30000305175781,
-        96.29750061035156,
-        96.2874984741211,
-        96.27249908447266,
-        96.2699966430664,
-        96.2699966430664,
-        96.2699966430664,
-        96.2699966430664,
-        96.2699966430664,
-        96.2699966430664,
-        96.2699966430664,
-        96.2699966430664,
         96.2699966430664,
         96.2699966430664
       ],
       "ok": true,
-      "updated_at": "2026-07-19T20:27:13.635743+00:00"
+      "updated_at": "2026-07-20T02:29:53.721510+00:00"
     },
     "gold": {
-      "price": 4018.8,
-      "change": 0.0,
-      "pct": 0.0,
-      "closes": [],
+      "price": 4009.3,
+      "change": -9.5,
+      "pct": -0.2364,
+      "closes": [
+        4000.300048828125,
+        4002.800048828125,
+        4001.89990234375,
+        3998.800048828125,
+        4001.60009765625,
+        4000.5,
+        4000.60009765625,
+        4001.0,
+        4000.800048828125,
+        3997.89990234375,
+        3998.89990234375,
+        3997.89990234375,
+        3994.5,
+        3995.0,
+        3997.300048828125,
+        3996.699951171875,
+        3997.699951171875,
+        3997.10009765625,
+        3996.0,
+        3995.5,
+        3996.89990234375,
+        3999.199951171875,
+        3991.0,
+        3992.699951171875,
+        4000.0,
+        4004.199951171875,
+        4006.300048828125,
+        4008.60009765625,
+        4006.800048828125,
+        4004.60009765625,
+        4002.89990234375,
+        4004.10009765625,
+        4006.199951171875,
+        4013.699951171875,
+        4018.199951171875,
+        4021.300048828125,
+        4014.300048828125,
+        4008.89990234375,
+        4005.60009765625,
+        4007.5,
+        4008.60009765625,
+        4006.300048828125,
+        4001.5,
+        4008.199951171875,
+        4002.89990234375,
+        4007.0,
+        4013.199951171875,
+        4012.10009765625,
+        4011.300048828125,
+        4009.300048828125,
+        4009.300048828125
+      ],
       "ok": true,
-      "updated_at": "2026-07-19T20:27:13.792117+00:00"
+      "updated_at": "2026-07-20T02:29:53.908488+00:00"
     },
     "crude": {
-      "price": 81.78,
-      "change": 0.0,
-      "pct": 0.0,
-      "closes": [],
+      "price": 83.78,
+      "change": 2.0,
+      "pct": 2.4456,
+      "closes": [
+        83.87000274658203,
+        84.11000061035156,
+        84.22000122070312,
+        84.58000183105469,
+        84.1500015258789,
+        84.29000091552734,
+        84.12999725341797,
+        84.05000305175781,
+        84.0999984741211,
+        84.02999877929688,
+        84.08000183105469,
+        84.0199966430664,
+        84.08000183105469,
+        84.0199966430664,
+        83.87000274658203,
+        83.94999694824219,
+        83.80000305175781,
+        83.9000015258789,
+        83.94000244140625,
+        83.95999908447266,
+        83.9000015258789,
+        83.83999633789062,
+        83.69000244140625,
+        83.66000366210938,
+        83.66000366210938,
+        83.7300033569336,
+        83.66999816894531,
+        83.69999694824219,
+        83.58000183105469,
+        83.76000213623047,
+        83.68000030517578,
+        83.70999908447266,
+        83.6500015258789,
+        83.56999969482422,
+        83.43000030517578,
+        83.41999816894531,
+        83.62999725341797,
+        83.54000091552734,
+        83.5,
+        83.58999633789062,
+        83.63999938964844,
+        83.69000244140625,
+        83.7699966430664,
+        83.7699966430664,
+        83.69000244140625,
+        83.69999694824219,
+        83.58999633789062,
+        83.77999877929688,
+        83.80000305175781,
+        83.77999877929688,
+        83.77999877929688
+      ],
       "ok": true,
-      "updated_at": "2026-07-19T20:27:13.971004+00:00"
+      "updated_at": "2026-07-20T02:29:54.110145+00:00"
     },
     "us10y": {
       "price": 4.541,
@@ -429,48 +475,48 @@
         4.540999889373779
       ],
       "ok": true,
-      "updated_at": "2026-07-19T20:27:14.135320+00:00"
+      "updated_at": "2026-07-20T02:29:54.375955+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-19T20:27:14.415561+00:00",
+      "updated_at": "2026-07-20T02:29:54.638544+00:00",
       "items": [
         {
-          "title": "Nifty weekly outlook: 24,500 holds the key to next leg of gains; focus on stock-specific bets",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-weekly-outlook-24500-holds-the-key-to-next-leg-of-gains-focus-on-stock-specific-bets/articleshow/132492041.cms",
-          "pubDate": "2026-07-19T14:34:10+05:30"
+          "title": "Oil Price Today (July 20): Crude oil jumps 3%, crosses $90 as US and Iran exchange attacks. $100 in sight?",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-20-crude-oil-jumps-3-crosses-90-as-us-and-iran-exchange-attacks-100-in-sight/articleshow/132504278.cms",
+          "pubDate": "2026-07-20T07:39:51+05:30"
+        },
+        {
+          "title": "Stock split alert! Last day to buy this smallcap stock that rallied 580% in 3 years. Do you own?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-split-alert-last-day-to-buy-this-smallcap-stock-that-rallied-580-in-3-years-do-you-own/articleshow/132504191.cms",
+          "pubDate": "2026-07-20T07:28:56+05:30"
+        },
+        {
+          "title": "Q1 earnings begin on a strong note as banks fuel double-digit growth",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/q1-earnings-begin-on-a-strong-note-as-banks-fuel-double-digit-growth/articleshow/132503813.cms",
+          "pubDate": "2026-07-20T06:20:56+05:30"
+        },
+        {
+          "title": "Nifty ready for 24,500-24,750 levels after breakout rally: Analysts",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-ready-for-24500-24750-levels-after-breakout-rally-analysts/articleshow/132503795.cms",
+          "pubDate": "2026-07-20T06:14:14+05:30"
+        },
+        {
+          "title": "Carnelian Capital plans PE foray with Rs 2,000 crore fund",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/carnelian-capital-plans-pe-foray-with-rs-2000-crore-fund/articleshow/132503763.cms",
+          "pubDate": "2026-07-20T05:55:36+05:30"
+        },
+        {
+          "title": "Select mid &amp; smallcaps on a roll, but broader market lags",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/select-mid-smallcaps-on-a-roll-but-broader-market-lags/articleshow/132503695.cms",
+          "pubDate": "2026-07-20T05:45:29+05:30"
         },
         {
           "title": "Bonus, dividends and stock splits: Bharti Airtel, Hero MotoCorp among 88 stocks turning ex-date this week. Do you own any?",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-dividends-and-stock-splits-bharti-airtel-hero-motocorp-among-88-stocks-turning-ex-date-this-week-do-you-own-any/articleshow/132491671.cms",
           "pubDate": "2026-07-19T13:55:14+05:30"
-        },
-        {
-          "title": "Bonus, dividends and stock splits: Bharti Airtel, Hero MotoCorp among 88 stocks turning ex-date this week. Do you own any?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-dividends-and-stock-splits-bharti-airtel-hero-motocorp-among-88-stocks-turning-ex-date-this-week-do-you-own-any/articleshow/132491671.cms",
-          "pubDate": "2026-07-19T13:55:14+05:30"
-        },
-        {
-          "title": "RBL Bank among 5 smallcap stocks bought by mutual funds in June. Check details",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/rbl-bank-among-5-smallcap-stocks-bought-by-mutual-funds-in-june-check-details/slideshow/132490957.cms",
-          "pubDate": "2026-07-19T12:17:32+05:30"
-        },
-        {
-          "title": "M-cap of five of top 10 most valued firms jumps Rs 1.54 lakh cr; TCS biggest winner",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/m-cap-of-five-of-top-10-most-valued-firms-jumps-rs-1-54-lakh-cr-tcs-biggest-winner/articleshow/132490890.cms",
-          "pubDate": "2026-07-19T12:16:18+05:30"
-        },
-        {
-          "title": "ICICI Prudential AMC among top 5 midcap stocks with highest MF selling in June",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/icici-prudential-amc-among-top-5-midcap-stocks-with-highest-mf-selling-in-june/slideshow/132490563.cms",
-          "pubDate": "2026-07-19T11:27:14+05:30"
-        },
-        {
-          "title": "SBI Mutual Fund among 6 AMCs with over Rs 7,000 crore AUM jump in June. Check details",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/sbi-mutual-fund-among-6-amcs-with-over-rs-7000-crore-aum-jump-in-june-check-details/slideshow/132490153.cms",
-          "pubDate": "2026-07-19T10:34:30+05:30"
         },
         {
           "title": "Will Sensex, Nifty extend gains on Monday? Q1 earnings, global tech selloff among 6 factors to steer D-St this week",
@@ -590,8 +636,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-07-19T14:43:27.185344+00:00",
+      "ok": true,
+      "updated_at": "2026-07-20T02:29:54.975449+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -672,8 +718,68 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-19T20:27:14.651683+00:00",
+      "updated_at": "2026-07-20T02:29:55.254082+00:00",
       "items": [
+        {
+          "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 20 July",
+          "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-20-july-11784513626534.html",
+          "pubDate": "2026-07-20T07:49:12+05:30"
+        },
+        {
+          "title": "Stocks to watch: Paytm, Reliance Industries, HDFC Bank among shares in focus today; check list here",
+          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-paytm-reliance-industries-hdfc-bank-among-shares-in-focus-today-check-list-here-11784512441080.html",
+          "pubDate": "2026-07-20T07:48:05+05:30"
+        },
+        {
+          "title": "Stock market today: Gift Nifty hints a weak start; eight day trading stocks to buy on Monday, 20 July",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-a-weak-start-eight-day-trading-stocks-to-buy-on-monday-20-july-11784511569988.html",
+          "pubDate": "2026-07-20T07:38:38+05:30"
+        },
+        {
+          "title": "Asian stocks today: South Korea's Kospi declines amid rising crude oil prices, escalating US-Iran war tensions",
+          "link": "https://www.livemint.com/market/stock-market-news/asian-stocks-today-south-koreas-kospi-declines-amid-rising-crude-oil-prices-escalating-us-iran-war-tensions-11784510716285.html",
+          "pubDate": "2026-07-20T07:16:14+05:30"
+        },
+        {
+          "title": "Gift Nifty, US-Iran war, oil prices to Q1 results: 8 key things that changed for Indian stock market over weekend",
+          "link": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-iran-war-to-crude-oil-prices-8-key-things-that-changed-for-indian-stock-market-over-weekend-11784511305508.html",
+          "pubDate": "2026-07-20T07:15:13+05:30"
+        },
+        {
+          "title": "Buy or sell: Vaishali Parekh recommends three intraday stocks to buy today — 20 July 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-20-july-2026-11784509364157.html",
+          "pubDate": "2026-07-20T07:07:24+05:30"
+        },
+        {
+          "title": "Crude oil prices jump as US-Iran war escalates; Brent oil tops $90 per barrel",
+          "link": "https://www.livemint.com/market/commodities/crude-oil-prices-jump-as-us-iran-war-escalates-brent-oil-tops-90-per-barrel-11784509357970.html",
+          "pubDate": "2026-07-20T06:52:36+05:30"
+        },
+        {
+          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 20 July 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-20-july-2026-11784507385571.html",
+          "pubDate": "2026-07-20T06:25:35+05:30"
+        },
+        {
+          "title": "Reliance Industries: O2C shines, but digital commerce push weighs on Q1 earnings",
+          "link": "https://www.livemint.com/market/mark-to-market/reliance-industries-o2c-shines-but-digital-commerce-push-weighs-on-q1-earnings-11784457011422.html",
+          "pubDate": "2026-07-20T06:00:46+05:30"
+        },
+        {
+          "title": "Raja Venkatraman recommends three stocks for 20 July",
+          "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-stock-recommendations-three-stocks-20-july-11784357379616.html",
+          "pubDate": "2026-07-20T06:00:27+05:30"
+        },
+        {
+          "title": "Stock recommendations for 20 July from MarketSmith India",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-20-july-marketsmith-india-11784360736903.html",
+          "pubDate": "2026-07-20T06:00:27+05:30"
+        },
+        {
+          "title": "SIP investors not reacting to short-term fluctuations, says Amfi chief",
+          "link": "https://www.livemint.com/market/stock-market-news/amfi-ceo-venkat-chalasani-sip-inflows-mutual-fund-investors-market-volatility-interview-11784440722427.html",
+          "pubDate": "2026-07-20T05:30:06+05:30"
+        },
         {
           "title": "Wall Street Week Ahead: Alphabet, Intel, Tesla earnings take center stage",
           "link": "https://www.livemint.com/market/wall-street-week-ahead-alphabet-intel-tesla-earnings-take-center-stage-11784473993152.html",
@@ -763,66 +869,6 @@
           "title": "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 20 July 2026",
           "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-20-july-2026-tcs-eicher-motors-hul-11784315107565.html",
           "pubDate": "2026-07-18T10:44:49+05:30"
-        },
-        {
-          "title": "Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell",
-          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-suzlon-idbi-bank-zee-11784344285100.html",
-          "pubDate": "2026-07-18T09:44:07+05:30"
-        },
-        {
-          "title": "Axis Bank Q1 preview: Profit, NII to stay healthy; NIM likely to shrink due to deposit repricing, competitive funding",
-          "link": "https://www.livemint.com/market/stock-market-news/axis-bank-q1-preview-profit-nii-to-stay-healthy-nim-likely-to-shrink-due-to-deposit-repricing-competitive-funding-11784288726370.html",
-          "pubDate": "2026-07-18T08:59:33+05:30"
-        },
-        {
-          "title": "ICICI Bank Q1 results preview: Net profit seen up 3.1% YoY to  ₹13,164 crore; NIMs, asset quality may remain stable",
-          "link": "https://www.livemint.com/market/stock-market-news/icici-bank-q1-results-preview-net-profit-seen-up-3-1-yoy-to-rs-13-164-crore-nims-asset-quality-may-remain-stable-11784280397246.html",
-          "pubDate": "2026-07-18T08:58:57+05:30"
-        },
-        {
-          "title": "HDFC Bank Q1 results preview: Net profit likely to rise 6% YoY on strong loan growth, NIMs to remain flat",
-          "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-q1-results-preview-net-profit-likely-to-rise-6-yoy-on-strong-loan-growth-nims-to-remain-flat-11784280966594.html",
-          "pubDate": "2026-07-18T08:58:47+05:30"
-        },
-        {
-          "title": "Q1 results 2026: HDFC Bank to ICICI Bank, Axis Bank among over 20 companies to declare Q1 earnings today; full list here",
-          "link": "https://www.livemint.com/market/stock-market-news/q1-results-2026-hdfc-bank-to-icici-bank-axis-bank-among-companies-to-declare-q1-earnings-today-18-july-full-list-here-11784312775848.html",
-          "pubDate": "2026-07-18T08:57:31+05:30"
-        },
-        {
-          "title": "Why Netflix’s AI push isn’t reviving the stock",
-          "link": "https://www.livemint.com/market/stock-market-news/why-netflix-s-ai-push-isn-t-reviving-the-stock-11784341921233.html",
-          "pubDate": "2026-07-18T08:04:23+05:30"
-        },
-        {
-          "title": "These three large-cap stocks look cheap. Here's why investors should look closer",
-          "link": "https://www.livemint.com/market/stock-market-news/these-three-large-cap-stocks-look-cheap-heres-why-investors-should-look-closer-11784289998354.html",
-          "pubDate": "2026-07-18T08:01:11+05:30"
-        },
-        {
-          "title": "Beaten down IT majors catch fancy of prop traders",
-          "link": "https://www.livemint.com/market/beaten-down-it-majors-catch-fancy-of-prop-traders-11784286097317.html",
-          "pubDate": "2026-07-18T05:30:28+05:30"
-        },
-        {
-          "title": "Netflix shares tumble 13% after weak sales forecast, hit 22-month low",
-          "link": "https://www.livemint.com/market/netflix-shares-tumble-13-after-weak-sales-forecast-hit-22-month-low-11784295044711.html",
-          "pubDate": "2026-07-17T21:55:46+05:30"
-        },
-        {
-          "title": "Sebi clears automatic SWP, STP mandates for demat mutual fund holdings",
-          "link": "https://www.livemint.com/market/stock-market-news/sebi-clears-automatic-swp-stp-mandates-for-demat-mutual-fund-holdings-11784294947014.html",
-          "pubDate": "2026-07-17T21:15:17+05:30"
-        },
-        {
-          "title": "Pulse of the Street: Earnings sentiment rescues volatile week; real test ahead",
-          "link": "https://www.livemint.com/market/earnings-sentiment-rescues-volatile-stock-market-week-real-test-ahead-11784291623956.html",
-          "pubDate": "2026-07-17T19:48:01+05:30"
-        },
-        {
-          "title": "Apple overtakes Nvidia as world's most valuable company amid chip selloff",
-          "link": "https://www.livemint.com/market/stock-market-news/nvidia-drops-below-apple-as-top-valued-company-on-chip-selloff-11784297104631.html",
-          "pubDate": "2026-07-17T19:36:59+05:30"
         }
       ]
     },
@@ -833,7 +879,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-19T20:27:15.699914+00:00",
+      "updated_at": "2026-07-20T02:29:56.452278+00:00",
       "items": [
         {
           "title": "RBI to conduct 7-day Variable Rate Repo (VRR) auction under LAF on July 20, 2026",

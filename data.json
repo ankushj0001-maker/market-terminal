@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T19:47:35.571192+00:00",
+  "generated_at": "2026-07-21T20:55:22.389270+00:00",
   "indices": {
     "nifty50": {
       "price": 24187.7,
@@ -68,7 +68,7 @@
         24187.69921875
       ],
       "ok": true,
-      "updated_at": "2026-07-21T19:47:33.971726+00:00"
+      "updated_at": "2026-07-21T20:55:21.592333+00:00"
     },
     "sensex": {
       "price": 77470.11,
@@ -137,7 +137,7 @@
         77470.109375
       ],
       "ok": true,
-      "updated_at": "2026-07-21T19:47:34.015790+00:00"
+      "updated_at": "2026-07-21T20:55:21.631005+00:00"
     },
     "banknifty": {
       "price": 57835.35,
@@ -206,7 +206,7 @@
         57835.3515625
       ],
       "ok": true,
-      "updated_at": "2026-07-21T19:47:34.064002+00:00"
+      "updated_at": "2026-07-21T20:55:21.673691+00:00"
     },
     "vix": {
       "price": 12.6,
@@ -275,15 +275,13 @@
         12.600000381469727
       ],
       "ok": true,
-      "updated_at": "2026-07-21T19:47:34.108453+00:00"
+      "updated_at": "2026-07-21T20:55:21.717559+00:00"
     },
     "usdinr": {
       "price": 96.225,
       "change": -0.21,
       "pct": -0.2178,
       "closes": [
-        96.33999633789062,
-        96.2979965209961,
         96.27999877929688,
         96.23249816894531,
         96.23999786376953,
@@ -341,30 +339,18 @@
         96.2249984741211,
         96.2249984741211,
         96.2249984741211,
+        96.2249984741211,
+        96.2249984741211,
         96.2249984741211
       ],
       "ok": true,
-      "updated_at": "2026-07-21T19:47:34.156249+00:00"
+      "updated_at": "2026-07-21T20:55:21.826103+00:00"
     },
     "gold": {
-      "price": 4087.5,
-      "change": 71.6,
-      "pct": 1.7829,
+      "price": 4084.0,
+      "change": 68.1,
+      "pct": 1.6958,
       "closes": [
-        4074.300048828125,
-        4073.699951171875,
-        4072.89990234375,
-        4072.300048828125,
-        4073.5,
-        4077.800048828125,
-        4081.60009765625,
-        4083.0,
-        4081.39990234375,
-        4085.60009765625,
-        4084.800048828125,
-        4080.199951171875,
-        4077.39990234375,
-        4081.0,
         4078.60009765625,
         4081.800048828125,
         4081.5,
@@ -410,30 +396,30 @@
         4088.60009765625,
         4087.699951171875,
         4086.699951171875,
-        4087.5
+        4087.5,
+        4088.800048828125,
+        4088.39990234375,
+        4088.60009765625,
+        4088.800048828125,
+        4089.60009765625,
+        4088.800048828125,
+        4088.39990234375,
+        4087.300048828125,
+        4086.89990234375,
+        4087.5,
+        4086.199951171875,
+        4085.39990234375,
+        4082.60009765625,
+        4084.0
       ],
       "ok": true,
-      "updated_at": "2026-07-21T19:47:34.239635+00:00"
+      "updated_at": "2026-07-21T20:55:21.897696+00:00"
     },
     "crude": {
-      "price": 84.62,
-      "change": 2.14,
-      "pct": 2.5946,
+      "price": 84.38,
+      "change": 1.9,
+      "pct": 2.3036,
       "closes": [
-        84.44999694824219,
-        84.37000274658203,
-        84.69999694824219,
-        84.80000305175781,
-        84.58999633789062,
-        84.19999694824219,
-        84.08000183105469,
-        84.38999938964844,
-        84.55999755859375,
-        84.38999938964844,
-        84.55999755859375,
-        84.72000122070312,
-        84.66000366210938,
-        84.61000061035156,
         84.51000213623047,
         84.30999755859375,
         84.22000122070312,
@@ -479,10 +465,24 @@
         84.63999938964844,
         84.55000305175781,
         84.70999908447266,
-        84.62000274658203
+        84.6500015258789,
+        84.69000244140625,
+        84.68000030517578,
+        84.66999816894531,
+        84.58000183105469,
+        84.56999969482422,
+        84.51000213623047,
+        84.48999786376953,
+        84.54000091552734,
+        84.51000213623047,
+        84.41999816894531,
+        84.41000366210938,
+        84.37999725341797,
+        84.44000244140625,
+        84.37999725341797
       ],
       "ok": true,
-      "updated_at": "2026-07-21T19:47:34.299510+00:00"
+      "updated_at": "2026-07-21T20:55:21.938973+00:00"
     },
     "us10y": {
       "price": 4.628,
@@ -551,14 +551,19 @@
         4.627999782562256
       ],
       "ok": true,
-      "updated_at": "2026-07-21T19:47:34.336949+00:00"
+      "updated_at": "2026-07-21T20:55:22.000665+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-21T19:47:34.389914+00:00",
+      "updated_at": "2026-07-21T20:55:22.063640+00:00",
       "items": [
+        {
+          "title": "US stocks today: US stocks end higher as semiconductors surge amid Mideast war intensifies",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-on-chip-stocks-recovery-earnings-draw-focus/articleshow/132546607.cms",
+          "pubDate": "2026-07-22T01:34:14+05:30"
+        },
         {
           "title": "ICICI Bank eyes $500 million dollar bond issue via GIFT City",
           "link": "https://economictimes.indiatimes.com/markets/bonds/icici-bank-eyes-500-million-dollar-bond-issue-via-gift-city/articleshow/132538886.cms",
@@ -573,11 +578,6 @@
           "title": "Sebi asks depositories to put in place operational framework to implement buyback rules from Aug 1",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-asks-depositories-to-put-in-place-operational-framework-to-implement-buyback-rules-from-aug-1/articleshow/132538495.cms",
           "pubDate": "2026-07-21T19:27:18+05:30"
-        },
-        {
-          "title": "Bandhan Bank Q1 profit jumps 35% as provisions decline sharply",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bandhan-bank-q1-profit-jumps-35-as-provisions-decline-sharply/articleshow/132536317.cms",
-          "pubDate": "2026-07-21T17:44:12+05:30"
         },
         {
           "title": "Bigger crash ahead? JPMorgan CEO Dimon says he won't buy stocks at current prices, says markets underestimating risks",
@@ -794,7 +794,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-21T19:47:34.622257+00:00",
+      "updated_at": "2026-07-21T20:55:22.250968+00:00",
       "items": [
         {
           "title": "Dollar advances as oil prices rise after latest US-Iran strikes, Houthi blockade",
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-21T19:47:35.571175+00:00",
+      "updated_at": "2026-07-21T20:55:22.389258+00:00",
       "items": [
         {
           "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2018-19 Series-V due on July 22, 2026",

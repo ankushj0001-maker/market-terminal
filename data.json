@@ -1,15 +1,11 @@
 {
-  "generated_at": "2026-07-21T09:36:33.448205+00:00",
+  "generated_at": "2026-07-21T15:29:14.241624+00:00",
   "indices": {
     "nifty50": {
-      "price": 24191.35,
-      "change": -47.15,
-      "pct": -0.1945,
+      "price": 24187.7,
+      "change": -50.8,
+      "pct": -0.2096,
       "closes": [
-        24207.44921875,
-        24192.400390625,
-        24199.5,
-        24187.05078125,
         24176.900390625,
         24188.94921875,
         24176.849609375,
@@ -64,24 +60,21 @@
         24180.650390625,
         24182.349609375,
         24181.75,
-        24189.349609375,
-        24191.349609375
+        24185.099609375,
+        24183.849609375,
+        24185.80078125,
+        24188.25,
+        24193.94921875,
+        24187.69921875
       ],
       "ok": true,
-      "updated_at": "2026-07-21T09:36:31.726668+00:00"
+      "updated_at": "2026-07-21T15:29:10.046812+00:00"
     },
     "sensex": {
-      "price": 77427.88,
-      "change": -280.64,
-      "pct": -0.3611,
+      "price": 77470.11,
+      "change": -238.41,
+      "pct": -0.3068,
       "closes": [
-        77593.21875,
-        77621.8671875,
-        77572.2109375,
-        77555.0234375,
-        77497.859375,
-        77534.2734375,
-        77506.46875,
         77457.8828125,
         77504.4609375,
         77462.96875,
@@ -133,11 +126,18 @@
         77375.0390625,
         77413.9609375,
         77455.703125,
-        77432.5625,
-        77427.8828125
+        77444.75,
+        77474.3515625,
+        77453.640625,
+        77462.640625,
+        77465.34375,
+        77470.84375,
+        77468.7578125,
+        77470.1171875,
+        77470.109375
       ],
       "ok": true,
-      "updated_at": "2026-07-21T09:36:31.809517+00:00"
+      "updated_at": "2026-07-21T15:29:10.093898+00:00"
     },
     "banknifty": {
       "price": 57853.8,
@@ -205,18 +205,14 @@
         57853.05078125,
         57853.80078125
       ],
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-07-21T09:36:31.904996+00:00"
     },
     "vix": {
-      "price": 12.627,
-      "change": -0.523,
-      "pct": -3.9772,
+      "price": 12.6,
+      "change": -0.55,
+      "pct": -4.1825,
       "closes": [
-        12.787500381469727,
-        12.854999542236328,
-        12.897500038146973,
-        12.837499618530273,
         12.892499923706055,
         12.842499732971191,
         12.857500076293945,
@@ -271,23 +267,21 @@
         12.582500457763672,
         12.557499885559082,
         12.59749984741211,
-        12.630000114440918,
-        12.6274995803833
+        12.619999885559082,
+        12.647500038146973,
+        12.574999809265137,
+        12.592499732971191,
+        12.537500381469727,
+        12.600000381469727
       ],
       "ok": true,
-      "updated_at": "2026-07-21T09:36:31.941524+00:00"
+      "updated_at": "2026-07-21T15:29:10.185889+00:00"
     },
     "usdinr": {
-      "price": 96.2225,
-      "change": -0.2125,
-      "pct": -0.2204,
+      "price": 96.225,
+      "change": -0.21,
+      "pct": -0.2178,
       "closes": [
-        96.33999633789062,
-        96.35250091552734,
-        96.31999969482422,
-        96.30249786376953,
-        96.31500244140625,
-        96.30750274658203,
         96.3125,
         96.31999969482422,
         96.3324966430664,
@@ -340,224 +334,206 @@
         96.25,
         96.24250030517578,
         96.22250366210938,
-        96.22250366210938,
-        96.22250366210938
+        96.21499633789062,
+        96.2249984741211,
+        96.2300033569336,
+        96.24250030517578,
+        96.23500061035156,
+        96.23500061035156,
+        96.2249984741211,
+        96.2249984741211
       ],
       "ok": true,
-      "updated_at": "2026-07-21T09:36:31.985622+00:00"
+      "updated_at": "2026-07-21T15:29:10.242893+00:00"
     },
     "gold": {
-      "price": 4072.0,
-      "change": 56.1,
-      "pct": 1.3969,
+      "price": 4080.7,
+      "change": 64.8,
+      "pct": 1.6136,
       "closes": [
-        4050.89990234375,
-        4051.89990234375,
-        4051.0,
-        4051.89990234375,
-        4054.300048828125,
-        4053.300048828125,
-        4055.0,
-        4056.300048828125,
-        4055.5,
-        4056.0,
-        4058.89990234375,
-        4064.60009765625,
-        4066.0,
-        4070.89990234375,
-        4070.89990234375,
-        4067.699951171875,
-        4066.0,
+        4071.699951171875,
+        4073.300048828125,
+        4073.60009765625,
+        4071.699951171875,
+        4067.5,
         4069.5,
-        4072.0,
-        4075.699951171875,
-        4076.0,
-        4077.699951171875,
-        4076.89990234375,
-        4077.0,
-        4079.0,
-        4081.60009765625,
-        4087.39990234375,
-        4084.39990234375,
-        4083.0,
-        4082.10009765625,
-        4079.199951171875,
-        4076.39990234375,
-        4078.0,
-        4075.300048828125,
-        4074.10009765625,
-        4077.699951171875,
-        4077.5,
-        4075.800048828125,
-        4075.89990234375,
-        4075.0,
-        4075.699951171875,
-        4070.60009765625,
-        4071.39990234375,
-        4072.5,
-        4071.5,
-        4068.60009765625,
-        4067.89990234375,
-        4067.199951171875,
-        4066.800048828125,
-        4066.699951171875,
-        4064.39990234375,
-        4065.5,
-        4067.39990234375,
-        4070.699951171875,
-        4070.60009765625,
-        4069.699951171875,
-        4071.10009765625,
-        4071.39990234375,
         4067.300048828125,
-        4072.0
+        4061.10009765625,
+        4060.60009765625,
+        4063.199951171875,
+        4062.39990234375,
+        4063.800048828125,
+        4062.60009765625,
+        4063.60009765625,
+        4064.60009765625,
+        4060.60009765625,
+        4062.800048828125,
+        4060.699951171875,
+        4060.60009765625,
+        4062.800048828125,
+        4062.89990234375,
+        4063.800048828125,
+        4063.60009765625,
+        4069.699951171875,
+        4066.0,
+        4063.699951171875,
+        4059.39990234375,
+        4058.0,
+        4064.199951171875,
+        4059.89990234375,
+        4058.0,
+        4060.89990234375,
+        4061.89990234375,
+        4063.60009765625,
+        4059.60009765625,
+        4056.60009765625,
+        4055.199951171875,
+        4060.0,
+        4056.800048828125,
+        4050.39990234375,
+        4054.10009765625,
+        4056.89990234375,
+        4057.199951171875,
+        4060.800048828125,
+        4059.300048828125,
+        4070.300048828125,
+        4068.60009765625,
+        4069.800048828125,
+        4074.10009765625,
+        4071.300048828125,
+        4069.300048828125,
+        4072.0,
+        4074.300048828125,
+        4073.699951171875,
+        4072.89990234375,
+        4072.300048828125,
+        4073.5,
+        4077.800048828125,
+        4081.60009765625,
+        4080.699951171875
       ],
       "ok": true,
-      "updated_at": "2026-07-21T09:36:32.025285+00:00"
+      "updated_at": "2026-07-21T15:29:10.308347+00:00"
     },
     "crude": {
-      "price": 82.62,
-      "change": 0.14,
-      "pct": 0.1697,
+      "price": 84.12,
+      "change": 1.64,
+      "pct": 1.9884,
       "closes": [
-        82.11000061035156,
-        82.13999938964844,
-        82.13999938964844,
-        82.08999633789062,
-        82.13999938964844,
-        82.2300033569336,
-        82.37000274658203,
-        82.2699966430664,
-        82.2699966430664,
-        82.30999755859375,
-        82.33000183105469,
-        82.27999877929688,
-        82.25,
-        82.06999969482422,
-        81.91000366210938,
-        81.91999816894531,
-        82.05000305175781,
-        82.05000305175781,
-        82.08999633789062,
-        82.1500015258789,
-        82.0999984741211,
-        82.08999633789062,
-        81.94000244140625,
-        82.08000183105469,
-        82.04000091552734,
-        82.05000305175781,
-        82.11000061035156,
-        82.0999984741211,
-        82.31999969482422,
-        82.37999725341797,
-        82.44000244140625,
-        82.62000274658203,
-        82.70999908447266,
-        82.80999755859375,
-        82.87999725341797,
-        82.52999877929688,
-        82.33999633789062,
-        82.23999786376953,
-        82.05999755859375,
-        82.0199966430664,
-        81.91999816894531,
-        81.69999694824219,
-        81.58000183105469,
-        81.52999877929688,
-        81.6500015258789,
-        81.75,
-        81.97000122070312,
-        82.05000305175781,
-        82.02999877929688,
-        81.95999908447266,
-        82.20999908447266,
-        82.27999877929688,
-        82.23999786376953,
-        82.04000091552734,
-        82.08000183105469,
-        82.12000274658203,
-        82.22000122070312,
-        82.38999938964844,
-        82.91999816894531,
-        82.62000274658203
+        82.87000274658203,
+        82.83000183105469,
+        82.88999938964844,
+        82.87000274658203,
+        83.16000366210938,
+        83.19999694824219,
+        83.2699966430664,
+        83.36000061035156,
+        83.47000122070312,
+        83.4800033569336,
+        83.66999816894531,
+        83.63999938964844,
+        83.63999938964844,
+        83.58999633789062,
+        83.7300033569336,
+        83.72000122070312,
+        83.8499984741211,
+        83.91999816894531,
+        83.83999633789062,
+        83.48999786376953,
+        83.45999908447266,
+        83.58999633789062,
+        83.87999725341797,
+        83.83000183105469,
+        84.12000274658203,
+        83.98999786376953,
+        83.98999786376953,
+        84.0999984741211,
+        83.98999786376953,
+        84.05999755859375,
+        84.12000274658203,
+        84.41000366210938,
+        84.54000091552734,
+        84.37999725341797,
+        84.2300033569336,
+        84.45999908447266,
+        84.5999984741211,
+        84.44999694824219,
+        84.62000274658203,
+        84.83000183105469,
+        84.73999786376953,
+        84.45999908447266,
+        84.37999725341797,
+        84.23999786376953,
+        84.5,
+        84.4800033569336,
+        84.38999938964844,
+        84.37000274658203,
+        84.62000274658203,
+        84.93000030517578,
+        84.87999725341797,
+        84.56999969482422,
+        84.44999694824219,
+        84.37000274658203,
+        84.69999694824219,
+        84.80000305175781,
+        84.58999633789062,
+        84.19999694824219,
+        84.08000183105469,
+        84.12000274658203
       ],
       "ok": true,
-      "updated_at": "2026-07-21T09:36:32.061310+00:00"
+      "updated_at": "2026-07-21T15:29:10.374065+00:00"
     },
     "us10y": {
-      "price": 4.598,
-      "change": 0.057,
-      "pct": 1.2552,
+      "price": 4.622,
+      "change": 0.024,
+      "pct": 0.522,
       "closes": [
-        4.578000068664551,
-        4.581999778747559,
-        4.581999778747559,
-        4.578000068664551,
-        4.581999778747559,
-        4.579999923706055,
-        4.579999923706055,
-        4.578000068664551,
-        4.578000068664551,
-        4.575999736785889,
-        4.581999778747559,
-        4.579999923706055,
-        4.584000110626221,
-        4.578000068664551,
-        4.585999965667725,
-        4.585999965667725,
-        4.585999965667725,
-        4.585999965667725,
-        4.590000152587891,
-        4.593999862670898,
-        4.593999862670898,
-        4.593999862670898,
-        4.5920000076293945,
-        4.5920000076293945,
-        4.593999862670898,
-        4.5920000076293945,
-        4.593999862670898,
-        4.5980000495910645,
-        4.5980000495910645,
-        4.5980000495910645,
-        4.5980000495910645,
-        4.5980000495910645,
-        4.6020002365112305,
-        4.6020002365112305,
-        4.604000091552734,
+        4.599999904632568,
         4.604000091552734,
         4.6020002365112305,
+        4.605999946594238,
+        4.6080002784729,
         4.604000091552734,
         4.605999946594238,
-        4.604000091552734,
         4.6020002365112305,
-        4.599999904632568,
-        4.6020002365112305,
-        4.6020002365112305,
-        4.6020002365112305,
-        4.6020002365112305,
-        4.599999904632568,
-        4.599999904632568,
-        4.599999904632568,
-        4.5980000495910645,
-        4.599999904632568,
-        4.5980000495910645,
-        4.5980000495910645,
-        4.5980000495910645,
-        4.599999904632568,
-        4.5980000495910645,
-        4.5980000495910645,
-        4.5980000495910645,
-        4.5980000495910645,
-        4.5980000495910645
+        4.605999946594238,
+        4.605999946594238,
+        4.605999946594238,
+        4.609999656677246,
+        4.613999843597412,
+        4.618000030517578,
+        4.619999885559082,
+        4.631999969482422,
+        4.638000011444092,
+        4.633999824523926,
+        4.630000114440918,
+        4.630000114440918,
+        4.627999782562256,
+        4.627999782562256,
+        4.622000217437744,
+        4.622000217437744,
+        4.624000072479248,
+        4.625999927520752,
+        4.625999927520752,
+        4.627999782562256,
+        4.624000072479248,
+        4.619999885559082,
+        4.622000217437744,
+        4.624000072479248,
+        4.622000217437744,
+        4.624000072479248,
+        4.622000217437744,
+        4.622000217437744
       ],
       "ok": true,
-      "updated_at": "2026-07-21T09:36:32.104809+00:00"
+      "updated_at": "2026-07-21T15:29:10.421364+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-21T09:36:32.167430+00:00",
+      "updated_at": "2026-07-21T15:29:10.486872+00:00",
       "items": [
         {
           "title": "Alpha Wealth 2.0: Why some investors keep finding the next opportunity before everyone else",
@@ -713,7 +689,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-07-21T09:36:32.253329+00:00",
+      "updated_at": "2026-07-21T15:29:12.739064+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +770,83 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-21T09:36:32.393600+00:00",
+      "updated_at": "2026-07-21T15:29:12.874608+00:00",
       "items": [
+        {
+          "title": "IBM shares extend losing streak, plunge 26% in five sessions after sales miss",
+          "link": "https://www.livemint.com/market/stock-market-news/ibm-shares-extend-losing-streak-plunge-26-in-five-sessions-after-sales-miss-11784643339262.html",
+          "pubDate": "2026-07-21T20:20:49+05:30"
+        },
+        {
+          "title": "Treasury Yields Hit Two-Month High as Oil Sparks Inflation Risk",
+          "link": "https://www.livemint.com/market/treasury-yields-hit-two-month-high-as-oil-sparks-inflation-risk-11784645430148.html",
+          "pubDate": "2026-07-21T20:20:29+05:30"
+        },
+        {
+          "title": "Sebi tweaks SIF certification exam, removes currency derivatives questions",
+          "link": "https://www.livemint.com/market/stock-market-news/sebi-tweaks-sif-certification-exam-removes-currency-derivatives-questions-11784638273886.html",
+          "pubDate": "2026-07-21T19:02:14+05:30"
+        },
+        {
+          "title": "Caliber Mining and Logistics IPO: Issue booked 154 times on Day 03; NII, QIB portions see strong demand",
+          "link": "https://www.livemint.com/market/stock-market-news/caliber-mining-and-logistics-ipo-issue-booked-154-times-on-day-03-nii-qib-portions-see-strong-demand-11784637533373.html",
+          "pubDate": "2026-07-21T18:25:57+05:30"
+        },
+        {
+          "title": "Biotech IPO Gains Crush AI Listings With Standout 55% Return",
+          "link": "https://www.livemint.com/market/ipo/biotech-ipo-gains-crush-ai-listings-with-standout-55-return-11784638458328.html",
+          "pubDate": "2026-07-21T18:24:17+05:30"
+        },
+        {
+          "title": "Saudi Crude Flow From Red Sea Hit Record Before Houthi Warning",
+          "link": "https://www.livemint.com/market/saudi-crude-flow-from-red-sea-hit-record-before-houthi-warning-11784638214346.html",
+          "pubDate": "2026-07-21T18:20:13+05:30"
+        },
+        {
+          "title": "US stock market today: S&amp;P 500, Nasdaq futures rise up to 1.4% as chip stocks rebound after last week's rout",
+          "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-rise-up-to-1-4-as-chip-stocks-rebound-after-last-weeks-rout-11784631923493.html",
+          "pubDate": "2026-07-21T17:41:09+05:30"
+        },
+        {
+          "title": "SBI has no plans for further stake sale in SBI Funds after IPO: chairman Setty",
+          "link": "https://www.livemint.com/market/stock-market-news/sbi-stake-sale-sbi-funds-ipo-chairman-setty-mutual-funds-india-11784624846728.html",
+          "pubDate": "2026-07-21T16:29:47+05:30"
+        },
+        {
+          "title": "Lohia Corp IPO: 10 key things investors should know before subscribing to  ₹1,101.28 crore public issue; check GMP",
+          "link": "https://www.livemint.com/market/stock-market-news/lohia-corp-ipo-10-key-things-investors-should-know-before-subscribing-to-rs-1-101-28-crore-public-issue-check-ipo-gmp-11784622684866.html",
+          "pubDate": "2026-07-21T16:28:57+05:30"
+        },
+        {
+          "title": "Oil Swings as Traders Weigh Slew of Risks From Hormuz to Red Sea",
+          "link": "https://www.livemint.com/market/oil-swings-as-traders-weigh-slew-of-risks-from-hormuz-to-red-sea-11784629153737.html",
+          "pubDate": "2026-07-21T15:49:13+05:30"
+        },
+        {
+          "title": "Top Gainers &amp; Losers on July 21: Karur Vysya Bank, TVS Motor, Zen Tech, Meesho, Thermax among top gainers today",
+          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-july-21-karur-vysya-bank-tvs-motor-zen-tech-meesho-thermax-among-top-gainers-today-11784625895681.html",
+          "pubDate": "2026-07-21T15:46:54+05:30"
+        },
+        {
+          "title": "Sensex drops 238 points, Nifty 50 ends at 24,188. What drove the market down today?",
+          "link": "https://www.livemint.com/market/stock-market-news/sensex-drops-238-points-nifty-50-ends-at-24-188-what-drove-the-market-down-today-11784628036846.html",
+          "pubDate": "2026-07-21T15:39:44+05:30"
+        },
+        {
+          "title": "Mapping the Market: Nasdaq troubles run deeper that they appear",
+          "link": "https://www.livemint.com/market/mapping-the-market-nasdaq-troubles-run-deeper-that-they-appear-11784628120361.html",
+          "pubDate": "2026-07-21T15:31:59+05:30"
+        },
+        {
+          "title": "Stocks rebound as Mideast mediation pushes oil lower",
+          "link": "https://www.livemint.com/market/stocks-rebound-as-mideast-mediation-pushes-oil-lower-11784627491379.html",
+          "pubDate": "2026-07-21T15:21:30+05:30"
+        },
+        {
+          "title": "SBI Mutual Fund books partial profit in Rallis India. Shareholding slips to 7.12%",
+          "link": "https://www.livemint.com/market/stock-market-news/sbi-mutual-fund-books-partial-profit-in-rallis-india-shareholding-slips-to-712-11784625762046.html",
+          "pubDate": "2026-07-21T15:14:52+05:30"
+        },
         {
           "title": "Xtranet Technologies IPO to open on July 23 —5 key things to know from the RHP",
           "link": "https://www.livemint.com/market/stock-market-news/xtranet-technologies-ipo-to-open-on-july-23-5-key-things-to-know-from-the-rhp-11784623563618.html",
@@ -870,81 +921,6 @@
           "title": "Himadri Speciality Chemical shares hit fresh 52-week high, up for 9th consecutive day after Q1 results",
           "link": "https://www.livemint.com/market/stock-market-news/himadri-speciality-chemical-shares-hit-fresh-52-week-high-up-for-9th-consecutive-day-after-q1-results-11784613616802.html",
           "pubDate": "2026-07-21T12:22:19+05:30"
-        },
-        {
-          "title": "Multibagger stock, which surged 354% in five years, jumps 9% after strong Q1FY27 results",
-          "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-south-west-pinnacle-exploration-which-surged-354-in-five-years-jumps-9-after-strong-q1fy27-results-11784614862840.html",
-          "pubDate": "2026-07-21T12:20:05+05:30"
-        },
-        {
-          "title": "Why JSW Steel's strong Q1 may not be the biggest positive",
-          "link": "https://www.livemint.com/market/mark-to-market/jsw-steel-q1-earnings-revenue-profit-improving-balance-sheet-expansion-steelmakers-monsoon-jssl-jvml-coking-coal-11784611763209.html",
-          "pubDate": "2026-07-21T12:19:37+05:30"
-        },
-        {
-          "title": "Upcoming IPO: Xtranet Technologies IPO to hit Dalal Street on 23 July. GMP hints 20% listing pop. Should you buy?",
-          "link": "https://www.livemint.com/market/ipo/upcoming-ipo-xtranet-technologies-ipo-to-hit-dalal-street-on-23-july-gmp-hints-20-listing-pop-should-you-buy-11784613873339.html",
-          "pubDate": "2026-07-21T11:57:11+05:30"
-        },
-        {
-          "title": "Foreign investors sell Nifty Bank futures on margin worries",
-          "link": "https://www.livemint.com/market/stock-market-news/fpi-nifty-bank-futures-hdfc-bank-nim-june-quarter-results-icici-axis-kotak-11784609152627.html",
-          "pubDate": "2026-07-21T11:56:57+05:30"
-        },
-        {
-          "title": "SBI Funds Management share price extends gains after decent listing. Should you buy, sell or hold the stock?",
-          "link": "https://www.livemint.com/market/stock-market-news/sbi-funds-management-share-price-extends-gains-after-decent-listing-should-you-buy-sell-or-hold-the-stock-11784614403476.html",
-          "pubDate": "2026-07-21T11:53:02+05:30"
-        },
-        {
-          "title": "Bajaj Auto Q1 results 2026 LIVE: Consolidated net profit jumps 46% to  ₹3,226 crore, revenue hits record high",
-          "link": "https://www.livemint.com/market/stock-market-news/bajaj-auto-q1-results-2026-live-bajaj-auto-results-date-today-bajaj-auto-q1-preview-bajaj-auto-share-price-ev-nse-q1fy27-11784611427461.html",
-          "pubDate": "2026-07-21T11:06:41+05:30"
-        },
-        {
-          "title": "IPO GMPs: Lohia Corp IPO vs Indo-MIM IPO vs Xtranet Technologies IPO — what grey market signals about upcoming IPOs",
-          "link": "https://www.livemint.com/market/ipo/ipo-gmps-lohia-corp-ipo-gmp-vs-indo-mim-ipo-gmp-vs-xtranet-technologies-ipo-gmp-what-gmp-signals-about-upcoming-ipos-11784609952574.html",
-          "pubDate": "2026-07-21T10:52:26+05:30"
-        },
-        {
-          "title": "Millworks Technologies IPO listing: SME stock hits upper circuit after listing at a solid 90% premium over issue price",
-          "link": "https://www.livemint.com/market/ipo/millworks-technologies-ipo-listing-sme-stock-hits-upper-circuit-after-listing-at-a-solid-90-premium-over-issue-price-11784609946943.html",
-          "pubDate": "2026-07-21T10:35:44+05:30"
-        },
-        {
-          "title": "CDSL share price falls after Sebi fines  ₹1 crore over 2022 malware attack",
-          "link": "https://www.livemint.com/market/stock-market-news/cdsl-share-price-falls-after-sebi-fines-rs-1-crore-over-2022-malware-attack-11784609595038.html",
-          "pubDate": "2026-07-21T10:33:11+05:30"
-        },
-        {
-          "title": "SBI Funds prove big debuts can beat bad market days",
-          "link": "https://www.livemint.com/market/stock-market-news/sbi-funds-management-ipo-sbi-funds-listing-ipo-listing-gains-ipo-listing-day-performance-largest-ipos-in-india-11784550778215.html",
-          "pubDate": "2026-07-21T10:26:13+05:30"
-        },
-        {
-          "title": "Multibagger realty stock Sobha share price jumps 7%, then wipes out gains despite 292% profit surge in Q1 results",
-          "link": "https://www.livemint.com/market/stock-market-news/multibagger-realty-stock-sobha-share-price-jumps-7-then-wipes-out-gains-despite-292-profit-surge-in-q1-results-11784607179715.html",
-          "pubDate": "2026-07-21T10:14:22+05:30"
-        },
-        {
-          "title": "Muted Debut! Alpine Texworld share price lists at  ₹105, same as IPO price",
-          "link": "https://www.livemint.com/market/stock-market-news/muted-debut-alpine-texworld-share-price-lists-at-rs-105-same-as-ipo-price-11784603718889.html",
-          "pubDate": "2026-07-21T09:59:25+05:30"
-        },
-        {
-          "title": "SBI Funds Management shares list with 7% premium at  ₹613 on NSE",
-          "link": "https://www.livemint.com/market/stock-market-news/sbi-funds-management-shares-list-with-7-premium-at-613-on-nse-11784605805785.html",
-          "pubDate": "2026-07-21T09:58:47+05:30"
-        },
-        {
-          "title": "Karur Vysya Bank shares surge over 10% after Q1 profit jumps 45%. Should investors buy, sell, or hold?",
-          "link": "https://www.livemint.com/market/stock-market-news/karur-vysya-bank-shares-surge-over-10-after-the-private-sector-lenders-q1-profit-jumps-45-details-here-11784607405700.html",
-          "pubDate": "2026-07-21T09:55:33+05:30"
-        },
-        {
-          "title": "Sotefin Bharat IPO allotment date likely today. GMP, steps to check share allotment status for SME IPO",
-          "link": "https://www.livemint.com/market/ipo/sotefin-bharat-ipo-allotment-date-likely-today-gmp-steps-to-check-share-allotment-status-for-sme-ipo-11784606997584.html",
-          "pubDate": "2026-07-21T09:50:22+05:30"
         }
       ]
     },
@@ -955,8 +931,28 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-21T09:36:33.448189+00:00",
+      "updated_at": "2026-07-21T15:29:14.241606+00:00",
       "items": [
+        {
+          "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2018-19 Series-V due on July 22, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63206",
+          "pubDate": "2026-07-21T18:00:00+00:00"
+        },
+        {
+          "title": "State Government Securities - Full Auction Result",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63205",
+          "pubDate": "2026-07-21T16:50:00+00:00"
+        },
+        {
+          "title": "Rationalisation of Foreign Exchange Management (Non-Debt Instruments) Rules, 2019 – Draft Rules for Comments",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63204",
+          "pubDate": "2026-07-21T15:10:00+00:00"
+        },
+        {
+          "title": "Result of Yield/Price Based Auction of State Government Securities",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63203",
+          "pubDate": "2026-07-21T15:00:00+00:00"
+        },
         {
           "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) – The Suri Friends’ Union Co-operative Bank Ltd., Suri, West Bengal – Extension of period",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63202",
@@ -986,26 +982,6 @@
           "title": "Auction of Government of India Dated Securities",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63197",
           "pubDate": "2026-07-20T18:00:00+00:00"
-        },
-        {
-          "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2019-20 Series-VIII due on July 21, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63196",
-          "pubDate": "2026-07-20T17:45:00+00:00"
-        },
-        {
-          "title": "RBI imposes monetary penalty on The United Puri-Nimapara Central Co-operative Bank Limited, Odisha",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63195",
-          "pubDate": "2026-07-20T17:35:00+00:00"
-        },
-        {
-          "title": "RBI imposes monetary penalty on Manmad Urban Co-operative Bank Ltd., Manmad, Maharashtra",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63194",
-          "pubDate": "2026-07-20T17:35:00+00:00"
-        },
-        {
-          "title": "RBI imposes monetary penalty on Kolhapur District Central Co-op Bank Ltd., Maharashtra",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63193",
-          "pubDate": "2026-07-20T17:35:00+00:00"
         }
       ]
     }

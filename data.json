@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T15:29:14.241624+00:00",
+  "generated_at": "2026-07-21T16:53:49.696417+00:00",
   "indices": {
     "nifty50": {
       "price": 24187.7,
@@ -68,7 +68,7 @@
         24187.69921875
       ],
       "ok": true,
-      "updated_at": "2026-07-21T15:29:10.046812+00:00"
+      "updated_at": "2026-07-21T16:53:46.870891+00:00"
     },
     "sensex": {
       "price": 77470.11,
@@ -137,17 +137,13 @@
         77470.109375
       ],
       "ok": true,
-      "updated_at": "2026-07-21T15:29:10.093898+00:00"
+      "updated_at": "2026-07-21T16:53:46.979372+00:00"
     },
     "banknifty": {
-      "price": 57853.8,
-      "change": -91.2,
-      "pct": -0.1574,
+      "price": 57835.35,
+      "change": -109.65,
+      "pct": -0.1892,
       "closes": [
-        57958.05078125,
-        57945.19921875,
-        57981.80078125,
-        57953.05078125,
         57909.30078125,
         57949.3984375,
         57916.8984375,
@@ -202,11 +198,15 @@
         57837.94921875,
         57851.1484375,
         57844.6015625,
-        57853.05078125,
-        57853.80078125
+        57833.5,
+        57814.8515625,
+        57820.05078125,
+        57825.3984375,
+        57817.6015625,
+        57835.3515625
       ],
-      "ok": false,
-      "updated_at": "2026-07-21T09:36:31.904996+00:00"
+      "ok": true,
+      "updated_at": "2026-07-21T16:53:47.143697+00:00"
     },
     "vix": {
       "price": 12.6,
@@ -275,7 +275,7 @@
         12.600000381469727
       ],
       "ok": true,
-      "updated_at": "2026-07-21T15:29:10.185889+00:00"
+      "updated_at": "2026-07-21T16:53:47.318042+00:00"
     },
     "usdinr": {
       "price": 96.225,
@@ -344,30 +344,13 @@
         96.2249984741211
       ],
       "ok": true,
-      "updated_at": "2026-07-21T15:29:10.242893+00:00"
+      "updated_at": "2026-07-21T16:53:47.544208+00:00"
     },
     "gold": {
-      "price": 4080.7,
-      "change": 64.8,
-      "pct": 1.6136,
+      "price": 4077.2,
+      "change": 61.3,
+      "pct": 1.5264,
       "closes": [
-        4071.699951171875,
-        4073.300048828125,
-        4073.60009765625,
-        4071.699951171875,
-        4067.5,
-        4069.5,
-        4067.300048828125,
-        4061.10009765625,
-        4060.60009765625,
-        4063.199951171875,
-        4062.39990234375,
-        4063.800048828125,
-        4062.60009765625,
-        4063.60009765625,
-        4064.60009765625,
-        4060.60009765625,
-        4062.800048828125,
         4060.699951171875,
         4060.60009765625,
         4062.800048828125,
@@ -410,33 +393,33 @@
         4073.5,
         4077.800048828125,
         4081.60009765625,
-        4080.699951171875
+        4083.0,
+        4081.39990234375,
+        4085.60009765625,
+        4084.800048828125,
+        4080.199951171875,
+        4077.39990234375,
+        4081.0,
+        4078.60009765625,
+        4081.800048828125,
+        4081.5,
+        4082.5,
+        4081.699951171875,
+        4082.10009765625,
+        4080.0,
+        4080.199951171875,
+        4078.699951171875,
+        4076.199951171875,
+        4077.199951171875
       ],
       "ok": true,
-      "updated_at": "2026-07-21T15:29:10.308347+00:00"
+      "updated_at": "2026-07-21T16:53:47.711477+00:00"
     },
     "crude": {
-      "price": 84.12,
-      "change": 1.64,
-      "pct": 1.9884,
+      "price": 84.42,
+      "change": 1.94,
+      "pct": 2.3521,
       "closes": [
-        82.87000274658203,
-        82.83000183105469,
-        82.88999938964844,
-        82.87000274658203,
-        83.16000366210938,
-        83.19999694824219,
-        83.2699966430664,
-        83.36000061035156,
-        83.47000122070312,
-        83.4800033569336,
-        83.66999816894531,
-        83.63999938964844,
-        83.63999938964844,
-        83.58999633789062,
-        83.7300033569336,
-        83.72000122070312,
-        83.8499984741211,
         83.91999816894531,
         83.83999633789062,
         83.48999786376953,
@@ -479,15 +462,32 @@
         84.58999633789062,
         84.19999694824219,
         84.08000183105469,
-        84.12000274658203
+        84.38999938964844,
+        84.55999755859375,
+        84.38999938964844,
+        84.55999755859375,
+        84.72000122070312,
+        84.66000366210938,
+        84.61000061035156,
+        84.51000213623047,
+        84.30999755859375,
+        84.22000122070312,
+        84.2699966430664,
+        84.30000305175781,
+        84.22000122070312,
+        84.33000183105469,
+        84.26000213623047,
+        84.31999969482422,
+        84.47000122070312,
+        84.41999816894531
       ],
       "ok": true,
-      "updated_at": "2026-07-21T15:29:10.374065+00:00"
+      "updated_at": "2026-07-21T16:53:47.966574+00:00"
     },
     "us10y": {
-      "price": 4.622,
-      "change": 0.024,
-      "pct": 0.522,
+      "price": 4.63,
+      "change": 0.032,
+      "pct": 0.696,
       "closes": [
         4.599999904632568,
         4.604000091552734,
@@ -524,46 +524,63 @@
         4.622000217437744,
         4.624000072479248,
         4.622000217437744,
-        4.622000217437744
+        4.618000030517578,
+        4.618000030517578,
+        4.618000030517578,
+        4.619999885559082,
+        4.622000217437744,
+        4.625999927520752,
+        4.625999927520752,
+        4.625999927520752,
+        4.625999927520752,
+        4.625999927520752,
+        4.625999927520752,
+        4.625999927520752,
+        4.625999927520752,
+        4.630000114440918,
+        4.627999782562256,
+        4.630000114440918,
+        4.631999969482422,
+        4.630000114440918
       ],
       "ok": true,
-      "updated_at": "2026-07-21T15:29:10.421364+00:00"
+      "updated_at": "2026-07-21T16:53:48.079751+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-21T15:29:10.486872+00:00",
+      "updated_at": "2026-07-21T16:53:48.132919+00:00",
       "items": [
         {
-          "title": "Alpha Wealth 2.0: Why some investors keep finding the next opportunity before everyone else",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/alpha-wealth-2-0-why-some-investors-keep-finding-the-next-opportunity-before-everyone-else/articleshow/132529766.cms",
-          "pubDate": "2026-07-21T12:10:53+05:30"
+          "title": "ICICI Bank eyes $500 million dollar bond issue via GIFT City",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/icici-bank-eyes-500-million-dollar-bond-issue-via-gift-city/articleshow/132538886.cms",
+          "pubDate": "2026-07-21T19:51:56+05:30"
         },
         {
-          "title": "Coal India subsidiary CMPDI shares climb 7% after Q1FY27 profit surges 54% YoY",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coal-india-subsidiary-cmpdi-shares-climb-7-after-q1fy27-profit-surges-54-yoy/articleshow/132529176.cms",
-          "pubDate": "2026-07-21T11:39:03+05:30"
+          "title": "Anant Raj to demerge data centre arm into separately listed company",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/anant-raj-to-demerge-data-centre-arm-into-separately-listed-company/articleshow/132538699.cms",
+          "pubDate": "2026-07-21T19:47:08+05:30"
         },
         {
-          "title": "HDFC Bank shares fall for 2nd day but Jefferies, others brokerages remain bullish. Should you buy the dip?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-fall-for-2nd-day-but-jefferies-others-brokerages-remain-bullish-should-you-buy-the-dip/articleshow/132528929.cms",
-          "pubDate": "2026-07-21T11:15:33+05:30"
+          "title": "Sebi asks depositories to put in place operational framework to implement buyback rules from Aug 1",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-asks-depositories-to-put-in-place-operational-framework-to-implement-buyback-rules-from-aug-1/articleshow/132538495.cms",
+          "pubDate": "2026-07-21T19:27:18+05:30"
         },
         {
-          "title": "PNB shares jump 7% in 2 days after Q1 earnings. Should you buy, sell or hold?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pnb-shares-jump-7-in-2-days-after-q1-earnings-should-you-buy-sell-or-hold/articleshow/132528828.cms",
-          "pubDate": "2026-07-21T11:07:59+05:30"
+          "title": "Bandhan Bank Q1 profit jumps 35% as provisions decline sharply",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bandhan-bank-q1-profit-jumps-35-as-provisions-decline-sharply/articleshow/132536317.cms",
+          "pubDate": "2026-07-21T17:44:12+05:30"
         },
         {
-          "title": "Karur Vysya Bank shares soar 11% after stellar Q1 results. What investors should know",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/karur-vysya-bank-shares-soar-over-11-after-stellar-q1-results-what-investors-should-know/articleshow/132528372.cms",
-          "pubDate": "2026-07-21T10:36:12+05:30"
+          "title": "Bigger crash ahead? JPMorgan CEO Dimon says he won't buy stocks at current prices, says markets underestimating risks",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bigger-crash-ahead-jpmorgan-ceo-dimon-says-he-wont-buy-stocks-at-current-prices-says-markets-underestimating-risks/articleshow/132531782.cms",
+          "pubDate": "2026-07-21T13:59:16+05:30"
         },
         {
-          "title": "SBI Funds Management shares list at 7% premium, but target prices go up to Rs 750. Time to buy?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-funds-management-ipo-shares-list-at-7-premium-but-target-prices-go-up-to-rs-750-time-to-buy/articleshow/132528162.cms",
-          "pubDate": "2026-07-21T10:18:48+05:30"
+          "title": "Oil prices to hit $120 soon? Goldman Sachs makes big prediction as Hormuz concerns loom",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-to-hit-120-soon-goldman-sachs-makes-big-prediction-as-hormuz-concerns-loom/articleshow/132530153.cms",
+          "pubDate": "2026-07-21T12:29:19+05:30"
         },
         {
           "title": "Bonus, dividends and stock splits: Bharti Airtel, Hero MotoCorp among 88 stocks turning ex-date this week. Do you own any?",
@@ -688,7 +705,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-07-21T15:29:12.739064+00:00",
       "items": [
         {
@@ -770,8 +787,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-21T15:29:12.874608+00:00",
+      "updated_at": "2026-07-21T16:53:48.603804+00:00",
       "items": [
+        {
+          "title": "Servotech Renewable Power System Q1 Results: PAT jumps 75% YoY; revenue up 58%",
+          "link": "https://www.livemint.com/market/stock-market-news/servotech-renewable-power-system-q1-results-pat-jumps-75-yoy-revenue-up-58-11784649689272.html",
+          "pubDate": "2026-07-21T21:46:24+05:30"
+        },
         {
           "title": "IBM shares extend losing streak, plunge 26% in five sessions after sales miss",
           "link": "https://www.livemint.com/market/stock-market-news/ibm-shares-extend-losing-streak-plunge-26-in-five-sessions-after-sales-miss-11784643339262.html",
@@ -916,11 +938,6 @@
           "title": "Canara HSBC Life Insurance Company shares hit a new high, logging 11% intraday gain; here's why",
           "link": "https://www.livemint.com/market/stock-market-news/canara-hsbc-life-insurance-company-shares-hit-a-new-high-logging-11-intraday-gain-heres-why-11784615526330.html",
           "pubDate": "2026-07-21T12:29:09+05:30"
-        },
-        {
-          "title": "Himadri Speciality Chemical shares hit fresh 52-week high, up for 9th consecutive day after Q1 results",
-          "link": "https://www.livemint.com/market/stock-market-news/himadri-speciality-chemical-shares-hit-fresh-52-week-high-up-for-9th-consecutive-day-after-q1-results-11784613616802.html",
-          "pubDate": "2026-07-21T12:22:19+05:30"
         }
       ]
     },
@@ -931,7 +948,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-21T15:29:14.241606+00:00",
+      "updated_at": "2026-07-21T16:53:49.696402+00:00",
       "items": [
         {
           "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2018-19 Series-V due on July 22, 2026",

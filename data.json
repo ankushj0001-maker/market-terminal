@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T21:51:12.560528+00:00",
+  "generated_at": "2026-07-21T22:41:43.056806+00:00",
   "indices": {
     "nifty50": {
       "price": 24187.7,
@@ -68,7 +68,7 @@
         24187.69921875
       ],
       "ok": true,
-      "updated_at": "2026-07-21T21:51:10.306639+00:00"
+      "updated_at": "2026-07-21T22:41:40.869807+00:00"
     },
     "sensex": {
       "price": 77470.11,
@@ -137,7 +137,7 @@
         77470.109375
       ],
       "ok": true,
-      "updated_at": "2026-07-21T21:51:10.390656+00:00"
+      "updated_at": "2026-07-21T22:41:41.006714+00:00"
     },
     "banknifty": {
       "price": 57835.35,
@@ -206,7 +206,7 @@
         57835.3515625
       ],
       "ok": true,
-      "updated_at": "2026-07-21T21:51:10.470557+00:00"
+      "updated_at": "2026-07-21T22:41:41.136768+00:00"
     },
     "vix": {
       "price": 12.6,
@@ -275,7 +275,7 @@
         12.600000381469727
       ],
       "ok": true,
-      "updated_at": "2026-07-21T21:51:10.546010+00:00"
+      "updated_at": "2026-07-21T22:41:41.292936+00:00"
     },
     "usdinr": {
       "price": 96.225,
@@ -344,20 +344,13 @@
         96.2249984741211
       ],
       "ok": true,
-      "updated_at": "2026-07-21T21:51:10.650051+00:00"
+      "updated_at": "2026-07-21T22:41:41.404183+00:00"
     },
     "gold": {
-      "price": 4082.2,
-      "change": 5.8,
-      "pct": 0.1423,
+      "price": 4088.0,
+      "change": 11.6,
+      "pct": 0.2846,
       "closes": [
-        4081.5,
-        4082.5,
-        4081.699951171875,
-        4082.10009765625,
-        4080.0,
-        4080.199951171875,
-        4078.699951171875,
         4076.199951171875,
         4076.5,
         4077.199951171875,
@@ -410,23 +403,23 @@
         4082.60009765625,
         4082.199951171875,
         4082.199951171875,
-        4082.199951171875
+        4082.60009765625,
+        4081.89990234375,
+        4083.199951171875,
+        4084.300048828125,
+        4084.800048828125,
+        4086.699951171875,
+        4087.39990234375,
+        4088.0
       ],
       "ok": true,
-      "updated_at": "2026-07-21T21:51:10.745311+00:00"
+      "updated_at": "2026-07-21T22:41:41.545719+00:00"
     },
     "crude": {
-      "price": 84.54,
-      "change": 0.2,
-      "pct": 0.2371,
+      "price": 84.68,
+      "change": 0.34,
+      "pct": 0.4031,
       "closes": [
-        84.22000122070312,
-        84.2699966430664,
-        84.30000305175781,
-        84.22000122070312,
-        84.33000183105469,
-        84.26000213623047,
-        84.31999969482422,
         84.47000122070312,
         84.48999786376953,
         84.4000015258789,
@@ -479,10 +472,17 @@
         84.44000244140625,
         84.51000213623047,
         84.54000091552734,
-        84.54000091552734
+        84.61000061035156,
+        84.6500015258789,
+        84.6500015258789,
+        84.61000061035156,
+        84.63999938964844,
+        84.66000366210938,
+        84.66999816894531,
+        84.68000030517578
       ],
       "ok": true,
-      "updated_at": "2026-07-21T21:51:10.878110+00:00"
+      "updated_at": "2026-07-21T22:41:41.651210+00:00"
     },
     "us10y": {
       "price": 4.628,
@@ -551,13 +551,13 @@
         4.627999782562256
       ],
       "ok": true,
-      "updated_at": "2026-07-21T21:51:10.979804+00:00"
+      "updated_at": "2026-07-21T22:41:41.778466+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-21T21:51:11.117019+00:00",
+      "updated_at": "2026-07-21T22:41:41.893450+00:00",
       "items": [
         {
           "title": "US stocks today: US stocks end higher as semiconductors surge amid Mideast war intensifies",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-21T21:51:11.376310+00:00",
+      "updated_at": "2026-07-21T22:41:42.033833+00:00",
       "items": [
+        {
+          "title": "CME feeder cattle futures slump on hot weather, grain prices",
+          "link": "https://www.livemint.com/market/cme-feeder-cattle-futures-slump-on-hot-weather-grain-prices-11784671146699.html",
+          "pubDate": "2026-07-22T03:29:06+05:30"
+        },
         {
           "title": "Dollar advances as oil prices rise after latest US-Iran strikes, Houthi blockade",
           "link": "https://www.livemint.com/market/dollar-advances-as-oil-prices-rise-after-latest-us-iran-strikes-houthi-blockade-11784659517915.html",
@@ -940,11 +945,6 @@
           "title": "UltraTech’s Q1 has bright spots, but margin pressures linger",
           "link": "https://www.livemint.com/market/mark-to-market/ultratech-cement-q1fy27-cement-sector-ebitda-per-tonne-cement-prices-demand-market-share-capacity-expansion-11784618315140.html",
           "pubDate": "2026-07-21T13:45:52+05:30"
-        },
-        {
-          "title": "Indo-MIM IPO: GMP signals 42% listing pop; 10 key things to know from RHP ahead of issue launch on Thursday",
-          "link": "https://www.livemint.com/market/ipo/indomim-ipo-gmp-signals-42-listing-pop-10-key-things-to-know-from-rhp-ahead-of-issue-launch-on-thursday-11784553507141.html",
-          "pubDate": "2026-07-21T13:11:45+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-21T21:51:12.560511+00:00",
+      "updated_at": "2026-07-21T22:41:43.056790+00:00",
       "items": [
         {
           "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2018-19 Series-V due on July 22, 2026",

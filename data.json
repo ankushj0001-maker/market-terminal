@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T20:03:36.787315+00:00",
+  "generated_at": "2026-07-22T21:19:29.752344+00:00",
   "indices": {
     "nifty50": {
       "price": 23996.25,
@@ -68,7 +68,7 @@
         23996.25
       ],
       "ok": true,
-      "updated_at": "2026-07-22T20:03:34.751869+00:00"
+      "updated_at": "2026-07-22T21:19:28.093769+00:00"
     },
     "sensex": {
       "price": 76755.05,
@@ -137,7 +137,7 @@
         76755.046875
       ],
       "ok": true,
-      "updated_at": "2026-07-22T20:03:34.794771+00:00"
+      "updated_at": "2026-07-22T21:19:28.163110+00:00"
     },
     "banknifty": {
       "price": 57126.8,
@@ -206,7 +206,7 @@
         57126.80078125
       ],
       "ok": true,
-      "updated_at": "2026-07-22T20:03:34.838712+00:00"
+      "updated_at": "2026-07-22T21:19:28.203670+00:00"
     },
     "vix": {
       "price": 13.292,
@@ -275,17 +275,13 @@
         13.292499542236328
       ],
       "ok": true,
-      "updated_at": "2026-07-22T20:03:34.881025+00:00"
+      "updated_at": "2026-07-22T21:19:28.244855+00:00"
     },
     "usdinr": {
-      "price": 96.56,
-      "change": 0.335,
-      "pct": 0.3481,
+      "price": 96.555,
+      "change": 0.33,
+      "pct": 0.3429,
       "closes": [
-        96.47250366210938,
-        96.47250366210938,
-        96.47250366210938,
-        96.45999908447266,
         96.47750091552734,
         96.48249816894531,
         96.4800033569336,
@@ -341,29 +337,20 @@
         96.55500030517578,
         96.55500030517578,
         96.55500030517578,
-        96.55999755859375
+        96.55999755859375,
+        96.55500030517578,
+        96.55500030517578,
+        96.55500030517578,
+        96.55500030517578
       ],
       "ok": true,
-      "updated_at": "2026-07-22T20:03:34.938033+00:00"
+      "updated_at": "2026-07-22T21:19:28.318143+00:00"
     },
     "gold": {
-      "price": 4137.2,
-      "change": 60.8,
-      "pct": 1.4915,
+      "price": 4135.0,
+      "change": 58.6,
+      "pct": 1.4375,
       "closes": [
-        4159.60009765625,
-        4159.60009765625,
-        4162.5,
-        4159.89990234375,
-        4165.0,
-        4162.2001953125,
-        4162.0,
-        4162.39990234375,
-        4165.2001953125,
-        4169.39990234375,
-        4167.60009765625,
-        4164.10009765625,
-        4162.0,
         4161.5,
         4159.5,
         4160.10009765625,
@@ -410,29 +397,29 @@
         4139.10009765625,
         4139.7998046875,
         4135.60009765625,
-        4137.2001953125
+        4136.39990234375,
+        4135.89990234375,
+        4138.39990234375,
+        4139.60009765625,
+        4140.39990234375,
+        4141.5,
+        4141.7001953125,
+        4140.5,
+        4139.2001953125,
+        4135.7998046875,
+        4135.2001953125,
+        4134.10009765625,
+        4135.0,
+        4135.0
       ],
       "ok": true,
-      "updated_at": "2026-07-22T20:03:34.987103+00:00"
+      "updated_at": "2026-07-22T21:19:28.365605+00:00"
     },
     "crude": {
-      "price": 86.58,
-      "change": 2.24,
-      "pct": 2.6559,
+      "price": 86.48,
+      "change": 2.14,
+      "pct": 2.5373,
       "closes": [
-        86.72000122070312,
-        87.11000061035156,
-        87.02999877929688,
-        86.7699966430664,
-        86.62000274658203,
-        86.79000091552734,
-        86.68000030517578,
-        86.41000366210938,
-        86.22000122070312,
-        85.87999725341797,
-        85.97000122070312,
-        86.0199966430664,
-        86.0,
         86.05999755859375,
         86.2699966430664,
         86.13999938964844,
@@ -479,10 +466,23 @@
         86.69999694824219,
         86.62000274658203,
         86.61000061035156,
-        86.58000183105469
+        86.51000213623047,
+        86.30999755859375,
+        86.37999725341797,
+        86.41999816894531,
+        86.38999938964844,
+        86.44999694824219,
+        86.4000015258789,
+        86.52999877929688,
+        86.41999816894531,
+        86.52999877929688,
+        86.47000122070312,
+        86.41999816894531,
+        86.4800033569336,
+        86.4800033569336
       ],
       "ok": true,
-      "updated_at": "2026-07-22T20:03:35.057079+00:00"
+      "updated_at": "2026-07-22T21:19:28.455887+00:00"
     },
     "us10y": {
       "price": 4.657,
@@ -551,43 +551,43 @@
         4.6570000648498535
       ],
       "ok": true,
-      "updated_at": "2026-07-22T20:03:35.099975+00:00"
+      "updated_at": "2026-07-22T21:19:28.499766+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-22T20:03:35.316486+00:00",
+      "updated_at": "2026-07-22T21:19:28.539852+00:00",
       "items": [
         {
-          "title": "AI-focused E2E Networks shares hit 5% upper circuit as firm swings to black in Q1, revenue soars 334%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-focused-e2e-networks-shares-hit-5-upper-circuit-as-firm-swings-to-black-in-q1-revenue-soars-334/articleshow/132552097.cms",
-          "pubDate": "2026-07-22T11:34:29+05:30"
+          "title": "US stocks today: S&amp;P 500, Nasdaq close lower amid mixed show by tech stocks ahead of earnings",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-close-lower-as-investors-await-technology-earnings/articleshow/132567590.cms",
+          "pubDate": "2026-07-23T01:34:42+05:30"
         },
         {
-          "title": "MedPlus Health shares tumble 16% after Q1 profit falls 21% YoY. Should you buy, sell or hold?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/medplus-health-shares-tumble-16-after-q1-profit-falls-21-yoy-should-you-buy-sell-or-hold/articleshow/132551924.cms",
-          "pubDate": "2026-07-22T11:21:10+05:30"
+          "title": "PRISM's premium hotel push emerges as next leg of India growth ahead of IPO",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/prisms-premium-hotel-push-emerges-as-next-leg-of-india-growth-ahead-of-ipo/articleshow/132562158.cms",
+          "pubDate": "2026-07-22T21:10:53+05:30"
         },
         {
-          "title": "BlueStone Jewellery shares soar 29% in 2 days after stellar Q1 show. Should you buy, sell or hold the stock?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bluestone-jewellery-shares-soar-29-in-2-days-after-stellar-q1-show-should-you-buy-sell-or-hold-the-stock/articleshow/132551458.cms",
-          "pubDate": "2026-07-22T10:42:23+05:30"
+          "title": "RBI sold $6 billion in May to defend oil-hit Indian rupee, data shows",
+          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-sold-6-billion-in-may-to-defend-oil-hit-indian-rupee-data-shows/articleshow/132560366.cms",
+          "pubDate": "2026-07-22T19:10:48+05:30"
         },
         {
-          "title": "Q1 Results today: Eternal, Nestle, IndusInd Bank among 63 companies announcing June earnings. What to expect?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/q1-results-today-eternal-nestle-indusind-bank-among-63-companies-announcing-june-earnings-what-to-expect/articleshow/132551062.cms",
-          "pubDate": "2026-07-22T10:01:56+05:30"
+          "title": "Will Blinkit growth sustain amid competition? 5 things to know from Eternal's shareholder letter",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-blinkit-growth-sustain-amid-competition-5-things-to-know-from-eternals-shareholder-letter/articleshow/132556814.cms",
+          "pubDate": "2026-07-22T16:06:31+05:30"
         },
         {
-          "title": "Sterlite Tech shares tumble 27% from June peak after 400% surge in 2026. Should you catch this falling knife?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sterlite-tech-shares-tumble-27-from-june-peak-after-400-surge-in-2026-should-you-catch-this-falling-knife/articleshow/132551029.cms",
-          "pubDate": "2026-07-22T09:57:45+05:30"
+          "title": "Indo-MIM IPO opens tomorrow; GMP signals 37% listing premium. Check price band, dates and key details",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/indo-mim-ipo-opens-tomorrow-gmp-signals-37-listing-premium-check-price-band-dates-and-key-details/articleshow/132556427.cms",
+          "pubDate": "2026-07-22T15:50:52+05:30"
         },
         {
-          "title": "Vedanta shares drop 26% in two months, erase all post-demerger gains. Time to buy or better to avoid?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-drop-26-in-two-months-erase-all-post-demerger-gains-time-to-buy-or-better-to-avoid/articleshow/132550874.cms",
-          "pubDate": "2026-07-22T09:42:12+05:30"
+          "title": "Eternal Q1 Results: Cons PAT skyrockets 268% YoY to Rs 92 crore; revenue zooms 182%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/eternal-q1-results-cons-pat-skyrockets-268-yoy-to-rs-92-crore-revenue-zooms-182/articleshow/132555751.cms",
+          "pubDate": "2026-07-22T15:22:29+05:30"
         },
         {
           "title": "New Jersey voter registration controversy explained: How 6,600 noncitizens got on the rolls, and what happens next",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-22T20:03:35.725801+00:00",
+      "updated_at": "2026-07-22T21:19:28.753272+00:00",
       "items": [
+        {
+          "title": "Yen Rebound Ebbs After Brief Rally on Outlook for BOJ Rate Hikes",
+          "link": "https://www.livemint.com/market/yen-rebound-ebbs-after-brief-rally-on-outlook-for-boj-rate-hikes-11784754197557.html",
+          "pubDate": "2026-07-23T02:33:17+05:30"
+        },
         {
           "title": "Two-year yields hit 17-month high on oil surge, Fed fears",
           "link": "https://www.livemint.com/market/twoyear-yields-hit-17-month-high-on-oil-surge-fed-fears-11784747663470.html",
@@ -940,11 +945,6 @@
           "title": "CJP protest in Delhi Jantar Mantar: Why India can't afford this crisis to last long amid US-Iran war? Explained",
           "link": "https://www.livemint.com/market/stock-market-news/cjp-protest-in-delhi-jantar-mantar-why-india-cant-afford-this-crisis-to-last-long-amid-us-iran-war-explained-11784701735525.html",
           "pubDate": "2026-07-22T12:56:44+05:30"
-        },
-        {
-          "title": "Cube Highways Trust InvIT IPO opens today; check latest GMP, subscription status, review, key details",
-          "link": "https://www.livemint.com/market/ipo/cube-highways-trust-invit-ipo-opens-today-cube-highways-trust-invit-ipo-gmp-subscription-status-review-key-details-11784701460610.html",
-          "pubDate": "2026-07-22T12:36:39+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-22T20:03:36.787300+00:00",
+      "updated_at": "2026-07-22T21:19:29.752328+00:00",
       "items": [
         {
           "title": "RBI Bulletin – July 2026",

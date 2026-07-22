@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T12:55:17.936985+00:00",
+  "generated_at": "2026-07-22T14:51:02.896675+00:00",
   "indices": {
     "nifty50": {
       "price": 23996.25,
@@ -68,7 +68,7 @@
         23996.25
       ],
       "ok": true,
-      "updated_at": "2026-07-22T12:55:14.943712+00:00"
+      "updated_at": "2026-07-22T14:51:00.170712+00:00"
     },
     "sensex": {
       "price": 76755.05,
@@ -137,7 +137,7 @@
         76755.046875
       ],
       "ok": true,
-      "updated_at": "2026-07-22T12:55:15.130992+00:00"
+      "updated_at": "2026-07-22T14:51:00.396561+00:00"
     },
     "banknifty": {
       "price": 57126.8,
@@ -206,7 +206,7 @@
         57126.80078125
       ],
       "ok": true,
-      "updated_at": "2026-07-22T12:55:15.317835+00:00"
+      "updated_at": "2026-07-22T14:51:00.539779+00:00"
     },
     "vix": {
       "price": 13.292,
@@ -275,18 +275,13 @@
         13.292499542236328
       ],
       "ok": true,
-      "updated_at": "2026-07-22T12:55:15.484414+00:00"
+      "updated_at": "2026-07-22T14:51:00.708824+00:00"
     },
     "usdinr": {
       "price": 96.555,
       "change": 0.33,
       "pct": 0.3429,
       "closes": [
-        96.44000244140625,
-        96.43250274658203,
-        96.43000030517578,
-        96.44750213623047,
-        96.44249725341797,
         96.44999694824219,
         96.44999694824219,
         96.44999694824219,
@@ -341,39 +336,21 @@
         96.55000305175781,
         96.55000305175781,
         96.56500244140625,
+        96.55500030517578,
+        96.55500030517578,
+        96.55500030517578,
+        96.55500030517578,
+        96.55500030517578,
         96.55500030517578
       ],
       "ok": true,
-      "updated_at": "2026-07-22T12:55:15.715837+00:00"
+      "updated_at": "2026-07-22T14:51:00.888075+00:00"
     },
     "gold": {
-      "price": 4131.7,
-      "change": 55.3,
-      "pct": 1.3566,
+      "price": 4156.8,
+      "change": 80.4,
+      "pct": 1.9723,
       "closes": [
-        4114.60009765625,
-        4119.2998046875,
-        4118.7001953125,
-        4118.89990234375,
-        4119.0,
-        4121.2001953125,
-        4121.7998046875,
-        4122.39990234375,
-        4121.10009765625,
-        4118.7998046875,
-        4118.7998046875,
-        4121.7998046875,
-        4122.2998046875,
-        4124.0,
-        4124.2001953125,
-        4125.7998046875,
-        4126.2001953125,
-        4124.89990234375,
-        4122.60009765625,
-        4121.5,
-        4118.7998046875,
-        4120.5,
-        4121.10009765625,
         4119.39990234375,
         4118.7998046875,
         4120.7001953125,
@@ -410,39 +387,39 @@
         4131.7998046875,
         4132.2001953125,
         4123.7001953125,
-        4131.7001953125
+        4122.2998046875,
+        4117.0,
+        4123.39990234375,
+        4125.60009765625,
+        4130.0,
+        4135.10009765625,
+        4138.10009765625,
+        4136.5,
+        4147.2998046875,
+        4149.7998046875,
+        4147.39990234375,
+        4151.7001953125,
+        4150.5,
+        4160.0,
+        4162.0,
+        4161.7998046875,
+        4161.7001953125,
+        4153.7001953125,
+        4154.60009765625,
+        4151.10009765625,
+        4155.7001953125,
+        4156.60009765625,
+        4155.7001953125,
+        4156.7998046875
       ],
       "ok": true,
-      "updated_at": "2026-07-22T12:55:15.938303+00:00"
+      "updated_at": "2026-07-22T14:51:00.993153+00:00"
     },
     "crude": {
-      "price": 86.72,
-      "change": 2.38,
-      "pct": 2.8219,
+      "price": 86.68,
+      "change": 2.34,
+      "pct": 2.7745,
       "closes": [
-        87.70999908447266,
-        87.27999877929688,
-        87.20999908447266,
-        87.43000030517578,
-        87.29000091552734,
-        87.23999786376953,
-        87.36000061035156,
-        87.31999969482422,
-        87.44000244140625,
-        87.5999984741211,
-        87.62999725341797,
-        87.62999725341797,
-        87.62000274658203,
-        87.48999786376953,
-        87.72000122070312,
-        87.88999938964844,
-        87.9800033569336,
-        87.87999725341797,
-        88.01000213623047,
-        88.19000244140625,
-        88.0,
-        88.01000213623047,
-        88.22000122070312,
         88.52999877929688,
         88.44000244140625,
         88.16999816894531,
@@ -479,30 +456,76 @@
         86.62000274658203,
         86.70999908447266,
         87.05000305175781,
-        86.72000122070312
+        86.75,
+        87.22000122070312,
+        87.1500015258789,
+        87.27999877929688,
+        87.05999755859375,
+        86.29000091552734,
+        86.2300033569336,
+        86.3499984741211,
+        86.18000030517578,
+        86.33000183105469,
+        86.81999969482422,
+        86.56999969482422,
+        86.5999984741211,
+        86.95999908447266,
+        86.77999877929688,
+        86.75,
+        87.11000061035156,
+        86.93000030517578,
+        87.0199966430664,
+        87.05999755859375,
+        87.06999969482422,
+        86.62999725341797,
+        86.56999969482422,
+        86.68000030517578
       ],
       "ok": true,
-      "updated_at": "2026-07-22T12:55:16.221804+00:00"
+      "updated_at": "2026-07-22T14:51:01.149391+00:00"
     },
     "us10y": {
-      "price": 4.638,
-      "change": 0.01,
-      "pct": 0.2161,
+      "price": 4.659,
+      "change": 0.031,
+      "pct": 0.6698,
       "closes": [
         4.6419997215271,
         4.640000343322754,
         4.638000011444092,
         4.638000011444092,
-        4.638000011444092
+        4.633999824523926,
+        4.6419997215271,
+        4.6419997215271,
+        4.645999908447266,
+        4.6419997215271,
+        4.6419997215271,
+        4.6419997215271,
+        4.638000011444092,
+        4.633999824523926,
+        4.636000156402588,
+        4.636000156402588,
+        4.638000011444092,
+        4.6419997215271,
+        4.638000011444092,
+        4.638000011444092,
+        4.640000343322754,
+        4.6419997215271,
+        4.644000053405762,
+        4.650000095367432,
+        4.6529998779296875,
+        4.654000282287598,
+        4.658999919891357,
+        4.658999919891357,
+        4.658999919891357
       ],
       "ok": true,
-      "updated_at": "2026-07-22T12:55:16.381231+00:00"
+      "updated_at": "2026-07-22T14:51:01.301495+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-22T12:55:16.511115+00:00",
+      "updated_at": "2026-07-22T14:51:01.393007+00:00",
       "items": [
         {
           "title": "AI-focused E2E Networks shares hit 5% upper circuit as firm swings to black in Q1, revenue soars 334%",
@@ -657,7 +680,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-07-22T12:55:16.922618+00:00",
       "items": [
         {
@@ -739,8 +762,23 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-22T12:55:17.143140+00:00",
+      "updated_at": "2026-07-22T14:51:01.918565+00:00",
       "items": [
+        {
+          "title": "Multibagger defence stock Apollo Micro Systems to be in focus tomorrow; here's why",
+          "link": "https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-apollo-micro-systems-to-be-in-focus-tomorrow-heres-why-11784728706086.html",
+          "pubDate": "2026-07-22T20:12:53+05:30"
+        },
+        {
+          "title": "Recently listed Indo SMC bags  ₹66.6 crore order from engineering firm; stock jumps 190% from March lows",
+          "link": "https://www.livemint.com/market/stock-market-news/recently-listed-indo-smc-bags-rs-66-6-crore-order-from-engineering-firm-stock-jumps-190-from-march-lows-11784727812120.html",
+          "pubDate": "2026-07-22T19:44:27+05:30"
+        },
+        {
+          "title": "Wall Street: S&amp;P 500, Nasdaq edge lower as chip stocks dip, big tech earnings in focus",
+          "link": "https://www.livemint.com/market/stock-market-news/wall-street-s-p-500-nasdaq-edge-lower-as-chip-stocks-dip-big-tech-earnings-in-focus-11784728186429.html",
+          "pubDate": "2026-07-22T19:32:34+05:30"
+        },
         {
           "title": "US stock market today: Wall Street edges lower ahead of Alphabet earnings; Brent climbs above $95",
           "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-edges-lower-ahead-of-alphabet-earnings-brent-climbs-above-95-11784721735142.html",
@@ -875,21 +913,6 @@
           "title": "Nestle India Q1 results 2026: Net profit rises 48% YoY to  ₹975 crore, revenue up 25%",
           "link": "https://www.livemint.com/market/stock-market-news/nestle-india-q1-results-2026-net-profit-rises-48-yoy-to-975-crore-revenue-up-25-11784699192653.html",
           "pubDate": "2026-07-22T11:36:19+05:30"
-        },
-        {
-          "title": "BPCL Q1 Results 2026 Highlights: OMC stock posts net loss of  ₹3,962.13 crore on higher crude prices, revenue up 23%",
-          "link": "https://www.livemint.com/market/stock-market-news/bpcl-q1-results-2026-live-bpcl-share-price-bpcl-q1-preview-psu-stock-omcs-crude-oil-price-bpcl-result-today-22-july-11784699167796.html",
-          "pubDate": "2026-07-22T11:29:11+05:30"
-        },
-        {
-          "title": "Caliber Mining &amp; Logistics IPO allotment date today. GMP, steps to check allotment status on BSE, NSE, KFin Tech",
-          "link": "https://www.livemint.com/market/ipo/caliber-mining-and-logistics-ipo-allotment-date-today-gmp-steps-to-check-allotment-status-on-bse-nse-kfin-tech-11784698618971.html",
-          "pubDate": "2026-07-22T11:19:00+05:30"
-        },
-        {
-          "title": "InMobi IPO: SoftBank-backed Indian ad tech firm appoints JPMorgan, Jefferies for its upcoming IPO worth $1 billion",
-          "link": "https://www.livemint.com/market/ipo/inmobi-ipo-softbank-backed-indian-ad-tech-firm-appoints-jpmorgan-jefferies-for-its-upcoming-ipo-worth-1-billion-11784693921019.html",
-          "pubDate": "2026-07-22T11:14:45+05:30"
         }
       ]
     },
@@ -900,7 +923,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-22T12:55:17.936970+00:00",
+      "updated_at": "2026-07-22T14:51:02.896660+00:00",
       "items": [
         {
           "title": "RBI Bulletin – July 2026",

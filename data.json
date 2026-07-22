@@ -1,15 +1,11 @@
 {
-  "generated_at": "2026-07-22T09:36:18.118899+00:00",
+  "generated_at": "2026-07-22T11:28:08.214952+00:00",
   "indices": {
     "nifty50": {
-      "price": 24002.75,
-      "change": -184.95,
-      "pct": -0.7646,
+      "price": 23996.25,
+      "change": -191.45,
+      "pct": -0.7915,
       "closes": [
-        24021.44921875,
-        24001.75,
-        24007.599609375,
-        24002.099609375,
         23994.099609375,
         23989.19921875,
         24010.900390625,
@@ -64,24 +60,21 @@
         23987.44921875,
         23979.900390625,
         23981.650390625,
-        23995.75,
-        24002.75
+        23997.900390625,
+        24021.150390625,
+        24016.19921875,
+        23999.19921875,
+        23991.05078125,
+        23996.25
       ],
       "ok": true,
-      "updated_at": "2026-07-22T09:36:15.123890+00:00"
+      "updated_at": "2026-07-22T11:28:05.612263+00:00"
     },
     "sensex": {
-      "price": 76728.24,
-      "change": -741.87,
-      "pct": -0.9576,
+      "price": 76755.05,
+      "change": -715.06,
+      "pct": -0.923,
       "closes": [
-        76912.703125,
-        76996.8125,
-        76933.6015625,
-        76894.7421875,
-        76819.3828125,
-        76836.4296875,
-        76813.5390625,
         76787.796875,
         76760.5234375,
         76834.96875,
@@ -133,21 +126,24 @@
         76727.25,
         76694.34375,
         76710.03125,
-        76721.84375,
-        76728.2421875
+        76750.4296875,
+        76701.328125,
+        76689.6875,
+        76759.0,
+        76837.34375,
+        76766.640625,
+        76760.84375,
+        76755.046875,
+        76755.046875
       ],
       "ok": true,
-      "updated_at": "2026-07-22T09:36:15.191278+00:00"
+      "updated_at": "2026-07-22T11:28:05.746943+00:00"
     },
     "banknifty": {
-      "price": 57094.65,
-      "change": -740.7,
-      "pct": -1.2807,
+      "price": 57126.8,
+      "change": -708.55,
+      "pct": -1.2251,
       "closes": [
-        57340.05078125,
-        57277.5,
-        57256.8984375,
-        57253.75,
         57233.8515625,
         57222.1484375,
         57232.0,
@@ -202,21 +198,21 @@
         57104.25,
         57077.8515625,
         57067.25,
-        57080.6015625,
-        57094.6484375
+        57126.8984375,
+        57158.1484375,
+        57149.05078125,
+        57132.05078125,
+        57122.1015625,
+        57126.80078125
       ],
       "ok": true,
-      "updated_at": "2026-07-22T09:36:15.258026+00:00"
+      "updated_at": "2026-07-22T11:28:05.920800+00:00"
     },
     "vix": {
-      "price": 13.295,
-      "change": 0.315,
-      "pct": 2.4268,
+      "price": 13.292,
+      "change": 0.312,
+      "pct": 2.4037,
       "closes": [
-        13.010000228881836,
-        13.029999732971191,
-        13.087499618530273,
-        13.164999961853027,
         13.1875,
         13.22249984741211,
         13.09749984741211,
@@ -271,22 +267,21 @@
         13.332500457763672,
         13.359999656677246,
         13.350000381469727,
-        13.3149995803833,
-        13.295000076293945
+        13.295000076293945,
+        13.274999618530273,
+        13.25,
+        13.345000267028809,
+        13.307499885559082,
+        13.292499542236328
       ],
       "ok": true,
-      "updated_at": "2026-07-22T09:36:15.395817+00:00"
+      "updated_at": "2026-07-22T11:28:06.058391+00:00"
     },
     "usdinr": {
-      "price": 96.5425,
-      "change": 0.3175,
-      "pct": 0.33,
+      "price": 96.565,
+      "change": 0.34,
+      "pct": 0.3533,
       "closes": [
-        96.40750122070312,
-        96.44249725341797,
-        96.42749786376953,
-        96.42500305175781,
-        96.43000030517578,
         96.44000244140625,
         96.43250274658203,
         96.43000030517578,
@@ -340,39 +335,22 @@
         96.52749633789062,
         96.54000091552734,
         96.54000091552734,
-        96.54000091552734,
-        96.5425033569336
+        96.5425033569336,
+        96.55249786376953,
+        96.54499816894531,
+        96.55000305175781,
+        96.55000305175781,
+        96.56500244140625,
+        96.56500244140625
       ],
       "ok": true,
-      "updated_at": "2026-07-22T09:36:15.496917+00:00"
+      "updated_at": "2026-07-22T11:28:06.196549+00:00"
     },
     "gold": {
-      "price": 4124.8,
-      "change": 48.4,
-      "pct": 1.1873,
+      "price": 4127.0,
+      "change": 50.6,
+      "pct": 1.2413,
       "closes": [
-        4130.89990234375,
-        4131.89990234375,
-        4130.89990234375,
-        4130.60009765625,
-        4131.7998046875,
-        4133.0,
-        4131.7998046875,
-        4133.2001953125,
-        4128.5,
-        4128.7998046875,
-        4128.2998046875,
-        4132.0,
-        4137.0,
-        4136.89990234375,
-        4136.2001953125,
-        4133.60009765625,
-        4135.5,
-        4138.7998046875,
-        4135.10009765625,
-        4134.0,
-        4134.7998046875,
-        4129.5,
         4121.7001953125,
         4123.5,
         4121.10009765625,
@@ -410,38 +388,38 @@
         4126.2001953125,
         4124.89990234375,
         4122.60009765625,
-        4124.7998046875
+        4121.5,
+        4118.7998046875,
+        4120.5,
+        4121.10009765625,
+        4119.39990234375,
+        4118.7998046875,
+        4120.7001953125,
+        4120.60009765625,
+        4121.7998046875,
+        4122.2001953125,
+        4125.5,
+        4123.5,
+        4123.2001953125,
+        4121.10009765625,
+        4121.2001953125,
+        4123.0,
+        4122.7001953125,
+        4121.2001953125,
+        4121.2998046875,
+        4123.2001953125,
+        4123.39990234375,
+        4125.60009765625,
+        4127.0
       ],
       "ok": true,
-      "updated_at": "2026-07-22T09:36:15.614310+00:00"
+      "updated_at": "2026-07-22T11:28:06.366272+00:00"
     },
     "crude": {
-      "price": 87.91,
-      "change": 3.57,
-      "pct": 4.2329,
+      "price": 87.36,
+      "change": 3.02,
+      "pct": 3.5807,
       "closes": [
-        85.37000274658203,
-        85.38999938964844,
-        85.37999725341797,
-        85.41000366210938,
-        85.43000030517578,
-        85.43000030517578,
-        85.45999908447266,
-        85.52999877929688,
-        85.5199966430664,
-        85.41999816894531,
-        85.37999725341797,
-        85.3499984741211,
-        85.19999694824219,
-        85.12999725341797,
-        85.1500015258789,
-        85.06999969482422,
-        85.13999938964844,
-        85.29000091552734,
-        85.31999969482422,
-        85.23999786376953,
-        85.79000091552734,
-        86.06999969482422,
         86.02999877929688,
         86.0,
         86.06999969482422,
@@ -479,10 +457,32 @@
         87.9800033569336,
         87.87999725341797,
         88.01000213623047,
-        87.91000366210938
+        88.19000244140625,
+        88.0,
+        88.01000213623047,
+        88.22000122070312,
+        88.52999877929688,
+        88.44000244140625,
+        88.16999816894531,
+        88.08000183105469,
+        87.83000183105469,
+        87.52999877929688,
+        87.16999816894531,
+        87.0,
+        87.12999725341797,
+        87.22000122070312,
+        87.31999969482422,
+        87.16000366210938,
+        87.12000274658203,
+        87.18000030517578,
+        87.37999725341797,
+        87.19999694824219,
+        87.23999786376953,
+        87.44999694824219,
+        87.36000061035156
       ],
       "ok": true,
-      "updated_at": "2026-07-22T09:36:15.770498+00:00"
+      "updated_at": "2026-07-22T11:28:06.536702+00:00"
     },
     "us10y": {
       "price": 4.628,
@@ -551,13 +551,13 @@
         4.627999782562256
       ],
       "ok": true,
-      "updated_at": "2026-07-22T09:36:15.923014+00:00"
+      "updated_at": "2026-07-22T11:28:06.657043+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-22T09:36:16.250729+00:00",
+      "updated_at": "2026-07-22T11:28:06.706270+00:00",
       "items": [
         {
           "title": "AI-focused E2E Networks shares hit 5% upper circuit as firm swings to black in Q1, revenue soars 334%",
@@ -712,7 +712,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-07-22T09:36:16.435238+00:00",
       "items": [
         {
@@ -794,8 +794,48 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-22T09:36:16.725785+00:00",
+      "updated_at": "2026-07-22T11:28:07.236829+00:00",
       "items": [
+        {
+          "title": "PSU stock Coal India sets board meeting date to declare final dividend for FY26, record date. Details here",
+          "link": "https://www.livemint.com/market/stock-market-news/psu-stock-coal-india-sets-board-meeting-date-to-declare-final-dividend-for-fy26-record-date-details-here-11784718121166.html",
+          "pubDate": "2026-07-22T16:50:54+05:30"
+        },
+        {
+          "title": "Expert view: Market recovery may be closer than most people think, says Monarch Networth Capital CEO",
+          "link": "https://www.livemint.com/market/stock-market-news/expert-view-market-recovery-may-be-closer-than-most-people-think-says-monarch-networth-capital-ceo-11784718071930.html",
+          "pubDate": "2026-07-22T16:48:11+05:30"
+        },
+        {
+          "title": "IndusInd Bank Q1 Results 2026: Net profit surges 72% at  ₹1,037 crore, NII up just 1%",
+          "link": "https://www.livemint.com/market/stock-market-news/indusind-bank-q1-results-2026-net-profit-surges-72-at-rs-1-037-crore-nii-up-just-1-11784717260308.html",
+          "pubDate": "2026-07-22T16:29:27+05:30"
+        },
+        {
+          "title": "'Global economy is crashing': Rich Dad Poor Dad author Robert Kiyosaki repeats stock market crash prediction",
+          "link": "https://www.livemint.com/market/stock-market-news/global-economy-is-crashing-rich-dad-poor-dad-author-robert-kiyosaki-repeats-stock-market-crash-prediction-11784713956376.html",
+          "pubDate": "2026-07-22T16:15:34+05:30"
+        },
+        {
+          "title": "Brent Crude tops $95 as US-Iran tensions, Hormuz blockade drive oil rally",
+          "link": "https://www.livemint.com/market/commodities/brent-crude-tops-95-as-us-iran-tensions-hormuz-blockade-drive-oil-rally-11784714555942.html",
+          "pubDate": "2026-07-22T15:58:53+05:30"
+        },
+        {
+          "title": "Top Gainers &amp; Losers on 22 July: Bandhan Bank, PG Electroplast, Lupin, Delhivery, Voltas, IndiGo among top losers",
+          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-22-july-bandhan-bank-pg-electroplast-lupin-delhivery-voltas-indigo-among-top-losers-11784713647070.html",
+          "pubDate": "2026-07-22T15:44:26+05:30"
+        },
+        {
+          "title": "Eternal Q1 results: Profit jumps 268% YoY to  ₹92 crore; NOV jumps 54% YoY",
+          "link": "https://www.livemint.com/market/stock-market-news/eternal-q1-results-profit-comes-at-92-crore-11784709597254.html",
+          "pubDate": "2026-07-22T15:19:51+05:30"
+        },
+        {
+          "title": "TVS, Bajaj Auto eye same goalpost with different approach",
+          "link": "https://www.livemint.com/market/mark-to-market/bajaj-auto-tvs-motor-q1fy27-results-exports-market-share-ev-growth-auto-stocks-twowheelers-11784707282030.html",
+          "pubDate": "2026-07-22T15:09:10+05:30"
+        },
         {
           "title": "BPCL Q1 Results: PSU firm posts net loss of  ₹3,962 crore",
           "link": "https://www.livemint.com/market/bpcl-q1-results-psu-firm-posts-q1-net-loss-of-rs-3-962-crore-11784712205829.html",
@@ -887,7 +927,7 @@
           "pubDate": "2026-07-22T11:36:19+05:30"
         },
         {
-          "title": "BPCL Q1 Results 2026 LIVE: OMC stock posts net loss of  ₹3,962.13 crore, revenue up 18%",
+          "title": "BPCL Q1 Results 2026 Highlights: OMC stock posts net loss of  ₹3,962.13 crore on higher crude prices, revenue up 23%",
           "link": "https://www.livemint.com/market/stock-market-news/bpcl-q1-results-2026-live-bpcl-share-price-bpcl-q1-preview-psu-stock-omcs-crude-oil-price-bpcl-result-today-22-july-11784699167796.html",
           "pubDate": "2026-07-22T11:29:11+05:30"
         },
@@ -902,49 +942,9 @@
           "pubDate": "2026-07-22T11:14:45+05:30"
         },
         {
-          "title": "Sensex crashes over 800 points, Nifty 50 drops below 24,000- key factors behind stock market fall explained",
+          "title": "Sensex crashes over 700 points, Nifty 50 ends below 24,000- key factors behind stock market fall explained",
           "link": "https://www.livemint.com/market/stock-market-news/sensex-crashes-over-700-points-nifty-50-drops-below-24-000-key-factors-behind-indian-stock-market-fall-explained-11784697686159.html",
           "pubDate": "2026-07-22T10:55:41+05:30"
-        },
-        {
-          "title": "From Merritronix to Winsol Engineers: 73% of SME IPOs made listing gains since 2020. Here's what's changing now",
-          "link": "https://www.livemint.com/market/ipo/from-merritronix-to-winsol-engineers-73-of-sme-ipos-made-listing-gains-since-2020-heres-whats-changing-now-11784691210382.html",
-          "pubDate": "2026-07-22T10:50:23+05:30"
-        },
-        {
-          "title": "Paytm shares dip for seventh straight session. Time to buy after Q1 results?",
-          "link": "https://www.livemint.com/market/paytm-shares-dip-for-seventh-straight-session-time-to-buy-after-q1-results-11784696517061.html",
-          "pubDate": "2026-07-22T10:36:49+05:30"
-        },
-        {
-          "title": "Mahindra Finance shares surge 19% in just 2 sessions on Q1 boost; should you buy, sell, hold the NBFC stock?",
-          "link": "https://www.livemint.com/market/stock-market-news/mahindra-finance-shares-surge-over-17-in-just-2-sessions-on-q1-boost-should-you-buy-sell-hold-the-nbfc-stock-11784695623106.html",
-          "pubDate": "2026-07-22T10:25:22+05:30"
-        },
-        {
-          "title": "Jindal Steel to NTPC - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&amp;O segment",
-          "link": "https://www.livemint.com/market/stock-market-news/jindal-steel-to-ntpc-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11784694162345.html",
-          "pubDate": "2026-07-22T10:06:18+05:30"
-        },
-        {
-          "title": "Bandhan Bank share price slips over 14% on weak margin outlook. Should you buy, sell or hold the stock after Q1 results?",
-          "link": "https://www.livemint.com/market/stock-market-news/bandhan-bank-share-price-slips-over-14-on-weak-margin-outlook-should-you-buy-sell-or-hold-the-stock-after-q1-results-11784694637800.html",
-          "pubDate": "2026-07-22T10:02:41+05:30"
-        },
-        {
-          "title": "Eternal share price edges higher ahead of Q1 results 2026. Should you buy or sell?",
-          "link": "https://www.livemint.com/market/stock-market-news/eternal-share-price-edges-higher-ahead-of-q1-results-2026-should-you-buy-or-sell-11784693469830.html",
-          "pubDate": "2026-07-22T09:54:38+05:30"
-        },
-        {
-          "title": "TVS Motor share price rises 5%, jumps 10% in 2 sessions after Q1 results; is it a stock to buy?",
-          "link": "https://www.livemint.com/market/stock-market-news/tvs-motor-share-price-rises-4-jumps-10-in-2-sessions-after-q1-results-is-it-a-stock-to-buy-11784693231086.html",
-          "pubDate": "2026-07-22T09:41:19+05:30"
-        },
-        {
-          "title": "Bajaj Auto share price jumps 4% after auto major posted record revenue and profit in Q1FY27 results: Should you buy?",
-          "link": "https://www.livemint.com/market/stock-market-news/bajaj-auto-share-price-jumps-4-after-auto-major-posted-record-revenue-and-profit-in-q1fy27-results-should-you-buy-11784693010082.html",
-          "pubDate": "2026-07-22T09:37:54+05:30"
         }
       ]
     },
@@ -955,8 +955,13 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-22T09:36:18.118881+00:00",
+      "updated_at": "2026-07-22T11:28:08.214936+00:00",
       "items": [
+        {
+          "title": "Treasury Bills: Full Auction Result",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63211",
+          "pubDate": "2026-07-22T16:25:00+00:00"
+        },
         {
           "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63210",
@@ -1001,11 +1006,6 @@
           "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) – The Suri Friends’ Union Co-operative Bank Ltd., Suri, West Bengal – Extension of period",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63202",
           "pubDate": "2026-07-21T11:00:00+00:00"
-        },
-        {
-          "title": "Result of the 3-day Variable Rate Repo (VRR) auction held on July 21, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63201",
-          "pubDate": "2026-07-21T10:15:00+00:00"
         }
       ]
     }

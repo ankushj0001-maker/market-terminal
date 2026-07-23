@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T19:12:46.468361+00:00",
+  "generated_at": "2026-07-23T20:19:10.951364+00:00",
   "indices": {
     "nifty50": {
       "price": 23869.6,
@@ -68,7 +68,7 @@
         23869.599609375
       ],
       "ok": true,
-      "updated_at": "2026-07-23T19:12:44.513583+00:00"
+      "updated_at": "2026-07-23T20:19:07.377486+00:00"
     },
     "sensex": {
       "price": 76391.39,
@@ -137,7 +137,7 @@
         76391.390625
       ],
       "ok": true,
-      "updated_at": "2026-07-23T19:12:44.595510+00:00"
+      "updated_at": "2026-07-23T20:19:07.633344+00:00"
     },
     "banknifty": {
       "price": 56592.0,
@@ -206,7 +206,7 @@
         56592.0
       ],
       "ok": true,
-      "updated_at": "2026-07-23T19:12:44.648008+00:00"
+      "updated_at": "2026-07-23T20:19:07.839227+00:00"
     },
     "vix": {
       "price": 13.475,
@@ -275,16 +275,13 @@
         13.475000381469727
       ],
       "ok": true,
-      "updated_at": "2026-07-23T19:12:44.699858+00:00"
+      "updated_at": "2026-07-23T20:19:08.018704+00:00"
     },
     "usdinr": {
       "price": 96.563,
       "change": 0.008,
       "pct": 0.0083,
       "closes": [
-        96.5374984741211,
-        96.53250122070312,
-        96.53500366210938,
         96.54000091552734,
         96.5425033569336,
         96.54000091552734,
@@ -341,29 +338,19 @@
         96.56300354003906,
         96.56300354003906,
         96.56300354003906,
+        96.56300354003906,
+        96.56300354003906,
+        96.56300354003906,
         96.56300354003906
       ],
       "ok": true,
-      "updated_at": "2026-07-23T19:12:44.776486+00:00"
+      "updated_at": "2026-07-23T20:19:08.197751+00:00"
     },
     "gold": {
-      "price": 4049.8,
-      "change": -102.1,
-      "pct": -2.4591,
+      "price": 4051.8,
+      "change": -100.1,
+      "pct": -2.4109,
       "closes": [
-        4051.0,
-        4047.300048828125,
-        4055.10009765625,
-        4059.60009765625,
-        4057.39990234375,
-        4062.199951171875,
-        4060.10009765625,
-        4061.89990234375,
-        4060.0,
-        4061.10009765625,
-        4059.199951171875,
-        4054.699951171875,
-        4054.699951171875,
         4055.39990234375,
         4053.0,
         4049.699951171875,
@@ -410,29 +397,29 @@
         4048.60009765625,
         4048.800048828125,
         4047.89990234375,
-        4049.800048828125
+        4046.10009765625,
+        4045.60009765625,
+        4047.5,
+        4050.10009765625,
+        4050.10009765625,
+        4049.699951171875,
+        4050.199951171875,
+        4048.10009765625,
+        4047.89990234375,
+        4052.199951171875,
+        4052.10009765625,
+        4051.0,
+        4050.60009765625,
+        4051.800048828125
       ],
       "ok": true,
-      "updated_at": "2026-07-23T19:12:44.851282+00:00"
+      "updated_at": "2026-07-23T20:19:08.500790+00:00"
     },
     "crude": {
-      "price": 91.9,
-      "change": 5.07,
-      "pct": 5.839,
+      "price": 91.57,
+      "change": 4.74,
+      "pct": 5.4589,
       "closes": [
-        91.47000122070312,
-        91.2699966430664,
-        91.51000213623047,
-        91.7300033569336,
-        91.83000183105469,
-        91.4800033569336,
-        91.6500015258789,
-        92.05999755859375,
-        92.11000061035156,
-        91.9000015258789,
-        91.93000030517578,
-        92.2300033569336,
-        92.08999633789062,
         92.33000183105469,
         92.63999938964844,
         92.4800033569336,
@@ -479,10 +466,23 @@
         92.27999877929688,
         92.02999877929688,
         91.87000274658203,
-        91.9000015258789
+        91.75,
+        91.68000030517578,
+        91.75,
+        91.87000274658203,
+        91.63999938964844,
+        91.56999969482422,
+        91.72000122070312,
+        91.70999908447266,
+        91.86000061035156,
+        91.48999786376953,
+        91.61000061035156,
+        91.5999984741211,
+        91.52999877929688,
+        91.56999969482422
       ],
       "ok": true,
-      "updated_at": "2026-07-23T19:12:44.918057+00:00"
+      "updated_at": "2026-07-23T20:19:08.778441+00:00"
     },
     "us10y": {
       "price": 4.703,
@@ -551,14 +551,34 @@
         4.703000068664551
       ],
       "ok": true,
-      "updated_at": "2026-07-23T19:12:44.982035+00:00"
+      "updated_at": "2026-07-23T20:19:09.057001+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-23T19:12:45.175409+00:00",
+      "updated_at": "2026-07-23T20:19:09.369084+00:00",
       "items": [
+        {
+          "title": "Tesla short sellers mint $4 billion profit as shares nosedive",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive/articleshow/132591384.cms",
+          "pubDate": "2026-07-24T01:23:21+05:30"
+        },
+        {
+          "title": "Tesla shares crash 14%, Alphabet falls 6% as AI spending worries hit Wall Street",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/tesla-shares-crash-14-alphabet-falls-6-as-ai-spending-worries-hit-wall-street/articleshow/132585791.cms",
+          "pubDate": "2026-07-23T20:45:07+05:30"
+        },
+        {
+          "title": "Brent crude oil price surges past $100 as Houthi tanker attacks in Red Sea rattle markets",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/brent-crude-oil-price-surges-past-100-as-houthi-tanker-attacks-in-red-sea-rattle-markets/articleshow/132583335.cms",
+          "pubDate": "2026-07-23T19:05:38+05:30"
+        },
+        {
+          "title": "Rekha Jhunjhunwala sells over 7 crore Star Health shares in Q1. Details here",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rekha-jhunjhunwala-sells-over-7-crore-star-health-shares-in-q1-details-here/articleshow/132577312.cms",
+          "pubDate": "2026-07-23T15:43:16+05:30"
+        },
         {
           "title": "Argentina vs Spain FIFA World Cup Final to be replayed? Petition for a rematch crosses 60,000 signatures",
           "link": "https://economictimes.indiatimes.com/news/new-updates/argentina-vs-spain-fifa-world-cup-final-to-be-replayed-petition-for-a-rematch-crosses-60000-signatures/articleshow/132576024.cms",
@@ -583,26 +603,6 @@
           "title": "BlackRock, Prashant Jain-backed 3P India among others invest in Indo MIM IPO anchor book of Rs 1,141 crore",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/blackrock-prashant-jain-backed-3p-india-among-others-invest-in-indo-mim-ipo-anchor-book-of-rs-1141-crore/articleshow/132573246.cms",
           "pubDate": "2026-07-23T11:50:00+05:30"
-        },
-        {
-          "title": "Waaree Renewable shares slide 7% despite 34% YoY surge in Q1 profit. What's spooking investors?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/waaree-renewable-shares-crash-7-even-after-q1-net-profit-rises-34-yoy-whats-spooking-investors/articleshow/132572933.cms",
-          "pubDate": "2026-07-23T11:21:51+05:30"
-        },
-        {
-          "title": "Tanla Platforms shares jump nearly 14% post Q1 earnings, revenue surges 17.8% YoY",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tanla-platforms-shares-jump-nearly-14-post-q1-earnings-revenue-surges-17-8-yoy/articleshow/132572721.cms",
-          "pubDate": "2026-07-23T11:01:47+05:30"
-        },
-        {
-          "title": "Adani Green shares tumble 5% after Q1 results. Here’s why Bernstein has an Underperform rating",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-green-shares-tumble-5-after-q1-results-heres-why-bernstein-has-an-underperform-rating/articleshow/132572487.cms",
-          "pubDate": "2026-07-23T10:49:35+05:30"
-        },
-        {
-          "title": "Bluestone Jewellery shares rocket 36% in just three days after Q1 results. Can the momentum sustain?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bluestone-jewellery-shares-rocket-36-in-just-three-days-after-q1-results-can-the-momentum-sustain/articleshow/132572210.cms",
-          "pubDate": "2026-07-23T10:25:51+05:30"
         },
         {
           "title": "New Jersey voter registration controversy explained: How 6,600 noncitizens got on the rolls, and what happens next",
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-23T19:12:45.507318+00:00",
+      "updated_at": "2026-07-23T20:19:09.747715+00:00",
       "items": [
+        {
+          "title": "Yen’s Slump Extends Beyond Dollar and Stokes Inflation Fears",
+          "link": "https://www.livemint.com/market/yens-slump-extends-beyond-dollar-and-stokes-inflation-fears-11784836659389.html",
+          "pubDate": "2026-07-24T01:27:38+05:30"
+        },
+        {
+          "title": "Dollar hits new 40-year high versus yen, euro softer after ECB stands pat on rates",
+          "link": "https://www.livemint.com/market/dollar-hits-new-40-year-high-versus-yen-euro-softer-after-ecb-stands-pat-on-rates-11784833989812.html",
+          "pubDate": "2026-07-24T00:43:09+05:30"
+        },
         {
           "title": "Gold falls 2% as Middle East tensions fuel inflation fears, rate-hike bets",
           "link": "https://www.livemint.com/market/gold-falls-2-as-middle-east-tensions-fuel-inflation-fears-rate-hike-bets-11784831852540.html",
@@ -935,16 +945,6 @@
           "title": "Expert view: Prolonged US-Iran conflict risks earnings estimate cuts, says Dhiraj Relli of HDFC Securities",
           "link": "https://www.livemint.com/market/stock-market-news/expert-view-prolonged-us-iran-conflict-risks-earnings-estimate-cuts-says-dhiraj-relli-of-hdfc-securities-11784791105668.html",
           "pubDate": "2026-07-23T13:21:31+05:30"
-        },
-        {
-          "title": "CJP protest in Delhi: Is it wise to pause fresh capital allocation to the Indian equities? Explained",
-          "link": "https://www.livemint.com/market/stock-market-news/cjp-protest-in-delhi-live-is-it-wise-to-pause-fresh-capital-allocation-to-the-indian-equities-and-buy-gold-explained-11784789201124.html",
-          "pubDate": "2026-07-23T13:18:09+05:30"
-        },
-        {
-          "title": "Adani Green share price falls 5% despite strong Q1 results - Should you buy the Adani Group stock?",
-          "link": "https://www.livemint.com/market/stock-market-news/adani-green-share-price-falls-5-despite-strong-q1-results-should-you-buy-the-adani-group-stock-11784787924015.html",
-          "pubDate": "2026-07-23T12:41:25+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-23T19:12:46.468343+00:00",
+      "updated_at": "2026-07-23T20:19:10.951336+00:00",
       "items": [
         {
           "title": "Buyback of Government of India Dated Securities",

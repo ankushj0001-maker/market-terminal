@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T20:19:10.951364+00:00",
+  "generated_at": "2026-07-23T21:31:29.263531+00:00",
   "indices": {
     "nifty50": {
       "price": 23869.6,
@@ -68,7 +68,7 @@
         23869.599609375
       ],
       "ok": true,
-      "updated_at": "2026-07-23T20:19:07.377486+00:00"
+      "updated_at": "2026-07-23T21:31:27.346594+00:00"
     },
     "sensex": {
       "price": 76391.39,
@@ -137,7 +137,7 @@
         76391.390625
       ],
       "ok": true,
-      "updated_at": "2026-07-23T20:19:07.633344+00:00"
+      "updated_at": "2026-07-23T21:31:27.418121+00:00"
     },
     "banknifty": {
       "price": 56592.0,
@@ -206,7 +206,7 @@
         56592.0
       ],
       "ok": true,
-      "updated_at": "2026-07-23T20:19:07.839227+00:00"
+      "updated_at": "2026-07-23T21:31:27.458138+00:00"
     },
     "vix": {
       "price": 13.475,
@@ -275,7 +275,7 @@
         13.475000381469727
       ],
       "ok": true,
-      "updated_at": "2026-07-23T20:19:08.018704+00:00"
+      "updated_at": "2026-07-23T21:31:27.505351+00:00"
     },
     "usdinr": {
       "price": 96.563,
@@ -344,23 +344,13 @@
         96.56300354003906
       ],
       "ok": true,
-      "updated_at": "2026-07-23T20:19:08.197751+00:00"
+      "updated_at": "2026-07-23T21:31:27.569597+00:00"
     },
     "gold": {
-      "price": 4051.8,
-      "change": -100.1,
-      "pct": -2.4109,
+      "price": 4052.3,
+      "change": -99.6,
+      "pct": -2.3989,
       "closes": [
-        4055.39990234375,
-        4053.0,
-        4049.699951171875,
-        4048.300048828125,
-        4052.10009765625,
-        4050.89990234375,
-        4052.300048828125,
-        4053.0,
-        4051.199951171875,
-        4051.300048828125,
         4051.300048828125,
         4053.10009765625,
         4049.199951171875,
@@ -410,26 +400,26 @@
         4052.10009765625,
         4051.0,
         4050.60009765625,
-        4051.800048828125
+        4051.800048828125,
+        4051.10009765625,
+        4051.300048828125,
+        4052.60009765625,
+        4052.10009765625,
+        4052.699951171875,
+        4052.199951171875,
+        4052.10009765625,
+        4050.5,
+        4052.300048828125,
+        4052.300048828125
       ],
       "ok": true,
-      "updated_at": "2026-07-23T20:19:08.500790+00:00"
+      "updated_at": "2026-07-23T21:31:27.629470+00:00"
     },
     "crude": {
-      "price": 91.57,
-      "change": 4.74,
-      "pct": 5.4589,
+      "price": 92.36,
+      "change": 5.53,
+      "pct": 6.3688,
       "closes": [
-        92.33000183105469,
-        92.63999938964844,
-        92.4800033569336,
-        92.5,
-        92.30000305175781,
-        92.06999969482422,
-        91.88999938964844,
-        91.94999694824219,
-        91.8499984741211,
-        92.05999755859375,
         92.20999908447266,
         91.80999755859375,
         92.08999633789062,
@@ -479,10 +469,20 @@
         91.61000061035156,
         91.5999984741211,
         91.52999877929688,
-        91.56999969482422
+        91.56999969482422,
+        91.83999633789062,
+        92.0,
+        91.93000030517578,
+        91.93000030517578,
+        91.95999908447266,
+        92.20999908447266,
+        92.20999908447266,
+        92.33000183105469,
+        92.36000061035156,
+        92.36000061035156
       ],
       "ok": true,
-      "updated_at": "2026-07-23T20:19:08.778441+00:00"
+      "updated_at": "2026-07-23T21:31:27.687376+00:00"
     },
     "us10y": {
       "price": 4.703,
@@ -551,14 +551,19 @@
         4.703000068664551
       ],
       "ok": true,
-      "updated_at": "2026-07-23T20:19:09.057001+00:00"
+      "updated_at": "2026-07-23T21:31:27.763565+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-23T20:19:09.369084+00:00",
+      "updated_at": "2026-07-23T21:31:27.812396+00:00",
       "items": [
+        {
+          "title": "US stocks today: Nasdaq plunges 2% as tech earnings spark AI spending worries",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-fall-as-tech-earnings-spark-ai-spending-worries-and-oil-hits-100/articleshow/132591456.cms",
+          "pubDate": "2026-07-24T01:33:25+05:30"
+        },
         {
           "title": "Tesla short sellers mint $4 billion profit as shares nosedive",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive/articleshow/132591384.cms",
@@ -598,11 +603,6 @@
           "title": "What is a 'Dystopian Nightmare'? The psychology behind the viral trend",
           "link": "https://economictimes.indiatimes.com/news/new-updates/what-is-a-dystopian-nightmare-the-psychology-behind-the-viral-trend/articleshow/132573003.cms",
           "pubDate": "2026-07-23T11:57:44+05:30"
-        },
-        {
-          "title": "BlackRock, Prashant Jain-backed 3P India among others invest in Indo MIM IPO anchor book of Rs 1,141 crore",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/blackrock-prashant-jain-backed-3p-india-among-others-invest-in-indo-mim-ipo-anchor-book-of-rs-1141-crore/articleshow/132573246.cms",
-          "pubDate": "2026-07-23T11:50:00+05:30"
         },
         {
           "title": "New Jersey voter registration controversy explained: How 6,600 noncitizens got on the rolls, and what happens next",
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-23T20:19:09.747715+00:00",
+      "updated_at": "2026-07-23T21:31:28.174224+00:00",
       "items": [
+        {
+          "title": "Heat Worries US Wheat Farmers Just as Crop Prices Surge",
+          "link": "https://www.livemint.com/market/heat-worries-us-wheat-farmers-just-as-crop-prices-surge-11784841971254.html",
+          "pubDate": "2026-07-24T02:56:10+05:30"
+        },
+        {
+          "title": "Dollar Rises as Intensifying Iran War Lifts Rate Hike Bets",
+          "link": "https://www.livemint.com/market/dollar-rises-as-intensifying-iran-war-lifts-rate-hike-bets-11784841425131.html",
+          "pubDate": "2026-07-24T02:47:04+05:30"
+        },
         {
           "title": "Yen’s Slump Extends Beyond Dollar and Stokes Inflation Fears",
           "link": "https://www.livemint.com/market/yens-slump-extends-beyond-dollar-and-stokes-inflation-fears-11784836659389.html",
@@ -935,16 +945,6 @@
           "title": "Nithin Kamath of Zerodha reveals the biggest challenge for stock brokers; find here",
           "link": "https://www.livemint.com/market/stock-market-news/nithin-kamath-of-zerodha-reveals-the-biggest-challenge-for-stock-brokers-find-here-11784794848281.html",
           "pubDate": "2026-07-23T13:57:12+05:30"
-        },
-        {
-          "title": "PVR Inox Q1 results: Multiplex operator posts net profit of  ₹56 crore, revenue growth at 12% YoY; stock jumps 5%",
-          "link": "https://www.livemint.com/market/stock-market-news/pvr-inox-q1-results-multiplex-operator-swings-to-profit-revenue-growth-at-12-yoy-stock-jumps-5-11784794553194.html",
-          "pubDate": "2026-07-23T13:51:50+05:30"
-        },
-        {
-          "title": "Expert view: Prolonged US-Iran conflict risks earnings estimate cuts, says Dhiraj Relli of HDFC Securities",
-          "link": "https://www.livemint.com/market/stock-market-news/expert-view-prolonged-us-iran-conflict-risks-earnings-estimate-cuts-says-dhiraj-relli-of-hdfc-securities-11784791105668.html",
-          "pubDate": "2026-07-23T13:21:31+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-23T20:19:10.951336+00:00",
+      "updated_at": "2026-07-23T21:31:29.263514+00:00",
       "items": [
         {
           "title": "Buyback of Government of India Dated Securities",

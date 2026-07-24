@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T23:33:09.520173+00:00",
+  "generated_at": "2026-07-24T01:04:07.563190+00:00",
   "indices": {
     "nifty50": {
       "price": 23869.6,
@@ -68,7 +68,7 @@
         23869.599609375
       ],
       "ok": true,
-      "updated_at": "2026-07-23T23:33:07.824305+00:00"
+      "updated_at": "2026-07-24T01:04:04.312245+00:00"
     },
     "sensex": {
       "price": 76391.39,
@@ -137,7 +137,7 @@
         76391.390625
       ],
       "ok": true,
-      "updated_at": "2026-07-23T23:33:07.913490+00:00"
+      "updated_at": "2026-07-24T01:04:04.364017+00:00"
     },
     "banknifty": {
       "price": 56592.0,
@@ -206,7 +206,7 @@
         56592.0
       ],
       "ok": true,
-      "updated_at": "2026-07-23T23:33:07.970833+00:00"
+      "updated_at": "2026-07-24T01:04:04.426529+00:00"
     },
     "vix": {
       "price": 13.475,
@@ -275,7 +275,7 @@
         13.475000381469727
       ],
       "ok": true,
-      "updated_at": "2026-07-23T23:33:08.022007+00:00"
+      "updated_at": "2026-07-24T01:04:04.488001+00:00"
     },
     "usdinr": {
       "price": 96.563,
@@ -283,31 +283,13 @@
       "pct": 0.0,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-07-23T23:33:08.071034+00:00"
+      "updated_at": "2026-07-24T01:04:04.539252+00:00"
     },
     "gold": {
-      "price": 4051.3,
-      "change": 1.1,
-      "pct": 0.0272,
+      "price": 4051.2,
+      "change": 1.0,
+      "pct": 0.0247,
       "closes": [
-        4050.0,
-        4047.300048828125,
-        4045.39990234375,
-        4046.60009765625,
-        4045.5,
-        4043.89990234375,
-        4044.10009765625,
-        4045.800048828125,
-        4044.10009765625,
-        4045.39990234375,
-        4044.10009765625,
-        4047.199951171875,
-        4047.800048828125,
-        4047.60009765625,
-        4048.89990234375,
-        4049.60009765625,
-        4048.60009765625,
-        4048.800048828125,
         4047.89990234375,
         4046.10009765625,
         4045.60009765625,
@@ -349,34 +331,34 @@
         4051.10009765625,
         4049.60009765625,
         4051.60009765625,
-        4051.300048828125
+        4051.699951171875,
+        4053.0,
+        4050.800048828125,
+        4051.0,
+        4051.300048828125,
+        4050.0,
+        4049.39990234375,
+        4049.39990234375,
+        4047.5,
+        4043.5,
+        4045.300048828125,
+        4048.699951171875,
+        4048.300048828125,
+        4048.300048828125,
+        4050.699951171875,
+        4052.199951171875,
+        4051.300048828125,
+        4051.199951171875,
+        4051.199951171875
       ],
       "ok": true,
-      "updated_at": "2026-07-23T23:33:08.138495+00:00"
+      "updated_at": "2026-07-24T01:04:04.602688+00:00"
     },
     "crude": {
-      "price": 92.18,
-      "change": -0.01,
-      "pct": -0.0108,
+      "price": 92.17,
+      "change": -0.02,
+      "pct": -0.0217,
       "closes": [
-        92.62999725341797,
-        92.66999816894531,
-        93.12000274658203,
-        93.0,
-        93.19999694824219,
-        93.2300033569336,
-        93.29000091552734,
-        93.4000015258789,
-        93.16999816894531,
-        92.69000244140625,
-        92.51000213623047,
-        92.08999633789062,
-        92.12999725341797,
-        92.12000274658203,
-        92.0,
-        92.1500015258789,
-        92.27999877929688,
-        92.02999877929688,
         91.87000274658203,
         91.75,
         91.68000030517578,
@@ -418,10 +400,28 @@
         92.19999694824219,
         92.18000030517578,
         92.18000030517578,
-        92.18000030517578
+        92.13999938964844,
+        92.08000183105469,
+        92.16999816894531,
+        92.16999816894531,
+        92.1500015258789,
+        92.2699966430664,
+        92.29000091552734,
+        92.41999816894531,
+        92.54000091552734,
+        92.69999694824219,
+        92.68000030517578,
+        92.30999755859375,
+        92.23999786376953,
+        92.26000213623047,
+        92.20999908447266,
+        92.12000274658203,
+        92.19000244140625,
+        92.13999938964844,
+        92.16999816894531
       ],
       "ok": true,
-      "updated_at": "2026-07-23T23:33:08.216527+00:00"
+      "updated_at": "2026-07-24T01:04:04.706904+00:00"
     },
     "us10y": {
       "price": 4.703,
@@ -490,38 +490,43 @@
         4.703000068664551
       ],
       "ok": true,
-      "updated_at": "2026-07-23T23:33:08.290840+00:00"
+      "updated_at": "2026-07-24T01:04:05.019785+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-23T23:33:08.357547+00:00",
+      "updated_at": "2026-07-24T01:04:06.396841+00:00",
       "items": [
         {
-          "title": "US stocks today: Nasdaq plunges 2% as tech earnings spark AI spending worries",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-fall-as-tech-earnings-spark-ai-spending-worries-and-oil-hits-100/articleshow/132591456.cms",
-          "pubDate": "2026-07-24T01:33:25+05:30"
+          "title": "Sebi introduces fast-track process for securities transmission",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-introduces-fast-track-process-for-securities-transmission/articleshow/132594235.cms",
+          "pubDate": "2026-07-24T06:19:02+05:30"
         },
         {
-          "title": "Tesla short sellers mint $4 billion profit as shares nosedive",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive/articleshow/132591384.cms",
-          "pubDate": "2026-07-24T01:23:21+05:30"
+          "title": "Private Bank ETFs back in focus as valuations turn attractive",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/private-bank-etfs-back-in-focus-as-valuations-turn-attractive/articleshow/132594208.cms",
+          "pubDate": "2026-07-24T06:14:48+05:30"
         },
         {
-          "title": "Tesla shares crash 14%, Alphabet falls 6% as AI spending worries hit Wall Street",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/tesla-shares-crash-14-alphabet-falls-6-as-ai-spending-worries-hit-wall-street/articleshow/132585791.cms",
-          "pubDate": "2026-07-23T20:45:07+05:30"
+          "title": "Can Lohia Corp IPO deliver long-term growth for high risk investors?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-lohia-corp-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/132594185.cms",
+          "pubDate": "2026-07-24T06:05:16+05:30"
         },
         {
-          "title": "Brent crude oil price surges past $100 as Houthi tanker attacks in Red Sea rattle markets",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/brent-crude-oil-price-surges-past-100-as-houthi-tanker-attacks-in-red-sea-rattle-markets/articleshow/132583335.cms",
-          "pubDate": "2026-07-23T19:05:38+05:30"
+          "title": "North India leads India's expanding stock market investor base",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/north-india-leads-indias-expanding-stock-market-investor-base/articleshow/132594143.cms",
+          "pubDate": "2026-07-24T05:43:16+05:30"
         },
         {
-          "title": "Rekha Jhunjhunwala sells over 7 crore Star Health shares in Q1. Details here",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rekha-jhunjhunwala-sells-over-7-crore-star-health-shares-in-q1-details-here/articleshow/132577312.cms",
-          "pubDate": "2026-07-23T15:43:16+05:30"
+          "title": "India's IT giants grapple with weak growth despite resilient deal momentum",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/indias-it-giants-grapple-with-weak-growth-despite-resilient-deal-momentum/articleshow/132594084.cms",
+          "pubDate": "2026-07-24T05:34:59+05:30"
+        },
+        {
+          "title": "Godrej Capital aims to grow gold loan book to Rs 5000 crores by 2031",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/godrej-capital-aims-to-grow-gold-loan-book-to-rs-5000-crores-by-2031/articleshow/132594165.cms",
+          "pubDate": "2026-07-23T20:51:59+05:30"
         },
         {
           "title": "Argentina vs Spain FIFA World Cup Final to be replayed? Petition for a rematch crosses 60,000 signatures",
@@ -532,11 +537,6 @@
           "title": "He baked potato in aluminium foil, and ate it next morning after microwaving it. Hours later, he was paralysed, doctor explains why",
           "link": "https://economictimes.indiatimes.com/news/new-updates/he-baked-potato-in-aluminium-foil-and-ate-it-next-morning-after-microwaving-it-hours-later-he-was-paralysed-doctor-explains-why/articleshow/132574269.cms",
           "pubDate": "2026-07-23T13:09:22+05:30"
-        },
-        {
-          "title": "NTPC Green shares soar 9% after Q1 earnings. What’s boosting investor sentiment?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ntpc-green-shares-soar-9-after-q1-earnings-whats-boosting-investor-sentiment/articleshow/132573710.cms",
-          "pubDate": "2026-07-23T12:13:06+05:30"
         },
         {
           "title": "What is a 'Dystopian Nightmare'? The psychology behind the viral trend",
@@ -733,8 +733,38 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-23T23:33:08.631173+00:00",
+      "updated_at": "2026-07-24T01:04:06.681685+00:00",
       "items": [
+        {
+          "title": "Stocks to watch: NTPC, Shriram Finance, Infosys among shares in focus today; check list here",
+          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-ntpc-shriram-finance-infosys-among-shares-in-focus-today-check-list-here-11784820435980.html",
+          "pubDate": "2026-07-24T06:27:29+05:30"
+        },
+        {
+          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 24 July 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-24-july-2026-11784819430952.html",
+          "pubDate": "2026-07-24T06:25:44+05:30"
+        },
+        {
+          "title": "Caliber Mining and Logistics IPO listing date today. GMP, experts signal debut at decent premium in Indian stock market",
+          "link": "https://www.livemint.com/market/stock-market-news/caliber-mining-and-logistics-ipo-listing-date-today-gmp-experts-signal-debut-at-decent-premium-in-indian-stock-market-11784853891444.html",
+          "pubDate": "2026-07-24T06:23:27+05:30"
+        },
+        {
+          "title": "Stock recommendations for 24 July from MarketSmith India",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-24-july-from-marketsmith-india-11784813276289.html",
+          "pubDate": "2026-07-24T06:01:03+05:30"
+        },
+        {
+          "title": "Raja Venkatraman recommends three stocks for 24 July",
+          "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-24-july-sensex-nifty-11784818333324.html",
+          "pubDate": "2026-07-24T06:00:23+05:30"
+        },
+        {
+          "title": "The Street resets its Nifty 500 bets. Here are the winners",
+          "link": "https://www.livemint.com/market/stock-market-news/the-street-resets-its-nifty-500-bets-here-are-the-winners-indian-stock-market-11784798077110.html",
+          "pubDate": "2026-07-24T05:58:03+05:30"
+        },
         {
           "title": "CLO Price Swings Dictated by Tokyo, Wharton-Led Study Shows",
           "link": "https://www.livemint.com/market/clo-price-swings-dictated-by-tokyo-wharton-led-study-shows-11784848733746.html",
@@ -854,36 +884,6 @@
           "title": "Small-cap stock under  ₹50 hits 20% upper circuit after Q1FY27 results",
           "link": "https://www.livemint.com/market/stock-market-news/vellora-impact-stock-under-rs-50-hits-20-upper-circuit-after-q1fy27-results-11784798074989.html",
           "pubDate": "2026-07-23T15:12:04+05:30"
-        },
-        {
-          "title": "Caliber Mining &amp; Logistics IPO listing tomorrow. Here's what GMP signals ahead of debut",
-          "link": "https://www.livemint.com/market/ipo/caliber-mining-logistics-ipo-listing-in-focus-heres-what-gmp-signals-ahead-of-debut-11784793169280.html",
-          "pubDate": "2026-07-23T14:51:16+05:30"
-        },
-        {
-          "title": "Multibagger Tips Music stock climbs over 13% after June quarter results, buyback plan",
-          "link": "https://www.livemint.com/market/stock-market-news/multibagger-tips-music-stock-climbs-over-13-after-june-quarter-results-buyback-plan-11784793566830.html",
-          "pubDate": "2026-07-23T14:40:28+05:30"
-        },
-        {
-          "title": "Aastha Spintex declares 1:1 bonus shares. Record date, other announcements you may like to know",
-          "link": "https://www.livemint.com/market/stock-market-news/aastha-spintex-declares-1-1-bonus-shares-record-date-dividend-other-announcements-you-may-like-to-know-11784796047496.html",
-          "pubDate": "2026-07-23T14:17:27+05:30"
-        },
-        {
-          "title": "Eternal’s investors can prepare for more positive earnings surprises",
-          "link": "https://www.livemint.com/market/mark-to-market/eternal-investors-positive-earnings-surprises-food-delivery-quick-commerce-net-order-value-nov-average-order-value-aov-11784792334449.html",
-          "pubDate": "2026-07-23T14:10:32+05:30"
-        },
-        {
-          "title": "Cipla Q1 results: Profit falls 39% YoY to  ₹789 crore; revenue climbs 3.50%",
-          "link": "https://www.livemint.com/market/stock-market-news/cipla-q1-results-2026-profit-falls-39-yoy-to-789-05-crore-11784795719956.html",
-          "pubDate": "2026-07-23T14:09:16+05:30"
-        },
-        {
-          "title": "Ujjivan Small Finance Bank Q1 results 2026: Net profit jumps 200% to  ₹317 crore, NII up 38% YoY",
-          "link": "https://www.livemint.com/market/stock-market-news/ujjivan-small-finance-bank-q1-results-2026-net-profit-jumps-200-to-317-crore-nii-up-38-yoy-11784793878446.html",
-          "pubDate": "2026-07-23T14:07:56+05:30"
         }
       ]
     },
@@ -894,7 +894,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-23T23:33:09.520149+00:00",
+      "updated_at": "2026-07-24T01:04:07.563160+00:00",
       "items": [
         {
           "title": "Buyback of Government of India Dated Securities",

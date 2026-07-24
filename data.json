@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T17:47:26.415357+00:00",
+  "generated_at": "2026-07-24T19:06:49.152515+00:00",
   "indices": {
     "nifty50": {
       "price": 23767.45,
@@ -68,7 +68,7 @@
         23767.44921875
       ],
       "ok": true,
-      "updated_at": "2026-07-24T17:47:22.162552+00:00"
+      "updated_at": "2026-07-24T19:06:47.503117+00:00"
     },
     "sensex": {
       "price": 76059.77,
@@ -137,7 +137,7 @@
         76059.7734375
       ],
       "ok": true,
-      "updated_at": "2026-07-24T17:47:22.678078+00:00"
+      "updated_at": "2026-07-24T19:06:47.556788+00:00"
     },
     "banknifty": {
       "price": 56693.5,
@@ -206,7 +206,7 @@
         56693.5
       ],
       "ok": true,
-      "updated_at": "2026-07-24T17:47:22.844795+00:00"
+      "updated_at": "2026-07-24T19:06:47.612548+00:00"
     },
     "vix": {
       "price": 14.03,
@@ -275,15 +275,13 @@
         14.029999732971191
       ],
       "ok": true,
-      "updated_at": "2026-07-24T17:47:22.940288+00:00"
+      "updated_at": "2026-07-24T19:06:47.671400+00:00"
     },
     "usdinr": {
-      "price": 96.552,
-      "change": -0.011,
-      "pct": -0.0114,
+      "price": 96.56,
+      "change": -0.003,
+      "pct": -0.0031,
       "closes": [
-        96.52249908447266,
-        96.48750305175781,
         96.50499725341797,
         96.51000213623047,
         96.52999877929688,
@@ -341,32 +339,18 @@
         96.552001953125,
         96.552001953125,
         96.552001953125,
-        96.552001953125
+        96.552001953125,
+        96.55999755859375,
+        96.55999755859375
       ],
       "ok": true,
-      "updated_at": "2026-07-24T17:47:23.041604+00:00"
+      "updated_at": "2026-07-24T19:06:47.732573+00:00"
     },
     "gold": {
-      "price": 4070.9,
-      "change": 20.7,
-      "pct": 0.5111,
+      "price": 4057.0,
+      "change": 6.8,
+      "pct": 0.1679,
       "closes": [
-        4056.699951171875,
-        4057.60009765625,
-        4058.5,
-        4054.800048828125,
-        4049.0,
-        4050.60009765625,
-        4048.300048828125,
-        4048.800048828125,
-        4048.800048828125,
-        4051.60009765625,
-        4058.60009765625,
-        4054.39990234375,
-        4060.800048828125,
-        4062.300048828125,
-        4070.0,
-        4065.5,
         4065.5,
         4061.699951171875,
         4060.89990234375,
@@ -410,32 +394,32 @@
         4071.300048828125,
         4071.300048828125,
         4070.60009765625,
-        4070.89990234375
+        4069.300048828125,
+        4068.800048828125,
+        4066.0,
+        4065.800048828125,
+        4065.39990234375,
+        4065.300048828125,
+        4064.0,
+        4062.699951171875,
+        4059.89990234375,
+        4057.699951171875,
+        4056.699951171875,
+        4057.89990234375,
+        4054.5,
+        4055.800048828125,
+        4056.60009765625,
+        4056.699951171875,
+        4057.0
       ],
       "ok": true,
-      "updated_at": "2026-07-24T17:47:23.162682+00:00"
+      "updated_at": "2026-07-24T19:06:47.803105+00:00"
     },
     "crude": {
-      "price": 89.03,
-      "change": -3.16,
-      "pct": -3.4277,
+      "price": 89.36,
+      "change": -2.83,
+      "pct": -3.0697,
       "closes": [
-        89.31999969482422,
-        89.4000015258789,
-        89.38999938964844,
-        89.63999938964844,
-        89.87999725341797,
-        90.01000213623047,
-        90.12000274658203,
-        90.5,
-        90.47000122070312,
-        90.26000213623047,
-        90.30000305175781,
-        90.4000015258789,
-        89.81999969482422,
-        90.0999984741211,
-        89.93000030517578,
-        89.91999816894531,
         89.7300033569336,
         89.86000061035156,
         89.58999633789062,
@@ -479,31 +463,32 @@
         88.8499984741211,
         88.88999938964844,
         89.05999755859375,
-        89.02999877929688
+        88.91000366210938,
+        88.9800033569336,
+        89.19000244140625,
+        89.06999969482422,
+        88.91000366210938,
+        88.80999755859375,
+        88.7699966430664,
+        89.11000061035156,
+        89.16000366210938,
+        89.33999633789062,
+        89.30000305175781,
+        89.1500015258789,
+        89.29000091552734,
+        89.22000122070312,
+        89.27999877929688,
+        89.37000274658203,
+        89.36000061035156
       ],
       "ok": true,
-      "updated_at": "2026-07-24T17:47:23.278128+00:00"
+      "updated_at": "2026-07-24T19:06:47.853895+00:00"
     },
     "us10y": {
-      "price": 4.675,
-      "change": -0.028,
-      "pct": -0.5954,
+      "price": 4.679,
+      "change": -0.024,
+      "pct": -0.5103,
       "closes": [
-        4.677000045776367,
-        4.678999900817871,
-        4.681000232696533,
-        4.683000087738037,
-        4.683000087738037,
-        4.681000232696533,
-        4.681000232696533,
-        4.683000087738037,
-        4.684999942779541,
-        4.684999942779541,
-        4.684999942779541,
-        4.683000087738037,
-        4.686999797821045,
-        4.678999900817871,
-        4.677000045776367,
         4.671000003814697,
         4.666999816894531,
         4.671000003814697,
@@ -547,17 +532,32 @@
         4.672999858856201,
         4.675000190734863,
         4.675000190734863,
-        4.675000190734863,
-        4.675000190734863
+        4.678999900817871,
+        4.678999900817871,
+        4.678999900817871,
+        4.677000045776367,
+        4.683000087738037,
+        4.678999900817871,
+        4.677000045776367,
+        4.678999900817871,
+        4.678999900817871,
+        4.677000045776367,
+        4.677000045776367,
+        4.678999900817871,
+        4.683000087738037,
+        4.681000232696533,
+        4.683000087738037,
+        4.683000087738037,
+        4.681000232696533
       ],
       "ok": true,
-      "updated_at": "2026-07-24T17:47:23.389309+00:00"
+      "updated_at": "2026-07-24T19:06:47.903398+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-24T17:47:23.521520+00:00",
+      "updated_at": "2026-07-24T19:06:47.953478+00:00",
       "items": [
         {
           "title": "HDFC Bank shares fall as 3 US law firms launch probe over alleged federal law violations",
@@ -712,7 +712,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-07-24T17:47:24.017601+00:00",
       "items": [
         {
@@ -794,8 +794,23 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-24T17:47:24.169811+00:00",
+      "updated_at": "2026-07-24T19:06:48.183392+00:00",
       "items": [
+        {
+          "title": "Yields ease, but Iran war keeps rate-hike bets alive",
+          "link": "https://www.livemint.com/market/yields-ease-but-iran-war-keeps-rate-hike-bets-alive-11784919575477.html",
+          "pubDate": "2026-07-25T00:29:35+05:30"
+        },
+        {
+          "title": "Yen records biggest weekly drop in over two months, dollar climbs for the week",
+          "link": "https://www.livemint.com/market/yen-records-biggest-weekly-drop-in-over-two-months-dollar-climbs-for-the-week-11784919025317.html",
+          "pubDate": "2026-07-25T00:20:24+05:30"
+        },
+        {
+          "title": "Stocks edge back up as oil prices pause climb but yields hover near highs",
+          "link": "https://www.livemint.com/market/stocks-edge-back-up-as-oil-prices-pause-climb-but-yields-hover-near-highs-11784917992500.html",
+          "pubDate": "2026-07-25T00:03:12+05:30"
+        },
         {
           "title": "American Express shares tumble despite robust earnings, higher revenue outlook as rising costs weigh on sentiment",
           "link": "https://www.livemint.com/market/stock-market-news/american-express-shares-tumble-despite-robust-earnings-higher-revenue-outlook-as-rising-costs-weigh-on-sentiment-11784911236359.html",
@@ -827,7 +842,7 @@
           "pubDate": "2026-07-24T19:44:55+05:30"
         },
         {
-          "title": "US stocks mixed as oil retreats below $100, fresh tariffs and earnings keep investors on edge",
+          "title": "US stocks rise as oil retreats below $100, fresh tariffs and earnings in focus",
           "link": "https://www.livemint.com/market/stock-market-news/us-stocks-mixed-as-investors-digest-fresh-earnings-trump-tariffs-in-focus-11784900781196.html",
           "pubDate": "2026-07-24T19:31:08+05:30"
         },
@@ -930,21 +945,6 @@
           "title": "Retail, HNI F&amp;O bets hit by West Asia flare-up",
           "link": "https://www.livemint.com/market/stock-market-news/retail-investors-losses-west-asia-war-market-crash-nifty-24000-options-f-o-futures-options-11784873089452.html",
           "pubDate": "2026-07-24T12:29:18+05:30"
-        },
-        {
-          "title": "Caliber Mining shares slip over 3% after decent debut. Should you buy, sell or hold?",
-          "link": "https://www.livemint.com/market/stock-market-news/caliber-mining-shares-slip-over-3-after-decent-debut-should-you-buy-sell-or-hold-11784872174159.html",
-          "pubDate": "2026-07-24T12:10:29+05:30"
-        },
-        {
-          "title": "Infosys' weak Q1 raises the risk of another year of lagging peers",
-          "link": "https://www.livemint.com/market/mark-to-market/infosys-q1fy27-it-sector-ai-productivity-revenue-guidance-deal-wins-ebit-margin-ashiss-kumar-dash-11784870748465.html",
-          "pubDate": "2026-07-24T12:01:56+05:30"
-        },
-        {
-          "title": "Silverstorm Parks and Resorts IPO: GMP, subscription status, price band, other details of BSE SME IPO in 10 key points",
-          "link": "https://www.livemint.com/market/ipo/silverstorm-parks-and-resorts-ipo-gmp-subscription-status-price-band-other-details-of-bse-sme-ipo-in-10-key-points-11784870032611.html",
-          "pubDate": "2026-07-24T11:32:10+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-24T17:47:26.415341+00:00",
+      "updated_at": "2026-07-24T19:06:49.152499+00:00",
       "items": [
         {
           "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on July 27, 2026",

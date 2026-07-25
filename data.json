@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T18:13:11.271309+00:00",
+  "generated_at": "2026-07-25T19:33:09.196594+00:00",
   "indices": {
     "nifty50": {
       "price": 23767.45,
@@ -68,7 +68,7 @@
         23767.44921875
       ],
       "ok": true,
-      "updated_at": "2026-07-25T18:13:09.036478+00:00"
+      "updated_at": "2026-07-25T19:33:07.440138+00:00"
     },
     "sensex": {
       "price": 76059.77,
@@ -137,7 +137,7 @@
         76059.7734375
       ],
       "ok": true,
-      "updated_at": "2026-07-25T18:13:09.084295+00:00"
+      "updated_at": "2026-07-25T19:33:07.500217+00:00"
     },
     "banknifty": {
       "price": 56693.5,
@@ -206,7 +206,7 @@
         56693.5
       ],
       "ok": true,
-      "updated_at": "2026-07-25T18:13:09.205959+00:00"
+      "updated_at": "2026-07-25T19:33:07.565378+00:00"
     },
     "vix": {
       "price": 14.03,
@@ -275,7 +275,7 @@
         14.029999732971191
       ],
       "ok": true,
-      "updated_at": "2026-07-25T18:13:09.276938+00:00"
+      "updated_at": "2026-07-25T19:33:07.628833+00:00"
     },
     "usdinr": {
       "price": 96.56,
@@ -344,7 +344,7 @@
         96.552001953125
       ],
       "ok": true,
-      "updated_at": "2026-07-25T18:13:09.363922+00:00"
+      "updated_at": "2026-07-25T19:33:07.692734+00:00"
     },
     "gold": {
       "price": 4070.8,
@@ -413,7 +413,7 @@
         4070.800048828125
       ],
       "ok": true,
-      "updated_at": "2026-07-25T18:13:09.460873+00:00"
+      "updated_at": "2026-07-25T19:33:07.754529+00:00"
     },
     "crude": {
       "price": 89.31,
@@ -482,7 +482,7 @@
         89.30999755859375
       ],
       "ok": true,
-      "updated_at": "2026-07-25T18:13:09.521416+00:00"
+      "updated_at": "2026-07-25T19:33:07.821697+00:00"
     },
     "us10y": {
       "price": 4.679,
@@ -551,13 +551,13 @@
         4.678999900817871
       ],
       "ok": true,
-      "updated_at": "2026-07-25T18:13:09.621542+00:00"
+      "updated_at": "2026-07-25T19:33:07.883322+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-25T18:13:09.719938+00:00",
+      "updated_at": "2026-07-25T19:33:07.987952+00:00",
       "items": [
         {
           "title": "Violent crypto attacks rise as criminals hunt bigger payouts",
@@ -712,7 +712,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-07-25T18:13:09.992815+00:00",
       "items": [
         {
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-25T18:13:10.117690+00:00",
+      "updated_at": "2026-07-25T19:33:08.113190+00:00",
       "items": [
+        {
+          "title": "Gold Edges Up as Traders Weigh Mideast Conflict, Fed Rate Path",
+          "link": "https://www.livemint.com/market/gold-edges-up-as-traders-weigh-mideast-conflict-fed-rate-path-11785004100660.html",
+          "pubDate": "2026-07-25T23:58:20+05:30"
+        },
         {
           "title": "Metals Fluctuate as Middle East Escalation Keeps Bulls in Check",
           "link": "https://www.livemint.com/market/metals-fluctuate-as-middle-east-escalation-keeps-bulls-in-check-11784986837407.html",
@@ -940,11 +945,6 @@
           "title": "Indian markets remain resilient despite student protests, but risks remain",
           "link": "https://www.livemint.com/market/stock-market-news/indian-markets-remain-resilient-despite-student-protests-but-risks-remain-11784882371814.html",
           "pubDate": "2026-07-24T15:06:03+05:30"
-        },
-        {
-          "title": "IndiGo shares extend losses for third straight day after Q1 miss; down 9% in July",
-          "link": "https://www.livemint.com/market/stock-market-news/indigo-shares-extend-losses-for-third-straight-day-after-q1-miss-down-9-in-july-11784883700470.html",
-          "pubDate": "2026-07-24T14:52:39+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-25T18:13:11.271293+00:00",
+      "updated_at": "2026-07-25T19:33:09.196577+00:00",
       "items": [
         {
           "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on July 27, 2026",

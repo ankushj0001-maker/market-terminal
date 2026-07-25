@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T01:07:23.204830+00:00",
+  "generated_at": "2026-07-25T04:23:43.101991+00:00",
   "indices": {
     "nifty50": {
       "price": 23767.45,
@@ -68,7 +68,7 @@
         23767.44921875
       ],
       "ok": true,
-      "updated_at": "2026-07-25T01:07:20.515334+00:00"
+      "updated_at": "2026-07-25T04:23:40.387970+00:00"
     },
     "sensex": {
       "price": 76059.77,
@@ -137,7 +137,7 @@
         76059.7734375
       ],
       "ok": true,
-      "updated_at": "2026-07-25T01:07:20.723982+00:00"
+      "updated_at": "2026-07-25T04:23:40.494945+00:00"
     },
     "banknifty": {
       "price": 56693.5,
@@ -206,12 +206,12 @@
         56693.5
       ],
       "ok": true,
-      "updated_at": "2026-07-25T01:07:20.873213+00:00"
+      "updated_at": "2026-07-25T04:23:40.604483+00:00"
     },
     "vix": {
       "price": 14.03,
-      "change": 0.74,
-      "pct": 5.5681,
+      "change": 0.555,
+      "pct": 4.1187,
       "closes": [
         14.507499694824219,
         14.579999923706055,
@@ -275,12 +275,12 @@
         14.029999732971191
       ],
       "ok": true,
-      "updated_at": "2026-07-25T01:07:21.015503+00:00"
+      "updated_at": "2026-07-25T04:23:40.708631+00:00"
     },
     "usdinr": {
-      "price": 96.552,
-      "change": -0.011,
-      "pct": -0.0114,
+      "price": 96.56,
+      "change": -0.003,
+      "pct": -0.0031,
       "closes": [
         96.52999877929688,
         96.54000091552734,
@@ -344,13 +344,14 @@
         96.552001953125
       ],
       "ok": true,
-      "updated_at": "2026-07-25T01:07:21.150517+00:00"
+      "updated_at": "2026-07-25T04:23:40.845613+00:00"
     },
     "gold": {
       "price": 4055.7,
       "change": 5.5,
       "pct": 0.1358,
       "closes": [
+        4079.199951171875,
         4078.699951171875,
         4077.5,
         4077.199951171875,
@@ -409,17 +410,17 @@
         4057.89990234375,
         4056.89990234375,
         4056.0,
-        4055.699951171875,
         4055.699951171875
       ],
       "ok": true,
-      "updated_at": "2026-07-25T01:07:21.353558+00:00"
+      "updated_at": "2026-07-25T04:23:40.967764+00:00"
     },
     "crude": {
       "price": 90.47,
       "change": -1.72,
       "pct": -1.8657,
       "closes": [
+        88.4000015258789,
         88.5,
         88.58999633789062,
         88.44000244140625,
@@ -478,11 +479,10 @@
         90.43000030517578,
         90.51000213623047,
         90.5199966430664,
-        90.47000122070312,
         90.47000122070312
       ],
       "ok": true,
-      "updated_at": "2026-07-25T01:07:21.462162+00:00"
+      "updated_at": "2026-07-25T04:23:41.092300+00:00"
     },
     "us10y": {
       "price": 4.679,
@@ -551,14 +551,19 @@
         4.678999900817871
       ],
       "ok": true,
-      "updated_at": "2026-07-25T01:07:21.660584+00:00"
+      "updated_at": "2026-07-25T04:23:41.195719+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-25T01:07:21.982876+00:00",
+      "updated_at": "2026-07-25T04:23:41.312126+00:00",
       "items": [
+        {
+          "title": "Wall Street Week Ahead: US stocks face tests from Fed decision, tech-led earnings deluge",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-week-ahead-us-stocks-face-tests-from-fed-decision-tech-led-earnings-deluge/articleshow/132618500.cms",
+          "pubDate": "2026-07-25T09:11:46+05:30"
+        },
         {
           "title": "US stocks today: Nasdaq lags on angst over AI spending ahead of earnings reports",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-nasdaq-lags-on-angst-over-ai-spending-ahead-of-earnings-reports/articleshow/132614541.cms",
@@ -573,11 +578,6 @@
           "title": "Q1 Results today: SBI Life, Tata Consumer, Hindustan Zinc among 86 companies to announce earnings",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/q1-results-today-sbi-life-tata-consumer-hindustan-zinc-among-86-companies-to-announce-earnings/articleshow/132597114.cms",
           "pubDate": "2026-07-24T11:03:34+05:30"
-        },
-        {
-          "title": "IndiGo shares sink 3% after Rs 238 crore Q1 loss, but why are Citi and Nuvama raising target prices?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-shares-fall-2-after-rs-238-crore-q1-loss-so-why-are-citi-and-nuvama-raising-target-prices/articleshow/132595961.cms",
-          "pubDate": "2026-07-24T09:42:59+05:30"
         },
         {
           "title": "Sensex slumps over 850 points: 7 key factors behind Rs 5 lakh crore rout",
@@ -712,8 +712,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-07-24T17:47:24.017601+00:00",
+      "ok": true,
+      "updated_at": "2026-07-25T04:23:41.788581+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,10 +794,20 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-25T01:07:22.301495+00:00",
+      "updated_at": "2026-07-25T04:23:41.921545+00:00",
       "items": [
         {
-          "title": "Mint Explainer| Will Sebi's proposed changes lift the portfolio management industry?",
+          "title": "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 27 July 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-27-july-2026-itc-ltm-au-small-finance-bank-11784951113645.html",
+          "pubDate": "2026-07-25T09:49:31+05:30"
+        },
+        {
+          "title": "Q1 results 2026: AU Small Finance Bank, IDFC First Bank, Zen Technologies, among companies to announce earnings today",
+          "link": "https://www.livemint.com/market/stock-market-news/q1-results-2026-au-small-finance-bank-idfc-first-bank-zen-technologies-among-companies-to-announce-earnings-today-11784948438496.html",
+          "pubDate": "2026-07-25T08:57:48+05:30"
+        },
+        {
+          "title": "Mint Explainer | Will Sebi's proposed changes lift the portfolio management industry?",
           "link": "https://www.livemint.com/market/explainer-sebi-pms-industry-asset-allocation-india-markets-11784879180387.html",
           "pubDate": "2026-07-25T06:13:15+05:30"
         },
@@ -935,16 +945,6 @@
           "title": "Crude oil prices back at $100: Can it hit the Indian economy, corporate earnings, and delay stock market recovery?",
           "link": "https://www.livemint.com/market/stock-market-news/crude-oil-prices-back-at-100-can-it-hit-the-indian-economy-corporate-earnings-and-delay-stock-market-recovery-11784875107922.html",
           "pubDate": "2026-07-24T13:06:14+05:30"
-        },
-        {
-          "title": "Indiabulls share price jumps despite stock market crash; here's why",
-          "link": "https://www.livemint.com/market/stock-market-news/indiabulls-share-price-jumps-despite-stock-market-crash-heres-why-11784877547413.html",
-          "pubDate": "2026-07-24T12:59:31+05:30"
-        },
-        {
-          "title": "Swiggy share price tumbles over 7%, nears record low. Here's why",
-          "link": "https://www.livemint.com/market/stock-market-news/swiggy-share-price-tumbles-over-7-nears-record-low-heres-why-11784877311516.html",
-          "pubDate": "2026-07-24T12:54:26+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-25T01:07:23.204813+00:00",
+      "updated_at": "2026-07-25T04:23:43.101976+00:00",
       "items": [
         {
           "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on July 27, 2026",

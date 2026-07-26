@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T00:11:12.723113+00:00",
+  "generated_at": "2026-07-26T03:51:50.484552+00:00",
   "indices": {
     "nifty50": {
       "price": 23767.45,
@@ -68,7 +68,7 @@
         23767.44921875
       ],
       "ok": true,
-      "updated_at": "2026-07-26T00:11:11.014943+00:00"
+      "updated_at": "2026-07-26T03:51:48.788047+00:00"
     },
     "sensex": {
       "price": 76059.77,
@@ -137,7 +137,7 @@
         76059.7734375
       ],
       "ok": true,
-      "updated_at": "2026-07-26T00:11:11.072622+00:00"
+      "updated_at": "2026-07-26T03:51:48.834848+00:00"
     },
     "banknifty": {
       "price": 56693.5,
@@ -206,7 +206,7 @@
         56693.5
       ],
       "ok": true,
-      "updated_at": "2026-07-26T00:11:11.127242+00:00"
+      "updated_at": "2026-07-26T03:51:48.885541+00:00"
     },
     "vix": {
       "price": 14.03,
@@ -275,13 +275,14 @@
         14.029999732971191
       ],
       "ok": true,
-      "updated_at": "2026-07-26T00:11:11.183034+00:00"
+      "updated_at": "2026-07-26T03:51:48.927592+00:00"
     },
     "usdinr": {
       "price": 96.56,
       "change": -0.003,
       "pct": -0.0031,
       "closes": [
+        96.52999877929688,
         96.54000091552734,
         96.53500366210938,
         96.53250122070312,
@@ -340,11 +341,10 @@
         96.55999755859375,
         96.552001953125,
         96.552001953125,
-        96.552001953125,
-        96.55999755859375
+        96.552001953125
       ],
       "ok": true,
-      "updated_at": "2026-07-26T00:11:11.235838+00:00"
+      "updated_at": "2026-07-26T03:51:48.987781+00:00"
     },
     "gold": {
       "price": 4070.8,
@@ -413,7 +413,7 @@
         4070.800048828125
       ],
       "ok": true,
-      "updated_at": "2026-07-26T00:11:11.295881+00:00"
+      "updated_at": "2026-07-26T03:51:49.042450+00:00"
     },
     "crude": {
       "price": 89.31,
@@ -482,7 +482,7 @@
         89.30999755859375
       ],
       "ok": true,
-      "updated_at": "2026-07-26T00:11:11.352498+00:00"
+      "updated_at": "2026-07-26T03:51:49.095548+00:00"
     },
     "us10y": {
       "price": 4.679,
@@ -551,13 +551,13 @@
         4.678999900817871
       ],
       "ok": true,
-      "updated_at": "2026-07-26T00:11:11.408798+00:00"
+      "updated_at": "2026-07-26T03:51:49.141937+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-26T00:11:11.479328+00:00",
+      "updated_at": "2026-07-26T03:51:49.209032+00:00",
       "items": [
         {
           "title": "Violent crypto attacks rise as criminals hunt bigger payouts",
@@ -712,8 +712,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-07-25T18:13:09.992815+00:00",
+      "ok": true,
+      "updated_at": "2026-07-26T03:51:49.320681+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,23 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-26T00:11:11.742081+00:00",
+      "updated_at": "2026-07-26T03:51:49.445655+00:00",
       "items": [
+        {
+          "title": "US Fed meeting to Q1 results FY27, US-Iran war: Top five triggers that may dictate the Indian stock market this week",
+          "link": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-to-q1-results-fy27-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11785031656378.html",
+          "pubDate": "2026-07-26T08:22:46+05:30"
+        },
+        {
+          "title": "The bond rout is bruising would-be home buyers—and challenging the Fed",
+          "link": "https://www.livemint.com/market/bonds/the-bond-rout-is-bruising-would-be-home-buyers-and-challenging-the-fed-11785030594095.html",
+          "pubDate": "2026-07-26T07:23:54+05:30"
+        },
+        {
+          "title": "Expert view: Semiconductors, spacetech could unlock $500 bn-$1 tn market opportunity, says Piper Serica's Director",
+          "link": "https://www.livemint.com/market/stock-market-news/expert-view-semiconductors-spacetech-could-unlock-500-bn-1-tn-market-opportunity-says-piper-sericas-director-11785027655709.html",
+          "pubDate": "2026-07-26T06:52:57+05:30"
+        },
         {
           "title": "Gold Edges Up as Traders Weigh Mideast Conflict, Fed Rate Path",
           "link": "https://www.livemint.com/market/gold-edges-up-as-traders-weigh-mideast-conflict-fed-rate-path-11785004100660.html",
@@ -930,21 +945,6 @@
           "title": "NSE to launch India's first domestic benchmark-based natural gas futures on July 27",
           "link": "https://www.livemint.com/market/stock-market-news/nse-to-launch-indias-first-domestic-benchmark-based-natural-gas-futures-on-july-27-11784889955865.html",
           "pubDate": "2026-07-24T16:29:06+05:30"
-        },
-        {
-          "title": "Top Gaines &amp; Losers on 24 July: Syrma SGS Tech, HFCL, Swiggy, Eternal, Hero MotoCorp among top losers",
-          "link": "https://www.livemint.com/market/top-gaines-losers-on-24-july-syrma-sgs-tech-hfcl-swiggy-eternal-hero-motocorp-among-top-losers-11784885713224.html",
-          "pubDate": "2026-07-24T15:50:13+05:30"
-        },
-        {
-          "title": "Cube Highways Trust InvIT IPO Day 3: Issue subscribed 1.67x so far. Check GMP, issue details, review",
-          "link": "https://www.livemint.com/market/ipo/cube-highways-trust-invit-ipo-day-3-issue-subscribed-1-67x-so-far-check-gmp-issue-details-review-11784887100794.html",
-          "pubDate": "2026-07-24T15:42:53+05:30"
-        },
-        {
-          "title": "Indian markets remain resilient despite student protests, but risks remain",
-          "link": "https://www.livemint.com/market/stock-market-news/indian-markets-remain-resilient-despite-student-protests-but-risks-remain-11784882371814.html",
-          "pubDate": "2026-07-24T15:06:03+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-26T00:11:12.723093+00:00",
+      "updated_at": "2026-07-26T03:51:50.484537+00:00",
       "items": [
         {
           "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on July 27, 2026",

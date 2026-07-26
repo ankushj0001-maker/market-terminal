@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T06:26:28.950747+00:00",
+  "generated_at": "2026-07-26T08:42:47.974911+00:00",
   "indices": {
     "nifty50": {
       "price": 23767.45,
@@ -68,7 +68,7 @@
         23767.44921875
       ],
       "ok": true,
-      "updated_at": "2026-07-26T06:26:28.114097+00:00"
+      "updated_at": "2026-07-26T08:42:46.056702+00:00"
     },
     "sensex": {
       "price": 76059.77,
@@ -137,7 +137,7 @@
         76059.7734375
       ],
       "ok": true,
-      "updated_at": "2026-07-26T06:26:28.159159+00:00"
+      "updated_at": "2026-07-26T08:42:46.110230+00:00"
     },
     "banknifty": {
       "price": 56693.5,
@@ -206,7 +206,7 @@
         56693.5
       ],
       "ok": true,
-      "updated_at": "2026-07-26T06:26:28.202570+00:00"
+      "updated_at": "2026-07-26T08:42:46.173625+00:00"
     },
     "vix": {
       "price": 14.03,
@@ -275,7 +275,7 @@
         14.029999732971191
       ],
       "ok": true,
-      "updated_at": "2026-07-26T06:26:28.246724+00:00"
+      "updated_at": "2026-07-26T08:42:46.228090+00:00"
     },
     "usdinr": {
       "price": 96.56,
@@ -344,7 +344,7 @@
         96.552001953125
       ],
       "ok": true,
-      "updated_at": "2026-07-26T06:26:28.307417+00:00"
+      "updated_at": "2026-07-26T08:42:46.385056+00:00"
     },
     "gold": {
       "price": 4070.8,
@@ -352,7 +352,7 @@
       "pct": 0.5086,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-07-26T06:26:28.343719+00:00"
+      "updated_at": "2026-07-26T08:42:46.430284+00:00"
     },
     "crude": {
       "price": 89.31,
@@ -360,7 +360,7 @@
       "pct": -3.124,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-07-26T06:26:28.392770+00:00"
+      "updated_at": "2026-07-26T08:42:46.473807+00:00"
     },
     "us10y": {
       "price": 4.679,
@@ -429,13 +429,13 @@
         4.678999900817871
       ],
       "ok": true,
-      "updated_at": "2026-07-26T06:26:28.437997+00:00"
+      "updated_at": "2026-07-26T08:42:46.525432+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-26T06:26:28.696892+00:00",
+      "updated_at": "2026-07-26T08:42:46.616343+00:00",
       "items": [
         {
           "title": "Violent crypto attacks rise as criminals hunt bigger payouts",
@@ -590,7 +590,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-07-26T06:26:28.805687+00:00",
       "items": [
         {
@@ -672,8 +672,23 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-26T06:26:28.880217+00:00",
+      "updated_at": "2026-07-26T08:42:47.023091+00:00",
       "items": [
+        {
+          "title": "Philippine Peso Finds Line in Sand as Record Low Holds",
+          "link": "https://www.livemint.com/market/philippine-peso-finds-line-in-sand-as-record-low-holds-11785055164987.html",
+          "pubDate": "2026-07-26T14:09:24+05:30"
+        },
+        {
+          "title": "IPO-bound PhonePe declares 11.5% yearly growth in revenue to  ₹7,920 crore in FY26",
+          "link": "https://www.livemint.com/market/stock-market-news/ipobound-phonepe-declares-11-5-yearly-growth-in-revenue-to-7-920-crore-in-fy26-11785052165688.html",
+          "pubDate": "2026-07-26T13:43:52+05:30"
+        },
+        {
+          "title": "Q1 results 2026: BEL to Adani Enterprises among companies to declare Q1 results next week; check full list here",
+          "link": "https://www.livemint.com/market/stock-market-news/q1-results-2026-bel-to-adani-enterprises-among-companies-to-declare-q1-results-next-week-check-full-list-here-11785048951428.html",
+          "pubDate": "2026-07-26T13:07:24+05:30"
+        },
         {
           "title": "Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid ongoing US-Iran war?",
           "link": "https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-next-week-amid-ongoing-us-iran-war-11785044321155.html",
@@ -808,21 +823,6 @@
           "title": "US stocks rise as oil retreats below $100, fresh tariffs and earnings in focus",
           "link": "https://www.livemint.com/market/stock-market-news/us-stocks-mixed-as-investors-digest-fresh-earnings-trump-tariffs-in-focus-11784900781196.html",
           "pubDate": "2026-07-24T19:31:08+05:30"
-        },
-        {
-          "title": "Oil falls 3% to below $100/barrel but eyes weekly rise amid Trump's threats to Iran — Latest updates",
-          "link": "https://www.livemint.com/market/commodities/oil-falls-3-pc-to-below-100-barrel-weekly-rise-us-war-donald-trump-threat-big-attack-iran-houthi-red-sea-latest-updates-11784898171541.html",
-          "pubDate": "2026-07-24T18:53:52+05:30"
-        },
-        {
-          "title": "US stock market today: S&amp;P 500, Nasdaq futures edge higher as oil retreats; Intel jumps 4%",
-          "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-edge-higher-as-oil-retreats-intel-jumps-4-11784894223255.html",
-          "pubDate": "2026-07-24T18:32:37+05:30"
-        },
-        {
-          "title": "Sebi fines former Axis MF chief dealer, aides in  ₹30.56 crore front-running case",
-          "link": "https://www.livemint.com/market/stock-market-news/sebi-axis-mf-chief-dealer-viresh-joshi-front-running-case-markets-india-11784894325483.html",
-          "pubDate": "2026-07-24T18:15:46+05:30"
         }
       ]
     },
@@ -833,7 +833,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-26T06:26:28.950732+00:00",
+      "updated_at": "2026-07-26T08:42:47.974895+00:00",
       "items": [
         {
           "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on July 27, 2026",

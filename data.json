@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T11:47:38.295456+00:00",
+  "generated_at": "2026-07-27T14:03:34.021222+00:00",
   "indices": {
     "nifty50": {
       "price": 23995.95,
@@ -68,7 +68,7 @@
         23995.94921875
       ],
       "ok": true,
-      "updated_at": "2026-07-27T11:47:36.520451+00:00"
+      "updated_at": "2026-07-27T14:03:32.120810+00:00"
     },
     "sensex": {
       "price": 76835.78,
@@ -137,7 +137,7 @@
         76835.78125
       ],
       "ok": true,
-      "updated_at": "2026-07-27T11:47:36.573065+00:00"
+      "updated_at": "2026-07-27T14:03:32.168136+00:00"
     },
     "banknifty": {
       "price": 57087.2,
@@ -206,7 +206,7 @@
         57087.19921875
       ],
       "ok": true,
-      "updated_at": "2026-07-27T11:47:36.611953+00:00"
+      "updated_at": "2026-07-27T14:03:32.209504+00:00"
     },
     "vix": {
       "price": 12.66,
@@ -275,14 +275,13 @@
         12.65999984741211
       ],
       "ok": true,
-      "updated_at": "2026-07-27T11:47:36.649160+00:00"
+      "updated_at": "2026-07-27T14:03:32.295323+00:00"
     },
     "usdinr": {
       "price": 95.9,
       "change": -0.652,
       "pct": -0.6753,
       "closes": [
-        96.20249938964844,
         96.19999694824219,
         96.22000122070312,
         96.23999786376953,
@@ -341,43 +340,17 @@
         95.85299682617188,
         95.90750122070312,
         95.9000015258789,
+        95.9000015258789,
         95.9000015258789
       ],
       "ok": true,
-      "updated_at": "2026-07-27T11:47:36.691232+00:00"
+      "updated_at": "2026-07-27T14:03:32.381321+00:00"
     },
     "gold": {
-      "price": 4100.5,
-      "change": 29.7,
-      "pct": 0.7296,
+      "price": 4088.2,
+      "change": 17.4,
+      "pct": 0.4274,
       "closes": [
-        4100.2001953125,
-        4098.7001953125,
-        4098.39990234375,
-        4100.7001953125,
-        4099.7998046875,
-        4104.0,
-        4106.0,
-        4106.60009765625,
-        4105.39990234375,
-        4105.10009765625,
-        4101.2001953125,
-        4099.10009765625,
-        4099.39990234375,
-        4095.5,
-        4090.699951171875,
-        4090.5,
-        4092.0,
-        4093.300048828125,
-        4093.5,
-        4092.89990234375,
-        4093.0,
-        4089.10009765625,
-        4092.5,
-        4092.800048828125,
-        4095.10009765625,
-        4096.60009765625,
-        4097.7001953125,
         4098.0,
         4096.89990234375,
         4095.89990234375,
@@ -410,43 +383,43 @@
         4098.7998046875,
         4099.5,
         4098.89990234375,
-        4100.5
+        4098.2001953125,
+        4097.60009765625,
+        4096.60009765625,
+        4095.89990234375,
+        4098.39990234375,
+        4096.39990234375,
+        4089.300048828125,
+        4086.10009765625,
+        4084.800048828125,
+        4088.10009765625,
+        4089.5,
+        4089.0,
+        4088.5,
+        4084.5,
+        4084.699951171875,
+        4085.199951171875,
+        4086.0,
+        4085.699951171875,
+        4086.60009765625,
+        4085.60009765625,
+        4085.89990234375,
+        4077.800048828125,
+        4081.300048828125,
+        4087.300048828125,
+        4088.89990234375,
+        4090.10009765625,
+        4086.0,
+        4088.199951171875
       ],
       "ok": true,
-      "updated_at": "2026-07-27T11:47:36.741542+00:00"
+      "updated_at": "2026-07-27T14:03:32.457356+00:00"
     },
     "crude": {
-      "price": 83.16,
-      "change": -6.15,
-      "pct": -6.8861,
+      "price": 84.2,
+      "change": -5.11,
+      "pct": -5.7216,
       "closes": [
-        83.6500015258789,
-        83.58999633789062,
-        83.47000122070312,
-        83.87000274658203,
-        83.91000366210938,
-        83.69000244140625,
-        83.63999938964844,
-        83.87999725341797,
-        84.18000030517578,
-        84.25,
-        84.22000122070312,
-        84.31999969482422,
-        84.19000244140625,
-        84.18000030517578,
-        84.58999633789062,
-        84.80000305175781,
-        84.31999969482422,
-        84.2699966430664,
-        84.0,
-        84.01000213623047,
-        83.70999908447266,
-        83.80000305175781,
-        83.81999969482422,
-        83.44999694824219,
-        83.47000122070312,
-        82.94999694824219,
-        82.94999694824219,
         83.19999694824219,
         83.19000244140625,
         83.20999908447266,
@@ -479,90 +452,101 @@
         83.77999877929688,
         83.1500015258789,
         83.22000122070312,
-        83.16000366210938
+        83.2300033569336,
+        83.22000122070312,
+        83.25,
+        83.3499984741211,
+        83.55000305175781,
+        83.76000213623047,
+        84.08999633789062,
+        84.1500015258789,
+        84.05000305175781,
+        84.08999633789062,
+        83.91999816894531,
+        83.94999694824219,
+        84.02999877929688,
+        83.9000015258789,
+        84.2699966430664,
+        84.0199966430664,
+        84.0199966430664,
+        84.29000091552734,
+        84.23999786376953,
+        84.47000122070312,
+        84.30000305175781,
+        84.48999786376953,
+        84.06999969482422,
+        83.69000244140625,
+        83.87999725341797,
+        83.80000305175781,
+        84.16999816894531,
+        84.19999694824219
       ],
       "ok": true,
-      "updated_at": "2026-07-27T11:47:36.783732+00:00"
+      "updated_at": "2026-07-27T14:03:32.513465+00:00"
     },
     "us10y": {
-      "price": 4.679,
-      "change": -0.024,
-      "pct": -0.5103,
+      "price": 4.647,
+      "change": -0.032,
+      "pct": -0.6839,
       "closes": [
-        4.666999816894531,
-        4.671000003814697,
-        4.668999671936035,
-        4.666999816894531,
-        4.666999816894531,
-        4.664999961853027,
-        4.666999816894531,
-        4.666999816894531,
-        4.668999671936035,
-        4.666999816894531,
-        4.671000003814697,
-        4.675000190734863,
-        4.672999858856201,
-        4.671000003814697,
-        4.658999919891357,
-        4.658999919891357,
-        4.6570000648498535,
-        4.654999732971191,
-        4.654999732971191,
+        4.647000312805176,
+        4.647000312805176,
+        4.644999980926514,
+        4.647000312805176,
+        4.64900016784668,
+        4.647000312805176,
+        4.647000312805176,
+        4.647000312805176,
+        4.64900016784668,
+        4.647000312805176,
+        4.644999980926514,
+        4.647000312805176,
+        4.647000312805176,
         4.6529998779296875,
-        4.6570000648498535,
-        4.6570000648498535,
-        4.6570000648498535,
-        4.658999919891357,
-        4.6570000648498535,
-        4.6570000648498535,
-        4.6570000648498535,
-        4.6570000648498535,
-        4.658999919891357,
-        4.6570000648498535,
-        4.6610002517700195,
-        4.664999961853027,
-        4.664999961853027,
-        4.663000106811523,
-        4.664999961853027,
-        4.664999961853027,
-        4.666999816894531,
-        4.668999671936035,
-        4.668999671936035,
-        4.672999858856201,
-        4.675000190734863,
-        4.675000190734863,
-        4.678999900817871,
-        4.678999900817871,
-        4.678999900817871,
-        4.677000045776367,
-        4.683000087738037,
-        4.678999900817871,
-        4.677000045776367,
-        4.678999900817871,
-        4.678999900817871,
-        4.677000045776367,
-        4.677000045776367,
-        4.678999900817871,
-        4.683000087738037,
-        4.681000232696533,
-        4.683000087738037,
-        4.683000087738037,
-        4.683000087738037,
-        4.678999900817871
+        4.654999732971191,
+        4.647000312805176,
+        4.647000312805176,
+        4.647000312805176,
+        4.647000312805176
       ],
       "ok": true,
-      "updated_at": "2026-07-27T11:47:36.824357+00:00"
+      "updated_at": "2026-07-27T14:03:32.606892+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-27T11:47:36.861911+00:00",
+      "updated_at": "2026-07-27T14:03:32.672715+00:00",
       "items": [
+        {
+          "title": "Tata Chemicals Q1 Results: Profit plunges 81% to Rs 60 crore on higher expenses",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-chemicals-q1-profit-down-81-pc-to-rs-60-cr-on-higher-expenses/articleshow/132662595.cms",
+          "pubDate": "2026-07-27T18:42:19+05:30"
+        },
+        {
+          "title": "Tamilnad Mercantile Bank Q1 profit jumps 35% on strong income growth",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tamilnad-mercantile-bank-q1-profit-jumps-35-on-strong-income-growth/articleshow/132662506.cms",
+          "pubDate": "2026-07-27T18:34:48+05:30"
+        },
+        {
+          "title": "Canara Bank targets up to $2.5 billion via FCNR-B, overseas borrowings",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/canara-bank-targets-up-to-2-5-billion-via-fcnr-b-overseas-borrowings/articleshow/132661924.cms",
+          "pubDate": "2026-07-27T18:06:01+05:30"
+        },
+        {
+          "title": "Laurus Labs among 7 midcap stocks that hit 52-week highs and rallied up to 20% in a month",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/laurus-labs-among-7-midcap-stocks-that-hit-52-week-highs-and-rallied-up-to-20-in-a-month/slideshow/132660496.cms",
+          "pubDate": "2026-07-27T17:02:33+05:30"
+        },
         {
           "title": "In 1943, US built an entire city, and it didn't exist on a single map",
           "link": "https://economictimes.indiatimes.com/news/new-updates/in-1943-us-built-an-entire-city-and-it-didnt-exist-on-a-single-map/articleshow/132659427.cms",
           "pubDate": "2026-07-27T16:34:47+05:30"
+        },
+        {
+          "title": "Explained: Why crude oil prices tumbled over 9% to below $90/bbl in one day",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/explained-why-crude-oil-prices-tumbled-over-9-to-below-90/bbl-in-one-day/articleshow/132658484.cms",
+          "pubDate": "2026-07-27T15:47:11+05:30"
         },
         {
           "title": "Humans have a 'third eye' in the brain: Study links it to a 600-million-year-old Cyclops ancestor",
@@ -570,34 +554,9 @@
           "pubDate": "2026-07-27T14:20:27+05:30"
         },
         {
-          "title": "Laurus Labs shares rally over 4% as Q1FY27 profit jumps 126% on strong CDMO growth",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/laurus-labs-shares-surge-over-4-as-q1fy27-profit-jumps-126-on-strong-cdmo-growth/articleshow/132653199.cms",
-          "pubDate": "2026-07-27T11:01:23+05:30"
-        },
-        {
-          "title": "Dr Lal Path Labs shares soar 8% after Q1 earnings beat estimates. What Nomura, Nuvama, other brokerages are saying?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dr-lal-path-labs-shares-soar-8-after-q1-earnings-beat-estimates-what-nomura-nuvama-other-brokerages-are-saying/articleshow/132652906.cms",
-          "pubDate": "2026-07-27T10:43:18+05:30"
-        },
-        {
-          "title": "Sterlite Tech shares jump 5% after CLSA upgrades 2026 multibagger after strong Q1 results",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sterlite-tech-shares-jump-5-after-clsa-upgrades-2026-multibagger-after-strong-q1-results/articleshow/132652800.cms",
-          "pubDate": "2026-07-27T10:36:22+05:30"
-        },
-        {
-          "title": "Bank of Baroda shares fall 2% after Q1 earnings. Why are brokerages slashing target prices?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bank-of-baroda-shares-fall-2-after-q1-earnings-why-are-brokerages-slashing-target-prices/articleshow/132652154.cms",
-          "pubDate": "2026-07-27T09:43:15+05:30"
-        },
-        {
-          "title": "Tata Consumer shares jump 3% after Q1 results. Here’s why Nomura, Motilal see strong upside potential",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-consumer-shares-jump-3-after-q1-results-heres-why-nomura-motilal-see-strong-upside-potential/articleshow/132652115.cms",
-          "pubDate": "2026-07-27T09:38:40+05:30"
-        },
-        {
-          "title": "Hindustan Zinc shares gain 2% as Q1 net profit soars 145% YoY. Should you buy, sell or hold?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-shares-gain-2-as-q1-net-profit-soars-145-yoy-should-you-buy-sell-or-hold/articleshow/132652050.cms",
-          "pubDate": "2026-07-27T09:31:14+05:30"
+          "title": "Indo-MIM IPO closes with over 72x subscription on Day 3, QIB portion booked 204x; GMP at 39%",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/indo-mim-ipo-gmp-at-39-issue-subscribed-over-11x-so-far-on-day-3-should-you-apply/articleshow/132656359.cms",
+          "pubDate": "2026-07-27T13:50:14+05:30"
         },
         {
           "title": "1,500 ships trapped in Gulf of Hormuz is quietly multiplying an underwater army that could unleash World's biggest bioinvasion event",
@@ -713,7 +672,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-07-27T11:47:37.152967+00:00",
+      "updated_at": "2026-07-27T14:03:32.710690+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +753,38 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-27T11:47:37.193943+00:00",
+      "updated_at": "2026-07-27T14:03:32.843349+00:00",
       "items": [
+        {
+          "title": "PE at 18! Small-cap stock hits 52-week high logging 14% intraday gain",
+          "link": "https://www.livemint.com/market/stock-market-news/pe-at-18-small-cap-stock-hits-52-week-high-logging-14-intraday-gain-11785159683498.html",
+          "pubDate": "2026-07-27T19:29:59+05:30"
+        },
+        {
+          "title": "Wall Street edges higher as US-Iran hostilities pause",
+          "link": "https://www.livemint.com/market/stock-market-news/wall-street-edge-higher-as-us-iran-hostilities-pause-11785159746123.html",
+          "pubDate": "2026-07-27T19:26:04+05:30"
+        },
+        {
+          "title": "Lohia Corp IPO subscribed over 7.25 times on final day; QIB portion booked 9 times",
+          "link": "https://www.livemint.com/market/stock-market-news/lohia-corp-ipo-subscribed-over-7-25-times-on-final-day-qib-portion-booked-9-times-11785158264834.html",
+          "pubDate": "2026-07-27T18:58:49+05:30"
+        },
+        {
+          "title": "Global Fuel Markets Are Out of Slack as Wars Push Prices Higher",
+          "link": "https://www.livemint.com/market/global-fuel-markets-are-out-of-slack-as-wars-push-prices-higher-11785155890386.html",
+          "pubDate": "2026-07-27T18:08:10+05:30"
+        },
+        {
+          "title": "US stock market today: S&amp;P 500, Nasdaq futures jump up to 1.7% as oil prices tumble on easing US-Iran tensions",
+          "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-jump-up-to-1-7-as-oil-prices-tumble-on-easing-us-iran-tensions-11785151956723.html",
+          "pubDate": "2026-07-27T18:02:45+05:30"
+        },
+        {
+          "title": "Hindustan Zinc share: Jefferies, HSBC to Nuvama — brokerages see big upside. Should you buy?",
+          "link": "https://www.livemint.com/market/stock-market-news/hindustan-zinc-share-jefferies-hsbc-to-nuvama-brokerages-see-big-upside-should-you-buy-11785155011858.html",
+          "pubDate": "2026-07-27T18:01:25+05:30"
+        },
         {
           "title": "NBFC stock Aye Finance falls 3% on profit booking; JM Financial, IIFL Capital give buy calls after Q1 results",
           "link": "https://www.livemint.com/market/stock-market-news/nbfc-stock-aye-finance-falls-3-on-profit-booking-jm-financial-iifl-capital-give-buy-calls-after-q1-results-11785149553372.html",
@@ -907,7 +896,7 @@
           "pubDate": "2026-07-27T10:35:01+05:30"
         },
         {
-          "title": "Indo-MIM IPO Day 3 LIVE: GMP jumps following strong subscription status. Apply or not?",
+          "title": "Indo-MIM IPO: GMP jumps as issue subscribed 72.34 times",
           "link": "https://www.livemint.com/market/ipo/indomim-ipo-day-3-live-gmp-jumps-following-strong-subscription-status-apply-or-not-11785126299671.html",
           "pubDate": "2026-07-27T10:18:19+05:30"
         },
@@ -915,36 +904,6 @@
           "title": "Tata Consumer Products: A tale of two halves with ‘growth businesses’ packing a punch",
           "link": "https://www.livemint.com/market/mark-to-market/tata-consumer-products-tata-sampann-capital-foods-organic-india-tata-starbucks-q1fy27-fmcg-tea-salt-growth-business-11785122416467.html",
           "pubDate": "2026-07-27T10:17:08+05:30"
-        },
-        {
-          "title": "Gulf Lloyds SME IPO listing: Shares debut flat on BSE, hit lower price band; details here",
-          "link": "https://www.livemint.com/market/ipo/gulf-lloyds-sme-ipo-listing-shares-debut-flat-on-bse-hit-lower-price-band-details-here-11785126661077.html",
-          "pubDate": "2026-07-27T10:03:03+05:30"
-        },
-        {
-          "title": "Australian Fuel Prices Jump Most Since March as Iran Truce Wilts",
-          "link": "https://www.livemint.com/market/australian-fuel-prices-jump-most-since-march-as-iran-truce-wilts-11785125945093.html",
-          "pubDate": "2026-07-27T09:49:04+05:30"
-        },
-        {
-          "title": "Lohia Corp IPO Day 3: Issue booked 2.25x so far. GMP hints 1.65% listing gain. Should you apply or avoid?",
-          "link": "https://www.livemint.com/market/ipo/lohia-corp-ipo-gmp-lohia-corp-ipo-review-lohia-corp-ipo-subscription-status-lohia-corp-ipo-expected-listing-price-11785124294490.html",
-          "pubDate": "2026-07-27T09:43:22+05:30"
-        },
-        {
-          "title": "IDFC First Bank share price jumps 9% on strong Q1 results 2026. Should you buy or sell?",
-          "link": "https://www.livemint.com/market/stock-market-news/idfc-first-bank-share-price-jumps-9-on-strong-q1-results-2026-should-you-buy-or-sell-11785124280466.html",
-          "pubDate": "2026-07-27T09:26:45+05:30"
-        },
-        {
-          "title": "Gold, silver prices rise up to 1% on MCX as dollar, crude oil drop; US Fed policy decision in focus",
-          "link": "https://www.livemint.com/market/commodities/gold-silver-prices-rise-up-to-1-on-mcx-as-dollar-crude-oil-prices-drop-us-fed-policy-decision-in-focus-11785122423086.html",
-          "pubDate": "2026-07-27T09:06:09+05:30"
-        },
-        {
-          "title": "Rupee opens 41 paise higher at 96.15 against US dollar amid easing crude oil prices",
-          "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-41-paise-higher-at-96-15-against-us-dollar-amid-easing-crude-oil-prices-11785123125497.html",
-          "pubDate": "2026-07-27T09:04:18+05:30"
         }
       ]
     },
@@ -955,8 +914,48 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-27T11:47:38.295440+00:00",
+      "updated_at": "2026-07-27T14:03:34.021203+00:00",
       "items": [
+        {
+          "title": "Auction of Government of India Dated Security",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63245",
+          "pubDate": "2026-07-27T18:30:00+00:00"
+        },
+        {
+          "title": "RBI issues Draft (Securitisation Transactions) Amendment Directions",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63244",
+          "pubDate": "2026-07-27T17:50:00+00:00"
+        },
+        {
+          "title": "RBI imposes monetary penalty on Raigad District Central Co-operative Bank Ltd., Maharashtra",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63243",
+          "pubDate": "2026-07-27T17:35:00+00:00"
+        },
+        {
+          "title": "RBI imposes monetary penalty on Sangli District Central Co-operative Bank Ltd., Maharashtra",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63242",
+          "pubDate": "2026-07-27T17:35:00+00:00"
+        },
+        {
+          "title": "RBI imposes monetary penalty on Jilla Sahakari Kendriya Bank Maryadit, Shajapur, Madhya Pradesh",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63241",
+          "pubDate": "2026-07-27T17:35:00+00:00"
+        },
+        {
+          "title": "RBI imposes monetary penalty on The Citizen Co-operative Bank Limited, Bangalore, Karnataka",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63240",
+          "pubDate": "2026-07-27T17:25:00+00:00"
+        },
+        {
+          "title": "Exclusion of “Coöperatieve Rabobank U.A.” from the Second Schedule to the Reserve Bank of India Act, 1934",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63239",
+          "pubDate": "2026-07-27T17:20:00+00:00"
+        },
+        {
+          "title": "Cessation of “Coöperatieve Rabobank U.A.” as a banking company within the meaning of sub section (2) of Section 36 (A) of the Banking Regulation Act, 1949",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63238",
+          "pubDate": "2026-07-27T17:15:00+00:00"
+        },
         {
           "title": "Money Market Operations as on July 26, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63237",
@@ -966,46 +965,6 @@
           "title": "Money Market Operations as on July 25, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63236",
           "pubDate": "2026-07-27T11:30:00+00:00"
-        },
-        {
-          "title": "Result of the 3-day Variable Rate Repo (VRR) auction held on July 27, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63235",
-          "pubDate": "2026-07-27T10:25:00+00:00"
-        },
-        {
-          "title": "Money Market Operations as on July 24, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63234",
-          "pubDate": "2026-07-27T09:00:00+00:00"
-        },
-        {
-          "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on July 27, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63233",
-          "pubDate": "2026-07-24T19:15:00+00:00"
-        },
-        {
-          "title": "Auction of State Government Securities",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63232",
-          "pubDate": "2026-07-24T18:40:00+00:00"
-        },
-        {
-          "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Irinjalakuda Town Co-operative Bank Ltd., Kerala - Extension of period",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63231",
-          "pubDate": "2026-07-24T17:45:00+00:00"
-        },
-        {
-          "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63230",
-          "pubDate": "2026-07-24T17:20:00+00:00"
-        },
-        {
-          "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63229",
-          "pubDate": "2026-07-24T17:00:00+00:00"
-        },
-        {
-          "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Sonpeth Nagari Sahakari Bank Maryadit, Sonpeth, Dist. Parbhani, Maharashtra – Extension of Period",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63228",
-          "pubDate": "2026-07-24T16:25:00+00:00"
         }
       ]
     }

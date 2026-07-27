@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T19:50:07.357013+00:00",
+  "generated_at": "2026-07-27T20:57:46.337424+00:00",
   "indices": {
     "nifty50": {
       "price": 23995.95,
@@ -68,7 +68,7 @@
         23995.94921875
       ],
       "ok": true,
-      "updated_at": "2026-07-27T19:50:05.189309+00:00"
+      "updated_at": "2026-07-27T20:57:42.673517+00:00"
     },
     "sensex": {
       "price": 76835.78,
@@ -137,7 +137,7 @@
         76835.78125
       ],
       "ok": true,
-      "updated_at": "2026-07-27T19:50:05.269863+00:00"
+      "updated_at": "2026-07-27T20:57:42.848131+00:00"
     },
     "banknifty": {
       "price": 57087.2,
@@ -206,7 +206,7 @@
         57087.19921875
       ],
       "ok": true,
-      "updated_at": "2026-07-27T19:50:05.371197+00:00"
+      "updated_at": "2026-07-27T20:57:43.084538+00:00"
     },
     "vix": {
       "price": 12.66,
@@ -275,7 +275,7 @@
         12.65999984741211
       ],
       "ok": true,
-      "updated_at": "2026-07-27T19:50:05.437471+00:00"
+      "updated_at": "2026-07-27T20:57:43.252118+00:00"
     },
     "usdinr": {
       "price": 95.9,
@@ -344,27 +344,13 @@
         95.9000015258789
       ],
       "ok": true,
-      "updated_at": "2026-07-27T19:50:05.499958+00:00"
+      "updated_at": "2026-07-27T20:57:43.420628+00:00"
     },
     "gold": {
-      "price": 4088.5,
-      "change": 17.7,
-      "pct": 0.4348,
+      "price": 4078.2,
+      "change": 7.4,
+      "pct": 0.1818,
       "closes": [
-        4073.300048828125,
-        4075.199951171875,
-        4078.39990234375,
-        4077.5,
-        4074.39990234375,
-        4078.300048828125,
-        4080.10009765625,
-        4077.5,
-        4078.89990234375,
-        4075.39990234375,
-        4075.800048828125,
-        4078.10009765625,
-        4078.5,
-        4079.800048828125,
         4080.60009765625,
         4081.60009765625,
         4086.60009765625,
@@ -410,29 +396,30 @@
         4087.800048828125,
         4087.39990234375,
         4088.199951171875,
-        4089.199951171875
+        4089.199951171875,
+        4091.60009765625,
+        4089.5,
+        4085.5,
+        4084.199951171875,
+        4084.5,
+        4084.39990234375,
+        4083.10009765625,
+        4082.199951171875,
+        4081.0,
+        4079.300048828125,
+        4078.89990234375,
+        4079.0,
+        4078.5,
+        4078.199951171875
       ],
       "ok": true,
-      "updated_at": "2026-07-27T19:50:05.557117+00:00"
+      "updated_at": "2026-07-27T20:57:43.672091+00:00"
     },
     "crude": {
-      "price": 82.3,
-      "change": -7.01,
-      "pct": -7.8491,
+      "price": 81.98,
+      "change": -7.33,
+      "pct": -8.2074,
       "closes": [
-        83.73999786376953,
-        83.56999969482422,
-        83.41000366210938,
-        83.37000274658203,
-        83.25,
-        83.18000030517578,
-        83.31999969482422,
-        83.16999816894531,
-        83.27999877929688,
-        83.26000213623047,
-        83.11000061035156,
-        83.26000213623047,
-        83.19000244140625,
         83.38999938964844,
         83.30000305175781,
         83.33000183105469,
@@ -479,10 +466,23 @@
         82.30999755859375,
         82.27999877929688,
         82.22000122070312,
-        82.30000305175781
+        82.05000305175781,
+        81.94000244140625,
+        81.93000030517578,
+        82.0,
+        81.76000213623047,
+        81.7300033569336,
+        81.88999938964844,
+        81.80000305175781,
+        81.87000274658203,
+        81.94000244140625,
+        82.0199966430664,
+        82.05000305175781,
+        81.94999694824219,
+        81.9800033569336
       ],
       "ok": true,
-      "updated_at": "2026-07-27T19:50:05.619888+00:00"
+      "updated_at": "2026-07-27T20:57:43.933654+00:00"
     },
     "us10y": {
       "price": 4.641,
@@ -551,14 +551,19 @@
         4.640999794006348
       ],
       "ok": true,
-      "updated_at": "2026-07-27T19:50:05.668010+00:00"
+      "updated_at": "2026-07-27T20:57:44.113648+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-27T19:50:05.829391+00:00",
+      "updated_at": "2026-07-27T20:57:44.409243+00:00",
       "items": [
+        {
+          "title": "US stocks: US market ends mixed as investors focus on Big Tech earnings",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-mixed-as-investors-focus-on-tech-earnings/articleshow/132670435.cms",
+          "pubDate": "2026-07-28T01:31:59+05:30"
+        },
         {
           "title": "Tata Chemicals Q1 Results: Profit plunges 81% to Rs 60 crore on higher expenses",
           "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-chemicals-q1-profit-down-81-pc-to-rs-60-cr-on-higher-expenses/articleshow/132662595.cms",
@@ -583,11 +588,6 @@
           "title": "In 1943, US built an entire city, and it didn't exist on a single map",
           "link": "https://economictimes.indiatimes.com/news/new-updates/in-1943-us-built-an-entire-city-and-it-didnt-exist-on-a-single-map/articleshow/132659427.cms",
           "pubDate": "2026-07-27T16:34:47+05:30"
-        },
-        {
-          "title": "Explained: Why crude oil prices tumbled over 9% to below $90/bbl in one day",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/explained-why-crude-oil-prices-tumbled-over-9-to-below-90/bbl-in-one-day/articleshow/132658484.cms",
-          "pubDate": "2026-07-27T15:47:11+05:30"
         },
         {
           "title": "Humans have a 'third eye' in the brain: Study links it to a 600-million-year-old Cyclops ancestor",
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-27T19:50:06.213884+00:00",
+      "updated_at": "2026-07-27T20:57:44.939007+00:00",
       "items": [
+        {
+          "title": "Treasuries Rise as Elevated Yields Attract Buyers Before Fed",
+          "link": "https://www.livemint.com/market/treasuries-rise-as-elevated-yields-attract-buyers-before-fed-11785185425092.html",
+          "pubDate": "2026-07-28T02:20:24+05:30"
+        },
+        {
+          "title": "Wall Street ends mixed as investors focus on tech earnings",
+          "link": "https://www.livemint.com/market/wall-street-ends-mixed-as-investors-focus-on-tech-earnings-11785182564454.html",
+          "pubDate": "2026-07-28T01:32:44+05:30"
+        },
         {
           "title": "Dollar eases as oil prices fall on pause in Middle East conflict",
           "link": "https://www.livemint.com/market/dollar-eases-as-oil-prices-fall-on-pause-in-middle-east-conflict-11785181650901.html",
@@ -935,16 +945,6 @@
           "title": "Xtranet Technologies IPO Day 3: Issue subscribed 4x so far. Should you apply or avoid?",
           "link": "https://www.livemint.com/market/ipo/xtranet-technologies-ipo-day-3-issue-subscribed-4x-so-far-should-you-apply-or-avoid-11785132688244.html",
           "pubDate": "2026-07-27T12:31:50+05:30"
-        },
-        {
-          "title": "CXMT shares soar over 500% on Shanghai debut after Asia's biggest IPO",
-          "link": "https://www.livemint.com/market/stock-market-news/cxmt-shares-soar-over-500-on-shanghai-debut-after-asias-biggest-ipo-11785132296879.html",
-          "pubDate": "2026-07-27T11:48:12+05:30"
-        },
-        {
-          "title": "350% rally in five years! Multibagger stock jumps after reporting 120% YoY rise in net profit during Q1FY27",
-          "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-sakar-healthcare-jumps-after-reporting-120-yoy-rise-in-net-profit-during-q1fy27-11785129471018.html",
-          "pubDate": "2026-07-27T11:39:37+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-27T19:50:07.356994+00:00",
+      "updated_at": "2026-07-27T20:57:46.337401+00:00",
       "items": [
         {
           "title": "Auction of Government of India Dated Security",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T20:54:20.279052+00:00",
+  "generated_at": "2026-07-28T21:52:29.357309+00:00",
   "indices": {
     "nifty50": {
       "price": 23985.35,
@@ -68,7 +68,7 @@
         23985.349609375
       ],
       "ok": true,
-      "updated_at": "2026-07-28T20:54:18.585067+00:00"
+      "updated_at": "2026-07-28T21:52:26.750910+00:00"
     },
     "sensex": {
       "price": 76765.92,
@@ -137,7 +137,7 @@
         76765.921875
       ],
       "ok": true,
-      "updated_at": "2026-07-28T20:54:18.625760+00:00"
+      "updated_at": "2026-07-28T21:52:27.494266+00:00"
     },
     "banknifty": {
       "price": 56755.6,
@@ -206,7 +206,7 @@
         56755.6015625
       ],
       "ok": true,
-      "updated_at": "2026-07-28T20:54:18.703595+00:00"
+      "updated_at": "2026-07-28T21:52:27.545359+00:00"
     },
     "vix": {
       "price": 12.563,
@@ -275,7 +275,7 @@
         12.5625
       ],
       "ok": true,
-      "updated_at": "2026-07-28T20:54:18.750581+00:00"
+      "updated_at": "2026-07-28T21:52:27.640446+00:00"
     },
     "usdinr": {
       "price": 95.842,
@@ -344,16 +344,13 @@
         95.84200286865234
       ],
       "ok": true,
-      "updated_at": "2026-07-28T20:54:18.823081+00:00"
+      "updated_at": "2026-07-28T21:52:27.702498+00:00"
     },
     "gold": {
-      "price": 4029.7,
-      "change": -47.3,
-      "pct": -1.1602,
+      "price": 4028.8,
+      "change": -9.9,
+      "pct": -0.2451,
       "closes": [
-        4043.60009765625,
-        4046.199951171875,
-        4046.5,
         4042.60009765625,
         4043.60009765625,
         4044.800048828125,
@@ -410,19 +407,19 @@
         4028.0,
         4027.60009765625,
         4030.0,
-        4029.699951171875
+        4027.699951171875,
+        4028.5,
+        4028.800048828125,
+        4028.800048828125
       ],
       "ok": true,
-      "updated_at": "2026-07-28T20:54:18.863456+00:00"
+      "updated_at": "2026-07-28T21:52:27.754066+00:00"
     },
     "crude": {
-      "price": 79.1,
-      "change": -3.51,
-      "pct": -4.2489,
+      "price": 79.13,
+      "change": -0.13,
+      "pct": -0.164,
       "closes": [
-        78.6500015258789,
-        78.36000061035156,
-        78.43000030517578,
         78.48999786376953,
         78.29000091552734,
         78.04000091552734,
@@ -479,10 +476,13 @@
         78.9000015258789,
         79.2300033569336,
         79.08000183105469,
-        79.0999984741211
+        79.22000122070312,
+        79.19999694824219,
+        79.12999725341797,
+        79.12999725341797
       ],
       "ok": true,
-      "updated_at": "2026-07-28T20:54:18.913837+00:00"
+      "updated_at": "2026-07-28T21:52:27.824890+00:00"
     },
     "us10y": {
       "price": 4.604,
@@ -551,13 +551,13 @@
         4.604000091552734
       ],
       "ok": true,
-      "updated_at": "2026-07-28T20:54:18.951943+00:00"
+      "updated_at": "2026-07-28T21:52:27.871273+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-28T20:54:19.081816+00:00",
+      "updated_at": "2026-07-28T21:52:28.156981+00:00",
       "items": [
         {
           "title": "US stocks: S&amp;P 500 ends higher as investors await tech earnings",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-28T20:54:19.259979+00:00",
+      "updated_at": "2026-07-28T21:52:28.392651+00:00",
       "items": [
+        {
+          "title": "Goldman Says Japan’s AI Stock Trade ‘Not Broken’ After Rout",
+          "link": "https://www.livemint.com/market/goldman-says-japan-s-ai-stock-trade-not-broken-after-rout-11785273521589.html",
+          "pubDate": "2026-07-29T02:48:41+05:30"
+        },
         {
           "title": "Chip Rout Sinks Emerging-Market Stocks; Currencies Trade Mixed",
           "link": "https://www.livemint.com/market/chip-rout-sinks-emerging-market-stocks-currencies-trade-mixed-11785271370611.html",
@@ -940,11 +945,6 @@
           "title": "Varun Beverages Q2 Results: Net profit rises 15% to  ₹1,525 crore, revenue up 20%; dividend declared",
           "link": "https://www.livemint.com/market/stock-market-news/varun-beverages-q2-results-net-profit-rises-15-to-rs-1-525-crore-revenue-up-20-11785221941040.html",
           "pubDate": "2026-07-28T12:33:56+05:30"
-        },
-        {
-          "title": "Xtranet Technologies IPO allotment to be finalised today. Here's GMP, how to check status",
-          "link": "https://www.livemint.com/market/ipo/xtranet-technologies-ipo-allotment-to-be-finalised-today-heres-gmp-how-to-check-status-11785219981466.html",
-          "pubDate": "2026-07-28T12:33:55+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-28T20:54:20.279035+00:00",
+      "updated_at": "2026-07-28T21:52:29.357294+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on July 29, 2026",

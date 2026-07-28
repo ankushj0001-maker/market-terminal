@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T15:20:18.883617+00:00",
+  "generated_at": "2026-07-28T16:54:51.529469+00:00",
   "indices": {
     "nifty50": {
       "price": 23985.35,
@@ -68,7 +68,7 @@
         23985.349609375
       ],
       "ok": true,
-      "updated_at": "2026-07-28T15:20:17.286419+00:00"
+      "updated_at": "2026-07-28T16:54:49.607984+00:00"
     },
     "sensex": {
       "price": 76765.92,
@@ -137,7 +137,7 @@
         76765.921875
       ],
       "ok": true,
-      "updated_at": "2026-07-28T15:20:17.409361+00:00"
+      "updated_at": "2026-07-28T16:54:49.651726+00:00"
     },
     "banknifty": {
       "price": 56755.6,
@@ -206,7 +206,7 @@
         56755.6015625
       ],
       "ok": true,
-      "updated_at": "2026-07-28T15:20:17.543953+00:00"
+      "updated_at": "2026-07-28T16:54:49.696172+00:00"
     },
     "vix": {
       "price": 12.563,
@@ -275,15 +275,13 @@
         12.5625
       ],
       "ok": true,
-      "updated_at": "2026-07-28T15:20:17.662859+00:00"
+      "updated_at": "2026-07-28T16:54:49.743931+00:00"
     },
     "usdinr": {
       "price": 95.842,
       "change": -0.058,
       "pct": -0.0605,
       "closes": [
-        95.72000122070312,
-        95.73999786376953,
         95.75250244140625,
         95.74749755859375,
         95.77249908447266,
@@ -341,34 +339,18 @@
         95.84200286865234,
         95.84200286865234,
         95.84200286865234,
+        95.84200286865234,
+        95.84200286865234,
         95.84200286865234
       ],
       "ok": true,
-      "updated_at": "2026-07-28T15:20:17.708995+00:00"
+      "updated_at": "2026-07-28T16:54:49.792336+00:00"
     },
     "gold": {
-      "price": 4030.2,
-      "change": -46.8,
-      "pct": -1.1479,
+      "price": 4040.8,
+      "change": -36.2,
+      "pct": -0.8879,
       "closes": [
-        4018.699951171875,
-        4016.800048828125,
-        4022.300048828125,
-        4021.60009765625,
-        4022.0,
-        4023.300048828125,
-        4027.60009765625,
-        4025.60009765625,
-        4026.10009765625,
-        4027.0,
-        4023.5,
-        4030.10009765625,
-        4028.199951171875,
-        4027.199951171875,
-        4026.699951171875,
-        4029.300048828125,
-        4026.60009765625,
-        4026.5,
         4024.0,
         4027.800048828125,
         4025.699951171875,
@@ -410,34 +392,34 @@
         4024.60009765625,
         4027.5,
         4033.699951171875,
-        4030.199951171875
+        4035.60009765625,
+        4035.89990234375,
+        4035.60009765625,
+        4033.60009765625,
+        4037.39990234375,
+        4041.699951171875,
+        4043.60009765625,
+        4046.199951171875,
+        4046.5,
+        4042.60009765625,
+        4043.60009765625,
+        4044.800048828125,
+        4045.5,
+        4043.89990234375,
+        4042.300048828125,
+        4043.0,
+        4042.10009765625,
+        4041.0,
+        4040.800048828125
       ],
       "ok": true,
-      "updated_at": "2026-07-28T15:20:17.840411+00:00"
+      "updated_at": "2026-07-28T16:54:49.846463+00:00"
     },
     "crude": {
-      "price": 81.19,
-      "change": -1.42,
-      "pct": -1.7189,
+      "price": 78.16,
+      "change": -4.45,
+      "pct": -5.3868,
       "closes": [
-        81.08999633789062,
-        81.18000030517578,
-        81.0999984741211,
-        81.0,
-        81.0999984741211,
-        81.05000305175781,
-        80.97000122070312,
-        81.16999816894531,
-        81.02999877929688,
-        81.36000061035156,
-        81.26000213623047,
-        81.02999877929688,
-        81.1500015258789,
-        81.37999725341797,
-        81.4800033569336,
-        81.73999786376953,
-        81.79000091552734,
-        81.86000061035156,
         81.8499984741211,
         81.72000122070312,
         81.5,
@@ -479,15 +461,33 @@
         81.45999908447266,
         81.25,
         80.55000305175781,
-        81.19000244140625
+        79.80999755859375,
+        79.75,
+        79.41999816894531,
+        79.26000213623047,
+        79.41000366210938,
+        79.08000183105469,
+        79.44000244140625,
+        78.6500015258789,
+        78.36000061035156,
+        78.43000030517578,
+        78.48999786376953,
+        78.29000091552734,
+        78.04000091552734,
+        78.31999969482422,
+        78.23999786376953,
+        78.08000183105469,
+        77.94000244140625,
+        78.18000030517578,
+        78.16000366210938
       ],
       "ok": true,
-      "updated_at": "2026-07-28T15:20:17.967220+00:00"
+      "updated_at": "2026-07-28T16:54:49.897139+00:00"
     },
     "us10y": {
-      "price": 4.616,
-      "change": -0.025,
-      "pct": -0.5387,
+      "price": 4.592,
+      "change": -0.049,
+      "pct": -1.0558,
       "closes": [
         4.633000373840332,
         4.633000373840332,
@@ -522,46 +522,65 @@
         4.618000030517578,
         4.616000175476074,
         4.616000175476074,
-        4.616000175476074
+        4.613999843597412,
+        4.599999904632568,
+        4.5920000076293945,
+        4.5980000495910645,
+        4.593999862670898,
+        4.593999862670898,
+        4.593999862670898,
+        4.593999862670898,
+        4.593999862670898,
+        4.5920000076293945,
+        4.590000152587891,
+        4.5920000076293945,
+        4.593999862670898,
+        4.590000152587891,
+        4.588000297546387,
+        4.590000152587891,
+        4.590000152587891,
+        4.590000152587891,
+        4.5920000076293945,
+        4.5920000076293945
       ],
       "ok": true,
-      "updated_at": "2026-07-28T15:20:18.060630+00:00"
+      "updated_at": "2026-07-28T16:54:49.944215+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-28T15:20:18.211705+00:00",
+      "updated_at": "2026-07-28T16:54:49.996331+00:00",
       "items": [
         {
-          "title": "Tata Power shares get Equal Weight rating from Morgan Stanley with target price of Rs 399",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-power-shares-get-equal-weight-rating-from-morgan-stanley-with-target-price-of-rs-399/articleshow/132676964.cms",
-          "pubDate": "2026-07-28T11:54:24+05:30"
+          "title": "Coca-Cola shares surge 7% as earnings beat lifts outlook",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/coca-cola-shares-surge-7-as-earnings-beat-lifts-outlook/articleshow/132688358.cms",
+          "pubDate": "2026-07-28T20:51:06+05:30"
         },
         {
-          "title": "HUL shares slide 5% after weaker-than-expected Q1; PAT dips 3% to Rs 2,673 crore on one-time credit",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hul-shares-slide-5-after-weaker-than-expected-q1-pat-dips-3-to-rs-2673-crore-on-one-time-credit/articleshow/132676380.cms",
-          "pubDate": "2026-07-28T11:14:05+05:30"
+          "title": "Glass-maker Corning shares plunge 20% on lower sales forecast",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/glass-maker-corning-shares-plunge-20-on-lower-sales-forecast/articleshow/132687070.cms",
+          "pubDate": "2026-07-28T20:24:48+05:30"
         },
         {
-          "title": "Godfrey Phillips shares fall 6% as Q1 net profit declines over 44% amid tax-led price increase",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/godfrey-phillips-shares-fall-6-as-q1-net-profit-declines-over-44-amid-tax-led-price-increase/articleshow/132676227.cms",
-          "pubDate": "2026-07-28T11:03:32+05:30"
+          "title": "Nithin Kamath warns closing auction session may hit Zerodha’s revenue from August 3",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-warns-closing-auction-session-may-hit-zerodhas-revenue-from-august-3/articleshow/132686172.cms",
+          "pubDate": "2026-07-28T19:16:05+05:30"
         },
         {
-          "title": "RR Kabel shares jump 10% as Q1 PAT surges 129% YoY, Ebitda doubles",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rr-kabel-shares-jump-10-as-q1-pat-surges-129-yoy-ebitda-doubles/articleshow/132675913.cms",
-          "pubDate": "2026-07-28T10:42:34+05:30"
+          "title": "L&amp;T Q1 Results: Net profit rises 14% YoY to Rs 4,123 crore, revenue up 7%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lt-q1-results-net-profit-rises-14-yoy-to-rs-4123-crore-revenue-up-7/articleshow/132684207.cms",
+          "pubDate": "2026-07-28T17:35:17+05:30"
         },
         {
-          "title": "Coforge shares surge 7% after Q1 profit spikes 63% YoY",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-surge-7-after-q1-profit-spikes-63-yoy/articleshow/132675389.cms",
-          "pubDate": "2026-07-28T10:12:19+05:30"
+          "title": "Vedanta Aluminium shares in a sweet spot, says ICICI Securities; initiates coverage with Buy rating",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-shares-in-a-sweet-spot-says-icici-securities-initiates-coverage-with-buy-rating/articleshow/132682352.cms",
+          "pubDate": "2026-07-28T16:16:18+05:30"
         },
         {
-          "title": "South Korea’s Kospi tanks 8% despite US-Iran war optimism. Here are 4 reasons why",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-koreas-kospi-tanks-8-despite-us-iran-war-optimism-here-are-4-reasons-why/articleshow/132673708.cms",
-          "pubDate": "2026-07-28T08:06:08+05:30"
+          "title": "Tata Capital Q1 Results: Net profit jumps 56% YoY to Rs 1,547 crore, revenue up 15%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-capital-q1-results-net-profit-jumps-56-yoy-to-rs-1547-crore-revenue-up-15/articleshow/132682221.cms",
+          "pubDate": "2026-07-28T16:08:46+05:30"
         },
         {
           "title": "In 1943, US built an entire city, and it didn't exist on a single map",
@@ -686,7 +705,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-07-28T15:20:18.587209+00:00",
       "items": [
         {
@@ -768,8 +787,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-28T15:20:18.703802+00:00",
+      "updated_at": "2026-07-28T16:54:50.551806+00:00",
       "items": [
+        {
+          "title": "Gold, silver prices today: Comex gold and silver slide as stronger dollar, Fed uncertainty weigh",
+          "link": "https://www.livemint.com/market/stock-market-news/gold-silver-prices-today-comex-gold-and-silver-slide-as-stronger-dollar-fed-uncertainty-weigh-11785251924513.html",
+          "pubDate": "2026-07-28T22:02:19+05:30"
+        },
         {
           "title": "Coal India Q1 capex rises 16.6% YoY to  ₹3,399 crore, beats quarterly target",
           "link": "https://www.livemint.com/market/stock-market-news/coal-india-q1-capex-rises-16-6-yoy-to-rs-3-399-crore-in-beats-quarterly-target-11785250551117.html",
@@ -914,11 +938,6 @@
           "title": "Adani Energy Solutions shares dip over 3% after announcement of  ₹3,500 crore QIP with green shoe option; check details",
           "link": "https://www.livemint.com/market/stock-market-news/adani-energy-solutions-shares-dip-over-3-after-adani-group-firm-announced-rs-3-500-crore-qip-with-green-shoe-option-11785214390906.html",
           "pubDate": "2026-07-28T10:56:14+05:30"
-        },
-        {
-          "title": "IDFC First Bank shares extend post-Q1FY27 results rally. Will it climb to a new 52-week high?",
-          "link": "https://www.livemint.com/market/stock-market-news/idfc-first-bank-shares-extend-post-q1fy27-results-rally-will-it-climb-to-a-new-52-week-high-11785212579934.html",
-          "pubDate": "2026-07-28T10:40:40+05:30"
         }
       ]
     },
@@ -929,7 +948,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-28T15:20:18.883601+00:00",
+      "updated_at": "2026-07-28T16:54:51.529454+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on July 29, 2026",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T18:05:45.657866+00:00",
+  "generated_at": "2026-07-28T19:48:47.732552+00:00",
   "indices": {
     "nifty50": {
       "price": 23985.35,
@@ -68,7 +68,7 @@
         23985.349609375
       ],
       "ok": true,
-      "updated_at": "2026-07-28T18:05:43.432763+00:00"
+      "updated_at": "2026-07-28T19:48:44.846825+00:00"
     },
     "sensex": {
       "price": 76765.92,
@@ -137,7 +137,7 @@
         76765.921875
       ],
       "ok": true,
-      "updated_at": "2026-07-28T18:05:43.471450+00:00"
+      "updated_at": "2026-07-28T19:48:44.983320+00:00"
     },
     "banknifty": {
       "price": 56755.6,
@@ -206,7 +206,7 @@
         56755.6015625
       ],
       "ok": true,
-      "updated_at": "2026-07-28T18:05:43.512302+00:00"
+      "updated_at": "2026-07-28T19:48:45.078707+00:00"
     },
     "vix": {
       "price": 12.563,
@@ -275,7 +275,7 @@
         12.5625
       ],
       "ok": true,
-      "updated_at": "2026-07-28T18:05:43.636996+00:00"
+      "updated_at": "2026-07-28T19:48:45.180148+00:00"
     },
     "usdinr": {
       "price": 95.62,
@@ -344,33 +344,13 @@
         95.62000274658203
       ],
       "ok": true,
-      "updated_at": "2026-07-28T18:05:43.775416+00:00"
+      "updated_at": "2026-07-28T19:48:45.275796+00:00"
     },
     "gold": {
-      "price": 4027.0,
-      "change": -50.0,
-      "pct": -1.2264,
+      "price": 4024.0,
+      "change": -53.0,
+      "pct": -1.3,
       "closes": [
-        4032.699951171875,
-        4032.699951171875,
-        4030.199951171875,
-        4034.300048828125,
-        4028.699951171875,
-        4031.0,
-        4021.39990234375,
-        4024.89990234375,
-        4024.60009765625,
-        4027.10009765625,
-        4021.39990234375,
-        4026.39990234375,
-        4030.10009765625,
-        4025.60009765625,
-        4020.0,
-        4016.60009765625,
-        4022.0,
-        4020.199951171875,
-        4020.60009765625,
-        4022.60009765625,
         4028.10009765625,
         4027.5,
         4023.800048828125,
@@ -410,36 +390,36 @@
         4029.800048828125,
         4026.60009765625,
         4028.0,
-        4027.0
+        4029.800048828125,
+        4029.89990234375,
+        4028.39990234375,
+        4029.0,
+        4026.89990234375,
+        4027.199951171875,
+        4024.5,
+        4023.699951171875,
+        4023.60009765625,
+        4023.800048828125,
+        4022.699951171875,
+        4023.10009765625,
+        4024.199951171875,
+        4024.39990234375,
+        4023.699951171875,
+        4023.39990234375,
+        4022.800048828125,
+        4022.60009765625,
+        4027.39990234375,
+        4024.39990234375,
+        4024.0
       ],
       "ok": true,
-      "updated_at": "2026-07-28T18:05:43.905781+00:00"
+      "updated_at": "2026-07-28T19:48:45.393323+00:00"
     },
     "crude": {
-      "price": 79.38,
-      "change": -3.23,
-      "pct": -3.9099,
+      "price": 79.01,
+      "change": -3.6,
+      "pct": -4.3578,
       "closes": [
-        81.20999908447266,
-        81.3499984741211,
-        81.30000305175781,
-        81.12999725341797,
-        81.20999908447266,
-        80.81999969482422,
-        81.01000213623047,
-        81.05999755859375,
-        81.44999694824219,
-        81.47000122070312,
-        81.44999694824219,
-        81.73999786376953,
-        81.54000091552734,
-        81.3499984741211,
-        81.27999877929688,
-        81.36000061035156,
-        81.13999938964844,
-        81.12999725341797,
-        81.31999969482422,
-        81.41000366210938,
         81.41000366210938,
         81.37999725341797,
         81.44999694824219,
@@ -479,29 +459,36 @@
         79.13999938964844,
         79.37999725341797,
         79.44000244140625,
-        79.37999725341797
+        79.1500015258789,
+        78.88999938964844,
+        78.94999694824219,
+        78.95999908447266,
+        78.95999908447266,
+        79.31999969482422,
+        79.33999633789062,
+        79.26000213623047,
+        79.29000091552734,
+        79.23999786376953,
+        79.12999725341797,
+        79.20999908447266,
+        79.02999877929688,
+        79.05000305175781,
+        79.08999633789062,
+        78.94999694824219,
+        78.93000030517578,
+        78.91999816894531,
+        78.93000030517578,
+        79.0,
+        79.01000213623047
       ],
       "ok": true,
-      "updated_at": "2026-07-28T18:05:43.967286+00:00"
+      "updated_at": "2026-07-28T19:48:45.609063+00:00"
     },
     "us10y": {
-      "price": 4.602,
-      "change": -0.039,
-      "pct": -0.8403,
+      "price": 4.604,
+      "change": -0.037,
+      "pct": -0.7972,
       "closes": [
-        4.629000186920166,
-        4.630000114440918,
-        4.630000114440918,
-        4.630000114440918,
-        4.625999927520752,
-        4.625999927520752,
-        4.629000186920166,
-        4.625999927520752,
-        4.629000186920166,
-        4.625999927520752,
-        4.624000072479248,
-        4.618000030517578,
-        4.618000030517578,
         4.619999885559082,
         4.616000175476074,
         4.613999843597412,
@@ -548,17 +535,35 @@
         4.599999904632568,
         4.599999904632568,
         4.599999904632568,
-        4.6020002365112305
+        4.6020002365112305,
+        4.6020002365112305,
+        4.6020002365112305,
+        4.599999904632568,
+        4.6020002365112305,
+        4.6020002365112305,
+        4.604000091552734,
+        4.6020002365112305,
+        4.6020002365112305,
+        4.604000091552734,
+        4.6020002365112305,
+        4.604000091552734,
+        4.604000091552734,
+        4.604000091552734
       ],
       "ok": true,
-      "updated_at": "2026-07-28T18:05:44.007394+00:00"
+      "updated_at": "2026-07-28T19:48:45.758377+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-28T18:05:44.162841+00:00",
+      "updated_at": "2026-07-28T19:48:45.969334+00:00",
       "items": [
+        {
+          "title": "Boeing shares rise 5% despite higher than expected Q2 loss on Air Force One costs",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/boeing-shares-rise-5-despite-higher-than-expected-q2-loss-on-air-force-one-costs/articleshow/132691839.cms",
+          "pubDate": "2026-07-28T23:25:08+05:30"
+        },
         {
           "title": "Coca-Cola shares surge 7% as earnings beat lifts outlook",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/coca-cola-shares-surge-7-as-earnings-beat-lifts-outlook/articleshow/132688358.cms",
@@ -583,11 +588,6 @@
           "title": "Vedanta Aluminium shares in a sweet spot, says ICICI Securities; initiates coverage with Buy rating",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-shares-in-a-sweet-spot-says-icici-securities-initiates-coverage-with-buy-rating/articleshow/132682352.cms",
           "pubDate": "2026-07-28T16:16:18+05:30"
-        },
-        {
-          "title": "Tata Capital Q1 Results: Net profit jumps 56% YoY to Rs 1,547 crore, revenue up 15%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-capital-q1-results-net-profit-jumps-56-yoy-to-rs-1547-crore-revenue-up-15/articleshow/132682221.cms",
-          "pubDate": "2026-07-28T16:08:46+05:30"
         },
         {
           "title": "In 1943, US built an entire city, and it didn't exist on a single map",
@@ -712,7 +712,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-07-28T18:05:44.236548+00:00",
       "items": [
         {
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-28T18:05:44.454128+00:00",
+      "updated_at": "2026-07-28T19:48:46.408068+00:00",
       "items": [
+        {
+          "title": "Treasury yields retreat as oil tumbles before Fed policy decision",
+          "link": "https://www.livemint.com/market/treasury-yields-retreat-as-oil-tumbles-before-fed-policy-decision-11785264502739.html",
+          "pubDate": "2026-07-29T00:18:22+05:30"
+        },
         {
           "title": "Crude prices extend decline, fall over 5% on US-Iran talks optimism; Brent down 20% in three sessions",
           "link": "https://www.livemint.com/market/stock-market-news/crude-prices-extend-decline-fall-over-5-on-us-iran-talks-optimism-brent-down-20-in-three-sessions-11785258884871.html",
@@ -940,11 +945,6 @@
           "title": "Poojaa Precision Engg IPO Day 1: Issue subscribed 3.34x so far. GMP hints 86% listing gain. Check issue details",
           "link": "https://www.livemint.com/market/ipo/poojaa-precision-engg-ipo-day-1-issue-subscribed-2-25x-so-far-poojaa-precision-engg-ipo-gmp-today-11785217393401.html",
           "pubDate": "2026-07-28T11:40:29+05:30"
-        },
-        {
-          "title": "BEL share price falls 3% after Q1 results 2026. Should you buy or sell?",
-          "link": "https://www.livemint.com/market/stock-market-news/bel-share-price-falls-3-after-q1-results-2026-should-you-buy-or-sell-11785217484102.html",
-          "pubDate": "2026-07-28T11:21:24+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-28T18:05:45.657848+00:00",
+      "updated_at": "2026-07-28T19:48:47.732537+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on July 29, 2026",

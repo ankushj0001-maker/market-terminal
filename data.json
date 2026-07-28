@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T16:54:51.529469+00:00",
+  "generated_at": "2026-07-28T18:05:45.657866+00:00",
   "indices": {
     "nifty50": {
       "price": 23985.35,
@@ -68,7 +68,7 @@
         23985.349609375
       ],
       "ok": true,
-      "updated_at": "2026-07-28T16:54:49.607984+00:00"
+      "updated_at": "2026-07-28T18:05:43.432763+00:00"
     },
     "sensex": {
       "price": 76765.92,
@@ -137,7 +137,7 @@
         76765.921875
       ],
       "ok": true,
-      "updated_at": "2026-07-28T16:54:49.651726+00:00"
+      "updated_at": "2026-07-28T18:05:43.471450+00:00"
     },
     "banknifty": {
       "price": 56755.6,
@@ -206,7 +206,7 @@
         56755.6015625
       ],
       "ok": true,
-      "updated_at": "2026-07-28T16:54:49.696172+00:00"
+      "updated_at": "2026-07-28T18:05:43.512302+00:00"
     },
     "vix": {
       "price": 12.563,
@@ -275,15 +275,13 @@
         12.5625
       ],
       "ok": true,
-      "updated_at": "2026-07-28T16:54:49.743931+00:00"
+      "updated_at": "2026-07-28T18:05:43.636996+00:00"
     },
     "usdinr": {
-      "price": 95.842,
-      "change": -0.058,
-      "pct": -0.0605,
+      "price": 95.62,
+      "change": -0.28,
+      "pct": -0.292,
       "closes": [
-        95.75250244140625,
-        95.74749755859375,
         95.77249908447266,
         95.7699966430664,
         95.76249694824219,
@@ -341,31 +339,18 @@
         95.84200286865234,
         95.84200286865234,
         95.84200286865234,
-        95.84200286865234
+        95.84200286865234,
+        95.62000274658203,
+        95.62000274658203
       ],
       "ok": true,
-      "updated_at": "2026-07-28T16:54:49.792336+00:00"
+      "updated_at": "2026-07-28T18:05:43.775416+00:00"
     },
     "gold": {
-      "price": 4040.8,
-      "change": -36.2,
-      "pct": -0.8879,
+      "price": 4027.0,
+      "change": -50.0,
+      "pct": -1.2264,
       "closes": [
-        4024.0,
-        4027.800048828125,
-        4025.699951171875,
-        4025.60009765625,
-        4027.199951171875,
-        4030.199951171875,
-        4033.800048828125,
-        4034.10009765625,
-        4028.0,
-        4028.199951171875,
-        4033.300048828125,
-        4034.39990234375,
-        4032.199951171875,
-        4029.39990234375,
-        4033.0,
         4032.699951171875,
         4032.699951171875,
         4030.199951171875,
@@ -410,31 +395,31 @@
         4043.0,
         4042.10009765625,
         4041.0,
-        4040.800048828125
+        4038.10009765625,
+        4038.60009765625,
+        4037.60009765625,
+        4040.0,
+        4038.699951171875,
+        4037.39990234375,
+        4035.60009765625,
+        4036.89990234375,
+        4037.89990234375,
+        4035.199951171875,
+        4031.300048828125,
+        4028.39990234375,
+        4029.800048828125,
+        4026.60009765625,
+        4028.0,
+        4027.0
       ],
       "ok": true,
-      "updated_at": "2026-07-28T16:54:49.846463+00:00"
+      "updated_at": "2026-07-28T18:05:43.905781+00:00"
     },
     "crude": {
-      "price": 78.16,
-      "change": -4.45,
-      "pct": -5.3868,
+      "price": 79.38,
+      "change": -3.23,
+      "pct": -3.9099,
       "closes": [
-        81.8499984741211,
-        81.72000122070312,
-        81.5,
-        81.47000122070312,
-        81.58999633789062,
-        81.63999938964844,
-        81.31999969482422,
-        81.56999969482422,
-        81.44999694824219,
-        81.25,
-        81.18000030517578,
-        81.02999877929688,
-        80.83000183105469,
-        80.79000091552734,
-        81.29000091552734,
         81.20999908447266,
         81.3499984741211,
         81.30000305175781,
@@ -479,23 +464,31 @@
         78.08000183105469,
         77.94000244140625,
         78.18000030517578,
-        78.16000366210938
+        78.69999694824219,
+        78.4000015258789,
+        78.66000366210938,
+        78.55999755859375,
+        78.61000061035156,
+        78.94999694824219,
+        79.05999755859375,
+        79.05999755859375,
+        79.16000366210938,
+        79.04000091552734,
+        79.23999786376953,
+        79.30000305175781,
+        79.13999938964844,
+        79.37999725341797,
+        79.44000244140625,
+        79.37999725341797
       ],
       "ok": true,
-      "updated_at": "2026-07-28T16:54:49.897139+00:00"
+      "updated_at": "2026-07-28T18:05:43.967286+00:00"
     },
     "us10y": {
-      "price": 4.592,
-      "change": -0.049,
-      "pct": -1.0558,
+      "price": 4.602,
+      "change": -0.039,
+      "pct": -0.8403,
       "closes": [
-        4.633000373840332,
-        4.633000373840332,
-        4.633000373840332,
-        4.630000114440918,
-        4.625999927520752,
-        4.625999927520752,
-        4.625999927520752,
         4.629000186920166,
         4.630000114440918,
         4.630000114440918,
@@ -541,16 +534,30 @@
         4.590000152587891,
         4.590000152587891,
         4.5920000076293945,
-        4.5920000076293945
+        4.593999862670898,
+        4.5980000495910645,
+        4.595999717712402,
+        4.595999717712402,
+        4.593999862670898,
+        4.595999717712402,
+        4.5980000495910645,
+        4.599999904632568,
+        4.6020002365112305,
+        4.599999904632568,
+        4.599999904632568,
+        4.599999904632568,
+        4.599999904632568,
+        4.599999904632568,
+        4.6020002365112305
       ],
       "ok": true,
-      "updated_at": "2026-07-28T16:54:49.944215+00:00"
+      "updated_at": "2026-07-28T18:05:44.007394+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-28T16:54:49.996331+00:00",
+      "updated_at": "2026-07-28T18:05:44.162841+00:00",
       "items": [
         {
           "title": "Coca-Cola shares surge 7% as earnings beat lifts outlook",
@@ -705,8 +712,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-07-28T15:20:18.587209+00:00",
+      "ok": true,
+      "updated_at": "2026-07-28T18:05:44.236548+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -787,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-28T16:54:50.551806+00:00",
+      "updated_at": "2026-07-28T18:05:44.454128+00:00",
       "items": [
+        {
+          "title": "Crude prices extend decline, fall over 5% on US-Iran talks optimism; Brent down 20% in three sessions",
+          "link": "https://www.livemint.com/market/stock-market-news/crude-prices-extend-decline-fall-over-5-on-us-iran-talks-optimism-brent-down-20-in-three-sessions-11785258884871.html",
+          "pubDate": "2026-07-28T23:02:15+05:30"
+        },
+        {
+          "title": "Pentagon blacklist of CXMT: Is Washington accidentally creating a stronger Chinese chip rival?",
+          "link": "https://www.livemint.com/market/pentagon-blacklist-of-cxmt-is-washington-accidentally-creating-a-stronger-chinese-chip-rival-11785251453860.html",
+          "pubDate": "2026-07-28T22:51:50+05:30"
+        },
         {
           "title": "Gold, silver prices today: Comex gold and silver slide as stronger dollar, Fed uncertainty weigh",
           "link": "https://www.livemint.com/market/stock-market-news/gold-silver-prices-today-comex-gold-and-silver-slide-as-stronger-dollar-fed-uncertainty-weigh-11785251924513.html",
@@ -928,16 +945,6 @@
           "title": "BEL share price falls 3% after Q1 results 2026. Should you buy or sell?",
           "link": "https://www.livemint.com/market/stock-market-news/bel-share-price-falls-3-after-q1-results-2026-should-you-buy-or-sell-11785217484102.html",
           "pubDate": "2026-07-28T11:21:24+05:30"
-        },
-        {
-          "title": "IPO-bound Fibe launches AI tool to improve consumers' credit health",
-          "link": "https://www.livemint.com/market/stock-market-news/ipobound-fibe-launches-ai-tool-to-improve-consumers-credit-health-11785216128392.html",
-          "pubDate": "2026-07-28T11:04:15+05:30"
-        },
-        {
-          "title": "Adani Energy Solutions shares dip over 3% after announcement of  ₹3,500 crore QIP with green shoe option; check details",
-          "link": "https://www.livemint.com/market/stock-market-news/adani-energy-solutions-shares-dip-over-3-after-adani-group-firm-announced-rs-3-500-crore-qip-with-green-shoe-option-11785214390906.html",
-          "pubDate": "2026-07-28T10:56:14+05:30"
         }
       ]
     },
@@ -948,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-28T16:54:51.529454+00:00",
+      "updated_at": "2026-07-28T18:05:45.657848+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on July 29, 2026",

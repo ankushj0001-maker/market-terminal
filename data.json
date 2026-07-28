@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T21:52:29.357309+00:00",
+  "generated_at": "2026-07-28T22:46:35.726448+00:00",
   "indices": {
     "nifty50": {
       "price": 23985.35,
@@ -68,7 +68,7 @@
         23985.349609375
       ],
       "ok": true,
-      "updated_at": "2026-07-28T21:52:26.750910+00:00"
+      "updated_at": "2026-07-28T22:46:32.828113+00:00"
     },
     "sensex": {
       "price": 76765.92,
@@ -137,7 +137,7 @@
         76765.921875
       ],
       "ok": true,
-      "updated_at": "2026-07-28T21:52:27.494266+00:00"
+      "updated_at": "2026-07-28T22:46:32.927861+00:00"
     },
     "banknifty": {
       "price": 56755.6,
@@ -206,7 +206,7 @@
         56755.6015625
       ],
       "ok": true,
-      "updated_at": "2026-07-28T21:52:27.545359+00:00"
+      "updated_at": "2026-07-28T22:46:33.046224+00:00"
     },
     "vix": {
       "price": 12.563,
@@ -275,7 +275,7 @@
         12.5625
       ],
       "ok": true,
-      "updated_at": "2026-07-28T21:52:27.640446+00:00"
+      "updated_at": "2026-07-28T22:46:33.180084+00:00"
     },
     "usdinr": {
       "price": 95.842,
@@ -344,21 +344,13 @@
         95.84200286865234
       ],
       "ok": true,
-      "updated_at": "2026-07-28T21:52:27.702498+00:00"
+      "updated_at": "2026-07-28T22:46:33.303330+00:00"
     },
     "gold": {
-      "price": 4028.8,
-      "change": -9.9,
-      "pct": -0.2451,
+      "price": 4015.8,
+      "change": -22.9,
+      "pct": -0.567,
       "closes": [
-        4042.60009765625,
-        4043.60009765625,
-        4044.800048828125,
-        4045.5,
-        4043.89990234375,
-        4042.300048828125,
-        4043.0,
-        4042.10009765625,
         4041.0,
         4038.10009765625,
         4038.60009765625,
@@ -410,24 +402,24 @@
         4027.699951171875,
         4028.5,
         4028.800048828125,
-        4028.800048828125
+        4025.800048828125,
+        4026.699951171875,
+        4024.199951171875,
+        4022.0,
+        4016.800048828125,
+        4020.39990234375,
+        4016.60009765625,
+        4013.89990234375,
+        4015.800048828125
       ],
       "ok": true,
-      "updated_at": "2026-07-28T21:52:27.754066+00:00"
+      "updated_at": "2026-07-28T22:46:33.435371+00:00"
     },
     "crude": {
-      "price": 79.13,
-      "change": -0.13,
-      "pct": -0.164,
+      "price": 82.73,
+      "change": 3.47,
+      "pct": 4.378,
       "closes": [
-        78.48999786376953,
-        78.29000091552734,
-        78.04000091552734,
-        78.31999969482422,
-        78.23999786376953,
-        78.08000183105469,
-        77.94000244140625,
-        78.18000030517578,
         78.69999694824219,
         78.4000015258789,
         78.66000366210938,
@@ -479,10 +471,18 @@
         79.22000122070312,
         79.19999694824219,
         79.12999725341797,
-        79.12999725341797
+        80.86000061035156,
+        81.0999984741211,
+        81.22000122070312,
+        81.56999969482422,
+        82.33999633789062,
+        82.66999816894531,
+        83.08999633789062,
+        83.08999633789062,
+        82.7300033569336
       ],
       "ok": true,
-      "updated_at": "2026-07-28T21:52:27.824890+00:00"
+      "updated_at": "2026-07-28T22:46:33.574546+00:00"
     },
     "us10y": {
       "price": 4.604,
@@ -551,13 +551,13 @@
         4.604000091552734
       ],
       "ok": true,
-      "updated_at": "2026-07-28T21:52:27.871273+00:00"
+      "updated_at": "2026-07-28T22:46:33.671640+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-28T21:52:28.156981+00:00",
+      "updated_at": "2026-07-28T22:46:34.058119+00:00",
       "items": [
         {
           "title": "US stocks: S&amp;P 500 ends higher as investors await tech earnings",
@@ -794,8 +794,23 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-28T21:52:28.392651+00:00",
+      "updated_at": "2026-07-28T22:46:34.543348+00:00",
       "items": [
+        {
+          "title": "Oil Holds Three-Day Drop as Tensions in the Middle East Cool",
+          "link": "https://www.livemint.com/market/oil-holds-three-day-drop-as-tensions-in-the-middle-east-cool-11785277194561.html",
+          "pubDate": "2026-07-29T03:49:54+05:30"
+        },
+        {
+          "title": "Nasdaq 100 Is Approaching a Correction as Chips Selloff Worsens",
+          "link": "https://www.livemint.com/market/nasdaq-100-is-approaching-a-correction-as-chips-selloff-worsens-11785276889410.html",
+          "pubDate": "2026-07-29T03:44:48+05:30"
+        },
+        {
+          "title": "Yen’s Relentless Slide to Test Ueda’s Capacity to Calm Traders",
+          "link": "https://www.livemint.com/market/yens-relentless-slide-to-test-ueda-s-capacity-to-calm-traders-11785275912256.html",
+          "pubDate": "2026-07-29T03:28:31+05:30"
+        },
         {
           "title": "Goldman Says Japan’s AI Stock Trade ‘Not Broken’ After Rout",
           "link": "https://www.livemint.com/market/goldman-says-japan-s-ai-stock-trade-not-broken-after-rout-11785273521589.html",
@@ -930,21 +945,6 @@
           "title": "Coforge starts FY27 on a strong note with record deals and margin beat",
           "link": "https://www.livemint.com/market/mark-to-market/coforge-q1-results-coforge-share-price-11785220389850.html",
           "pubDate": "2026-07-28T13:24:04+05:30"
-        },
-        {
-          "title": "MV Electrosystems IPO: 10 key things to know from the DRHP before subscribing to the Madhuri Kela-backed issue",
-          "link": "https://www.livemint.com/market/ipo/mv-electrosystems-ipo-10-key-things-to-know-from-the-drhp-before-subscribing-to-the-madhuri-kela-backed-issue-11785221140182.html",
-          "pubDate": "2026-07-28T13:11:50+05:30"
-        },
-        {
-          "title": "Manipal Health Enterprises IPO: GMP, dates, price band, other key details in 10 points",
-          "link": "https://www.livemint.com/market/ipo/manipal-health-enterprises-ipo-gmp-dates-price-band-other-key-details-in-10-points-11785219620641.html",
-          "pubDate": "2026-07-28T12:49:06+05:30"
-        },
-        {
-          "title": "Varun Beverages Q2 Results: Net profit rises 15% to  ₹1,525 crore, revenue up 20%; dividend declared",
-          "link": "https://www.livemint.com/market/stock-market-news/varun-beverages-q2-results-net-profit-rises-15-to-rs-1-525-crore-revenue-up-20-11785221941040.html",
-          "pubDate": "2026-07-28T12:33:56+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-28T21:52:29.357294+00:00",
+      "updated_at": "2026-07-28T22:46:35.726432+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on July 29, 2026",

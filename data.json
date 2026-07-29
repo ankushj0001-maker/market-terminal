@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T10:04:22.308435+00:00",
+  "generated_at": "2026-07-29T12:15:43.960726+00:00",
   "indices": {
     "nifty50": {
       "price": 24250.2,
@@ -68,16 +68,13 @@
         24250.19921875
       ],
       "ok": true,
-      "updated_at": "2026-07-29T10:04:20.398698+00:00"
+      "updated_at": "2026-07-29T12:15:41.554345+00:00"
     },
     "sensex": {
-      "price": 77675.82,
-      "change": 909.9,
-      "pct": 1.1853,
+      "price": 77654.6,
+      "change": 888.68,
+      "pct": 1.1576,
       "closes": [
-        77626.2734375,
-        77606.8515625,
-        77630.9921875,
         77613.6328125,
         77612.2890625,
         77567.3984375,
@@ -134,10 +131,13 @@
         77691.1796875,
         77679.5,
         77664.109375,
-        77677.4921875
+        77673.1171875,
+        77663.75,
+        77655.03125,
+        77654.6015625
       ],
       "ok": true,
-      "updated_at": "2026-07-29T10:04:20.452012+00:00"
+      "updated_at": "2026-07-29T12:15:41.593923+00:00"
     },
     "banknifty": {
       "price": 57205.9,
@@ -206,7 +206,7 @@
         57205.8984375
       ],
       "ok": true,
-      "updated_at": "2026-07-29T10:04:20.510839+00:00"
+      "updated_at": "2026-07-29T12:15:41.636967+00:00"
     },
     "vix": {
       "price": 12.0075,
@@ -275,7 +275,7 @@
         12.007499694824219
       ],
       "ok": true,
-      "updated_at": "2026-07-29T10:04:20.563429+00:00"
+      "updated_at": "2026-07-29T12:15:41.680413+00:00"
     },
     "usdinr": {
       "price": 95.6475,
@@ -340,44 +340,17 @@
         95.625,
         95.63999938964844,
         95.63999938964844,
-        95.63700103759766,
+        95.64749908447266,
         95.64749908447266
       ],
       "ok": true,
-      "updated_at": "2026-07-29T10:04:20.615217+00:00"
+      "updated_at": "2026-07-29T12:15:41.727036+00:00"
     },
     "gold": {
-      "price": 4094.3,
-      "change": -4.3,
-      "pct": -0.1049,
+      "price": 4089.8,
+      "change": -8.8,
+      "pct": -0.2147,
       "closes": [
-        4025.39990234375,
-        4026.89990234375,
-        4025.89990234375,
-        4028.300048828125,
-        4025.89990234375,
-        4029.0,
-        4028.60009765625,
-        4029.300048828125,
-        4030.199951171875,
-        4037.699951171875,
-        4032.10009765625,
-        4033.0,
-        4031.300048828125,
-        4035.60009765625,
-        4033.5,
-        4036.5,
-        4036.39990234375,
-        4040.199951171875,
-        4039.0,
-        4042.0,
-        4041.800048828125,
-        4041.39990234375,
-        4038.5,
-        4039.699951171875,
-        4039.800048828125,
-        4041.60009765625,
-        4043.39990234375,
         4044.39990234375,
         4044.199951171875,
         4045.800048828125,
@@ -410,43 +383,43 @@
         4093.5,
         4094.89990234375,
         4094.699951171875,
-        4094.300048828125
+        4091.89990234375,
+        4092.199951171875,
+        4091.699951171875,
+        4090.800048828125,
+        4091.39990234375,
+        4090.5,
+        4092.300048828125,
+        4091.300048828125,
+        4088.10009765625,
+        4087.0,
+        4086.699951171875,
+        4086.10009765625,
+        4086.10009765625,
+        4087.0,
+        4085.300048828125,
+        4088.60009765625,
+        4091.699951171875,
+        4091.800048828125,
+        4091.699951171875,
+        4091.5,
+        4090.800048828125,
+        4090.39990234375,
+        4094.0,
+        4091.39990234375,
+        4091.5,
+        4089.39990234375,
+        4089.0,
+        4089.800048828125
       ],
       "ok": true,
-      "updated_at": "2026-07-29T10:04:20.666607+00:00"
+      "updated_at": "2026-07-29T12:15:41.768937+00:00"
     },
     "crude": {
-      "price": 82.04,
-      "change": 2.78,
-      "pct": 3.5074,
+      "price": 82.89,
+      "change": 3.63,
+      "pct": 4.5799,
       "closes": [
-        82.04000091552734,
-        81.94000244140625,
-        81.94000244140625,
-        81.88999938964844,
-        81.91000366210938,
-        81.9800033569336,
-        81.91000366210938,
-        82.05999755859375,
-        82.08999633789062,
-        81.95999908447266,
-        82.05999755859375,
-        82.0199966430664,
-        82.23999786376953,
-        82.19000244140625,
-        82.33000183105469,
-        82.33000183105469,
-        82.31999969482422,
-        82.23999786376953,
-        82.36000061035156,
-        82.25,
-        82.02999877929688,
-        81.80999755859375,
-        82.02999877929688,
-        81.9800033569336,
-        82.0999984741211,
-        82.0999984741211,
-        81.8499984741211,
         81.87999725341797,
         82.2699966430664,
         82.19999694824219,
@@ -479,10 +452,37 @@
         82.11000061035156,
         82.08000183105469,
         82.16999816894531,
-        82.04000091552734
+        82.11000061035156,
+        82.02999877929688,
+        82.41999816894531,
+        82.63999938964844,
+        82.68000030517578,
+        82.69000244140625,
+        82.72000122070312,
+        82.72000122070312,
+        83.0199966430664,
+        82.88999938964844,
+        83.12000274658203,
+        83.23999786376953,
+        83.18000030517578,
+        83.19999694824219,
+        83.0199966430664,
+        83.11000061035156,
+        83.08999633789062,
+        83.12999725341797,
+        82.86000061035156,
+        82.95999908447266,
+        82.83000183105469,
+        82.94000244140625,
+        82.54000091552734,
+        82.68000030517578,
+        82.52999877929688,
+        82.81999969482422,
+        83.06999969482422,
+        82.88999938964844
       ],
       "ok": true,
-      "updated_at": "2026-07-29T10:04:20.747403+00:00"
+      "updated_at": "2026-07-29T12:15:41.810821+00:00"
     },
     "us10y": {
       "price": 4.604,
@@ -551,14 +551,19 @@
         4.604000091552734
       ],
       "ok": true,
-      "updated_at": "2026-07-29T10:04:20.800016+00:00"
+      "updated_at": "2026-07-29T12:15:42.172242+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-29T10:04:20.938626+00:00",
+      "updated_at": "2026-07-29T12:15:42.352330+00:00",
       "items": [
+        {
+          "title": "Why did market rise today? Sensex soars 890 pts, Nifty closes above 24,250; 4 factors behind Rs 4 lakh cr gains on D-Street",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-did-market-rise-today-sensex-soars-890-pts-nifty-closes-above-24250-4-factors-behind-rs-4-lakh-cr-gains-on-d-street/articleshow/132708777.cms",
+          "pubDate": "2026-07-29T15:40:55+05:30"
+        },
         {
           "title": "CarTrade Tech shares slip 7% despite 19% YoY rise in Q1 profit; EBITDA surges 45%",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/cartrade-tech-shares-slip-7-despite-19-yoy-rise-in-q1-profit-ebitda-surges-45/articleshow/132704366.cms",
@@ -578,11 +583,6 @@
           "title": "IT stocks on a roll: TCS, Infosys, Coforge and others rally up to 5% for second straight day. What's driving this surge?",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-on-a-roll-tcs-infosys-coforge-and-others-rally-up-to-5-for-second-straight-day-whats-driving-this-surge/articleshow/132701697.cms",
           "pubDate": "2026-07-29T10:55:57+05:30"
-        },
-        {
-          "title": "Tata Capital shares rally 4% after Q1 profit surges 56%; AUM nears Rs 3 lakh crore",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-capital-shares-rally-4-after-q1-profit-surges-56-aum-nears-rs-3-lakh-crore/articleshow/132701339.cms",
-          "pubDate": "2026-07-29T10:36:50+05:30"
         },
         {
           "title": "Varun Beverages shares jump 3% after Q1 PAT rises 15%, revenue grows 20%",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-07-29T10:04:21.001400+00:00",
+      "updated_at": "2026-07-29T12:15:42.590003+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,33 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-29T10:04:21.150557+00:00",
+      "updated_at": "2026-07-29T12:15:42.749435+00:00",
       "items": [
+        {
+          "title": "US Fed Meeting LIVE: Hike or hold? Warsh keeps investors guessing ahead of Fed announcement",
+          "link": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-july-2026-live-updates-interest-rate-decision-today-us-economy-us-fed-interest-rate-kevin-warsh-19-july-2-11785321272628.html",
+          "pubDate": "2026-07-29T17:06:15+05:30"
+        },
+        {
+          "title": "SBI raises  ₹4,691 crore through the issuance of tier-1 bonds. Details here",
+          "link": "https://www.livemint.com/market/stock-market-news/sbi-raises-rs-4-691-crore-through-the-issuance-of-tier-1-bonds-details-here-11785322137276.html",
+          "pubDate": "2026-07-29T16:39:42+05:30"
+        },
+        {
+          "title": "Nifty seen breaking the 24,000 expiry jinx",
+          "link": "https://www.livemint.com/market/stock-market-news/nifty-24000-expiry-august-fpi-inflows-west-asia-crude-oil-investors-11785317222604.html",
+          "pubDate": "2026-07-29T16:19:27+05:30"
+        },
+        {
+          "title": "Bajaj Housing Finance Q1 results: Profit jumps 23% YoY to  ₹715 crore",
+          "link": "https://www.livemint.com/market/stock-market-news/bajaj-housing-finance-q1-results-profit-jumps-23-to-715-crore-11785321270404.html",
+          "pubDate": "2026-07-29T16:05:49+05:30"
+        },
+        {
+          "title": "Sensex jumps 900 points, Nifty 50 ends at 24,250; investors earn  ₹4 lakh crore. Banking, IT stocks drive the rally",
+          "link": "https://www.livemint.com/market/stock-market-news/sensex-jumps-nearly-900-points-nifty-50-ends-at-24-250-banking-it-heavyweights-drive-the-rally-11785318880485.html",
+          "pubDate": "2026-07-29T15:32:19+05:30"
+        },
         {
           "title": "Adani Enterprises Q1 results: Net loss at  ₹1,160 crore after one-time hit; revenue jumps 50% YoY",
           "link": "https://www.livemint.com/market/stock-market-news/adani-enterprises-q1-results-net-loss-of-adani-group-firm-at-rs-1-160-crore-after-one-time-hit-revenue-jumps-50-yoy-11785318914015.html",
@@ -920,31 +945,6 @@
           "title": "L&amp;T share price climbs 4% after Q1 results: Should investors buy, sell, or hold the stock?",
           "link": "https://www.livemint.com/market/stock-market-news/lt-share-price-climbs-4-after-q1-results-should-investors-buy-sell-or-hold-the-stock-11785298444091.html",
           "pubDate": "2026-07-29T09:52:32+05:30"
-        },
-        {
-          "title": "RVNL share price rises 2% after announcing new order win, dividend record date. Do you own this PSU stock?",
-          "link": "https://www.livemint.com/market/stock-market-news/rvnl-share-price-rises-2-after-announcing-new-order-win-dividend-record-date-do-you-own-this-psu-stock-11785296795236.html",
-          "pubDate": "2026-07-29T09:25:24+05:30"
-        },
-        {
-          "title": "Nikkei, Kospi to US stocks: Global equity heatmap you should know before the Indian stock market opens on Wednesday",
-          "link": "https://www.livemint.com/market/stock-market-news/nikkei-kospi-to-us-stocks-global-markets-equity-heatmap-you-should-know-before-indian-stock-market-opens-on-wednesday-11785292239206.html",
-          "pubDate": "2026-07-29T09:17:55+05:30"
-        },
-        {
-          "title": "Lohia Corp IPO GMP signals over 4% listing gains on July 30; check total subscription and other details",
-          "link": "https://www.livemint.com/market/ipo/lohia-corp-ipo-gmp-signals-over-4-listing-gains-on-july-30-check-total-subscription-and-other-details-11785296313850.html",
-          "pubDate": "2026-07-29T09:15:09+05:30"
-        },
-        {
-          "title": "Rupee opens 13 paise higher at 95.72 against US dollar",
-          "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-13-paise-higher-at-95-72-against-us-dollar-11785296160416.html",
-          "pubDate": "2026-07-29T09:07:45+05:30"
-        },
-        {
-          "title": "Gold, silver prices trade mixed ahead of the US Fed meeting outcome; experts highlight key levels to watch",
-          "link": "https://www.livemint.com/market/commodities/gold-silver-prices-trade-mixed-ahead-of-the-us-fed-meeting-outcome-experts-highlight-key-levels-to-watch-11785294991809.html",
-          "pubDate": "2026-07-29T09:04:51+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-29T10:04:22.308416+00:00",
+      "updated_at": "2026-07-29T12:15:43.960710+00:00",
       "items": [
         {
           "title": "Treasury Bills: Full Auction Result",

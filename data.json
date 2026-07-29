@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T14:36:01.172277+00:00",
+  "generated_at": "2026-07-29T16:06:38.859039+00:00",
   "indices": {
     "nifty50": {
       "price": 24250.2,
@@ -68,7 +68,7 @@
         24250.19921875
       ],
       "ok": true,
-      "updated_at": "2026-07-29T14:35:58.422145+00:00"
+      "updated_at": "2026-07-29T16:06:35.452501+00:00"
     },
     "sensex": {
       "price": 77654.6,
@@ -137,7 +137,7 @@
         77654.6015625
       ],
       "ok": true,
-      "updated_at": "2026-07-29T14:35:58.531563+00:00"
+      "updated_at": "2026-07-29T16:06:35.642813+00:00"
     },
     "banknifty": {
       "price": 57205.9,
@@ -206,7 +206,7 @@
         57205.8984375
       ],
       "ok": true,
-      "updated_at": "2026-07-29T14:35:58.638903+00:00"
+      "updated_at": "2026-07-29T16:06:35.825758+00:00"
     },
     "vix": {
       "price": 12.0075,
@@ -275,7 +275,7 @@
         12.007499694824219
       ],
       "ok": true,
-      "updated_at": "2026-07-29T14:35:58.758978+00:00"
+      "updated_at": "2026-07-29T16:06:36.038740+00:00"
     },
     "usdinr": {
       "price": 95.637,
@@ -344,31 +344,13 @@
         95.63700103759766
       ],
       "ok": true,
-      "updated_at": "2026-07-29T14:35:58.864109+00:00"
+      "updated_at": "2026-07-29T16:06:36.195804+00:00"
     },
     "gold": {
-      "price": 4066.2,
-      "change": -32.4,
-      "pct": -0.7905,
+      "price": 4068.8,
+      "change": -29.8,
+      "pct": -0.7271,
       "closes": [
-        4092.10009765625,
-        4093.5,
-        4094.89990234375,
-        4094.699951171875,
-        4091.89990234375,
-        4092.199951171875,
-        4091.699951171875,
-        4090.800048828125,
-        4091.39990234375,
-        4090.5,
-        4092.300048828125,
-        4091.300048828125,
-        4088.10009765625,
-        4087.0,
-        4086.699951171875,
-        4086.10009765625,
-        4086.10009765625,
-        4087.0,
         4085.300048828125,
         4088.60009765625,
         4091.699951171875,
@@ -410,34 +392,34 @@
         4065.39990234375,
         4068.0,
         4063.89990234375,
-        4066.199951171875
+        4066.300048828125,
+        4062.10009765625,
+        4059.5,
+        4059.60009765625,
+        4063.800048828125,
+        4063.199951171875,
+        4066.60009765625,
+        4068.5,
+        4065.800048828125,
+        4063.60009765625,
+        4068.60009765625,
+        4069.10009765625,
+        4068.699951171875,
+        4067.300048828125,
+        4068.89990234375,
+        4071.0,
+        4070.10009765625,
+        4068.5,
+        4068.800048828125
       ],
       "ok": true,
-      "updated_at": "2026-07-29T14:35:58.967222+00:00"
+      "updated_at": "2026-07-29T16:06:36.481915+00:00"
     },
     "crude": {
-      "price": 84.71,
-      "change": 5.45,
-      "pct": 6.8761,
+      "price": 84.7,
+      "change": 5.44,
+      "pct": 6.8635,
       "closes": [
-        82.12999725341797,
-        82.11000061035156,
-        82.08000183105469,
-        82.16999816894531,
-        82.11000061035156,
-        82.02999877929688,
-        82.41999816894531,
-        82.63999938964844,
-        82.68000030517578,
-        82.69000244140625,
-        82.72000122070312,
-        82.72000122070312,
-        83.0199966430664,
-        82.88999938964844,
-        83.12000274658203,
-        83.23999786376953,
-        83.18000030517578,
-        83.19999694824219,
         83.0199966430664,
         83.11000061035156,
         83.08999633789062,
@@ -479,15 +461,33 @@
         84.54000091552734,
         84.55000305175781,
         85.0,
-        84.70999908447266
+        85.0,
+        84.91000366210938,
+        85.0999984741211,
+        85.18000030517578,
+        85.27999877929688,
+        85.36000061035156,
+        85.33000183105469,
+        85.18000030517578,
+        85.05000305175781,
+        85.23999786376953,
+        85.02999877929688,
+        84.87000274658203,
+        84.62999725341797,
+        84.44999694824219,
+        84.5,
+        84.54000091552734,
+        84.61000061035156,
+        84.98999786376953,
+        84.69999694824219
       ],
       "ok": true,
-      "updated_at": "2026-07-29T14:35:59.099756+00:00"
+      "updated_at": "2026-07-29T16:06:36.735818+00:00"
     },
     "us10y": {
-      "price": 4.627,
-      "change": 0.023,
-      "pct": 0.4996,
+      "price": 4.643,
+      "change": 0.039,
+      "pct": 0.8471,
       "closes": [
         4.638999938964844,
         4.634999752044678,
@@ -513,16 +513,35 @@
         4.626999855041504,
         4.626999855041504,
         4.626999855041504,
-        4.626999855041504
+        4.626999855041504,
+        4.626999855041504,
+        4.629000186920166,
+        4.630000114440918,
+        4.63700008392334,
+        4.638999938964844,
+        4.638999938964844,
+        4.640999794006348,
+        4.638999938964844,
+        4.634999752044678,
+        4.634999752044678,
+        4.63700008392334,
+        4.63700008392334,
+        4.638999938964844,
+        4.638999938964844,
+        4.64300012588501,
+        4.647000312805176,
+        4.64300012588501,
+        4.64300012588501,
+        4.64300012588501
       ],
       "ok": true,
-      "updated_at": "2026-07-29T14:35:59.213210+00:00"
+      "updated_at": "2026-07-29T16:06:36.974621+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-29T14:35:59.384867+00:00",
+      "updated_at": "2026-07-29T16:06:37.265744+00:00",
       "items": [
         {
           "title": "Why did market rise today? Sensex soars 890 pts, Nifty closes above 24,250; 4 factors behind Rs 4 lakh cr gains on D-Street",
@@ -678,7 +697,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-07-29T14:35:59.736844+00:00",
+      "updated_at": "2026-07-29T16:06:37.434719+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -759,15 +778,25 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-29T14:35:59.968607+00:00",
+      "updated_at": "2026-07-29T16:06:37.670045+00:00",
       "items": [
+        {
+          "title": "Oil prices surge 6% amid fresh escalation in West Asia",
+          "link": "https://www.livemint.com/market/commodities/oil-prices-surge-6-amid-fresh-escalation-in-west-asia-us-bill-to-impose-penalty-on-russian-oil-buyers-11785330945312.html",
+          "pubDate": "2026-07-29T21:00:50+05:30"
+        },
+        {
+          "title": "Nvidia’s $750 billion circular financing loop: How it became banker, supplier and investor — and how big is the risk?",
+          "link": "https://www.livemint.com/market/stock-market-news/nvidias-750-billion-circular-financing-loop-how-it-became-banker-supplier-and-investor-and-how-big-is-the-risk-11785243777113.html",
+          "pubDate": "2026-07-29T20:15:17+05:30"
+        },
         {
           "title": "Indo-MIM IPO vs Xtranet Technologies IPO vs Lohia Corp IPO: What GMP signals about the listing gain?",
           "link": "https://www.livemint.com/market/stock-market-news/indomim-ipo-vs-xtranet-technologies-ipo-vs-lohia-corp-ipo-what-gmp-signals-about-the-listing-gain-11785331695644.html",
           "pubDate": "2026-07-29T19:49:59+05:30"
         },
         {
-          "title": "US stocks fall ahead of Federal Reserve's rate decision",
+          "title": "US stocks slide as oil surges and markets await Fed rate decision",
           "link": "https://www.livemint.com/market/stock-market-news/us-stocks-fall-ahead-of-federal-reserves-rate-decision-11785332832586.html",
           "pubDate": "2026-07-29T19:26:04+05:30"
         },
@@ -787,7 +816,7 @@
           "pubDate": "2026-07-29T17:47:49+05:30"
         },
         {
-          "title": "US Fed Meeting LIVE: Wall Street split as Warsh keeps rate decision under wraps; US stocks dip",
+          "title": "US Fed Meeting LIVE: US markets open red as Warsh keeps rate decision under wraps; what investors expect?",
           "link": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-july-2026-live-updates-interest-rate-decision-today-us-economy-us-fed-interest-rate-kevin-warsh-19-july-2-11785321272628.html",
           "pubDate": "2026-07-29T17:06:15+05:30"
         },
@@ -900,16 +929,6 @@
           "title": "Indo-MIM IPO: Share allotment status out. GMP signals 40% listing gain for allottees",
           "link": "https://www.livemint.com/market/ipo/indomim-ipo-share-allotment-status-out-gmp-grey-market-premium-signals-strong-listing-gain-for-allottees-11785301060854.html",
           "pubDate": "2026-07-29T11:21:51+05:30"
-        },
-        {
-          "title": "Cube Highways Trust InvIT IPO allotment likely to be finalised today. Step-by-step guide to check status",
-          "link": "https://www.livemint.com/market/ipo/cube-highways-trust-invit-ipo-allotment-likely-to-be-finalised-today-step-by-step-guide-to-check-status-11785303049677.html",
-          "pubDate": "2026-07-29T11:18:26+05:30"
-        },
-        {
-          "title": "Silverstorm Parks &amp; Resorts IPO allotment: Latest GMP, guide to check allotment status online for SME IPO",
-          "link": "https://www.livemint.com/market/ipo/silverstorm-parks-resorts-ipo-allotment-latest-ipo-gmp-guide-to-check-allotment-status-online-for-sme-ipo-11785301265486.html",
-          "pubDate": "2026-07-29T10:38:31+05:30"
         }
       ]
     },
@@ -920,7 +939,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-29T14:36:01.172261+00:00",
+      "updated_at": "2026-07-29T16:06:38.859021+00:00",
       "items": [
         {
           "title": "Treasury Bills: Full Auction Result",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T23:46:11.972877+00:00",
+  "generated_at": "2026-07-29T01:16:06.190769+00:00",
   "indices": {
     "nifty50": {
       "price": 23985.35,
@@ -68,7 +68,7 @@
         23985.349609375
       ],
       "ok": true,
-      "updated_at": "2026-07-28T23:46:10.268098+00:00"
+      "updated_at": "2026-07-29T01:16:04.534074+00:00"
     },
     "sensex": {
       "price": 76765.92,
@@ -137,7 +137,7 @@
         76765.921875
       ],
       "ok": true,
-      "updated_at": "2026-07-28T23:46:10.319217+00:00"
+      "updated_at": "2026-07-29T01:16:04.585947+00:00"
     },
     "banknifty": {
       "price": 56755.6,
@@ -206,7 +206,7 @@
         56755.6015625
       ],
       "ok": true,
-      "updated_at": "2026-07-28T23:46:10.395025+00:00"
+      "updated_at": "2026-07-29T01:16:04.641997+00:00"
     },
     "vix": {
       "price": 12.563,
@@ -275,39 +275,24 @@
         12.5625
       ],
       "ok": true,
-      "updated_at": "2026-07-28T23:46:10.432112+00:00"
+      "updated_at": "2026-07-29T01:16:04.709924+00:00"
     },
     "usdinr": {
       "price": 95.842,
       "change": 0.0,
       "pct": 0.0,
-      "closes": [],
+      "closes": [
+        95.8499984741211,
+        95.84200286865234
+      ],
       "ok": true,
-      "updated_at": "2026-07-28T23:46:10.476974+00:00"
+      "updated_at": "2026-07-29T01:16:04.765872+00:00"
     },
     "gold": {
-      "price": 4018.6,
-      "change": -20.1,
-      "pct": -0.4977,
+      "price": 4011.8,
+      "change": -26.9,
+      "pct": -0.6661,
       "closes": [
-        4028.39990234375,
-        4029.800048828125,
-        4026.60009765625,
-        4028.0,
-        4029.800048828125,
-        4029.89990234375,
-        4028.39990234375,
-        4029.0,
-        4026.89990234375,
-        4027.199951171875,
-        4024.5,
-        4023.699951171875,
-        4023.60009765625,
-        4023.800048828125,
-        4022.699951171875,
-        4023.10009765625,
-        4024.199951171875,
-        4024.39990234375,
         4023.699951171875,
         4023.39990234375,
         4022.800048828125,
@@ -349,34 +334,34 @@
         4017.39990234375,
         4018.0,
         4018.800048828125,
-        4018.60009765625
+        4022.39990234375,
+        4021.699951171875,
+        4023.0,
+        4024.300048828125,
+        4022.10009765625,
+        4018.0,
+        4019.800048828125,
+        4025.800048828125,
+        4023.89990234375,
+        4022.39990234375,
+        4023.800048828125,
+        4025.60009765625,
+        4026.10009765625,
+        4020.800048828125,
+        4022.10009765625,
+        4021.300048828125,
+        4011.199951171875,
+        4011.800048828125,
+        4011.800048828125
       ],
       "ok": true,
-      "updated_at": "2026-07-28T23:46:10.521560+00:00"
+      "updated_at": "2026-07-29T01:16:04.827427+00:00"
     },
     "crude": {
-      "price": 82.65,
-      "change": 3.39,
-      "pct": 4.2771,
+      "price": 82.54,
+      "change": 3.28,
+      "pct": 4.1383,
       "closes": [
-        79.13999938964844,
-        79.37999725341797,
-        79.44000244140625,
-        79.1500015258789,
-        78.88999938964844,
-        78.94999694824219,
-        78.95999908447266,
-        78.95999908447266,
-        79.31999969482422,
-        79.33999633789062,
-        79.26000213623047,
-        79.29000091552734,
-        79.23999786376953,
-        79.12999725341797,
-        79.20999908447266,
-        79.02999877929688,
-        79.05000305175781,
-        79.08999633789062,
         78.94999694824219,
         78.93000030517578,
         78.91999816894531,
@@ -418,10 +403,28 @@
         82.51000213623047,
         82.68000030517578,
         82.52999877929688,
-        82.6500015258789
+        82.06999969482422,
+        82.16999816894531,
+        82.22000122070312,
+        81.88999938964844,
+        81.95999908447266,
+        82.18000030517578,
+        82.0199966430664,
+        82.06999969482422,
+        81.72000122070312,
+        81.83000183105469,
+        82.22000122070312,
+        82.55999755859375,
+        82.37000274658203,
+        82.5,
+        82.37999725341797,
+        82.45999908447266,
+        82.48999786376953,
+        82.44999694824219,
+        82.54000091552734
       ],
       "ok": true,
-      "updated_at": "2026-07-28T23:46:10.573292+00:00"
+      "updated_at": "2026-07-29T01:16:04.889173+00:00"
     },
     "us10y": {
       "price": 4.604,
@@ -490,43 +493,43 @@
         4.604000091552734
       ],
       "ok": true,
-      "updated_at": "2026-07-28T23:46:10.611924+00:00"
+      "updated_at": "2026-07-29T01:16:04.945092+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-28T23:46:10.785449+00:00",
+      "updated_at": "2026-07-29T01:16:05.019330+00:00",
       "items": [
         {
-          "title": "US stocks: S&amp;P 500 ends higher as investors await tech earnings",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-ends-higher-as-investors-await-tech-earnings/articleshow/132694299.cms",
-          "pubDate": "2026-07-29T01:32:04+05:30"
+          "title": "Sebi proposes simplified rules, lower investment floor for mutual fund PMS",
+          "link": "https://economictimes.indiatimes.com/mf/analysis/sebi-proposes-simplified-rules-lower-investment-floor-for-mutual-fund-pms/articleshow/132697026.cms",
+          "pubDate": "2026-07-29T06:01:43+05:30"
         },
         {
-          "title": "Apple briefly tops $5 trillion in market value, second after Nvidia; unveils iPhone leasing scheme",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/apple-briefly-tops-5-trillion-in-market-value-second-after-nvidia-unveils-iphone-leasing-scheme/articleshow/132693980.cms",
-          "pubDate": "2026-07-29T00:56:55+05:30"
+          "title": "HUL upside maybe limited as margins face cost pressure",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hul-upside-maybe-limited-as-margins-face-cost-pressure/articleshow/132696955.cms",
+          "pubDate": "2026-07-29T05:40:17+05:30"
         },
         {
-          "title": "Boeing shares rise 5% despite higher than expected Q2 loss on Air Force One costs",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/boeing-shares-rise-5-despite-higher-than-expected-q2-loss-on-air-force-one-costs/articleshow/132691839.cms",
-          "pubDate": "2026-07-28T23:25:08+05:30"
+          "title": "Indian IT stocks buck global tech slump, climb on earnings beat and AI optimism",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-it-stocks-buck-global-tech-slump-climb-on-earnings-beat-and-ai-optimism/articleshow/132696934.cms",
+          "pubDate": "2026-07-29T05:35:18+05:30"
         },
         {
-          "title": "Coca-Cola shares surge 7% as earnings beat lifts outlook",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/coca-cola-shares-surge-7-as-earnings-beat-lifts-outlook/articleshow/132688358.cms",
-          "pubDate": "2026-07-28T20:51:06+05:30"
+          "title": "ET Exclusive: Adani eyes controlling stake in UK's Associated British Ports",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-exclusive-adani-eyes-controlling-stake-in-uks-associated-british-ports/articleshow/132697046.cms",
+          "pubDate": "2026-07-29T05:30:00+05:30"
         },
         {
-          "title": "Glass-maker Corning shares plunge 20% on lower sales forecast",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/glass-maker-corning-shares-plunge-20-on-lower-sales-forecast/articleshow/132687070.cms",
-          "pubDate": "2026-07-28T20:24:48+05:30"
+          "title": "FCNR(B) deposit drive could pressure banks' profitability",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fcnrb-deposit-drive-could-pressure-banks-profitability/articleshow/132696988.cms",
+          "pubDate": "2026-07-29T00:30:51+05:30"
         },
         {
-          "title": "Nithin Kamath warns closing auction session may hit Zerodha’s revenue from August 3",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-warns-closing-auction-session-may-hit-zerodhas-revenue-from-august-3/articleshow/132686172.cms",
-          "pubDate": "2026-07-28T19:16:05+05:30"
+          "title": "Patchy rains may hit rural lending, banks stay cautious",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/patchy-rains-may-hit-rural-lending-banks-stay-cautious/articleshow/132696984.cms",
+          "pubDate": "2026-07-29T00:30:37+05:30"
         },
         {
           "title": "In 1943, US built an entire city, and it didn't exist on a single map",
@@ -733,8 +736,38 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-28T23:46:10.973224+00:00",
+      "updated_at": "2026-07-29T01:16:05.186375+00:00",
       "items": [
+        {
+          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 29 July 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-29-july-2026-11785285795137.html",
+          "pubDate": "2026-07-29T06:31:09+05:30"
+        },
+        {
+          "title": "JSW One Platforms appoints bankers for $350-400 million IPO next year",
+          "link": "https://www.livemint.com/market/ipo/jsw-one-platforms-appoints-bankers-for-350-400-million-ipo-next-year-11785242943980.html",
+          "pubDate": "2026-07-29T06:05:45+05:30"
+        },
+        {
+          "title": "From Gen Z to pros, brokers carve out niches to win the next wave of traders",
+          "link": "https://www.livemint.com/market/stockbrokers-india-gen-z-traders-niche-platforms-11785218240787.html",
+          "pubDate": "2026-07-29T06:00:25+05:30"
+        },
+        {
+          "title": "Raja Venkatraman recommends three stocks for 29 July",
+          "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-29-july-11785259902321.html",
+          "pubDate": "2026-07-29T06:00:25+05:30"
+        },
+        {
+          "title": "Stock recommendations for 29 July from MarketSmith India",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-29-july-from-marketsmith-india-11785250541328.html",
+          "pubDate": "2026-07-29T06:00:05+05:30"
+        },
+        {
+          "title": "Oil prices rebound by more than $2 a barrel on prospect of tightening US crude supplies",
+          "link": "https://www.livemint.com/market/oil-prices-rebound-by-more-than-2-a-barrel-on-prospect-of-tightening-us-crude-supplies-11785284804632.html",
+          "pubDate": "2026-07-29T05:56:44+05:30"
+        },
         {
           "title": "Oil Holds Three-Day Drop as Tensions in the Middle East Cool",
           "link": "https://www.livemint.com/market/oil-holds-three-day-drop-as-tensions-in-the-middle-east-cool-11785277194561.html",
@@ -854,36 +887,6 @@
           "title": "Bharat Electronics Q1 sends mixed signals; prospects intact",
           "link": "https://www.livemint.com/market/mark-to-market/bharat-electronics-q1-results-bel-share-price-electronics-products-india-11785225855990.html",
           "pubDate": "2026-07-28T14:55:25+05:30"
-        },
-        {
-          "title": "Multibagger defence stock Apollo Micro Systems enters precision business via Indian Air Force",
-          "link": "https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-apollo-micro-systems-enters-precision-business-via-indian-air-force-11785226975806.html",
-          "pubDate": "2026-07-28T14:52:42+05:30"
-        },
-        {
-          "title": "Suzlon Energy Q1 Results: Net profit declines 6% to  ₹305 crore, revenue up 22%",
-          "link": "https://www.livemint.com/market/stock-market-news/suzlon-energy-q1-results-net-profit-declines-6-to-rs-305-crore-revenue-up-22-11785228078593.html",
-          "pubDate": "2026-07-28T14:13:45+05:30"
-        },
-        {
-          "title": "Penny stock under  ₹10 hits 5% upper circuit after Q1FY27 results, bonus issue and stock split announcement",
-          "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-a-1-share-price-hits-5-upper-circuit-after-q1fy27-results-stock-split-and-bonus-issue-11785225098446.html",
-          "pubDate": "2026-07-28T14:05:10+05:30"
-        },
-        {
-          "title": "US Fed meeting begins today: Check date, time and where to watch Kevin Warsh's speech",
-          "link": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-begins-today-check-date-time-and-where-to-watch-kevin-warshs-speech-11785222523367.html",
-          "pubDate": "2026-07-28T13:38:32+05:30"
-        },
-        {
-          "title": "Swiggy share price jumps 5.4% after resignation of CEO Amitesh Kumar Jha",
-          "link": "https://www.livemint.com/market/stock-market-news/swiggy-share-price-jumps-5-4-after-resignation-of-ceo-amitesh-kumar-jha-11785225321982.html",
-          "pubDate": "2026-07-28T13:31:44+05:30"
-        },
-        {
-          "title": "Coforge starts FY27 on a strong note with record deals and margin beat",
-          "link": "https://www.livemint.com/market/mark-to-market/coforge-q1-results-coforge-share-price-11785220389850.html",
-          "pubDate": "2026-07-28T13:24:04+05:30"
         }
       ]
     },
@@ -894,7 +897,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-28T23:46:11.972862+00:00",
+      "updated_at": "2026-07-29T01:16:06.190700+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on July 29, 2026",

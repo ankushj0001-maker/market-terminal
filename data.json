@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T20:52:01.997710+00:00",
+  "generated_at": "2026-07-30T21:54:54.458746+00:00",
   "indices": {
     "nifty50": {
       "price": 24317.15,
@@ -68,7 +68,7 @@
         24317.150390625
       ],
       "ok": true,
-      "updated_at": "2026-07-30T20:51:59.857403+00:00"
+      "updated_at": "2026-07-30T21:54:52.522881+00:00"
     },
     "sensex": {
       "price": 77928.15,
@@ -137,7 +137,7 @@
         77928.1484375
       ],
       "ok": true,
-      "updated_at": "2026-07-30T20:51:59.906512+00:00"
+      "updated_at": "2026-07-30T21:54:52.587117+00:00"
     },
     "banknifty": {
       "price": 57147.5,
@@ -206,7 +206,7 @@
         57147.5
       ],
       "ok": true,
-      "updated_at": "2026-07-30T20:51:59.977463+00:00"
+      "updated_at": "2026-07-30T21:54:52.625261+00:00"
     },
     "vix": {
       "price": 12.155,
@@ -275,14 +275,13 @@
         12.154999732971191
       ],
       "ok": true,
-      "updated_at": "2026-07-30T20:52:00.031901+00:00"
+      "updated_at": "2026-07-30T21:54:52.664702+00:00"
     },
     "usdinr": {
       "price": 95.67,
       "change": 0.03,
       "pct": 0.0314,
       "closes": [
-        95.7300033569336,
         95.7300033569336,
         95.74749755859375,
         95.72000122070312,
@@ -341,19 +340,17 @@
         95.66999816894531,
         95.66999816894531,
         95.66999816894531,
+        95.66999816894531,
         95.66999816894531
       ],
       "ok": true,
-      "updated_at": "2026-07-30T20:52:00.091803+00:00"
+      "updated_at": "2026-07-30T21:54:52.876039+00:00"
     },
     "gold": {
-      "price": 4165.8,
-      "change": 68.8,
-      "pct": 1.6793,
+      "price": 4162.8,
+      "change": 2.2,
+      "pct": 0.0529,
       "closes": [
-        4165.89990234375,
-        4167.0,
-        4173.7998046875,
         4170.2001953125,
         4173.2001953125,
         4173.39990234375,
@@ -410,19 +407,19 @@
         4168.5,
         4166.39990234375,
         4162.39990234375,
-        4165.7998046875
+        4159.39990234375,
+        4160.5,
+        4162.7998046875,
+        4162.7998046875
       ],
       "ok": true,
-      "updated_at": "2026-07-30T20:52:00.164474+00:00"
+      "updated_at": "2026-07-30T21:54:52.946420+00:00"
     },
     "crude": {
-      "price": 84.12,
-      "change": -0.34,
-      "pct": -0.4026,
+      "price": 83.96,
+      "change": 0.37,
+      "pct": 0.4426,
       "closes": [
-        84.02999877929688,
-        84.06999969482422,
-        84.02999877929688,
         84.25,
         84.02999877929688,
         83.9000015258789,
@@ -479,10 +476,13 @@
         84.12999725341797,
         84.1500015258789,
         83.95999908447266,
-        84.12000274658203
+        83.94000244140625,
+        83.91999816894531,
+        83.95999908447266,
+        83.95999908447266
       ],
       "ok": true,
-      "updated_at": "2026-07-30T20:52:00.231545+00:00"
+      "updated_at": "2026-07-30T21:54:53.013942+00:00"
     },
     "us10y": {
       "price": 4.663,
@@ -551,13 +551,13 @@
         4.663000106811523
       ],
       "ok": true,
-      "updated_at": "2026-07-30T20:52:00.373418+00:00"
+      "updated_at": "2026-07-30T21:54:53.072947+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-30T20:52:00.959568+00:00",
+      "updated_at": "2026-07-30T21:54:53.232867+00:00",
       "items": [
         {
           "title": "US stocks: US market ends sharply higher, lifted by soaring Microsoft",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-30T20:52:01.232937+00:00",
+      "updated_at": "2026-07-30T21:54:53.398788+00:00",
       "items": [
+        {
+          "title": "Yen Surges as Nikkei Says Japan Intervened in Market Again",
+          "link": "https://www.livemint.com/market/yen-surges-as-nikkei-says-japan-intervened-in-market-again-11785446408826.html",
+          "pubDate": "2026-07-31T02:50:08+05:30"
+        },
         {
           "title": "Fitch’s Private Credit Default Rate Hit Record in Second Quarter",
           "link": "https://www.livemint.com/market/fitchs-private-credit-default-rate-hit-record-in-second-quarter-11785444493938.html",
@@ -940,11 +945,6 @@
           "title": "HPCL, BPCL to IOCL — oil PSU stocks dip as crude price jumps above $90/bbl",
           "link": "https://www.livemint.com/market/stock-market-news/hpcl-bpcl-to-iocl-oil-psu-stocks-dip-as-crude-price-jumps-above-90bbl-11785396163811.html",
           "pubDate": "2026-07-30T13:25:11+05:30"
-        },
-        {
-          "title": "M&amp;M Q1 Results: Net profit surges 34% YoY to  ₹5,455 crore",
-          "link": "https://www.livemint.com/market/stock-market-news/mm-q1-results-pat-surges-34-yoy-to-rs-5-454-54-crore-11785392705759.html",
-          "pubDate": "2026-07-30T13:23:24+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-30T20:52:01.997660+00:00",
+      "updated_at": "2026-07-30T21:54:54.458729+00:00",
       "items": [
         {
           "title": "RBI Issues Amendment Directions on Interest Rate on Deposits",

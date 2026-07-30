@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T23:38:41.736971+00:00",
+  "generated_at": "2026-07-30T01:00:13.360474+00:00",
   "indices": {
     "nifty50": {
       "price": 24250.2,
@@ -68,7 +68,7 @@
         24250.19921875
       ],
       "ok": true,
-      "updated_at": "2026-07-29T23:38:39.716063+00:00"
+      "updated_at": "2026-07-30T01:00:11.324050+00:00"
     },
     "sensex": {
       "price": 77654.6,
@@ -137,7 +137,7 @@
         77654.6015625
       ],
       "ok": true,
-      "updated_at": "2026-07-29T23:38:39.761602+00:00"
+      "updated_at": "2026-07-30T01:00:11.456509+00:00"
     },
     "banknifty": {
       "price": 57205.9,
@@ -206,7 +206,7 @@
         57205.8984375
       ],
       "ok": true,
-      "updated_at": "2026-07-29T23:38:39.801682+00:00"
+      "updated_at": "2026-07-30T01:00:11.511416+00:00"
     },
     "vix": {
       "price": 12.0075,
@@ -275,7 +275,7 @@
         12.007499694824219
       ],
       "ok": true,
-      "updated_at": "2026-07-29T23:38:39.847157+00:00"
+      "updated_at": "2026-07-30T01:00:11.565311+00:00"
     },
     "usdinr": {
       "price": 95.637,
@@ -283,30 +283,13 @@
       "pct": -0.0031,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-07-29T23:38:39.889462+00:00"
+      "updated_at": "2026-07-30T01:00:11.611419+00:00"
     },
     "gold": {
-      "price": 4151.0,
-      "change": 54.0,
-      "pct": 1.318,
+      "price": 4123.9,
+      "change": 26.9,
+      "pct": 0.6566,
       "closes": [
-        4099.60009765625,
-        4104.0,
-        4105.5,
-        4103.2998046875,
-        4102.89990234375,
-        4126.7998046875,
-        4136.60009765625,
-        4140.5,
-        4131.0,
-        4125.7998046875,
-        4127.0,
-        4118.60009765625,
-        4130.2001953125,
-        4143.2001953125,
-        4159.2998046875,
-        4165.2001953125,
-        4166.7998046875,
         4163.2001953125,
         4156.5,
         4159.2001953125,
@@ -349,33 +332,33 @@
         4151.5,
         4150.2001953125,
         4151.10009765625,
-        4151.0
+        4150.60009765625,
+        4149.89990234375,
+        4147.60009765625,
+        4149.0,
+        4145.10009765625,
+        4142.0,
+        4138.7001953125,
+        4140.5,
+        4139.2001953125,
+        4134.39990234375,
+        4138.39990234375,
+        4132.60009765625,
+        4129.89990234375,
+        4126.7001953125,
+        4123.60009765625,
+        4124.7998046875,
+        4123.89990234375,
+        4123.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-07-29T23:38:39.945771+00:00"
+      "updated_at": "2026-07-30T01:00:11.672974+00:00"
     },
     "crude": {
-      "price": 84.42,
-      "change": -0.04,
-      "pct": -0.0474,
+      "price": 84.41,
+      "change": -0.05,
+      "pct": -0.0592,
       "closes": [
-        84.37999725341797,
-        84.37000274658203,
-        84.5,
-        84.58000183105469,
-        84.58999633789062,
-        84.69999694824219,
-        84.5199966430664,
-        84.61000061035156,
-        84.8499984741211,
-        84.86000061035156,
-        84.4800033569336,
-        84.87000274658203,
-        84.83000183105469,
-        84.62000274658203,
-        84.63999938964844,
-        84.56999969482422,
-        84.44999694824219,
         84.36000061035156,
         84.37999725341797,
         84.41000366210938,
@@ -418,10 +401,27 @@
         84.6500015258789,
         84.44999694824219,
         84.43000030517578,
-        84.41999816894531
+        84.36000061035156,
+        84.41999816894531,
+        84.3499984741211,
+        84.27999877929688,
+        84.19000244140625,
+        84.19999694824219,
+        84.27999877929688,
+        84.13999938964844,
+        83.91000366210938,
+        83.36000061035156,
+        83.70999908447266,
+        83.9800033569336,
+        84.05000305175781,
+        84.19000244140625,
+        84.27999877929688,
+        84.33999633789062,
+        84.44000244140625,
+        84.41000366210938
       ],
       "ok": true,
-      "updated_at": "2026-07-29T23:38:40.004948+00:00"
+      "updated_at": "2026-07-30T01:00:11.815923+00:00"
     },
     "us10y": {
       "price": 4.622,
@@ -490,43 +490,43 @@
         4.622000217437744
       ],
       "ok": true,
-      "updated_at": "2026-07-29T23:38:40.050066+00:00"
+      "updated_at": "2026-07-30T01:00:11.868881+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-29T23:38:40.219657+00:00",
+      "updated_at": "2026-07-30T01:00:11.946294+00:00",
       "items": [
         {
-          "title": "US stocks: US market closes down sharply after Fed holds rates unchanged",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-closes-down-sharply-after-fed-holds-rates-unchanged/articleshow/132721597.cms",
-          "pubDate": "2026-07-30T01:32:32+05:30"
+          "title": "Sensex, Nifty rally over 1% as IT stocks drive broad-based market gains",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-rally-over-1-as-it-stocks-drive-broad-based-market-gains/articleshow/132724366.cms",
+          "pubDate": "2026-07-30T06:04:59+05:30"
         },
         {
-          "title": "US Fed chair Kevin Warsh says this after holding rates steady",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-chair-kevin-warsh-says-this-after-holding-rates-steady/articleshow/132721355.cms",
-          "pubDate": "2026-07-30T01:32:11+05:30"
+          "title": "Can Manipal Health IPO deliver long-term growth for high risk investors?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-manipal-health-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/132724295.cms",
+          "pubDate": "2026-07-30T05:38:45+05:30"
         },
         {
-          "title": "J&amp;K Bank Q1 profit slips 13% as higher provisions hit earnings",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jk-bank-q1-profit-slips-13-as-higher-provisions-hit-earnings/articleshow/132716700.cms",
-          "pubDate": "2026-07-29T21:30:39+05:30"
+          "title": "Motilal Oswal raises mid and smallcap allocation to 50%, stays neutral on Indian equities",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-raises-mid-and-smallcap-allocation-to-50-stays-neutral-on-indian-equities/articleshow/132724174.cms",
+          "pubDate": "2026-07-30T05:31:53+05:30"
         },
         {
-          "title": "Star Health Insurance Q1 Results: Profit jumps 25% to Rs 550 crore",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/star-health-insurance-q1-results-profit-jumps-25-to-rs-550-crore/articleshow/132716654.cms",
-          "pubDate": "2026-07-29T21:28:56+05:30"
+          "title": "FCNR(B) surge: Inflows through special window to ease banks’ liquidity pressure",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fcnrb-surge-inflows-through-special-window-to-ease-banks-liquidity-pressure/articleshow/132724320.cms",
+          "pubDate": "2026-07-30T00:58:40+05:30"
         },
         {
-          "title": "Amazon Web Services India net profit jumps over 10-fold to Rs 242 cr in FY26",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/amazon-web-services-india-net-profit-jumps-over-10-fold-to-rs-242-cr-in-fy26/articleshow/132715491.cms",
-          "pubDate": "2026-07-29T20:29:50+05:30"
+          "title": "SBI raises Rs 4,691 crore via Tier 1 bonds at 7.75% coupon",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/sbi-raises-rs-4691-crore-via-tier-1-bonds-at-7-75-coupon/articleshow/132709860.cms",
+          "pubDate": "2026-07-29T16:21:18+05:30"
         },
         {
-          "title": "CBIZ shares soar 17% after Grant Thornton agrees to buy company in $5 billion cash deal",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/cbiz-shares-soar-17-after-grant-thornton-agrees-to-buy-company-in-5-billion-cash-deal/articleshow/132714927.cms",
-          "pubDate": "2026-07-29T20:10:37+05:30"
+          "title": "Gold loan NPAs may rise as NBFCs shift to monthly installments, ICRA projects market growth",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/gold-loan-npas-may-rise-as-nbfcs-shift-to-monthly-installments-icra-projects-market-growth/articleshow/132724317.cms",
+          "pubDate": "2026-07-29T14:32:39+05:30"
         },
         {
           "title": "In 1943, US built an entire city, and it didn't exist on a single map",
@@ -733,8 +733,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-29T23:38:40.539801+00:00",
+      "updated_at": "2026-07-30T01:00:12.089794+00:00",
       "items": [
+        {
+          "title": "Raja Venkatraman recommends three stocks for 30 July",
+          "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-30-july-11785342562112.html",
+          "pubDate": "2026-07-30T06:01:01+05:30"
+        },
+        {
+          "title": "Stock recommendations for 30 July from MarketSmith India",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-30-july-from-marketsmith-india-11785340910030.html",
+          "pubDate": "2026-07-30T06:01:01+05:30"
+        },
         {
           "title": "US Fed leaves federal funds rate unchanged: How can a status quo impact the Indian stock market?",
           "link": "https://www.livemint.com/market/stock-market-news/us-fed-leaves-federal-funds-rate-unchanged-how-can-a-status-quo-impact-the-indian-stock-market-11785353732953.html",
@@ -874,16 +884,6 @@
           "title": "Penny stock under Re 1: NBFC share pares intraday loss after this business update",
           "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-re-1-nbfc-share-pares-intraday-loss-after-this-business-update-11785311369495.html",
           "pubDate": "2026-07-29T13:46:28+05:30"
-        },
-        {
-          "title": "US Fed meeting outcome today: Here's date, time, expectations, where to watch Kevin Warsh's speech",
-          "link": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-outcome-today-heres-date-time-expectations-where-to-watch-kevin-warshs-speech-11785310388451.html",
-          "pubDate": "2026-07-29T13:43:53+05:30"
-        },
-        {
-          "title": "L&amp;T's order book is booming. Is the valuation already pricing it in?",
-          "link": "https://www.livemint.com/market/mark-to-market/lt-larsen-and-toubro-q1fy27-results-order-book-strong-valuation-limited-upside-11785307743043.html",
-          "pubDate": "2026-07-29T13:42:26+05:30"
         }
       ]
     },
@@ -894,7 +894,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-29T23:38:41.736954+00:00",
+      "updated_at": "2026-07-30T01:00:13.360457+00:00",
       "items": [
         {
           "title": "Treasury Bills: Full Auction Result",

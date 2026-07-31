@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T20:38:36.810942+00:00",
+  "generated_at": "2026-07-31T21:43:45.639478+00:00",
   "indices": {
     "nifty50": {
       "price": 24383.6,
@@ -68,7 +68,7 @@
         24383.599609375
       ],
       "ok": true,
-      "updated_at": "2026-07-31T20:38:35.260813+00:00"
+      "updated_at": "2026-07-31T21:43:44.232366+00:00"
     },
     "sensex": {
       "price": 78094.64,
@@ -137,7 +137,7 @@
         78094.640625
       ],
       "ok": true,
-      "updated_at": "2026-07-31T20:38:35.300287+00:00"
+      "updated_at": "2026-07-31T21:43:44.277367+00:00"
     },
     "banknifty": {
       "price": 57264.85,
@@ -206,7 +206,7 @@
         57264.8515625
       ],
       "ok": true,
-      "updated_at": "2026-07-31T20:38:35.336841+00:00"
+      "updated_at": "2026-07-31T21:43:44.317912+00:00"
     },
     "vix": {
       "price": 11.755,
@@ -275,7 +275,7 @@
         11.755000114440918
       ],
       "ok": true,
-      "updated_at": "2026-07-31T20:38:35.408005+00:00"
+      "updated_at": "2026-07-31T21:43:44.362715+00:00"
     },
     "usdinr": {
       "price": 95.38,
@@ -344,19 +344,13 @@
         95.37999725341797
       ],
       "ok": true,
-      "updated_at": "2026-07-31T20:38:35.474215+00:00"
+      "updated_at": "2026-07-31T21:43:44.422437+00:00"
     },
     "gold": {
-      "price": 4103.5,
-      "change": -57.1,
-      "pct": -1.3724,
+      "price": 4098.6,
+      "change": -62.0,
+      "pct": -1.4902,
       "closes": [
-        4098.2998046875,
-        4098.39990234375,
-        4096.5,
-        4101.2998046875,
-        4101.7998046875,
-        4100.39990234375,
         4100.10009765625,
         4101.89990234375,
         4101.2001953125,
@@ -410,22 +404,22 @@
         4104.60009765625,
         4104.7001953125,
         4104.39990234375,
-        4103.5
+        4106.60009765625,
+        4107.10009765625,
+        4107.2998046875,
+        4107.7001953125,
+        4103.5,
+        4098.60009765625,
+        4098.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-07-31T20:38:35.515324+00:00"
+      "updated_at": "2026-07-31T21:43:44.466237+00:00"
     },
     "crude": {
-      "price": 84.55,
-      "change": 0.96,
-      "pct": 1.1485,
+      "price": 86.8,
+      "change": 3.21,
+      "pct": 3.8402,
       "closes": [
-        85.20999908447266,
-        84.94000244140625,
-        84.5,
-        84.08000183105469,
-        84.06999969482422,
-        84.30000305175781,
         84.41000366210938,
         84.54000091552734,
         84.66999816894531,
@@ -479,10 +473,16 @@
         84.58999633789062,
         84.48999786376953,
         84.61000061035156,
-        84.55000305175781
+        84.4800033569336,
+        84.5199966430664,
+        84.62000274658203,
+        84.55000305175781,
+        85.94000244140625,
+        86.80000305175781,
+        86.80000305175781
       ],
       "ok": true,
-      "updated_at": "2026-07-31T20:38:35.584329+00:00"
+      "updated_at": "2026-07-31T21:43:44.509198+00:00"
     },
     "us10y": {
       "price": 4.745,
@@ -551,13 +551,13 @@
         4.744999885559082
       ],
       "ok": true,
-      "updated_at": "2026-07-31T20:38:35.633274+00:00"
+      "updated_at": "2026-07-31T21:43:44.550429+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-31T20:38:35.787768+00:00",
+      "updated_at": "2026-07-31T21:43:44.679760+00:00",
       "items": [
         {
           "title": "US stocks: US market ends higher as Amazon soothes AI jitters",
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-31T20:38:36.067409+00:00",
+      "updated_at": "2026-07-31T21:43:44.783326+00:00",
       "items": [
+        {
+          "title": "Hedge Funds Add Bullish Bets on Oil at Fastest Pace Since March",
+          "link": "https://www.livemint.com/market/hedge-funds-add-bullish-bets-on-oil-at-fastest-pace-since-march-11785532739554.html",
+          "pubDate": "2026-08-01T02:48:59+05:30"
+        },
+        {
+          "title": "US wheat falls on technical trading",
+          "link": "https://www.livemint.com/market/us-wheat-falls-on-technical-trading-11785531221499.html",
+          "pubDate": "2026-08-01T02:23:40+05:30"
+        },
         {
           "title": "TSX ends lower as gold falls, posts fourth straight monthly gain",
           "link": "https://www.livemint.com/market/tsx-ends-lower-as-gold-falls-posts-fourth-straight-monthly-gain-11785529770170.html",
@@ -935,16 +945,6 @@
           "title": "Multibagger defence stock Astra Microwave shares hit record high, soar 14% after  ₹2,205 crore HAL order",
           "link": "https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-astra-microwave-shares-hit-record-high-soar-14-after-rs-2-205-crore-hal-order-11785478145527.html",
           "pubDate": "2026-07-31T11:49:42+05:30"
-        },
-        {
-          "title": "Fusion Klassroom Edutech IPO day 1: GMP, subscription status, price band, other details of BSE SME IPO in 10 key points",
-          "link": "https://www.livemint.com/market/ipo/fusion-klassroom-edutech-ipo-day-1-gmp-subscription-status-price-band-other-details-of-bse-sme-ipo-in-10-key-points-11785474983825.html",
-          "pubDate": "2026-07-31T11:40:19+05:30"
-        },
-        {
-          "title": "GV Electricals IPO Day 1: Issue booked 21% so far. Check GMP, key dates, issue details",
-          "link": "https://www.livemint.com/market/ipo/gv-electricals-ipo-day-1-issue-booked-21-so-far-check-gmp-key-dates-issue-details-11785475636697.html",
-          "pubDate": "2026-07-31T11:28:20+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-31T20:38:36.810923+00:00",
+      "updated_at": "2026-07-31T21:43:45.639463+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

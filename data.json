@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T16:22:42.104755+00:00",
+  "generated_at": "2026-07-31T17:58:53.718228+00:00",
   "indices": {
     "nifty50": {
       "price": 24383.6,
@@ -68,7 +68,7 @@
         24383.599609375
       ],
       "ok": true,
-      "updated_at": "2026-07-31T16:22:39.716385+00:00"
+      "updated_at": "2026-07-31T17:58:51.268065+00:00"
     },
     "sensex": {
       "price": 78094.64,
@@ -137,7 +137,7 @@
         78094.640625
       ],
       "ok": true,
-      "updated_at": "2026-07-31T16:22:39.815080+00:00"
+      "updated_at": "2026-07-31T17:58:51.372355+00:00"
     },
     "banknifty": {
       "price": 57264.85,
@@ -206,7 +206,7 @@
         57264.8515625
       ],
       "ok": true,
-      "updated_at": "2026-07-31T16:22:39.991016+00:00"
+      "updated_at": "2026-07-31T17:58:51.474650+00:00"
     },
     "vix": {
       "price": 11.755,
@@ -275,7 +275,7 @@
         11.755000114440918
       ],
       "ok": true,
-      "updated_at": "2026-07-31T16:22:40.091292+00:00"
+      "updated_at": "2026-07-31T17:58:51.675004+00:00"
     },
     "usdinr": {
       "price": 95.37,
@@ -344,32 +344,13 @@
         95.37000274658203
       ],
       "ok": true,
-      "updated_at": "2026-07-31T16:22:40.194385+00:00"
+      "updated_at": "2026-07-31T17:58:51.815419+00:00"
     },
     "gold": {
-      "price": 4101.3,
-      "change": -59.3,
-      "pct": -1.4253,
+      "price": 4110.2,
+      "change": -50.4,
+      "pct": -1.2114,
       "closes": [
-        4117.0,
-        4115.0,
-        4110.39990234375,
-        4109.5,
-        4108.39990234375,
-        4108.5,
-        4111.2001953125,
-        4110.0,
-        4114.2998046875,
-        4113.5,
-        4115.39990234375,
-        4113.10009765625,
-        4106.7998046875,
-        4103.5,
-        4104.5,
-        4100.5,
-        4100.89990234375,
-        4097.7001953125,
-        4101.5,
         4096.7998046875,
         4095.60009765625,
         4092.39990234375,
@@ -410,35 +391,35 @@
         4100.39990234375,
         4100.10009765625,
         4101.89990234375,
-        4101.2998046875
+        4101.2001953125,
+        4102.39990234375,
+        4103.60009765625,
+        4105.39990234375,
+        4103.0,
+        4098.7998046875,
+        4100.0,
+        4099.5,
+        4099.2998046875,
+        4098.7998046875,
+        4098.0,
+        4101.60009765625,
+        4102.7998046875,
+        4103.89990234375,
+        4106.60009765625,
+        4104.2998046875,
+        4106.5,
+        4108.0,
+        4108.5,
+        4110.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-07-31T16:22:40.315536+00:00"
+      "updated_at": "2026-07-31T17:58:51.923648+00:00"
     },
     "crude": {
-      "price": 84.53,
-      "change": 0.94,
-      "pct": 1.1245,
+      "price": 85.06,
+      "change": 1.47,
+      "pct": 1.7586,
       "closes": [
-        84.73999786376953,
-        84.79000091552734,
-        85.02999877929688,
-        84.91000366210938,
-        85.0,
-        84.83000183105469,
-        84.8499984741211,
-        84.86000061035156,
-        85.33999633789062,
-        85.38999938964844,
-        85.26000213623047,
-        85.19000244140625,
-        85.30999755859375,
-        85.2300033569336,
-        85.19999694824219,
-        85.12000274658203,
-        85.2300033569336,
-        85.44999694824219,
-        85.45999908447266,
         85.88999938964844,
         85.43000030517578,
         85.5199966430664,
@@ -479,22 +460,35 @@
         84.30000305175781,
         84.41000366210938,
         84.54000091552734,
-        84.52999877929688
+        84.66999816894531,
+        84.47000122070312,
+        84.5199966430664,
+        84.58999633789062,
+        84.58000183105469,
+        84.7699966430664,
+        84.69999694824219,
+        84.73999786376953,
+        84.69999694824219,
+        84.83000183105469,
+        84.81999969482422,
+        85.01000213623047,
+        84.80999755859375,
+        84.79000091552734,
+        84.77999877929688,
+        84.83999633789062,
+        84.66000366210938,
+        85.02999877929688,
+        85.05000305175781,
+        85.05999755859375
       ],
       "ok": true,
-      "updated_at": "2026-07-31T16:22:40.447100+00:00"
+      "updated_at": "2026-07-31T17:58:52.045681+00:00"
     },
     "us10y": {
-      "price": 4.733,
-      "change": 0.07,
-      "pct": 1.5012,
+      "price": 4.743,
+      "change": 0.08,
+      "pct": 1.7156,
       "closes": [
-        4.684000015258789,
-        4.690000057220459,
-        4.690000057220459,
-        4.697999954223633,
-        4.699999809265137,
-        4.699999809265137,
         4.697999954223633,
         4.702000141143799,
         4.697999954223633,
@@ -535,17 +529,41 @@
         4.734999656677246,
         4.7330002784729,
         4.7330002784729,
-        4.7330002784729
+        4.7330002784729,
+        4.736999988555908,
+        4.738999843597412,
+        4.736999988555908,
+        4.736999988555908,
+        4.738999843597412,
+        4.736999988555908,
+        4.736999988555908,
+        4.736999988555908,
+        4.736999988555908,
+        4.736999988555908,
+        4.736999988555908,
+        4.736999988555908,
+        4.736999988555908,
+        4.734999656677246,
+        4.736999988555908,
+        4.741000175476074,
+        4.743000030517578,
+        4.743000030517578,
+        4.743000030517578
       ],
       "ok": true,
-      "updated_at": "2026-07-31T16:22:40.617298+00:00"
+      "updated_at": "2026-07-31T17:58:52.146453+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-31T16:22:40.750114+00:00",
+      "updated_at": "2026-07-31T17:58:52.276443+00:00",
       "items": [
+        {
+          "title": "NSE pays Rs 715 crore to settle pending Rs 1,491-crore co-location case ahead of IPO",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-pays-rs-715-crore-to-settle-pending-rs-1491-crore-co-location-case-ahead-of-ipo/articleshow/132772270.cms",
+          "pubDate": "2026-07-31T21:48:25+05:30"
+        },
         {
           "title": "Data Patterns shares fall nearly 7% after Q1 profit declines 14% YoY to Rs 22 crore",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/data-patterns-shares-fall-nearly-7-after-q1-profit-declines-14-yoy-to-rs-22-crore/articleshow/132757660.cms",
@@ -555,11 +573,6 @@
           "title": "Thermax shares crash 16% after firm expects weak quarters ahead after muted Q1 results",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/thermax-shares-crash-16-after-firm-expects-weak-quarters-ahead-after-muted-q1-results/articleshow/132757535.cms",
           "pubDate": "2026-07-31T11:16:34+05:30"
-        },
-        {
-          "title": "Redington shares gain 4% after Q1 profit jumps 77% YoY, revenue growth remains robust",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/redington-shares-gain-4-after-q1-profit-jumps-77-yoy-revenue-growth-remains-robust/articleshow/132757444.cms",
-          "pubDate": "2026-07-31T11:11:35+05:30"
         },
         {
           "title": "Hyundai Motor India shares rally 7% despite Q1 profit decline. Should you buy, sell or hold?",
@@ -700,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-07-31T16:22:40.884125+00:00",
+      "updated_at": "2026-07-31T17:58:52.402802+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -781,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-31T16:22:41.013480+00:00",
+      "updated_at": "2026-07-31T17:58:52.606878+00:00",
       "items": [
+        {
+          "title": "Gold, silver prices today: Comex gold drops $84, silver slips $2 as US dollar rebounds",
+          "link": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-drops-84-silver-slips-2-as-us-dollar-rebounds-11785513541055.html",
+          "pubDate": "2026-07-31T22:20:41+05:30"
+        },
+        {
+          "title": "Apple set to lose $500 billion in value: Can Nvidia reclaim the world’s most valuable company crown?",
+          "link": "https://www.livemint.com/market/stock-market-news/apple-set-to-lose-500-billion-in-value-can-nvidia-reclaim-the-world-s-most-valuable-company-crown-11785512936813.html",
+          "pubDate": "2026-07-31T21:50:10+05:30"
+        },
         {
           "title": "Bharat Electronics shares to be in focus on Monday as company secures  ₹847 crore order",
           "link": "https://www.livemint.com/market/bharat-electronics-shares-to-be-in-focus-on-monday-as-company-secures-rs-847-crore-order-11785509810588.html",
@@ -922,16 +945,6 @@
           "title": "ITC Q1 results preview: Analysts see a weak quarter; cigarette tax hikes likely to dent profit, margins- What to expect?",
           "link": "https://www.livemint.com/market/stock-market-news/itc-q1-results-preview-analysts-see-a-weak-quarter-cigarette-tax-hikes-likely-to-dent-profit-margins-what-to-expect-11785473654553.html",
           "pubDate": "2026-07-31T11:08:43+05:30"
-        },
-        {
-          "title": "Can Radico Khaitan keep its lead over liquor rivals?",
-          "link": "https://www.livemint.com/market/stock-market-news/radico-khaitan-magic-moments-prestige-above-p-a-portfolio-premiumization-premium-liquor-imfl-11785424195039.html",
-          "pubDate": "2026-07-31T10:36:26+05:30"
-        },
-        {
-          "title": "Eicher Motors may have more miles to cover after a solid Q1",
-          "link": "https://www.livemint.com/market/mark-to-market/eicher-motors-royal-enfield-q1fy27-flying-flea-ve-commercial-vehicles-vecv-ebitda-margins-11785468574387.html",
-          "pubDate": "2026-07-31T10:31:06+05:30"
         }
       ]
     },
@@ -942,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-31T16:22:42.104738+00:00",
+      "updated_at": "2026-07-31T17:58:53.718210+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

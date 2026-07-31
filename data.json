@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T10:13:58.931616+00:00",
+  "generated_at": "2026-07-31T12:15:54.645015+00:00",
   "indices": {
     "nifty50": {
       "price": 24383.6,
@@ -68,14 +68,13 @@
         24383.599609375
       ],
       "ok": true,
-      "updated_at": "2026-07-31T10:13:55.774907+00:00"
+      "updated_at": "2026-07-31T12:15:52.686033+00:00"
     },
     "sensex": {
-      "price": 78095.8,
-      "change": 167.65,
-      "pct": 0.2151,
+      "price": 78094.64,
+      "change": 166.49,
+      "pct": 0.2136,
       "closes": [
-        77936.8203125,
         77992.2421875,
         77992.453125,
         77995.5,
@@ -134,10 +133,11 @@
         78134.25,
         78109.0703125,
         78103.6875,
-        78098.7578125
+        78094.640625,
+        78094.640625
       ],
       "ok": true,
-      "updated_at": "2026-07-31T10:13:55.828354+00:00"
+      "updated_at": "2026-07-31T12:15:52.824168+00:00"
     },
     "banknifty": {
       "price": 57264.85,
@@ -206,7 +206,7 @@
         57264.8515625
       ],
       "ok": true,
-      "updated_at": "2026-07-31T10:13:55.876069+00:00"
+      "updated_at": "2026-07-31T12:15:52.864878+00:00"
     },
     "vix": {
       "price": 11.755,
@@ -275,7 +275,7 @@
         11.755000114440918
       ],
       "ok": true,
-      "updated_at": "2026-07-31T10:13:55.923240+00:00"
+      "updated_at": "2026-07-31T12:15:52.980213+00:00"
     },
     "usdinr": {
       "price": 95.38,
@@ -340,42 +340,17 @@
         95.44249725341797,
         95.44499969482422,
         95.38500213623047,
-        95.38999938964844,
+        95.37999725341797,
         95.37999725341797
       ],
       "ok": true,
-      "updated_at": "2026-07-31T10:13:55.974110+00:00"
+      "updated_at": "2026-07-31T12:15:53.036407+00:00"
     },
     "gold": {
-      "price": 4112.6,
-      "change": -48.0,
-      "pct": -1.1537,
+      "price": 4114.5,
+      "change": -46.1,
+      "pct": -1.108,
       "closes": [
-        4137.7998046875,
-        4140.0,
-        4140.60009765625,
-        4138.89990234375,
-        4137.0,
-        4137.7001953125,
-        4134.2998046875,
-        4133.60009765625,
-        4133.2998046875,
-        4132.10009765625,
-        4135.60009765625,
-        4140.0,
-        4140.2998046875,
-        4144.10009765625,
-        4141.2001953125,
-        4143.2001953125,
-        4136.5,
-        4136.60009765625,
-        4135.7998046875,
-        4135.2998046875,
-        4136.2001953125,
-        4135.39990234375,
-        4135.39990234375,
-        4136.10009765625,
-        4135.2001953125,
         4136.2001953125,
         4132.60009765625,
         4130.5,
@@ -410,41 +385,41 @@
         4112.2001953125,
         4111.2998046875,
         4112.7001953125,
-        4112.60009765625
+        4114.10009765625,
+        4112.2001953125,
+        4109.60009765625,
+        4108.39990234375,
+        4109.60009765625,
+        4111.39990234375,
+        4109.89990234375,
+        4111.10009765625,
+        4112.2001953125,
+        4111.10009765625,
+        4110.7998046875,
+        4111.89990234375,
+        4113.89990234375,
+        4113.7998046875,
+        4112.7998046875,
+        4117.0,
+        4115.0,
+        4110.39990234375,
+        4109.5,
+        4108.39990234375,
+        4108.5,
+        4111.2001953125,
+        4110.0,
+        4114.2998046875,
+        4113.5,
+        4114.5
       ],
       "ok": true,
-      "updated_at": "2026-07-31T10:13:56.018848+00:00"
+      "updated_at": "2026-07-31T12:15:53.099931+00:00"
     },
     "crude": {
-      "price": 83.94,
-      "change": 0.35,
-      "pct": 0.4187,
+      "price": 85.28,
+      "change": 1.69,
+      "pct": 2.0218,
       "closes": [
-        81.91000366210938,
-        81.80000305175781,
-        81.6500015258789,
-        81.6500015258789,
-        81.48999786376953,
-        81.25,
-        81.44999694824219,
-        81.44999694824219,
-        81.66000366210938,
-        81.69000244140625,
-        81.75,
-        81.95999908447266,
-        81.83000183105469,
-        81.94000244140625,
-        82.19000244140625,
-        82.01000213623047,
-        81.8499984741211,
-        81.91999816894531,
-        82.05000305175781,
-        81.98999786376953,
-        82.0999984741211,
-        82.02999877929688,
-        82.30999755859375,
-        82.2699966430664,
-        82.19999694824219,
         82.4000015258789,
         82.44999694824219,
         82.55999755859375,
@@ -479,10 +454,35 @@
         83.66000366210938,
         83.70999908447266,
         83.97000122070312,
-        83.94000244140625
+        83.94999694824219,
+        84.05999755859375,
+        84.05999755859375,
+        84.0,
+        84.11000061035156,
+        84.19000244140625,
+        84.20999908447266,
+        84.16999816894531,
+        84.25,
+        84.16000366210938,
+        84.30000305175781,
+        84.30999755859375,
+        84.23999786376953,
+        84.19999694824219,
+        84.68000030517578,
+        84.73999786376953,
+        84.79000091552734,
+        85.02999877929688,
+        84.91000366210938,
+        85.0,
+        84.83000183105469,
+        84.8499984741211,
+        84.86000061035156,
+        85.33999633789062,
+        85.38999938964844,
+        85.27999877929688
       ],
       "ok": true,
-      "updated_at": "2026-07-31T10:13:56.066450+00:00"
+      "updated_at": "2026-07-31T12:15:53.140526+00:00"
     },
     "us10y": {
       "price": 4.663,
@@ -551,13 +551,13 @@
         4.663000106811523
       ],
       "ok": true,
-      "updated_at": "2026-07-31T10:13:56.112173+00:00"
+      "updated_at": "2026-07-31T12:15:53.202959+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-31T10:13:56.183558+00:00",
+      "updated_at": "2026-07-31T12:15:53.284164+00:00",
       "items": [
         {
           "title": "Data Patterns shares fall nearly 7% after Q1 profit declines 14% YoY to Rs 22 crore",
@@ -712,8 +712,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-07-31T07:41:45.638827+00:00",
+      "ok": true,
+      "updated_at": "2026-07-31T12:15:53.453151+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-31T10:13:56.676265+00:00",
+      "updated_at": "2026-07-31T12:15:53.679683+00:00",
       "items": [
+        {
+          "title": "Maruti Suzuki Q1 Results: Net profit drops 9% as margin pressure offsets revenue growth",
+          "link": "https://www.livemint.com/market/stock-market-news/maruti-suzuki-q1-results-net-profit-drops-9-as-margin-pressure-offsets-revenue-growth-11785496535693.html",
+          "pubDate": "2026-07-31T16:51:55+05:30"
+        },
+        {
+          "title": "ITC Q1 results: Consolidated profit drops 16% YoY to  ₹4,394 crore; cigarettes revenue surges 81% YoY",
+          "link": "https://www.livemint.com/market/stock-market-news/itc-q1-results-profit-drops-16-yoy-to-4-394-crore-11785496419273.html",
+          "pubDate": "2026-07-31T16:45:03+05:30"
+        },
         {
           "title": "Top Gainers &amp; Losers on 31 July: Bajaj Finance, Hyundai Motor, GAIL, Tata Motors, Redington among top gainers today",
           "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-31-july-bajaj-finance-hyundai-motor-gail-tata-motors-redington-among-top-gainers-today-11785490241096.html",
@@ -897,7 +907,7 @@
           "pubDate": "2026-07-31T10:31:06+05:30"
         },
         {
-          "title": "Juniper Green Energy IPO Day 2 LIVE: GMP, subscription status to review. Apply or not?",
+          "title": "Juniper Green Energy IPO Day 2: GMP, subscription status to review. Apply or not?",
           "link": "https://www.livemint.com/market/ipo/juniper-green-energy-ipo-day-2-live-gmp-subscription-status-expected-listing-price-to-review-apply-or-not-11785468916323.html",
           "pubDate": "2026-07-31T10:04:25+05:30"
         },
@@ -935,16 +945,6 @@
           "title": "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 31 July 2026",
           "link": "https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-31-july-2026-11785466975272.html",
           "pubDate": "2026-07-31T08:59:22+05:30"
-        },
-        {
-          "title": "Stocks to buy for short term: Ajit Mishra of Religare Broking recommends 3 shares for next 1-2 weeks",
-          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-hero-moto-pfc-indian-hotels-ajit-mishra-of-religare-broking-recommends-3-shares-11785466732181.html",
-          "pubDate": "2026-07-31T08:52:06+05:30"
-        },
-        {
-          "title": "Q1 results 2026: ITC to Maruti Suzuki, Sun Pharma, among companies to declare Q1 earnings today; full list here",
-          "link": "https://www.livemint.com/market/stock-market-news/q1-results-2026-itc-to-maruti-suzuki-sun-pharma-bajaj-finserv-among-companies-to-declare-q1-earnings-today-31-july-11785466747836.html",
-          "pubDate": "2026-07-31T08:39:16+05:30"
         }
       ]
     },
@@ -955,8 +955,43 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-31T10:13:58.931600+00:00",
+      "updated_at": "2026-07-31T12:15:54.645001+00:00",
       "items": [
+        {
+          "title": "Lending and Deposit Rates of Scheduled Commercial Banks – July 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63271",
+          "pubDate": "2026-07-31T17:35:00+00:00"
+        },
+        {
+          "title": "Monthly Data on India’s International Trade in Services for the Month of June 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63270",
+          "pubDate": "2026-07-31T17:30:00+00:00"
+        },
+        {
+          "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63269",
+          "pubDate": "2026-07-31T17:20:00+00:00"
+        },
+        {
+          "title": "RBI releases Handbook of Statistics on the Indian Economy 2025-26",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63268",
+          "pubDate": "2026-07-31T17:00:00+00:00"
+        },
+        {
+          "title": "Sectoral Deployment of Bank Credit – June 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63267",
+          "pubDate": "2026-07-31T17:00:00+00:00"
+        },
+        {
+          "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63266",
+          "pubDate": "2026-07-31T17:00:00+00:00"
+        },
+        {
+          "title": "Reserve Bank of India issues Consolidated Supervisory Directions",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63265",
+          "pubDate": "2026-07-31T16:00:00+00:00"
+        },
         {
           "title": "Government Stock - Full Auction Results",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63264",
@@ -971,41 +1006,6 @@
           "title": "Result of Underwriting Auction conducted on July 31, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63262",
           "pubDate": "2026-07-31T10:00:00+00:00"
-        },
-        {
-          "title": "Scheduled Banks’ Statement of Position in India as on July 15, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63261",
-          "pubDate": "2026-07-31T09:55:00+00:00"
-        },
-        {
-          "title": "Money Market Operations as on July 30, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63260",
-          "pubDate": "2026-07-31T09:00:00+00:00"
-        },
-        {
-          "title": "RBI Issues Amendment Directions on Interest Rate on Deposits",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63259",
-          "pubDate": "2026-07-30T19:00:00+00:00"
-        },
-        {
-          "title": "RBI issues Basel Pillar 3 Disclosures for Banks",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63258",
-          "pubDate": "2026-07-30T17:20:00+00:00"
-        },
-        {
-          "title": "Underwriting Auction for sale of Government Security for &#8377;34,000 crore on July 31, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63257",
-          "pubDate": "2026-07-30T11:05:00+00:00"
-        },
-        {
-          "title": "Money Market Operations as on July 29, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63256",
-          "pubDate": "2026-07-30T09:00:00+00:00"
-        },
-        {
-          "title": "Treasury Bills: Full Auction Result",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63255",
-          "pubDate": "2026-07-29T14:55:00+00:00"
         }
       ]
     }

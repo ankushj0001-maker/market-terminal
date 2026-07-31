@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T23:49:01.706933+00:00",
+  "generated_at": "2026-07-31T01:21:39.125168+00:00",
   "indices": {
     "nifty50": {
       "price": 24317.15,
@@ -68,7 +68,7 @@
         24317.150390625
       ],
       "ok": true,
-      "updated_at": "2026-07-30T23:48:59.875097+00:00"
+      "updated_at": "2026-07-31T01:21:36.876031+00:00"
     },
     "sensex": {
       "price": 77928.15,
@@ -137,7 +137,7 @@
         77928.1484375
       ],
       "ok": true,
-      "updated_at": "2026-07-30T23:48:59.931481+00:00"
+      "updated_at": "2026-07-31T01:21:36.915192+00:00"
     },
     "banknifty": {
       "price": 57147.5,
@@ -206,7 +206,7 @@
         57147.5
       ],
       "ok": true,
-      "updated_at": "2026-07-30T23:49:00.013494+00:00"
+      "updated_at": "2026-07-31T01:21:36.964446+00:00"
     },
     "vix": {
       "price": 12.155,
@@ -275,7 +275,7 @@
         12.154999732971191
       ],
       "ok": true,
-      "updated_at": "2026-07-30T23:49:00.062179+00:00"
+      "updated_at": "2026-07-31T01:21:37.016171+00:00"
     },
     "usdinr": {
       "price": 95.68,
@@ -286,32 +286,13 @@
         95.68000030517578
       ],
       "ok": true,
-      "updated_at": "2026-07-30T23:49:00.142244+00:00"
+      "updated_at": "2026-07-31T01:21:37.065614+00:00"
     },
     "gold": {
-      "price": 4162.5,
-      "change": 1.9,
-      "pct": 0.0457,
+      "price": 4153.7,
+      "change": -6.9,
+      "pct": -0.1658,
       "closes": [
-        4163.2001953125,
-        4162.10009765625,
-        4161.5,
-        4163.7998046875,
-        4164.89990234375,
-        4165.5,
-        4163.10009765625,
-        4161.0,
-        4162.2998046875,
-        4165.2998046875,
-        4163.5,
-        4163.5,
-        4159.7998046875,
-        4158.0,
-        4158.7998046875,
-        4162.39990234375,
-        4164.2001953125,
-        4163.89990234375,
-        4169.7001953125,
         4170.2998046875,
         4172.0,
         4173.5,
@@ -352,35 +333,35 @@
         4162.7998046875,
         4162.5,
         4164.89990234375,
-        4162.5
+        4164.2998046875,
+        4167.10009765625,
+        4165.60009765625,
+        4164.39990234375,
+        4163.60009765625,
+        4162.2998046875,
+        4159.89990234375,
+        4159.89990234375,
+        4161.39990234375,
+        4154.89990234375,
+        4152.5,
+        4151.2998046875,
+        4151.5,
+        4152.2001953125,
+        4151.7001953125,
+        4153.5,
+        4156.0,
+        4156.39990234375,
+        4152.0,
+        4153.7001953125
       ],
       "ok": true,
-      "updated_at": "2026-07-30T23:49:00.196357+00:00"
+      "updated_at": "2026-07-31T01:21:37.134835+00:00"
     },
     "crude": {
-      "price": 84.03,
-      "change": 0.44,
-      "pct": 0.5264,
+      "price": 82.6,
+      "change": -0.99,
+      "pct": -1.1844,
       "closes": [
-        84.05999755859375,
-        83.9800033569336,
-        84.08000183105469,
-        84.19000244140625,
-        84.08000183105469,
-        84.12000274658203,
-        83.79000091552734,
-        83.91999816894531,
-        83.55999755859375,
-        83.63999938964844,
-        83.6500015258789,
-        83.70999908447266,
-        83.75,
-        83.58000183105469,
-        83.5199966430664,
-        83.58000183105469,
-        83.55000305175781,
-        83.6500015258789,
-        83.61000061035156,
         83.62999725341797,
         83.54000091552734,
         83.55000305175781,
@@ -421,10 +402,29 @@
         84.05999755859375,
         84.11000061035156,
         84.05000305175781,
-        84.02999877929688
+        84.06999969482422,
+        84.04000091552734,
+        84.01000213623047,
+        84.05999755859375,
+        84.11000061035156,
+        84.05000305175781,
+        84.13999938964844,
+        84.05000305175781,
+        84.05999755859375,
+        84.12000274658203,
+        84.12000274658203,
+        84.05000305175781,
+        83.7300033569336,
+        83.87000274658203,
+        83.75,
+        83.55000305175781,
+        82.62000274658203,
+        82.62999725341797,
+        82.56999969482422,
+        82.5999984741211
       ],
       "ok": true,
-      "updated_at": "2026-07-30T23:49:00.264846+00:00"
+      "updated_at": "2026-07-31T01:21:37.294397+00:00"
     },
     "us10y": {
       "price": 4.663,
@@ -493,43 +493,48 @@
         4.663000106811523
       ],
       "ok": true,
-      "updated_at": "2026-07-30T23:49:00.316258+00:00"
+      "updated_at": "2026-07-31T01:21:37.333523+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-30T23:49:00.521850+00:00",
+      "updated_at": "2026-07-31T01:21:37.389001+00:00",
       "items": [
         {
-          "title": "US stocks: US market ends sharply higher, lifted by soaring Microsoft",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-sharply-higher-lifted-by-soaring-microsoft/articleshow/132749971.cms",
-          "pubDate": "2026-07-31T01:31:57+05:30"
+          "title": "Trump announces a deal for Hamas to disarm in Gaza, but many hurdles and uncertainty remain",
+          "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-announces-a-deal-for-hamas-to-disarm-in-gaza-but-many-hurdles-and-uncertainty-remain/articleshow/132753009.cms",
+          "pubDate": "2026-07-31T06:33:57+05:30"
         },
         {
-          "title": "US stocks: Microsoft adds $485 billion to investors' wealth as shares rise 16%. Check why",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-microsoft-adds-485-billion-to-investors-wealth-as-shares-rise-16-check-why/articleshow/132749888.cms",
-          "pubDate": "2026-07-31T01:18:58+05:30"
+          "title": "Global Market Today: Asian stocks rise on Korean rally, yen holds gains",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-on-korean-rally-yen-holds-gains/articleshow/132753029.cms",
+          "pubDate": "2026-07-31T06:21:08+05:30"
         },
         {
-          "title": "Goldman Sachs Asset Management launches AI investment platform: Report",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/goldman-sachs-asset-management-launches-ai-investment-platform-report/articleshow/132749611.cms",
-          "pubDate": "2026-07-31T00:55:38+05:30"
+          "title": "Brokerages raise Asian Paints price targets after strong Q1 earnings, but retain cautious stance",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-raise-asian-paints-price-targets-after-strong-q1-earnings-but-retain-cautious-stance/articleshow/132752976.cms",
+          "pubDate": "2026-07-31T06:04:53+05:30"
         },
         {
-          "title": "KPIT Technologies shares crash 7% after profit falls 32% to Rs 117 crore in Q1",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kpit-technologies-shares-crash-7-after-profit-falls-32-to-rs-117-crore-in-q1/articleshow/132728118.cms",
-          "pubDate": "2026-07-30T11:06:05+05:30"
+          "title": "Can Juniper Green Energy IPO deliver long-term growth for high risk investors?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-juniper-green-energy-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/132752956.cms",
+          "pubDate": "2026-07-31T05:55:41+05:30"
         },
         {
-          "title": "Thangamayil Jewellery shares crash 19% in 2 days on weak Q2 outlook. What did the company say?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/thangamayil-jewellery-shares-crash-19-in-2-days-on-weak-q2-outlook-what-did-the-company-say/articleshow/132728014.cms",
-          "pubDate": "2026-07-30T10:59:58+05:30"
+          "title": "Scheme selection key as mutual fund returns vary widely across categories",
+          "link": "https://economictimes.indiatimes.com/mf/analysis/scheme-selection-key-as-mutual-fund-returns-vary-widely-across-categories/articleshow/132752896.cms",
+          "pubDate": "2026-07-31T05:38:38+05:30"
         },
         {
-          "title": "Waaree Energies shares slide 6% despite 15% profit growth and 79% YoY revenue surge in Q1FY27",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/waaree-energies-shares-slide-6-despite-15-profit-growth-and-79-yoy-revenue-surge-in-q1fy27/articleshow/132727911.cms",
-          "pubDate": "2026-07-30T10:55:03+05:30"
+          "title": "AI selloff knocks South Korea, Taiwan down global market cap rankings",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-selloff-knocks-south-korea-taiwan-down-global-market-cap-rankings/articleshow/132752677.cms",
+          "pubDate": "2026-07-31T05:31:31+05:30"
+        },
+        {
+          "title": "Mid-tier private banks rake in more low-cost deposits",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mid-tier-private-banks-rake-in-more-low-cost-deposits/articleshow/132752941.cms",
+          "pubDate": "2026-07-31T01:24:35+05:30"
         },
         {
           "title": "In 1943, US built an entire city, and it didn't exist on a single map",
@@ -555,11 +560,6 @@
           "title": "He baked potato in aluminium foil, and ate it next morning after microwaving it. Hours later, he was paralysed, doctor explains why",
           "link": "https://economictimes.indiatimes.com/news/new-updates/he-baked-potato-in-aluminium-foil-and-ate-it-next-morning-after-microwaving-it-hours-later-he-was-paralysed-doctor-explains-why/articleshow/132574269.cms",
           "pubDate": "2026-07-23T13:09:22+05:30"
-        },
-        {
-          "title": "What is a 'Dystopian Nightmare'? The psychology behind the viral trend",
-          "link": "https://economictimes.indiatimes.com/news/new-updates/what-is-a-dystopian-nightmare-the-psychology-behind-the-viral-trend/articleshow/132573003.cms",
-          "pubDate": "2026-07-23T11:57:44+05:30"
         },
         {
           "title": "Bonus, dividends and stock splits: Bharti Airtel, Hero MotoCorp among 88 stocks turning ex-date this week. Do you own any?",
@@ -736,8 +736,43 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-30T23:49:00.778118+00:00",
+      "updated_at": "2026-07-31T01:21:37.645472+00:00",
       "items": [
+        {
+          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 31 July 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-31-july-2026-11785426929995.html",
+          "pubDate": "2026-07-31T06:38:37+05:30"
+        },
+        {
+          "title": "Curtains down on co-location, dark fibre: Sebi agrees to NSE's  ₹1,491 crore settlement",
+          "link": "https://www.livemint.com/market/nse-national-stock-exchange-sebi-co-location-case-dark-fibre-nse-ipo-stock-listing-11785431453456.html",
+          "pubDate": "2026-07-31T06:30:42+05:30"
+        },
+        {
+          "title": "Stock recommendations for 31 July from MarketSmith India",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-31-july-from-marketsmith-india-11785426200512.html",
+          "pubDate": "2026-07-31T06:06:02+05:30"
+        },
+        {
+          "title": "Sebi's mutual fund-only PMS proposal is a game-changer for advisers, but compliance barriers loom",
+          "link": "https://www.livemint.com/market/sebi-mutual-fund-only-pms-advisers-mfd-amc-ria-compliance-barriers-11785392988160.html",
+          "pubDate": "2026-07-31T06:01:02+05:30"
+        },
+        {
+          "title": "Why Hindalco wants to build a nuclear reactor",
+          "link": "https://www.livemint.com/market/stock-market-news/why-hindalco-wants-to-build-a-nuclear-reactor-11785410255484.html",
+          "pubDate": "2026-07-31T06:00:22+05:30"
+        },
+        {
+          "title": "Raja Venkatraman recommends three stocks for 31 July",
+          "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-three-stocks-31-july-lt-foods-syrma-sgs-technology-rbl-bank-sensex-nifty-11785428363936.html",
+          "pubDate": "2026-07-31T06:00:22+05:30"
+        },
+        {
+          "title": "Gold Holds Gain as Japan Currency Intervention Weighs on Dollar",
+          "link": "https://www.livemint.com/market/gold-holds-gain-as-japan-currency-intervention-weighs-on-dollar-11785457644872.html",
+          "pubDate": "2026-07-31T05:57:24+05:30"
+        },
         {
           "title": "Bitcoin Slides as Investors Fret Over Prospect of Higher Rates",
           "link": "https://www.livemint.com/market/bitcoin-slides-as-investors-fret-over-prospect-of-higher-rates-11785454424538.html",
@@ -852,41 +887,6 @@
           "title": "Bain-backed Dhoot Transmission eyes  ₹2,250 crore IPO in early August",
           "link": "https://www.livemint.com/market/ipo/bainbacked-dhoot-transmission-eyes-2-250-crore-ipo-in-early-august-11785397655239.html",
           "pubDate": "2026-07-30T14:51:51+05:30"
-        },
-        {
-          "title": "Colgate needs to back its good Q1 show with consistency",
-          "link": "https://www.livemint.com/market/mark-to-market/colgate-share-price-colgate-q1-earnings-fmcg-industry-india-11785399026006.html",
-          "pubDate": "2026-07-30T14:43:23+05:30"
-        },
-        {
-          "title": "Multibagger Redington shares soar 18% to record high after Q1 profit jumps 77%",
-          "link": "https://www.livemint.com/market/stock-market-news/multibagger-redington-shares-soar-18-to-record-high-after-q1-profit-jumps-77-11785401185178.html",
-          "pubDate": "2026-07-30T14:39:57+05:30"
-        },
-        {
-          "title": "Oneindig Technologies IPO Day 1: Issue booked 15% so far. Check GMP, other key details",
-          "link": "https://www.livemint.com/market/ipo/oneindig-technologies-ipo-day-1-issue-booked-15-so-far-check-gmp-other-key-details-11785400310209.html",
-          "pubDate": "2026-07-30T14:28:00+05:30"
-        },
-        {
-          "title": "IRFC reports highest-ever total income, PAT for Q1FY27",
-          "link": "https://www.livemint.com/market/stock-market-news/irfc-q1-results-profit-jumps-10-yoy-to-1-927-crore-11785397010073.html",
-          "pubDate": "2026-07-30T14:27:11+05:30"
-        },
-        {
-          "title": "LIC sets board meeting date to declare Q1 results 2026. Check details",
-          "link": "https://www.livemint.com/market/stock-market-news/lic-sets-board-meeting-date-to-declare-q1-results-2026-check-details-11785400580856.html",
-          "pubDate": "2026-07-30T14:17:41+05:30"
-        },
-        {
-          "title": "Retail investors broaden bets in Q1, flock to Vedanta, Wipro and Bajaj Auto",
-          "link": "https://www.livemint.com/market/retail-investors-india-stocks-q1-fy27-vedanta-wipro-bajaj-auto-11785392093747.html",
-          "pubDate": "2026-07-30T14:14:52+05:30"
-        },
-        {
-          "title": "‘My biggest nightmare’: Nithin Kamath of Zerodha warns of South Korea-like crash risk in Indian stock markets",
-          "link": "https://www.livemint.com/market/stock-market-news/my-biggest-nightmare-nithin-kamath-of-zerodha-warns-of-south-korea-like-crash-risk-in-indian-stock-markets-11785397897939.html",
-          "pubDate": "2026-07-30T13:50:39+05:30"
         }
       ]
     },
@@ -897,7 +897,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-30T23:49:01.706916+00:00",
+      "updated_at": "2026-07-31T01:21:39.125150+00:00",
       "items": [
         {
           "title": "RBI Issues Amendment Directions on Interest Rate on Deposits",

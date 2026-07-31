@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T19:19:22.156256+00:00",
+  "generated_at": "2026-07-31T20:38:36.810942+00:00",
   "indices": {
     "nifty50": {
       "price": 24383.6,
@@ -68,7 +68,7 @@
         24383.599609375
       ],
       "ok": true,
-      "updated_at": "2026-07-31T19:19:19.968031+00:00"
+      "updated_at": "2026-07-31T20:38:35.260813+00:00"
     },
     "sensex": {
       "price": 78094.64,
@@ -137,7 +137,7 @@
         78094.640625
       ],
       "ok": true,
-      "updated_at": "2026-07-31T19:19:20.042882+00:00"
+      "updated_at": "2026-07-31T20:38:35.300287+00:00"
     },
     "banknifty": {
       "price": 57264.85,
@@ -206,7 +206,7 @@
         57264.8515625
       ],
       "ok": true,
-      "updated_at": "2026-07-31T19:19:20.123918+00:00"
+      "updated_at": "2026-07-31T20:38:35.336841+00:00"
     },
     "vix": {
       "price": 11.755,
@@ -275,7 +275,7 @@
         11.755000114440918
       ],
       "ok": true,
-      "updated_at": "2026-07-31T19:19:20.204420+00:00"
+      "updated_at": "2026-07-31T20:38:35.408005+00:00"
     },
     "usdinr": {
       "price": 95.38,
@@ -344,29 +344,13 @@
         95.37999725341797
       ],
       "ok": true,
-      "updated_at": "2026-07-31T19:19:20.327979+00:00"
+      "updated_at": "2026-07-31T20:38:35.474215+00:00"
     },
     "gold": {
-      "price": 4105.4,
-      "change": -55.2,
-      "pct": -1.3267,
+      "price": 4103.5,
+      "change": -57.1,
+      "pct": -1.3724,
       "closes": [
-        4089.5,
-        4091.300048828125,
-        4095.10009765625,
-        4096.7998046875,
-        4097.5,
-        4097.60009765625,
-        4099.89990234375,
-        4102.5,
-        4105.60009765625,
-        4101.39990234375,
-        4102.10009765625,
-        4103.60009765625,
-        4101.60009765625,
-        4099.7001953125,
-        4097.2998046875,
-        4095.10009765625,
         4098.2998046875,
         4098.39990234375,
         4096.5,
@@ -410,32 +394,32 @@
         4106.60009765625,
         4105.2998046875,
         4105.5,
-        4105.39990234375
+        4104.2001953125,
+        4104.89990234375,
+        4105.10009765625,
+        4106.39990234375,
+        4106.2001953125,
+        4105.89990234375,
+        4109.89990234375,
+        4111.10009765625,
+        4107.39990234375,
+        4107.7001953125,
+        4105.39990234375,
+        4103.7001953125,
+        4104.39990234375,
+        4104.60009765625,
+        4104.7001953125,
+        4104.39990234375,
+        4103.5
       ],
       "ok": true,
-      "updated_at": "2026-07-31T19:19:20.423843+00:00"
+      "updated_at": "2026-07-31T20:38:35.515324+00:00"
     },
     "crude": {
-      "price": 84.67,
-      "change": 1.08,
-      "pct": 1.292,
+      "price": 84.55,
+      "change": 0.96,
+      "pct": 1.1485,
       "closes": [
-        85.0999984741211,
-        85.05999755859375,
-        85.23999786376953,
-        85.37999725341797,
-        85.5199966430664,
-        85.48999786376953,
-        85.81999969482422,
-        85.69999694824219,
-        85.79000091552734,
-        85.87999725341797,
-        85.91999816894531,
-        85.9000015258789,
-        85.73999786376953,
-        85.79000091552734,
-        85.54000091552734,
-        85.05999755859375,
         85.20999908447266,
         84.94000244140625,
         84.5,
@@ -479,10 +463,26 @@
         84.61000061035156,
         84.6500015258789,
         84.66000366210938,
-        84.66999816894531
+        84.63999938964844,
+        84.76000213623047,
+        84.94000244140625,
+        84.80000305175781,
+        84.86000061035156,
+        84.80000305175781,
+        84.77999877929688,
+        84.75,
+        84.77999877929688,
+        84.7699966430664,
+        84.69000244140625,
+        84.54000091552734,
+        84.56999969482422,
+        84.58999633789062,
+        84.48999786376953,
+        84.61000061035156,
+        84.55000305175781
       ],
       "ok": true,
-      "updated_at": "2026-07-31T19:19:20.564636+00:00"
+      "updated_at": "2026-07-31T20:38:35.584329+00:00"
     },
     "us10y": {
       "price": 4.745,
@@ -551,14 +551,19 @@
         4.744999885559082
       ],
       "ok": true,
-      "updated_at": "2026-07-31T19:19:20.659675+00:00"
+      "updated_at": "2026-07-31T20:38:35.633274+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-07-31T19:19:20.705833+00:00",
+      "updated_at": "2026-07-31T20:38:35.787768+00:00",
       "items": [
+        {
+          "title": "US stocks: US market ends higher as Amazon soothes AI jitters",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-higher-as-amazon-soothes-ai-jitters/articleshow/132776618.cms",
+          "pubDate": "2026-08-01T01:32:33+05:30"
+        },
         {
           "title": "NSE pays Rs 715 crore to settle pending Rs 1,491-crore co-location case ahead of IPO",
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-pays-rs-715-crore-to-settle-pending-rs-1491-crore-co-location-case-ahead-of-ipo/articleshow/132772270.cms",
@@ -583,11 +588,6 @@
           "title": "Vedanta Aluminium share price target: Why Citi, CLSA, Nuvama see up to 20% upside after Q1 earnings",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-share-price-target-why-citi-clsa-nuvama-see-up-to-20-upside-after-q1-earnings/articleshow/132756392.cms",
           "pubDate": "2026-07-31T10:22:29+05:30"
-        },
-        {
-          "title": "Multibagger Astra Microwave shares rally 14% to 52-week high after Rs 2,205 crore order win from HAL",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/multibagger-astra-microwave-shares-rally-14-to-52-week-high-after-rs-2205-crore-order-win-from-hal/articleshow/132755861.cms",
-          "pubDate": "2026-07-31T09:53:00+05:30"
         },
         {
           "title": "Trump announces a deal for Hamas to disarm in Gaza, but many hurdles and uncertainty remain",
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-07-31T19:19:21.023611+00:00",
+      "updated_at": "2026-07-31T20:38:36.067409+00:00",
       "items": [
+        {
+          "title": "TSX ends lower as gold falls, posts fourth straight monthly gain",
+          "link": "https://www.livemint.com/market/tsx-ends-lower-as-gold-falls-posts-fourth-straight-monthly-gain-11785529770170.html",
+          "pubDate": "2026-08-01T01:59:29+05:30"
+        },
+        {
+          "title": "Oil Posts Biggest Monthly Jump Since March as Iran War Simmers",
+          "link": "https://www.livemint.com/market/oil-posts-biggest-monthly-jump-since-march-as-iran-war-simmers-11785529272579.html",
+          "pubDate": "2026-08-01T01:51:12+05:30"
+        },
         {
           "title": "Gold, silver prices today: Comex gold drops $84, silver slips $2 as US dollar rebounds",
           "link": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-drops-84-silver-slips-2-as-us-dollar-rebounds-11785513541055.html",
@@ -935,16 +945,6 @@
           "title": "GV Electricals IPO Day 1: Issue booked 21% so far. Check GMP, key dates, issue details",
           "link": "https://www.livemint.com/market/ipo/gv-electricals-ipo-day-1-issue-booked-21-so-far-check-gmp-key-dates-issue-details-11785475636697.html",
           "pubDate": "2026-07-31T11:28:20+05:30"
-        },
-        {
-          "title": "Poojaa Precision IPO: GMP jumps following strong subscription status, how to check allotment status online",
-          "link": "https://www.livemint.com/market/ipo/poojaa-precision-ipo-gmp-jumps-following-strong-subscription-status-how-to-check-allotment-status-online-11785474476120.html",
-          "pubDate": "2026-07-31T11:19:33+05:30"
-        },
-        {
-          "title": "ITC Q1 results preview: Analysts see a weak quarter; cigarette tax hikes likely to dent profit, margins- What to expect?",
-          "link": "https://www.livemint.com/market/stock-market-news/itc-q1-results-preview-analysts-see-a-weak-quarter-cigarette-tax-hikes-likely-to-dent-profit-margins-what-to-expect-11785473654553.html",
-          "pubDate": "2026-07-31T11:08:43+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-07-31T19:19:22.156240+00:00",
+      "updated_at": "2026-07-31T20:38:36.810923+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

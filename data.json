@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-02T16:33:23.422494+00:00",
+  "generated_at": "2026-08-02T17:41:08.450283+00:00",
   "indices": {
     "nifty50": {
       "price": 24383.6,
-      "change": 66.45,
-      "pct": 0.2733,
+      "change": 66.4,
+      "pct": 0.2731,
       "closes": [
         24357.69921875,
         24353.55078125,
@@ -68,12 +68,12 @@
         24383.599609375
       ],
       "ok": true,
-      "updated_at": "2026-08-02T16:33:20.985763+00:00"
+      "updated_at": "2026-08-02T17:41:05.990211+00:00"
     },
     "sensex": {
       "price": 78094.64,
-      "change": 166.49,
-      "pct": 0.2136,
+      "change": 166.54,
+      "pct": 0.2137,
       "closes": [
         77992.2421875,
         77992.453125,
@@ -137,7 +137,7 @@
         78094.640625
       ],
       "ok": true,
-      "updated_at": "2026-08-02T16:33:21.038858+00:00"
+      "updated_at": "2026-08-02T17:41:06.072523+00:00"
     },
     "banknifty": {
       "price": 57264.85,
@@ -206,7 +206,7 @@
         57264.8515625
       ],
       "ok": true,
-      "updated_at": "2026-08-02T16:33:21.086116+00:00"
+      "updated_at": "2026-08-02T17:41:06.124543+00:00"
     },
     "vix": {
       "price": 11.755,
@@ -275,7 +275,7 @@
         11.755000114440918
       ],
       "ok": true,
-      "updated_at": "2026-08-02T16:33:21.176583+00:00"
+      "updated_at": "2026-08-02T17:41:06.181836+00:00"
     },
     "usdinr": {
       "price": 95.39,
@@ -344,7 +344,7 @@
         95.37999725341797
       ],
       "ok": true,
-      "updated_at": "2026-08-02T16:33:21.229344+00:00"
+      "updated_at": "2026-08-02T17:41:06.275075+00:00"
     },
     "gold": {
       "price": 4107.0,
@@ -352,7 +352,7 @@
       "pct": -1.2883,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-02T16:33:21.289887+00:00"
+      "updated_at": "2026-08-02T17:41:06.317760+00:00"
     },
     "crude": {
       "price": 84.67,
@@ -360,7 +360,7 @@
       "pct": 1.292,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-02T16:33:21.349314+00:00"
+      "updated_at": "2026-08-02T17:41:06.364755+00:00"
     },
     "us10y": {
       "price": 4.745,
@@ -429,13 +429,13 @@
         4.744999885559082
       ],
       "ok": true,
-      "updated_at": "2026-08-02T16:33:21.392977+00:00"
+      "updated_at": "2026-08-02T17:41:06.416406+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-02T16:33:21.592242+00:00",
+      "updated_at": "2026-08-02T17:41:06.557082+00:00",
       "items": [
         {
           "title": "10 largecap stocks with upside potential up to 37%. Do you own any?",
@@ -590,7 +590,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-02T16:33:22.058706+00:00",
       "items": [
         {
@@ -672,8 +672,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-02T16:33:22.291883+00:00",
+      "updated_at": "2026-08-02T17:41:07.310834+00:00",
       "items": [
+        {
+          "title": "Sebi order against Zee likely to delay planned  ₹3,143-crore fundraise",
+          "link": "https://www.livemint.com/market/sebi-order-against-zee-to-delay-planned-rs-3-143-crore-fundraise-11785686792911.html",
+          "pubDate": "2026-08-02T22:39:20+05:30"
+        },
         {
           "title": "Yen Traders Brace for More Intervention With US at Japan’s Side",
           "link": "https://www.livemint.com/market/yen-traders-brace-for-more-intervention-with-us-at-japan-s-side-11785677113094.html",
@@ -818,11 +823,6 @@
           "title": "Stock market timings change from Monday, August 3: Everything investors and traders need to know",
           "link": "https://www.livemint.com/market/stock-market-news/new-stock-market-timings-change-for-f-o-stocks-from-monday-august-3-everything-investors-and-traders-need-to-know-11785553182416.html",
           "pubDate": "2026-08-01T09:09:02+05:30"
-        },
-        {
-          "title": "Three railway stocks bought by DIIs in the June quarter",
-          "link": "https://www.livemint.com/market/stock-market-news/three-railway-stocks-where-diis-raised-stakes-in-june-2026-quarter-11785497056962.html",
-          "pubDate": "2026-08-01T07:00:44+05:30"
         }
       ]
     },
@@ -833,7 +833,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-02T16:33:23.422479+00:00",
+      "updated_at": "2026-08-02T17:41:08.450267+00:00",
       "items": [
         {
           "title": "Reporting of FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) mobilized under Reserve Bank’s Swap Facility",

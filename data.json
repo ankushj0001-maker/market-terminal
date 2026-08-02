@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T01:11:21.653303+00:00",
+  "generated_at": "2026-08-02T04:34:35.800409+00:00",
   "indices": {
     "nifty50": {
       "price": 24383.6,
@@ -68,7 +68,7 @@
         24383.599609375
       ],
       "ok": true,
-      "updated_at": "2026-08-02T01:11:18.358050+00:00"
+      "updated_at": "2026-08-02T04:34:31.580179+00:00"
     },
     "sensex": {
       "price": 78094.64,
@@ -137,7 +137,7 @@
         78094.640625
       ],
       "ok": true,
-      "updated_at": "2026-08-02T01:11:18.516283+00:00"
+      "updated_at": "2026-08-02T04:34:31.686188+00:00"
     },
     "banknifty": {
       "price": 57264.85,
@@ -206,12 +206,12 @@
         57264.8515625
       ],
       "ok": true,
-      "updated_at": "2026-08-02T01:11:18.709091+00:00"
+      "updated_at": "2026-08-02T04:34:31.787308+00:00"
     },
     "vix": {
       "price": 11.755,
-      "change": -0.405,
-      "pct": -3.3306,
+      "change": -0.4,
+      "pct": -3.2908,
       "closes": [
         11.84749984741211,
         11.867500305175781,
@@ -275,13 +275,14 @@
         11.755000114440918
       ],
       "ok": true,
-      "updated_at": "2026-08-02T01:11:18.946983+00:00"
+      "updated_at": "2026-08-02T04:34:31.896358+00:00"
     },
     "usdinr": {
       "price": 95.39,
       "change": -0.28,
       "pct": -0.2927,
       "closes": [
+        95.3949966430664,
         95.3949966430664,
         95.40249633789062,
         95.37249755859375,
@@ -340,149 +341,26 @@
         95.37000274658203,
         95.37000274658203,
         95.37000274658203,
-        95.37999725341797,
-        95.38999938964844
+        95.37999725341797
       ],
       "ok": true,
-      "updated_at": "2026-08-02T01:11:19.172147+00:00"
+      "updated_at": "2026-08-02T04:34:32.020798+00:00"
     },
     "gold": {
       "price": 4107.0,
       "change": -53.6,
       "pct": -1.2883,
-      "closes": [
-        4100.39990234375,
-        4100.10009765625,
-        4101.89990234375,
-        4101.2001953125,
-        4102.39990234375,
-        4103.60009765625,
-        4105.39990234375,
-        4103.0,
-        4098.7998046875,
-        4100.0,
-        4099.5,
-        4099.2998046875,
-        4098.7998046875,
-        4098.0,
-        4101.60009765625,
-        4102.7998046875,
-        4103.89990234375,
-        4106.60009765625,
-        4104.2998046875,
-        4106.5,
-        4108.0,
-        4108.5,
-        4109.10009765625,
-        4109.7998046875,
-        4108.60009765625,
-        4107.39990234375,
-        4104.10009765625,
-        4105.7001953125,
-        4107.2001953125,
-        4107.10009765625,
-        4105.39990234375,
-        4106.89990234375,
-        4105.60009765625,
-        4106.10009765625,
-        4106.2001953125,
-        4106.60009765625,
-        4105.2998046875,
-        4105.5,
-        4104.2001953125,
-        4104.89990234375,
-        4105.10009765625,
-        4106.39990234375,
-        4106.2001953125,
-        4105.89990234375,
-        4109.89990234375,
-        4111.10009765625,
-        4107.39990234375,
-        4107.7001953125,
-        4105.39990234375,
-        4103.7001953125,
-        4104.39990234375,
-        4104.60009765625,
-        4104.7001953125,
-        4104.39990234375,
-        4106.60009765625,
-        4107.10009765625,
-        4107.2998046875,
-        4107.7001953125,
-        4103.5,
-        4107.0
-      ],
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-08-02T01:11:19.393511+00:00"
+      "updated_at": "2026-08-02T04:34:32.130201+00:00"
     },
     "crude": {
       "price": 84.67,
       "change": 1.08,
       "pct": 1.292,
-      "closes": [
-        84.30000305175781,
-        84.41000366210938,
-        84.54000091552734,
-        84.66999816894531,
-        84.47000122070312,
-        84.5199966430664,
-        84.58999633789062,
-        84.58000183105469,
-        84.7699966430664,
-        84.69999694824219,
-        84.73999786376953,
-        84.69999694824219,
-        84.83000183105469,
-        84.81999969482422,
-        85.01000213623047,
-        84.80999755859375,
-        84.79000091552734,
-        84.77999877929688,
-        84.83999633789062,
-        84.66000366210938,
-        85.02999877929688,
-        85.05000305175781,
-        84.87999725341797,
-        84.69999694824219,
-        84.70999908447266,
-        84.7699966430664,
-        84.76000213623047,
-        84.97000122070312,
-        84.79000091552734,
-        84.56999969482422,
-        84.5999984741211,
-        84.55999755859375,
-        84.69999694824219,
-        84.62000274658203,
-        84.55999755859375,
-        84.61000061035156,
-        84.6500015258789,
-        84.66000366210938,
-        84.63999938964844,
-        84.76000213623047,
-        84.94000244140625,
-        84.80000305175781,
-        84.86000061035156,
-        84.80000305175781,
-        84.77999877929688,
-        84.75,
-        84.77999877929688,
-        84.7699966430664,
-        84.69000244140625,
-        84.54000091552734,
-        84.56999969482422,
-        84.58999633789062,
-        84.48999786376953,
-        84.61000061035156,
-        84.4800033569336,
-        84.5199966430664,
-        84.62000274658203,
-        84.55000305175781,
-        85.94000244140625,
-        84.66999816894531
-      ],
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-08-02T01:11:19.770751+00:00"
+      "updated_at": "2026-08-02T04:34:32.227800+00:00"
     },
     "us10y": {
       "price": 4.745,
@@ -551,13 +429,13 @@
         4.744999885559082
       ],
       "ok": true,
-      "updated_at": "2026-08-02T01:11:19.940949+00:00"
+      "updated_at": "2026-08-02T04:34:32.338526+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-02T01:11:20.124684+00:00",
+      "updated_at": "2026-08-02T04:34:32.606172+00:00",
       "items": [
         {
           "title": "Silver Storm Parks &amp; Resorts Limited Successfully Concludes IPO",
@@ -712,8 +590,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-01T17:38:55.892764+00:00",
+      "ok": true,
+      "updated_at": "2026-08-02T04:34:33.096255+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +672,23 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-02T01:11:20.525500+00:00",
+      "updated_at": "2026-08-02T04:34:33.318702+00:00",
       "items": [
+        {
+          "title": "Stocks under  ₹100: Sumeet Bagadia recommends three shares to buy on Monday - 3 August 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/stocks-under-rs-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-3-august-2026-11785643308947.html",
+          "pubDate": "2026-08-02T09:49:36+05:30"
+        },
+        {
+          "title": "HDFC Mid Cap Fund tops  ₹1 trillion AUM: Is it still worth considering?",
+          "link": "https://www.livemint.com/market/stock-market-news/mutual-funds-equity-mutual-funds-hdfc-mid-cap-fund-top-performing-mutual-fund-11785574999431.html",
+          "pubDate": "2026-08-02T09:00:44+05:30"
+        },
+        {
+          "title": "Buy or sell: Ganesh Dongre of Anand Rathi recommends 3 stocks to buy on Monday - 3 August 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-3-stocks-to-buy-on-monday-3-august-2026-11785633044888.html",
+          "pubDate": "2026-08-02T06:56:26+05:30"
+        },
         {
           "title": "RBI MPC meeting to Q1 results FY27, US-Iran war: Top five triggers that may dictate the Indian stock market this week",
           "link": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-to-q1-results-fy27-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11785629941417.html",
@@ -930,21 +823,6 @@
           "title": "Bloomberg again defers decision on including Indian government bonds in Global Aggregate Index",
           "link": "https://www.livemint.com/market/bonds/bloomberg-again-defers-decision-on-including-indian-government-bonds-in-global-aggregate-index-11785502421270.html",
           "pubDate": "2026-07-31T19:56:56+05:30"
-        },
-        {
-          "title": "Jio Financial Services declares record date to finalise eligible shareholders for FY26 final dividend",
-          "link": "https://www.livemint.com/market/stock-market-news/jio-financial-services-declares-record-date-to-finalise-eligible-shareholders-for-fy26-final-dividend-11785505871823.html",
-          "pubDate": "2026-07-31T19:54:38+05:30"
-        },
-        {
-          "title": "Wall Street surges as Amazon rallies on strong earnings, chip stocks jump on optimism about AI returns",
-          "link": "https://www.livemint.com/market/stock-market-news/wall-street-surges-as-amazon-and-chip-stocks-jump-11785505690872.html",
-          "pubDate": "2026-07-31T19:32:20+05:30"
-        },
-        {
-          "title": "Amazon shares surge 11% after earnings while Apple slipped 8% in the US markets",
-          "link": "https://www.livemint.com/market/stock-market-news/amazon-shares-surge-11-pc-after-earnings-apple-stock-down-8-pc-results-chips-ai-cloud-business-artificial-intelligence-11785505618161.html",
-          "pubDate": "2026-07-31T19:22:11+05:30"
         }
       ]
     },
@@ -955,7 +833,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-02T01:11:21.653283+00:00",
+      "updated_at": "2026-08-02T04:34:35.800394+00:00",
       "items": [
         {
           "title": "Reporting of FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) mobilized under Reserve Bank’s Swap Facility",

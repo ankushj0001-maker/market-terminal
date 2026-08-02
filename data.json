@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T21:32:22.877004+00:00",
+  "generated_at": "2026-08-02T22:34:30.266531+00:00",
   "indices": {
     "nifty50": {
       "price": 24383.6,
@@ -68,7 +68,7 @@
         24383.599609375
       ],
       "ok": true,
-      "updated_at": "2026-08-02T21:32:20.083445+00:00"
+      "updated_at": "2026-08-02T22:34:28.745237+00:00"
     },
     "sensex": {
       "price": 78094.64,
@@ -137,7 +137,7 @@
         78094.640625
       ],
       "ok": true,
-      "updated_at": "2026-08-02T21:32:20.246706+00:00"
+      "updated_at": "2026-08-02T22:34:28.798121+00:00"
     },
     "banknifty": {
       "price": 57264.85,
@@ -206,7 +206,7 @@
         57264.8515625
       ],
       "ok": true,
-      "updated_at": "2026-08-02T21:32:20.344461+00:00"
+      "updated_at": "2026-08-02T22:34:28.851331+00:00"
     },
     "vix": {
       "price": 11.755,
@@ -275,7 +275,7 @@
         11.755000114440918
       ],
       "ok": true,
-      "updated_at": "2026-08-02T21:32:20.452672+00:00"
+      "updated_at": "2026-08-02T22:34:28.904292+00:00"
     },
     "usdinr": {
       "price": 95.39,
@@ -344,23 +344,33 @@
         95.37999725341797
       ],
       "ok": true,
-      "updated_at": "2026-08-02T21:32:20.613857+00:00"
+      "updated_at": "2026-08-02T22:34:28.964648+00:00"
     },
     "gold": {
-      "price": 4107.0,
-      "change": 0.0,
-      "pct": 0.0,
-      "closes": [],
+      "price": 4122.5,
+      "change": 15.5,
+      "pct": 0.3774,
+      "closes": [
+        4133.2998046875,
+        4125.2998046875,
+        4121.89990234375,
+        4122.5
+      ],
       "ok": true,
-      "updated_at": "2026-08-02T21:32:20.678590+00:00"
+      "updated_at": "2026-08-02T22:34:29.013764+00:00"
     },
     "crude": {
-      "price": 84.67,
-      "change": 0.0,
-      "pct": 0.0,
-      "closes": [],
+      "price": 80.52,
+      "change": -4.15,
+      "pct": -4.9014,
+      "closes": [
+        79.87999725341797,
+        80.80000305175781,
+        80.61000061035156,
+        80.5199966430664
+      ],
       "ok": true,
-      "updated_at": "2026-08-02T21:32:20.782410+00:00"
+      "updated_at": "2026-08-02T22:34:29.062838+00:00"
     },
     "us10y": {
       "price": 4.745,
@@ -429,13 +439,13 @@
         4.744999885559082
       ],
       "ok": true,
-      "updated_at": "2026-08-02T21:32:20.924169+00:00"
+      "updated_at": "2026-08-02T22:34:29.118844+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-02T21:32:21.367135+00:00",
+      "updated_at": "2026-08-02T22:34:29.228849+00:00",
       "items": [
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -672,7 +682,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-02T21:32:21.728870+00:00",
+      "updated_at": "2026-08-02T22:34:29.468820+00:00",
       "items": [
         {
           "title": "Week Ahead: Wall Street eyes US jobs data, SpaceX debut earnings and Disney results",
@@ -833,7 +843,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-02T21:32:22.876994+00:00",
+      "updated_at": "2026-08-02T22:34:30.266494+00:00",
       "items": [
         {
           "title": "Reporting of FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) mobilized under Reserve Bank’s Swap Facility",

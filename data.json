@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T14:00:04.701118+00:00",
+  "generated_at": "2026-08-03T16:25:25.343875+00:00",
   "indices": {
     "nifty50": {
       "price": 24774.3,
@@ -68,7 +68,7 @@
         24774.30078125
       ],
       "ok": true,
-      "updated_at": "2026-08-03T14:00:02.742054+00:00"
+      "updated_at": "2026-08-03T16:25:22.715188+00:00"
     },
     "sensex": {
       "price": 78639.03,
@@ -137,7 +137,7 @@
         78639.03125
       ],
       "ok": true,
-      "updated_at": "2026-08-03T14:00:02.796388+00:00"
+      "updated_at": "2026-08-03T16:25:22.762169+00:00"
     },
     "banknifty": {
       "price": 58247.95,
@@ -206,7 +206,7 @@
         58247.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-03T14:00:02.873601+00:00"
+      "updated_at": "2026-08-03T16:25:22.817406+00:00"
     },
     "vix": {
       "price": 11.925,
@@ -275,7 +275,7 @@
         11.925000190734863
       ],
       "ok": true,
-      "updated_at": "2026-08-03T14:00:02.918026+00:00"
+      "updated_at": "2026-08-03T16:25:23.224746+00:00"
     },
     "usdinr": {
       "price": 95.327,
@@ -344,43 +344,13 @@
         95.3270034790039
       ],
       "ok": true,
-      "updated_at": "2026-08-03T14:00:02.982623+00:00"
+      "updated_at": "2026-08-03T16:25:23.289185+00:00"
     },
     "gold": {
-      "price": 4084.2,
-      "change": -22.8,
-      "pct": -0.5551,
+      "price": 4090.7,
+      "change": -16.3,
+      "pct": -0.3969,
       "closes": [
-        4115.0,
-        4113.60009765625,
-        4115.10009765625,
-        4117.2998046875,
-        4114.89990234375,
-        4110.89990234375,
-        4108.39990234375,
-        4103.10009765625,
-        4108.7001953125,
-        4109.7001953125,
-        4112.10009765625,
-        4113.2001953125,
-        4111.60009765625,
-        4110.89990234375,
-        4110.2001953125,
-        4112.39990234375,
-        4111.2001953125,
-        4109.60009765625,
-        4110.0,
-        4108.0,
-        4108.5,
-        4105.5,
-        4104.89990234375,
-        4104.60009765625,
-        4105.39990234375,
-        4108.5,
-        4106.60009765625,
-        4106.10009765625,
-        4104.0,
-        4103.7998046875,
         4104.7001953125,
         4106.89990234375,
         4107.7998046875,
@@ -410,45 +380,46 @@
         4081.5,
         4086.89990234375,
         4084.60009765625,
-        4085.5
+        4085.5,
+        4087.199951171875,
+        4084.199951171875,
+        4082.5,
+        4088.39990234375,
+        4086.60009765625,
+        4088.800048828125,
+        4087.60009765625,
+        4090.300048828125,
+        4088.5,
+        4091.699951171875,
+        4091.0,
+        4090.699951171875,
+        4091.60009765625,
+        4087.60009765625,
+        4089.800048828125,
+        4088.300048828125,
+        4091.800048828125,
+        4092.800048828125,
+        4087.89990234375,
+        4088.60009765625,
+        4092.0,
+        4092.10009765625,
+        4093.199951171875,
+        4093.5,
+        4091.60009765625,
+        4091.89990234375,
+        4090.699951171875,
+        4091.800048828125,
+        4091.199951171875,
+        4090.699951171875
       ],
       "ok": true,
-      "updated_at": "2026-08-03T14:00:03.028506+00:00"
+      "updated_at": "2026-08-03T16:25:23.348338+00:00"
     },
     "crude": {
-      "price": 78.58,
-      "change": -6.09,
-      "pct": -7.1926,
+      "price": 79.7,
+      "change": -4.97,
+      "pct": -5.8698,
       "closes": [
-        80.2699966430664,
-        80.12000274658203,
-        79.81999969482422,
-        79.77999877929688,
-        79.79000091552734,
-        79.80000305175781,
-        79.66000366210938,
-        79.80000305175781,
-        79.9000015258789,
-        79.72000122070312,
-        79.83999633789062,
-        80.05000305175781,
-        79.80000305175781,
-        79.7300033569336,
-        79.66000366210938,
-        79.69999694824219,
-        79.69000244140625,
-        79.72000122070312,
-        79.56999969482422,
-        79.47000122070312,
-        79.52999877929688,
-        79.4800033569336,
-        79.62999725341797,
-        79.5,
-        79.51000213623047,
-        79.4800033569336,
-        79.58000183105469,
-        79.54000091552734,
-        79.69999694824219,
         79.8499984741211,
         79.81999969482422,
         79.73999786376953,
@@ -479,15 +450,44 @@
         78.72000122070312,
         78.55999755859375,
         78.8499984741211,
-        78.58000183105469
+        79.12999725341797,
+        79.2300033569336,
+        79.3499984741211,
+        79.23999786376953,
+        79.33999633789062,
+        79.2300033569336,
+        79.2300033569336,
+        79.43000030517578,
+        79.45999908447266,
+        79.44000244140625,
+        79.38999938964844,
+        79.5199966430664,
+        79.66999816894531,
+        79.79000091552734,
+        79.41000366210938,
+        79.54000091552734,
+        79.41999816894531,
+        79.63999938964844,
+        80.0,
+        79.69999694824219,
+        79.61000061035156,
+        79.76000213623047,
+        79.58999633789062,
+        79.6500015258789,
+        79.63999938964844,
+        79.66000366210938,
+        79.62999725341797,
+        79.70999908447266,
+        79.62999725341797,
+        79.69999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-03T14:00:03.070005+00:00"
+      "updated_at": "2026-08-03T16:25:23.405787+00:00"
     },
     "us10y": {
-      "price": 4.692,
-      "change": -0.053,
-      "pct": -1.117,
+      "price": 4.688,
+      "change": -0.057,
+      "pct": -1.2013,
       "closes": [
         4.671000003814697,
         4.675999641418457,
@@ -505,17 +505,46 @@
         4.690000057220459,
         4.688000202178955,
         4.690000057220459,
+        4.691999912261963,
         4.690000057220459,
-        4.691999912261963
+        4.691999912261963,
+        4.693999767303467,
+        4.691999912261963,
+        4.691999912261963,
+        4.684000015258789,
+        4.684000015258789,
+        4.682000160217285,
+        4.682000160217285,
+        4.684000015258789,
+        4.684000015258789,
+        4.684000015258789,
+        4.685999870300293,
+        4.684000015258789,
+        4.684000015258789,
+        4.685999870300293,
+        4.688000202178955,
+        4.688000202178955,
+        4.688000202178955,
+        4.684000015258789,
+        4.690000057220459,
+        4.688000202178955,
+        4.679999828338623,
+        4.679999828338623,
+        4.679999828338623,
+        4.688000202178955,
+        4.690000057220459,
+        4.688000202178955,
+        4.688000202178955,
+        4.688000202178955
       ],
       "ok": true,
-      "updated_at": "2026-08-03T14:00:03.130853+00:00"
+      "updated_at": "2026-08-03T16:25:23.455835+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-03T14:00:03.263667+00:00",
+      "updated_at": "2026-08-03T16:25:23.847073+00:00",
       "items": [
         {
           "title": "Greaves Electric Mobility’s Rs 530 crore rights issue offer gets fully subscribed",
@@ -671,7 +700,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-03T14:00:03.299844+00:00",
+      "updated_at": "2026-08-03T16:25:23.933159+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -752,8 +781,28 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-03T14:00:03.504176+00:00",
+      "updated_at": "2026-08-03T16:25:24.075789+00:00",
       "items": [
+        {
+          "title": "IREDA Q1 Results: Net profit rises 37% YoY to  ₹339 crore; asset quality stays stable",
+          "link": "https://www.livemint.com/market/stock-market-news/ireda-q1-results-net-profit-rises-37-yoy-to-rs-339-crore-asset-quality-stays-stable-11785767562389.html",
+          "pubDate": "2026-08-03T20:42:04+05:30"
+        },
+        {
+          "title": "Why did Nifty 50 jump 200 points in the final minutes of trade? Here's what happened",
+          "link": "https://www.livemint.com/market/stock-market-news/why-did-the-nifty-50-jump-200-points-in-the-final-minutes-of-trade-heres-what-happened-11785765452716.html",
+          "pubDate": "2026-08-03T20:05:01+05:30"
+        },
+        {
+          "title": "HSBC, SBI and ICICI Bank get half of India's FCNR flows under incentive window",
+          "link": "https://www.livemint.com/market/hsbc-sbi-and-icici-bank-get-half-of-indias-fcnr-flows-under-incentive-window-11785762263771.html",
+          "pubDate": "2026-08-03T19:49:27+05:30"
+        },
+        {
+          "title": "Wall Street climbs as crude oil prices plunge, Amazon jumps 3.8%",
+          "link": "https://www.livemint.com/market/stock-market-news/wall-street-climbs-as-crude-oil-prices-plunge-amazon-jumps-38-11785765123026.html",
+          "pubDate": "2026-08-03T19:41:24+05:30"
+        },
         {
           "title": "Marriott Q2 earnings rise on higher hotel prices, annual room revenue outlook raised",
           "link": "https://www.livemint.com/market/stock-market-news/marriott-q2-earnings-rise-on-higher-hotel-prices-annual-room-revenue-outlook-raised-11785761446757.html",
@@ -883,26 +932,6 @@
           "title": "Yen Rises Amid Speculation of More Intervention After US Support",
           "link": "https://www.livemint.com/market/yen-rises-amid-speculation-of-more-intervention-after-us-support-11785727800287.html",
           "pubDate": "2026-08-03T08:59:59+05:30"
-        },
-        {
-          "title": "Stocks to buy: Nifty 50 may end 2026 around 26,800–27,000, says Rahul Ghose of Hedged, bets on these 10 shares",
-          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-nifty-50-may-end-2026-around-26-800-27-000-says-rahul-ghose-of-hedged-bets-on-these-10-shares-11785726845401.html",
-          "pubDate": "2026-08-03T08:57:42+05:30"
-        },
-        {
-          "title": "Technocraft Ventures IPO: Price band set at  ₹200-212 per share; check key dates, issue details",
-          "link": "https://www.livemint.com/market/ipo/technocraft-ventures-ipo-price-band-set-at-rs-200-212-per-share-check-key-dates-issue-details-11785727105114.html",
-          "pubDate": "2026-08-03T08:56:44+05:30"
-        },
-        {
-          "title": "LEAP India IPO: Price band set at  ₹151-159 per share; check key dates, issue details",
-          "link": "https://www.livemint.com/market/leap-india-ipo-price-band-set-at-rs-151-159-per-share-check-key-dates-issue-details-11785725065150.html",
-          "pubDate": "2026-08-03T08:33:21+05:30"
-        },
-        {
-          "title": "Q1 results 2026: IREDA to SBI Funds among companies to declare Q1 results today; full list here",
-          "link": "https://www.livemint.com/market/stock-market-news/q1-results-2026-ireda-to-sbi-funds-among-companies-to-declare-q1-results-today-full-list-here-11785723912169.html",
-          "pubDate": "2026-08-03T08:27:20+05:30"
         }
       ]
     },
@@ -913,8 +942,13 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-03T14:00:04.701102+00:00",
+      "updated_at": "2026-08-03T16:25:25.343858+00:00",
       "items": [
+        {
+          "title": "Processing of Applications Received Under the Citizen’s Charter - Status as on July 31, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63280",
+          "pubDate": "2026-08-03T20:00:00+00:00"
+        },
         {
           "title": "RBI appoints Smt. Monisha Chakraborty as new Executive Director",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63279",
@@ -959,11 +993,6 @@
           "title": "Lending and Deposit Rates of Scheduled Commercial Banks – July 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63271",
           "pubDate": "2026-07-31T17:35:00+00:00"
-        },
-        {
-          "title": "Monthly Data on India’s International Trade in Services for the Month of June 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63270",
-          "pubDate": "2026-07-31T17:30:00+00:00"
         }
       ]
     }

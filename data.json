@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T20:53:16.093931+00:00",
+  "generated_at": "2026-08-03T21:54:52.924490+00:00",
   "indices": {
     "nifty50": {
       "price": 24774.3,
@@ -68,7 +68,7 @@
         24774.30078125
       ],
       "ok": true,
-      "updated_at": "2026-08-03T20:53:14.040970+00:00"
+      "updated_at": "2026-08-03T21:54:51.191962+00:00"
     },
     "sensex": {
       "price": 78639.03,
@@ -137,7 +137,7 @@
         78639.03125
       ],
       "ok": true,
-      "updated_at": "2026-08-03T20:53:14.107382+00:00"
+      "updated_at": "2026-08-03T21:54:51.235296+00:00"
     },
     "banknifty": {
       "price": 58247.95,
@@ -206,7 +206,7 @@
         58247.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-03T20:53:14.200354+00:00"
+      "updated_at": "2026-08-03T21:54:51.278958+00:00"
     },
     "vix": {
       "price": 11.925,
@@ -275,7 +275,7 @@
         11.925000190734863
       ],
       "ok": true,
-      "updated_at": "2026-08-03T20:53:14.265677+00:00"
+      "updated_at": "2026-08-03T21:54:51.328198+00:00"
     },
     "usdinr": {
       "price": 95.327,
@@ -344,16 +344,13 @@
         95.3270034790039
       ],
       "ok": true,
-      "updated_at": "2026-08-03T20:53:14.349715+00:00"
+      "updated_at": "2026-08-03T21:54:51.386899+00:00"
     },
     "gold": {
-      "price": 4113.0,
-      "change": 6.0,
-      "pct": 0.1461,
+      "price": 4110.9,
+      "change": 20.4,
+      "pct": 0.4987,
       "closes": [
-        4093.5,
-        4091.60009765625,
-        4091.89990234375,
         4090.699951171875,
         4091.800048828125,
         4091.199951171875,
@@ -410,19 +407,19 @@
         4113.39990234375,
         4113.60009765625,
         4112.39990234375,
-        4113.0
+        4112.60009765625,
+        4111.2001953125,
+        4110.89990234375,
+        4110.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-03T20:53:14.414947+00:00"
+      "updated_at": "2026-08-03T21:54:51.447378+00:00"
     },
     "crude": {
-      "price": 79.94,
-      "change": -4.73,
-      "pct": -5.5864,
+      "price": 80.06,
+      "change": -0.28,
+      "pct": -0.3485,
       "closes": [
-        79.6500015258789,
-        79.63999938964844,
-        79.66000366210938,
         79.62999725341797,
         79.70999908447266,
         79.62999725341797,
@@ -479,10 +476,13 @@
         79.95999908447266,
         79.98999786376953,
         79.95999908447266,
-        79.94000244140625
+        80.05000305175781,
+        80.05000305175781,
+        80.05999755859375,
+        80.05999755859375
       ],
       "ok": true,
-      "updated_at": "2026-08-03T20:53:14.512002+00:00"
+      "updated_at": "2026-08-03T21:54:51.493843+00:00"
     },
     "us10y": {
       "price": 4.686,
@@ -551,13 +551,13 @@
         4.685999870300293
       ],
       "ok": true,
-      "updated_at": "2026-08-03T20:53:14.571152+00:00"
+      "updated_at": "2026-08-03T21:54:51.568614+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-03T20:53:14.768866+00:00",
+      "updated_at": "2026-08-03T21:54:51.701560+00:00",
       "items": [
         {
           "title": "Kansai Nerolac Q1 profit rises 5%; approves Rs 601 crore capacity expansion",
@@ -794,8 +794,28 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-03T20:53:14.992779+00:00",
+      "updated_at": "2026-08-03T21:54:51.907164+00:00",
       "items": [
+        {
+          "title": "Citadel Securities’ Shah Says Markets Questioning Warsh’s Plans",
+          "link": "https://www.livemint.com/market/citadel-securities-shah-says-markets-questioning-warsh-s-plans-11785793560949.html",
+          "pubDate": "2026-08-04T03:16:00+05:30"
+        },
+        {
+          "title": "Yen surges to three-month peak, dollar pares losses after intervention",
+          "link": "https://www.livemint.com/market/yen-surges-to-three-month-peak-dollar-pares-losses-after-intervention-11785792603276.html",
+          "pubDate": "2026-08-04T03:00:02+05:30"
+        },
+        {
+          "title": "Yen Holds Steady in US Hours After Speculation of Intervention",
+          "link": "https://www.livemint.com/market/yen-holds-steady-in-us-hours-after-speculation-of-intervention-11785792595897.html",
+          "pubDate": "2026-08-04T02:59:55+05:30"
+        },
+        {
+          "title": "Oil drops, stocks gain amid Iran peace hopes; yen firms as investors watch for further intervention",
+          "link": "https://www.livemint.com/market/oil-drops-stocks-gain-amid-iran-peace-hopes-yen-firms-as-investors-watch-for-further-intervention-11785792593711.html",
+          "pubDate": "2026-08-04T02:59:53+05:30"
+        },
         {
           "title": "Wall Street rallies, Dow closes at record on Iran talks optimism",
           "link": "https://www.livemint.com/market/wall-street-rallies-dow-closes-at-record-on-iran-talks-optimism-11785787392771.html",
@@ -925,26 +945,6 @@
           "title": "Eternal vs Swiggy: Which food delivery stock to buy after Q1 results 2026?",
           "link": "https://www.livemint.com/market/stock-market-news/eternal-vs-swiggy-which-food-delivery-stock-to-buy-after-q1-results-2026-11785735661456.html",
           "pubDate": "2026-08-03T11:52:32+05:30"
-        },
-        {
-          "title": "Manipal Health Enterprises IPO allotment in focus today; latest GMP, step-by-step guide to check status",
-          "link": "https://www.livemint.com/market/ipo/manipal-health-enterprises-ipo-gmp-manipal-health-enterprises-ipo-allotment-manipal-health-enterprises-ipo-subscription-11785733657222.html",
-          "pubDate": "2026-08-03T11:03:27+05:30"
-        },
-        {
-          "title": "H R Hygiene Products IPO share allotment in focus today; GMP, steps to check status",
-          "link": "https://www.livemint.com/market/ipo/h-r-hygiene-products-ipo-share-allotment-in-focus-today-gmp-steps-to-check-status-11785733139620.html",
-          "pubDate": "2026-08-03T10:57:51+05:30"
-        },
-        {
-          "title": "Juniper Green Energy IPO Day 3: Issue subscribed 3.08x so far. Check GMP, key dates. Should you apply or not?",
-          "link": "https://www.livemint.com/market/ipo/juniper-green-energy-ipo-gmp-juniper-green-energy-ipo-date-juniper-green-energy-ipo-review-juniper-green-energy-ipo-11785731945387.html",
-          "pubDate": "2026-08-03T10:30:10+05:30"
-        },
-        {
-          "title": "ITC share price rallies 4% despite a drop in Q1 profit. Should you buy, sell FMCG stock after Q1 results 2026?",
-          "link": "https://www.livemint.com/market/stock-market-news/itc-share-price-rallies-4-despite-a-drop-in-q1-profit-should-you-buy-sell-fmcg-stock-after-q1-results-2026-11785732198236.html",
-          "pubDate": "2026-08-03T10:25:44+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-03T20:53:16.093912+00:00",
+      "updated_at": "2026-08-03T21:54:52.924473+00:00",
       "items": [
         {
           "title": "Processing of Applications Received Under the Citizen’s Charter - Status as on July 31, 2026",

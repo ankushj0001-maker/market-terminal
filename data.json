@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T16:44:34.457501+00:00",
+  "generated_at": "2026-08-04T18:17:58.944790+00:00",
   "indices": {
     "nifty50": {
       "price": 24614.9,
@@ -68,7 +68,7 @@
         24614.900390625
       ],
       "ok": true,
-      "updated_at": "2026-08-04T16:44:31.779039+00:00"
+      "updated_at": "2026-08-04T18:17:56.841680+00:00"
     },
     "sensex": {
       "price": 78428.95,
@@ -137,7 +137,7 @@
         78428.953125
       ],
       "ok": true,
-      "updated_at": "2026-08-04T16:44:31.865434+00:00"
+      "updated_at": "2026-08-04T18:17:56.879060+00:00"
     },
     "banknifty": {
       "price": 57907.2,
@@ -206,7 +206,7 @@
         57907.19921875
       ],
       "ok": true,
-      "updated_at": "2026-08-04T16:44:31.982048+00:00"
+      "updated_at": "2026-08-04T18:17:56.919575+00:00"
     },
     "vix": {
       "price": 12.19,
@@ -275,16 +275,13 @@
         12.1899995803833
       ],
       "ok": true,
-      "updated_at": "2026-08-04T16:44:32.065933+00:00"
+      "updated_at": "2026-08-04T18:17:56.961888+00:00"
     },
     "usdinr": {
-      "price": 95.368,
-      "change": 0.041,
-      "pct": 0.043,
+      "price": 95.37,
+      "change": 0.043,
+      "pct": 0.0451,
       "closes": [
-        95.33000183105469,
-        95.3324966430664,
-        95.3375015258789,
         95.34750366210938,
         95.33499908447266,
         95.33999633789062,
@@ -341,35 +338,19 @@
         95.36799621582031,
         95.36799621582031,
         95.36799621582031,
-        95.36799621582031
+        95.36799621582031,
+        95.36799621582031,
+        95.37000274658203,
+        95.37000274658203
       ],
       "ok": true,
-      "updated_at": "2026-08-04T16:44:32.411670+00:00"
+      "updated_at": "2026-08-04T18:17:57.016578+00:00"
     },
     "gold": {
-      "price": 4145.1,
-      "change": 54.6,
-      "pct": 1.3348,
+      "price": 4145.3,
+      "change": 54.8,
+      "pct": 1.3397,
       "closes": [
-        4126.5,
-        4133.60009765625,
-        4132.89990234375,
-        4132.10009765625,
-        4125.39990234375,
-        4120.5,
-        4118.7001953125,
-        4122.39990234375,
-        4123.39990234375,
-        4124.7998046875,
-        4133.2001953125,
-        4139.2998046875,
-        4135.10009765625,
-        4133.0,
-        4130.7998046875,
-        4127.7998046875,
-        4121.0,
-        4121.2001953125,
-        4120.7998046875,
         4120.2001953125,
         4138.39990234375,
         4135.39990234375,
@@ -410,35 +391,35 @@
         4144.10009765625,
         4144.7001953125,
         4145.0,
-        4145.10009765625
+        4142.7001953125,
+        4146.0,
+        4149.7998046875,
+        4148.0,
+        4150.39990234375,
+        4159.39990234375,
+        4157.10009765625,
+        4157.10009765625,
+        4154.7001953125,
+        4157.2998046875,
+        4151.89990234375,
+        4150.60009765625,
+        4152.0,
+        4152.60009765625,
+        4150.7001953125,
+        4146.2998046875,
+        4143.10009765625,
+        4143.7001953125,
+        4144.5,
+        4145.2998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-04T16:44:32.480830+00:00"
+      "updated_at": "2026-08-04T18:17:57.086372+00:00"
     },
     "crude": {
-      "price": 76.18,
-      "change": -4.16,
-      "pct": -5.178,
+      "price": 75.73,
+      "change": -4.61,
+      "pct": -5.7381,
       "closes": [
-        78.55000305175781,
-        78.02999877929688,
-        77.26000213623047,
-        76.66999816894531,
-        77.41000366210938,
-        77.58999633789062,
-        77.97000122070312,
-        77.75,
-        77.98999786376953,
-        77.9000015258789,
-        77.7300033569336,
-        77.86000061035156,
-        77.93000030517578,
-        77.79000091552734,
-        77.41999816894531,
-        77.51000213623047,
-        77.7300033569336,
-        77.62000274658203,
-        77.48999786376953,
         77.54000091552734,
         76.69000244140625,
         76.45999908447266,
@@ -479,26 +460,35 @@
         75.95999908447266,
         76.0199966430664,
         76.19000244140625,
-        76.18000030517578
+        76.13999938964844,
+        76.0999984741211,
+        76.26000213623047,
+        76.16000366210938,
+        76.19999694824219,
+        76.02999877929688,
+        76.0199966430664,
+        75.5999984741211,
+        75.93000030517578,
+        75.87000274658203,
+        75.94000244140625,
+        75.69000244140625,
+        75.66000366210938,
+        75.62000274658203,
+        75.72000122070312,
+        75.77999877929688,
+        75.88999938964844,
+        75.87999725341797,
+        75.79000091552734,
+        75.7300033569336
       ],
       "ok": true,
-      "updated_at": "2026-08-04T16:44:32.521705+00:00"
+      "updated_at": "2026-08-04T18:17:57.179981+00:00"
     },
     "us10y": {
-      "price": 4.623,
-      "change": -0.063,
-      "pct": -1.3444,
+      "price": 4.631,
+      "change": -0.055,
+      "pct": -1.1737,
       "closes": [
-        4.664999961853027,
-        4.668000221252441,
-        4.668000221252441,
-        4.658999919891357,
-        4.658999919891357,
-        4.6610002517700195,
-        4.658999919891357,
-        4.658999919891357,
-        4.663000106811523,
-        4.664999961853027,
         4.6610002517700195,
         4.6610002517700195,
         4.644999980926514,
@@ -539,16 +529,35 @@
         4.623000144958496,
         4.620999813079834,
         4.623000144958496,
-        4.623000144958496
+        4.626999855041504,
+        4.63100004196167,
+        4.629000186920166,
+        4.629000186920166,
+        4.629000186920166,
+        4.626999855041504,
+        4.626999855041504,
+        4.626999855041504,
+        4.626999855041504,
+        4.63100004196167,
+        4.633000373840332,
+        4.63100004196167,
+        4.63100004196167,
+        4.626999855041504,
+        4.626999855041504,
+        4.629000186920166,
+        4.626999855041504,
+        4.629000186920166,
+        4.63100004196167,
+        4.63100004196167
       ],
       "ok": true,
-      "updated_at": "2026-08-04T16:44:32.625067+00:00"
+      "updated_at": "2026-08-04T18:17:57.218846+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-04T16:44:32.815075+00:00",
+      "updated_at": "2026-08-04T18:17:57.356508+00:00",
       "items": [
         {
           "title": "BSE Q1 Results: Profit soars 62% YoY to Rs 874 crore, revenue surges 63%",
@@ -704,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-04T16:44:32.956209+00:00",
+      "updated_at": "2026-08-04T18:17:57.458859+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -785,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-04T16:44:33.289116+00:00",
+      "updated_at": "2026-08-04T18:17:57.595828+00:00",
       "items": [
+        {
+          "title": "Gold, silver prices today: Comex gold jumps $61, silver tops $60 on US-Iran de-escalation hopes",
+          "link": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-jumps-61-silver-tops-60-on-us-iran-de-escalation-hopes-11785863108924.html",
+          "pubDate": "2026-08-04T22:53:38+05:30"
+        },
+        {
+          "title": "Palantir climbs 27% on 'otherworldly' AI demand; Karp tells shareholders business has 'Marxist' values",
+          "link": "https://www.livemint.com/market/stock-market-news/palantir-climbs-27-on-otherworldly-ai-demand-karp-tells-shareholders-business-has-marxist-values-11785861835803.html",
+          "pubDate": "2026-08-04T22:41:32+05:30"
+        },
         {
           "title": "SpaceX faces its first earnings test after a turbulent IPO debut; expert says, ‘have very little confidence’",
           "link": "https://www.livemint.com/market/stock-market-news/spacex-faces-its-first-earnings-test-after-a-turbulent-ipo-debut-expert-says-have-very-little-confidence-11785859718961.html",
@@ -926,16 +945,6 @@
           "title": "Multibagger stock Ather Energy share price soars 18% to record high post Q1 FY27 results: Should you buy?",
           "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-ather-energy-share-price-soars-18-to-record-high-post-q1-fy27-results-should-you-buy-11785824415092.html",
           "pubDate": "2026-08-04T11:58:25+05:30"
-        },
-        {
-          "title": "Technocraft Ventures IPO: GMP signals modest listing pop; 10 key things to know from RHP ahead of issue launch on Friday",
-          "link": "https://www.livemint.com/market/ipo/technocraft-ventures-ipo-gmp-signals-modest-listing-pop-10-key-things-to-know-from-rhp-ahead-of-issue-launch-on-friday-11785820133085.html",
-          "pubDate": "2026-08-04T11:30:32+05:30"
-        },
-        {
-          "title": "DIIs tighten grip on Indian equities, raise holding across healthcare, auto, capital goods",
-          "link": "https://www.livemint.com/market/stock-market-news/diis-dii-investments-india-domestic-growth-sectors-nifty-500-11785778652963.html",
-          "pubDate": "2026-08-04T11:21:35+05:30"
         }
       ]
     },
@@ -946,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-04T16:44:34.457486+00:00",
+      "updated_at": "2026-08-04T18:17:58.944775+00:00",
       "items": [
         {
           "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Pusad Urban Co-operative Bank Ltd., Pusad, Dist. Yavatmal,  Maharashtra – Extension of Period",

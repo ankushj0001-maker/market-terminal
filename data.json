@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T12:15:43.377305+00:00",
+  "generated_at": "2026-08-04T14:55:32.008793+00:00",
   "indices": {
     "nifty50": {
       "price": 24614.9,
@@ -68,7 +68,7 @@
         24614.900390625
       ],
       "ok": true,
-      "updated_at": "2026-08-04T12:15:41.609634+00:00"
+      "updated_at": "2026-08-04T14:55:30.206857+00:00"
     },
     "sensex": {
       "price": 78428.95,
@@ -137,7 +137,7 @@
         78428.953125
       ],
       "ok": true,
-      "updated_at": "2026-08-04T12:15:41.661872+00:00"
+      "updated_at": "2026-08-04T14:55:30.250692+00:00"
     },
     "banknifty": {
       "price": 57907.2,
@@ -206,7 +206,7 @@
         57907.19921875
       ],
       "ok": true,
-      "updated_at": "2026-08-04T12:15:41.704152+00:00"
+      "updated_at": "2026-08-04T14:55:30.645848+00:00"
     },
     "vix": {
       "price": 12.19,
@@ -275,14 +275,13 @@
         12.1899995803833
       ],
       "ok": true,
-      "updated_at": "2026-08-04T12:15:41.748471+00:00"
+      "updated_at": "2026-08-04T14:55:30.689445+00:00"
     },
     "usdinr": {
-      "price": 95.3775,
-      "change": 0.0505,
-      "pct": 0.053,
+      "price": 95.368,
+      "change": 0.041,
+      "pct": 0.043,
       "closes": [
-        95.30500030517578,
         95.30750274658203,
         95.29499816894531,
         95.30500030517578,
@@ -341,48 +340,17 @@
         95.37999725341797,
         95.37999725341797,
         95.37750244140625,
-        95.37750244140625
+        95.36799621582031,
+        95.36799621582031
       ],
       "ok": true,
-      "updated_at": "2026-08-04T12:15:41.792028+00:00"
+      "updated_at": "2026-08-04T14:55:30.751229+00:00"
     },
     "gold": {
-      "price": 4126.3,
-      "change": 35.8,
-      "pct": 0.8752,
+      "price": 4136.4,
+      "change": 45.9,
+      "pct": 1.1221,
       "closes": [
-        4119.5,
-        4121.60009765625,
-        4119.0,
-        4120.7998046875,
-        4119.10009765625,
-        4119.2001953125,
-        4120.2001953125,
-        4121.10009765625,
-        4121.7998046875,
-        4126.2001953125,
-        4126.0,
-        4124.2001953125,
-        4123.2001953125,
-        4119.0,
-        4119.5,
-        4118.7001953125,
-        4115.10009765625,
-        4115.2001953125,
-        4112.10009765625,
-        4112.0,
-        4110.7998046875,
-        4108.89990234375,
-        4107.0,
-        4106.5,
-        4106.39990234375,
-        4106.2001953125,
-        4105.89990234375,
-        4105.39990234375,
-        4103.39990234375,
-        4106.10009765625,
-        4106.10009765625,
-        4103.89990234375,
         4105.10009765625,
         4105.60009765625,
         4103.2001953125,
@@ -410,48 +378,48 @@
         4132.10009765625,
         4125.39990234375,
         4120.5,
-        4126.2998046875
+        4118.7001953125,
+        4122.39990234375,
+        4123.39990234375,
+        4124.7998046875,
+        4133.2001953125,
+        4139.2998046875,
+        4135.10009765625,
+        4133.0,
+        4130.7998046875,
+        4127.7998046875,
+        4121.0,
+        4121.2001953125,
+        4120.7998046875,
+        4120.2001953125,
+        4138.39990234375,
+        4135.39990234375,
+        4139.7998046875,
+        4145.2001953125,
+        4140.39990234375,
+        4149.7998046875,
+        4143.7001953125,
+        4140.7001953125,
+        4145.2998046875,
+        4147.10009765625,
+        4147.2001953125,
+        4140.2998046875,
+        4138.60009765625,
+        4140.39990234375,
+        4134.60009765625,
+        4136.0,
+        4137.0,
+        4137.60009765625,
+        4136.39990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-04T12:15:41.842635+00:00"
+      "updated_at": "2026-08-04T14:55:30.790596+00:00"
     },
     "crude": {
-      "price": 77.47,
-      "change": -2.87,
-      "pct": -3.5723,
+      "price": 76.79,
+      "change": -3.55,
+      "pct": -4.4187,
       "closes": [
-        80.51000213623047,
-        80.79000091552734,
-        80.95999908447266,
-        80.93000030517578,
-        80.83000183105469,
-        80.88999938964844,
-        80.79000091552734,
-        80.83000183105469,
-        80.73999786376953,
-        80.63999938964844,
-        80.87000274658203,
-        80.7699966430664,
-        80.73999786376953,
-        80.80000305175781,
-        80.77999877929688,
-        81.33000183105469,
-        81.37000274658203,
-        81.6500015258789,
-        81.88999938964844,
-        82.22000122070312,
-        82.0999984741211,
-        82.08000183105469,
-        82.12000274658203,
-        82.22000122070312,
-        82.08999633789062,
-        82.16999816894531,
-        82.05000305175781,
-        81.91000366210938,
-        81.7699966430664,
-        82.06999969482422,
-        82.08000183105469,
-        82.26000213623047,
         81.8499984741211,
         81.73999786376953,
         81.66999816894531,
@@ -479,85 +447,86 @@
         76.66999816894531,
         77.41000366210938,
         77.58999633789062,
-        77.47000122070312
+        77.97000122070312,
+        77.75,
+        77.98999786376953,
+        77.9000015258789,
+        77.7300033569336,
+        77.86000061035156,
+        77.93000030517578,
+        77.79000091552734,
+        77.41999816894531,
+        77.51000213623047,
+        77.7300033569336,
+        77.62000274658203,
+        77.48999786376953,
+        77.54000091552734,
+        76.69000244140625,
+        76.45999908447266,
+        76.54000091552734,
+        75.98999786376953,
+        76.33999633789062,
+        76.18000030517578,
+        75.97000122070312,
+        75.97000122070312,
+        76.23999786376953,
+        76.01000213623047,
+        75.98999786376953,
+        76.12000274658203,
+        76.13999938964844,
+        76.45999908447266,
+        76.62000274658203,
+        76.68000030517578,
+        76.83000183105469,
+        76.69000244140625,
+        76.79000091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-04T12:15:41.882975+00:00"
+      "updated_at": "2026-08-04T14:55:30.846345+00:00"
     },
     "us10y": {
-      "price": 4.686,
-      "change": -0.059,
-      "pct": -1.2434,
+      "price": 4.639,
+      "change": -0.047,
+      "pct": -1.003,
       "closes": [
-        4.691999912261963,
-        4.691999912261963,
-        4.684000015258789,
-        4.684000015258789,
-        4.682000160217285,
-        4.682000160217285,
-        4.684000015258789,
-        4.684000015258789,
-        4.684000015258789,
-        4.685999870300293,
-        4.684000015258789,
-        4.684000015258789,
-        4.685999870300293,
-        4.688000202178955,
-        4.688000202178955,
-        4.688000202178955,
-        4.684000015258789,
-        4.690000057220459,
-        4.688000202178955,
-        4.679999828338623,
-        4.679999828338623,
-        4.679999828338623,
-        4.688000202178955,
-        4.690000057220459,
-        4.688000202178955,
-        4.688000202178955,
-        4.690000057220459,
-        4.688000202178955,
-        4.688000202178955,
-        4.688000202178955,
-        4.690000057220459,
-        4.690000057220459,
-        4.690000057220459,
-        4.691999912261963,
-        4.690000057220459,
-        4.690000057220459,
-        4.688000202178955,
-        4.688000202178955,
-        4.690000057220459,
-        4.690000057220459,
-        4.688000202178955,
-        4.688000202178955,
-        4.690000057220459,
-        4.688000202178955,
-        4.685999870300293,
-        4.688000202178955,
-        4.688000202178955,
-        4.688000202178955,
-        4.685999870300293,
-        4.685999870300293,
-        4.685999870300293,
-        4.684000015258789,
-        4.684000015258789,
-        4.688000202178955,
-        4.688000202178955,
-        4.690000057220459,
-        4.688000202178955,
-        4.685999870300293,
-        4.685999870300293,
-        4.685999870300293
+        4.664999961853027,
+        4.668000221252441,
+        4.668000221252441,
+        4.658999919891357,
+        4.658999919891357,
+        4.6610002517700195,
+        4.658999919891357,
+        4.658999919891357,
+        4.663000106811523,
+        4.664999961853027,
+        4.6610002517700195,
+        4.6610002517700195,
+        4.644999980926514,
+        4.63700008392334,
+        4.638999938964844,
+        4.634999752044678,
+        4.63700008392334,
+        4.634999752044678,
+        4.63700008392334,
+        4.63700008392334,
+        4.640999794006348,
+        4.638999938964844,
+        4.640999794006348,
+        4.640999794006348,
+        4.638999938964844,
+        4.638999938964844,
+        4.64300012588501,
+        4.638999938964844,
+        4.638999938964844
       ],
       "ok": true,
-      "updated_at": "2026-08-04T12:15:41.930937+00:00"
+      "updated_at": "2026-08-04T14:55:30.918931+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-04T12:15:42.101926+00:00",
+      "updated_at": "2026-08-04T14:55:31.015553+00:00",
       "items": [
         {
           "title": "Ather Energy share price target goes up to Rs 1,714. What are CLSA, Nomura, and HSBC saying?",
@@ -713,7 +682,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-04T12:15:42.198522+00:00",
+      "updated_at": "2026-08-04T14:55:31.046436+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,10 +763,35 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-04T12:15:42.285525+00:00",
+      "updated_at": "2026-08-04T14:55:31.183259+00:00",
       "items": [
         {
-          "title": "Bharti Airtel Q1 Results: Profit climbs on higher subscriber upgrades, robust data usage",
+          "title": "Ardee Industries raises  ₹128 crore from anchor investors ahead of IPO launch on Wednesday",
+          "link": "https://www.livemint.com/market/stock-market-news/ardee-industries-raises-rs-128-crore-from-anchor-investors-ahead-of-ipo-launch-on-wednesday-11785853752557.html",
+          "pubDate": "2026-08-04T20:19:54+05:30"
+        },
+        {
+          "title": "Institutional investors over subscribe LIC OFS, bid  ₹36,400 crore, retail offer in 6.5% stake sale begins tomorrow",
+          "link": "https://www.livemint.com/market/stock-market-news/lic-6-5-pc-stake-institutional-investors-oversubscribe-ofs-bid-36400-crore-retail-offer-for-share-sale-tomorrow-5-august-11785849549611.html",
+          "pubDate": "2026-08-04T19:28:59+05:30"
+        },
+        {
+          "title": "Nykaa Q1 Results: Net profit surges over threefold to  ₹80 crore on strong beauty demand",
+          "link": "https://www.livemint.com/market/stock-market-news/nykaa-q1-results-net-profit-surges-over-threefold-to-rs-80-crore-on-strong-beauty-demand-11785848895992.html",
+          "pubDate": "2026-08-04T19:13:12+05:30"
+        },
+        {
+          "title": "Closing Auction Session debuts successfully; BSE, NSE report strong participation",
+          "link": "https://www.livemint.com/market/stock-market-news/closing-auction-session-debuts-successfully-bse-nse-report-strong-participation-11785849028888.html",
+          "pubDate": "2026-08-04T19:09:03+05:30"
+        },
+        {
+          "title": "Kalyan Jewellers Q1 Results: Net profit jumps 32% YoY to  ₹349 crore; margins contract",
+          "link": "https://www.livemint.com/market/kalyan-jewellers-q1-results-net-profit-jumps-32-yoy-to-rs-349-crore-margins-contract-11785845252707.html",
+          "pubDate": "2026-08-04T17:57:02+05:30"
+        },
+        {
+          "title": "Bharti Airtel beats Q1 revenue estimates as premium users drive growth",
           "link": "https://www.livemint.com/market/stock-market-news/bharti-airtel-q1-results-net-profit-rises-37-yoy-to-rs-8-167-crore-revenue-jumps-18-11785842962022.html",
           "pubDate": "2026-08-04T17:07:16+05:30"
         },
@@ -920,31 +914,6 @@
           "title": "Poojaa Precision IPO listing: Shares list at a 56% premium to the issue price",
           "link": "https://www.livemint.com/market/ipo/poojaa-precision-ipo-listing-shares-list-at-a-56-premium-to-the-issue-price-11785817719669.html",
           "pubDate": "2026-08-04T10:03:24+05:30"
-        },
-        {
-          "title": "Oneindig Technologies IPO allotment to be finalised today: GMP, steps to check allotment status online for SME IPO",
-          "link": "https://www.livemint.com/market/ipo/oneindig-technologies-ipo-allotment-to-be-finalised-today-ipo-gmp-steps-to-check-allotment-status-online-for-sme-ipo-11785814952122.html",
-          "pubDate": "2026-08-04T09:33:39+05:30"
-        },
-        {
-          "title": "LIC OFS: Shares crash 8% as offer for sale opens for non-retail investors. Details here",
-          "link": "https://www.livemint.com/market/stock-market-news/lic-share-price-crashes-8-as-ofs-opens-for-non-retail-investors-details-here-11785815112599.html",
-          "pubDate": "2026-08-04T09:28:48+05:30"
-        },
-        {
-          "title": "Gold Holds Steady With US-Iran Standoff and Fed Outlook in Focus",
-          "link": "https://www.livemint.com/market/gold-holds-steady-with-us-iran-standoff-and-fed-outlook-in-focus-11785815223644.html",
-          "pubDate": "2026-08-04T09:17:03+05:30"
-        },
-        {
-          "title": "Gold Steady as Middle East Talks Weigh on Interest Rate Outlook",
-          "link": "https://www.livemint.com/market/gold-steady-as-middle-east-talks-weigh-on-interest-rate-outlook-11785815218115.html",
-          "pubDate": "2026-08-04T09:16:57+05:30"
-        },
-        {
-          "title": "Rupee opens flat at 95.33 against US dollar",
-          "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-flat-at-95-33-against-us-dollar-11785814636029.html",
-          "pubDate": "2026-08-04T09:08:55+05:30"
         }
       ]
     },
@@ -955,7 +924,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-04T12:15:43.377288+00:00",
+      "updated_at": "2026-08-04T14:55:32.008776+00:00",
       "items": [
         {
           "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Pusad Urban Co-operative Bank Ltd., Pusad, Dist. Yavatmal,  Maharashtra – Extension of Period",

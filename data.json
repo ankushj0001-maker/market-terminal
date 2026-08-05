@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T17:07:33.115922+00:00",
+  "generated_at": "2026-08-05T18:45:56.386022+00:00",
   "indices": {
     "nifty50": {
       "price": 24624.65,
@@ -68,7 +68,7 @@
         24624.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-05T17:07:31.416300+00:00"
+      "updated_at": "2026-08-05T18:45:54.621788+00:00"
     },
     "sensex": {
       "price": 78581.0,
@@ -137,7 +137,7 @@
         78581.0
       ],
       "ok": true,
-      "updated_at": "2026-08-05T17:07:31.462469+00:00"
+      "updated_at": "2026-08-05T18:45:54.664015+00:00"
     },
     "banknifty": {
       "price": 57739.95,
@@ -206,7 +206,7 @@
         57739.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-05T17:07:31.504149+00:00"
+      "updated_at": "2026-08-05T18:45:54.719743+00:00"
     },
     "vix": {
       "price": 12.06,
@@ -275,16 +275,13 @@
         12.0600004196167
       ],
       "ok": true,
-      "updated_at": "2026-08-05T17:07:31.564986+00:00"
+      "updated_at": "2026-08-05T18:45:54.775473+00:00"
     },
     "usdinr": {
-      "price": 95.107,
-      "change": -0.261,
-      "pct": -0.2737,
+      "price": 95.11,
+      "change": -0.258,
+      "pct": -0.2705,
       "closes": [
-        95.11499786376953,
-        95.11299896240234,
-        95.08999633789062,
         95.11799621582031,
         95.12249755859375,
         95.12999725341797,
@@ -341,36 +338,19 @@
         95.10700225830078,
         95.10700225830078,
         95.10700225830078,
-        95.10700225830078
+        95.10700225830078,
+        95.10700225830078,
+        95.11000061035156,
+        95.11000061035156
       ],
       "ok": true,
-      "updated_at": "2026-08-05T17:07:31.614265+00:00"
+      "updated_at": "2026-08-05T18:45:54.817910+00:00"
     },
     "gold": {
-      "price": 4299.7,
-      "change": 147.1,
-      "pct": 3.5424,
+      "price": 4316.9,
+      "change": 164.3,
+      "pct": 3.9566,
       "closes": [
-        4257.5,
-        4258.2998046875,
-        4265.0,
-        4271.10009765625,
-        4265.10009765625,
-        4259.5,
-        4260.5,
-        4254.60009765625,
-        4254.0,
-        4247.5,
-        4244.10009765625,
-        4254.39990234375,
-        4254.2001953125,
-        4247.60009765625,
-        4250.39990234375,
-        4254.7001953125,
-        4257.39990234375,
-        4262.2998046875,
-        4260.89990234375,
-        4257.60009765625,
         4252.89990234375,
         4260.2998046875,
         4265.7998046875,
@@ -410,36 +390,36 @@
         4302.7998046875,
         4305.10009765625,
         4302.7998046875,
-        4299.7001953125
+        4303.60009765625,
+        4302.0,
+        4302.39990234375,
+        4299.0,
+        4300.5,
+        4305.0,
+        4308.2998046875,
+        4310.39990234375,
+        4308.5,
+        4309.39990234375,
+        4309.89990234375,
+        4311.0,
+        4313.7998046875,
+        4316.2998046875,
+        4314.0,
+        4317.7998046875,
+        4323.7998046875,
+        4323.7998046875,
+        4315.2998046875,
+        4317.7998046875,
+        4316.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-05T17:07:31.667260+00:00"
+      "updated_at": "2026-08-05T18:45:54.865458+00:00"
     },
     "crude": {
-      "price": 74.97,
-      "change": -0.8,
-      "pct": -1.0558,
+      "price": 75.33,
+      "change": -0.44,
+      "pct": -0.5807,
       "closes": [
-        76.12999725341797,
-        75.91000366210938,
-        75.9800033569336,
-        76.0,
-        76.37000274658203,
-        76.27999877929688,
-        76.38999938964844,
-        76.25,
-        76.08999633789062,
-        76.2699966430664,
-        76.5199966430664,
-        75.83000183105469,
-        75.86000061035156,
-        75.80999755859375,
-        75.80000305175781,
-        75.83999633789062,
-        75.8499984741211,
-        75.58000183105469,
-        75.22000122070312,
-        75.44000244140625,
         75.41999816894531,
         75.29000091552734,
         75.5,
@@ -479,31 +459,36 @@
         75.06999969482422,
         74.87999725341797,
         74.91000366210938,
-        74.97000122070312
+        74.91000366210938,
+        74.81999969482422,
+        74.69000244140625,
+        74.52999877929688,
+        74.56999969482422,
+        74.52999877929688,
+        74.45999908447266,
+        74.58000183105469,
+        74.62999725341797,
+        74.63999938964844,
+        74.70999908447266,
+        74.87000274658203,
+        75.08000183105469,
+        75.0999984741211,
+        75.26000213623047,
+        75.33999633789062,
+        75.29000091552734,
+        75.18000030517578,
+        75.36000061035156,
+        75.29000091552734,
+        75.33000183105469
       ],
       "ok": true,
-      "updated_at": "2026-08-05T17:07:31.709765+00:00"
+      "updated_at": "2026-08-05T18:45:54.909678+00:00"
     },
     "us10y": {
-      "price": 4.631,
-      "change": 0.004,
-      "pct": 0.0864,
+      "price": 4.615,
+      "change": -0.012,
+      "pct": -0.2593,
       "closes": [
-        4.60699987411499,
-        4.61299991607666,
-        4.61899995803833,
-        4.61899995803833,
-        4.61899995803833,
-        4.620999813079834,
-        4.626999855041504,
-        4.63100004196167,
-        4.623000144958496,
-        4.623000144958496,
-        4.625,
-        4.626999855041504,
-        4.626999855041504,
-        4.63100004196167,
-        4.63100004196167,
         4.634999752044678,
         4.63100004196167,
         4.63700008392334,
@@ -544,17 +529,41 @@
         4.63100004196167,
         4.63100004196167,
         4.63100004196167,
-        4.63100004196167
+        4.63100004196167,
+        4.626999855041504,
+        4.629000186920166,
+        4.625,
+        4.620999813079834,
+        4.61899995803833,
+        4.615000247955322,
+        4.61299991607666,
+        4.615000247955322,
+        4.615000247955322,
+        4.616999626159668,
+        4.616999626159668,
+        4.61899995803833,
+        4.615000247955322,
+        4.61899995803833,
+        4.61899995803833,
+        4.616999626159668,
+        4.61899995803833,
+        4.616999626159668,
+        4.615000247955322
       ],
       "ok": true,
-      "updated_at": "2026-08-05T17:07:31.747334+00:00"
+      "updated_at": "2026-08-05T18:45:54.946584+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-05T17:07:31.919659+00:00",
+      "updated_at": "2026-08-05T18:45:55.117579+00:00",
       "items": [
+        {
+          "title": "SpaceX draws retail investors despite fall in shares post earnings",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-draws-retail-investors-despite-fall-in-shares-post-earnings/articleshow/132956840.cms",
+          "pubDate": "2026-08-05T23:16:27+05:30"
+        },
         {
           "title": "PB Fintech Q1 Results: Policybazaar parent's profit soars 92% to Rs 163 crore as insurance premium grows 41%",
           "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pb-fintech-q1-results-policybazaar-parents-profit-soars-92-to-rs-163-crore-as-insurance-premium-grows-41/articleshow/132942100.cms",
@@ -579,11 +588,6 @@
           "title": "MCX shares fall 4% after Q1 profit falls 22% QoQ to Rs 413 crore. What should investors do?",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-fall-4-after-q1-profit-falls-22-qoq-to-rs-413-crore-what-should-investors-do/articleshow/132900030.cms",
           "pubDate": "2026-08-05T12:33:21+05:30"
-        },
-        {
-          "title": "MapMyIndia shares drop 8% despite strong Q1 earnings; PAT jumps 8% YoY",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mapmyindia-shares-drop-8-despite-strong-q1-earnings-pat-jumps-8-yoy/articleshow/132897097.cms",
-          "pubDate": "2026-08-05T11:57:40+05:30"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -708,7 +712,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-05T17:07:32.004145+00:00",
       "items": [
         {
@@ -790,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-05T17:07:32.077719+00:00",
+      "updated_at": "2026-08-05T18:45:55.307289+00:00",
       "items": [
+        {
+          "title": "LIC share sale ends with partial retail subscription",
+          "link": "https://www.livemint.com/market/stock-market-news/lic-share-sale-ends-with-partial-retail-subscription-11785950528341.html",
+          "pubDate": "2026-08-05T22:54:53+05:30"
+        },
+        {
+          "title": "Gold, silver prices today: Comex gold jumps $173, silver hits $63 as US-Iran peace hopes lift sentiment",
+          "link": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-jumps-173-silver-hits-63-as-us-iran-peace-hopes-lift-sentiment-11785946064993.html",
+          "pubDate": "2026-08-05T22:48:41+05:30"
+        },
         {
           "title": "'CAS isn't a bad idea, but...': Why Nithin Kamath says India's closing auction is exposing deeper market cracks",
           "link": "https://www.livemint.com/market/stock-market-news/cas-isnt-a-bad-idea-but-nithin-kamath-says-indias-closing-auction-is-exposing-deeper-market-cracks-heres-why-11785946981171.html",
@@ -931,16 +945,6 @@
           "title": "Rate-sensitive stocks rise after RBI MPC outcome; Nifty Auto hits record high, Nifty Realty up over 2.5%",
           "link": "https://www.livemint.com/market/stock-market-news/rate-sensitive-stocks-rise-after-rbi-mpc-outcome-nifty-auto-hits-record-high-nifty-realty-up-over-25-11785910914631.html",
           "pubDate": "2026-08-05T12:04:56+05:30"
-        },
-        {
-          "title": "A new asset class seeks a slice of  ₹6 trillion arbitrage, balanced advantage funds market",
-          "link": "https://www.livemint.com/market/stock-market-news/hybrid-sifs-challenge-arbitrage-funds-balanced-advantage-funds-11785867861720.html",
-          "pubDate": "2026-08-05T12:04:01+05:30"
-        },
-        {
-          "title": "Sensex-Nifty 50 divergence persists after RBI policy decision: Here's what investors need to understand",
-          "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-divergence-persists-heres-what-investors-need-to-understand-11785909230271.html",
-          "pubDate": "2026-08-05T11:55:15+05:30"
         }
       ]
     },
@@ -951,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-05T17:07:33.115907+00:00",
+      "updated_at": "2026-08-05T18:45:56.386005+00:00",
       "items": [
         {
           "title": "RBI to conduct 4-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 06, 2026",

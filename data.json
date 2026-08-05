@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T20:19:05.503987+00:00",
+  "generated_at": "2026-08-05T21:39:09.363902+00:00",
   "indices": {
     "nifty50": {
       "price": 24624.65,
@@ -68,7 +68,7 @@
         24624.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-05T20:19:03.520443+00:00"
+      "updated_at": "2026-08-05T21:39:06.375247+00:00"
     },
     "sensex": {
       "price": 78581.0,
@@ -137,7 +137,7 @@
         78581.0
       ],
       "ok": true,
-      "updated_at": "2026-08-05T20:19:03.559618+00:00"
+      "updated_at": "2026-08-05T21:39:06.480774+00:00"
     },
     "banknifty": {
       "price": 57739.95,
@@ -206,7 +206,7 @@
         57739.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-05T20:19:03.601642+00:00"
+      "updated_at": "2026-08-05T21:39:06.579664+00:00"
     },
     "vix": {
       "price": 12.06,
@@ -275,14 +275,13 @@
         12.0600004196167
       ],
       "ok": true,
-      "updated_at": "2026-08-05T20:19:03.642993+00:00"
+      "updated_at": "2026-08-05T21:39:06.747213+00:00"
     },
     "usdinr": {
       "price": 95.107,
       "change": -0.261,
       "pct": -0.2737,
       "closes": [
-        95.12999725341797,
         95.125,
         95.12200164794922,
         95.12999725341797,
@@ -341,26 +340,17 @@
         95.11000061035156,
         95.10700225830078,
         95.10700225830078,
+        95.10700225830078,
         95.10700225830078
       ],
       "ok": true,
-      "updated_at": "2026-08-05T20:19:03.685391+00:00"
+      "updated_at": "2026-08-05T21:39:06.873549+00:00"
     },
     "gold": {
-      "price": 4308.2,
-      "change": 155.6,
-      "pct": 3.7471,
+      "price": 4308.0,
+      "change": 155.4,
+      "pct": 3.7422,
       "closes": [
-        4317.7998046875,
-        4320.2001953125,
-        4317.7001953125,
-        4315.39990234375,
-        4317.5,
-        4316.0,
-        4310.0,
-        4303.5,
-        4293.0,
-        4286.2001953125,
         4295.7001953125,
         4294.60009765625,
         4294.0,
@@ -410,26 +400,26 @@
         4307.60009765625,
         4309.2998046875,
         4308.39990234375,
-        4308.2001953125
+        4310.10009765625,
+        4307.10009765625,
+        4307.7998046875,
+        4306.60009765625,
+        4310.2001953125,
+        4307.39990234375,
+        4306.2998046875,
+        4305.10009765625,
+        4305.0,
+        4308.0,
+        4308.0
       ],
       "ok": true,
-      "updated_at": "2026-08-05T20:19:03.728206+00:00"
+      "updated_at": "2026-08-05T21:39:07.012845+00:00"
     },
     "crude": {
-      "price": 74.93,
-      "change": -0.84,
-      "pct": -1.1086,
+      "price": 75.08,
+      "change": -0.69,
+      "pct": -0.9107,
       "closes": [
-        75.6500015258789,
-        75.36000061035156,
-        75.16000366210938,
-        75.31999969482422,
-        75.12000274658203,
-        75.23999786376953,
-        75.44999694824219,
-        75.56999969482422,
-        75.58999633789062,
-        75.75,
         75.58000183105469,
         75.56999969482422,
         75.66999816894531,
@@ -479,10 +469,20 @@
         75.18000030517578,
         74.9800033569336,
         74.93000030517578,
-        74.93000030517578
+        75.0,
+        75.06999969482422,
+        75.02999877929688,
+        75.08000183105469,
+        74.95999908447266,
+        74.95999908447266,
+        75.0,
+        75.06999969482422,
+        75.02999877929688,
+        75.05999755859375,
+        75.08000183105469
       ],
       "ok": true,
-      "updated_at": "2026-08-05T20:19:03.795894+00:00"
+      "updated_at": "2026-08-05T21:39:07.148316+00:00"
     },
     "us10y": {
       "price": 4.617,
@@ -551,14 +551,19 @@
         4.616999626159668
       ],
       "ok": true,
-      "updated_at": "2026-08-05T20:19:03.838706+00:00"
+      "updated_at": "2026-08-05T21:39:07.251224+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-05T20:19:04.143920+00:00",
+      "updated_at": "2026-08-05T21:39:07.415638+00:00",
       "items": [
+        {
+          "title": "US stocks: Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-closes-at-record-on-mideast-optimism-spacex-amd-drag-nasdaq/articleshow/132970250.cms",
+          "pubDate": "2026-08-06T01:41:04+05:30"
+        },
         {
           "title": "US stocks: Alphabet shares fall 4% as DeepMind chief shifts role in Google’s AI shakeup",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-alphabet-shares-fall-4-as-deepmind-chief-shifts-role-in-googles-ai-shakeup/articleshow/132967508.cms",
@@ -583,11 +588,6 @@
           "title": "QSR stocks near turning point as risk-reward turns favorable, says Motilal Oswal",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/qsr-stocks-near-turning-point-as-risk-reward-turns-favorable-says-motilal-oswal/articleshow/132901657.cms",
           "pubDate": "2026-08-05T12:52:21+05:30"
-        },
-        {
-          "title": "MCX shares fall 4% after Q1 profit falls 22% QoQ to Rs 413 crore. What should investors do?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-fall-4-after-q1-profit-falls-22-qoq-to-rs-413-crore-what-should-investors-do/articleshow/132900030.cms",
-          "pubDate": "2026-08-05T12:33:21+05:30"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -794,8 +794,23 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-05T20:19:04.362239+00:00",
+      "updated_at": "2026-08-05T21:39:07.681595+00:00",
       "items": [
+        {
+          "title": "Gold Jumps Most Since February on Hormuz, Technical Breakout",
+          "link": "https://www.livemint.com/market/gold-jumps-most-since-february-on-hormuz-technical-breakout-11785964080778.html",
+          "pubDate": "2026-08-06T02:38:00+05:30"
+        },
+        {
+          "title": "Yen firms after landmark intervention, dollar near lows on optimism over Iran talks",
+          "link": "https://www.livemint.com/market/yen-firms-after-landmark-intervention-dollar-near-lows-on-optimism-over-iran-talks-11785963413851.html",
+          "pubDate": "2026-08-06T02:26:53+05:30"
+        },
+        {
+          "title": "Yen firms after landmark intervention, dollar near lows on optimism over Iran talks",
+          "link": "https://www.livemint.com/market/yen-firms-after-landmark-intervention-dollar-near-lows-on-optimism-over-iran-talks-11785963413482.html",
+          "pubDate": "2026-08-06T02:26:52+05:30"
+        },
         {
           "title": "Treasury yields fall as oil dips on Strait of Hormuz hopes",
           "link": "https://www.livemint.com/market/treasury-yields-fall-as-oil-dips-on-strait-of-hormuz-hopes-11785956691711.html",
@@ -930,21 +945,6 @@
           "title": "AMD stock falls 9% in extended trading despite beating revenue estimates— here's why",
           "link": "https://www.livemint.com/market/stock-market-news/amd-stock-falls-9-in-after-hours-despite-beating-revenue-expectations-heres-why-11785914091966.html",
           "pubDate": "2026-08-05T13:35:54+05:30"
-        },
-        {
-          "title": "Stock market rally broadens, but history flashes a caution signal",
-          "link": "https://www.livemint.com/market/stock-market-rally-broadens-but-history-flashes-a-caution-signal-11785909150739.html",
-          "pubDate": "2026-08-05T13:08:28+05:30"
-        },
-        {
-          "title": "MV Electrosystems IPO to list on BSE, NSE on August 6; here's what GMP suggests ahead of market debut",
-          "link": "https://www.livemint.com/market/stock-market-news/mv-electrosystems-ipo-to-list-on-bse-nse-on-august-6-heres-what-ipo-gmp-suggests-ahead-of-market-debut-11785913357270.html",
-          "pubDate": "2026-08-05T12:59:55+05:30"
-        },
-        {
-          "title": "Upcoming IPO: Milky Mist Dairy Food to launch  ₹1,553-crore public issue on 11 August",
-          "link": "https://www.livemint.com/market/ipo/milky-mist-ipo-to-open-on-11-august-cuts-issue-size-by-rs-482-crore-11785912453341.html",
-          "pubDate": "2026-08-05T12:35:38+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-05T20:19:05.503971+00:00",
+      "updated_at": "2026-08-05T21:39:09.363885+00:00",
       "items": [
         {
           "title": "RBI to conduct 4-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 06, 2026",

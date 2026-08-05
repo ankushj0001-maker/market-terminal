@@ -1,14 +1,11 @@
 {
-  "generated_at": "2026-08-05T09:45:19.324621+00:00",
+  "generated_at": "2026-08-05T11:48:35.252677+00:00",
   "indices": {
     "nifty50": {
-      "price": 24570.2,
-      "change": -44.7,
-      "pct": -0.1816,
+      "price": 24624.65,
+      "change": 9.75,
+      "pct": 0.0396,
       "closes": [
-        24615.900390625,
-        24582.400390625,
-        24580.05078125,
         24581.650390625,
         24594.400390625,
         24609.400390625,
@@ -65,22 +62,19 @@
         24532.44921875,
         24540.099609375,
         24572.25,
-        24570.19921875
+        24570.19921875,
+        24570.19921875,
+        24624.650390625,
+        24624.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-05T09:45:18.190181+00:00"
+      "updated_at": "2026-08-05T11:48:32.983626+00:00"
     },
     "sensex": {
-      "price": 78373.75,
-      "change": -55.2,
-      "pct": -0.0704,
+      "price": 78581.0,
+      "change": 152.05,
+      "pct": 0.1939,
       "closes": [
-        78747.8828125,
-        78788.0390625,
-        78752.9375,
-        78788.1484375,
-        78674.09375,
-        78639.328125,
         78654.9375,
         78696.640625,
         78744.796875,
@@ -134,19 +128,22 @@
         78351.3828125,
         78326.5390625,
         78362.7578125,
-        78373.75
+        78394.890625,
+        78404.1796875,
+        78509.2890625,
+        78397.359375,
+        78568.703125,
+        78581.0,
+        78581.0
       ],
       "ok": true,
-      "updated_at": "2026-08-05T09:45:18.239916+00:00"
+      "updated_at": "2026-08-05T11:48:33.046320+00:00"
     },
     "banknifty": {
-      "price": 57629.75,
-      "change": -277.45,
-      "pct": -0.4791,
+      "price": 57739.95,
+      "change": -167.25,
+      "pct": -0.2888,
       "closes": [
-        57879.1484375,
-        57705.19921875,
-        57690.0,
         57709.5,
         57735.80078125,
         57817.5,
@@ -203,19 +200,19 @@
         57561.6484375,
         57584.69921875,
         57631.25,
-        57629.75
+        57629.75,
+        57629.75,
+        57739.94921875,
+        57739.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-05T09:45:18.288917+00:00"
+      "updated_at": "2026-08-05T11:48:33.087807+00:00"
     },
     "vix": {
-      "price": 12.065,
-      "change": 0.135,
-      "pct": 1.1316,
+      "price": 12.06,
+      "change": 0.13,
+      "pct": 1.0897,
       "closes": [
-        11.949999809265137,
-        12.069999694824219,
-        12.114999771118164,
         12.087499618530273,
         12.007499694824219,
         11.922499656677246,
@@ -272,20 +269,19 @@
         12.27750015258789,
         12.204999923706055,
         12.117500305175781,
-        12.0649995803833
+        12.087499618530273,
+        12.055000305175781,
+        11.922499656677246,
+        12.0600004196167
       ],
       "ok": true,
-      "updated_at": "2026-08-05T09:45:18.343547+00:00"
+      "updated_at": "2026-08-05T11:48:33.185443+00:00"
     },
     "usdinr": {
-      "price": 95.175,
-      "change": -0.193,
-      "pct": -0.2024,
+      "price": 95.12,
+      "change": -0.248,
+      "pct": -0.26,
       "closes": [
-        95.06500244140625,
-        95.05999755859375,
-        95.10250091552734,
-        95.1050033569336,
         95.10250091552734,
         95.0824966430664,
         95.0875015258789,
@@ -341,40 +337,20 @@
         95.1875,
         95.17250061035156,
         95.17250061035156,
-        95.17500305175781
+        95.18000030517578,
+        95.16000366210938,
+        95.12000274658203,
+        95.12000274658203,
+        95.12000274658203
       ],
       "ok": true,
-      "updated_at": "2026-08-05T09:45:18.393242+00:00"
+      "updated_at": "2026-08-05T11:48:33.255809+00:00"
     },
     "gold": {
-      "price": 4215.8,
-      "change": 63.2,
-      "pct": 1.5219,
+      "price": 4245.8,
+      "change": 93.2,
+      "pct": 2.2444,
       "closes": [
-        4190.60009765625,
-        4192.2998046875,
-        4193.39990234375,
-        4194.7001953125,
-        4193.89990234375,
-        4195.39990234375,
-        4195.39990234375,
-        4199.60009765625,
-        4197.89990234375,
-        4201.7998046875,
-        4210.60009765625,
-        4218.2001953125,
-        4224.7001953125,
-        4227.10009765625,
-        4222.2001953125,
-        4222.39990234375,
-        4229.60009765625,
-        4233.0,
-        4226.60009765625,
-        4225.7001953125,
-        4228.39990234375,
-        4232.7998046875,
-        4234.7998046875,
-        4234.89990234375,
         4234.7001953125,
         4234.5,
         4237.10009765625,
@@ -410,40 +386,40 @@
         4216.60009765625,
         4216.2001953125,
         4217.10009765625,
-        4215.7998046875
+        4217.2998046875,
+        4216.89990234375,
+        4216.60009765625,
+        4216.89990234375,
+        4211.2001953125,
+        4212.39990234375,
+        4210.0,
+        4214.89990234375,
+        4215.10009765625,
+        4215.7998046875,
+        4214.2998046875,
+        4214.2998046875,
+        4213.89990234375,
+        4214.60009765625,
+        4215.5,
+        4220.39990234375,
+        4223.2998046875,
+        4225.89990234375,
+        4229.60009765625,
+        4230.7001953125,
+        4230.0,
+        4235.5,
+        4240.2998046875,
+        4244.7998046875,
+        4245.7998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-05T09:45:18.442941+00:00"
+      "updated_at": "2026-08-05T11:48:33.334631+00:00"
     },
     "crude": {
-      "price": 76.15,
-      "change": 0.38,
-      "pct": 0.5015,
+      "price": 75.88,
+      "change": 0.11,
+      "pct": 0.1452,
       "closes": [
-        75.20999908447266,
-        75.16000366210938,
-        75.1500015258789,
-        75.29000091552734,
-        75.2300033569336,
-        75.23999786376953,
-        75.2300033569336,
-        75.2300033569336,
-        75.22000122070312,
-        74.9000015258789,
-        74.87999725341797,
-        75.0,
-        74.98999786376953,
-        75.0,
-        75.04000091552734,
-        75.16000366210938,
-        75.18000030517578,
-        75.2300033569336,
-        75.22000122070312,
-        74.98999786376953,
-        75.18000030517578,
-        75.36000061035156,
-        75.41000366210938,
-        75.19000244140625,
         75.27999877929688,
         75.13999938964844,
         75.0199966430664,
@@ -479,10 +455,34 @@
         76.27999877929688,
         76.1500015258789,
         76.29000091552734,
-        76.1500015258789
+        76.2300033569336,
+        76.36000061035156,
+        76.4800033569336,
+        76.51000213623047,
+        76.5999984741211,
+        76.5,
+        76.47000122070312,
+        76.55999755859375,
+        76.66000366210938,
+        76.63999938964844,
+        76.4000015258789,
+        76.30000305175781,
+        76.43000030517578,
+        76.51000213623047,
+        76.51000213623047,
+        76.2300033569336,
+        76.29000091552734,
+        76.0999984741211,
+        76.04000091552734,
+        76.05999755859375,
+        76.25,
+        76.19999694824219,
+        76.0199966430664,
+        75.95999908447266,
+        75.87999725341797
       ],
       "ok": true,
-      "updated_at": "2026-08-05T09:45:18.704706+00:00"
+      "updated_at": "2026-08-05T11:48:33.686897+00:00"
     },
     "us10y": {
       "price": 4.627,
@@ -551,13 +551,13 @@
         4.626999855041504
       ],
       "ok": true,
-      "updated_at": "2026-08-05T09:45:18.759816+00:00"
+      "updated_at": "2026-08-05T11:48:33.734207+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-05T09:45:18.827462+00:00",
+      "updated_at": "2026-08-05T11:48:33.917066+00:00",
       "items": [
         {
           "title": "Sterlite Tech, HFCL gain 5% each on reports of US ban on Chinese data centre devices",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-05T09:45:18.963255+00:00",
+      "updated_at": "2026-08-05T11:48:34.051222+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,48 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-05T09:45:19.109533+00:00",
+      "updated_at": "2026-08-05T11:48:34.281648+00:00",
       "items": [
+        {
+          "title": "Navin Fluorine Q1 Results: Net profit more than doubles to  ₹243 crore as margins expand; revenue rises 44%",
+          "link": "https://www.livemint.com/market/stock-market-news/navin-fluorine-q1-results-net-profit-more-than-doubles-to-rs-243-crore-as-margins-expand-revenue-rises-44-11785928420036.html",
+          "pubDate": "2026-08-05T16:55:15+05:30"
+        },
+        {
+          "title": "Stock to buy after Q1 results 2026: Emkay sees over 32% upside in this healthcare stock",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-to-buy-after-q1-results-2026-emkay-sees-over-32-upside-in-this-healthcare-stock-11785927249886.html",
+          "pubDate": "2026-08-05T16:41:44+05:30"
+        },
+        {
+          "title": "Vodafone Idea sets AGM date to declare financial statement for FY26. Details here",
+          "link": "https://www.livemint.com/market/stock-market-news/vodafone-idea-sets-agm-date-to-declare-financial-statement-q1-results-for-fy26-idea-share-in-focus-details-here-11785925132024.html",
+          "pubDate": "2026-08-05T16:32:20+05:30"
+        },
+        {
+          "title": "Expert view: Earnings growth will continue to strengthen over coming quarters, says Sandip Raichura of PL Capital",
+          "link": "https://www.livemint.com/market/stock-market-news/expert-view-earnings-growth-will-continue-to-strengthen-over-coming-quarters-says-sandip-raichura-of-pl-capital-11785926688304.html",
+          "pubDate": "2026-08-05T16:23:42+05:30"
+        },
+        {
+          "title": "Michael Burry warns of 1987-style crash as AI rally powers Wall Street; investor shorts Nvidia, Tesla, Palantir",
+          "link": "https://www.livemint.com/market/stock-market-news/michael-burry-warns-of-1987-style-crash-as-ai-rally-powers-wall-street-investor-shorts-nvidia-tesla-palantir-11785922333250.html",
+          "pubDate": "2026-08-05T15:50:23+05:30"
+        },
+        {
+          "title": "Top Gainers &amp; Losers on 5 August: Hindustan Copper, OLA, HFCL, Mphasis, Tata Capital among top gainers",
+          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-5-august-hindustan-copper-ola-hfcl-mphasis-tata-capital-among-top-gainers-11785922141765.html",
+          "pubDate": "2026-08-05T15:46:36+05:30"
+        },
+        {
+          "title": "From Bajaj Auto to Polycab to Garden Reach Shipbuilders: 5 companies that posted over 25% revenue growth in Q1 FY27",
+          "link": "https://www.livemint.com/market/stock-market-news/from-bajaj-auto-to-polycab-to-garden-reach-shipbuilders-5-companies-that-posted-over-25-revenue-growth-in-q1-fy27-11785921987216.html",
+          "pubDate": "2026-08-05T15:45:24+05:30"
+        },
+        {
+          "title": "Sensex gains 150 points, Nifty 50 ends flat above 24,600 after RBI MPC keeps interest rates unchanged",
+          "link": "https://www.livemint.com/market/stock-market-news/sensex-gains-150-points-nifty-50-ends-flat-above-24-600-after-rbi-mpc-keeps-interest-rates-unchanged-11785922265051.html",
+          "pubDate": "2026-08-05T15:32:52+05:30"
+        },
         {
           "title": "Kalyan Jewellers shares extend slide, tumble 5% after Q1 results; down 11% in four days",
           "link": "https://www.livemint.com/market/kalyan-jewellers-shares-extend-slide-tumble-5-after-q1-results-down-11-in-four-days-11785919994880.html",
@@ -905,46 +945,6 @@
           "title": "Manipal Health IPO listing: Shares list at 11% premium over the IPO price",
           "link": "https://www.livemint.com/market/stock-market-news/manipal-health-ipo-listing-shares-list-at-11-premium-over-the-ipo-price-11785902845886.html",
           "pubDate": "2026-08-05T10:00:36+05:30"
-        },
-        {
-          "title": "Supreme Industries to Shriram Finance - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&amp;O segment",
-          "link": "https://www.livemint.com/market/stock-market-news/supreme-industries-to-shriram-finance-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11785902915137.html",
-          "pubDate": "2026-08-05T09:52:09+05:30"
-        },
-        {
-          "title": "BSE share price dips despite 62% YoY rise in Q1FY27 profit. Do you own?",
-          "link": "https://www.livemint.com/market/stock-market-news/bse-share-price-dips-despite-62-yoy-rise-in-q1fy27-profit-do-you-own-11785902325064.html",
-          "pubDate": "2026-08-05T09:41:23+05:30"
-        },
-        {
-          "title": "LIC OFS opens for retail investors. Should you participate as shares rebound?",
-          "link": "https://www.livemint.com/market/stock-market-news/lic-ofs-opens-for-retail-investors-should-you-participate-as-shares-extend-selloff-11785901382794.html",
-          "pubDate": "2026-08-05T09:26:01+05:30"
-        },
-        {
-          "title": "Rupee opens 46 paise higher against US dollar ahead of RBI Policy",
-          "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-46-paise-higher-against-us-dollar-ahead-of-rbi-policy-11785901016627.html",
-          "pubDate": "2026-08-05T09:08:45+05:30"
-        },
-        {
-          "title": "Gold and silver prices today: Rates climb amid a decline in dollar, crude oil prices; investors focus on RBI MPC policy",
-          "link": "https://www.livemint.com/market/commodities/gold-and-silver-prices-today-rates-climb-amid-a-decline-in-dollar-crude-oil-prices-investors-focus-on-rbi-mpc-policy-11785900581248.html",
-          "pubDate": "2026-08-05T09:07:58+05:30"
-        },
-        {
-          "title": "Four chip-related stocks to watch",
-          "link": "https://www.livemint.com/market/stock-market-news/chip-related-stocks-india-stocks-to-watch-2026-semiconductor-stocks-11785840612257.html",
-          "pubDate": "2026-08-05T09:00:25+05:30"
-        },
-        {
-          "title": "Molbio Diagnostics IPO: Price band set at  ₹768-807 per share; check key dates, issue details",
-          "link": "https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-price-band-set-at-rs-768-807-per-share-check-key-dates-issue-details-11785900044759.html",
-          "pubDate": "2026-08-05T08:54:53+05:30"
-        },
-        {
-          "title": "US stocks, Nikkei to Kospi: Global equity heatmap you must know before Dalal Street opens on Wednesday — 5 August 2026",
-          "link": "https://www.livemint.com/market/stock-market-news/us-stocks-nikkei-225-to-kospi-stock-index-global-markets-today-heatmap-when-dalal-street-opens-wednesday-5-august-2026-11785898312471.html",
-          "pubDate": "2026-08-05T08:54:02+05:30"
         }
       ]
     },
@@ -955,8 +955,18 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-05T09:45:19.324604+00:00",
+      "updated_at": "2026-08-05T11:48:35.252661+00:00",
       "items": [
+        {
+          "title": "RBI releases the results of Forward Looking Surveys",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63292",
+          "pubDate": "2026-08-05T17:00:00+00:00"
+        },
+        {
+          "title": "Treasury Bills: Full Auction Result",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63291",
+          "pubDate": "2026-08-05T15:15:00+00:00"
+        },
         {
           "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63290",
@@ -996,16 +1006,6 @@
           "title": "Result of Yield/Price Based Auction of State Government Securities",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63283",
           "pubDate": "2026-08-04T15:15:00+00:00"
-        },
-        {
-          "title": "Scheme for writing books originally in Hindi on Economics/Banking/Financial subjects- Year 2025-26",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63282",
-          "pubDate": "2026-08-04T12:00:00+00:00"
-        },
-        {
-          "title": "Money Market Operations as on August 3, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63281",
-          "pubDate": "2026-08-04T09:00:00+00:00"
         }
       ]
     }

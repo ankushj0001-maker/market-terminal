@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T23:34:19.629022+00:00",
+  "generated_at": "2026-08-06T01:00:46.530732+00:00",
   "indices": {
     "nifty50": {
       "price": 24624.65,
@@ -68,7 +68,7 @@
         24624.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-05T23:34:17.865452+00:00"
+      "updated_at": "2026-08-06T01:00:45.023437+00:00"
     },
     "sensex": {
       "price": 78581.0,
@@ -137,7 +137,7 @@
         78581.0
       ],
       "ok": true,
-      "updated_at": "2026-08-05T23:34:17.910471+00:00"
+      "updated_at": "2026-08-06T01:00:45.122755+00:00"
     },
     "banknifty": {
       "price": 57739.95,
@@ -206,7 +206,7 @@
         57739.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-05T23:34:17.959527+00:00"
+      "updated_at": "2026-08-06T01:00:45.219699+00:00"
     },
     "vix": {
       "price": 12.06,
@@ -275,39 +275,24 @@
         12.0600004196167
       ],
       "ok": true,
-      "updated_at": "2026-08-05T23:34:18.051504+00:00"
+      "updated_at": "2026-08-06T01:00:45.320933+00:00"
     },
     "usdinr": {
       "price": 95.107,
       "change": 0.0,
       "pct": 0.0,
-      "closes": [],
+      "closes": [
+        95.10700225830078,
+        95.10700225830078
+      ],
       "ok": true,
-      "updated_at": "2026-08-05T23:34:18.084915+00:00"
+      "updated_at": "2026-08-06T01:00:45.411614+00:00"
     },
     "gold": {
-      "price": 4321.1,
-      "change": 15.9,
-      "pct": 0.3693,
+      "price": 4350.4,
+      "change": 45.2,
+      "pct": 1.0499,
       "closes": [
-        4308.2998046875,
-        4310.39990234375,
-        4308.5,
-        4309.39990234375,
-        4309.89990234375,
-        4311.0,
-        4313.7998046875,
-        4316.2998046875,
-        4314.0,
-        4317.7998046875,
-        4323.7998046875,
-        4323.7998046875,
-        4315.2998046875,
-        4317.7998046875,
-        4319.5,
-        4319.2001953125,
-        4322.60009765625,
-        4321.2001953125,
         4322.5,
         4318.7001953125,
         4318.89990234375,
@@ -349,34 +334,34 @@
         4315.0,
         4318.7998046875,
         4321.2001953125,
-        4321.10009765625
+        4322.2001953125,
+        4324.2001953125,
+        4336.89990234375,
+        4339.60009765625,
+        4334.0,
+        4335.39990234375,
+        4337.2998046875,
+        4327.89990234375,
+        4331.0,
+        4329.5,
+        4333.89990234375,
+        4342.0,
+        4334.0,
+        4345.5,
+        4344.89990234375,
+        4345.39990234375,
+        4347.2001953125,
+        4352.7998046875,
+        4350.39990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-05T23:34:18.127598+00:00"
+      "updated_at": "2026-08-06T01:00:45.556202+00:00"
     },
     "crude": {
-      "price": 75.01,
-      "change": -0.21,
-      "pct": -0.2792,
+      "price": 74.95,
+      "change": -0.27,
+      "pct": -0.3589,
       "closes": [
-        74.58000183105469,
-        74.62999725341797,
-        74.63999938964844,
-        74.70999908447266,
-        74.87000274658203,
-        75.08000183105469,
-        75.0999984741211,
-        75.26000213623047,
-        75.33999633789062,
-        75.29000091552734,
-        75.18000030517578,
-        75.36000061035156,
-        75.29000091552734,
-        75.23999786376953,
-        75.16000366210938,
-        75.08000183105469,
-        75.33000183105469,
-        75.2300033569336,
         75.19000244140625,
         75.1500015258789,
         75.26000213623047,
@@ -418,10 +403,28 @@
         74.9800033569336,
         75.02999877929688,
         75.01000213623047,
-        75.01000213623047
+        75.05000305175781,
+        75.01000213623047,
+        75.0,
+        74.98999786376953,
+        75.0199966430664,
+        74.94999694824219,
+        74.87000274658203,
+        74.95999908447266,
+        74.87000274658203,
+        74.77999877929688,
+        74.79000091552734,
+        74.69000244140625,
+        75.0,
+        74.94000244140625,
+        74.95999908447266,
+        75.0199966430664,
+        74.94999694824219,
+        74.97000122070312,
+        74.94999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-05T23:34:18.182459+00:00"
+      "updated_at": "2026-08-06T01:00:45.699180+00:00"
     },
     "us10y": {
       "price": 4.617,
@@ -490,43 +493,28 @@
         4.616999626159668
       ],
       "ok": true,
-      "updated_at": "2026-08-05T23:34:18.222499+00:00"
+      "updated_at": "2026-08-06T01:00:45.793844+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-05T23:34:18.260765+00:00",
+      "updated_at": "2026-08-06T01:00:45.983258+00:00",
       "items": [
         {
-          "title": "US stocks: Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-closes-at-record-on-mideast-optimism-spacex-amd-drag-nasdaq/articleshow/132970250.cms",
-          "pubDate": "2026-08-06T01:41:04+05:30"
+          "title": "Indian Bank raising $400 million in overseas loan; syndication underway",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-raising-400-million-in-overseas-loan-syndication-underway/articleshow/132978843.cms",
+          "pubDate": "2026-08-06T06:24:37+05:30"
         },
         {
-          "title": "US stocks: Alphabet shares fall 4% as DeepMind chief shifts role in Google’s AI shakeup",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-alphabet-shares-fall-4-as-deepmind-chief-shifts-role-in-googles-ai-shakeup/articleshow/132967508.cms",
-          "pubDate": "2026-08-06T01:02:38+05:30"
+          "title": "Foreign borrowings hit over $6 billion in June as 140 firms tap global market",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-borrowings-hit-over-6-billion-in-june-as-140-firms-tap-global-market/articleshow/132978802.cms",
+          "pubDate": "2026-08-06T06:20:10+05:30"
         },
         {
-          "title": "SpaceX draws retail investors despite fall in shares post earnings",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-draws-retail-investors-despite-fall-in-shares-post-earnings/articleshow/132956840.cms",
-          "pubDate": "2026-08-05T23:16:27+05:30"
-        },
-        {
-          "title": "PB Fintech Q1 Results: Policybazaar parent's profit soars 92% to Rs 163 crore as insurance premium grows 41%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pb-fintech-q1-results-policybazaar-parents-profit-soars-92-to-rs-163-crore-as-insurance-premium-grows-41/articleshow/132942100.cms",
-          "pubDate": "2026-08-05T20:31:15+05:30"
-        },
-        {
-          "title": "Nifty can rally to 28,615 by this December in Axis’ bull case scenario. Here’s why",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-can-rally-to-28615-by-this-december-in-axis-bull-case-scenario-heres-why/articleshow/132901622.cms",
-          "pubDate": "2026-08-05T12:54:10+05:30"
-        },
-        {
-          "title": "QSR stocks near turning point as risk-reward turns favorable, says Motilal Oswal",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/qsr-stocks-near-turning-point-as-risk-reward-turns-favorable-says-motilal-oswal/articleshow/132901657.cms",
-          "pubDate": "2026-08-05T12:52:21+05:30"
+          "title": "CAS sparks trader backlash as losses mount, Sebi holds firm",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-sparks-trader-backlash-as-losses-mount-sebi-holds-firm/articleshow/132978167.cms",
+          "pubDate": "2026-08-06T05:37:50+05:30"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -647,6 +635,21 @@
           "title": "Implementation of 'guarantees', decline of BRS favour Congress in Telangana, BJP aiming for better show",
           "link": "https://economictimes.indiatimes.com/news/elections/lok-sabha/india/implementation-of-guarantees-decline-of-brs-favour-congress-in-telangana-bjp-aiming-for-better-show/articleshow/108548569.cms",
           "pubDate": "2024-03-16T17:48:48+05:30"
+        },
+        {
+          "title": "Apple faces Indian engineer’s bias lawsuit",
+          "link": "https://economictimes.indiatimes.com/tech/technology/apple-faces-indian-engineers-bias-lawsuit/articleshow/81694292.cms",
+          "pubDate": "2021-03-25T23:14:01+05:30"
+        },
+        {
+          "title": "Despite transatlantic 'love fest', EU charts third way in ties with US and China",
+          "link": "https://economictimes.indiatimes.com/news/defence/despite-transatlantic-love-fest-eu-charts-third-way-in-ties-with-us-and-china/articleshow/81467467.cms",
+          "pubDate": "2021-03-12T16:53:26+05:30"
+        },
+        {
+          "title": "Twitter's India policy head to step down; will transition in March",
+          "link": "https://economictimes.indiatimes.com/tech/tech-bytes/twitters-india-policy-head-to-step-down-will-transition-in-march/articleshow/80732868.cms",
+          "pubDate": "2021-02-07T13:01:32+05:30"
         }
       ]
     },
@@ -733,8 +736,23 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-05T23:34:18.583002+00:00",
+      "updated_at": "2026-08-06T01:00:46.320509+00:00",
       "items": [
+        {
+          "title": "Raja Venkatraman recommends three stocks for 6 August",
+          "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-three-stocks-for-6-august-rites-hfcl-devyani-international-nifty-sensex-11785947619768.html",
+          "pubDate": "2026-08-06T06:00:43+05:30"
+        },
+        {
+          "title": "Stock recommendations for 6 August from MarketSmith India",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-6-august-from-marketsmith-india-11785929327381.html",
+          "pubDate": "2026-08-06T06:00:43+05:30"
+        },
+        {
+          "title": "Gold Holds Gain as Progress on Hormuz Deal Lowers Rate-Hike Odds",
+          "link": "https://www.livemint.com/market/gold-holds-gain-as-progress-on-hormuz-deal-lowers-rate-hike-odds-11785974807479.html",
+          "pubDate": "2026-08-06T05:36:46+05:30"
+        },
         {
           "title": "Oil Holds Three-Day Drop as Iran, Oman Reach Hormuz Agreement",
           "link": "https://www.livemint.com/market/oil-holds-three-day-drop-as-iran-oman-reach-hormuz-agreement-11785969511394.html",
@@ -869,21 +887,6 @@
           "title": "Juniper Green Energy IPO listing tomorrow. What does GMP signals ahead of debut?",
           "link": "https://www.livemint.com/market/stock-market-news/juniper-green-energy-ipo-listing-tomorrow-what-does-gmp-signals-ahead-of-debut-11785914210144.html",
           "pubDate": "2026-08-05T14:25:04+05:30"
-        },
-        {
-          "title": "NHPC's new projects power Q1 beat, but execution remains key risk",
-          "link": "https://www.livemint.com/market/mark-to-market/nhpc-results-q1-power-generation-new-hydro-projects-11785916023909.html",
-          "pubDate": "2026-08-05T14:09:45+05:30"
-        },
-        {
-          "title": "IPO GMPs: LEAP India IPO vs Technocraft Ventures IPO vs Dhoot Transmission IPO — what grey market hints ahead of opening",
-          "link": "https://www.livemint.com/market/ipo/ipo-gmps-leap-india-ipo-gmp-vs-technocraft-ventures-ipo-gmp-vs-dhoot-transmission-ipo-gmp-upcoming-ipos-11785916373839.html",
-          "pubDate": "2026-08-05T14:08:47+05:30"
-        },
-        {
-          "title": "Multibagger defence stock rebounds from today's low after receipt of  ₹213 crore from DRDO, PSU, others",
-          "link": "https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-apollo-micro-systems-rebounds-after-receipt-of-213-crore-from-drdo-psu-others-11785916004756.html",
-          "pubDate": "2026-08-05T14:04:59+05:30"
         }
       ]
     },
@@ -894,7 +897,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-05T23:34:19.629004+00:00",
+      "updated_at": "2026-08-06T01:00:46.530716+00:00",
       "items": [
         {
           "title": "RBI to conduct 4-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 06, 2026",

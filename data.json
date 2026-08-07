@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T13:33:50.761012+00:00",
+  "generated_at": "2026-08-07T14:36:45.738320+00:00",
   "indices": {
     "nifty50": {
       "price": 24570.65,
@@ -68,7 +68,7 @@
         24570.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-07T13:33:48.723537+00:00"
+      "updated_at": "2026-08-07T14:36:42.859528+00:00"
     },
     "sensex": {
       "price": 78499.17,
@@ -137,7 +137,7 @@
         78499.171875
       ],
       "ok": true,
-      "updated_at": "2026-08-07T13:33:48.811105+00:00"
+      "updated_at": "2026-08-07T14:36:42.960796+00:00"
     },
     "banknifty": {
       "price": 57746.45,
@@ -206,7 +206,7 @@
         57746.44921875
       ],
       "ok": true,
-      "updated_at": "2026-08-07T13:33:48.899797+00:00"
+      "updated_at": "2026-08-07T14:36:43.013773+00:00"
     },
     "vix": {
       "price": 12.158,
@@ -275,7 +275,7 @@
         12.157500267028809
       ],
       "ok": true,
-      "updated_at": "2026-08-07T13:33:48.951018+00:00"
+      "updated_at": "2026-08-07T14:36:43.069147+00:00"
     },
     "usdinr": {
       "price": 95.198,
@@ -344,26 +344,13 @@
         95.197998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-07T13:33:49.036599+00:00"
+      "updated_at": "2026-08-07T14:36:43.155058+00:00"
     },
     "gold": {
-      "price": 4410.4,
-      "change": 110.8,
-      "pct": 2.577,
+      "price": 4409.7,
+      "change": 110.1,
+      "pct": 2.5607,
       "closes": [
-        4373.2001953125,
-        4363.7998046875,
-        4367.7001953125,
-        4366.2001953125,
-        4363.7001953125,
-        4365.39990234375,
-        4364.89990234375,
-        4365.60009765625,
-        4365.2998046875,
-        4366.2998046875,
-        4370.10009765625,
-        4365.89990234375,
-        4364.0,
         4368.10009765625,
         4376.60009765625,
         4376.2001953125,
@@ -410,29 +397,29 @@
         4407.89990234375,
         4407.39990234375,
         4410.60009765625,
-        4410.39990234375
+        4416.7998046875,
+        4413.5,
+        4425.5,
+        4418.60009765625,
+        4413.39990234375,
+        4415.0,
+        4408.2998046875,
+        4393.5,
+        4397.10009765625,
+        4394.0,
+        4406.10009765625,
+        4411.2998046875,
+        4408.7001953125,
+        4409.7001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-07T13:33:49.083788+00:00"
+      "updated_at": "2026-08-07T14:36:43.219096+00:00"
     },
     "crude": {
-      "price": 77.07,
-      "change": -0.22,
-      "pct": -0.2846,
+      "price": 77.74,
+      "change": 0.45,
+      "pct": 0.5822,
       "closes": [
-        77.70999908447266,
-        77.87000274658203,
-        77.83999633789062,
-        77.94000244140625,
-        77.87999725341797,
-        77.73999786376953,
-        77.63999938964844,
-        77.68000030517578,
-        77.5999984741211,
-        77.6500015258789,
-        77.55999755859375,
-        77.5199966430664,
-        77.5,
         77.2300033569336,
         77.23999786376953,
         77.0999984741211,
@@ -479,15 +466,28 @@
         76.7699966430664,
         76.77999877929688,
         77.02999877929688,
-        77.06999969482422
+        76.93000030517578,
+        77.05000305175781,
+        76.97000122070312,
+        77.02999877929688,
+        77.29000091552734,
+        77.29000091552734,
+        77.33999633789062,
+        77.58000183105469,
+        77.83999633789062,
+        77.70999908447266,
+        77.47000122070312,
+        77.6500015258789,
+        77.66000366210938,
+        77.73999786376953
       ],
       "ok": true,
-      "updated_at": "2026-08-07T13:33:49.183642+00:00"
+      "updated_at": "2026-08-07T14:36:43.309805+00:00"
     },
     "us10y": {
-      "price": 4.623,
-      "change": -0.047,
-      "pct": -1.0064,
+      "price": 4.635,
+      "change": -0.035,
+      "pct": -0.7495,
       "closes": [
         4.664000034332275,
         4.671999931335449,
@@ -500,27 +500,50 @@
         4.625,
         4.620999813079834,
         4.623000144958496,
+        4.623000144958496,
         4.625,
-        4.623000144958496
+        4.626999855041504,
+        4.63100004196167,
+        4.626999855041504,
+        4.623000144958496,
+        4.626999855041504,
+        4.626999855041504,
+        4.634999752044678,
+        4.638999938964844,
+        4.64300012588501,
+        4.64300012588501,
+        4.63700008392334,
+        4.63700008392334,
+        4.634999752044678
       ],
       "ok": true,
-      "updated_at": "2026-08-07T13:33:49.219046+00:00"
+      "updated_at": "2026-08-07T14:36:43.353059+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-07T13:33:49.285779+00:00",
+      "updated_at": "2026-08-07T14:36:43.535247+00:00",
       "items": [
+        {
+          "title": "Hitachi Energy India Q1 Results: Net profit rises over twofold to Rs 294 crore",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hitachi-energy-india-q1-results-net-profit-rises-over-twofold-to-rs-294-crore/articleshow/133034152.cms",
+          "pubDate": "2026-08-07T18:04:36+05:30"
+        },
+        {
+          "title": "Sebi streamlines market intermediaries inspection framework, cuts FY27 target to one-third",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-streamlines-market-intermediaries-inspection-framework-cuts-fy27-target-to-one-third/articleshow/133034089.cms",
+          "pubDate": "2026-08-07T18:02:24+05:30"
+        },
+        {
+          "title": "Lupin Q1 PAT rises 16 pc at Rs 1,417 cr",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lupin-q1-pat-rises-16-pc-at-rs-1417-cr/articleshow/133031974.cms",
+          "pubDate": "2026-08-07T16:36:00+05:30"
+        },
         {
           "title": "Samvardhana Motherson shares rally over 7% after Q1 earnings; Motilal Oswal, Nomura weigh in",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/samvardhana-motherson-shares-rally-over-7-after-q1-earnings-motilal-oswal-nomura-weigh-in/articleshow/133025764.cms",
           "pubDate": "2026-08-07T12:28:35+05:30"
-        },
-        {
-          "title": "Crompton Greaves shares crash 7% despite strong Q1 results",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/crompton-greaves-shares-crash-7-despite-strong-q1-results/articleshow/133024503.cms",
-          "pubDate": "2026-08-07T11:52:39+05:30"
         },
         {
           "title": "Kalyan Jewellers shares jump 5% after Jefferies starts coverage with 'Buy'. More upside after 63% rally in 1 month?",
@@ -528,19 +551,9 @@
           "pubDate": "2026-08-07T11:41:20+05:30"
         },
         {
-          "title": "Sensex drops over 200 points, Nifty tests 23,600 as Strait of Hormuz tensions rattle oil markets",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-over-200-points-nifty-tests-23600-as-strait-of-hormuz-tensions-rattle-oil-markets/articleshow/133020628.cms",
-          "pubDate": "2026-08-07T09:40:40+05:30"
-        },
-        {
-          "title": "Technocraft Ventures IPO opens today; GMP signals 5% premium. Should you subscribe?",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-opens-today-gmp-signals-8-premium-should-you-subscribe/articleshow/133019823.cms",
-          "pubDate": "2026-08-07T08:35:29+05:30"
-        },
-        {
-          "title": "Last day to buy Jio Fin &amp; 8 other stocks for dividend payouts",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-jio-financial-indus-towers-among-9-stocks-for-dividend-payouts-do-you-own-any/articleshow/133019342.cms",
-          "pubDate": "2026-08-07T08:00:29+05:30"
+          "title": "Ardee Industries IPO Day 3: Issue booked 134 times on strong NII, QIB push. Check GMP and other details",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-day-3-gmp-at-27-issue-subscribed-over-14-times-so-far-should-you-subscribe/articleshow/133019197.cms",
+          "pubDate": "2026-08-07T07:54:05+05:30"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -665,7 +678,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-07T13:33:49.594991+00:00",
       "items": [
         {
@@ -747,8 +760,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-07T13:33:49.788871+00:00",
+      "updated_at": "2026-08-07T14:36:44.232297+00:00",
       "items": [
+        {
+          "title": "Pulse of the Street: Small-caps steal the show as equities extend gains",
+          "link": "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-small-caps-steal-the-show-as-equities-extend-gains-11786106174324.html",
+          "pubDate": "2026-08-07T19:44:37+05:30"
+        },
+        {
+          "title": "Wall Street: S&amp;P 500, Nasdaq edge higher after jobs data",
+          "link": "https://www.livemint.com/market/stock-market-news/wall-street-s-p-500-nasdaq-edge-higher-after-jobs-data-11786110178723.html",
+          "pubDate": "2026-08-07T19:26:34+05:30"
+        },
         {
           "title": "₹71 to  ₹820: Multibagger penny stock turns  ₹1 lakh into  ₹11.5 lakh in five years. Do you own?",
           "link": "https://www.livemint.com/market/stock-market-news/rs-71-to-rs-820-multibagger-penny-stock-turns-rs-1-lakh-into-rs-11-5-lakh-in-five-years-do-you-own-11786106275728.html",
@@ -888,16 +911,6 @@
           "title": "Stocks to watch: SBI, Ola Electric, LIC among shares in focus today; check list here",
           "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-sbi-ola-electric-lic-among-shares-in-focus-today-check-list-here-11786066835314.html",
           "pubDate": "2026-08-07T07:32:06+05:30"
-        },
-        {
-          "title": "Crude oil prices rise amid uncertainty over Strait of Hormuz reopening; Brent Crude at $83 per barrel",
-          "link": "https://www.livemint.com/market/commodities/crude-oil-prices-rise-amid-uncertainty-over-strait-of-hormuz-reopening-brent-crude-at-83-per-barrel-11786065965138.html",
-          "pubDate": "2026-08-07T07:07:29+05:30"
-        },
-        {
-          "title": "From Gift Nifty to crude oil prices: 7 key things that changed for Indian stock market overnight",
-          "link": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-crude-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11786064423329.html",
-          "pubDate": "2026-08-07T06:54:11+05:30"
         }
       ]
     },
@@ -908,8 +921,18 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-07T13:33:50.760998+00:00",
+      "updated_at": "2026-08-07T14:36:45.738301+00:00",
       "items": [
+        {
+          "title": "Auction of State Government Securities",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63322",
+          "pubDate": "2026-08-07T19:20:00+00:00"
+        },
+        {
+          "title": "RBI to conduct 7-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 10, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63321",
+          "pubDate": "2026-08-07T19:05:00+00:00"
+        },
         {
           "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63320",
@@ -949,16 +972,6 @@
           "title": "RBI invites comments on the draft “Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026”",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63313",
           "pubDate": "2026-08-07T16:30:00+00:00"
-        },
-        {
-          "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 –Urban Co-operative Bank Limited, Dehradun - Extension of Period",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63312",
-          "pubDate": "2026-08-07T16:05:00+00:00"
-        },
-        {
-          "title": "Government Stock - Full Auction Results",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63311",
-          "pubDate": "2026-08-07T14:30:00+00:00"
         }
       ]
     }

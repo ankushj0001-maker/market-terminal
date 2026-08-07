@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T19:57:01.232251+00:00",
+  "generated_at": "2026-08-07T20:31:27.166780+00:00",
   "indices": {
     "nifty50": {
       "price": 24570.65,
@@ -68,7 +68,7 @@
         24570.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-07T19:56:58.272828+00:00"
+      "updated_at": "2026-08-07T20:31:25.458630+00:00"
     },
     "sensex": {
       "price": 78499.17,
@@ -137,7 +137,7 @@
         78499.171875
       ],
       "ok": true,
-      "updated_at": "2026-08-07T19:56:58.412771+00:00"
+      "updated_at": "2026-08-07T20:31:25.518883+00:00"
     },
     "banknifty": {
       "price": 57746.45,
@@ -206,7 +206,7 @@
         57746.44921875
       ],
       "ok": true,
-      "updated_at": "2026-08-07T19:56:58.574972+00:00"
+      "updated_at": "2026-08-07T20:31:25.557956+00:00"
     },
     "vix": {
       "price": 12.158,
@@ -275,7 +275,7 @@
         12.157500267028809
       ],
       "ok": true,
-      "updated_at": "2026-08-07T19:56:58.709499+00:00"
+      "updated_at": "2026-08-07T20:31:25.623041+00:00"
     },
     "usdinr": {
       "price": 95.2,
@@ -344,20 +344,13 @@
         95.19999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-07T19:56:58.898719+00:00"
+      "updated_at": "2026-08-07T20:31:25.670739+00:00"
     },
     "gold": {
-      "price": 4408.1,
-      "change": 108.5,
-      "pct": 2.5235,
+      "price": 4399.1,
+      "change": 99.5,
+      "pct": 2.3142,
       "closes": [
-        4401.2998046875,
-        4405.5,
-        4408.7001953125,
-        4415.0,
-        4414.2998046875,
-        4416.60009765625,
-        4410.7998046875,
         4409.2001953125,
         4411.7001953125,
         4408.7001953125,
@@ -410,23 +403,23 @@
         4406.0,
         4407.7998046875,
         4406.7001953125,
-        4408.10009765625
+        4402.60009765625,
+        4403.10009765625,
+        4402.89990234375,
+        4401.2001953125,
+        4401.7998046875,
+        4399.2001953125,
+        4398.60009765625,
+        4399.10009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-07T19:56:59.111433+00:00"
+      "updated_at": "2026-08-07T20:31:25.729472+00:00"
     },
     "crude": {
-      "price": 76.86,
-      "change": -0.43,
-      "pct": -0.5563,
+      "price": 77.03,
+      "change": -0.26,
+      "pct": -0.3364,
       "closes": [
-        78.08999633789062,
-        78.33000183105469,
-        78.22000122070312,
-        78.18000030517578,
-        78.33999633789062,
-        78.0999984741211,
-        78.16000366210938,
         78.08000183105469,
         78.11000061035156,
         78.05999755859375,
@@ -479,10 +472,17 @@
         77.02999877929688,
         76.93000030517578,
         76.94999694824219,
-        76.86000061035156
+        76.95999908447266,
+        77.02999877929688,
+        76.88999938964844,
+        76.95999908447266,
+        77.05999755859375,
+        77.06999969482422,
+        76.94999694824219,
+        77.02999877929688
       ],
       "ok": true,
-      "updated_at": "2026-08-07T19:56:59.328971+00:00"
+      "updated_at": "2026-08-07T20:31:25.779581+00:00"
     },
     "us10y": {
       "price": 4.66,
@@ -551,23 +551,23 @@
         4.659999847412109
       ],
       "ok": true,
-      "updated_at": "2026-08-07T19:56:59.513933+00:00"
+      "updated_at": "2026-08-07T20:31:25.826451+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-07T19:56:59.713824+00:00",
+      "updated_at": "2026-08-07T20:31:25.910171+00:00",
       "items": [
+        {
+          "title": "US stocks: S&amp;P closes at record high as soft jobs report eases rate-hike concerns",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-closes-at-record-high-as-soft-jobs-report-eases-rate-hike-concerns/articleshow/133041941.cms",
+          "pubDate": "2026-08-08T01:38:04+05:30"
+        },
         {
           "title": "Hitachi Energy India Q1 Results: Net profit rises over twofold to Rs 294 crore",
           "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hitachi-energy-india-q1-results-net-profit-rises-over-twofold-to-rs-294-crore/articleshow/133034152.cms",
           "pubDate": "2026-08-07T18:04:36+05:30"
-        },
-        {
-          "title": "Sebi streamlines market intermediaries inspection framework, cuts FY27 target to one-third",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-streamlines-market-intermediaries-inspection-framework-cuts-fy27-target-to-one-third/articleshow/133034089.cms",
-          "pubDate": "2026-08-07T18:02:24+05:30"
         },
         {
           "title": "Lupin Q1 PAT rises 16 pc at Rs 1,417 cr",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-07T19:57:00.005128+00:00",
+      "updated_at": "2026-08-07T20:31:26.297251+00:00",
       "items": [
+        {
+          "title": "Short-Term Treasuries Cap Biggest Weekly Rally Since May on Data",
+          "link": "https://www.livemint.com/market/shortterm-treasuries-cap-biggest-weekly-rally-since-may-on-data-11786134305338.html",
+          "pubDate": "2026-08-08T01:55:04+05:30"
+        },
         {
           "title": "Treasury yields fall as jobs report dashes hike bets",
           "link": "https://www.livemint.com/market/treasury-yields-fall-as-jobs-report-dashes-hike-bets-11786130890731.html",
@@ -940,11 +945,6 @@
           "title": "Nikkei, Kospi to US stocks: Global equity heatmap before opening bell of Indian stock market on Friday — 7 August 2026",
           "link": "https://www.livemint.com/market/stock-market-news/nikkei-225-kospi-stocks-us-stock-market-global-markets-equity-heatmap-before-opening-bell-indian-stock-market-11786069670487.html",
           "pubDate": "2026-08-07T09:01:47+05:30"
-        },
-        {
-          "title": "Three monopoly stocks where FIIs increased their stake in June quarter",
-          "link": "https://www.livemint.com/market/stock-market-news/three-monopoly-stocks-where-fiis-increased-their-stake-in-june-quarter-11786016489334.html",
-          "pubDate": "2026-08-07T09:00:37+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-07T19:57:01.232232+00:00",
+      "updated_at": "2026-08-07T20:31:27.166763+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

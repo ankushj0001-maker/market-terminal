@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T12:07:13.160076+00:00",
+  "generated_at": "2026-08-07T13:33:50.761012+00:00",
   "indices": {
     "nifty50": {
       "price": 24570.65,
@@ -68,7 +68,7 @@
         24570.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-07T12:07:11.202370+00:00"
+      "updated_at": "2026-08-07T13:33:48.723537+00:00"
     },
     "sensex": {
       "price": 78499.17,
@@ -137,7 +137,7 @@
         78499.171875
       ],
       "ok": true,
-      "updated_at": "2026-08-07T12:07:11.246764+00:00"
+      "updated_at": "2026-08-07T13:33:48.811105+00:00"
     },
     "banknifty": {
       "price": 57746.45,
@@ -206,7 +206,7 @@
         57746.44921875
       ],
       "ok": true,
-      "updated_at": "2026-08-07T12:07:11.292809+00:00"
+      "updated_at": "2026-08-07T13:33:48.899797+00:00"
     },
     "vix": {
       "price": 12.158,
@@ -275,14 +275,13 @@
         12.157500267028809
       ],
       "ok": true,
-      "updated_at": "2026-08-07T12:07:11.346682+00:00"
+      "updated_at": "2026-08-07T13:33:48.951018+00:00"
     },
     "usdinr": {
       "price": 95.198,
       "change": 0.083,
       "pct": 0.0873,
       "closes": [
-        95.26799774169922,
         95.24250030517578,
         95.27249908447266,
         95.25700378417969,
@@ -341,33 +340,17 @@
         95.2249984741211,
         95.20500183105469,
         95.197998046875,
+        95.197998046875,
         95.197998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-07T12:07:11.394052+00:00"
+      "updated_at": "2026-08-07T13:33:49.036599+00:00"
     },
     "gold": {
-      "price": 4385.5,
-      "change": 85.9,
-      "pct": 1.9979,
+      "price": 4410.4,
+      "change": 110.8,
+      "pct": 2.577,
       "closes": [
-        4350.2001953125,
-        4350.2998046875,
-        4350.60009765625,
-        4346.7998046875,
-        4344.2998046875,
-        4346.60009765625,
-        4344.7998046875,
-        4344.2001953125,
-        4343.89990234375,
-        4346.10009765625,
-        4348.89990234375,
-        4351.39990234375,
-        4353.7001953125,
-        4358.7998046875,
-        4357.10009765625,
-        4353.7001953125,
-        4353.7998046875,
         4373.2001953125,
         4363.7998046875,
         4367.7001953125,
@@ -410,33 +393,33 @@
         4383.10009765625,
         4385.2998046875,
         4380.7998046875,
-        4385.5
+        4378.7001953125,
+        4378.0,
+        4374.7001953125,
+        4373.60009765625,
+        4370.2001953125,
+        4370.7998046875,
+        4419.7998046875,
+        4424.89990234375,
+        4427.39990234375,
+        4429.10009765625,
+        4425.0,
+        4421.89990234375,
+        4407.2998046875,
+        4410.39990234375,
+        4407.89990234375,
+        4407.39990234375,
+        4410.60009765625,
+        4410.39990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-07T12:07:11.450351+00:00"
+      "updated_at": "2026-08-07T13:33:49.083788+00:00"
     },
     "crude": {
-      "price": 76.71,
-      "change": -0.58,
-      "pct": -0.7504,
+      "price": 77.07,
+      "change": -0.22,
+      "pct": -0.2846,
       "closes": [
-        77.91999816894531,
-        77.66000366210938,
-        77.7699966430664,
-        77.69999694824219,
-        77.55999755859375,
-        77.66999816894531,
-        77.69999694824219,
-        77.8499984741211,
-        77.7699966430664,
-        77.91000366210938,
-        77.76000213623047,
-        77.68000030517578,
-        77.62000274658203,
-        77.66000366210938,
-        77.81999969482422,
-        77.7699966430664,
-        77.8499984741211,
         77.70999908447266,
         77.87000274658203,
         77.83999633789062,
@@ -479,85 +462,55 @@
         76.6500015258789,
         76.63999938964844,
         76.73999786376953,
-        76.70999908447266
+        76.72000122070312,
+        76.83999633789062,
+        77.04000091552734,
+        77.12000274658203,
+        77.27999877929688,
+        77.37000274658203,
+        76.97000122070312,
+        76.80999755859375,
+        76.75,
+        76.79000091552734,
+        76.66999816894531,
+        76.73999786376953,
+        76.8499984741211,
+        76.83999633789062,
+        76.7699966430664,
+        76.77999877929688,
+        77.02999877929688,
+        77.06999969482422
       ],
       "ok": true,
-      "updated_at": "2026-08-07T12:07:11.496310+00:00"
+      "updated_at": "2026-08-07T13:33:49.183642+00:00"
     },
     "us10y": {
-      "price": 4.67,
-      "change": 0.053,
-      "pct": 1.1479,
+      "price": 4.623,
+      "change": -0.047,
+      "pct": -1.0064,
       "closes": [
-        4.638999938964844,
-        4.644999980926514,
-        4.64300012588501,
-        4.64300012588501,
-        4.640999794006348,
-        4.640999794006348,
-        4.640999794006348,
-        4.64300012588501,
-        4.638999938964844,
-        4.64300012588501,
-        4.644999980926514,
-        4.644999980926514,
-        4.644999980926514,
-        4.647000312805176,
-        4.647000312805176,
-        4.654999732971191,
-        4.654999732971191,
-        4.654999732971191,
-        4.6570000648498535,
-        4.6570000648498535,
-        4.658999919891357,
-        4.6570000648498535,
-        4.668000221252441,
-        4.668000221252441,
-        4.670000076293945,
+        4.664000034332275,
         4.671999931335449,
-        4.671999931335449,
-        4.674000263214111,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.670000076293945,
-        4.668000221252441,
-        4.668000221252441,
-        4.668000221252441,
-        4.668000221252441,
-        4.668000221252441,
-        4.668000221252441,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.674000263214111,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.670000076293945
+        4.61299991607666,
+        4.609000205993652,
+        4.609000205993652,
+        4.60699987411499,
+        4.61299991607666,
+        4.61899995803833,
+        4.625,
+        4.620999813079834,
+        4.623000144958496,
+        4.625,
+        4.623000144958496
       ],
       "ok": true,
-      "updated_at": "2026-08-07T12:07:11.545231+00:00"
+      "updated_at": "2026-08-07T13:33:49.219046+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-07T12:07:11.628810+00:00",
+      "updated_at": "2026-08-07T13:33:49.285779+00:00",
       "items": [
         {
           "title": "Samvardhana Motherson shares rally over 7% after Q1 earnings; Motilal Oswal, Nomura weigh in",
@@ -712,8 +665,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-07T11:28:28.189402+00:00",
+      "ok": true,
+      "updated_at": "2026-08-07T13:33:49.594991+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +747,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-07T12:07:12.152554+00:00",
+      "updated_at": "2026-08-07T13:33:49.788871+00:00",
       "items": [
+        {
+          "title": "₹71 to  ₹820: Multibagger penny stock turns  ₹1 lakh into  ₹11.5 lakh in five years. Do you own?",
+          "link": "https://www.livemint.com/market/stock-market-news/rs-71-to-rs-820-multibagger-penny-stock-turns-rs-1-lakh-into-rs-11-5-lakh-in-five-years-do-you-own-11786106275728.html",
+          "pubDate": "2026-08-07T18:33:04+05:30"
+        },
+        {
+          "title": "EIH shares drop 6% after the announcement of Q1FY27 results",
+          "link": "https://www.livemint.com/market/stock-market-news/eih-shares-drop-6-after-the-announcement-of-q1fy27-results-11786103630279.html",
+          "pubDate": "2026-08-07T17:51:00+05:30"
+        },
         {
           "title": "Titan Q1 Results: Net profit jumps 63% to  ₹1,777 crore on steady jewellery demand; revenue rises 40%",
           "link": "https://www.livemint.com/market/stock-market-news/titan-q1-results-net-profit-jumps-63-to-rs-1-777-crore-revenue-rises-40-11786099305471.html",
@@ -935,16 +898,6 @@
           "title": "From Gift Nifty to crude oil prices: 7 key things that changed for Indian stock market overnight",
           "link": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-crude-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11786064423329.html",
           "pubDate": "2026-08-07T06:54:11+05:30"
-        },
-        {
-          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 7 August 2026",
-          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-7-august-2026-11786063162076.html",
-          "pubDate": "2026-08-07T06:27:28+05:30"
-        },
-        {
-          "title": "Stock recommendations for 7 August from MarketSmith India",
-          "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-7-august-from-marketsmith-india-11786031412058.html",
-          "pubDate": "2026-08-07T06:10:15+05:30"
         }
       ]
     },
@@ -955,8 +908,28 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-07T12:07:13.160063+00:00",
+      "updated_at": "2026-08-07T13:33:50.760998+00:00",
       "items": [
+        {
+          "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63320",
+          "pubDate": "2026-08-07T18:20:00+00:00"
+        },
+        {
+          "title": "RBI imposes monetary penalty on Infinity Fincorp Solutions Private Limited",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63319",
+          "pubDate": "2026-08-07T18:05:00+00:00"
+        },
+        {
+          "title": "RBI imposes monetary penalty on Namdev Finvest Limited (formerly known as Namdev Finvest Private Limited)",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63318",
+          "pubDate": "2026-08-07T17:50:00+00:00"
+        },
+        {
+          "title": "RBI imposes monetary penalty on Utsav Securities Limited",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63317",
+          "pubDate": "2026-08-07T17:35:00+00:00"
+        },
         {
           "title": "Sectoral Deployment of Credit by NBFC – June 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63316",
@@ -986,26 +959,6 @@
           "title": "Government Stock - Full Auction Results",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63311",
           "pubDate": "2026-08-07T14:30:00+00:00"
-        },
-        {
-          "title": "Government Stock - Auction Results: Cut-off",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63310",
-          "pubDate": "2026-08-07T13:30:00+00:00"
-        },
-        {
-          "title": "Result of Underwriting Auction conducted on August 07, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63309",
-          "pubDate": "2026-08-07T10:15:00+00:00"
-        },
-        {
-          "title": "Money Market Operations as on August 06, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63308",
-          "pubDate": "2026-08-07T09:00:00+00:00"
-        },
-        {
-          "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2020-21 Series-XI due on August 07, 2026 (August 08 and August 09 being holiday)",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63307",
-          "pubDate": "2026-08-06T19:45:00+00:00"
         }
       ]
     }

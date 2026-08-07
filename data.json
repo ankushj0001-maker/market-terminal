@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T19:11:47.091265+00:00",
+  "generated_at": "2026-08-07T19:57:01.232251+00:00",
   "indices": {
     "nifty50": {
       "price": 24570.65,
@@ -68,7 +68,7 @@
         24570.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-07T19:11:45.093875+00:00"
+      "updated_at": "2026-08-07T19:56:58.272828+00:00"
     },
     "sensex": {
       "price": 78499.17,
@@ -137,7 +137,7 @@
         78499.171875
       ],
       "ok": true,
-      "updated_at": "2026-08-07T19:11:45.148166+00:00"
+      "updated_at": "2026-08-07T19:56:58.412771+00:00"
     },
     "banknifty": {
       "price": 57746.45,
@@ -206,7 +206,7 @@
         57746.44921875
       ],
       "ok": true,
-      "updated_at": "2026-08-07T19:11:45.208035+00:00"
+      "updated_at": "2026-08-07T19:56:58.574972+00:00"
     },
     "vix": {
       "price": 12.158,
@@ -275,7 +275,7 @@
         12.157500267028809
       ],
       "ok": true,
-      "updated_at": "2026-08-07T19:11:45.259116+00:00"
+      "updated_at": "2026-08-07T19:56:58.709499+00:00"
     },
     "usdinr": {
       "price": 95.2,
@@ -344,22 +344,13 @@
         95.19999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-07T19:11:45.324894+00:00"
+      "updated_at": "2026-08-07T19:56:58.898719+00:00"
     },
     "gold": {
-      "price": 4401.9,
-      "change": 102.3,
-      "pct": 2.3793,
+      "price": 4408.1,
+      "change": 108.5,
+      "pct": 2.5235,
       "closes": [
-        4394.0,
-        4406.10009765625,
-        4411.2998046875,
-        4408.7001953125,
-        4407.89990234375,
-        4404.10009765625,
-        4404.2998046875,
-        4403.10009765625,
-        4405.5,
         4401.2998046875,
         4405.5,
         4408.7001953125,
@@ -410,25 +401,25 @@
         4395.2001953125,
         4395.60009765625,
         4400.39990234375,
-        4401.89990234375
+        4405.0,
+        4403.7001953125,
+        4407.39990234375,
+        4409.0,
+        4408.39990234375,
+        4405.89990234375,
+        4406.0,
+        4407.7998046875,
+        4406.7001953125,
+        4408.10009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-07T19:11:45.392482+00:00"
+      "updated_at": "2026-08-07T19:56:59.111433+00:00"
     },
     "crude": {
-      "price": 77.71,
-      "change": 0.42,
-      "pct": 0.5434,
+      "price": 76.86,
+      "change": -0.43,
+      "pct": -0.5563,
       "closes": [
-        77.70999908447266,
-        77.47000122070312,
-        77.6500015258789,
-        77.66000366210938,
-        77.52999877929688,
-        77.58000183105469,
-        77.48999786376953,
-        77.6500015258789,
-        77.87999725341797,
         78.08999633789062,
         78.33000183105469,
         78.22000122070312,
@@ -479,15 +470,24 @@
         78.20999908447266,
         78.11000061035156,
         77.61000061035156,
-        77.70999908447266
+        77.37999725341797,
+        77.38999938964844,
+        77.23999786376953,
+        76.97000122070312,
+        76.9000015258789,
+        76.97000122070312,
+        77.02999877929688,
+        76.93000030517578,
+        76.94999694824219,
+        76.86000061035156
       ],
       "ok": true,
-      "updated_at": "2026-08-07T19:11:45.471404+00:00"
+      "updated_at": "2026-08-07T19:56:59.328971+00:00"
     },
     "us10y": {
-      "price": 4.658,
-      "change": -0.012,
-      "pct": -0.257,
+      "price": 4.66,
+      "change": -0.01,
+      "pct": -0.2141,
       "closes": [
         4.638999938964844,
         4.64300012588501,
@@ -551,13 +551,13 @@
         4.659999847412109
       ],
       "ok": true,
-      "updated_at": "2026-08-07T19:11:45.606849+00:00"
+      "updated_at": "2026-08-07T19:56:59.513933+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-07T19:11:45.779526+00:00",
+      "updated_at": "2026-08-07T19:56:59.713824+00:00",
       "items": [
         {
           "title": "Hitachi Energy India Q1 Results: Net profit rises over twofold to Rs 294 crore",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-07T19:11:45.997296+00:00",
+      "updated_at": "2026-08-07T19:57:00.005128+00:00",
       "items": [
+        {
+          "title": "Treasury yields fall as jobs report dashes hike bets",
+          "link": "https://www.livemint.com/market/treasury-yields-fall-as-jobs-report-dashes-hike-bets-11786130890731.html",
+          "pubDate": "2026-08-08T00:58:10+05:30"
+        },
         {
           "title": "Gold hits seven-week high as weak US jobs data dents rate hike bets",
           "link": "https://www.livemint.com/market/gold-hits-seven-week-high-as-weak-us-jobs-data-dents-rate-hike-bets-11786129243519.html",
@@ -940,11 +945,6 @@
           "title": "Three monopoly stocks where FIIs increased their stake in June quarter",
           "link": "https://www.livemint.com/market/stock-market-news/three-monopoly-stocks-where-fiis-increased-their-stake-in-june-quarter-11786016489334.html",
           "pubDate": "2026-08-07T09:00:37+05:30"
-        },
-        {
-          "title": "LEAP India IPO Day 1: Issue subscribed 6% so far. GMP hints 12% listing gain. Check key dates, review. Apply or skip?",
-          "link": "https://www.livemint.com/market/ipo/leap-india-ipo-gmp-leap-india-ipo-expected-listing-price-leap-india-ipo-review-leap-india-ipo-details-leap-india-ipo-11786071708789.html",
-          "pubDate": "2026-08-07T08:55:59+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-07T19:11:47.091218+00:00",
+      "updated_at": "2026-08-07T19:57:01.232232+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

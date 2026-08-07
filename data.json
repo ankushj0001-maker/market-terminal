@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T10:30:43.637654+00:00",
+  "generated_at": "2026-08-07T11:28:29.329858+00:00",
   "indices": {
     "nifty50": {
       "price": 24570.65,
@@ -68,7 +68,7 @@
         24570.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-07T10:30:41.891798+00:00"
+      "updated_at": "2026-08-07T11:28:27.466804+00:00"
     },
     "sensex": {
       "price": 78499.17,
@@ -137,7 +137,7 @@
         78499.171875
       ],
       "ok": true,
-      "updated_at": "2026-08-07T10:30:41.930605+00:00"
+      "updated_at": "2026-08-07T11:28:27.556196+00:00"
     },
     "banknifty": {
       "price": 57746.45,
@@ -206,7 +206,7 @@
         57746.44921875
       ],
       "ok": true,
-      "updated_at": "2026-08-07T10:30:41.969981+00:00"
+      "updated_at": "2026-08-07T11:28:27.611548+00:00"
     },
     "vix": {
       "price": 12.158,
@@ -275,7 +275,7 @@
         12.157500267028809
       ],
       "ok": true,
-      "updated_at": "2026-08-07T10:30:42.008637+00:00"
+      "updated_at": "2026-08-07T11:28:27.664690+00:00"
     },
     "usdinr": {
       "price": 95.198,
@@ -344,24 +344,13 @@
         95.197998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-07T10:30:42.049379+00:00"
+      "updated_at": "2026-08-07T11:28:27.718045+00:00"
     },
     "gold": {
-      "price": 4371.6,
-      "change": 72.0,
-      "pct": 1.6746,
+      "price": 4377.0,
+      "change": 77.4,
+      "pct": 1.8002,
       "closes": [
-        4334.2001953125,
-        4332.7001953125,
-        4330.60009765625,
-        4335.2998046875,
-        4333.5,
-        4337.7001953125,
-        4341.2001953125,
-        4341.10009765625,
-        4345.39990234375,
-        4346.89990234375,
-        4346.2001953125,
         4341.7001953125,
         4344.60009765625,
         4350.60009765625,
@@ -410,27 +399,27 @@
         4367.2001953125,
         4372.39990234375,
         4371.7998046875,
-        4371.60009765625
+        4373.10009765625,
+        4375.39990234375,
+        4377.0,
+        4376.2001953125,
+        4378.10009765625,
+        4376.7001953125,
+        4376.39990234375,
+        4382.7998046875,
+        4384.5,
+        4379.5,
+        4379.7998046875,
+        4377.0
       ],
       "ok": true,
-      "updated_at": "2026-08-07T10:30:42.086303+00:00"
+      "updated_at": "2026-08-07T11:28:27.773620+00:00"
     },
     "crude": {
-      "price": 77.16,
-      "change": -0.13,
-      "pct": -0.1682,
+      "price": 77.0,
+      "change": -0.29,
+      "pct": -0.3752,
       "closes": [
-        78.36000061035156,
-        78.19999694824219,
-        78.25,
-        78.26000213623047,
-        78.12000274658203,
-        78.05999755859375,
-        77.9000015258789,
-        77.91999816894531,
-        77.83000183105469,
-        77.86000061035156,
-        77.6500015258789,
         77.5999984741211,
         77.77999877929688,
         77.9000015258789,
@@ -479,10 +468,21 @@
         77.04000091552734,
         77.1500015258789,
         77.19000244140625,
-        77.16000366210938
+        77.0999984741211,
+        76.97000122070312,
+        76.91000366210938,
+        76.88999938964844,
+        76.87000274658203,
+        76.8499984741211,
+        76.81999969482422,
+        76.73999786376953,
+        76.73999786376953,
+        76.97000122070312,
+        76.97000122070312,
+        77.0
       ],
       "ok": true,
-      "updated_at": "2026-08-07T10:30:42.127090+00:00"
+      "updated_at": "2026-08-07T11:28:27.823191+00:00"
     },
     "us10y": {
       "price": 4.67,
@@ -551,13 +551,13 @@
         4.670000076293945
       ],
       "ok": true,
-      "updated_at": "2026-08-07T10:30:42.173984+00:00"
+      "updated_at": "2026-08-07T11:28:27.878066+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-07T10:30:42.266081+00:00",
+      "updated_at": "2026-08-07T11:28:28.125933+00:00",
       "items": [
         {
           "title": "Samvardhana Motherson shares rally over 7% after Q1 earnings; Motilal Oswal, Nomura weigh in",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-07T10:30:42.413170+00:00",
+      "updated_at": "2026-08-07T11:28:28.189402+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-07T10:30:42.514732+00:00",
+      "updated_at": "2026-08-07T11:28:28.290574+00:00",
       "items": [
+        {
+          "title": "Titan Q1 Results: Net profit jumps 63% to  ₹1,777 crore on steady jewellery demand; revenue rises 40%",
+          "link": "https://www.livemint.com/market/stock-market-news/titan-q1-results-net-profit-jumps-63-to-rs-1-777-crore-revenue-rises-40-11786099305471.html",
+          "pubDate": "2026-08-07T16:19:48+05:30"
+        },
         {
           "title": "Top Gainers &amp; Losers on 7 August: Bajaj Finance, Navin Fluorine, Trent, Tata Capital, Swiggy among top losers",
           "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-7-august-bajaj-finance-navin-fluorine-trent-tata-capital-swiggy-among-top-losers-11786097361207.html",
@@ -940,11 +945,6 @@
           "title": "Stock recommendations for 7 August from MarketSmith India",
           "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-7-august-from-marketsmith-india-11786031412058.html",
           "pubDate": "2026-08-07T06:10:15+05:30"
-        },
-        {
-          "title": "Yen Surrenders Nearly Half Its Gains from US-Japan Intervention",
-          "link": "https://www.livemint.com/market/yen-surrenders-nearly-half-its-gains-from-us-japan-intervention-11786062248662.html",
-          "pubDate": "2026-08-07T05:54:08+05:30"
         }
       ]
     },
@@ -955,8 +955,23 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-07T10:30:43.637638+00:00",
+      "updated_at": "2026-08-07T11:28:29.329840+00:00",
       "items": [
+        {
+          "title": "RBI invites public comments on the draft Directions on ‘Credit Valuation Adjustment (CVA) Framework’",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63314",
+          "pubDate": "2026-08-07T16:35:00+00:00"
+        },
+        {
+          "title": "RBI invites comments on the draft “Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026”",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63313",
+          "pubDate": "2026-08-07T16:30:00+00:00"
+        },
+        {
+          "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 –Urban Co-operative Bank Limited, Dehradun - Extension of Period",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63312",
+          "pubDate": "2026-08-07T16:05:00+00:00"
+        },
         {
           "title": "Government Stock - Full Auction Results",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63311",
@@ -991,21 +1006,6 @@
           "title": "RBI Issues Amendment Directions on ‘Conduct of Regulated Entities in Recovery of Loans and Engagement of Recovery Agents’",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63305",
           "pubDate": "2026-08-06T18:10:00+00:00"
-        },
-        {
-          "title": "RBI imposes monetary penalty on Kedarnath Urban Co-operative Bank Ltd., Latur, Maharashtra",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63304",
-          "pubDate": "2026-08-06T17:35:00+00:00"
-        },
-        {
-          "title": "RBI invites comments on the draft “Reserve Bank of India (Non-Banking Financial Companies – Credit Facilities) Amendment Directions, 2026”",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63303",
-          "pubDate": "2026-08-06T17:30:00+00:00"
-        },
-        {
-          "title": "Reserve Money for the fortnight ended on July 31, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63302",
-          "pubDate": "2026-08-06T17:05:00+00:00"
         }
       ]
     }

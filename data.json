@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T03:55:42.161416+00:00",
+  "generated_at": "2026-08-08T04:44:19.389964+00:00",
   "indices": {
     "nifty50": {
       "price": 24570.65,
@@ -68,7 +68,7 @@
         24570.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-08T03:55:40.636505+00:00"
+      "updated_at": "2026-08-08T04:44:17.476881+00:00"
     },
     "sensex": {
       "price": 78499.17,
@@ -137,7 +137,7 @@
         78499.171875
       ],
       "ok": true,
-      "updated_at": "2026-08-08T03:55:40.681796+00:00"
+      "updated_at": "2026-08-08T04:44:17.530186+00:00"
     },
     "banknifty": {
       "price": 57746.45,
@@ -206,7 +206,7 @@
         57746.44921875
       ],
       "ok": true,
-      "updated_at": "2026-08-08T03:55:40.722755+00:00"
+      "updated_at": "2026-08-08T04:44:17.580950+00:00"
     },
     "vix": {
       "price": 12.1575,
@@ -275,7 +275,7 @@
         12.157500267028809
       ],
       "ok": true,
-      "updated_at": "2026-08-08T03:55:40.773221+00:00"
+      "updated_at": "2026-08-08T04:44:17.635326+00:00"
     },
     "usdinr": {
       "price": 95.2,
@@ -344,13 +344,14 @@
         95.197998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-08T03:55:40.824053+00:00"
+      "updated_at": "2026-08-08T04:44:17.690859+00:00"
     },
     "gold": {
-      "price": 4401.3,
-      "change": 101.7,
-      "pct": 2.3653,
+      "price": 4399.7,
+      "change": 100.1,
+      "pct": 2.3281,
       "closes": [
+        4402.5,
         4406.5,
         4407.0,
         4401.7998046875,
@@ -409,17 +410,17 @@
         4400.7998046875,
         4399.2001953125,
         4400.5,
-        4401.2998046875,
         4401.2998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-08T03:55:40.870032+00:00"
+      "updated_at": "2026-08-08T04:44:17.748081+00:00"
     },
     "crude": {
-      "price": 77.08,
-      "change": -0.21,
-      "pct": -0.2717,
+      "price": 78.18,
+      "change": 0.89,
+      "pct": 1.1515,
       "closes": [
+        78.37999725341797,
         78.29000091552734,
         78.29000091552734,
         78.31999969482422,
@@ -478,11 +479,10 @@
         77.19000244140625,
         77.31999969482422,
         77.12000274658203,
-        77.08000183105469,
         77.08000183105469
       ],
       "ok": true,
-      "updated_at": "2026-08-08T03:55:40.916996+00:00"
+      "updated_at": "2026-08-08T04:44:17.805391+00:00"
     },
     "us10y": {
       "price": 4.66,
@@ -551,13 +551,13 @@
         4.659999847412109
       ],
       "ok": true,
-      "updated_at": "2026-08-08T03:55:40.961648+00:00"
+      "updated_at": "2026-08-08T04:44:17.858909+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-08T03:55:41.048769+00:00",
+      "updated_at": "2026-08-08T04:44:18.018588+00:00",
       "items": [
         {
           "title": "US stocks: S&amp;P closes at record high as soft jobs report eases rate-hike concerns",
@@ -712,7 +712,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-08T03:55:41.121395+00:00",
       "items": [
         {
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-08T03:55:41.237484+00:00",
+      "updated_at": "2026-08-08T04:44:18.540393+00:00",
       "items": [
+        {
+          "title": "SBI Q1FY27 results beat market estimates. Is this a stock to buy?",
+          "link": "https://www.livemint.com/market/stock-market-news/sbi-share-price-sbi-q1-results-2026-beat-market-estimates-is-this-a-stock-to-buy-11786157865622.html",
+          "pubDate": "2026-08-08T09:25:56+05:30"
+        },
         {
           "title": "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 10 August 2026",
           "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-10-august-2026-11786154773920.html",
@@ -940,11 +945,6 @@
           "title": "Ardee Industries IPO Day 3 LIVE: GMP, subscription status to review. Apply or not?",
           "link": "https://www.livemint.com/market/ipo/ardee-industries-ipo-day-3-live-gmp-subscription-status-to-review-apply-or-not-11786073729808.html",
           "pubDate": "2026-08-07T10:05:48+05:30"
-        },
-        {
-          "title": "Fusion Klassroom Edutech IPO listing: Shares list at 7% premium over the IPO price",
-          "link": "https://www.livemint.com/market/stock-market-news/fusion-klassroom-edutech-ipo-listing-shares-list-at-7-premium-over-the-ipo-price-11786074396067.html",
-          "pubDate": "2026-08-07T09:59:29+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-08T03:55:42.161400+00:00",
+      "updated_at": "2026-08-08T04:44:19.389949+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

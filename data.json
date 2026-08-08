@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:10:34.302381+00:00",
+  "generated_at": "2026-08-08T07:56:08.310057+00:00",
   "indices": {
     "nifty50": {
       "price": 24570.65,
@@ -68,7 +68,7 @@
         24570.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-08T07:10:32.191729+00:00"
+      "updated_at": "2026-08-08T07:56:06.752964+00:00"
     },
     "sensex": {
       "price": 78499.17,
@@ -137,7 +137,7 @@
         78499.171875
       ],
       "ok": true,
-      "updated_at": "2026-08-08T07:10:32.251126+00:00"
+      "updated_at": "2026-08-08T07:56:06.800118+00:00"
     },
     "banknifty": {
       "price": 57746.45,
@@ -206,12 +206,12 @@
         57746.44921875
       ],
       "ok": true,
-      "updated_at": "2026-08-08T07:10:32.312202+00:00"
+      "updated_at": "2026-08-08T07:56:06.855949+00:00"
     },
     "vix": {
-      "price": 12.16,
-      "change": 0.0,
-      "pct": 0.0,
+      "price": 12.158,
+      "change": -0.002,
+      "pct": -0.0164,
       "closes": [
         12.397500038146973,
         12.484999656677246,
@@ -272,10 +272,10 @@
         12.157500267028809,
         12.142499923706055,
         12.140000343322754,
-        12.15999984741211
+        12.157500267028809
       ],
       "ok": true,
-      "updated_at": "2026-08-08T07:10:32.369944+00:00"
+      "updated_at": "2026-08-08T07:56:06.899815+00:00"
     },
     "usdinr": {
       "price": 95.2,
@@ -344,7 +344,7 @@
         95.197998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-08T07:10:32.439345+00:00"
+      "updated_at": "2026-08-08T07:56:06.948077+00:00"
     },
     "gold": {
       "price": 4399.7,
@@ -413,7 +413,7 @@
         4401.2998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-08T07:10:32.501082+00:00"
+      "updated_at": "2026-08-08T07:56:07.001462+00:00"
     },
     "crude": {
       "price": 78.18,
@@ -482,7 +482,7 @@
         77.08000183105469
       ],
       "ok": true,
-      "updated_at": "2026-08-08T07:10:32.564951+00:00"
+      "updated_at": "2026-08-08T07:56:07.054049+00:00"
     },
     "us10y": {
       "price": 4.66,
@@ -551,13 +551,13 @@
         4.659999847412109
       ],
       "ok": true,
-      "updated_at": "2026-08-08T07:10:32.621992+00:00"
+      "updated_at": "2026-08-08T07:56:07.097648+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-08T07:10:32.744900+00:00",
+      "updated_at": "2026-08-08T07:56:07.251613+00:00",
       "items": [
         {
           "title": "Molbio Diagnostics collects Rs 281 cr from anchor investors ahead of IPO",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-08T07:10:33.043364+00:00",
+      "updated_at": "2026-08-08T07:56:07.312166+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-08T07:10:33.285513+00:00",
+      "updated_at": "2026-08-08T07:56:07.374211+00:00",
       "items": [
+        {
+          "title": "Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell",
+          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11786168790531.html",
+          "pubDate": "2026-08-08T12:41:38+05:30"
+        },
         {
           "title": "Ardee Industries IPO GMP remains steady after strong subscription status. Allotment date in focus",
           "link": "https://www.livemint.com/market/ipo/ardee-industries-ipo-gmp-remains-steady-after-strong-subscription-status-allotment-date-in-focus-11786163860873.html",
@@ -940,11 +945,6 @@
           "title": "778% rally in five years! Multibagger pharma stock close to record high after Q1 results 2026",
           "link": "https://www.livemint.com/market/stock-market-news/778-rally-in-five-years-multibagger-pharma-stock-close-to-record-high-after-q1-results-2026-11786080177518.html",
           "pubDate": "2026-08-07T11:17:16+05:30"
-        },
-        {
-          "title": "Behari Lal Engineering IPO: Price band set at  ₹271-285 per share; check key dates, issue details",
-          "link": "https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-price-band-set-at-rs-271-285-per-share-check-key-dates-issue-details-11786076883395.html",
-          "pubDate": "2026-08-07T10:29:27+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-08T07:10:34.302364+00:00",
+      "updated_at": "2026-08-08T07:56:08.310041+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

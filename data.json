@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T21:54:38.251901+00:00",
+  "generated_at": "2026-08-09T22:15:51.238672+00:00",
   "indices": {
     "nifty50": {
       "price": 24570.65,
@@ -68,7 +68,7 @@
         24570.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-09T21:54:35.784328+00:00"
+      "updated_at": "2026-08-09T22:15:48.579661+00:00"
     },
     "sensex": {
       "price": 78499.17,
@@ -137,7 +137,7 @@
         78499.171875
       ],
       "ok": true,
-      "updated_at": "2026-08-09T21:54:35.890353+00:00"
+      "updated_at": "2026-08-09T22:15:48.721956+00:00"
     },
     "banknifty": {
       "price": 57746.45,
@@ -206,7 +206,7 @@
         57746.44921875
       ],
       "ok": true,
-      "updated_at": "2026-08-09T21:54:36.002341+00:00"
+      "updated_at": "2026-08-09T22:15:48.853429+00:00"
     },
     "vix": {
       "price": 12.1575,
@@ -275,7 +275,7 @@
         12.157500267028809
       ],
       "ok": true,
-      "updated_at": "2026-08-09T21:54:36.114832+00:00"
+      "updated_at": "2026-08-09T22:15:48.967531+00:00"
     },
     "usdinr": {
       "price": 95.198,
@@ -344,23 +344,27 @@
         95.197998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-09T21:54:36.254299+00:00"
+      "updated_at": "2026-08-09T22:15:49.107355+00:00"
     },
     "gold": {
       "price": 4399.7,
       "change": 0.0,
       "pct": 0.0,
-      "closes": [],
+      "closes": [
+        4399.7001953125
+      ],
       "ok": true,
-      "updated_at": "2026-08-09T21:54:36.354699+00:00"
+      "updated_at": "2026-08-09T22:15:49.233243+00:00"
     },
     "crude": {
       "price": 78.18,
       "change": 0.0,
       "pct": 0.0,
-      "closes": [],
+      "closes": [
+        78.18000030517578
+      ],
       "ok": true,
-      "updated_at": "2026-08-09T21:54:36.454124+00:00"
+      "updated_at": "2026-08-09T22:15:49.306334+00:00"
     },
     "us10y": {
       "price": 4.66,
@@ -429,13 +433,13 @@
         4.659999847412109
       ],
       "ok": true,
-      "updated_at": "2026-08-09T21:54:36.561109+00:00"
+      "updated_at": "2026-08-09T22:15:49.449127+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-09T21:54:36.708022+00:00",
+      "updated_at": "2026-08-09T22:15:49.663751+00:00",
       "items": [
         {
           "title": "Berkshire Hathaway spends down cash pile under CEO Greg Abel",
@@ -672,8 +676,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-09T21:54:37.078635+00:00",
+      "updated_at": "2026-08-09T22:15:50.234685+00:00",
       "items": [
+        {
+          "title": "Australian Wheat Crop Rebounds at Crucial Time for Global Supply",
+          "link": "https://www.livemint.com/market/australian-wheat-crop-rebounds-at-crucial-time-for-global-supply-11786312660735.html",
+          "pubDate": "2026-08-10T03:27:40+05:30"
+        },
         {
           "title": "Aussie-Yen Is Set to Approach Three-Decade High, Analysts Say",
           "link": "https://www.livemint.com/market/aussieyen-is-set-to-approach-three-decade-high-analysts-say-11786311200825.html",
@@ -818,11 +827,6 @@
           "title": "Cupid net profit jumps 194% YoY to  ₹44 crore in Q1 as margins expand sharply; raises FY27 guidance",
           "link": "https://www.livemint.com/market/stock-market-news/cupid-net-profit-jumps-194-yoy-to-rs-44-crore-in-q1-as-margins-expand-sharply-raises-fy27-guidance-11786119336545.html",
           "pubDate": "2026-08-07T21:59:00+05:30"
-        },
-        {
-          "title": "Airbnb shares surge 16% to 4-year high on Q2 beat; full-year outlook raised for second time",
-          "link": "https://www.livemint.com/market/stock-market-news/airbnb-shares-surge-16-to-4-year-high-on-q2-beat-full-year-outlook-raised-for-second-time-11786113146220.html",
-          "pubDate": "2026-08-07T20:21:19+05:30"
         }
       ]
     },
@@ -833,7 +837,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-09T21:54:38.251887+00:00",
+      "updated_at": "2026-08-09T22:15:51.238658+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

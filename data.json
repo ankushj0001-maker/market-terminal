@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T02:25:18.437145+00:00",
+  "generated_at": "2026-08-09T03:55:37.468069+00:00",
   "indices": {
     "nifty50": {
       "price": 24570.65,
@@ -68,7 +68,7 @@
         24570.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-09T02:25:16.606892+00:00"
+      "updated_at": "2026-08-09T03:55:34.340669+00:00"
     },
     "sensex": {
       "price": 78499.17,
@@ -137,7 +137,7 @@
         78499.171875
       ],
       "ok": true,
-      "updated_at": "2026-08-09T02:25:16.659491+00:00"
+      "updated_at": "2026-08-09T03:55:34.451583+00:00"
     },
     "banknifty": {
       "price": 57746.45,
@@ -206,12 +206,12 @@
         57746.44921875
       ],
       "ok": true,
-      "updated_at": "2026-08-09T02:25:16.712664+00:00"
+      "updated_at": "2026-08-09T03:55:34.577674+00:00"
     },
     "vix": {
-      "price": 12.158,
-      "change": -0.002,
-      "pct": -0.0164,
+      "price": 12.1575,
+      "change": 0.0,
+      "pct": 0.0,
       "closes": [
         12.397500038146973,
         12.484999656677246,
@@ -275,13 +275,14 @@
         12.157500267028809
       ],
       "ok": true,
-      "updated_at": "2026-08-09T02:25:16.764062+00:00"
+      "updated_at": "2026-08-09T03:55:34.744233+00:00"
     },
     "usdinr": {
       "price": 95.2,
       "change": 0.085,
       "pct": 0.0894,
       "closes": [
+        95.26200103759766,
         95.27999877929688,
         95.2699966430664,
         95.25499725341797,
@@ -340,11 +341,10 @@
         95.197998046875,
         95.19999694824219,
         95.197998046875,
-        95.197998046875,
-        95.19999694824219
+        95.197998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-09T02:25:16.818934+00:00"
+      "updated_at": "2026-08-09T03:55:34.940031+00:00"
     },
     "gold": {
       "price": 4399.7,
@@ -413,7 +413,7 @@
         4399.7001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-09T02:25:16.902043+00:00"
+      "updated_at": "2026-08-09T03:55:35.029080+00:00"
     },
     "crude": {
       "price": 78.18,
@@ -482,7 +482,7 @@
         78.18000030517578
       ],
       "ok": true,
-      "updated_at": "2026-08-09T02:25:16.958146+00:00"
+      "updated_at": "2026-08-09T03:55:35.262790+00:00"
     },
     "us10y": {
       "price": 4.66,
@@ -551,13 +551,13 @@
         4.659999847412109
       ],
       "ok": true,
-      "updated_at": "2026-08-09T02:25:17.010522+00:00"
+      "updated_at": "2026-08-09T03:55:35.376900+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-09T02:25:17.097419+00:00",
+      "updated_at": "2026-08-09T03:55:35.625209+00:00",
       "items": [
         {
           "title": "Explained: How BSE traded fewer contracts after CAS but premiums rose 75% in first week",
@@ -712,8 +712,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-08T17:53:15.174514+00:00",
+      "ok": true,
+      "updated_at": "2026-08-09T03:55:36.030835+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,23 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-09T02:25:17.648471+00:00",
+      "updated_at": "2026-08-09T03:55:36.345335+00:00",
       "items": [
+        {
+          "title": "Stocks under  ₹100: Sumeet Bagadia recommends three shares to buy on Monday - 10 August 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/stocks-under-rs-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-10-august-2026-11786245120795.html",
+          "pubDate": "2026-08-09T09:17:17+05:30"
+        },
+        {
+          "title": "Buy or sell: Ganesh Dongre of Anand Rathi recommends 3 stocks to buy on Monday - 10 August 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-3-stocks-to-buy-on-monday-10-august-2026-11786243110500.html",
+          "pubDate": "2026-08-09T08:30:37+05:30"
+        },
+        {
+          "title": "Q1 results FY27 to US-Iran war: Top five triggers that may dictate the Indian stock market this week",
+          "link": "https://www.livemint.com/market/stock-market-news/q1-results-fy27-to-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11786240881737.html",
+          "pubDate": "2026-08-09T08:03:14+05:30"
+        },
         {
           "title": "Korea Volatility Spike Ebbs as Leveraged Trades Are Flushed Out",
           "link": "https://www.livemint.com/market/korea-volatility-spike-ebbs-as-leveraged-trades-are-flushed-out-11786234691643.html",
@@ -930,21 +945,6 @@
           "title": "SBI Q1 Results: Net profit jumps 10.2% YoY to  ₹21,121 crore, NII up 15%",
           "link": "https://www.livemint.com/market/stock-market-news/sbi-q1-results-net-profit-jumps-10-2-yoy-to-rs-21-121-crore-11786085819974.html",
           "pubDate": "2026-08-07T14:04:57+05:30"
-        },
-        {
-          "title": "Optimystix Entertainment IPO Day 1: Issue booked 34% so far. Check GMP, issue details, key dates",
-          "link": "https://www.livemint.com/market/ipo/optimystix-entertainment-ipo-day-1-issue-booked-34-so-far-check-gmp-issue-details-key-dates-11786088221432.html",
-          "pubDate": "2026-08-07T13:42:57+05:30"
-        },
-        {
-          "title": "Cummins India faces margin, valuation hurdles despite robust demand",
-          "link": "https://www.livemint.com/market/mark-to-market/cummins-india-q1fy27-ebitda-margins-data-centres-exports-pricing-raw-material-costs-engine-manufacturer-11786085501676.html",
-          "pubDate": "2026-08-07T13:19:11+05:30"
-        },
-        {
-          "title": "Aegeus Technologies IPO allotment to be finalised today. Here's GMP, how to check status online",
-          "link": "https://www.livemint.com/market/ipo/aegeus-technologies-ipo-allotment-to-be-finalised-today-heres-gmp-how-to-check-status-online-11786082575292.html",
-          "pubDate": "2026-08-07T13:13:46+05:30"
         }
       ]
     },
@@ -955,7 +955,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-09T02:25:18.437128+00:00",
+      "updated_at": "2026-08-09T03:55:37.468050+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

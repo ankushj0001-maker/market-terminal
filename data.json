@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T05:37:50.504503+00:00",
+  "generated_at": "2026-08-09T06:26:29.697450+00:00",
   "indices": {
     "nifty50": {
       "price": 24570.65,
@@ -68,7 +68,7 @@
         24570.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-09T05:37:49.256643+00:00"
+      "updated_at": "2026-08-09T06:26:28.147372+00:00"
     },
     "sensex": {
       "price": 78499.17,
@@ -137,7 +137,7 @@
         78499.171875
       ],
       "ok": true,
-      "updated_at": "2026-08-09T05:37:49.300757+00:00"
+      "updated_at": "2026-08-09T06:26:28.199975+00:00"
     },
     "banknifty": {
       "price": 57746.45,
@@ -206,7 +206,7 @@
         57746.44921875
       ],
       "ok": true,
-      "updated_at": "2026-08-09T05:37:49.349868+00:00"
+      "updated_at": "2026-08-09T06:26:28.253088+00:00"
     },
     "vix": {
       "price": 12.1575,
@@ -275,7 +275,7 @@
         12.157500267028809
       ],
       "ok": true,
-      "updated_at": "2026-08-09T05:37:49.396672+00:00"
+      "updated_at": "2026-08-09T06:26:28.305361+00:00"
     },
     "usdinr": {
       "price": 95.2,
@@ -344,7 +344,7 @@
         95.197998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-09T05:37:49.447370+00:00"
+      "updated_at": "2026-08-09T06:26:28.361095+00:00"
     },
     "gold": {
       "price": 4399.7,
@@ -352,7 +352,7 @@
       "pct": 2.3281,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-09T05:37:49.520898+00:00"
+      "updated_at": "2026-08-09T06:26:28.404948+00:00"
     },
     "crude": {
       "price": 78.18,
@@ -360,7 +360,7 @@
       "pct": 1.1515,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-09T05:37:49.556057+00:00"
+      "updated_at": "2026-08-09T06:26:28.449507+00:00"
     },
     "us10y": {
       "price": 4.66,
@@ -429,18 +429,28 @@
         4.659999847412109
       ],
       "ok": true,
-      "updated_at": "2026-08-09T05:37:49.599895+00:00"
+      "updated_at": "2026-08-09T06:26:28.505103+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-09T05:37:49.640719+00:00",
+      "updated_at": "2026-08-09T06:26:28.572801+00:00",
       "items": [
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-four-of-top-10-most-valued-firms-jumps-rs-1-43-lakh-cr-state-bank-biggest-winner/articleshow/133062390.cms",
           "pubDate": "2026-08-09T10:21:35+05:30"
+        },
+        {
+          "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-four-of-top-10-most-valued-firms-jumps-rs-1-43-lakh-cr-state-bank-biggest-winner/articleshow/133062390.cms",
+          "pubDate": "2026-08-09T10:21:35+05:30"
+        },
+        {
+          "title": "Foreign investors continue buying spree; pour Rs 12,921 cr in first week of Aug",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-continue-buying-spree-pour-rs-12921-cr-in-first-week-of-aug/articleshow/133062370.cms",
+          "pubDate": "2026-08-09T10:18:25+05:30"
         },
         {
           "title": "Foreign investors continue buying spree; pour Rs 12,921 cr in first week of Aug",
@@ -466,16 +476,6 @@
           "title": "Quant Small Cap Fund adds SBI Funds Management, Caliber Mining and 11 others in July",
           "link": "https://economictimes.indiatimes.com/mf/analysis/quant-small-cap-fund-adds-sbi-funds-management-caliber-mining-and-11-others-in-july/articleshow/133048616.cms",
           "pubDate": "2026-08-08T13:10:39+05:30"
-        },
-        {
-          "title": "Wall Street Is deepening Its crypto grip and rewiring the market",
-          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/wall-street-is-deepening-its-crypto-grip-and-rewiring-the-market/articleshow/133048469.cms",
-          "pubDate": "2026-08-08T12:57:37+05:30"
-        },
-        {
-          "title": "Mukul Agrawal’s winning picks: 9 stocks rallied over 50% in CY26; one fresh Q1 addition",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mukul-agrawals-winning-picks-9-stocks-rallied-over-50-in-cy26-one-fresh-q1-addition/slideshow/133048465.cms",
-          "pubDate": "2026-08-08T12:46:19+05:30"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -590,7 +590,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-09T05:37:49.712068+00:00",
       "items": [
         {
@@ -672,8 +672,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-09T05:37:49.795690+00:00",
+      "updated_at": "2026-08-09T06:26:29.126201+00:00",
       "items": [
+        {
+          "title": "Multibagger stock to be in focus on Monday; here's why",
+          "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-bigbloc-construction-to-be-in-focus-on-monday-heres-why-11786251740187.html",
+          "pubDate": "2026-08-09T11:32:13+05:30"
+        },
         {
           "title": "Stocks to buy: Sun Pharma, BEL among 4 shares Bajaj Broking's expert recommends for next 6 months",
           "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-sun-pharma-bel-among-4-shares-bajaj-brokings-expert-recommends-for-next-6-months-11786249393533.html",
@@ -818,11 +823,6 @@
           "title": "Top Gainers &amp; Losers on 7 August: Bajaj Finance, Navin Fluorine, Trent, Tata Capital, Swiggy among top losers",
           "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-7-august-bajaj-finance-navin-fluorine-trent-tata-capital-swiggy-among-top-losers-11786097361207.html",
           "pubDate": "2026-08-07T15:43:41+05:30"
-        },
-        {
-          "title": "Alphabet, Meta Platforms to SK Hynix: What does the AI trade bubble burst mean for the Indian stock market?",
-          "link": "https://www.livemint.com/market/stock-market-news/alphabet-meta-platforms-to-sk-hynix-what-does-the-ai-trade-bubble-burst-mean-for-the-indian-stock-market-11786090522971.html",
-          "pubDate": "2026-08-07T15:07:30+05:30"
         }
       ]
     },
@@ -833,7 +833,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-09T05:37:50.504492+00:00",
+      "updated_at": "2026-08-09T06:26:29.697435+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

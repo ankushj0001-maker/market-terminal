@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T18:08:51.097150+00:00",
+  "generated_at": "2026-08-10T19:12:05.250178+00:00",
   "indices": {
     "nifty50": {
       "price": 24583.8,
@@ -68,7 +68,7 @@
         24583.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-10T18:08:48.476760+00:00"
+      "updated_at": "2026-08-10T19:12:04.097947+00:00"
     },
     "sensex": {
       "price": 78542.44,
@@ -137,7 +137,7 @@
         78542.4375
       ],
       "ok": true,
-      "updated_at": "2026-08-10T18:08:48.566860+00:00"
+      "updated_at": "2026-08-10T19:12:04.150407+00:00"
     },
     "banknifty": {
       "price": 57686.95,
@@ -206,7 +206,7 @@
         57686.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-10T18:08:48.630238+00:00"
+      "updated_at": "2026-08-10T19:12:04.205856+00:00"
     },
     "vix": {
       "price": 12.245,
@@ -275,14 +275,13 @@
         12.244999885559082
       ],
       "ok": true,
-      "updated_at": "2026-08-10T18:08:48.706651+00:00"
+      "updated_at": "2026-08-10T19:12:04.263649+00:00"
     },
     "usdinr": {
       "price": 95.29,
       "change": 0.092,
       "pct": 0.0966,
       "closes": [
-        95.22000122070312,
         95.22250366210938,
         95.21299743652344,
         95.22000122070312,
@@ -341,29 +340,17 @@
         95.29000091552734,
         95.29000091552734,
         95.29000091552734,
+        95.29000091552734,
         95.29000091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-10T18:08:48.837882+00:00"
+      "updated_at": "2026-08-10T19:12:04.334714+00:00"
     },
     "gold": {
-      "price": 4418.2,
-      "change": 18.5,
-      "pct": 0.4205,
+      "price": 4438.6,
+      "change": 38.9,
+      "pct": 0.8842,
       "closes": [
-        4393.2001953125,
-        4396.10009765625,
-        4394.10009765625,
-        4389.7001953125,
-        4394.0,
-        4395.5,
-        4396.39990234375,
-        4389.2001953125,
-        4385.7998046875,
-        4382.0,
-        4376.2998046875,
-        4381.89990234375,
-        4383.0,
         4388.7998046875,
         4392.89990234375,
         4397.5,
@@ -410,29 +397,29 @@
         4419.7001953125,
         4418.2998046875,
         4419.2001953125,
-        4418.2001953125
+        4422.7998046875,
+        4422.7998046875,
+        4422.2998046875,
+        4422.2001953125,
+        4423.7998046875,
+        4425.0,
+        4438.7998046875,
+        4440.7001953125,
+        4438.7001953125,
+        4436.0,
+        4436.0,
+        4437.7001953125,
+        4439.10009765625,
+        4438.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-10T18:08:49.119984+00:00"
+      "updated_at": "2026-08-10T19:12:04.417221+00:00"
     },
     "crude": {
-      "price": 81.91,
-      "change": 3.73,
-      "pct": 4.771,
+      "price": 81.82,
+      "change": 3.64,
+      "pct": 4.6559,
       "closes": [
-        79.55000305175781,
-        79.4800033569336,
-        79.30999755859375,
-        79.47000122070312,
-        79.66999816894531,
-        79.88999938964844,
-        79.91000366210938,
-        80.08000183105469,
-        80.44999694824219,
-        80.5999984741211,
-        80.86000061035156,
-        80.62999725341797,
-        80.83000183105469,
         80.75,
         80.33000183105469,
         80.43000030517578,
@@ -479,28 +466,29 @@
         81.87999725341797,
         81.80000305175781,
         81.94999694824219,
-        81.91000366210938
+        81.83999633789062,
+        81.80999755859375,
+        81.81999969482422,
+        82.20999908447266,
+        82.22000122070312,
+        82.16999816894531,
+        82.27999877929688,
+        82.18000030517578,
+        82.13999938964844,
+        82.05999755859375,
+        82.0199966430664,
+        81.9000015258789,
+        81.75,
+        81.81999969482422
       ],
       "ok": true,
-      "updated_at": "2026-08-10T18:08:49.275551+00:00"
+      "updated_at": "2026-08-10T19:12:04.487302+00:00"
     },
     "us10y": {
       "price": 4.7,
       "change": 0.04,
       "pct": 0.8584,
       "closes": [
-        4.671999931335449,
-        4.675999641418457,
-        4.674000263214111,
-        4.675999641418457,
-        4.682000160217285,
-        4.675999641418457,
-        4.675999641418457,
-        4.675999641418457,
-        4.684000015258789,
-        4.691999912261963,
-        4.688000202178955,
-        4.688000202178955,
         4.685999870300293,
         4.688000202178955,
         4.688000202178955,
@@ -548,17 +536,34 @@
         4.699999809265137,
         4.699999809265137,
         4.699999809265137,
+        4.699999809265137,
+        4.699000358581543,
+        4.699999809265137,
+        4.699000358581543,
+        4.699999809265137,
+        4.699000358581543,
+        4.699000358581543,
+        4.696000099182129,
+        4.696000099182129,
+        4.696000099182129,
+        4.699999809265137,
+        4.699000358581543,
         4.699999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-10T18:08:49.312484+00:00"
+      "updated_at": "2026-08-10T19:12:04.582044+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-10T18:08:49.452552+00:00",
+      "updated_at": "2026-08-10T19:12:04.732119+00:00",
       "items": [
+        {
+          "title": "Archer Aviation shares jump nearly 10% on deal to acquire Boeing’s Wisk, two other units",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/archer-aviation-shares-jump-nearly-10-on-deal-to-acquire-boeings-wisk-two-other-units/articleshow/133126628.cms",
+          "pubDate": "2026-08-10T23:25:44+05:30"
+        },
         {
           "title": "Sebi proposes raising annual ISIN limit for private debt securities to 17",
           "link": "https://economictimes.indiatimes.com/markets/bonds/sebi-proposes-raising-annual-isin-limit-for-private-debt-securities-to-17/articleshow/133109056.cms",
@@ -578,11 +583,6 @@
           "title": "Has Dalal Street's near term outlook improved? HSBC lists 4 headwinds, 3 tailwinds to watch out for",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/has-dalal-streets-near-term-outlook-improved-hsbc-lists-4-headwinds-3-tailwinds-to-watch-out-for/articleshow/133097555.cms",
           "pubDate": "2026-08-10T16:11:34+05:30"
-        },
-        {
-          "title": "FIIs more than doubled their stakes in 11 multibaggers in June quarter. Do you own any?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-more-than-doubled-their-stakes-in-11-multibaggers-in-june-quarter-do-you-own-any/slideshow/133096409.cms",
-          "pubDate": "2026-08-10T15:33:53+05:30"
         },
         {
           "title": "From gold and LIC policy to SIPs and crypto: How investment habits changed from Boomers to Millennials to Gen Z",
@@ -712,7 +712,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-10T18:08:49.813687+00:00",
       "items": [
         {
@@ -794,7 +794,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-10T18:08:49.954203+00:00",
+      "updated_at": "2026-08-10T19:12:05.037335+00:00",
       "items": [
         {
           "title": "Zen Technologies shares to be in focus on Tuesday after company secures  ₹295 crore defence order",
@@ -950,8 +950,13 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-10T18:08:50.113340+00:00",
+      "updated_at": "2026-08-10T19:12:05.155237+00:00",
       "items": [
+        {
+          "title": "CDs' share in debt fund portfolio surges ahead of g-sec",
+          "link": "https://www.business-standard.com/markets/news/cds-share-in-debt-fund-portfolio-surges-ahead-of-g-sec-126081001502_1.html",
+          "pubDate": "2026-08-10T23:23:17+05:30"
+        },
         {
           "title": "ABSL MF launches 2 SIFs; Dhoot Transmission IPO booked 63% on Day 1",
           "link": "https://www.business-standard.com/markets/news/absl-mf-launches-2-sifs-dhoot-transmission-ipo-booked-63-on-day-1-126081001863_1.html",
@@ -1096,17 +1101,12 @@
           "title": "Challani Capital standalone net profit declines 61.36% in the June 2026 quarter",
           "link": "https://www.business-standard.com/markets/capital-market-news/challani-capital-standalone-net-profit-declines-61-36-in-the-june-2026-quarter-126081001379_1.html",
           "pubDate": "2026-08-10T17:53:30+05:30"
-        },
-        {
-          "title": "Kimia Biosciences standalone net profit declines 40.00% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/kimia-biosciences-standalone-net-profit-declines-40-00-in-the-june-2026-quarter-126081001378_1.html",
-          "pubDate": "2026-08-10T17:53:22+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-10T18:08:51.097133+00:00",
+      "updated_at": "2026-08-10T19:12:05.250155+00:00",
       "items": [
         {
           "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 11, 2026",

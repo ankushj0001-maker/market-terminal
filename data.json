@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T20:39:04.299129+00:00",
+  "generated_at": "2026-08-10T21:23:51.070544+00:00",
   "indices": {
     "nifty50": {
       "price": 24583.8,
@@ -68,7 +68,7 @@
         24583.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-10T20:39:02.285903+00:00"
+      "updated_at": "2026-08-10T21:23:48.166421+00:00"
     },
     "sensex": {
       "price": 78542.44,
@@ -137,7 +137,7 @@
         78542.4375
       ],
       "ok": true,
-      "updated_at": "2026-08-10T20:39:02.329714+00:00"
+      "updated_at": "2026-08-10T21:23:48.328550+00:00"
     },
     "banknifty": {
       "price": 57686.95,
@@ -206,7 +206,7 @@
         57686.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-10T20:39:02.390658+00:00"
+      "updated_at": "2026-08-10T21:23:48.480461+00:00"
     },
     "vix": {
       "price": 12.245,
@@ -275,14 +275,13 @@
         12.244999885559082
       ],
       "ok": true,
-      "updated_at": "2026-08-10T20:39:02.430439+00:00"
+      "updated_at": "2026-08-10T21:23:48.637197+00:00"
     },
     "usdinr": {
       "price": 95.29,
       "change": 0.092,
       "pct": 0.0966,
       "closes": [
-        95.22250366210938,
         95.21299743652344,
         95.22000122070312,
         95.23999786376953,
@@ -341,22 +340,17 @@
         95.29000091552734,
         95.29000091552734,
         95.29000091552734,
+        95.29000091552734,
         95.29000091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-10T20:39:02.494697+00:00"
+      "updated_at": "2026-08-10T21:23:48.803477+00:00"
     },
     "gold": {
-      "price": 4450.9,
-      "change": 51.2,
-      "pct": 1.1637,
+      "price": 4448.6,
+      "change": 48.9,
+      "pct": 1.1114,
       "closes": [
-        4409.7998046875,
-        4409.5,
-        4411.2001953125,
-        4416.60009765625,
-        4417.89990234375,
-        4417.60009765625,
         4422.89990234375,
         4420.89990234375,
         4420.7998046875,
@@ -410,22 +404,22 @@
         4448.7001953125,
         4447.39990234375,
         4450.2001953125,
-        4450.89990234375
+        4450.2001953125,
+        4449.5,
+        4449.10009765625,
+        4448.10009765625,
+        4448.2998046875,
+        4448.60009765625,
+        4448.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-10T20:39:02.550305+00:00"
+      "updated_at": "2026-08-10T21:23:48.989333+00:00"
     },
     "crude": {
-      "price": 82.26,
-      "change": 4.08,
-      "pct": 5.2187,
+      "price": 82.3,
+      "change": 4.12,
+      "pct": 5.2699,
       "closes": [
-        81.22000122070312,
-        81.30000305175781,
-        81.30999755859375,
-        81.16999816894531,
-        81.02999877929688,
-        80.95999908447266,
         80.97000122070312,
         81.05000305175781,
         81.0199966430664,
@@ -479,10 +473,16 @@
         82.1500015258789,
         82.20999908447266,
         82.29000091552734,
-        82.26000213623047
+        82.31999969482422,
+        82.31999969482422,
+        82.36000061035156,
+        82.30000305175781,
+        82.30000305175781,
+        82.30000305175781,
+        82.30000305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-10T20:39:02.605332+00:00"
+      "updated_at": "2026-08-10T21:23:49.148302+00:00"
     },
     "us10y": {
       "price": 4.699,
@@ -551,13 +551,13 @@
         4.699000358581543
       ],
       "ok": true,
-      "updated_at": "2026-08-10T20:39:02.675785+00:00"
+      "updated_at": "2026-08-10T21:23:49.300561+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-10T20:39:02.896410+00:00",
+      "updated_at": "2026-08-10T21:23:49.500535+00:00",
       "items": [
         {
           "title": "US Stocks: Nasdaq ends down as expectations of Hormuz deal fade",
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-10T20:39:03.167932+00:00",
+      "updated_at": "2026-08-10T21:23:49.780946+00:00",
       "items": [
+        {
+          "title": "Europe Gas Prices Surge as Hormuz Deal Prospects Remain Murky",
+          "link": "https://www.livemint.com/market/europe-gas-prices-surge-as-hormuz-deal-prospects-remain-murky-11786396840725.html",
+          "pubDate": "2026-08-11T02:50:40+05:30"
+        },
+        {
+          "title": "Wheat Climbs With USDA Seen Tightening Global Grain Supply",
+          "link": "https://www.livemint.com/market/wheat-climbs-with-usda-seen-tightening-global-grain-supply-11786396412346.html",
+          "pubDate": "2026-08-11T02:43:31+05:30"
+        },
         {
           "title": "Yen Weakens 1%, Erases Half of US-Japan Intervention Gains",
           "link": "https://www.livemint.com/market/yen-weakens-1-erases-half-of-us-japan-intervention-gains-11786394040377.html",
@@ -935,22 +945,12 @@
           "title": "Milky Mist Dairy Food IPO: GMP signals decent listing gains; dates, price band, other key details in 10 points",
           "link": "https://www.livemint.com/market/ipo/milky-mist-dairy-food-ipo-gmp-signals-decent-listing-gains-dates-price-band-other-key-details-in-10-points-11786340857877.html",
           "pubDate": "2026-08-10T12:32:42+05:30"
-        },
-        {
-          "title": "Ammonia price relief lifts fertilizer stocks’ outlook",
-          "link": "https://www.livemint.com/market/stock-market-news/ammonia-prices-fertilizer-stocks-sulphur-costs-outlook-11786331143213.html",
-          "pubDate": "2026-08-10T11:48:58+05:30"
-        },
-        {
-          "title": "Small-cap IT stock jumps 11% after this update on SpaceX International",
-          "link": "https://www.livemint.com/market/stock-market-news/smallcap-it-stock-blue-cloud-softech-jumps-10-after-this-update-on-spacex-international-11786338231091.html",
-          "pubDate": "2026-08-10T11:20:13+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-10T20:39:03.321439+00:00",
+      "updated_at": "2026-08-10T21:23:50.054946+00:00",
       "items": [
         {
           "title": "CDs' share in debt fund portfolio surges ahead of g-sec",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-10T20:39:04.299110+00:00",
+      "updated_at": "2026-08-10T21:23:51.070526+00:00",
       "items": [
         {
           "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 11, 2026",

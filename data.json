@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T23:22:14.810757+00:00",
+  "generated_at": "2026-08-10T23:55:40.564668+00:00",
   "indices": {
     "nifty50": {
       "price": 24583.8,
@@ -68,7 +68,7 @@
         24583.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-10T23:22:13.806740+00:00"
+      "updated_at": "2026-08-10T23:55:37.831757+00:00"
     },
     "sensex": {
       "price": 78542.44,
@@ -137,7 +137,7 @@
         78542.4375
       ],
       "ok": true,
-      "updated_at": "2026-08-10T23:22:13.841136+00:00"
+      "updated_at": "2026-08-10T23:55:37.880335+00:00"
     },
     "banknifty": {
       "price": 57686.95,
@@ -206,7 +206,7 @@
         57686.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-10T23:22:13.880134+00:00"
+      "updated_at": "2026-08-10T23:55:37.928011+00:00"
     },
     "vix": {
       "price": 12.245,
@@ -275,28 +275,21 @@
         12.244999885559082
       ],
       "ok": true,
-      "updated_at": "2026-08-10T23:22:13.922186+00:00"
+      "updated_at": "2026-08-10T23:55:37.977353+00:00"
     },
     "usdinr": {
       "price": 95.29,
-      "change": 0.092,
-      "pct": 0.0966,
+      "change": 0.0,
+      "pct": 0.0,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-10T23:22:14.193635+00:00"
+      "updated_at": "2026-08-10T23:55:38.028831+00:00"
     },
     "gold": {
-      "price": 4455.9,
-      "change": 36.2,
-      "pct": 0.8191,
+      "price": 4457.9,
+      "change": 38.2,
+      "pct": 0.8643,
       "closes": [
-        4419.2001953125,
-        4420.5,
-        4421.7001953125,
-        4423.2001953125,
-        4419.60009765625,
-        4419.7001953125,
-        4418.2998046875,
         4419.2001953125,
         4422.7998046875,
         4422.7998046875,
@@ -349,23 +342,23 @@
         4458.2998046875,
         4455.89990234375,
         4457.0,
-        4455.89990234375
+        4454.60009765625,
+        4454.39990234375,
+        4455.10009765625,
+        4455.10009765625,
+        4458.2998046875,
+        4458.0,
+        4457.39990234375,
+        4457.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-10T23:22:14.240367+00:00"
+      "updated_at": "2026-08-10T23:55:38.102641+00:00"
     },
     "crude": {
-      "price": 82.07,
-      "change": -0.06,
-      "pct": -0.0731,
+      "price": 82.13,
+      "change": 0.0,
+      "pct": 0.0,
       "closes": [
-        81.44999694824219,
-        81.61000061035156,
-        81.7300033569336,
-        81.76000213623047,
-        81.81999969482422,
-        81.87999725341797,
-        81.80000305175781,
         81.94999694824219,
         81.83999633789062,
         81.80999755859375,
@@ -418,10 +411,17 @@
         82.05999755859375,
         82.05999755859375,
         82.02999877929688,
-        82.06999969482422
+        82.02999877929688,
+        82.06999969482422,
+        82.08000183105469,
+        82.08000183105469,
+        82.12999725341797,
+        82.11000061035156,
+        82.12000274658203,
+        82.12999725341797
       ],
       "ok": true,
-      "updated_at": "2026-08-10T23:22:14.300912+00:00"
+      "updated_at": "2026-08-10T23:55:38.181490+00:00"
     },
     "us10y": {
       "price": 4.699,
@@ -490,13 +490,13 @@
         4.699000358581543
       ],
       "ok": true,
-      "updated_at": "2026-08-10T23:22:14.340073+00:00"
+      "updated_at": "2026-08-10T23:55:38.236986+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-10T23:22:14.403254+00:00",
+      "updated_at": "2026-08-10T23:55:38.453831+00:00",
       "items": [
         {
           "title": "US Stocks: Nasdaq ends down as expectations of Hormuz deal fade",
@@ -733,8 +733,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-10T23:22:14.532596+00:00",
+      "updated_at": "2026-08-10T23:55:38.692688+00:00",
       "items": [
+        {
+          "title": "Traders Are Piling Into Taiwan Dollar Options to Bet on Rebound",
+          "link": "https://www.livemint.com/market/traders-are-piling-into-taiwan-dollar-options-to-bet-on-rebound-11786404145539.html",
+          "pubDate": "2026-08-11T04:52:25+05:30"
+        },
         {
           "title": "Europe Gas Prices Surge as Hormuz Deal Prospects Remain Murky",
           "link": "https://www.livemint.com/market/europe-gas-prices-surge-as-hormuz-deal-prospects-remain-murky-11786396840725.html",
@@ -879,17 +884,12 @@
           "title": "Why SBI share price falling despite strong Q1 results? Brokerages remain bullish",
           "link": "https://www.livemint.com/market/stock-market-news/why-sbi-share-price-falling-despite-strong-q1-results-brokerages-remain-bullish-11786343030469.html",
           "pubDate": "2026-08-10T12:34:11+05:30"
-        },
-        {
-          "title": "Milky Mist Dairy Food IPO: GMP signals decent listing gains; dates, price band, other key details in 10 points",
-          "link": "https://www.livemint.com/market/ipo/milky-mist-dairy-food-ipo-gmp-signals-decent-listing-gains-dates-price-band-other-key-details-in-10-points-11786340857877.html",
-          "pubDate": "2026-08-10T12:32:42+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-10T23:22:14.735301+00:00",
+      "updated_at": "2026-08-10T23:55:39.532811+00:00",
       "items": [
         {
           "title": "CDs' share in debt fund portfolio surges ahead of g-sec",
@@ -1045,7 +1045,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-10T23:22:14.810741+00:00",
+      "updated_at": "2026-08-10T23:55:40.564651+00:00",
       "items": [
         {
           "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 11, 2026",

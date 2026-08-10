@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T00:41:32.578701+00:00",
+  "generated_at": "2026-08-10T02:57:08.074898+00:00",
   "indices": {
     "nifty50": {
       "price": 24570.65,
@@ -68,7 +68,7 @@
         24570.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-10T00:41:30.937646+00:00"
+      "updated_at": "2026-08-10T02:57:04.783446+00:00"
     },
     "sensex": {
       "price": 78499.17,
@@ -137,7 +137,7 @@
         78499.171875
       ],
       "ok": true,
-      "updated_at": "2026-08-10T00:41:30.988699+00:00"
+      "updated_at": "2026-08-10T02:57:04.961736+00:00"
     },
     "banknifty": {
       "price": 57746.45,
@@ -206,7 +206,7 @@
         57746.44921875
       ],
       "ok": true,
-      "updated_at": "2026-08-10T00:41:31.043128+00:00"
+      "updated_at": "2026-08-10T02:57:05.150655+00:00"
     },
     "vix": {
       "price": 12.1575,
@@ -275,20 +275,24 @@
         12.157500267028809
       ],
       "ok": true,
-      "updated_at": "2026-08-10T00:41:31.102217+00:00"
+      "updated_at": "2026-08-10T02:57:05.366340+00:00"
     },
     "usdinr": {
       "price": 95.198,
       "change": 0.0,
       "pct": 0.0,
-      "closes": [],
+      "closes": [
+        95.197998046875,
+        95.197998046875,
+        95.197998046875
+      ],
       "ok": true,
-      "updated_at": "2026-08-10T00:41:31.138741+00:00"
+      "updated_at": "2026-08-10T02:57:05.537090+00:00"
     },
     "gold": {
-      "price": 4397.5,
-      "change": -2.2,
-      "pct": -0.05,
+      "price": 4384.5,
+      "change": -15.2,
+      "pct": -0.3455,
       "closes": [
         4402.2998046875,
         4399.2001953125,
@@ -318,16 +322,43 @@
         4403.2998046875,
         4398.7001953125,
         4396.7001953125,
-        4396.7001953125,
-        4397.5
+        4395.5,
+        4396.0,
+        4393.2998046875,
+        4394.5,
+        4392.39990234375,
+        4391.2998046875,
+        4386.60009765625,
+        4384.10009765625,
+        4382.89990234375,
+        4384.2998046875,
+        4388.10009765625,
+        4376.89990234375,
+        4380.5,
+        4377.2001953125,
+        4377.89990234375,
+        4381.2001953125,
+        4380.89990234375,
+        4383.0,
+        4382.7998046875,
+        4384.10009765625,
+        4385.10009765625,
+        4385.2998046875,
+        4387.0,
+        4390.89990234375,
+        4387.89990234375,
+        4385.60009765625,
+        4386.60009765625,
+        4383.39990234375,
+        4384.5
       ],
       "ok": true,
-      "updated_at": "2026-08-10T00:41:31.181128+00:00"
+      "updated_at": "2026-08-10T02:57:05.720967+00:00"
     },
     "crude": {
-      "price": 78.89,
-      "change": 0.71,
-      "pct": 0.9082,
+      "price": 78.75,
+      "change": 0.57,
+      "pct": 0.7291,
       "closes": [
         79.01000213623047,
         79.04000091552734,
@@ -357,11 +388,38 @@
         78.83999633789062,
         78.87999725341797,
         78.87000274658203,
+        78.83999633789062,
+        78.80999755859375,
+        78.80999755859375,
+        78.79000091552734,
+        78.83999633789062,
+        78.66000366210938,
+        78.68000030517578,
+        78.94000244140625,
+        78.9800033569336,
+        78.86000061035156,
+        78.86000061035156,
+        78.95999908447266,
+        78.97000122070312,
+        79.0,
+        79.0199966430664,
+        79.04000091552734,
+        78.88999938964844,
+        78.87999725341797,
+        78.91999816894531,
+        78.95999908447266,
         78.9000015258789,
-        78.88999938964844
+        78.83999633789062,
+        78.7300033569336,
+        78.69999694824219,
+        78.69999694824219,
+        78.66999816894531,
+        78.66999816894531,
+        78.73999786376953,
+        78.75
       ],
       "ok": true,
-      "updated_at": "2026-08-10T00:41:31.225047+00:00"
+      "updated_at": "2026-08-10T02:57:05.927878+00:00"
     },
     "us10y": {
       "price": 4.66,
@@ -430,43 +488,43 @@
         4.659999847412109
       ],
       "ok": true,
-      "updated_at": "2026-08-10T00:41:31.273607+00:00"
+      "updated_at": "2026-08-10T02:57:06.107109+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-10T00:41:31.416687+00:00",
+      "updated_at": "2026-08-10T02:57:06.299515+00:00",
       "items": [
+        {
+          "title": "Positive Breakout: These 10 stocks cross above their 200 DMAs",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-10-stocks-cross-above-their-200-dmas/upside-ahead/slideshow/133077553.cms",
+          "pubDate": "2026-08-10T07:41:49+05:30"
+        },
+        {
+          "title": "Gold holds steady after scaling 7-week high, US inflation data in focus",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-steady-after-scaling-7-week-high-us-inflation-data-in-focus/articleshow/133077441.cms",
+          "pubDate": "2026-08-10T07:32:08+05:30"
+        },
+        {
+          "title": "Global Market Today: Asia stocks edge higher, oil up amid Gulf confusion",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-stocks-edge-higher-oil-up-amid-gulf-confusion/articleshow/133077033.cms",
+          "pubDate": "2026-08-10T06:12:58+05:30"
+        },
+        {
+          "title": "Can Molbio Diagnostics IPO deliver long-term growth for high risk investors?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-molbio-diagnostics-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133076987.cms",
+          "pubDate": "2026-08-10T05:56:27+05:30"
+        },
         {
           "title": "FPIs turn buyers in IT stocks for first time in 2026, invest Rs 3,358 crore in July",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-buyers-in-it-stocks-for-first-time-in-2026-invest-rs-3358-crore-in-july/articleshow/133076951.cms",
           "pubDate": "2026-08-10T05:34:28+05:30"
         },
         {
-          "title": "Govt taps inputs from public sector banks to lure foreign capital",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/govt-taps-inputs-from-public-sector-banks-to-lure-foreign-capital/articleshow/133076978.cms",
-          "pubDate": "2026-08-10T00:26:01+05:30"
-        },
-        {
-          "title": "Purchase of bad loans by ARCs rises 56% in Q1",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/purchase-of-bad-loans-by-arcs-rises-56-in-q1/articleshow/133076947.cms",
-          "pubDate": "2026-08-10T00:04:56+05:30"
-        },
-        {
           "title": "As banks shrink microfinance books, bigger MFIs prepare to grab the gap",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/as-banks-shrink-microfinance-books-bigger-lenders-prepare-to-grab-the-gap/articleshow/133076974.cms",
           "pubDate": "2026-08-09T17:13:44+05:30"
-        },
-        {
-          "title": "Berkshire Hathaway spends down cash pile under CEO Greg Abel",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/berkshire-hathaway-spends-down-cash-pile-under-ceo-greg-abel/articleshow/133062858.cms",
-          "pubDate": "2026-08-09T11:24:10+05:30"
-        },
-        {
-          "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-four-of-top-10-most-valued-firms-jumps-rs-1-43-lakh-cr-state-bank-biggest-winner/articleshow/133062390.cms",
-          "pubDate": "2026-08-09T10:21:35+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -591,8 +649,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-09T18:04:09.685109+00:00",
+      "ok": true,
+      "updated_at": "2026-08-10T02:57:06.861985+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -673,8 +731,63 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-10T00:41:31.645850+00:00",
+      "updated_at": "2026-08-10T02:57:07.064435+00:00",
       "items": [
+        {
+          "title": "Stock market today: Gift Nifty hints a flat start; eight day trading stocks to buy on Monday, 10 August",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-a-flat-start-eight-day-trading-stocks-to-buy-on-monday-10-august-11786327368428.html",
+          "pubDate": "2026-08-10T07:59:41+05:30"
+        },
+        {
+          "title": "Technocraft Ventures IPO Day 2 LIVE: GMP jumps! Subscription status, review, other details — apply or not?",
+          "link": "https://www.livemint.com/market/ipo/technocraft-ventures-ipo-day-2-live-gmp-jumps-subscription-status-review-other-details-apply-or-not-11786327521476.html",
+          "pubDate": "2026-08-10T07:57:16+05:30"
+        },
+        {
+          "title": "Stocks to watch: Vodafone Idea, SBI, Titan among shares in focus today; check list here",
+          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-vodafone-idea-sbi-titan-among-shares-in-focus-today-check-list-here-11786327272358.html",
+          "pubDate": "2026-08-10T07:51:51+05:30"
+        },
+        {
+          "title": "Ardee Industries IPO allotment status in focus. GMP, how to check status online — a step-by-step guide",
+          "link": "https://www.livemint.com/market/ipo/ardee-industries-ipo-allotment-status-in-focus-gmp-how-to-check-status-online-a-step-by-step-guide-11786326245081.html",
+          "pubDate": "2026-08-10T07:31:57+05:30"
+        },
+        {
+          "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 10 August",
+          "link": "https://www.livemint.com/market/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-10-august-11786325525882.html",
+          "pubDate": "2026-08-10T07:30:34+05:30"
+        },
+        {
+          "title": "Crude oil prices extend rally amid uncertainty over US-Iran peace talks; Brent hovers near $94 per barrel",
+          "link": "https://www.livemint.com/market/commodities/crude-oil-prices-extend-rally-amid-uncertainty-over-us-iran-peace-talks-brent-hovers-near-94-per-barrel-11786325972054.html",
+          "pubDate": "2026-08-10T07:23:19+05:30"
+        },
+        {
+          "title": "Buy or sell: Gift Nifty up despite elusive Iran-Oman deal, Vaishali Parekh recommends three stocks to buy today",
+          "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-up-despite-elusive-iran-oman-deal-vaishali-parekh-recommends-three-stocks-to-buy-today-11786324215228.html",
+          "pubDate": "2026-08-10T07:08:23+05:30"
+        },
+        {
+          "title": "From Gift Nifty, US-Iran war to crude oil prices: 7 key things that changed for Indian stock market overnight",
+          "link": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-iran-war-to-crude-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11786324109867.html",
+          "pubDate": "2026-08-10T07:07:53+05:30"
+        },
+        {
+          "title": "Dollar near two-month trough as US inflation data awaited",
+          "link": "https://www.livemint.com/market/dollar-near-two-month-trough-as-us-inflation-data-awaited-11786325356394.html",
+          "pubDate": "2026-08-10T06:59:15+05:30"
+        },
+        {
+          "title": "Australian shares dip as Westpac weighs on banks ahead of RBA decision",
+          "link": "https://www.livemint.com/market/australian-shares-dip-as-westpac-weighs-on-banks-ahead-of-rba-decision-11786325293070.html",
+          "pubDate": "2026-08-10T06:58:12+05:30"
+        },
+        {
+          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 10 August 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-10-august-2026-11786322498288.html",
+          "pubDate": "2026-08-10T06:31:02+05:30"
+        },
         {
           "title": "Stock recommendations for 10 August from MarketSmith India",
           "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-10-august-marketsmith-india-waterways-leisure-tourism-hindalco-industries-nifty-sensex-11786191373714.html",
@@ -769,61 +882,6 @@
           "title": "Q1 results FY27 to US-Iran war: Top five triggers that may dictate the Indian stock market this week",
           "link": "https://www.livemint.com/market/stock-market-news/q1-results-fy27-to-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11786240881737.html",
           "pubDate": "2026-08-09T08:03:14+05:30"
-        },
-        {
-          "title": "Korea Volatility Spike Ebbs as Leveraged Trades Are Flushed Out",
-          "link": "https://www.livemint.com/market/korea-volatility-spike-ebbs-as-leveraged-trades-are-flushed-out-11786234691643.html",
-          "pubDate": "2026-08-09T05:48:11+05:30"
-        },
-        {
-          "title": "A volatile week for tech revealed new stock narratives—and 1 bargain",
-          "link": "https://www.livemint.com/market/stock-market-news/a-volatile-week-for-tech-revealed-new-stock-narratives-and-1-bargain-11786196401734.html",
-          "pubDate": "2026-08-08T19:12:38+05:30"
-        },
-        {
-          "title": "A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar",
-          "link": "https://www.livemint.com/market/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar-11786195190000.html",
-          "pubDate": "2026-08-08T18:49:49+05:30"
-        },
-        {
-          "title": "Gold price jumps as reopening of Strait of Hormuz buzz dents US Fed rate-hike hopes. Is it the right time to buy gold?",
-          "link": "https://www.livemint.com/market/commodities/gold-rate-today-jumps-as-strait-of-hormuz-reopening-buzz-dents-us-fed-rate-hike-hopes-is-it-the-right-time-to-buy-gold-11786181435240.html",
-          "pubDate": "2026-08-08T16:13:06+05:30"
-        },
-        {
-          "title": "IPO GMPs: Dhoot Transmission, Molbio Diagnostics, Shiprocket, Behari Lal Engg to Milky Mist — What grey market signals",
-          "link": "https://www.livemint.com/market/ipo/ipo-gmps-dhoot-transmission-molbio-diagnostics-shiprocket-behari-lal-engg-to-milky-mist-what-grey-market-signals-11786174589659.html",
-          "pubDate": "2026-08-08T14:29:13+05:30"
-        },
-        {
-          "title": "Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell",
-          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11786168790531.html",
-          "pubDate": "2026-08-08T12:41:38+05:30"
-        },
-        {
-          "title": "Ardee Industries IPO allotment status in focus. GMP, how to check application status online",
-          "link": "https://www.livemint.com/market/ipo/ardee-industries-ipo-gmp-remains-steady-after-strong-subscription-status-allotment-date-in-focus-11786163860873.html",
-          "pubDate": "2026-08-08T11:07:45+05:30"
-        },
-        {
-          "title": "SBI Q1FY27 results beat market estimates. Is this a stock to buy?",
-          "link": "https://www.livemint.com/market/stock-market-news/sbi-share-price-sbi-q1-results-2026-beat-market-estimates-is-this-a-stock-to-buy-11786157865622.html",
-          "pubDate": "2026-08-08T09:25:56+05:30"
-        },
-        {
-          "title": "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 10 August 2026",
-          "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-10-august-2026-11786154773920.html",
-          "pubDate": "2026-08-08T08:11:54+05:30"
-        },
-        {
-          "title": "What are the pros and cons of investing in Ather Energy?",
-          "link": "https://www.livemint.com/market/stock-market-news/ather-energy-share-price-ather-energy-stock-analysis-11786106371536.html",
-          "pubDate": "2026-08-08T07:00:53+05:30"
-        },
-        {
-          "title": "Short-Term Treasuries Cap Biggest Weekly Rally Since May on Data",
-          "link": "https://www.livemint.com/market/shortterm-treasuries-cap-biggest-weekly-rally-since-may-on-data-11786134305338.html",
-          "pubDate": "2026-08-08T01:55:04+05:30"
         }
       ]
     },
@@ -834,7 +892,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-10T00:41:32.578686+00:00",
+      "updated_at": "2026-08-10T02:57:08.074883+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

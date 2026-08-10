@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T19:12:05.250178+00:00",
+  "generated_at": "2026-08-10T19:59:09.473675+00:00",
   "indices": {
     "nifty50": {
       "price": 24583.8,
@@ -68,7 +68,7 @@
         24583.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-10T19:12:04.097947+00:00"
+      "updated_at": "2026-08-10T19:59:07.657513+00:00"
     },
     "sensex": {
       "price": 78542.44,
@@ -137,7 +137,7 @@
         78542.4375
       ],
       "ok": true,
-      "updated_at": "2026-08-10T19:12:04.150407+00:00"
+      "updated_at": "2026-08-10T19:59:07.699818+00:00"
     },
     "banknifty": {
       "price": 57686.95,
@@ -206,7 +206,7 @@
         57686.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-10T19:12:04.205856+00:00"
+      "updated_at": "2026-08-10T19:59:07.744326+00:00"
     },
     "vix": {
       "price": 12.245,
@@ -275,7 +275,7 @@
         12.244999885559082
       ],
       "ok": true,
-      "updated_at": "2026-08-10T19:12:04.263649+00:00"
+      "updated_at": "2026-08-10T19:59:07.826848+00:00"
     },
     "usdinr": {
       "price": 95.29,
@@ -344,22 +344,13 @@
         95.29000091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-10T19:12:04.334714+00:00"
+      "updated_at": "2026-08-10T19:59:07.907939+00:00"
     },
     "gold": {
-      "price": 4438.6,
-      "change": 38.9,
-      "pct": 0.8842,
+      "price": 4452.9,
+      "change": 53.2,
+      "pct": 1.2092,
       "closes": [
-        4388.7998046875,
-        4392.89990234375,
-        4397.5,
-        4404.39990234375,
-        4406.5,
-        4406.0,
-        4409.10009765625,
-        4407.2998046875,
-        4402.5,
         4405.2001953125,
         4406.89990234375,
         4404.60009765625,
@@ -410,25 +401,25 @@
         4436.0,
         4437.7001953125,
         4439.10009765625,
-        4438.60009765625
+        4441.10009765625,
+        4441.2998046875,
+        4442.10009765625,
+        4445.7998046875,
+        4449.7001953125,
+        4446.2001953125,
+        4446.7001953125,
+        4446.5,
+        4452.89990234375,
+        4452.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-10T19:12:04.417221+00:00"
+      "updated_at": "2026-08-10T19:59:07.948116+00:00"
     },
     "crude": {
-      "price": 81.82,
-      "change": 3.64,
-      "pct": 4.6559,
+      "price": 82.07,
+      "change": 3.89,
+      "pct": 4.9757,
       "closes": [
-        80.75,
-        80.33000183105469,
-        80.43000030517578,
-        80.31999969482422,
-        80.45999908447266,
-        80.48999786376953,
-        80.62999725341797,
-        80.63999938964844,
-        80.81999969482422,
         80.80000305175781,
         80.91999816894531,
         80.91000366210938,
@@ -479,15 +470,24 @@
         82.0199966430664,
         81.9000015258789,
         81.75,
-        81.81999969482422
+        81.69999694824219,
+        81.76000213623047,
+        81.8499984741211,
+        81.88999938964844,
+        81.9800033569336,
+        82.06999969482422,
+        82.05000305175781,
+        82.01000213623047,
+        82.06999969482422,
+        82.06999969482422
       ],
       "ok": true,
-      "updated_at": "2026-08-10T19:12:04.487302+00:00"
+      "updated_at": "2026-08-10T19:59:08.034149+00:00"
     },
     "us10y": {
-      "price": 4.7,
-      "change": 0.04,
-      "pct": 0.8584,
+      "price": 4.699,
+      "change": 0.039,
+      "pct": 0.8369,
       "closes": [
         4.685999870300293,
         4.688000202178955,
@@ -548,16 +548,16 @@
         4.696000099182129,
         4.699999809265137,
         4.699000358581543,
-        4.699999809265137
+        4.699000358581543
       ],
       "ok": true,
-      "updated_at": "2026-08-10T19:12:04.582044+00:00"
+      "updated_at": "2026-08-10T19:59:08.080659+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-10T19:12:04.732119+00:00",
+      "updated_at": "2026-08-10T19:59:08.230162+00:00",
       "items": [
         {
           "title": "Archer Aviation shares jump nearly 10% on deal to acquire Boeing’s Wisk, two other units",
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-10T19:12:05.037335+00:00",
+      "updated_at": "2026-08-10T19:59:08.487136+00:00",
       "items": [
+        {
+          "title": "Gold climbs to nine-week high on buying momentum as inflation data looms",
+          "link": "https://www.livemint.com/market/gold-climbs-to-nine-week-high-on-buying-momentum-as-inflation-data-looms-11786389265821.html",
+          "pubDate": "2026-08-11T00:44:25+05:30"
+        },
+        {
+          "title": "Wall Street eases as hopes for imminent Hormuz deal fade; Intel drops",
+          "link": "https://www.livemint.com/market/wall-street-eases-as-hopes-for-imminent-hormuz-deal-fade-intel-drops-11786389146085.html",
+          "pubDate": "2026-08-11T00:42:25+05:30"
+        },
         {
           "title": "Zen Technologies shares to be in focus on Tuesday after company secures  ₹295 crore defence order",
           "link": "https://www.livemint.com/market/stock-market-news/zen-technologies-shares-to-be-in-focus-on-tuesday-after-company-secures-rs-295-crore-defence-order-11786381376241.html",
@@ -935,22 +945,12 @@
           "title": "Hero MotoCorp gains speed as premium bikes, EVs fuel Q1",
           "link": "https://www.livemint.com/market/mark-to-market/hero-motocorp-q1fy27-earnings-stock-margin-ev-growth-11786338356204.html",
           "pubDate": "2026-08-10T11:12:28+05:30"
-        },
-        {
-          "title": "GV Electricals IPO allotment to be finalised today. Latest GMP, step-by-step guide to check status",
-          "link": "https://www.livemint.com/market/ipo/gv-electricals-ipo-gmp-gv-electricals-ipo-allotment-status-gv-electricals-ipo-listing-date-gv-electricals-ipo-11786337441699.html",
-          "pubDate": "2026-08-10T10:56:12+05:30"
-        },
-        {
-          "title": "Emerging-Market Stocks, Currencies Gain After Soft US Jobs Data",
-          "link": "https://www.livemint.com/market/emergingmarket-stocks-currencies-gain-after-soft-us-jobs-data-11786338287048.html",
-          "pubDate": "2026-08-10T10:34:46+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-10T19:12:05.155237+00:00",
+      "updated_at": "2026-08-10T19:59:08.715911+00:00",
       "items": [
         {
           "title": "CDs' share in debt fund portfolio surges ahead of g-sec",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-10T19:12:05.250155+00:00",
+      "updated_at": "2026-08-10T19:59:09.473657+00:00",
       "items": [
         {
           "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 11, 2026",

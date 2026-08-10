@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T19:59:09.473675+00:00",
+  "generated_at": "2026-08-10T20:39:04.299129+00:00",
   "indices": {
     "nifty50": {
       "price": 24583.8,
@@ -68,7 +68,7 @@
         24583.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-10T19:59:07.657513+00:00"
+      "updated_at": "2026-08-10T20:39:02.285903+00:00"
     },
     "sensex": {
       "price": 78542.44,
@@ -137,7 +137,7 @@
         78542.4375
       ],
       "ok": true,
-      "updated_at": "2026-08-10T19:59:07.699818+00:00"
+      "updated_at": "2026-08-10T20:39:02.329714+00:00"
     },
     "banknifty": {
       "price": 57686.95,
@@ -206,7 +206,7 @@
         57686.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-10T19:59:07.744326+00:00"
+      "updated_at": "2026-08-10T20:39:02.390658+00:00"
     },
     "vix": {
       "price": 12.245,
@@ -275,7 +275,7 @@
         12.244999885559082
       ],
       "ok": true,
-      "updated_at": "2026-08-10T19:59:07.826848+00:00"
+      "updated_at": "2026-08-10T20:39:02.430439+00:00"
     },
     "usdinr": {
       "price": 95.29,
@@ -344,21 +344,13 @@
         95.29000091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-10T19:59:07.907939+00:00"
+      "updated_at": "2026-08-10T20:39:02.494697+00:00"
     },
     "gold": {
-      "price": 4452.9,
-      "change": 53.2,
-      "pct": 1.2092,
+      "price": 4450.9,
+      "change": 51.2,
+      "pct": 1.1637,
       "closes": [
-        4405.2001953125,
-        4406.89990234375,
-        4404.60009765625,
-        4406.39990234375,
-        4409.10009765625,
-        4409.0,
-        4408.7998046875,
-        4407.60009765625,
         4409.7998046875,
         4409.5,
         4411.2001953125,
@@ -410,24 +402,24 @@
         4446.7001953125,
         4446.5,
         4452.89990234375,
-        4452.89990234375
+        4451.2001953125,
+        4446.7998046875,
+        4447.39990234375,
+        4444.7001953125,
+        4448.2001953125,
+        4448.7001953125,
+        4447.39990234375,
+        4450.2001953125,
+        4450.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-10T19:59:07.948116+00:00"
+      "updated_at": "2026-08-10T20:39:02.550305+00:00"
     },
     "crude": {
-      "price": 82.07,
-      "change": 3.89,
-      "pct": 4.9757,
+      "price": 82.26,
+      "change": 4.08,
+      "pct": 5.2187,
       "closes": [
-        80.80000305175781,
-        80.91999816894531,
-        80.91000366210938,
-        80.87999725341797,
-        80.9000015258789,
-        81.19999694824219,
-        81.18000030517578,
-        81.19999694824219,
         81.22000122070312,
         81.30000305175781,
         81.30999755859375,
@@ -479,10 +471,18 @@
         82.05000305175781,
         82.01000213623047,
         82.06999969482422,
-        82.06999969482422
+        82.12000274658203,
+        82.13999938964844,
+        82.1500015258789,
+        82.18000030517578,
+        82.19999694824219,
+        82.1500015258789,
+        82.20999908447266,
+        82.29000091552734,
+        82.26000213623047
       ],
       "ok": true,
-      "updated_at": "2026-08-10T19:59:08.034149+00:00"
+      "updated_at": "2026-08-10T20:39:02.605332+00:00"
     },
     "us10y": {
       "price": 4.699,
@@ -551,14 +551,19 @@
         4.699000358581543
       ],
       "ok": true,
-      "updated_at": "2026-08-10T19:59:08.080659+00:00"
+      "updated_at": "2026-08-10T20:39:02.675785+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-10T19:59:08.230162+00:00",
+      "updated_at": "2026-08-10T20:39:02.896410+00:00",
       "items": [
+        {
+          "title": "US Stocks: Nasdaq ends down as expectations of Hormuz deal fade",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-down-as-expectations-of-hormuz-deal-fade/articleshow/133135481.cms",
+          "pubDate": "2026-08-11T01:38:58+05:30"
+        },
         {
           "title": "Archer Aviation shares jump nearly 10% on deal to acquire Boeing’s Wisk, two other units",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/archer-aviation-shares-jump-nearly-10-on-deal-to-acquire-boeings-wisk-two-other-units/articleshow/133126628.cms",
@@ -573,11 +578,6 @@
           "title": "Zee Entertainment Q1 Results: PAT falls 48% YoY to Rs 74 crore; ad revenue hit by Middle East crisis",
           "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/zee-entertainment-q1-results-pat-falls-48-yoy-to-rs-74-crore-ad-revenue-hit-by-middle-east-crisis/articleshow/133106855.cms",
           "pubDate": "2026-08-10T18:17:50+05:30"
-        },
-        {
-          "title": "Project Sudarsan: How Sebi is using AI to police finfluencers with 60% of investors trusting their advice",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/project-sudarsan-how-sebi-is-using-ai-to-police-finfluencers-with-60-of-investors-trusting-their-advice/articleshow/133099411.cms",
-          "pubDate": "2026-08-10T16:36:58+05:30"
         },
         {
           "title": "Has Dalal Street's near term outlook improved? HSBC lists 4 headwinds, 3 tailwinds to watch out for",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-10T19:59:08.487136+00:00",
+      "updated_at": "2026-08-10T20:39:03.167932+00:00",
       "items": [
+        {
+          "title": "Yen Weakens 1%, Erases Half of US-Japan Intervention Gains",
+          "link": "https://www.livemint.com/market/yen-weakens-1-erases-half-of-us-japan-intervention-gains-11786394040377.html",
+          "pubDate": "2026-08-11T02:03:59+05:30"
+        },
         {
           "title": "Gold climbs to nine-week high on buying momentum as inflation data looms",
           "link": "https://www.livemint.com/market/gold-climbs-to-nine-week-high-on-buying-momentum-as-inflation-data-looms-11786389265821.html",
@@ -940,17 +945,12 @@
           "title": "Small-cap IT stock jumps 11% after this update on SpaceX International",
           "link": "https://www.livemint.com/market/stock-market-news/smallcap-it-stock-blue-cloud-softech-jumps-10-after-this-update-on-spacex-international-11786338231091.html",
           "pubDate": "2026-08-10T11:20:13+05:30"
-        },
-        {
-          "title": "Hero MotoCorp gains speed as premium bikes, EVs fuel Q1",
-          "link": "https://www.livemint.com/market/mark-to-market/hero-motocorp-q1fy27-earnings-stock-margin-ev-growth-11786338356204.html",
-          "pubDate": "2026-08-10T11:12:28+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-10T19:59:08.715911+00:00",
+      "updated_at": "2026-08-10T20:39:03.321439+00:00",
       "items": [
         {
           "title": "CDs' share in debt fund portfolio surges ahead of g-sec",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-10T19:59:09.473657+00:00",
+      "updated_at": "2026-08-10T20:39:04.299110+00:00",
       "items": [
         {
           "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 11, 2026",

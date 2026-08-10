@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:05:48.286467+00:00",
+  "generated_at": "2026-08-10T11:18:35.599484+00:00",
   "indices": {
     "nifty50": {
       "price": 24583.8,
@@ -68,16 +68,13 @@
         24583.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-10T10:05:46.288039+00:00"
+      "updated_at": "2026-08-10T11:18:34.467836+00:00"
     },
     "sensex": {
-      "price": 78647.69,
-      "change": 148.52,
-      "pct": 0.1892,
+      "price": 78542.44,
+      "change": 43.27,
+      "pct": 0.0551,
       "closes": [
-        78588.8203125,
-        78596.953125,
-        78575.8515625,
         78592.8671875,
         78618.09375,
         78626.4609375,
@@ -134,10 +131,13 @@
         78502.359375,
         78458.8671875,
         78478.65625,
-        78454.703125
+        78454.703125,
+        78585.4765625,
+        78542.4375,
+        78542.4375
       ],
       "ok": true,
-      "updated_at": "2026-08-10T10:05:46.334775+00:00"
+      "updated_at": "2026-08-10T11:18:34.502722+00:00"
     },
     "banknifty": {
       "price": 57686.95,
@@ -206,12 +206,12 @@
         57686.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-10T10:05:46.384043+00:00"
+      "updated_at": "2026-08-10T11:18:34.539598+00:00"
     },
     "vix": {
-      "price": 12.21,
-      "change": 0.0525,
-      "pct": 0.4318,
+      "price": 12.245,
+      "change": 0.0875,
+      "pct": 0.7197,
       "closes": [
         12.619999885559082,
         12.645000457763672,
@@ -272,10 +272,10 @@
         12.242500305175781,
         12.225000381469727,
         12.210000038146973,
-        12.210000038146973
+        12.244999885559082
       ],
       "ok": true,
-      "updated_at": "2026-08-10T10:05:46.429686+00:00"
+      "updated_at": "2026-08-10T11:18:34.604123+00:00"
     },
     "usdinr": {
       "price": 95.29,
@@ -344,27 +344,13 @@
         95.29000091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-10T10:05:46.480595+00:00"
+      "updated_at": "2026-08-10T11:18:34.655386+00:00"
     },
     "gold": {
-      "price": 4402.2,
-      "change": 2.5,
-      "pct": 0.0568,
+      "price": 4394.0,
+      "change": -5.7,
+      "pct": -0.1296,
       "closes": [
-        4396.2998046875,
-        4394.7001953125,
-        4392.89990234375,
-        4394.60009765625,
-        4393.7001953125,
-        4400.5,
-        4401.5,
-        4403.89990234375,
-        4406.10009765625,
-        4408.7001953125,
-        4407.0,
-        4402.2998046875,
-        4405.7001953125,
-        4407.0,
         4402.7998046875,
         4405.10009765625,
         4407.7001953125,
@@ -410,30 +396,30 @@
         4401.39990234375,
         4401.39990234375,
         4400.10009765625,
-        4402.2001953125
+        4400.0,
+        4399.60009765625,
+        4399.89990234375,
+        4400.7001953125,
+        4402.2001953125,
+        4402.60009765625,
+        4400.7001953125,
+        4398.89990234375,
+        4396.89990234375,
+        4397.2998046875,
+        4397.5,
+        4395.2001953125,
+        4393.7001953125,
+        4392.89990234375,
+        4394.0
       ],
       "ok": true,
-      "updated_at": "2026-08-10T10:05:46.530413+00:00"
+      "updated_at": "2026-08-10T11:18:34.699227+00:00"
     },
     "crude": {
-      "price": 79.0,
-      "change": 0.82,
-      "pct": 1.0489,
+      "price": 79.39,
+      "change": 1.21,
+      "pct": 1.5477,
       "closes": [
-        78.4800033569336,
-        78.5199966430664,
-        78.41000366210938,
-        78.41999816894531,
-        78.44000244140625,
-        78.43000030517578,
-        78.48999786376953,
-        78.37999725341797,
-        78.29000091552734,
-        77.94000244140625,
-        77.83000183105469,
-        78.19999694824219,
-        78.16999816894531,
-        78.22000122070312,
         78.08000183105469,
         78.0,
         78.05000305175781,
@@ -479,10 +465,24 @@
         79.02999877929688,
         79.05999755859375,
         79.0199966430664,
-        79.0
+        78.87999725341797,
+        78.81999969482422,
+        78.8499984741211,
+        78.75,
+        78.62999725341797,
+        78.80999755859375,
+        78.91999816894531,
+        79.2699966430664,
+        79.36000061035156,
+        79.22000122070312,
+        79.54000091552734,
+        79.47000122070312,
+        79.37000274658203,
+        79.38999938964844,
+        79.38999938964844
       ],
       "ok": true,
-      "updated_at": "2026-08-10T10:05:46.683312+00:00"
+      "updated_at": "2026-08-10T11:18:34.736657+00:00"
     },
     "us10y": {
       "price": 4.66,
@@ -551,14 +551,19 @@
         4.659999847412109
       ],
       "ok": true,
-      "updated_at": "2026-08-10T10:05:46.734104+00:00"
+      "updated_at": "2026-08-10T11:18:34.785142+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-10T10:05:46.772989+00:00",
+      "updated_at": "2026-08-10T11:18:34.844133+00:00",
       "items": [
+        {
+          "title": "$48 billion profit! 5 global oil majors cash in on oil surge amid Iran war. Where is money flowing?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/48-billion-profit-5-global-oil-majors-cash-in-on-oil-surge-amid-iran-war-where-is-money-flowing/articleshow/133091563.cms",
+          "pubDate": "2026-08-10T13:36:24+05:30"
+        },
         {
           "title": "PFC shares tumble 5% to 4-month low after weak Q1 earnings. Why Motilal Oswal still recommends Buy",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/pfc-shares-tumble-5-to-4-month-low-after-weak-q1-earnings-why-motilal-oswal-still-recommends-buy/articleshow/133087726.cms",
@@ -570,24 +575,19 @@
           "pubDate": "2026-08-10T11:30:48+05:30"
         },
         {
-          "title": "Aarti Pharmalabs shares hit 20% upper circuit as Q1 net profit surges 65% YoY to Rs 76 crore",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/aarti-pharmalabs-shares-hit-20-upper-circuit-as-q1-net-profit-surges-65-yoy-to-rs-76-crore/articleshow/133086824.cms",
-          "pubDate": "2026-08-10T11:27:21+05:30"
+          "title": "Sensex closes almost flat, Nifty ends above 24,580. What lies ahead?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-hold-steady-as-earnings-offset-oil-worries/articleshow/133080723.cms",
+          "pubDate": "2026-08-10T09:34:05+05:30"
         },
         {
-          "title": "Hitachi Energy jumps 7% after Q1 results. Here's why Nomura initiated coverage on stock",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hitachi-energy-jumps-7-after-q1-results-heres-why-nomura-initiated-coverage-on-stock/articleshow/133086376.cms",
-          "pubDate": "2026-08-10T11:19:22+05:30"
+          "title": "How Rakesh Jhunjhunwala's old Tata bet created Rs 80,000 crore wealth after two years of flat returns",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-rakesh-jhunjhunwalas-old-tata-bet-created-rs-80000-crore-wealth-after-two-years-of-flat-returns/articleshow/133079774.cms",
+          "pubDate": "2026-08-10T09:04:57+05:30"
         },
         {
-          "title": "Dynamatic Technologies shares soar 9% after Q1 profit jumps 93% YoY to Rs 21 crore; outlook stays strong",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dynamatic-technologies-shares-soar-9-after-q1-profit-jumps-93-yoy-to-rs-21-crore-outlook-stays-strong/articleshow/133085993.cms",
-          "pubDate": "2026-08-10T11:12:40+05:30"
-        },
-        {
-          "title": "Cupid shares fall 2% even as Q1 profit jumps 3x. What’s ahead for multibagger stock that rose 680% in a year?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-fall-2-even-as-q1-profit-jumps-3x-whats-ahead-for-multibagger-stock-that-rose-680-in-a-year/articleshow/133085241.cms",
-          "pubDate": "2026-08-10T10:48:12+05:30"
+          "title": "How Adani’s $125 billion capex boom is creating new winners on Dalal Street",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-adanis-125-billion-capex-boom-is-creating-new-winners-on-dalal-street/articleshow/133079045.cms",
+          "pubDate": "2026-08-10T08:37:33+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -712,8 +712,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-10T08:48:45.181266+00:00",
+      "ok": true,
+      "updated_at": "2026-08-10T11:18:34.899289+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,23 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-10T10:05:47.278775+00:00",
+      "updated_at": "2026-08-10T11:18:35.011255+00:00",
       "items": [
+        {
+          "title": "Gland Pharma Q1 Results: Net profit jumps 47% YoY to  ₹317 crore; CDMO revenue rises 20%",
+          "link": "https://www.livemint.com/market/gland-pharma-q1-results-net-profit-jumps-47-yoy-to-rs-317-crore-cdmo-revenue-rises-20-11786360033317.html",
+          "pubDate": "2026-08-10T16:45:19+05:30"
+        },
+        {
+          "title": "Top Gainers &amp; Losers on 10 August: Hitachi Energy, Paytm, Titian, BSE, BEML, Lenskart among top gainers",
+          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-10-august-hitachi-energy-paytm-titian-bse-beml-lenskart-among-top-gainers-11786356700006.html",
+          "pubDate": "2026-08-10T15:57:39+05:30"
+        },
+        {
+          "title": "Sensex, Nifty 50 end flat; elevated oil prices, Middle East uncertainty weigh on sentiment",
+          "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-end-flat-elevated-oil-prices-middle-east-uncertainty-weigh-on-sentiment-11786356194595.html",
+          "pubDate": "2026-08-10T15:39:50+05:30"
+        },
         {
           "title": "Shiprocket IPO: GMP signals over 25% listing gains; 5 key things to know from RHP",
           "link": "https://www.livemint.com/market/ipo/shiprocket-ipo-gmp-signals-over-25-listing-gains-5-key-things-to-know-from-rhp-11786349923617.html",
@@ -892,7 +907,7 @@
           "pubDate": "2026-08-10T10:34:46+05:30"
         },
         {
-          "title": "Dhoot Transmission IPO Day 1 LIVE: GMP, date, review, other details. Apply or not?",
+          "title": "Dhoot Transmission IPO Day 1: GMP, date, review, other details. Apply or not?",
           "link": "https://www.livemint.com/market/ipo/dhoot-transmission-ipo-day-1-live-gmp-date-review-other-details-apply-or-not-11786333783245.html",
           "pubDate": "2026-08-10T10:14:37+05:30"
         },
@@ -930,28 +945,53 @@
           "title": "Nikkei, Kospi, Hang Seng to US stocks: Global equity heatmap you must know before opening bell of Indian stock market",
           "link": "https://www.livemint.com/market/stock-market-news/nikkei-225-kospi-stocks-us-stock-market-hang-seng-global-markets-equity-heatmap-before-opening-bell-indian-stock-market-11786330168867.html",
           "pubDate": "2026-08-10T09:05:53+05:30"
-        },
-        {
-          "title": "Rupee opens 4 paise higher at 95.17 against US dollar",
-          "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-4-paise-higher-at-95-17-against-us-dollar-11786332847686.html",
-          "pubDate": "2026-08-10T09:05:35+05:30"
-        },
-        {
-          "title": "Stocks to buy for short term: Bharat Forge among 3 shares Anand Rathi's Jigar Patel recommends for the next 1-2 weeks",
-          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-bharat-forge-among-3-shares-anand-rathis-jigar-patel-recommends-for-the-next-1-2-weeks-11786329399586.html",
-          "pubDate": "2026-08-10T08:53:51+05:30"
-        },
-        {
-          "title": "Molbio Diagnostics IPO Day 1: Issue booked 14% so far. GMP hints 69% listing pop. Apply or not?",
-          "link": "https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-gmp-molbio-diagnostics-ipo-anchor-round-molbio-diagnostics-ipo-review-molbio-diagnostics-ipo-11786329424313.html",
-          "pubDate": "2026-08-10T08:39:07+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-10T10:05:47.305748+00:00",
+      "updated_at": "2026-08-10T11:18:35.107396+00:00",
       "items": [
+        {
+          "title": "Nifty August futures trade at a premium",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-august-futures-trade-at-a-premium-126081001106_1.html",
+          "pubDate": "2026-08-10T16:31:01+05:30"
+        },
+        {
+          "title": "Nifty ends above 24,550 mark; realty shares rally",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-ends-above-24-550-mark-realty-shares-rally-126081001075_1.html",
+          "pubDate": "2026-08-10T16:16:02+05:30"
+        },
+        {
+          "title": "Japanese equities rally on AI and rate-cut hopes",
+          "link": "https://www.business-standard.com/markets/capital-market-news/japanese-equities-rally-on-ai-and-rate-cut-hopes-126081001033_1.html",
+          "pubDate": "2026-08-10T15:50:27+05:30"
+        },
+        {
+          "title": "China equities gain on policy support hopes",
+          "link": "https://www.business-standard.com/markets/capital-market-news/china-equities-gain-on-policy-support-hopes-126081001032_1.html",
+          "pubDate": "2026-08-10T15:50:19+05:30"
+        },
+        {
+          "title": "Large currency speculators slightly reduce net short position in Pound futures market",
+          "link": "https://www.business-standard.com/markets/capital-market-news/large-currency-speculators-slightly-reduce-net-short-position-in-pound-futures-market-126081001027_1.html",
+          "pubDate": "2026-08-10T15:50:02+05:30"
+        },
+        {
+          "title": "Motilal Oswal AMC surpasses ₹2 trillion assets under management in August",
+          "link": "https://www.business-standard.com/markets/news/motilal-oswal-amc-surpasses-2-trillion-assets-under-management-in-august-126081000921_1.html",
+          "pubDate": "2026-08-10T15:48:59+05:30"
+        },
+        {
+          "title": "IPO boom meets investor caution as FY26 signals more mature market: Report",
+          "link": "https://www.business-standard.com/markets/ipo/india-ipo-market-hits-record-fy26-but-investors-turn-selective-126081001000_1.html",
+          "pubDate": "2026-08-10T15:36:27+05:30"
+        },
+        {
+          "title": "Salzer Electronics slips after Q1 adjusted PAT drops 53% YoY",
+          "link": "https://www.business-standard.com/markets/capital-market-news/salzer-electronics-slips-after-q1-adjusted-pat-drops-53-yoy-126081000996_1.html",
+          "pubDate": "2026-08-10T15:33:37+05:30"
+        },
         {
           "title": "Astra Microwave slips after Q1 PAT falls 24% YoY to Rs 12 cr",
           "link": "https://www.business-standard.com/markets/capital-market-news/astra-microwave-slips-after-q1-pat-falls-24-yoy-to-rs-12-cr-126081000940_1.html",
@@ -965,7 +1005,7 @@
         {
           "title": "Raymond Realty shares dive 12% after Q1 profit drops 19% to ₹13.4 crore",
           "link": "https://www.business-standard.com/markets/news/raymond-realty-shares-dive-12-after-q1-profit-drops-19-to-13-4-crore-126081000925_1.html",
-          "pubDate": "2026-08-10T15:14:42+05:30"
+          "pubDate": "2026-08-10T15:14:37+05:30"
         },
         {
           "title": "Delhivery rises after Q1 revenue grows 28% YoY",
@@ -1061,52 +1101,12 @@
           "title": "Amara Raja Energy & Mobility consolidated net profit rises 15.86% in the June 2026 quarter",
           "link": "https://www.business-standard.com/markets/capital-market-news/amara-raja-energy-mobility-consolidated-net-profit-rises-15-86-in-the-june-2026-quarter-126081000772_1.html",
           "pubDate": "2026-08-10T14:07:09+05:30"
-        },
-        {
-          "title": "Bansal Roofing Products standalone net profit rises 31.68% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/bansal-roofing-products-standalone-net-profit-rises-31-68-in-the-june-2026-quarter-126081000771_1.html",
-          "pubDate": "2026-08-10T14:07:01+05:30"
-        },
-        {
-          "title": "Gravity (India) standalone net profit rises 8485.71% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/gravity-india-standalone-net-profit-rises-8485-71-in-the-june-2026-quarter-126081000770_1.html",
-          "pubDate": "2026-08-10T14:06:54+05:30"
-        },
-        {
-          "title": "Haryana Leather Chemicals standalone net profit declines 95.95% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/haryana-leather-chemicals-standalone-net-profit-declines-95-95-in-the-june-2026-quarter-126081000769_1.html",
-          "pubDate": "2026-08-10T14:06:47+05:30"
-        },
-        {
-          "title": "M & B Engineering consolidated net profit rises 22.01% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/m-b-engineering-consolidated-net-profit-rises-22-01-in-the-june-2026-quarter-126081000768_1.html",
-          "pubDate": "2026-08-10T14:06:39+05:30"
-        },
-        {
-          "title": "Sicagen India consolidated net profit rises 52.64% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/sicagen-india-consolidated-net-profit-rises-52-64-in-the-june-2026-quarter-126081000767_1.html",
-          "pubDate": "2026-08-10T14:06:31+05:30"
-        },
-        {
-          "title": "Sellwin Traders consolidated net profit declines 86.94% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/sellwin-traders-consolidated-net-profit-declines-86-94-in-the-june-2026-quarter-126081000766_1.html",
-          "pubDate": "2026-08-10T14:06:23+05:30"
-        },
-        {
-          "title": "Mysore Petro Chemicals reports consolidated net profit of Rs 9.56 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/mysore-petro-chemicals-reports-consolidated-net-profit-of-rs-9-56-crore-in-the-june-2026-quarter-126081000765_1.html",
-          "pubDate": "2026-08-10T14:06:16+05:30"
-        },
-        {
-          "title": "Veer Global Infraconstruction standalone net profit declines 58.82% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/veer-global-infraconstruction-standalone-net-profit-declines-58-82-in-the-june-2026-quarter-126081000764_1.html",
-          "pubDate": "2026-08-10T14:06:08+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-10T10:05:48.286450+00:00",
+      "updated_at": "2026-08-10T11:18:35.599467+00:00",
       "items": [
         {
           "title": "Money Market Operations as on August 09, 2026",

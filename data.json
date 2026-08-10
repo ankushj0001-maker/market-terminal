@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T14:40:46.122186+00:00",
+  "generated_at": "2026-08-10T15:34:52.969192+00:00",
   "indices": {
     "nifty50": {
       "price": 24583.8,
@@ -68,7 +68,7 @@
         24583.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-10T14:40:44.438978+00:00"
+      "updated_at": "2026-08-10T15:34:49.598493+00:00"
     },
     "sensex": {
       "price": 78542.44,
@@ -137,7 +137,7 @@
         78542.4375
       ],
       "ok": true,
-      "updated_at": "2026-08-10T14:40:44.499828+00:00"
+      "updated_at": "2026-08-10T15:34:49.658519+00:00"
     },
     "banknifty": {
       "price": 57686.95,
@@ -206,7 +206,7 @@
         57686.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-10T14:40:44.551255+00:00"
+      "updated_at": "2026-08-10T15:34:49.730465+00:00"
     },
     "vix": {
       "price": 12.245,
@@ -275,7 +275,7 @@
         12.244999885559082
       ],
       "ok": true,
-      "updated_at": "2026-08-10T14:40:44.591902+00:00"
+      "updated_at": "2026-08-10T15:34:50.874846+00:00"
     },
     "usdinr": {
       "price": 95.29,
@@ -344,23 +344,13 @@
         95.29000091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-10T14:40:44.635071+00:00"
+      "updated_at": "2026-08-10T15:34:50.944593+00:00"
     },
     "gold": {
-      "price": 4406.4,
-      "change": 6.7,
-      "pct": 0.1523,
+      "price": 4408.6,
+      "change": 8.9,
+      "pct": 0.2023,
       "closes": [
-        4403.2998046875,
-        4401.39990234375,
-        4401.39990234375,
-        4400.10009765625,
-        4400.0,
-        4399.60009765625,
-        4399.89990234375,
-        4400.7001953125,
-        4402.2001953125,
-        4402.60009765625,
         4400.7001953125,
         4398.89990234375,
         4396.89990234375,
@@ -410,26 +400,26 @@
         4397.5,
         4404.39990234375,
         4406.5,
-        4406.39990234375
+        4406.0,
+        4409.10009765625,
+        4407.2998046875,
+        4402.5,
+        4405.2001953125,
+        4406.89990234375,
+        4404.60009765625,
+        4406.39990234375,
+        4409.10009765625,
+        4409.0,
+        4408.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-10T14:40:44.680733+00:00"
+      "updated_at": "2026-08-10T15:34:50.997748+00:00"
     },
     "crude": {
-      "price": 80.44,
-      "change": 2.26,
-      "pct": 2.8908,
+      "price": 81.18,
+      "change": 3.0,
+      "pct": 3.8373,
       "closes": [
-        79.0199966430664,
-        79.02999877929688,
-        79.05999755859375,
-        79.0199966430664,
-        78.87999725341797,
-        78.81999969482422,
-        78.8499984741211,
-        78.75,
-        78.62999725341797,
-        78.80999755859375,
         78.91999816894531,
         79.2699966430664,
         79.36000061035156,
@@ -479,15 +469,25 @@
         80.43000030517578,
         80.31999969482422,
         80.45999908447266,
-        80.44000244140625
+        80.48999786376953,
+        80.62999725341797,
+        80.63999938964844,
+        80.81999969482422,
+        80.80000305175781,
+        80.91999816894531,
+        80.91000366210938,
+        80.87999725341797,
+        80.9000015258789,
+        81.19999694824219,
+        81.18000030517578
       ],
       "ok": true,
-      "updated_at": "2026-08-10T14:40:44.753846+00:00"
+      "updated_at": "2026-08-10T15:34:51.148612+00:00"
     },
     "us10y": {
-      "price": 4.688,
-      "change": 0.028,
-      "pct": 0.6009,
+      "price": 4.692,
+      "change": 0.032,
+      "pct": 0.6867,
       "closes": [
         4.668000221252441,
         4.665999889373779,
@@ -514,46 +514,57 @@
         4.688000202178955,
         4.685999870300293,
         4.688000202178955,
-        4.688000202178955
+        4.684000015258789,
+        4.684000015258789,
+        4.684000015258789,
+        4.685999870300293,
+        4.684000015258789,
+        4.685999870300293,
+        4.684000015258789,
+        4.691999912261963,
+        4.691999912261963,
+        4.690000057220459,
+        4.690000057220459,
+        4.691999912261963
       ],
       "ok": true,
-      "updated_at": "2026-08-10T14:40:44.794490+00:00"
+      "updated_at": "2026-08-10T15:34:51.302494+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-10T14:40:44.983158+00:00",
+      "updated_at": "2026-08-10T15:34:51.465523+00:00",
       "items": [
         {
-          "title": "$48 billion profit! 5 global oil majors cash in on oil surge amid Iran war. Where is money flowing?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/48-billion-profit-5-global-oil-majors-cash-in-on-oil-surge-amid-iran-war-where-is-money-flowing/articleshow/133091563.cms",
-          "pubDate": "2026-08-10T13:36:24+05:30"
+          "title": "Sebi proposes raising annual ISIN limit for private debt securities to 17",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/sebi-proposes-raising-annual-isin-limit-for-private-debt-securities-to-17/articleshow/133109056.cms",
+          "pubDate": "2026-08-10T19:01:40+05:30"
         },
         {
-          "title": "PFC shares tumble 5% to 4-month low after weak Q1 earnings. Why Motilal Oswal still recommends Buy",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pfc-shares-tumble-5-to-4-month-low-after-weak-q1-earnings-why-motilal-oswal-still-recommends-buy/articleshow/133087726.cms",
-          "pubDate": "2026-08-10T11:54:59+05:30"
+          "title": "Zee Entertainment Q1 Results: PAT falls 48% YoY to Rs 74 crore; ad revenue hit by Middle East crisis",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/zee-entertainment-q1-results-pat-falls-48-yoy-to-rs-74-crore-ad-revenue-hit-by-middle-east-crisis/articleshow/133106855.cms",
+          "pubDate": "2026-08-10T18:17:50+05:30"
         },
         {
-          "title": "Paytm shares jump 5% after Bernstein assigns target price above IPO price for first time",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-jump-5-after-bernstein-assigns-target-price-above-ipo-price-for-first-time/articleshow/133087184.cms",
-          "pubDate": "2026-08-10T11:30:48+05:30"
+          "title": "Project Sudarsan: How Sebi is using AI to police finfluencers with 60% of investors trusting their advice",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/project-sudarsan-how-sebi-is-using-ai-to-police-finfluencers-with-60-of-investors-trusting-their-advice/articleshow/133099411.cms",
+          "pubDate": "2026-08-10T16:36:58+05:30"
         },
         {
-          "title": "Sensex closes almost flat, Nifty ends above 24,580. What lies ahead?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-hold-steady-as-earnings-offset-oil-worries/articleshow/133080723.cms",
-          "pubDate": "2026-08-10T09:34:05+05:30"
+          "title": "Has Dalal Street's near term outlook improved? HSBC lists 4 headwinds, 3 tailwinds to watch out for",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/has-dalal-streets-near-term-outlook-improved-hsbc-lists-4-headwinds-3-tailwinds-to-watch-out-for/articleshow/133097555.cms",
+          "pubDate": "2026-08-10T16:11:34+05:30"
         },
         {
-          "title": "How Rakesh Jhunjhunwala's old Tata bet created Rs 80,000 crore wealth after two years of flat returns",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-rakesh-jhunjhunwalas-old-tata-bet-created-rs-80000-crore-wealth-after-two-years-of-flat-returns/articleshow/133079774.cms",
-          "pubDate": "2026-08-10T09:04:57+05:30"
+          "title": "FIIs more than doubled their stakes in 11 multibaggers in June quarter. Do you own any?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-more-than-doubled-their-stakes-in-11-multibaggers-in-june-quarter-do-you-own-any/slideshow/133096409.cms",
+          "pubDate": "2026-08-10T15:33:53+05:30"
         },
         {
-          "title": "How Adani’s $125 billion capex boom is creating new winners on Dalal Street",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-adanis-125-billion-capex-boom-is-creating-new-winners-on-dalal-street/articleshow/133079045.cms",
-          "pubDate": "2026-08-10T08:37:33+05:30"
+          "title": "From gold and LIC policy to SIPs and crypto: How investment habits changed from Boomers to Millennials to Gen Z",
+          "link": "https://economictimes.indiatimes.com/wealth/invest/from-gold-and-lic-policy-to-sips-and-crypto-how-investment-habits-changed-from-boomers-to-millennials-to-gen-z/articleshow/133044977.cms",
+          "pubDate": "2026-08-10T06:30:00+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -679,7 +690,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-10T14:40:45.102791+00:00",
+      "updated_at": "2026-08-10T15:34:51.571498+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -760,8 +771,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-10T14:40:45.196810+00:00",
+      "updated_at": "2026-08-10T15:34:51.738364+00:00",
       "items": [
+        {
+          "title": "Nippon India Equity buys stake in Iris Clothings that has risen 250% in five years",
+          "link": "https://www.livemint.com/market/stock-market-news/nippon-india-equity-buys-stake-in-iris-clothings-that-has-risen-250-in-five-years-11786372512339.html",
+          "pubDate": "2026-08-10T20:32:56+05:30"
+        },
         {
           "title": "Wall Street slips ahead of inflation data, crude oil surges",
           "link": "https://www.livemint.com/market/stock-market-news/wall-street-slips-ahead-of-inflation-data-crude-oil-surges-11786370280375.html",
@@ -906,22 +922,22 @@
           "title": "Markets find their footing as inflation fears ease and growth expectations rise says Vinod Nair",
           "link": "https://www.livemint.com/market/stock-market-news/markets-find-their-footing-as-inflation-fears-ease-and-growth-expectations-rise-says-vinod-nair-11786335140475.html",
           "pubDate": "2026-08-10T09:46:57+05:30"
-        },
-        {
-          "title": "LEAP India IPO Day 2: Issue subscribed 40% so far. Check GMP, key dates, review - apply or not?",
-          "link": "https://www.livemint.com/market/ipo/leap-india-ipo-day-2-issue-subscribed-26-so-far-check-gmp-key-dates-review-apply-or-not-11786332477250.html",
-          "pubDate": "2026-08-10T09:24:03+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-10T14:40:45.312074+00:00",
+      "updated_at": "2026-08-10T15:34:52.003986+00:00",
       "items": [
+        {
+          "title": "Mandatory hallmarking of gold jewellery expanded to 392 districts",
+          "link": "https://www.business-standard.com/markets/commodities/mandatory-hallmarking-of-gold-jewellery-expanded-to-392-districts-126081001645_1.html",
+          "pubDate": "2026-08-10T20:12:55+05:30"
+        },
         {
           "title": "Paytm shares jump 10% after Bernstein revises target price to ₹2,200",
           "link": "https://www.business-standard.com/markets/news/paytm-shares-jump-10-after-bernstein-revises-target-price-to-2-200-126081001597_1.html",
-          "pubDate": "2026-08-10T19:45:04+05:30"
+          "pubDate": "2026-08-10T19:45:34+05:30"
         },
         {
           "title": "Sebi proposes raising annual ISIN limit for private debt securities to 17",
@@ -1062,17 +1078,12 @@
           "title": "HB Portfolio consolidated net profit rises 158.26% in the June 2026 quarter",
           "link": "https://www.business-standard.com/markets/capital-market-news/hb-portfolio-consolidated-net-profit-rises-158-26-in-the-june-2026-quarter-126081001375_1.html",
           "pubDate": "2026-08-10T17:53:01+05:30"
-        },
-        {
-          "title": "Dollar Industries consolidated net profit rises 22.05% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/dollar-industries-consolidated-net-profit-rises-22-05-in-the-june-2026-quarter-126081001374_1.html",
-          "pubDate": "2026-08-10T17:52:54+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-10T14:40:46.122168+00:00",
+      "updated_at": "2026-08-10T15:34:52.969171+00:00",
       "items": [
         {
           "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 11, 2026",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T23:53:28.674869+00:00",
+  "generated_at": "2026-08-10T00:41:32.578701+00:00",
   "indices": {
     "nifty50": {
       "price": 24570.65,
@@ -68,7 +68,7 @@
         24570.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-09T23:53:25.322482+00:00"
+      "updated_at": "2026-08-10T00:41:30.937646+00:00"
     },
     "sensex": {
       "price": 78499.17,
@@ -137,7 +137,7 @@
         78499.171875
       ],
       "ok": true,
-      "updated_at": "2026-08-09T23:53:25.487131+00:00"
+      "updated_at": "2026-08-10T00:41:30.988699+00:00"
     },
     "banknifty": {
       "price": 57746.45,
@@ -206,7 +206,7 @@
         57746.44921875
       ],
       "ok": true,
-      "updated_at": "2026-08-09T23:53:25.694267+00:00"
+      "updated_at": "2026-08-10T00:41:31.043128+00:00"
     },
     "vix": {
       "price": 12.1575,
@@ -275,7 +275,7 @@
         12.157500267028809
       ],
       "ok": true,
-      "updated_at": "2026-08-09T23:53:25.913334+00:00"
+      "updated_at": "2026-08-10T00:41:31.102217+00:00"
     },
     "usdinr": {
       "price": 95.198,
@@ -283,12 +283,12 @@
       "pct": 0.0,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-09T23:53:26.078873+00:00"
+      "updated_at": "2026-08-10T00:41:31.138741+00:00"
     },
     "gold": {
-      "price": 4400.2,
-      "change": 0.5,
-      "pct": 0.0114,
+      "price": 4397.5,
+      "change": -2.2,
+      "pct": -0.05,
       "closes": [
         4402.2998046875,
         4399.2001953125,
@@ -309,10 +309,20 @@
         4401.0,
         4401.7001953125,
         4401.10009765625,
-        4400.2001953125
+        4401.0,
+        4399.7001953125,
+        4392.0,
+        4399.60009765625,
+        4400.89990234375,
+        4403.39990234375,
+        4403.2998046875,
+        4398.7001953125,
+        4396.7001953125,
+        4396.7001953125,
+        4397.5
       ],
       "ok": true,
-      "updated_at": "2026-08-09T23:53:26.302113+00:00"
+      "updated_at": "2026-08-10T00:41:31.181128+00:00"
     },
     "crude": {
       "price": 78.89,
@@ -338,10 +348,20 @@
         78.76000213623047,
         78.83000183105469,
         78.83999633789062,
+        78.81999969482422,
+        78.83000183105469,
+        78.7699966430664,
+        78.58000183105469,
+        78.66000366210938,
+        78.81999969482422,
+        78.83999633789062,
+        78.87999725341797,
+        78.87000274658203,
+        78.9000015258789,
         78.88999938964844
       ],
       "ok": true,
-      "updated_at": "2026-08-09T23:53:26.531812+00:00"
+      "updated_at": "2026-08-10T00:41:31.225047+00:00"
     },
     "us10y": {
       "price": 4.66,
@@ -410,14 +430,34 @@
         4.659999847412109
       ],
       "ok": true,
-      "updated_at": "2026-08-09T23:53:26.767942+00:00"
+      "updated_at": "2026-08-10T00:41:31.273607+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-09T23:53:27.154126+00:00",
+      "updated_at": "2026-08-10T00:41:31.416687+00:00",
       "items": [
+        {
+          "title": "FPIs turn buyers in IT stocks for first time in 2026, invest Rs 3,358 crore in July",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-buyers-in-it-stocks-for-first-time-in-2026-invest-rs-3358-crore-in-july/articleshow/133076951.cms",
+          "pubDate": "2026-08-10T05:34:28+05:30"
+        },
+        {
+          "title": "Govt taps inputs from public sector banks to lure foreign capital",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/govt-taps-inputs-from-public-sector-banks-to-lure-foreign-capital/articleshow/133076978.cms",
+          "pubDate": "2026-08-10T00:26:01+05:30"
+        },
+        {
+          "title": "Purchase of bad loans by ARCs rises 56% in Q1",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/purchase-of-bad-loans-by-arcs-rises-56-in-q1/articleshow/133076947.cms",
+          "pubDate": "2026-08-10T00:04:56+05:30"
+        },
+        {
+          "title": "As banks shrink microfinance books, bigger MFIs prepare to grab the gap",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/as-banks-shrink-microfinance-books-bigger-lenders-prepare-to-grab-the-gap/articleshow/133076974.cms",
+          "pubDate": "2026-08-09T17:13:44+05:30"
+        },
         {
           "title": "Berkshire Hathaway spends down cash pile under CEO Greg Abel",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/berkshire-hathaway-spends-down-cash-pile-under-ceo-greg-abel/articleshow/133062858.cms",
@@ -437,26 +477,6 @@
           "title": "Foreign investors continue buying spree; pour Rs 12,921 cr in first week of Aug",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-continue-buying-spree-pour-rs-12921-cr-in-first-week-of-aug/articleshow/133062370.cms",
           "pubDate": "2026-08-09T10:18:25+05:30"
-        },
-        {
-          "title": "Foreign investors continue buying spree; pour Rs 12,921 cr in first week of Aug",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-continue-buying-spree-pour-rs-12921-cr-in-first-week-of-aug/articleshow/133062370.cms",
-          "pubDate": "2026-08-09T10:18:25+05:30"
-        },
-        {
-          "title": "Explained: How BSE traded fewer contracts after CAS but premiums rose 75% in first week",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-how-bse-traded-fewer-contracts-after-cas-but-premiums-rose-75-in-first-week/articleshow/133049697.cms",
-          "pubDate": "2026-08-08T14:44:12+05:30"
-        },
-        {
-          "title": "F&amp;O Talk: Smallcaps look strong on charts, says Sudeep Shah; outlines Trent, Swiggy, Kalyan Jewellers strategy",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-smallcaps-look-strong-on-charts-says-sudeep-shah-outlines-trent-swiggy-kalyan-jewellers-strategy/articleshow/133048679.cms",
-          "pubDate": "2026-08-08T13:16:49+05:30"
-        },
-        {
-          "title": "Quant Small Cap Fund adds SBI Funds Management, Caliber Mining and 11 others in July",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/quant-small-cap-fund-adds-sbi-funds-management-caliber-mining-and-11-others-in-july/articleshow/133048616.cms",
-          "pubDate": "2026-08-08T13:10:39+05:30"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -653,8 +673,33 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-09T23:53:27.553150+00:00",
+      "updated_at": "2026-08-10T00:41:31.645850+00:00",
       "items": [
+        {
+          "title": "Stock recommendations for 10 August from MarketSmith India",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-10-august-marketsmith-india-waterways-leisure-tourism-hindalco-industries-nifty-sensex-11786191373714.html",
+          "pubDate": "2026-08-10T06:00:52+05:30"
+        },
+        {
+          "title": "Raja Venkatraman recommends three stocks for 10 August",
+          "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-three-stocks-10-august-grasim-industries-ltm-granules-india-nifty-sensex-11786192134319.html",
+          "pubDate": "2026-08-10T06:00:32+05:30"
+        },
+        {
+          "title": "Thin volumes at closing auction debut hit F&amp;O",
+          "link": "https://www.livemint.com/market/thin-volumes-sebi-closing-auction-f-o-equity-derivatives-fpi-investors-nifty-traders-nse-11786263481670.html",
+          "pubDate": "2026-08-10T05:51:12+05:30"
+        },
+        {
+          "title": "Britannia could be in for a treat as key concerns ease",
+          "link": "https://www.livemint.com/market/mark-to-market/britannia-industries-q1-results-dual-pricing-volume-growth-fmcg-11786263851791.html",
+          "pubDate": "2026-08-10T05:45:32+05:30"
+        },
+        {
+          "title": "India’s new rich are emerging beyond the metros—and wealthy portfolios are going global",
+          "link": "https://www.livemint.com/market/stock-market-news/india-hni-wealth-growth-cities-global-investment-trends-11786249311097.html",
+          "pubDate": "2026-08-10T05:30:51+05:30"
+        },
         {
           "title": "China Shock 2.0 reshuffles winners and losers: Manishi Raychaudhuri",
           "link": "https://www.livemint.com/market/china-shock-2-0-reshuffles-winners-and-losers-manishi-raychaudhuri-11786316493048.html",
@@ -779,31 +824,6 @@
           "title": "Short-Term Treasuries Cap Biggest Weekly Rally Since May on Data",
           "link": "https://www.livemint.com/market/shortterm-treasuries-cap-biggest-weekly-rally-since-may-on-data-11786134305338.html",
           "pubDate": "2026-08-08T01:55:04+05:30"
-        },
-        {
-          "title": "Treasury yields fall as jobs report dashes hike bets",
-          "link": "https://www.livemint.com/market/treasury-yields-fall-as-jobs-report-dashes-hike-bets-11786130890731.html",
-          "pubDate": "2026-08-08T00:58:10+05:30"
-        },
-        {
-          "title": "Gold hits seven-week high as weak US jobs data dents rate hike bets",
-          "link": "https://www.livemint.com/market/gold-hits-seven-week-high-as-weak-us-jobs-data-dents-rate-hike-bets-11786129243519.html",
-          "pubDate": "2026-08-08T00:30:43+05:30"
-        },
-        {
-          "title": "Equities poised for best week since April as payrolls surprise eases rate-hike concerns",
-          "link": "https://www.livemint.com/market/equities-poised-for-best-week-since-april-as-payrolls-surprise-eases-rate-hike-concerns-11786127839882.html",
-          "pubDate": "2026-08-08T00:07:19+05:30"
-        },
-        {
-          "title": "Sebi to cut routine checks by two-thirds, focus on high-risk players",
-          "link": "https://www.livemint.com/market/sebi-inspections-high-risk-intermediaries-brokers-equity-market-11786108148578.html",
-          "pubDate": "2026-08-07T22:51:17+05:30"
-        },
-        {
-          "title": "Weekly Winner: Ujaas Energy jumps 68% this week as upbeat Q1 earnings fuel buying",
-          "link": "https://www.livemint.com/market/stock-market-news/weekly-winner-ujaas-energy-jumps-68-this-week-as-upbeat-q1-earnings-fuel-buying-11786120993442.html",
-          "pubDate": "2026-08-07T22:47:40+05:30"
         }
       ]
     },
@@ -814,7 +834,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-09T23:53:28.674853+00:00",
+      "updated_at": "2026-08-10T00:41:32.578686+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

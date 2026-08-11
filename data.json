@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T20:22:07.207372+00:00",
+  "generated_at": "2026-08-11T21:09:34.797270+00:00",
   "indices": {
     "nifty50": {
       "price": 24471.7,
@@ -68,7 +68,7 @@
         24471.69921875
       ],
       "ok": true,
-      "updated_at": "2026-08-11T20:22:03.544144+00:00"
+      "updated_at": "2026-08-11T21:09:31.562201+00:00"
     },
     "sensex": {
       "price": 78154.25,
@@ -137,7 +137,7 @@
         78154.25
       ],
       "ok": true,
-      "updated_at": "2026-08-11T20:22:03.674799+00:00"
+      "updated_at": "2026-08-11T21:09:31.777627+00:00"
     },
     "banknifty": {
       "price": 57446.25,
@@ -206,7 +206,7 @@
         57446.25
       ],
       "ok": true,
-      "updated_at": "2026-08-11T20:22:03.856382+00:00"
+      "updated_at": "2026-08-11T21:09:32.062563+00:00"
     },
     "vix": {
       "price": 11.855,
@@ -275,7 +275,7 @@
         11.854999542236328
       ],
       "ok": true,
-      "updated_at": "2026-08-11T20:22:04.057948+00:00"
+      "updated_at": "2026-08-11T21:09:32.269658+00:00"
     },
     "usdinr": {
       "price": 95.425,
@@ -344,22 +344,13 @@
         95.42500305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-11T20:22:04.228860+00:00"
+      "updated_at": "2026-08-11T21:09:32.449008+00:00"
     },
     "gold": {
-      "price": 4429.3,
-      "change": 9.6,
-      "pct": 0.2172,
+      "price": 4427.9,
+      "change": 8.2,
+      "pct": 0.1855,
       "closes": [
-        4443.10009765625,
-        4445.7998046875,
-        4436.5,
-        4430.7001953125,
-        4435.10009765625,
-        4435.7001953125,
-        4440.10009765625,
-        4443.2001953125,
-        4440.5,
         4439.2998046875,
         4439.60009765625,
         4438.89990234375,
@@ -410,25 +401,25 @@
         4428.10009765625,
         4429.2001953125,
         4429.5,
-        4429.2998046875
+        4426.89990234375,
+        4428.89990234375,
+        4429.2998046875,
+        4429.0,
+        4428.7001953125,
+        4426.7001953125,
+        4426.39990234375,
+        4426.39990234375,
+        4427.2001953125,
+        4427.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-11T20:22:04.446029+00:00"
+      "updated_at": "2026-08-11T21:09:32.637662+00:00"
     },
     "crude": {
-      "price": 83.45,
-      "change": 1.32,
-      "pct": 1.6072,
+      "price": 83.25,
+      "change": 1.12,
+      "pct": 1.3637,
       "closes": [
-        82.55000305175781,
-        82.58999633789062,
-        83.20999908447266,
-        83.05000305175781,
-        83.19999694824219,
-        83.19000244140625,
-        83.19000244140625,
-        83.26000213623047,
-        83.05999755859375,
         83.02999877929688,
         83.12000274658203,
         83.05000305175781,
@@ -479,10 +470,19 @@
         83.36000061035156,
         83.4800033569336,
         83.48999786376953,
-        83.44999694824219
+        83.41999816894531,
+        83.41999816894531,
+        83.37999725341797,
+        83.38999938964844,
+        83.4000015258789,
+        83.45999908447266,
+        83.45999908447266,
+        83.33999633789062,
+        83.2300033569336,
+        83.25
       ],
       "ok": true,
-      "updated_at": "2026-08-11T20:22:04.652721+00:00"
+      "updated_at": "2026-08-11T21:09:32.989031+00:00"
     },
     "us10y": {
       "price": 4.684,
@@ -551,14 +551,19 @@
         4.684000015258789
       ],
       "ok": true,
-      "updated_at": "2026-08-11T20:22:04.808302+00:00"
+      "updated_at": "2026-08-11T21:09:33.156775+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-11T20:22:05.019105+00:00",
+      "updated_at": "2026-08-11T21:09:33.400503+00:00",
       "items": [
+        {
+          "title": "US stocks: US market ends down as Iran peace deal optimism fades",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-as-iran-peace-deal-optimism-fades/articleshow/133165118.cms",
+          "pubDate": "2026-08-12T01:38:33+05:30"
+        },
         {
           "title": "Fed’s Austan Goolsbee says inflation is the biggest problem on Fed rate signal",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-austan-goolsbee-says-inflation-is-the-biggest-problem-on-fed-rate-signal/articleshow/133164860.cms",
@@ -573,11 +578,6 @@
           "title": "Sebi proposes to bring all bullion trades under vault management rules",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-to-bring-all-bullion-trades-under-vault-management-rules/articleshow/133158951.cms",
           "pubDate": "2026-08-11T20:54:26+05:30"
-        },
-        {
-          "title": "CME to allow round-the-clock trading of 100-Ounce Silver futures from September",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/cme-to-allow-round-the-clock-trading-of-100-ounce-silver-futures-from-september/articleshow/133156331.cms",
-          "pubDate": "2026-08-11T19:11:24+05:30"
         },
         {
           "title": "India govt says retail option trader losses fell 18% after regulatory curbs",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-11T20:22:05.295440+00:00",
+      "updated_at": "2026-08-11T21:09:33.725420+00:00",
       "items": [
+        {
+          "title": "Omers Returns 4.8% in 2026, Fueled by Stocks and US Dollar",
+          "link": "https://www.livemint.com/market/omers-returns-4-8-in-2026-fueled-by-stocks-and-us-dollar-11786482038458.html",
+          "pubDate": "2026-08-12T02:30:38+05:30"
+        },
         {
           "title": "Chicago grains weaken in positioning ahead of USDA report",
           "link": "https://www.livemint.com/market/chicago-grains-weaken-in-positioning-ahead-of-usda-report-11786474783700.html",
@@ -940,17 +945,12 @@
           "title": "PC Jeweller share price jumps 5% after Q1 results 2026. Do you own?",
           "link": "https://www.livemint.com/market/stock-market-news/pc-jeweller-share-price-jumps-5-after-q1-results-2026-do-you-own-11786426853564.html",
           "pubDate": "2026-08-11T11:39:44+05:30"
-        },
-        {
-          "title": "Blue Cloud shares jump over 30% in 2 days after joining hands with Malaysia's SpaceX International for AI infra",
-          "link": "https://www.livemint.com/market/stock-market-news/blue-cloud-shares-jump-over-30-in-2-days-after-joining-hands-with-spacex-for-ai-infra-11786426650460.html",
-          "pubDate": "2026-08-11T11:31:58+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-11T20:22:06.296472+00:00",
+      "updated_at": "2026-08-11T21:09:33.987293+00:00",
       "items": [
         {
           "title": "CAS may cause near-term drag in index-options trading: Bernstein",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-11T20:22:07.207357+00:00",
+      "updated_at": "2026-08-11T21:09:34.797252+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 12, 2026",

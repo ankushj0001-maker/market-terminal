@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T21:59:47.346260+00:00",
+  "generated_at": "2026-08-11T22:39:49.798993+00:00",
   "indices": {
     "nifty50": {
       "price": 24471.7,
@@ -68,7 +68,7 @@
         24471.69921875
       ],
       "ok": true,
-      "updated_at": "2026-08-11T21:59:43.485889+00:00"
+      "updated_at": "2026-08-11T22:39:46.501919+00:00"
     },
     "sensex": {
       "price": 78154.25,
@@ -137,7 +137,7 @@
         78154.25
       ],
       "ok": true,
-      "updated_at": "2026-08-11T21:59:43.624777+00:00"
+      "updated_at": "2026-08-11T22:39:46.714265+00:00"
     },
     "banknifty": {
       "price": 57446.25,
@@ -206,7 +206,7 @@
         57446.25
       ],
       "ok": true,
-      "updated_at": "2026-08-11T21:59:43.759947+00:00"
+      "updated_at": "2026-08-11T22:39:46.872431+00:00"
     },
     "vix": {
       "price": 11.855,
@@ -275,7 +275,7 @@
         11.854999542236328
       ],
       "ok": true,
-      "updated_at": "2026-08-11T21:59:43.939672+00:00"
+      "updated_at": "2026-08-11T22:39:47.078817+00:00"
     },
     "usdinr": {
       "price": 95.425,
@@ -344,19 +344,13 @@
         95.42500305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-11T21:59:44.151448+00:00"
+      "updated_at": "2026-08-11T22:39:47.391701+00:00"
     },
     "gold": {
-      "price": 4427.8,
-      "change": -13.3,
-      "pct": -0.2995,
+      "price": 4434.8,
+      "change": -6.3,
+      "pct": -0.1419,
       "closes": [
-        4439.2998046875,
-        4439.60009765625,
-        4438.89990234375,
-        4441.2001953125,
-        4442.39990234375,
-        4442.10009765625,
         4443.2998046875,
         4444.39990234375,
         4442.5,
@@ -410,22 +404,22 @@
         4426.39990234375,
         4426.39990234375,
         4427.7998046875,
-        4427.7998046875
+        4431.2998046875,
+        4432.5,
+        4432.2001953125,
+        4432.7998046875,
+        4434.2001953125,
+        4434.89990234375,
+        4434.7998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-11T21:59:44.316357+00:00"
+      "updated_at": "2026-08-11T22:39:47.616125+00:00"
     },
     "crude": {
-      "price": 83.23,
-      "change": 0.03,
-      "pct": 0.0361,
+      "price": 83.5,
+      "change": 0.3,
+      "pct": 0.3606,
       "closes": [
-        83.02999877929688,
-        83.12000274658203,
-        83.05000305175781,
-        82.87999725341797,
-        82.79000091552734,
-        82.94000244140625,
         82.91999816894531,
         82.98999786376953,
         83.0999984741211,
@@ -479,10 +473,16 @@
         83.45999908447266,
         83.33999633789062,
         83.2300033569336,
-        83.2300033569336
+        83.4000015258789,
+        83.51000213623047,
+        83.5199966430664,
+        83.56999969482422,
+        83.5199966430664,
+        83.5,
+        83.5
       ],
       "ok": true,
-      "updated_at": "2026-08-11T21:59:44.582295+00:00"
+      "updated_at": "2026-08-11T22:39:47.905931+00:00"
     },
     "us10y": {
       "price": 4.684,
@@ -551,13 +551,13 @@
         4.684000015258789
       ],
       "ok": true,
-      "updated_at": "2026-08-11T21:59:44.780022+00:00"
+      "updated_at": "2026-08-11T22:39:48.064123+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-11T21:59:45.137750+00:00",
+      "updated_at": "2026-08-11T22:39:48.214157+00:00",
       "items": [
         {
           "title": "US stocks: US market ends down as Iran peace deal optimism fades",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-11T21:59:45.638001+00:00",
+      "updated_at": "2026-08-11T22:39:48.658275+00:00",
       "items": [
+        {
+          "title": "Yen Inches Toward 160 Per Dollar, Raising Intervention Concerns",
+          "link": "https://www.livemint.com/market/yen-inches-toward-160-per-dollar-raising-intervention-concerns-11786486001765.html",
+          "pubDate": "2026-08-12T03:36:41+05:30"
+        },
         {
           "title": "Omers Returns 4.8% in 2026, Fueled by Stocks and US Dollar",
           "link": "https://www.livemint.com/market/omers-returns-4-8-in-2026-fueled-by-stocks-and-us-dollar-11786482038458.html",
@@ -940,17 +945,12 @@
           "title": "Nifty Rejig: BSE to enter Nifty 50, Wipro moves to Nifty Next 50; Hitachi Energy, Polycab join Nifty 100",
           "link": "https://www.livemint.com/market/stock-market-news/nifty-rejig-bse-to-enter-nifty-50-wipro-moves-to-nifty-next-50-hitachi-energy-polycab-join-nifty-100-11786428654633.html",
           "pubDate": "2026-08-11T12:00:51+05:30"
-        },
-        {
-          "title": "PC Jeweller share price jumps 5% after Q1 results 2026. Do you own?",
-          "link": "https://www.livemint.com/market/stock-market-news/pc-jeweller-share-price-jumps-5-after-q1-results-2026-do-you-own-11786426853564.html",
-          "pubDate": "2026-08-11T11:39:44+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-11T21:59:46.544209+00:00",
+      "updated_at": "2026-08-11T22:39:48.941389+00:00",
       "items": [
         {
           "title": "CAS may cause near-term drag in index-options trading: Bernstein",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-11T21:59:47.346242+00:00",
+      "updated_at": "2026-08-11T22:39:49.798977+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 12, 2026",

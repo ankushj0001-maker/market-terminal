@@ -1,67 +1,123 @@
 {
-  "generated_at": "2026-08-11T04:10:32.793498+00:00",
+  "generated_at": "2026-08-11T05:19:24.721584+00:00",
   "indices": {
     "nifty50": {
-      "price": 24479.8,
-      "change": -104.0,
-      "pct": -0.423,
+      "price": 24465.4,
+      "change": -118.4,
+      "pct": -0.4816,
       "closes": [
         24504.75,
         24500.150390625,
         24487.400390625,
         24488.349609375,
         24481.75,
-        24479.80078125
+        24479.25,
+        24472.150390625,
+        24468.599609375,
+        24486.849609375,
+        24486.55078125,
+        24479.55078125,
+        24473.0,
+        24467.599609375,
+        24470.30078125,
+        24479.0,
+        24480.69921875,
+        24478.94921875,
+        24474.75,
+        24466.44921875,
+        24465.400390625
       ],
       "ok": true,
-      "updated_at": "2026-08-11T04:10:30.650350+00:00"
+      "updated_at": "2026-08-11T05:19:22.766363+00:00"
     },
     "sensex": {
-      "price": 78247.07,
-      "change": -295.37,
-      "pct": -0.3761,
+      "price": 78189.08,
+      "change": -353.36,
+      "pct": -0.4499,
       "closes": [
         78239.546875,
         78233.2421875,
-        78247.0703125
+        78212.8984375,
+        78215.75,
+        78197.1796875,
+        78181.9375,
+        78148.203125,
+        78138.15625,
+        78198.828125,
+        78208.3671875,
+        78174.9765625,
+        78156.359375,
+        78143.3125,
+        78154.640625,
+        78183.5625,
+        78186.28125,
+        78189.078125
       ],
       "ok": true,
-      "updated_at": "2026-08-11T04:10:30.697440+00:00"
+      "updated_at": "2026-08-11T05:19:22.812763+00:00"
     },
     "banknifty": {
-      "price": 57215.45,
-      "change": -471.5,
-      "pct": -0.8173,
+      "price": 57240.0,
+      "change": -446.95,
+      "pct": -0.7748,
       "closes": [
         57338.6015625,
         57337.55078125,
         57297.75,
         57250.05078125,
         57225.5,
-        57215.44921875
+        57218.3984375,
+        57175.69921875,
+        57166.69921875,
+        57209.8515625,
+        57232.44921875,
+        57210.5,
+        57214.69921875,
+        57188.0,
+        57196.1484375,
+        57262.5,
+        57263.3984375,
+        57267.1484375,
+        57273.6484375,
+        57240.8984375,
+        57240.0
       ],
       "ok": true,
-      "updated_at": "2026-08-11T04:10:30.738921+00:00"
+      "updated_at": "2026-08-11T05:19:22.865989+00:00"
     },
     "vix": {
-      "price": 12.305,
-      "change": 0.06,
-      "pct": 0.49,
+      "price": 12.165,
+      "change": -0.08,
+      "pct": -0.6533,
       "closes": [
         12.399999618530273,
         12.202500343322754,
         12.2524995803833,
         12.359999656677246,
         12.292499542236328,
-        12.305000305175781
+        12.257499694824219,
+        12.287500381469727,
+        12.255000114440918,
+        12.244999885559082,
+        12.207500457763672,
+        12.132499694824219,
+        12.1899995803833,
+        12.154999732971191,
+        12.1899995803833,
+        12.182499885559082,
+        12.164999961853027,
+        12.207500457763672,
+        12.1875,
+        12.164999961853027,
+        12.164999961853027
       ],
       "ok": true,
-      "updated_at": "2026-08-11T04:10:30.781465+00:00"
+      "updated_at": "2026-08-11T05:19:22.910877+00:00"
     },
     "usdinr": {
-      "price": 95.385,
-      "change": 0.095,
-      "pct": 0.0997,
+      "price": 95.3875,
+      "change": 0.0975,
+      "pct": 0.1023,
       "closes": [
         95.29000091552734,
         95.30000305175781,
@@ -77,32 +133,72 @@
         95.36000061035156,
         95.37000274658203,
         95.39749908447266,
-        95.38500213623047
+        95.3949966430664,
+        95.39250183105469,
+        95.38500213623047,
+        95.38749694824219,
+        95.39250183105469,
+        95.39250183105469,
+        95.4000015258789,
+        95.40249633789062,
+        95.3949966430664,
+        95.38749694824219,
+        95.38500213623047,
+        95.37999725341797,
+        95.37799835205078,
+        95.37999725341797,
+        95.38749694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-11T04:10:30.835430+00:00"
+      "updated_at": "2026-08-11T05:19:22.958853+00:00"
     },
     "gold": {
-      "price": 4476.3,
-      "change": 56.6,
-      "pct": 1.2806,
+      "price": 4465.1,
+      "change": 45.4,
+      "pct": 1.0272,
       "closes": [
         4477.0,
-        4476.2998046875
+        4473.7001953125,
+        4473.7001953125,
+        4473.10009765625,
+        4472.7001953125,
+        4474.89990234375,
+        4475.89990234375,
+        4474.0,
+        4469.89990234375,
+        4467.60009765625,
+        4466.2001953125,
+        4468.7001953125,
+        4465.7001953125,
+        4465.7001953125,
+        4465.10009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-11T04:10:30.882584+00:00"
+      "updated_at": "2026-08-11T05:19:23.012095+00:00"
     },
     "crude": {
-      "price": 82.07,
-      "change": -0.06,
-      "pct": -0.0731,
+      "price": 82.3,
+      "change": 0.17,
+      "pct": 0.207,
       "closes": [
         82.06999969482422,
-        82.06999969482422
+        82.01000213623047,
+        82.02999877929688,
+        82.02999877929688,
+        82.01000213623047,
+        82.01000213623047,
+        82.0199966430664,
+        82.12999725341797,
+        82.25,
+        82.23999786376953,
+        82.19000244140625,
+        82.23999786376953,
+        82.23999786376953,
+        82.30000305175781,
+        82.30000305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-11T04:10:30.928630+00:00"
+      "updated_at": "2026-08-11T05:19:23.060296+00:00"
     },
     "us10y": {
       "price": 4.699,
@@ -171,23 +267,23 @@
         4.699000358581543
       ],
       "ok": true,
-      "updated_at": "2026-08-11T04:10:30.980019+00:00"
+      "updated_at": "2026-08-11T05:19:23.114827+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-11T04:10:31.166782+00:00",
+      "updated_at": "2026-08-11T05:19:23.225236+00:00",
       "items": [
+        {
+          "title": "Vodafone Idea shares jump 3% after Q1 net loss narrows. What is Nomura saying?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-shares-jump-3-after-q1-net-loss-narrows-what-is-nomura-saying/articleshow/133141850.cms",
+          "pubDate": "2026-08-11T09:37:55+05:30"
+        },
         {
           "title": "Positive Breakout: These 9 stocks cross above their 200 DMAs",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-9-stocks-cross-above-their-200-dmas/upside-ahead/slideshow/133140624.cms",
           "pubDate": "2026-08-11T08:06:19+05:30"
-        },
-        {
-          "title": "Nvidia partners with Wall Street giants to raise $500 billion for AI buildout",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-partners-with-wall-street-giants-to-raise-500-billion-for-ai-buildout/articleshow/133140190.cms",
-          "pubDate": "2026-08-11T07:15:28+05:30"
         },
         {
           "title": "Global Market Today: Asian shares trade lower; oil holds gains",
@@ -414,8 +510,33 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-11T04:10:31.619871+00:00",
+      "updated_at": "2026-08-11T05:19:23.722314+00:00",
       "items": [
+        {
+          "title": "LEAP India IPO Day 3 LIVE: GMP, subscription status to review. Apply or not?",
+          "link": "https://www.livemint.com/market/ipo/leap-india-ipo-day-3-live-gmp-subscription-status-to-review-apply-or-not-11786421955009.html",
+          "pubDate": "2026-08-11T10:17:01+05:30"
+        },
+        {
+          "title": "Milky Mist IPO Day 1: Issue booked 5% so far. Check GMP, key dates, review, issue details. Should you apply or skip?",
+          "link": "https://www.livemint.com/market/ipo/milky-mist-ipo-gmp-milky-mist-ipo-subscription-status-milky-mist-ipo-details-milky-mist-ipo-review-milky-mist-ipo-11786421264864.html",
+          "pubDate": "2026-08-11T10:02:13+05:30"
+        },
+        {
+          "title": "Stocks to buy for short term: Mphasis, Asian Paints among 6 stocks experts recommend buying today for next 1-2 weeks",
+          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-mphasis-asian-paints-among-6-stocks-experts-recommend-buying-today-for-next-1-2-weeks-11786418195442.html",
+          "pubDate": "2026-08-11T10:00:57+05:30"
+        },
+        {
+          "title": "Adani Energy to Adani Ports: Adani Group shares rise as the US Court dismisses criminal case against Gautam Adani",
+          "link": "https://www.livemint.com/market/stock-market-news/adani-power-to-adani-ports-adani-group-shares-rise-as-the-us-court-dismisses-criminal-case-against-gautam-adani-11786422001690.html",
+          "pubDate": "2026-08-11T09:58:50+05:30"
+        },
+        {
+          "title": "Dhoot Transmission IPO Day 2 LIVE: GMP, subscription, review, other details. Apply or not?",
+          "link": "https://www.livemint.com/market/ipo/dhoot-transmission-ipo-day-2-live-gmp-subscription-review-other-details-apply-or-not-11786420827823.html",
+          "pubDate": "2026-08-11T09:46:11+05:30"
+        },
         {
           "title": "Nikkei, Kospi to US stocks: Global equity heatmap you must know before the opening bell of the Indian stock market",
           "link": "https://www.livemint.com/market/stock-market-news/nikkei-kospi-to-us-stocks-global-equity-heatmap-you-must-know-before-the-opening-bell-of-the-indian-stock-market-11786417558377.html",
@@ -517,13 +638,13 @@
           "pubDate": "2026-08-11T06:32:42+05:30"
         },
         {
-          "title": "Stock recommendations for 11 August from MarketSmith India",
-          "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-11-august-from-marketsmith-india-11786365857463.html",
+          "title": "SAT backlog hits six-year high as old cases pile up",
+          "link": "https://www.livemint.com/market/sat-cases-old-cases-sat-sebi-indian-markets-cases-in-tribunals-11786340926629.html",
           "pubDate": "2026-08-11T06:01:12+05:30"
         },
         {
-          "title": "SAT backlog hits six-year high as old cases pile up",
-          "link": "https://www.livemint.com/market/sat-cases-old-cases-sat-sebi-indian-markets-cases-in-tribunals-11786340926629.html",
+          "title": "Stock recommendations for 11 August from MarketSmith India",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-11-august-from-marketsmith-india-11786365857463.html",
           "pubDate": "2026-08-11T06:01:12+05:30"
         },
         {
@@ -540,38 +661,88 @@
           "title": "Wheat Climbs With USDA Seen Tightening Global Grain Supply",
           "link": "https://www.livemint.com/market/wheat-climbs-with-usda-seen-tightening-global-grain-supply-11786396412346.html",
           "pubDate": "2026-08-11T02:43:31+05:30"
-        },
-        {
-          "title": "Yen Weakens 1%, Erases Half of US-Japan Intervention Gains",
-          "link": "https://www.livemint.com/market/yen-weakens-1-erases-half-of-us-japan-intervention-gains-11786394040377.html",
-          "pubDate": "2026-08-11T02:03:59+05:30"
-        },
-        {
-          "title": "Gold climbs to nine-week high on buying momentum as inflation data looms",
-          "link": "https://www.livemint.com/market/gold-climbs-to-nine-week-high-on-buying-momentum-as-inflation-data-looms-11786389265821.html",
-          "pubDate": "2026-08-11T00:44:25+05:30"
-        },
-        {
-          "title": "Wall Street eases as hopes for imminent Hormuz deal fade; Intel drops",
-          "link": "https://www.livemint.com/market/wall-street-eases-as-hopes-for-imminent-hormuz-deal-fade-intel-drops-11786389146085.html",
-          "pubDate": "2026-08-11T00:42:25+05:30"
-        },
-        {
-          "title": "Zen Technologies shares to be in focus on Tuesday after company secures  ₹295 crore defence order",
-          "link": "https://www.livemint.com/market/stock-market-news/zen-technologies-shares-to-be-in-focus-on-tuesday-after-company-secures-rs-295-crore-defence-order-11786381376241.html",
-          "pubDate": "2026-08-10T22:49:03+05:30"
-        },
-        {
-          "title": "Intel plans $15 billion share sale as turnaround rally lifts stock",
-          "link": "https://www.livemint.com/market/stock-market-news/intel-plans-15-billion-share-sale-as-turnaround-rally-lifts-stock-11786381678993.html",
-          "pubDate": "2026-08-10T22:47:31+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-11T04:10:31.761435+00:00",
+      "updated_at": "2026-08-11T05:19:23.776526+00:00",
       "items": [
+        {
+          "title": "Yen slides past 159 as US-Japan intervention effect diminishes",
+          "link": "https://www.business-standard.com/markets/capital-market-news/yen-slides-past-159-as-us-japan-intervention-effect-diminishes-126081100412_1.html",
+          "pubDate": "2026-08-11T10:33:41+05:30"
+        },
+        {
+          "title": "Escorts Kubota rises after tractor price hike announcement",
+          "link": "https://www.business-standard.com/markets/capital-market-news/escorts-kubota-rises-after-tractor-price-hike-announcement-126081100411_1.html",
+          "pubDate": "2026-08-11T10:33:33+05:30"
+        },
+        {
+          "title": "IRB Infra reports 26% YoY rise in July toll revenue",
+          "link": "https://www.business-standard.com/markets/capital-market-news/irb-infra-reports-26-yoy-rise-in-july-toll-revenue-126081100410_1.html",
+          "pubDate": "2026-08-11T10:33:22+05:30"
+        },
+        {
+          "title": "Gland Pharma rallies 12%, hits 4-year high; should you buy, hold or sell?",
+          "link": "https://www.business-standard.com/markets/news/gland-pharma-rallies-12-hits-4-year-high-should-you-buy-hold-or-sell-126081100343_1.html",
+          "pubDate": "2026-08-11T10:26:42+05:30"
+        },
+        {
+          "title": "Kolte-Patil shares zoom 19% to hit fresh 52-wk high after Q1 turnaround",
+          "link": "https://www.business-standard.com/markets/news/kolte-patil-shares-zoom-19-to-hit-fresh-52-wk-high-after-q1-turnaround-126081100376_1.html",
+          "pubDate": "2026-08-11T10:23:11+05:30"
+        },
+        {
+          "title": "KEC International slips after weak Q1 performance",
+          "link": "https://www.business-standard.com/markets/capital-market-news/kec-international-slips-after-weak-q1-performance-126081100373_1.html",
+          "pubDate": "2026-08-11T10:16:15+05:30"
+        },
+        {
+          "title": "Ind-Swift Laboratories surges after Q1 PAT zooms 183% YoY",
+          "link": "https://www.business-standard.com/markets/capital-market-news/ind-swift-laboratories-surges-after-q1-pat-zooms-183-yoy-126081100355_1.html",
+          "pubDate": "2026-08-11T10:04:26+05:30"
+        },
+        {
+          "title": "Dhoot Transmission or Molbio: Which IPO should investors invest in?",
+          "link": "https://www.business-standard.com/markets/ipo/dhoot-transmission-or-molbio-which-ipo-should-investors-invest-in-126081100346_1.html",
+          "pubDate": "2026-08-11T09:59:04+05:30"
+        },
+        {
+          "title": "INR extends downside as oil prices renew surge",
+          "link": "https://www.business-standard.com/markets/capital-market-news/inr-extends-downside-as-oil-prices-renew-surge-126081100342_1.html",
+          "pubDate": "2026-08-11T09:51:26+05:30"
+        },
+        {
+          "title": "M&M production rises 20% YoY in July 2026",
+          "link": "https://www.business-standard.com/markets/capital-market-news/m-m-production-rises-20-yoy-in-july-2026-126081100341_1.html",
+          "pubDate": "2026-08-11T09:51:18+05:30"
+        },
+        {
+          "title": "Wipro gains, BSE slips as index rejig puts Nifty 50 inclusion in focus",
+          "link": "https://www.business-standard.com/markets/capital-market-news/wipro-gains-bse-slips-as-index-rejig-puts-nifty-50-inclusion-in-focus-126081100340_1.html",
+          "pubDate": "2026-08-11T09:51:10+05:30"
+        },
+        {
+          "title": "Bank of Baroda Falls 2.1%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/bank-of-baroda-falls-2-1-126081100339_1.html",
+          "pubDate": "2026-08-11T09:51:02+05:30"
+        },
+        {
+          "title": "National Aluminium Company Ltd Spikes 2.01%, BSE Metal index Rises 1.03%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/national-aluminium-company-ltd-spikes-2-01-bse-metal-index-rises-1-03-126081100338_1.html",
+          "pubDate": "2026-08-11T09:50:53+05:30"
+        },
+        {
+          "title": "Indices trade lower in early trade; breadth positive",
+          "link": "https://www.business-standard.com/markets/capital-market-news/indices-trade-lower-in-early-trade-breadth-positive-126081100337_1.html",
+          "pubDate": "2026-08-11T09:50:45+05:30"
+        },
+        {
+          "title": "Innovision secures toll collection and facilities maintenance contract worth Rs 83.29 cr",
+          "link": "https://www.business-standard.com/markets/capital-market-news/innovision-secures-toll-collection-and-facilities-maintenance-contract-worth-rs-83-29-cr-126081100335_1.html",
+          "pubDate": "2026-08-11T09:50:32+05:30"
+        },
         {
           "title": "Krystal Integrated Services consortium bags Rs 740 cr contract from Govt. of Maharashtra",
           "link": "https://www.business-standard.com/markets/capital-market-news/krystal-integrated-services-consortium-bags-rs-740-cr-contract-from-govt-of-maharashtra-126081100306_1.html",
@@ -623,9 +794,9 @@
           "pubDate": "2026-08-11T09:24:38+05:30"
         },
         {
-          "title": "Adani group stocks jump up to 3% on US court relief for Gautam Adani",
+          "title": "Adani stocks jump up to 3% intraday on US court relief for Gautam Adani",
           "link": "https://www.business-standard.com/markets/news/adani-group-stocks-jump-up-to-3-on-us-court-relief-for-gautam-adani-126081100288_1.html",
-          "pubDate": "2026-08-11T09:24:32+05:30"
+          "pubDate": "2026-08-11T09:24:38+05:30"
         },
         {
           "title": "Ramky Infrastructure consolidated net profit declines 47.18% in the June 2026 quarter",
@@ -646,88 +817,23 @@
           "title": "Veedol Corporation consolidated net profit rises 56.88% in the June 2026 quarter",
           "link": "https://www.business-standard.com/markets/capital-market-news/veedol-corporation-consolidated-net-profit-rises-56-88-in-the-june-2026-quarter-126081100287_1.html",
           "pubDate": "2026-08-11T09:24:05+05:30"
-        },
-        {
-          "title": "Modern Insulators consolidated net profit rises 94.48% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/modern-insulators-consolidated-net-profit-rises-94-48-in-the-june-2026-quarter-126081100286_1.html",
-          "pubDate": "2026-08-11T09:23:57+05:30"
-        },
-        {
-          "title": "Caprihans India reports consolidated net profit of Rs 6.22 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/caprihans-india-reports-consolidated-net-profit-of-rs-6-22-crore-in-the-june-2026-quarter-126081100285_1.html",
-          "pubDate": "2026-08-11T09:23:49+05:30"
-        },
-        {
-          "title": "Trident Texofab standalone net profit declines 49.02% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/trident-texofab-standalone-net-profit-declines-49-02-in-the-june-2026-quarter-126081100284_1.html",
-          "pubDate": "2026-08-11T09:23:41+05:30"
-        },
-        {
-          "title": "Hinduja Leyland Finance standalone net profit rises 37.15% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/hinduja-leyland-finance-standalone-net-profit-rises-37-15-in-the-june-2026-quarter-126081100283_1.html",
-          "pubDate": "2026-08-11T09:23:34+05:30"
-        },
-        {
-          "title": "Shree Securities reports standalone net loss of Rs 27.39 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/shree-securities-reports-standalone-net-loss-of-rs-27-39-crore-in-the-june-2026-quarter-126081100282_1.html",
-          "pubDate": "2026-08-11T09:23:26+05:30"
-        },
-        {
-          "title": "Yaan Enterprises reports standalone net profit of Rs 0.02 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/yaan-enterprises-reports-standalone-net-profit-of-rs-0-02-crore-in-the-june-2026-quarter-126081100281_1.html",
-          "pubDate": "2026-08-11T09:23:16+05:30"
-        },
-        {
-          "title": "GHV Infra Projects standalone net profit rises 138.35% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/ghv-infra-projects-standalone-net-profit-rises-138-35-in-the-june-2026-quarter-126081100280_1.html",
-          "pubDate": "2026-08-11T09:23:09+05:30"
-        },
-        {
-          "title": "Unique Organics standalone net profit rises 6.01% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/unique-organics-standalone-net-profit-rises-6-01-in-the-june-2026-quarter-126081100279_1.html",
-          "pubDate": "2026-08-11T09:23:00+05:30"
-        },
-        {
-          "title": "Mazda standalone net profit rises 49.29% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/mazda-standalone-net-profit-rises-49-29-in-the-june-2026-quarter-126081100278_1.html",
-          "pubDate": "2026-08-11T09:22:52+05:30"
-        },
-        {
-          "title": "RIR Power Electronics standalone net profit rises 80.46% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/rir-power-electronics-standalone-net-profit-rises-80-46-in-the-june-2026-quarter-126081100277_1.html",
-          "pubDate": "2026-08-11T09:22:44+05:30"
-        },
-        {
-          "title": "Valiant Laboratories consolidated net profit rises 1059.34% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/valiant-laboratories-consolidated-net-profit-rises-1059-34-in-the-june-2026-quarter-126081100276_1.html",
-          "pubDate": "2026-08-11T09:22:35+05:30"
-        },
-        {
-          "title": "Revathi Equipment India consolidated net profit rises 257.89% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/revathi-equipment-india-consolidated-net-profit-rises-257-89-in-the-june-2026-quarter-126081100275_1.html",
-          "pubDate": "2026-08-11T09:22:26+05:30"
-        },
-        {
-          "title": "Brookfield India Real Estate Trust consolidated net profit rises 44.36% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/brookfield-india-real-estate-trust-consolidated-net-profit-rises-44-36-in-the-june-2026-quarter-126081100274_1.html",
-          "pubDate": "2026-08-11T09:22:18+05:30"
-        },
-        {
-          "title": "Kapston Services consolidated net profit rises 38.50% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/kapston-services-consolidated-net-profit-rises-38-50-in-the-june-2026-quarter-126081100273_1.html",
-          "pubDate": "2026-08-11T09:22:11+05:30"
-        },
-        {
-          "title": "Mittal Life Style consolidated net profit rises 2200.00% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/mittal-life-style-consolidated-net-profit-rises-2200-00-in-the-june-2026-quarter-126081100272_1.html",
-          "pubDate": "2026-08-11T09:22:03+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-11T04:10:32.793483+00:00",
+      "updated_at": "2026-08-11T05:19:24.721569+00:00",
       "items": [
+        {
+          "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 11, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63336",
+          "pubDate": "2026-08-11T10:30:00+00:00"
+        },
+        {
+          "title": "Result of the 3-day Variable Rate Reverse Repo (VRRR) auction held on August 11, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63335",
+          "pubDate": "2026-08-11T10:15:00+00:00"
+        },
         {
           "title": "Money Market Operations as on August 10, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63334",
@@ -767,16 +873,6 @@
           "title": "Money Market Operations as on August 08, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63327",
           "pubDate": "2026-08-10T12:50:00+00:00"
-        },
-        {
-          "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on August 10, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63326",
-          "pubDate": "2026-08-10T12:45:00+00:00"
-        },
-        {
-          "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 10, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63325",
-          "pubDate": "2026-08-10T11:45:00+00:00"
         }
       ]
     }

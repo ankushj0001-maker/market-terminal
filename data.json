@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T18:30:58.783657+00:00",
+  "generated_at": "2026-08-11T19:42:13.205564+00:00",
   "indices": {
     "nifty50": {
       "price": 24471.7,
@@ -68,7 +68,7 @@
         24471.69921875
       ],
       "ok": true,
-      "updated_at": "2026-08-11T18:30:56.994973+00:00"
+      "updated_at": "2026-08-11T19:42:10.099271+00:00"
     },
     "sensex": {
       "price": 78154.25,
@@ -137,7 +137,7 @@
         78154.25
       ],
       "ok": true,
-      "updated_at": "2026-08-11T18:30:57.081308+00:00"
+      "updated_at": "2026-08-11T19:42:10.206671+00:00"
     },
     "banknifty": {
       "price": 57446.25,
@@ -206,7 +206,7 @@
         57446.25
       ],
       "ok": true,
-      "updated_at": "2026-08-11T18:30:57.136274+00:00"
+      "updated_at": "2026-08-11T19:42:10.314382+00:00"
     },
     "vix": {
       "price": 11.855,
@@ -275,14 +275,13 @@
         11.854999542236328
       ],
       "ok": true,
-      "updated_at": "2026-08-11T18:30:57.206519+00:00"
+      "updated_at": "2026-08-11T19:42:10.434769+00:00"
     },
     "usdinr": {
-      "price": 95.425,
-      "change": 0.135,
-      "pct": 0.1417,
+      "price": 95.43,
+      "change": 0.14,
+      "pct": 0.1469,
       "closes": [
-        95.39749908447266,
         95.3949966430664,
         95.3949966430664,
         95.4000015258789,
@@ -341,30 +340,17 @@
         95.42500305175781,
         95.42500305175781,
         95.42500305175781,
-        95.42500305175781
+        95.42500305175781,
+        95.43000030517578
       ],
       "ok": true,
-      "updated_at": "2026-08-11T18:30:57.300740+00:00"
+      "updated_at": "2026-08-11T19:42:10.536834+00:00"
     },
     "gold": {
-      "price": 4423.3,
-      "change": 3.6,
-      "pct": 0.0815,
+      "price": 4432.2,
+      "change": 12.5,
+      "pct": 0.2828,
       "closes": [
-        4451.5,
-        4458.7001953125,
-        4458.7001953125,
-        4454.0,
-        4446.39990234375,
-        4448.2001953125,
-        4444.0,
-        4443.7998046875,
-        4445.60009765625,
-        4444.89990234375,
-        4443.60009765625,
-        4443.10009765625,
-        4449.7998046875,
-        4451.0,
         4453.0,
         4452.89990234375,
         4454.7998046875,
@@ -410,30 +396,30 @@
         4423.10009765625,
         4425.89990234375,
         4423.7998046875,
-        4423.2998046875
+        4420.5,
+        4426.60009765625,
+        4429.5,
+        4430.2001953125,
+        4430.39990234375,
+        4430.89990234375,
+        4430.39990234375,
+        4426.0,
+        4423.7998046875,
+        4422.39990234375,
+        4421.60009765625,
+        4428.0,
+        4429.7001953125,
+        4430.7001953125,
+        4432.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-11T18:30:57.366173+00:00"
+      "updated_at": "2026-08-11T19:42:10.800667+00:00"
     },
     "crude": {
-      "price": 82.93,
-      "change": 0.8,
-      "pct": 0.9741,
+      "price": 83.51,
+      "change": 1.38,
+      "pct": 1.6803,
       "closes": [
-        81.83000183105469,
-        81.66999816894531,
-        81.54000091552734,
-        81.36000061035156,
-        81.58999633789062,
-        81.62000274658203,
-        81.93000030517578,
-        81.97000122070312,
-        82.02999877929688,
-        82.13999938964844,
-        82.05000305175781,
-        82.22000122070312,
-        82.19999694824219,
-        82.23999786376953,
         82.33999633789062,
         82.33999633789062,
         82.45999908447266,
@@ -479,24 +465,30 @@
         83.02999877929688,
         82.98999786376953,
         83.08999633789062,
-        82.93000030517578
+        83.16999816894531,
+        83.0199966430664,
+        83.23999786376953,
+        83.1500015258789,
+        83.1500015258789,
+        83.18000030517578,
+        83.16000366210938,
+        83.26000213623047,
+        83.23999786376953,
+        83.2699966430664,
+        83.41000366210938,
+        83.4000015258789,
+        83.45999908447266,
+        83.48999786376953,
+        83.51000213623047
       ],
       "ok": true,
-      "updated_at": "2026-08-11T18:30:57.447813+00:00"
+      "updated_at": "2026-08-11T19:42:11.004407+00:00"
     },
     "us10y": {
-      "price": 4.688,
-      "change": -0.011,
-      "pct": -0.2341,
+      "price": 4.684,
+      "change": -0.015,
+      "pct": -0.3192,
       "closes": [
-        4.684000015258789,
-        4.679999828338623,
-        4.682000160217285,
-        4.677999973297119,
-        4.671999931335449,
-        4.668000221252441,
-        4.675999641418457,
-        4.679999828338623,
         4.679999828338623,
         4.682000160217285,
         4.679999828338623,
@@ -548,46 +540,54 @@
         4.688000202178955,
         4.688000202178955,
         4.685999870300293,
-        4.688000202178955
+        4.685999870300293,
+        4.685999870300293,
+        4.685999870300293,
+        4.685999870300293,
+        4.684000015258789,
+        4.684000015258789,
+        4.685999870300293,
+        4.682000160217285,
+        4.684000015258789
       ],
       "ok": true,
-      "updated_at": "2026-08-11T18:30:57.552737+00:00"
+      "updated_at": "2026-08-11T19:42:11.106241+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-11T18:30:57.664420+00:00",
+      "updated_at": "2026-08-11T19:42:11.247682+00:00",
       "items": [
         {
-          "title": "Jupiter Wagons shares rise 4% after Rs 211 crore order wins, Rs 400 crore BESS project",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jupiter-wagons-shares-rally-4-after-rs-211-crore-order-wins-rs-400-crore-bess-project/articleshow/133144988.cms",
-          "pubDate": "2026-08-11T12:47:09+05:30"
+          "title": "Shiprocket draws Goldman, HDFC MF, others to Rs 727 cr anchor round ahead of IPO",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/shiprocket-draws-goldman-sachs-hdfc-mf-sbi-mf-and-others-to-727-crore-anchor-round-ahead-of-ipo/articleshow/133160685.cms",
+          "pubDate": "2026-08-11T22:23:54+05:30"
         },
         {
-          "title": "Aarti Pharmalabs shares rally over 33% in two days post Q1 results. What is driving the surge?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/aarti-pharmalabs-shares-rally-over-33-in-two-days-post-q1-results-what-is-driving-the-surge/articleshow/133144352.cms",
-          "pubDate": "2026-08-11T12:09:26+05:30"
+          "title": "Sebi proposes to bring all bullion trades under vault management rules",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-to-bring-all-bullion-trades-under-vault-management-rules/articleshow/133158951.cms",
+          "pubDate": "2026-08-11T20:54:26+05:30"
         },
         {
-          "title": "Oil India shares jump over 5%. What made Emkay upgrade the stock after Q1 results",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/oil-india-shares-jump-over-5-what-made-emkay-upgrade-the-stock-after-q1-results/articleshow/133143729.cms",
-          "pubDate": "2026-08-11T11:34:20+05:30"
+          "title": "CME to allow round-the-clock trading of 100-Ounce Silver futures from September",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/cme-to-allow-round-the-clock-trading-of-100-ounce-silver-futures-from-september/articleshow/133156331.cms",
+          "pubDate": "2026-08-11T19:11:24+05:30"
         },
         {
-          "title": "Jubilant Pharmova shares decline 6% after Q1 profits falls 45% YoY",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jubilant-pharmova-shares-decline-6-after-q1-profits-falls-45-yoy/articleshow/133143391.cms",
-          "pubDate": "2026-08-11T11:25:01+05:30"
+          "title": "India govt says retail option trader losses fell 18% after regulatory curbs",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-says-retail-option-trader-losses-fell-18-after-regulatory-curbs/articleshow/133156271.cms",
+          "pubDate": "2026-08-11T19:09:13+05:30"
         },
         {
-          "title": "PC Jeweller share price jumps 6% as Q1FY27 profit surges 37% YoY, revenue up 21%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-share-price-jumps-6-as-q1fy27-profit-surges-37-yoy-revenue-up-21/articleshow/133143035.cms",
-          "pubDate": "2026-08-11T11:01:46+05:30"
+          "title": "Sebi proposes to widen foreign investors' access to non-agricultural commodities derivatives",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/sebi-proposes-to-widen-foreign-investors-access-to-non-agricultural-commodities-derivatives/articleshow/133153234.cms",
+          "pubDate": "2026-08-11T17:19:18+05:30"
         },
         {
-          "title": "Info Edge shares jump 4% after strong Q1 show. What Nomura, Nuvama and other brokerages expect next",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/info-edge-shares-jump-4-after-strong-q1-show-what-nomura-nuvama-and-other-brokerages-expect-next/articleshow/133142727.cms",
-          "pubDate": "2026-08-11T10:36:49+05:30"
+          "title": "Without Warren Buffett, Berkshire Hathaway is no longer an attractive investment: ‘Big Short’ fame Michael Burry",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/without-warren-buffett-berkshire-hathaway-is-no-longer-an-attractive-investment-big-short-fame-michael-burry/articleshow/133147802.cms",
+          "pubDate": "2026-08-11T13:54:06+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -794,8 +794,23 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-11T18:30:57.814748+00:00",
+      "updated_at": "2026-08-11T19:42:11.471783+00:00",
       "items": [
+        {
+          "title": "Chicago grains weaken in positioning ahead of USDA report",
+          "link": "https://www.livemint.com/market/chicago-grains-weaken-in-positioning-ahead-of-usda-report-11786474783700.html",
+          "pubDate": "2026-08-12T00:29:43+05:30"
+        },
+        {
+          "title": "Colombia Coffee Exports Largely Halted After Deadly Earthquake",
+          "link": "https://www.livemint.com/market/colombia-coffee-exports-largely-halted-after-deadly-earthquake-11786474721326.html",
+          "pubDate": "2026-08-12T00:28:40+05:30"
+        },
+        {
+          "title": "Gold edges lower as markets await key US inflation data",
+          "link": "https://www.livemint.com/market/gold-edges-lower-as-markets-await-key-us-inflation-data-11786474118005.html",
+          "pubDate": "2026-08-12T00:18:37+05:30"
+        },
         {
           "title": "Shiprocket raises  ₹727 crore from anchor investors ahead of IPO launch on Wednesday",
           "link": "https://www.livemint.com/market/stock-market-news/shiprocket-raises-rs-727-crore-from-anchor-investors-ahead-of-ipo-launch-on-wednesday-11786465617676.html",
@@ -930,27 +945,12 @@
           "title": "Blue Cloud shares jump over 30% in 2 days after joining hands with Malaysia's SpaceX International for AI infra",
           "link": "https://www.livemint.com/market/stock-market-news/blue-cloud-shares-jump-over-30-in-2-days-after-joining-hands-with-spacex-for-ai-infra-11786426650460.html",
           "pubDate": "2026-08-11T11:31:58+05:30"
-        },
-        {
-          "title": "Molbio Diagnostics IPO Day 2: Issue subscribed 1.75 times so far. Check GMP, size, &amp; other details - Apply or not?",
-          "link": "https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-day-2-issue-subscribed-1-22-times-so-far-check-gmp-size-other-details-apply-or-not-11786423916760.html",
-          "pubDate": "2026-08-11T11:06:48+05:30"
-        },
-        {
-          "title": "Ardee Industries IPO listing on Wednesday; GMP signals healthy listing pop. Details here",
-          "link": "https://www.livemint.com/market/ipo/ardee-industries-ipo-listing-on-wednesday-gmp-signals-healthy-listing-pop-details-here-11786424152963.html",
-          "pubDate": "2026-08-11T11:03:04+05:30"
-        },
-        {
-          "title": "Technocraft Ventures IPO Day 3: Issue subscribed 31.32x so far. Check GMP, key dates, review. Apply or not?",
-          "link": "https://www.livemint.com/market/ipo/technocraft-ventures-ipo-gmp-technocraft-ventures-ipo-subscription-status-technocraft-ventures-ipo-review-technocraft-11786423683314.html",
-          "pubDate": "2026-08-11T11:02:42+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-11T18:30:57.993210+00:00",
+      "updated_at": "2026-08-11T19:42:12.393332+00:00",
       "items": [
         {
           "title": "CAS may cause near-term drag in index-options trading: Bernstein",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-11T18:30:58.783640+00:00",
+      "updated_at": "2026-08-11T19:42:13.205549+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 12, 2026",

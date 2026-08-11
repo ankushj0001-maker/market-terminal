@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T14:40:25.519033+00:00",
+  "generated_at": "2026-08-11T15:33:42.017222+00:00",
   "indices": {
     "nifty50": {
       "price": 24471.7,
@@ -68,7 +68,7 @@
         24471.69921875
       ],
       "ok": true,
-      "updated_at": "2026-08-11T14:40:21.866954+00:00"
+      "updated_at": "2026-08-11T15:33:39.962829+00:00"
     },
     "sensex": {
       "price": 78154.25,
@@ -137,7 +137,7 @@
         78154.25
       ],
       "ok": true,
-      "updated_at": "2026-08-11T14:40:22.034305+00:00"
+      "updated_at": "2026-08-11T15:33:40.012708+00:00"
     },
     "banknifty": {
       "price": 57446.25,
@@ -206,7 +206,7 @@
         57446.25
       ],
       "ok": true,
-      "updated_at": "2026-08-11T14:40:22.224700+00:00"
+      "updated_at": "2026-08-11T15:33:40.088011+00:00"
     },
     "vix": {
       "price": 11.855,
@@ -275,14 +275,13 @@
         11.854999542236328
       ],
       "ok": true,
-      "updated_at": "2026-08-11T14:40:22.668308+00:00"
+      "updated_at": "2026-08-11T15:33:40.150287+00:00"
     },
     "usdinr": {
       "price": 95.425,
       "change": 0.135,
       "pct": 0.1417,
       "closes": [
-        95.38999938964844,
         95.39749908447266,
         95.3949966430664,
         95.3949966430664,
@@ -341,26 +340,17 @@
         95.42500305175781,
         95.42500305175781,
         95.42500305175781,
+        95.42500305175781,
         95.42500305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-11T14:40:22.884311+00:00"
+      "updated_at": "2026-08-11T15:33:40.209911+00:00"
     },
     "gold": {
-      "price": 4444.1,
-      "change": 24.4,
-      "pct": 0.5521,
+      "price": 4448.5,
+      "change": 28.8,
+      "pct": 0.6516,
       "closes": [
-        4429.5,
-        4432.5,
-        4430.7001953125,
-        4431.39990234375,
-        4431.39990234375,
-        4432.5,
-        4431.7001953125,
-        4431.5,
-        4436.60009765625,
-        4437.2998046875,
         4437.60009765625,
         4436.5,
         4436.2001953125,
@@ -410,26 +400,26 @@
         4443.60009765625,
         4443.10009765625,
         4449.7998046875,
-        4444.10009765625
+        4451.0,
+        4453.0,
+        4452.89990234375,
+        4454.7998046875,
+        4453.60009765625,
+        4456.0,
+        4450.5,
+        4451.39990234375,
+        4445.2001953125,
+        4443.10009765625,
+        4448.5
       ],
       "ok": true,
-      "updated_at": "2026-08-11T14:40:23.048194+00:00"
+      "updated_at": "2026-08-11T15:33:40.271685+00:00"
     },
     "crude": {
-      "price": 82.18,
-      "change": 0.05,
-      "pct": 0.0609,
+      "price": 82.54,
+      "change": 0.41,
+      "pct": 0.4992,
       "closes": [
-        84.44999694824219,
-        84.30000305175781,
-        84.2300033569336,
-        84.2300033569336,
-        84.25,
-        84.02999877929688,
-        84.04000091552734,
-        84.12000274658203,
-        83.93000030517578,
-        83.62000274658203,
         83.5999984741211,
         83.70999908447266,
         83.68000030517578,
@@ -479,15 +469,25 @@
         82.05000305175781,
         82.22000122070312,
         82.19999694824219,
-        82.18000030517578
+        82.23999786376953,
+        82.33999633789062,
+        82.33999633789062,
+        82.45999908447266,
+        82.56999969482422,
+        82.58000183105469,
+        82.4800033569336,
+        82.44000244140625,
+        82.56999969482422,
+        82.55000305175781,
+        82.54000091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-11T14:40:23.342198+00:00"
+      "updated_at": "2026-08-11T15:33:40.350851+00:00"
     },
     "us10y": {
-      "price": 4.682,
-      "change": -0.017,
-      "pct": -0.3618,
+      "price": 4.686,
+      "change": -0.013,
+      "pct": -0.2767,
       "closes": [
         4.700999736785889,
         4.697000026702881,
@@ -514,16 +514,27 @@
         4.679999828338623,
         4.682000160217285,
         4.682000160217285,
-        4.682000160217285
+        4.685999870300293,
+        4.682000160217285,
+        4.684000015258789,
+        4.684000015258789,
+        4.682000160217285,
+        4.682000160217285,
+        4.684000015258789,
+        4.679999828338623,
+        4.682000160217285,
+        4.684000015258789,
+        4.685999870300293,
+        4.685999870300293
       ],
       "ok": true,
-      "updated_at": "2026-08-11T14:40:23.506475+00:00"
+      "updated_at": "2026-08-11T15:33:40.409095+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-11T14:40:23.662514+00:00",
+      "updated_at": "2026-08-11T15:33:40.489393+00:00",
       "items": [
         {
           "title": "Jupiter Wagons shares rise 4% after Rs 211 crore order wins, Rs 400 crore BESS project",
@@ -679,7 +690,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-11T14:40:23.960169+00:00",
+      "updated_at": "2026-08-11T15:33:40.618325+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -760,7 +771,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-11T14:40:24.190519+00:00",
+      "updated_at": "2026-08-11T15:33:40.927369+00:00",
       "items": [
         {
           "title": "Sebi proposes wider FPI access to non-agri commodity derivatives",
@@ -916,8 +927,13 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-11T14:40:24.494562+00:00",
+      "updated_at": "2026-08-11T15:33:41.171147+00:00",
       "items": [
+        {
+          "title": "Calcutta Stock Exchange has not submitted formal revival plan to Sebi: Govt",
+          "link": "https://www.business-standard.com/markets/news/calcutta-stock-exchange-has-not-submitted-formal-revival-plan-to-sebi-govt-126081101826_1.html",
+          "pubDate": "2026-08-11T20:09:22+05:30"
+        },
         {
           "title": "Sebi plans wider vaulting norms for bullion ETFs and derivatives",
           "link": "https://www.business-standard.com/markets/news/sebi-plans-wider-vaulting-norms-for-bullion-etfs-and-derivatives-126081101812_1.html",
@@ -1062,17 +1078,12 @@
           "title": "IFCI consolidated net profit declines 16.10% in the June 2026 quarter",
           "link": "https://www.business-standard.com/markets/capital-market-news/ifci-consolidated-net-profit-declines-16-10-in-the-june-2026-quarter-126081101514_1.html",
           "pubDate": "2026-08-11T17:55:16+05:30"
-        },
-        {
-          "title": "Sunflag Iron & Steel Company consolidated net profit rises 5.49% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/sunflag-iron-steel-company-consolidated-net-profit-rises-5-49-in-the-june-2026-quarter-126081101510_1.html",
-          "pubDate": "2026-08-11T17:55:08+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-11T14:40:25.519017+00:00",
+      "updated_at": "2026-08-11T15:33:42.017204+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 12, 2026",

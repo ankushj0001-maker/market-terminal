@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T13:36:51.275124+00:00",
+  "generated_at": "2026-08-11T14:40:25.519033+00:00",
   "indices": {
     "nifty50": {
       "price": 24471.7,
@@ -68,7 +68,7 @@
         24471.69921875
       ],
       "ok": true,
-      "updated_at": "2026-08-11T13:36:48.629329+00:00"
+      "updated_at": "2026-08-11T14:40:21.866954+00:00"
     },
     "sensex": {
       "price": 78154.25,
@@ -137,7 +137,7 @@
         78154.25
       ],
       "ok": true,
-      "updated_at": "2026-08-11T13:36:48.673890+00:00"
+      "updated_at": "2026-08-11T14:40:22.034305+00:00"
     },
     "banknifty": {
       "price": 57446.25,
@@ -206,7 +206,7 @@
         57446.25
       ],
       "ok": true,
-      "updated_at": "2026-08-11T13:36:48.768390+00:00"
+      "updated_at": "2026-08-11T14:40:22.224700+00:00"
     },
     "vix": {
       "price": 11.855,
@@ -275,16 +275,13 @@
         11.854999542236328
       ],
       "ok": true,
-      "updated_at": "2026-08-11T13:36:49.361345+00:00"
+      "updated_at": "2026-08-11T14:40:22.668308+00:00"
     },
     "usdinr": {
       "price": 95.425,
       "change": 0.135,
       "pct": 0.1417,
       "closes": [
-        95.37799835205078,
-        95.38749694824219,
-        95.39250183105469,
         95.38999938964844,
         95.39749908447266,
         95.3949966430664,
@@ -341,29 +338,19 @@
         95.4375,
         95.44000244140625,
         95.43499755859375,
+        95.42500305175781,
+        95.42500305175781,
+        95.42500305175781,
         95.42500305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-11T13:36:49.426167+00:00"
+      "updated_at": "2026-08-11T14:40:22.884311+00:00"
     },
     "gold": {
-      "price": 4458.1,
-      "change": 38.4,
-      "pct": 0.8688,
+      "price": 4444.1,
+      "change": 24.4,
+      "pct": 0.5521,
       "closes": [
-        4433.2998046875,
-        4433.2998046875,
-        4433.0,
-        4430.10009765625,
-        4428.10009765625,
-        4429.7001953125,
-        4429.0,
-        4431.2001953125,
-        4432.7001953125,
-        4431.7001953125,
-        4430.2998046875,
-        4432.60009765625,
-        4431.7001953125,
         4429.5,
         4432.5,
         4430.7001953125,
@@ -410,29 +397,29 @@
         4453.2998046875,
         4457.2001953125,
         4456.7998046875,
-        4458.10009765625
+        4451.5,
+        4458.7001953125,
+        4458.7001953125,
+        4454.0,
+        4446.39990234375,
+        4448.2001953125,
+        4444.0,
+        4443.7998046875,
+        4445.60009765625,
+        4444.89990234375,
+        4443.60009765625,
+        4443.10009765625,
+        4449.7998046875,
+        4444.10009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-11T13:36:49.782195+00:00"
+      "updated_at": "2026-08-11T14:40:23.048194+00:00"
     },
     "crude": {
-      "price": 81.65,
-      "change": -0.48,
-      "pct": -0.5844,
+      "price": 82.18,
+      "change": 0.05,
+      "pct": 0.0609,
       "closes": [
-        84.25,
-        84.20999908447266,
-        84.33999633789062,
-        84.37000274658203,
-        84.52999877929688,
-        84.44999694824219,
-        84.55999755859375,
-        84.55000305175781,
-        84.5199966430664,
-        84.43000030517578,
-        84.22000122070312,
-        84.12000274658203,
-        84.23999786376953,
         84.44999694824219,
         84.30000305175781,
         84.2300033569336,
@@ -479,15 +466,28 @@
         81.81999969482422,
         81.75,
         81.55000305175781,
-        81.6500015258789
+        81.83000183105469,
+        81.66999816894531,
+        81.54000091552734,
+        81.36000061035156,
+        81.58999633789062,
+        81.62000274658203,
+        81.93000030517578,
+        81.97000122070312,
+        82.02999877929688,
+        82.13999938964844,
+        82.05000305175781,
+        82.22000122070312,
+        82.19999694824219,
+        82.18000030517578
       ],
       "ok": true,
-      "updated_at": "2026-08-11T13:36:49.830836+00:00"
+      "updated_at": "2026-08-11T14:40:23.342198+00:00"
     },
     "us10y": {
-      "price": 4.684,
-      "change": -0.015,
-      "pct": -0.3192,
+      "price": 4.682,
+      "change": -0.017,
+      "pct": -0.3618,
       "closes": [
         4.700999736785889,
         4.697000026702881,
@@ -502,16 +502,28 @@
         4.685999870300293,
         4.684000015258789,
         4.684000015258789,
-        4.684000015258789
+        4.679999828338623,
+        4.682000160217285,
+        4.677999973297119,
+        4.671999931335449,
+        4.668000221252441,
+        4.675999641418457,
+        4.679999828338623,
+        4.679999828338623,
+        4.682000160217285,
+        4.679999828338623,
+        4.682000160217285,
+        4.682000160217285,
+        4.682000160217285
       ],
       "ok": true,
-      "updated_at": "2026-08-11T13:36:49.879190+00:00"
+      "updated_at": "2026-08-11T14:40:23.506475+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-11T13:36:49.960164+00:00",
+      "updated_at": "2026-08-11T14:40:23.662514+00:00",
       "items": [
         {
           "title": "Jupiter Wagons shares rise 4% after Rs 211 crore order wins, Rs 400 crore BESS project",
@@ -666,8 +678,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-11T11:19:19.441156+00:00",
+      "ok": true,
+      "updated_at": "2026-08-11T14:40:23.960169+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -748,8 +760,23 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-11T13:36:50.402194+00:00",
+      "updated_at": "2026-08-11T14:40:24.190519+00:00",
       "items": [
+        {
+          "title": "Sebi proposes wider FPI access to non-agri commodity derivatives",
+          "link": "https://www.livemint.com/market/stock-market-news/sebi-proposes-wider-fpi-access-to-non-agri-commodity-derivatives-11786449168248.html",
+          "pubDate": "2026-08-11T19:43:54+05:30"
+        },
+        {
+          "title": "IFCI Q1 Results: Revenue declines, profit improves sequentially to  ₹60 crore",
+          "link": "https://www.livemint.com/market/stock-market-news/ifci-q1-results-revenue-declines-profit-improves-sequentially-to-rs-60-crore-11786455809358.html",
+          "pubDate": "2026-08-11T19:23:48+05:30"
+        },
+        {
+          "title": "Apple shares fall amid confusion over 2027 ‘all-glass’ iPhone plans; company clarifies, ‘design didn’t hold up,’ but…",
+          "link": "https://www.livemint.com/market/stock-market-news/apple-shares-fall-amid-confusion-over-2027-all-glass-iphone-plans-company-clarifies-design-didn-t-hold-up-but-11786453368556.html",
+          "pubDate": "2026-08-11T19:15:51+05:30"
+        },
         {
           "title": "Investors turn to riskier bets as large-cap funds see net outflows in July",
           "link": "https://www.livemint.com/market/investors-turn-to-riskier-bets-as-large-cap-funds-see-net-outflows-in-july-sip-nfos-mutual-funds-equity-11786446157901.html",
@@ -884,28 +911,28 @@
           "title": "Milky Mist IPO Day 1: Issue booked 65% so far. Check GMP, key dates, review, issue details. Should you apply or skip?",
           "link": "https://www.livemint.com/market/ipo/milky-mist-ipo-gmp-milky-mist-ipo-subscription-status-milky-mist-ipo-details-milky-mist-ipo-review-milky-mist-ipo-11786421264864.html",
           "pubDate": "2026-08-11T10:02:13+05:30"
-        },
-        {
-          "title": "Stocks to buy for short term: Mphasis, Asian Paints among 6 stocks experts recommend buying today for next 1-2 weeks",
-          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-mphasis-asian-paints-among-6-stocks-experts-recommend-buying-today-for-next-1-2-weeks-11786418195442.html",
-          "pubDate": "2026-08-11T10:00:57+05:30"
-        },
-        {
-          "title": "Adani Energy to Adani Ports: Adani Group shares rise as the US Court dismisses criminal case against Gautam Adani",
-          "link": "https://www.livemint.com/market/stock-market-news/adani-power-to-adani-ports-adani-group-shares-rise-as-the-us-court-dismisses-criminal-case-against-gautam-adani-11786422001690.html",
-          "pubDate": "2026-08-11T09:58:50+05:30"
-        },
-        {
-          "title": "Dhoot Transmission IPO Day 2 LIVE: GMP, subscription, review, other details. Apply or not?",
-          "link": "https://www.livemint.com/market/ipo/dhoot-transmission-ipo-day-2-live-gmp-subscription-review-other-details-apply-or-not-11786420827823.html",
-          "pubDate": "2026-08-11T09:46:11+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-11T13:36:50.467306+00:00",
+      "updated_at": "2026-08-11T14:40:24.494562+00:00",
       "items": [
+        {
+          "title": "Sebi plans wider vaulting norms for bullion ETFs and derivatives",
+          "link": "https://www.business-standard.com/markets/news/sebi-plans-wider-vaulting-norms-for-bullion-etfs-and-derivatives-126081101812_1.html",
+          "pubDate": "2026-08-11T19:56:36+05:30"
+        },
+        {
+          "title": "TCS and Google Cloud set up new Gemini Experience Center in Mexico City",
+          "link": "https://www.business-standard.com/markets/capital-market-news/tcs-and-google-cloud-set-up-new-gemini-experience-center-in-mexico-city-126081101799_1.html",
+          "pubDate": "2026-08-11T19:50:13+05:30"
+        },
+        {
+          "title": "Larsen & Toubro to transfer its data center and cloud services biz to Vyoma",
+          "link": "https://www.business-standard.com/markets/capital-market-news/larsen-toubro-to-transfer-its-data-center-and-cloud-services-biz-to-vyoma-126081101760_1.html",
+          "pubDate": "2026-08-11T19:31:33+05:30"
+        },
         {
           "title": "Tembo Global Industries consolidated net profit rises 57.99% in the June 2026 quarter",
           "link": "https://www.business-standard.com/markets/capital-market-news/tembo-global-industries-consolidated-net-profit-rises-57-99-in-the-june-2026-quarter-126081101585_1.html",
@@ -1040,27 +1067,12 @@
           "title": "Sunflag Iron & Steel Company consolidated net profit rises 5.49% in the June 2026 quarter",
           "link": "https://www.business-standard.com/markets/capital-market-news/sunflag-iron-steel-company-consolidated-net-profit-rises-5-49-in-the-june-2026-quarter-126081101510_1.html",
           "pubDate": "2026-08-11T17:55:08+05:30"
-        },
-        {
-          "title": "JSW Dulux consolidated net profit declines 12.42% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/jsw-dulux-consolidated-net-profit-declines-12-42-in-the-june-2026-quarter-126081101506_1.html",
-          "pubDate": "2026-08-11T17:53:22+05:30"
-        },
-        {
-          "title": "EPL consolidated net profit declines 1.40% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/epl-consolidated-net-profit-declines-1-40-in-the-june-2026-quarter-126081101505_1.html",
-          "pubDate": "2026-08-11T17:53:15+05:30"
-        },
-        {
-          "title": "Aakash Exploration Services standalone net profit declines 3.70% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/aakash-exploration-services-standalone-net-profit-declines-3-70-in-the-june-2026-quarter-126081101504_1.html",
-          "pubDate": "2026-08-11T17:53:08+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-11T13:36:51.275108+00:00",
+      "updated_at": "2026-08-11T14:40:25.519017+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 12, 2026",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T15:33:42.017222+00:00",
+  "generated_at": "2026-08-11T16:30:19.946540+00:00",
   "indices": {
     "nifty50": {
       "price": 24471.7,
@@ -68,7 +68,7 @@
         24471.69921875
       ],
       "ok": true,
-      "updated_at": "2026-08-11T15:33:39.962829+00:00"
+      "updated_at": "2026-08-11T16:30:18.290729+00:00"
     },
     "sensex": {
       "price": 78154.25,
@@ -137,7 +137,7 @@
         78154.25
       ],
       "ok": true,
-      "updated_at": "2026-08-11T15:33:40.012708+00:00"
+      "updated_at": "2026-08-11T16:30:18.353055+00:00"
     },
     "banknifty": {
       "price": 57446.25,
@@ -206,7 +206,7 @@
         57446.25
       ],
       "ok": true,
-      "updated_at": "2026-08-11T15:33:40.088011+00:00"
+      "updated_at": "2026-08-11T16:30:18.407329+00:00"
     },
     "vix": {
       "price": 11.855,
@@ -275,7 +275,7 @@
         11.854999542236328
       ],
       "ok": true,
-      "updated_at": "2026-08-11T15:33:40.150287+00:00"
+      "updated_at": "2026-08-11T16:30:18.451309+00:00"
     },
     "usdinr": {
       "price": 95.425,
@@ -344,25 +344,13 @@
         95.42500305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-11T15:33:40.209911+00:00"
+      "updated_at": "2026-08-11T16:30:18.495450+00:00"
     },
     "gold": {
-      "price": 4448.5,
-      "change": 28.8,
-      "pct": 0.6516,
+      "price": 4438.6,
+      "change": 18.9,
+      "pct": 0.4276,
       "closes": [
-        4437.60009765625,
-        4436.5,
-        4436.2001953125,
-        4439.7001953125,
-        4439.2998046875,
-        4441.2001953125,
-        4449.7998046875,
-        4448.7998046875,
-        4449.5,
-        4448.39990234375,
-        4444.60009765625,
-        4445.7001953125,
         4444.89990234375,
         4443.0,
         4444.60009765625,
@@ -410,28 +398,28 @@
         4451.39990234375,
         4445.2001953125,
         4443.10009765625,
-        4448.5
+        4445.7998046875,
+        4436.5,
+        4430.7001953125,
+        4435.10009765625,
+        4435.7001953125,
+        4440.10009765625,
+        4443.2001953125,
+        4440.5,
+        4439.2998046875,
+        4439.60009765625,
+        4438.89990234375,
+        4441.2001953125,
+        4438.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-11T15:33:40.271685+00:00"
+      "updated_at": "2026-08-11T16:30:18.550642+00:00"
     },
     "crude": {
-      "price": 82.54,
-      "change": 0.41,
-      "pct": 0.4992,
+      "price": 83.05,
+      "change": 0.92,
+      "pct": 1.1202,
       "closes": [
-        83.5999984741211,
-        83.70999908447266,
-        83.68000030517578,
-        83.37999725341797,
-        83.4800033569336,
-        83.48999786376953,
-        82.05000305175781,
-        81.94999694824219,
-        81.77999877929688,
-        81.98999786376953,
-        82.18000030517578,
-        82.30999755859375,
         82.25,
         81.88999938964844,
         82.04000091552734,
@@ -479,15 +467,27 @@
         82.44000244140625,
         82.56999969482422,
         82.55000305175781,
-        82.54000091552734
+        82.58999633789062,
+        83.20999908447266,
+        83.05000305175781,
+        83.19999694824219,
+        83.19000244140625,
+        83.19000244140625,
+        83.26000213623047,
+        83.05999755859375,
+        83.02999877929688,
+        83.12000274658203,
+        83.05000305175781,
+        82.87999725341797,
+        83.05000305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-11T15:33:40.350851+00:00"
+      "updated_at": "2026-08-11T16:30:18.595193+00:00"
     },
     "us10y": {
-      "price": 4.686,
-      "change": -0.013,
-      "pct": -0.2767,
+      "price": 4.684,
+      "change": -0.015,
+      "pct": -0.3192,
       "closes": [
         4.700999736785889,
         4.697000026702881,
@@ -524,17 +524,28 @@
         4.679999828338623,
         4.682000160217285,
         4.684000015258789,
+        4.684000015258789,
         4.685999870300293,
-        4.685999870300293
+        4.685999870300293,
+        4.691999912261963,
+        4.688000202178955,
+        4.688000202178955,
+        4.688000202178955,
+        4.688000202178955,
+        4.685999870300293,
+        4.684000015258789,
+        4.684000015258789,
+        4.684000015258789,
+        4.684000015258789
       ],
       "ok": true,
-      "updated_at": "2026-08-11T15:33:40.409095+00:00"
+      "updated_at": "2026-08-11T16:30:18.633053+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-11T15:33:40.489393+00:00",
+      "updated_at": "2026-08-11T16:30:18.834942+00:00",
       "items": [
         {
           "title": "Jupiter Wagons shares rise 4% after Rs 211 crore order wins, Rs 400 crore BESS project",
@@ -690,7 +701,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-11T15:33:40.618325+00:00",
+      "updated_at": "2026-08-11T16:30:18.955914+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -771,8 +782,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-11T15:33:40.927369+00:00",
+      "updated_at": "2026-08-11T16:30:19.071443+00:00",
       "items": [
+        {
+          "title": "Landmark Cars net profit nearly doubles to  ₹14.5 crore in Q1; revenue rises 22%",
+          "link": "https://www.livemint.com/market/stock-market-news/landmark-cars-net-profit-nearly-doubles-to-rs-14-5-crore-in-q1-revenue-rises-22-11786461913873.html",
+          "pubDate": "2026-08-11T21:04:39+05:30"
+        },
         {
           "title": "Sebi proposes wider FPI access to non-agri commodity derivatives",
           "link": "https://www.livemint.com/market/stock-market-news/sebi-proposes-wider-fpi-access-to-non-agri-commodity-derivatives-11786449168248.html",
@@ -917,17 +933,12 @@
           "title": "LEAP India IPO Day 3 LIVE: GMP, subscription status to review. Apply or not?",
           "link": "https://www.livemint.com/market/ipo/leap-india-ipo-day-3-live-gmp-subscription-status-to-review-apply-or-not-11786421955009.html",
           "pubDate": "2026-08-11T10:17:01+05:30"
-        },
-        {
-          "title": "Milky Mist IPO Day 1: Issue booked 65% so far. Check GMP, key dates, review, issue details. Should you apply or skip?",
-          "link": "https://www.livemint.com/market/ipo/milky-mist-ipo-gmp-milky-mist-ipo-subscription-status-milky-mist-ipo-details-milky-mist-ipo-review-milky-mist-ipo-11786421264864.html",
-          "pubDate": "2026-08-11T10:02:13+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-11T15:33:41.171147+00:00",
+      "updated_at": "2026-08-11T16:30:19.191214+00:00",
       "items": [
         {
           "title": "Calcutta Stock Exchange has not submitted formal revival plan to Sebi: Govt",
@@ -1083,7 +1094,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-11T15:33:42.017204+00:00",
+      "updated_at": "2026-08-11T16:30:19.946524+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 12, 2026",

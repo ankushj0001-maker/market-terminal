@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T19:42:13.205564+00:00",
+  "generated_at": "2026-08-11T20:22:07.207372+00:00",
   "indices": {
     "nifty50": {
       "price": 24471.7,
@@ -68,7 +68,7 @@
         24471.69921875
       ],
       "ok": true,
-      "updated_at": "2026-08-11T19:42:10.099271+00:00"
+      "updated_at": "2026-08-11T20:22:03.544144+00:00"
     },
     "sensex": {
       "price": 78154.25,
@@ -137,7 +137,7 @@
         78154.25
       ],
       "ok": true,
-      "updated_at": "2026-08-11T19:42:10.206671+00:00"
+      "updated_at": "2026-08-11T20:22:03.674799+00:00"
     },
     "banknifty": {
       "price": 57446.25,
@@ -206,7 +206,7 @@
         57446.25
       ],
       "ok": true,
-      "updated_at": "2026-08-11T19:42:10.314382+00:00"
+      "updated_at": "2026-08-11T20:22:03.856382+00:00"
     },
     "vix": {
       "price": 11.855,
@@ -275,15 +275,13 @@
         11.854999542236328
       ],
       "ok": true,
-      "updated_at": "2026-08-11T19:42:10.434769+00:00"
+      "updated_at": "2026-08-11T20:22:04.057948+00:00"
     },
     "usdinr": {
-      "price": 95.43,
-      "change": 0.14,
-      "pct": 0.1469,
+      "price": 95.425,
+      "change": 0.135,
+      "pct": 0.1417,
       "closes": [
-        95.3949966430664,
-        95.3949966430664,
         95.4000015258789,
         95.40249633789062,
         95.4000015258789,
@@ -341,24 +339,18 @@
         95.42500305175781,
         95.42500305175781,
         95.42500305175781,
-        95.43000030517578
+        95.43000030517578,
+        95.42500305175781,
+        95.42500305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-11T19:42:10.536834+00:00"
+      "updated_at": "2026-08-11T20:22:04.228860+00:00"
     },
     "gold": {
-      "price": 4432.2,
-      "change": 12.5,
-      "pct": 0.2828,
+      "price": 4429.3,
+      "change": 9.6,
+      "pct": 0.2172,
       "closes": [
-        4453.0,
-        4452.89990234375,
-        4454.7998046875,
-        4453.60009765625,
-        4456.0,
-        4450.5,
-        4451.39990234375,
-        4445.2001953125,
         4443.10009765625,
         4445.7998046875,
         4436.5,
@@ -410,24 +402,24 @@
         4428.0,
         4429.7001953125,
         4430.7001953125,
-        4432.2001953125
+        4429.7998046875,
+        4427.10009765625,
+        4429.39990234375,
+        4428.39990234375,
+        4429.7001953125,
+        4428.10009765625,
+        4429.2001953125,
+        4429.5,
+        4429.2998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-11T19:42:10.800667+00:00"
+      "updated_at": "2026-08-11T20:22:04.446029+00:00"
     },
     "crude": {
-      "price": 83.51,
-      "change": 1.38,
-      "pct": 1.6803,
+      "price": 83.45,
+      "change": 1.32,
+      "pct": 1.6072,
       "closes": [
-        82.33999633789062,
-        82.33999633789062,
-        82.45999908447266,
-        82.56999969482422,
-        82.58000183105469,
-        82.4800033569336,
-        82.44000244140625,
-        82.56999969482422,
         82.55000305175781,
         82.58999633789062,
         83.20999908447266,
@@ -479,10 +471,18 @@
         83.4000015258789,
         83.45999908447266,
         83.48999786376953,
-        83.51000213623047
+        83.33999633789062,
+        83.3499984741211,
+        83.43000030517578,
+        83.43000030517578,
+        83.41999816894531,
+        83.36000061035156,
+        83.4800033569336,
+        83.48999786376953,
+        83.44999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-11T19:42:11.004407+00:00"
+      "updated_at": "2026-08-11T20:22:04.652721+00:00"
     },
     "us10y": {
       "price": 4.684,
@@ -551,14 +551,19 @@
         4.684000015258789
       ],
       "ok": true,
-      "updated_at": "2026-08-11T19:42:11.106241+00:00"
+      "updated_at": "2026-08-11T20:22:04.808302+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-11T19:42:11.247682+00:00",
+      "updated_at": "2026-08-11T20:22:05.019105+00:00",
       "items": [
+        {
+          "title": "Fed’s Austan Goolsbee says inflation is the biggest problem on Fed rate signal",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-austan-goolsbee-says-inflation-is-the-biggest-problem-on-fed-rate-signal/articleshow/133164860.cms",
+          "pubDate": "2026-08-12T01:15:05+05:30"
+        },
         {
           "title": "Shiprocket draws Goldman, HDFC MF, others to Rs 727 cr anchor round ahead of IPO",
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/shiprocket-draws-goldman-sachs-hdfc-mf-sbi-mf-and-others-to-727-crore-anchor-round-ahead-of-ipo/articleshow/133160685.cms",
@@ -583,11 +588,6 @@
           "title": "Sebi proposes to widen foreign investors' access to non-agricultural commodities derivatives",
           "link": "https://economictimes.indiatimes.com/markets/commodities/news/sebi-proposes-to-widen-foreign-investors-access-to-non-agricultural-commodities-derivatives/articleshow/133153234.cms",
           "pubDate": "2026-08-11T17:19:18+05:30"
-        },
-        {
-          "title": "Without Warren Buffett, Berkshire Hathaway is no longer an attractive investment: ‘Big Short’ fame Michael Burry",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/without-warren-buffett-berkshire-hathaway-is-no-longer-an-attractive-investment-big-short-fame-michael-burry/articleshow/133147802.cms",
-          "pubDate": "2026-08-11T13:54:06+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -794,7 +794,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-11T19:42:11.471783+00:00",
+      "updated_at": "2026-08-11T20:22:05.295440+00:00",
       "items": [
         {
           "title": "Chicago grains weaken in positioning ahead of USDA report",
@@ -950,7 +950,7 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-11T19:42:12.393332+00:00",
+      "updated_at": "2026-08-11T20:22:06.296472+00:00",
       "items": [
         {
           "title": "CAS may cause near-term drag in index-options trading: Bernstein",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-11T19:42:13.205549+00:00",
+      "updated_at": "2026-08-11T20:22:07.207357+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 12, 2026",

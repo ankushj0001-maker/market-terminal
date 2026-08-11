@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T11:19:21.092280+00:00",
+  "generated_at": "2026-08-11T12:03:06.758526+00:00",
   "indices": {
     "nifty50": {
       "price": 24471.7,
@@ -68,7 +68,7 @@
         24471.69921875
       ],
       "ok": true,
-      "updated_at": "2026-08-11T11:19:18.363234+00:00"
+      "updated_at": "2026-08-11T12:03:05.316403+00:00"
     },
     "sensex": {
       "price": 78154.25,
@@ -137,7 +137,7 @@
         78154.25
       ],
       "ok": true,
-      "updated_at": "2026-08-11T11:19:18.453419+00:00"
+      "updated_at": "2026-08-11T12:03:05.362353+00:00"
     },
     "banknifty": {
       "price": 57446.25,
@@ -206,7 +206,7 @@
         57446.25
       ],
       "ok": true,
-      "updated_at": "2026-08-11T11:19:18.552378+00:00"
+      "updated_at": "2026-08-11T12:03:05.408926+00:00"
     },
     "vix": {
       "price": 11.855,
@@ -275,7 +275,7 @@
         11.854999542236328
       ],
       "ok": true,
-      "updated_at": "2026-08-11T11:19:18.619680+00:00"
+      "updated_at": "2026-08-11T12:03:05.454642+00:00"
     },
     "usdinr": {
       "price": 95.435,
@@ -344,22 +344,13 @@
         95.43499755859375
       ],
       "ok": true,
-      "updated_at": "2026-08-11T11:19:18.778148+00:00"
+      "updated_at": "2026-08-11T12:03:05.500074+00:00"
     },
     "gold": {
-      "price": 4450.0,
-      "change": 30.3,
-      "pct": 0.6856,
+      "price": 4447.2,
+      "change": 27.5,
+      "pct": 0.6222,
       "closes": [
-        4428.7998046875,
-        4433.10009765625,
-        4422.89990234375,
-        4422.0,
-        4427.5,
-        4422.89990234375,
-        4425.60009765625,
-        4420.39990234375,
-        4425.2998046875,
         4422.2001953125,
         4420.7998046875,
         4422.39990234375,
@@ -410,25 +401,25 @@
         4441.2001953125,
         4449.7998046875,
         4448.7998046875,
-        4450.0
+        4449.5,
+        4448.39990234375,
+        4444.60009765625,
+        4445.7001953125,
+        4444.89990234375,
+        4443.0,
+        4444.60009765625,
+        4445.89990234375,
+        4446.10009765625,
+        4447.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-11T11:19:18.890087+00:00"
+      "updated_at": "2026-08-11T12:03:05.548993+00:00"
     },
     "crude": {
-      "price": 81.89,
-      "change": -0.24,
-      "pct": -0.2922,
+      "price": 82.21,
+      "change": 0.08,
+      "pct": 0.0974,
       "closes": [
-        82.76000213623047,
-        82.5999984741211,
-        82.80999755859375,
-        83.33000183105469,
-        83.37999725341797,
-        83.61000061035156,
-        83.62999725341797,
-        83.62999725341797,
-        83.45999908447266,
         83.47000122070312,
         83.45999908447266,
         83.5999984741211,
@@ -479,10 +470,19 @@
         83.48999786376953,
         82.05000305175781,
         81.94999694824219,
-        81.88999938964844
+        81.77999877929688,
+        81.98999786376953,
+        82.18000030517578,
+        82.30999755859375,
+        82.25,
+        81.88999938964844,
+        82.04000091552734,
+        82.2300033569336,
+        82.16000366210938,
+        82.20999908447266
       ],
       "ok": true,
-      "updated_at": "2026-08-11T11:19:19.039676+00:00"
+      "updated_at": "2026-08-11T12:03:05.596397+00:00"
     },
     "us10y": {
       "price": 4.699,
@@ -551,13 +551,13 @@
         4.699000358581543
       ],
       "ok": true,
-      "updated_at": "2026-08-11T11:19:19.109866+00:00"
+      "updated_at": "2026-08-11T12:03:05.648983+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-11T11:19:19.299537+00:00",
+      "updated_at": "2026-08-11T12:03:05.780294+00:00",
       "items": [
         {
           "title": "Jupiter Wagons shares rise 4% after Rs 211 crore order wins, Rs 400 crore BESS project",
@@ -712,7 +712,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-11T11:19:19.441156+00:00",
       "items": [
         {
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-11T11:19:19.613790+00:00",
+      "updated_at": "2026-08-11T12:03:06.199704+00:00",
       "items": [
+        {
+          "title": "1100% rally in five years! Small cap multibagger stock under  ₹50 to be in focus on Wednesday; here's why",
+          "link": "https://www.livemint.com/market/stock-market-news/1100-rally-in-five-years-small-cap-multibagger-stock-under-rs-50-to-be-in-focus-on-wednesday-heres-why-11786447279657.html",
+          "pubDate": "2026-08-11T17:14:58+05:30"
+        },
+        {
+          "title": "Expert view: Market stable due to strong SIP inflows; time to dump stories and focus on cash flows",
+          "link": "https://www.livemint.com/market/stock-market-news/expert-view-market-stable-due-to-strong-sip-inflows-time-to-dump-stories-and-focus-on-cash-flows-11786446913455.html",
+          "pubDate": "2026-08-11T17:04:25+05:30"
+        },
         {
           "title": "Penny stock under  ₹1 hits 5% upper circuit after provisional Q1 results",
           "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-1-hits-5-upper-circuit-after-provisional-q1-results-2026-11786445169292.html",
@@ -935,178 +945,168 @@
           "title": "MCX gold jumps over  ₹1,55,100 per 10 grams, silver trades above  ₹2,39,400 per kg; Middle East, US inflation in focus",
           "link": "https://www.livemint.com/market/commodities/mcx-gold-jumps-over-1-55-060-per-10-grams-silver-trades-above-2-39-000-per-kg-middle-east-us-inflation-in-focus-11786418608520.html",
           "pubDate": "2026-08-11T09:07:32+05:30"
-        },
-        {
-          "title": "Rupee opens 9 paise lower at 95.39 against US dollar",
-          "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-9-paise-lower-at-95-39-against-us-dollar-11786419156023.html",
-          "pubDate": "2026-08-11T09:04:39+05:30"
-        },
-        {
-          "title": "Lalithaa Jewellery Mart IPO: Price band set at  ₹190-201 per share; check key dates, issue details",
-          "link": "https://www.livemint.com/market/ipo/lalithaa-jewellery-mart-ipo-price-band-set-at-rs-190-201-per-share-check-key-dates-issue-details-11786417826251.html",
-          "pubDate": "2026-08-11T08:55:00+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-11T11:19:19.979790+00:00",
+      "updated_at": "2026-08-11T12:03:06.221150+00:00",
       "items": [
         {
-          "title": "Kusumgar standalone net profit rises 882.63% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/kusumgar-standalone-net-profit-rises-882-63-in-the-june-2026-quarter-126081101274_1.html",
-          "pubDate": "2026-08-11T16:34:13+05:30"
+          "title": "Hexa Tradex reports consolidated net profit of Rs 1.67 crore in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/hexa-tradex-reports-consolidated-net-profit-of-rs-1-67-crore-in-the-june-2026-quarter-126081101403_1.html",
+          "pubDate": "2026-08-11T17:19:48+05:30"
         },
         {
-          "title": "Escorp Asset Management standalone net profit rises 460.27% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/escorp-asset-management-standalone-net-profit-rises-460-27-in-the-june-2026-quarter-126081101273_1.html",
-          "pubDate": "2026-08-11T16:34:06+05:30"
+          "title": "Rail Vikas Nigam consolidated net profit rises 18.46% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/rail-vikas-nigam-consolidated-net-profit-rises-18-46-in-the-june-2026-quarter-126081101402_1.html",
+          "pubDate": "2026-08-11T17:19:41+05:30"
         },
         {
-          "title": "Dhatre Udyog reports standalone net loss of Rs 0.29 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/dhatre-udyog-reports-standalone-net-loss-of-rs-0-29-crore-in-the-june-2026-quarter-126081101271_1.html",
-          "pubDate": "2026-08-11T16:33:58+05:30"
+          "title": "Orchasp consolidated net profit declines 48.15% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/orchasp-consolidated-net-profit-declines-48-15-in-the-june-2026-quarter-126081101401_1.html",
+          "pubDate": "2026-08-11T17:19:33+05:30"
         },
         {
-          "title": "Aananda Lakshmi Spinning Mills reports standalone net loss of Rs 0.24 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/aananda-lakshmi-spinning-mills-reports-standalone-net-loss-of-rs-0-24-crore-in-the-june-2026-quarter-126081101270_1.html",
-          "pubDate": "2026-08-11T16:33:49+05:30"
+          "title": "Genpharmasec consolidated net profit declines 78.69% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/genpharmasec-consolidated-net-profit-declines-78-69-in-the-june-2026-quarter-126081101400_1.html",
+          "pubDate": "2026-08-11T17:19:24+05:30"
         },
         {
-          "title": "Tasty Dairy Specialities reports standalone net loss of Rs 0.33 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/tasty-dairy-specialities-reports-standalone-net-loss-of-rs-0-33-crore-in-the-june-2026-quarter-126081101269_1.html",
-          "pubDate": "2026-08-11T16:33:42+05:30"
+          "title": "RTCL consolidated net profit declines 78.13% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/rtcl-consolidated-net-profit-declines-78-13-in-the-june-2026-quarter-126081101399_1.html",
+          "pubDate": "2026-08-11T17:19:16+05:30"
         },
         {
-          "title": "Valley Magnesite Company standalone net profit declines 34.44% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/valley-magnesite-company-standalone-net-profit-declines-34-44-in-the-june-2026-quarter-126081101268_1.html",
-          "pubDate": "2026-08-11T16:33:35+05:30"
+          "title": "Shri Bajrang Alliance consolidated net profit rises 12.47% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/shri-bajrang-alliance-consolidated-net-profit-rises-12-47-in-the-june-2026-quarter-126081101398_1.html",
+          "pubDate": "2026-08-11T17:19:09+05:30"
         },
         {
-          "title": "Nouveau Global Ventures reports standalone net loss of Rs 0.04 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nouveau-global-ventures-reports-standalone-net-loss-of-rs-0-04-crore-in-the-june-2026-quarter-126081101267_1.html",
-          "pubDate": "2026-08-11T16:33:27+05:30"
+          "title": "Balrampur Chini Mills consolidated net profit declines 14.39% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/balrampur-chini-mills-consolidated-net-profit-declines-14-39-in-the-june-2026-quarter-126081101397_1.html",
+          "pubDate": "2026-08-11T17:19:02+05:30"
         },
         {
-          "title": "Kovalam Investment & Trading Co. standalone net profit rises 37.78% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/kovalam-investment-trading-co-standalone-net-profit-rises-37-78-in-the-june-2026-quarter-126081101266_1.html",
-          "pubDate": "2026-08-11T16:33:20+05:30"
+          "title": "ISGEC Heavy Engineering consolidated net profit rises 29.15% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/isgec-heavy-engineering-consolidated-net-profit-rises-29-15-in-the-june-2026-quarter-126081101396_1.html",
+          "pubDate": "2026-08-11T17:18:54+05:30"
         },
         {
-          "title": "Prakash Woollen & Synthetic Mills reports standalone net profit of Rs 2.57 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/prakash-woollen-synthetic-mills-reports-standalone-net-profit-of-rs-2-57-crore-in-the-june-2026-quarter-126081101265_1.html",
-          "pubDate": "2026-08-11T16:33:13+05:30"
+          "title": "Yuken India consolidated net profit rises 28.89% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/yuken-india-consolidated-net-profit-rises-28-89-in-the-june-2026-quarter-126081101395_1.html",
+          "pubDate": "2026-08-11T17:18:47+05:30"
         },
         {
-          "title": "Madras Fertilizers standalone net profit declines 21.49% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/madras-fertilizers-standalone-net-profit-declines-21-49-in-the-june-2026-quarter-126081101264_1.html",
-          "pubDate": "2026-08-11T16:33:06+05:30"
+          "title": "Austin Engineering Company consolidated net profit declines 38.56% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/austin-engineering-company-consolidated-net-profit-declines-38-56-in-the-june-2026-quarter-126081101394_1.html",
+          "pubDate": "2026-08-11T17:18:39+05:30"
         },
         {
-          "title": "Lactose (India) standalone net profit rises 58.00% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/lactose-india-standalone-net-profit-rises-58-00-in-the-june-2026-quarter-126081101263_1.html",
-          "pubDate": "2026-08-11T16:32:59+05:30"
+          "title": "Anand Rayons standalone net profit rises 96.61% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/anand-rayons-standalone-net-profit-rises-96-61-in-the-june-2026-quarter-126081101393_1.html",
+          "pubDate": "2026-08-11T17:18:32+05:30"
         },
         {
-          "title": "India Lease Development reports standalone net loss of Rs 0.03 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/india-lease-development-reports-standalone-net-loss-of-rs-0-03-crore-in-the-june-2026-quarter-126081101262_1.html",
-          "pubDate": "2026-08-11T16:32:52+05:30"
+          "title": "Fraser and Company reports standalone net loss of Rs 0.28 crore in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/fraser-and-company-reports-standalone-net-loss-of-rs-0-28-crore-in-the-june-2026-quarter-126081101392_1.html",
+          "pubDate": "2026-08-11T17:18:25+05:30"
         },
         {
-          "title": "Venky's (India) standalone net profit rises 215.79% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/venky-s-india-standalone-net-profit-rises-215-79-in-the-june-2026-quarter-126081101261_1.html",
-          "pubDate": "2026-08-11T16:32:44+05:30"
+          "title": "ARC Finance standalone net profit rises 30.77% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/arc-finance-standalone-net-profit-rises-30-77-in-the-june-2026-quarter-126081101391_1.html",
+          "pubDate": "2026-08-11T17:18:17+05:30"
         },
         {
-          "title": "Siemens standalone net profit rises 474.97% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/siemens-standalone-net-profit-rises-474-97-in-the-june-2026-quarter-126081101260_1.html",
-          "pubDate": "2026-08-11T16:32:37+05:30"
+          "title": "Rajasthan Cylinders & Containers reports standalone net loss of Rs 0.64 crore in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/rajasthan-cylinders-containers-reports-standalone-net-loss-of-rs-0-64-crore-in-the-june-2026-quarter-126081101390_1.html",
+          "pubDate": "2026-08-11T17:18:10+05:30"
         },
         {
-          "title": "Prakash Industries standalone net profit declines 22.02% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/prakash-industries-standalone-net-profit-declines-22-02-in-the-june-2026-quarter-126081101259_1.html",
-          "pubDate": "2026-08-11T16:32:30+05:30"
+          "title": "Hindustan Housing Company standalone net profit rises 4.49% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/hindustan-housing-company-standalone-net-profit-rises-4-49-in-the-june-2026-quarter-126081101389_1.html",
+          "pubDate": "2026-08-11T17:18:03+05:30"
         },
         {
-          "title": "Matrimony.com consolidated net profit rises 127.14% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/matrimony-com-consolidated-net-profit-rises-127-14-in-the-june-2026-quarter-126081101258_1.html",
-          "pubDate": "2026-08-11T16:32:23+05:30"
+          "title": "Nagarjuna Agri Tech reports standalone net loss of Rs 0.95 crore in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nagarjuna-agri-tech-reports-standalone-net-loss-of-rs-0-95-crore-in-the-june-2026-quarter-126081101386_1.html",
+          "pubDate": "2026-08-11T17:17:55+05:30"
         },
         {
-          "title": "Diffusion Engineers consolidated net profit rises 36.26% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/diffusion-engineers-consolidated-net-profit-rises-36-26-in-the-june-2026-quarter-126081101257_1.html",
-          "pubDate": "2026-08-11T16:32:16+05:30"
+          "title": "Jayatma Industries reports standalone net loss of Rs 0.61 crore in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/jayatma-industries-reports-standalone-net-loss-of-rs-0-61-crore-in-the-june-2026-quarter-126081101385_1.html",
+          "pubDate": "2026-08-11T17:17:48+05:30"
         },
         {
-          "title": "Confidence Petroleum India consolidated net profit rises 207.04% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/confidence-petroleum-india-consolidated-net-profit-rises-207-04-in-the-june-2026-quarter-126081101256_1.html",
-          "pubDate": "2026-08-11T16:32:09+05:30"
+          "title": "Gujarat Winding Systems reports standalone net loss of Rs 0.01 crore in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/gujarat-winding-systems-reports-standalone-net-loss-of-rs-0-01-crore-in-the-june-2026-quarter-126081101384_1.html",
+          "pubDate": "2026-08-11T17:17:41+05:30"
         },
         {
-          "title": "Kalpataru Projects International consolidated net profit rises 45.15% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/kalpataru-projects-international-consolidated-net-profit-rises-45-15-in-the-june-2026-quarter-126081101255_1.html",
-          "pubDate": "2026-08-11T16:32:02+05:30"
+          "title": "Vardhan Capital & Finance reports standalone net loss of Rs 0.03 crore in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/vardhan-capital-finance-reports-standalone-net-loss-of-rs-0-03-crore-in-the-june-2026-quarter-126081101383_1.html",
+          "pubDate": "2026-08-11T17:17:34+05:30"
         },
         {
-          "title": "Kamat Hotels (India) consolidated net profit rises 158.24% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/kamat-hotels-india-consolidated-net-profit-rises-158-24-in-the-june-2026-quarter-126081101252_1.html",
-          "pubDate": "2026-08-11T16:31:54+05:30"
+          "title": "Choksi Asia standalone net profit declines 10.28% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/choksi-asia-standalone-net-profit-declines-10-28-in-the-june-2026-quarter-126081101382_1.html",
+          "pubDate": "2026-08-11T17:17:27+05:30"
         },
         {
-          "title": "Kriti Industries (India) reports consolidated net loss of Rs 2.21 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/kriti-industries-india-reports-consolidated-net-loss-of-rs-2-21-crore-in-the-june-2026-quarter-126081101251_1.html",
-          "pubDate": "2026-08-11T16:31:47+05:30"
+          "title": "Dhoot Industrial Finance standalone net profit rises 279.84% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/dhoot-industrial-finance-standalone-net-profit-rises-279-84-in-the-june-2026-quarter-126081101381_1.html",
+          "pubDate": "2026-08-11T17:17:20+05:30"
         },
         {
-          "title": "Kanoria Chemicals & Industries reports consolidated net profit of Rs 26.36 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/kanoria-chemicals-industries-reports-consolidated-net-profit-of-rs-26-36-crore-in-the-june-2026-quarter-126081101250_1.html",
-          "pubDate": "2026-08-11T16:31:36+05:30"
+          "title": "Cubical Financial Services standalone net profit rises 228.57% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/cubical-financial-services-standalone-net-profit-rises-228-57-in-the-june-2026-quarter-126081101380_1.html",
+          "pubDate": "2026-08-11T17:17:12+05:30"
         },
         {
-          "title": "Tyroon Tea Company standalone net profit rises 1350.00% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/tyroon-tea-company-standalone-net-profit-rises-1350-00-in-the-june-2026-quarter-126081101249_1.html",
-          "pubDate": "2026-08-11T16:31:29+05:30"
+          "title": "Univa Foods reports standalone net loss of Rs 0.05 crore in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/univa-foods-reports-standalone-net-loss-of-rs-0-05-crore-in-the-june-2026-quarter-126081101379_1.html",
+          "pubDate": "2026-08-11T17:17:05+05:30"
         },
         {
-          "title": "Mathew Easow Research Securities reports standalone net profit of Rs 0.02 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/mathew-easow-research-securities-reports-standalone-net-profit-of-rs-0-02-crore-in-the-june-2026-quarter-126081101248_1.html",
-          "pubDate": "2026-08-11T16:31:22+05:30"
+          "title": "Laffans Petrochemicals standalone net profit declines 22.59% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/laffans-petrochemicals-standalone-net-profit-declines-22-59-in-the-june-2026-quarter-126081101378_1.html",
+          "pubDate": "2026-08-11T17:16:58+05:30"
         },
         {
-          "title": "Quest Capital Markets standalone net profit declines 52.60% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/quest-capital-markets-standalone-net-profit-declines-52-60-in-the-june-2026-quarter-126081101247_1.html",
-          "pubDate": "2026-08-11T16:31:15+05:30"
+          "title": "Modern Dairies standalone net profit rises 29.70% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/modern-dairies-standalone-net-profit-rises-29-70-in-the-june-2026-quarter-126081101377_1.html",
+          "pubDate": "2026-08-11T17:16:50+05:30"
         },
         {
-          "title": "Nifty August futures trade at a premium",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-august-futures-trade-at-a-premium-126081101245_1.html",
-          "pubDate": "2026-08-11T16:31:02+05:30"
+          "title": "Chennai Meenakshi Multispeciality Hospital reports standalone nil net profit/loss in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/chennai-meenakshi-multispeciality-hospital-reports-standalone-nil-net-profit-loss-in-the-june-2026-quarter-126081101376_1.html",
+          "pubDate": "2026-08-11T17:16:43+05:30"
         },
         {
-          "title": "Pound steady after hitting three-week high",
-          "link": "https://www.business-standard.com/markets/capital-market-news/pound-steady-after-hitting-three-week-high-126081101222_1.html",
-          "pubDate": "2026-08-11T16:17:11+05:30"
+          "title": "Continental Chemicals standalone net profit declines 14.29% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/continental-chemicals-standalone-net-profit-declines-14-29-in-the-june-2026-quarter-126081101375_1.html",
+          "pubDate": "2026-08-11T17:16:36+05:30"
         },
         {
-          "title": "Matrimony.com soars after Q1 PAT spurts 127.5% YoY",
-          "link": "https://www.business-standard.com/markets/capital-market-news/matrimony-com-soars-after-q1-pat-spurts-127-5-yoy-126081101197_1.html",
-          "pubDate": "2026-08-11T16:04:14+05:30"
+          "title": "E & E Enterprises reports standalone net loss of Rs 0.10 crore in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/e-e-enterprises-reports-standalone-net-loss-of-rs-0-10-crore-in-the-june-2026-quarter-126081101374_1.html",
+          "pubDate": "2026-08-11T17:16:29+05:30"
         },
         {
-          "title": "Nifty ends below 24,500 level amid weekly F&O expiry",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-ends-below-24-500-level-amid-weekly-f-o-expiry-126081101195_1.html",
-          "pubDate": "2026-08-11T16:04:02+05:30"
+          "title": "Dhoot Transmission IPO subscribed 3.94 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/dhoot-transmission-ipo-subscribed-3-94-times-126081101373_1.html",
+          "pubDate": "2026-08-11T17:16:21+05:30"
         },
         {
-          "title": "Australia's ASX 200 rises as rate decision lifts sentiment",
-          "link": "https://www.business-standard.com/markets/capital-market-news/australia-s-asx-200-rises-as-rate-decision-lifts-sentiment-126081101172_1.html",
-          "pubDate": "2026-08-11T15:50:48+05:30"
+          "title": "Sensex slips 388 pts, Nifty ends below 24,500 as crude boils",
+          "link": "https://www.business-standard.com/markets/capital-market-news/sensex-slips-388-pts-nifty-ends-below-24-500-as-crude-boils-126081101347_1.html",
+          "pubDate": "2026-08-11T17:04:18+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-11T11:19:21.092244+00:00",
+      "updated_at": "2026-08-11T12:03:06.758510+00:00",
       "items": [
         {
           "title": "State Government Securities - Full Auction Result",

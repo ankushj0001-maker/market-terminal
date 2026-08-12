@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T15:34:17.416723+00:00",
+  "generated_at": "2026-08-12T16:31:49.078374+00:00",
   "indices": {
     "nifty50": {
       "price": 24435.95,
@@ -68,7 +68,7 @@
         24435.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-12T15:34:15.408318+00:00"
+      "updated_at": "2026-08-12T16:31:46.038079+00:00"
     },
     "sensex": {
       "price": 77966.35,
@@ -137,7 +137,7 @@
         77966.3515625
       ],
       "ok": true,
-      "updated_at": "2026-08-12T15:34:15.453793+00:00"
+      "updated_at": "2026-08-12T16:31:46.137902+00:00"
     },
     "banknifty": {
       "price": 57885.85,
@@ -206,7 +206,7 @@
         57885.8515625
       ],
       "ok": true,
-      "updated_at": "2026-08-12T15:34:15.499146+00:00"
+      "updated_at": "2026-08-12T16:31:46.238898+00:00"
     },
     "vix": {
       "price": 11.69,
@@ -275,14 +275,13 @@
         11.6899995803833
       ],
       "ok": true,
-      "updated_at": "2026-08-12T15:34:15.556376+00:00"
+      "updated_at": "2026-08-12T16:31:46.339669+00:00"
     },
     "usdinr": {
       "price": 95.32,
       "change": -0.105,
       "pct": -0.11,
       "closes": [
-        95.40799713134766,
         95.41999816894531,
         95.41999816894531,
         95.42250061035156,
@@ -341,28 +340,17 @@
         95.31999969482422,
         95.31999969482422,
         95.31999969482422,
+        95.31999969482422,
         95.31999969482422
       ],
       "ok": true,
-      "updated_at": "2026-08-12T15:34:15.611523+00:00"
+      "updated_at": "2026-08-12T16:31:46.475979+00:00"
     },
     "gold": {
-      "price": 4486.0,
-      "change": 44.9,
-      "pct": 1.011,
+      "price": 4483.9,
+      "change": 42.8,
+      "pct": 0.9637,
       "closes": [
-        4476.2001953125,
-        4473.39990234375,
-        4474.2001953125,
-        4468.60009765625,
-        4469.7998046875,
-        4472.0,
-        4470.89990234375,
-        4470.39990234375,
-        4467.60009765625,
-        4469.7001953125,
-        4470.5,
-        4474.60009765625,
         4473.0,
         4471.60009765625,
         4473.0,
@@ -410,28 +398,28 @@
         4486.39990234375,
         4484.2001953125,
         4486.5,
-        4486.0
+        4481.2001953125,
+        4478.60009765625,
+        4480.5,
+        4477.7001953125,
+        4475.0,
+        4475.7998046875,
+        4480.39990234375,
+        4480.10009765625,
+        4479.2001953125,
+        4482.89990234375,
+        4484.89990234375,
+        4485.60009765625,
+        4483.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-12T15:34:15.660858+00:00"
+      "updated_at": "2026-08-12T16:31:46.605981+00:00"
     },
     "crude": {
-      "price": 83.15,
-      "change": -0.05,
-      "pct": -0.0601,
+      "price": 83.22,
+      "change": 0.02,
+      "pct": 0.024,
       "closes": [
-        83.13999938964844,
-        83.08000183105469,
-        83.08000183105469,
-        83.5,
-        83.4000015258789,
-        83.4000015258789,
-        83.41000366210938,
-        83.5199966430664,
-        83.41000366210938,
-        83.44000244140625,
-        83.43000030517578,
-        83.41999816894531,
         83.19000244140625,
         83.30999755859375,
         83.4000015258789,
@@ -479,15 +467,27 @@
         83.19000244140625,
         83.25,
         83.08000183105469,
-        83.1500015258789
+        83.12000274658203,
+        83.30999755859375,
+        83.16999816894531,
+        83.26000213623047,
+        83.31999969482422,
+        83.43000030517578,
+        83.30999755859375,
+        83.12999725341797,
+        83.31999969482422,
+        83.0199966430664,
+        83.19000244140625,
+        83.22000122070312,
+        83.22000122070312
       ],
       "ok": true,
-      "updated_at": "2026-08-12T15:34:15.732955+00:00"
+      "updated_at": "2026-08-12T16:31:46.740153+00:00"
     },
     "us10y": {
-      "price": 4.668,
-      "change": -0.016,
-      "pct": -0.3416,
+      "price": 4.67,
+      "change": -0.014,
+      "pct": -0.2989,
       "closes": [
         4.656000137329102,
         4.6479997634887695,
@@ -525,16 +525,28 @@
         4.674000263214111,
         4.671999931335449,
         4.670000076293945,
-        4.668000221252441
+        4.668000221252441,
+        4.668000221252441,
+        4.670000076293945,
+        4.671999931335449,
+        4.670000076293945,
+        4.670000076293945,
+        4.668000221252441,
+        4.668000221252441,
+        4.668000221252441,
+        4.670000076293945,
+        4.671999931335449,
+        4.668000221252441,
+        4.670000076293945
       ],
       "ok": true,
-      "updated_at": "2026-08-12T15:34:15.774171+00:00"
+      "updated_at": "2026-08-12T16:31:46.840358+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-12T15:34:15.883897+00:00",
+      "updated_at": "2026-08-12T16:31:47.307956+00:00",
       "items": [
         {
           "title": "MCX, NISM launch centre to strengthen India’s commodity market skills",
@@ -689,8 +701,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-12T14:41:12.313828+00:00",
+      "ok": true,
+      "updated_at": "2026-08-12T16:31:47.695847+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -771,8 +783,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-12T15:34:16.537584+00:00",
+      "updated_at": "2026-08-12T16:31:47.863231+00:00",
       "items": [
+        {
+          "title": "IRCTC Q1 Results: Revenue rises 18%, profit remains largely flat at  ₹330 crore",
+          "link": "https://www.livemint.com/market/stock-market-news/irctc-q1-results-revenue-rises-18-profit-remains-largely-flat-at-rs-330-crore-11786550554016.html",
+          "pubDate": "2026-08-12T21:43:06+05:30"
+        },
+        {
+          "title": "‘Successor… not Warren’: Michael Burry says ‘Berkshire is no longer attractive’ over $400 billon cash pile concerns",
+          "link": "https://www.livemint.com/market/stock-market-news/successor-not-warren-michael-burry-says-berkshire-is-no-longer-attractive-over-400-billon-cash-pile-concerns-11786546125231.html",
+          "pubDate": "2026-08-12T21:20:51+05:30"
+        },
         {
           "title": "From Trent to Titan: Over 15 Tata Group stocks more than doubled investors' wealth during Chandrasekaran's tenure",
           "link": "https://www.livemint.com/market/stock-market-news/over-15-tata-group-stocks-more-than-doubled-investors-wealth-under-chandras-tenure-as-chairman-of-tata-sons-11786543718013.html",
@@ -912,23 +934,18 @@
           "title": "Vodafone Idea share price jumps 6% in a weak market; is it the right time to buy the telecom stock?",
           "link": "https://www.livemint.com/market/stock-market-news/vodafone-idea-share-price-jumps-6-in-a-weak-market-is-it-the-right-time-to-buy-the-telecom-stock-11786510580312.html",
           "pubDate": "2026-08-12T10:34:32+05:30"
-        },
-        {
-          "title": "Shiprocket IPO Day 1: Issue subscribed 97% so far. GMP hints 31% listing pop. Check review, subscription. Apply or not?",
-          "link": "https://www.livemint.com/market/ipo/shiprocket-ipo-gmp-shiprocket-ipo-review-shiprocket-ipo-subscription-status-shiprocket-ipo-details-shiprocket-ipo-11786507912764.html",
-          "pubDate": "2026-08-12T10:19:06+05:30"
-        },
-        {
-          "title": "Ardee Industries IPO listing: Shares debut at a 39% premium on BSE",
-          "link": "https://www.livemint.com/market/ipo/ardee-industries-ipo-listing-shares-debut-at-a-39-premium-on-bse-ardee-industries-share-price-lists-11786508002215.html",
-          "pubDate": "2026-08-12T10:01:59+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-12T15:34:16.574339+00:00",
+      "updated_at": "2026-08-12T16:31:48.042137+00:00",
       "items": [
+        {
+          "title": "GIFT City commodity trading proposal under govt review: IFSCA chief",
+          "link": "https://www.business-standard.com/markets/news/gift-city-commodity-trading-proposal-under-govt-review-ifsca-chief-126081201903_1.html",
+          "pubDate": "2026-08-12T20:55:57+05:30"
+        },
         {
           "title": "Horizon Industrial Parks eyes next growth phase with ₹2,600 crore IPO",
           "link": "https://www.business-standard.com/markets/ipo/horizon-industrial-parks-eyes-next-growth-phase-with-2-600-crore-ipo-126081201787_1.html",
@@ -1073,17 +1090,12 @@
           "title": "Shivagrico Implements reports standalone net profit of Rs 0.06 crore in the June 2026 quarter",
           "link": "https://www.business-standard.com/markets/capital-market-news/shivagrico-implements-reports-standalone-net-profit-of-rs-0-06-crore-in-the-june-2026-quarter-126081201549_1.html",
           "pubDate": "2026-08-12T18:04:35+05:30"
-        },
-        {
-          "title": "Crestchem standalone net profit rises 180.00% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/crestchem-standalone-net-profit-rises-180-00-in-the-june-2026-quarter-126081201548_1.html",
-          "pubDate": "2026-08-12T18:04:26+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-12T15:34:17.416707+00:00",
+      "updated_at": "2026-08-12T16:31:49.078353+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 13, 2026",

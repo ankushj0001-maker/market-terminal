@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T16:31:49.078374+00:00",
+  "generated_at": "2026-08-12T17:37:19.640453+00:00",
   "indices": {
     "nifty50": {
       "price": 24435.95,
@@ -68,7 +68,7 @@
         24435.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-12T16:31:46.038079+00:00"
+      "updated_at": "2026-08-12T17:37:14.390455+00:00"
     },
     "sensex": {
       "price": 77966.35,
@@ -137,7 +137,7 @@
         77966.3515625
       ],
       "ok": true,
-      "updated_at": "2026-08-12T16:31:46.137902+00:00"
+      "updated_at": "2026-08-12T17:37:14.493125+00:00"
     },
     "banknifty": {
       "price": 57885.85,
@@ -206,7 +206,7 @@
         57885.8515625
       ],
       "ok": true,
-      "updated_at": "2026-08-12T16:31:46.238898+00:00"
+      "updated_at": "2026-08-12T17:37:14.600996+00:00"
     },
     "vix": {
       "price": 11.69,
@@ -275,14 +275,13 @@
         11.6899995803833
       ],
       "ok": true,
-      "updated_at": "2026-08-12T16:31:46.339669+00:00"
+      "updated_at": "2026-08-12T17:37:14.772932+00:00"
     },
     "usdinr": {
       "price": 95.32,
       "change": -0.105,
       "pct": -0.11,
       "closes": [
-        95.41999816894531,
         95.41999816894531,
         95.42250061035156,
         95.42749786376953,
@@ -341,29 +340,17 @@
         95.31999969482422,
         95.31999969482422,
         95.31999969482422,
+        95.31999969482422,
         95.31999969482422
       ],
       "ok": true,
-      "updated_at": "2026-08-12T16:31:46.475979+00:00"
+      "updated_at": "2026-08-12T17:37:14.909719+00:00"
     },
     "gold": {
-      "price": 4483.9,
-      "change": 42.8,
-      "pct": 0.9637,
+      "price": 4468.2,
+      "change": 27.1,
+      "pct": 0.6102,
       "closes": [
-        4473.0,
-        4471.60009765625,
-        4473.0,
-        4473.2998046875,
-        4474.0,
-        4472.39990234375,
-        4468.10009765625,
-        4466.7998046875,
-        4468.10009765625,
-        4467.7998046875,
-        4465.89990234375,
-        4487.7001953125,
-        4484.7001953125,
         4489.2001953125,
         4488.2998046875,
         4481.2998046875,
@@ -410,29 +397,29 @@
         4482.89990234375,
         4484.89990234375,
         4485.60009765625,
-        4483.89990234375
+        4483.0,
+        4473.0,
+        4474.0,
+        4470.89990234375,
+        4462.60009765625,
+        4465.2998046875,
+        4461.7001953125,
+        4463.2998046875,
+        4466.89990234375,
+        4464.0,
+        4463.5,
+        4467.7998046875,
+        4466.7001953125,
+        4468.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-12T16:31:46.605981+00:00"
+      "updated_at": "2026-08-12T17:37:15.073910+00:00"
     },
     "crude": {
-      "price": 83.22,
-      "change": 0.02,
-      "pct": 0.024,
+      "price": 82.86,
+      "change": -0.34,
+      "pct": -0.4087,
       "closes": [
-        83.19000244140625,
-        83.30999755859375,
-        83.4000015258789,
-        83.6500015258789,
-        83.69000244140625,
-        83.73999786376953,
-        83.63999938964844,
-        83.7699966430664,
-        83.7300033569336,
-        83.76000213623047,
-        83.75,
-        83.77999877929688,
-        83.72000122070312,
         83.48999786376953,
         83.43000030517578,
         83.12999725341797,
@@ -479,18 +466,29 @@
         83.0199966430664,
         83.19000244140625,
         83.22000122070312,
-        83.22000122070312
+        83.12999725341797,
+        83.2300033569336,
+        83.0999984741211,
+        83.08000183105469,
+        83.05999755859375,
+        83.05000305175781,
+        82.88999938964844,
+        82.88999938964844,
+        82.94999694824219,
+        83.01000213623047,
+        83.2699966430664,
+        82.81999969482422,
+        83.0,
+        82.86000061035156
       ],
       "ok": true,
-      "updated_at": "2026-08-12T16:31:46.740153+00:00"
+      "updated_at": "2026-08-12T17:37:15.211639+00:00"
     },
     "us10y": {
-      "price": 4.67,
-      "change": -0.014,
-      "pct": -0.2989,
+      "price": 4.668,
+      "change": -0.016,
+      "pct": -0.3416,
       "closes": [
-        4.656000137329102,
-        4.6479997634887695,
         4.656000137329102,
         4.6579999923706055,
         4.6519999504089355,
@@ -536,47 +534,60 @@
         4.668000221252441,
         4.670000076293945,
         4.671999931335449,
+        4.670000076293945,
+        4.670000076293945,
         4.668000221252441,
-        4.670000076293945
+        4.670000076293945,
+        4.670000076293945,
+        4.671999931335449,
+        4.675999641418457,
+        4.675999641418457,
+        4.674000263214111,
+        4.671999931335449,
+        4.668000221252441,
+        4.668000221252441,
+        4.668000221252441,
+        4.668000221252441,
+        4.668000221252441
       ],
       "ok": true,
-      "updated_at": "2026-08-12T16:31:46.840358+00:00"
+      "updated_at": "2026-08-12T17:37:15.359583+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-12T16:31:47.307956+00:00",
+      "updated_at": "2026-08-12T17:37:16.520600+00:00",
       "items": [
         {
-          "title": "MCX, NISM launch centre to strengthen India’s commodity market skills",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-nism-launch-centre-to-strengthen-indias-commodity-market-skills/articleshow/133184654.cms",
-          "pubDate": "2026-08-12T19:09:27+05:30"
+          "title": "Nebius shares soar 22% as AI demand powers revenue beat",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nebius-shares-soar-22-as-ai-demand-powers-revenue-beat/articleshow/133188174.cms",
+          "pubDate": "2026-08-12T22:00:38+05:30"
         },
         {
-          "title": "Axis Bank raises $300 million via bonds",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/axis-bank-raises-300-million-via-bonds/articleshow/133182507.cms",
-          "pubDate": "2026-08-12T17:42:18+05:30"
+          "title": "Indel Money to raise up to Rs 500 crore via public issue of NCDs",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/indel-money-to-raise-up-to-rs-500-crore-via-public-issue-of-ncds/articleshow/133187783.cms",
+          "pubDate": "2026-08-12T21:39:48+05:30"
         },
         {
-          "title": "Grasim Industries swings to profit in Q1, revenue rises 21% YoY",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/grasim-industries-swings-to-profit-in-q1-revenue-rises-21-yoy/articleshow/133181711.cms",
-          "pubDate": "2026-08-12T17:23:08+05:30"
+          "title": "BofA to invest $1.9 billion for 49.9% stake in Jio Financial NBFC unit",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/update-1-bofa-to-invest-1-9-billion-for-49-9-stake-in-jio-financial-nbfc-unit/articleshow/133187370.cms",
+          "pubDate": "2026-08-12T21:25:10+05:30"
         },
         {
-          "title": "Parag Parikh Flexi Cap Fund among 8 equity mutual funds that received over Rs 2,000 crore inflows in July",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/parag-parikh-flexi-cap-fund-among-8-equity-mutual-funds-that-received-over-rs-2000-crore-inflows-in-july/slideshow/133181115.cms",
-          "pubDate": "2026-08-12T16:53:38+05:30"
+          "title": "Apollo Hospitals Q1 Results: Net profit jumps 38% YoY to Rs 610 crore; revenue rises 21%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/apollo-hospitals-q1-results-net-profit-jumps-38-yoy-to-rs-610-crore-revenue-rises-21/articleshow/133187109.cms",
+          "pubDate": "2026-08-12T21:13:31+05:30"
         },
         {
-          "title": "Embassy Office REIT to enter Nifty 500, only investment trust in Nifty Midcap 150",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/embassy-office-parks-reit-to-enter-nifty-500-become-only-investment-trust-in-nifty-midcap-150/articleshow/133180478.cms",
-          "pubDate": "2026-08-12T16:36:32+05:30"
+          "title": "Pilani Investment to sell 1.7 million UltraTech Cement shares for ₹1,908 crore",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pilani-investment-to-sell-1-7-million-ultratech-cement-shares-for-1908-crore/articleshow/133185360.cms",
+          "pubDate": "2026-08-12T19:43:26+05:30"
         },
         {
-          "title": "Lenskart Q1 Results: Profit zooms 182% YoY to Rs 228 crore; revenue up 34%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lenskart-q1-results-profit-zooms-182-yoy-to-rs-228-crore-revenue-up-34/articleshow/133179868.cms",
-          "pubDate": "2026-08-12T16:24:17+05:30"
+          "title": "Sebi lowers stress testing limit for commodity derivatives",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/sebi-lowers-stress-testing-limit-for-commodity-derivatives/articleshow/133185205.cms",
+          "pubDate": "2026-08-12T19:32:16+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -702,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-12T16:31:47.695847+00:00",
+      "updated_at": "2026-08-12T17:37:16.933795+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -783,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-12T16:31:47.863231+00:00",
+      "updated_at": "2026-08-12T17:37:17.433191+00:00",
       "items": [
+        {
+          "title": "BofA to acquire up to 49.9% stake in Jio Credit for  ₹18,268 crore",
+          "link": "https://www.livemint.com/market/stock-market-news/bofa-to-acquire-up-to-49-9-stake-in-jio-credit-for-rs-18-268-crore-11786554406036.html",
+          "pubDate": "2026-08-12T22:47:55+05:30"
+        },
         {
           "title": "IRCTC Q1 Results: Revenue rises 18%, profit remains largely flat at  ₹330 crore",
           "link": "https://www.livemint.com/market/stock-market-news/irctc-q1-results-revenue-rises-18-profit-remains-largely-flat-at-rs-330-crore-11786550554016.html",
@@ -929,17 +945,12 @@
           "title": "Molbio Diagnostics IPO Day 3: Issue subscribed 17.37 times so far. Here's GMP, size, &amp; other details - Apply or not?",
           "link": "https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-day-3-issue-subscribed-4-39-times-so-far-heres-gmp-size-other-details-apply-or-not-11786510555543.html",
           "pubDate": "2026-08-12T10:51:02+05:30"
-        },
-        {
-          "title": "Vodafone Idea share price jumps 6% in a weak market; is it the right time to buy the telecom stock?",
-          "link": "https://www.livemint.com/market/stock-market-news/vodafone-idea-share-price-jumps-6-in-a-weak-market-is-it-the-right-time-to-buy-the-telecom-stock-11786510580312.html",
-          "pubDate": "2026-08-12T10:34:32+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-12T16:31:48.042137+00:00",
+      "updated_at": "2026-08-12T17:37:18.639552+00:00",
       "items": [
         {
           "title": "GIFT City commodity trading proposal under govt review: IFSCA chief",
@@ -1095,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-12T16:31:49.078353+00:00",
+      "updated_at": "2026-08-12T17:37:19.640434+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 13, 2026",

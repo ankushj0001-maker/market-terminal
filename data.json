@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T20:21:57.221790+00:00",
+  "generated_at": "2026-08-12T21:08:49.815516+00:00",
   "indices": {
     "nifty50": {
       "price": 24435.95,
@@ -68,7 +68,7 @@
         24435.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-12T20:21:55.254572+00:00"
+      "updated_at": "2026-08-12T21:08:46.767148+00:00"
     },
     "sensex": {
       "price": 77966.35,
@@ -137,7 +137,7 @@
         77966.3515625
       ],
       "ok": true,
-      "updated_at": "2026-08-12T20:21:55.332173+00:00"
+      "updated_at": "2026-08-12T21:08:46.923004+00:00"
     },
     "banknifty": {
       "price": 57885.85,
@@ -206,7 +206,7 @@
         57885.8515625
       ],
       "ok": true,
-      "updated_at": "2026-08-12T20:21:55.418793+00:00"
+      "updated_at": "2026-08-12T21:08:47.067625+00:00"
     },
     "vix": {
       "price": 11.69,
@@ -275,7 +275,7 @@
         11.6899995803833
       ],
       "ok": true,
-      "updated_at": "2026-08-12T20:21:55.496279+00:00"
+      "updated_at": "2026-08-12T21:08:47.314359+00:00"
     },
     "usdinr": {
       "price": 95.32,
@@ -344,22 +344,13 @@
         95.31999969482422
       ],
       "ok": true,
-      "updated_at": "2026-08-12T20:21:55.557599+00:00"
+      "updated_at": "2026-08-12T21:08:47.493855+00:00"
     },
     "gold": {
-      "price": 4470.5,
-      "change": 29.4,
-      "pct": 0.662,
+      "price": 4468.6,
+      "change": 27.5,
+      "pct": 0.6192,
       "closes": [
-        4486.5,
-        4481.2998046875,
-        4478.60009765625,
-        4480.5,
-        4477.10009765625,
-        4475.0,
-        4475.7998046875,
-        4480.39990234375,
-        4480.10009765625,
         4479.2001953125,
         4482.89990234375,
         4484.89990234375,
@@ -410,25 +401,25 @@
         4471.2998046875,
         4470.7001953125,
         4469.2998046875,
-        4470.5
+        4467.0,
+        4467.7998046875,
+        4467.7998046875,
+        4466.7998046875,
+        4468.10009765625,
+        4468.10009765625,
+        4468.39990234375,
+        4467.60009765625,
+        4468.60009765625,
+        4468.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-12T20:21:55.679307+00:00"
+      "updated_at": "2026-08-12T21:08:47.692909+00:00"
     },
     "crude": {
-      "price": 82.81,
-      "change": -0.39,
-      "pct": -0.4688,
+      "price": 82.62,
+      "change": -0.58,
+      "pct": -0.6971,
       "closes": [
-        83.08000183105469,
-        83.12000274658203,
-        83.30999755859375,
-        83.16999816894531,
-        83.26000213623047,
-        83.31999969482422,
-        83.43000030517578,
-        83.30999755859375,
-        83.12999725341797,
         83.31999969482422,
         83.0199966430664,
         83.19000244140625,
@@ -454,7 +445,7 @@
         83.12999725341797,
         82.94999694824219,
         82.83999633789062,
-        82.87999725341797,
+        82.88999938964844,
         82.94000244140625,
         82.98999786376953,
         83.37000274658203,
@@ -479,10 +470,19 @@
         82.91999816894531,
         82.8499984741211,
         82.87999725341797,
-        82.80999755859375
+        82.87000274658203,
+        82.83999633789062,
+        82.87999725341797,
+        82.83999633789062,
+        82.58999633789062,
+        82.62000274658203,
+        82.61000061035156,
+        82.5999984741211,
+        82.5999984741211,
+        82.62000274658203
       ],
       "ok": true,
-      "updated_at": "2026-08-12T20:21:55.777918+00:00"
+      "updated_at": "2026-08-12T21:08:47.851303+00:00"
     },
     "us10y": {
       "price": 4.682,
@@ -551,14 +551,19 @@
         4.682000160217285
       ],
       "ok": true,
-      "updated_at": "2026-08-12T20:21:55.884319+00:00"
+      "updated_at": "2026-08-12T21:08:48.044534+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-12T20:21:55.943870+00:00",
+      "updated_at": "2026-08-12T21:08:48.256253+00:00",
       "items": [
+        {
+          "title": "US stocks: S&amp;P 500 ends higher as CoreWeave results fuel AI optimism",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-ends-higher-as-coreweave-results-fuel-ai-optimism/articleshow/133192806.cms",
+          "pubDate": "2026-08-13T01:38:14+05:30"
+        },
         {
           "title": "Nebius shares soar 22% as AI demand powers revenue beat",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nebius-shares-soar-22-as-ai-demand-powers-revenue-beat/articleshow/133188174.cms",
@@ -583,11 +588,6 @@
           "title": "Pilani Investment to sell 1.7 million UltraTech Cement shares for ₹1,908 crore",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/pilani-investment-to-sell-1-7-million-ultratech-cement-shares-for-1908-crore/articleshow/133185360.cms",
           "pubDate": "2026-08-12T19:43:26+05:30"
-        },
-        {
-          "title": "Sebi lowers stress testing limit for commodity derivatives",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/sebi-lowers-stress-testing-limit-for-commodity-derivatives/articleshow/133185205.cms",
-          "pubDate": "2026-08-12T19:32:16+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-12T20:21:56.554920+00:00",
+      "updated_at": "2026-08-12T21:08:48.658829+00:00",
       "items": [
+        {
+          "title": "US Sells 10-Year Debt at Highest Yields Since Financial Crisis",
+          "link": "https://www.livemint.com/market/us-sells-10-year-debt-at-highest-yields-since-financial-crisis-11786566124472.html",
+          "pubDate": "2026-08-13T01:52:03+05:30"
+        },
         {
           "title": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand",
           "link": "https://www.livemint.com/market/oil-prices-edge-up-as-investors-weigh-us-iran-talks-deadlock-against-lower-demand-11786561800055.html",
@@ -940,17 +945,12 @@
           "title": "Sensex, Nifty 50 extend losses for second consecutive session; 5 key factors behind stock market downtrend explained",
           "link": "https://www.livemint.com/market/stock-market-news/sensex-crashes-600-points-nifty-near-24-250-investors-lose-3-lakh-crore-key-factors-behind-market-selloff-explained-11786516924623.html",
           "pubDate": "2026-08-12T12:27:30+05:30"
-        },
-        {
-          "title": "Gold, silver rates to USD vs INR: Commodity heatmap amid soaring crude oil prices",
-          "link": "https://www.livemint.com/market/commodities/gold-silver-rates-to-usd-vs-inr-commodity-heatmap-amid-soaring-crude-oil-prices-11786512599576.html",
-          "pubDate": "2026-08-12T12:23:26+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-12T20:21:56.735884+00:00",
+      "updated_at": "2026-08-12T21:08:48.967811+00:00",
       "items": [
         {
           "title": "GIFT City commodity trading proposal under govt review: IFSCA chief",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-12T20:21:57.221773+00:00",
+      "updated_at": "2026-08-12T21:08:49.815499+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 13, 2026",

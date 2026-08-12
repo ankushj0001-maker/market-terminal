@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T23:21:51.987876+00:00",
+  "generated_at": "2026-08-12T00:04:00.037040+00:00",
   "indices": {
     "nifty50": {
       "price": 24471.7,
@@ -68,7 +68,7 @@
         24471.69921875
       ],
       "ok": true,
-      "updated_at": "2026-08-11T23:21:49.059005+00:00"
+      "updated_at": "2026-08-12T00:03:58.441535+00:00"
     },
     "sensex": {
       "price": 78154.25,
@@ -137,7 +137,7 @@
         78154.25
       ],
       "ok": true,
-      "updated_at": "2026-08-11T23:21:49.128088+00:00"
+      "updated_at": "2026-08-12T00:03:58.479880+00:00"
     },
     "banknifty": {
       "price": 57446.25,
@@ -206,7 +206,7 @@
         57446.25
       ],
       "ok": true,
-      "updated_at": "2026-08-11T23:21:49.276771+00:00"
+      "updated_at": "2026-08-12T00:03:58.530658+00:00"
     },
     "vix": {
       "price": 11.855,
@@ -275,7 +275,7 @@
         11.854999542236328
       ],
       "ok": true,
-      "updated_at": "2026-08-11T23:21:49.582388+00:00"
+      "updated_at": "2026-08-12T00:03:58.576907+00:00"
     },
     "usdinr": {
       "price": 95.425,
@@ -283,24 +283,17 @@
       "pct": 0.0,
       "closes": [
         95.42500305175781,
+        95.42500305175781,
         95.42500305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-11T23:21:49.686936+00:00"
+      "updated_at": "2026-08-12T00:03:58.618269+00:00"
     },
     "gold": {
-      "price": 4425.7,
-      "change": -15.4,
-      "pct": -0.3468,
+      "price": 4427.7,
+      "change": -13.4,
+      "pct": -0.3017,
       "closes": [
-        4440.10009765625,
-        4440.7998046875,
-        4436.10009765625,
-        4436.2001953125,
-        4435.7001953125,
-        4436.0,
-        4432.2998046875,
-        4428.2998046875,
         4424.7001953125,
         4420.7001953125,
         4423.10009765625,
@@ -352,24 +345,24 @@
         4423.7001953125,
         4423.60009765625,
         4425.39990234375,
-        4425.7001953125
+        4429.5,
+        4431.2001953125,
+        4431.60009765625,
+        4427.60009765625,
+        4426.7001953125,
+        4426.7001953125,
+        4428.2001953125,
+        4427.60009765625,
+        4427.7001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-11T23:21:50.012378+00:00"
+      "updated_at": "2026-08-12T00:03:58.693809+00:00"
     },
     "crude": {
-      "price": 83.51,
-      "change": 0.31,
-      "pct": 0.3726,
+      "price": 83.44,
+      "change": 0.24,
+      "pct": 0.2885,
       "closes": [
-        83.22000122070312,
-        83.26000213623047,
-        83.16000366210938,
-        83.12999725341797,
-        83.1500015258789,
-        83.13999938964844,
-        83.25,
-        83.29000091552734,
         83.13999938964844,
         83.1500015258789,
         83.02999877929688,
@@ -421,10 +414,18 @@
         83.4800033569336,
         83.48999786376953,
         83.5199966430664,
-        83.51000213623047
+        83.4800033569336,
+        83.51000213623047,
+        83.51000213623047,
+        83.47000122070312,
+        83.48999786376953,
+        83.5,
+        83.45999908447266,
+        83.44000244140625,
+        83.44000244140625
       ],
       "ok": true,
-      "updated_at": "2026-08-11T23:21:50.123196+00:00"
+      "updated_at": "2026-08-12T00:03:58.787892+00:00"
     },
     "us10y": {
       "price": 4.684,
@@ -493,13 +494,13 @@
         4.684000015258789
       ],
       "ok": true,
-      "updated_at": "2026-08-11T23:21:50.237559+00:00"
+      "updated_at": "2026-08-12T00:03:58.840321+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-11T23:21:50.458963+00:00",
+      "updated_at": "2026-08-12T00:03:58.971030+00:00",
       "items": [
         {
           "title": "US stocks: US market ends down as Iran peace deal optimism fades",
@@ -736,8 +737,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-11T23:21:50.782325+00:00",
+      "updated_at": "2026-08-12T00:03:59.129062+00:00",
       "items": [
+        {
+          "title": "Global Investors Favor Taiwan Over Korea Stocks After AI Selloff",
+          "link": "https://www.livemint.com/market/global-investors-favor-taiwan-over-korea-stocks-after-ai-selloff-11786490631027.html",
+          "pubDate": "2026-08-12T04:53:50+05:30"
+        },
         {
           "title": "Yen Inches Toward 160 Per Dollar, Raising Intervention Concerns",
           "link": "https://www.livemint.com/market/yen-inches-toward-160-per-dollar-raising-intervention-concerns-11786486001765.html",
@@ -882,17 +888,12 @@
           "title": "QIP fundraising hits one-year high, Adani firms dominate",
           "link": "https://www.livemint.com/market/stock-market-news/qip-fundraising-india-deal-pipeline-stock-markets-listed-companies-adani-enterprises-11786427137710.html",
           "pubDate": "2026-08-11T12:23:58+05:30"
-        },
-        {
-          "title": "Nifty Rejig: BSE to enter Nifty 50, Wipro moves to Nifty Next 50; Hitachi Energy, Polycab join Nifty 100",
-          "link": "https://www.livemint.com/market/stock-market-news/nifty-rejig-bse-to-enter-nifty-50-wipro-moves-to-nifty-next-50-hitachi-energy-polycab-join-nifty-100-11786428654633.html",
-          "pubDate": "2026-08-11T12:00:51+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-11T23:21:51.044499+00:00",
+      "updated_at": "2026-08-12T00:03:59.283602+00:00",
       "items": [
         {
           "title": "CAS may cause near-term drag in index-options trading: Bernstein",
@@ -1048,7 +1049,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-11T23:21:51.987859+00:00",
+      "updated_at": "2026-08-12T00:04:00.037022+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 12, 2026",

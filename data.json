@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T12:06:18.336974+00:00",
+  "generated_at": "2026-08-13T13:40:57.015125+00:00",
   "indices": {
     "nifty50": {
       "price": 24395.85,
@@ -46,7 +46,7 @@
         24383.80078125,
         24377.349609375,
         24385.349609375,
-        24394.150390625,
+        24394.19921875,
         24378.150390625,
         24359.0,
         24356.05078125,
@@ -54,11 +54,11 @@
         24372.80078125,
         24371.650390625,
         24361.099609375,
-        24365.400390625,
-        24359.849609375,
+        24365.25,
+        24359.94921875,
         24352.25,
         24351.900390625,
-        24344.44921875,
+        24344.30078125,
         24356.94921875,
         24347.75,
         24352.69921875,
@@ -68,7 +68,7 @@
         24395.849609375
       ],
       "ok": true,
-      "updated_at": "2026-08-13T12:06:15.701508+00:00"
+      "updated_at": "2026-08-13T13:40:54.005251+00:00"
     },
     "sensex": {
       "price": 78079.96,
@@ -137,7 +137,7 @@
         78079.9609375
       ],
       "ok": true,
-      "updated_at": "2026-08-13T12:06:15.801001+00:00"
+      "updated_at": "2026-08-13T13:40:54.208077+00:00"
     },
     "banknifty": {
       "price": 57635.25,
@@ -188,7 +188,7 @@
         57627.1015625,
         57589.19921875,
         57583.30078125,
-        57585.3515625,
+        57585.94921875,
         57608.75,
         57613.3984375,
         57600.1015625,
@@ -206,7 +206,7 @@
         57635.25
       ],
       "ok": true,
-      "updated_at": "2026-08-13T12:06:15.901774+00:00"
+      "updated_at": "2026-08-13T13:40:54.346038+00:00"
     },
     "vix": {
       "price": 11.417,
@@ -275,14 +275,13 @@
         11.417499542236328
       ],
       "ok": true,
-      "updated_at": "2026-08-13T12:06:15.998860+00:00"
+      "updated_at": "2026-08-13T13:40:54.478401+00:00"
     },
     "usdinr": {
       "price": 95.43,
       "change": 0.11,
       "pct": 0.1154,
       "closes": [
-        95.3550033569336,
         95.3550033569336,
         95.3550033569336,
         95.35250091552734,
@@ -341,36 +340,18 @@
         95.43000030517578,
         95.43000030517578,
         95.43000030517578,
+        95.43000030517578,
         95.43000030517578
       ],
       "ok": true,
-      "updated_at": "2026-08-13T12:06:16.099176+00:00"
+      "updated_at": "2026-08-13T13:40:54.614373+00:00"
     },
     "gold": {
-      "price": 4441.0,
-      "change": -26.5,
-      "pct": -0.5932,
+      "price": 4445.3,
+      "change": -22.2,
+      "pct": -0.4969,
       "closes": [
-        4435.10009765625,
-        4433.2998046875,
-        4430.7001953125,
-        4432.89990234375,
-        4433.10009765625,
         4430.0,
-        4431.0,
-        4435.39990234375,
-        4428.2998046875,
-        4429.2001953125,
-        4426.39990234375,
-        4423.89990234375,
-        4422.2998046875,
-        4422.60009765625,
-        4421.7998046875,
-        4426.60009765625,
-        4429.2001953125,
-        4431.10009765625,
-        4430.10009765625,
-        4429.89990234375,
         4435.0,
         4432.2998046875,
         4432.39990234375,
@@ -410,43 +391,43 @@
         4441.39990234375,
         4441.2001953125,
         4444.39990234375,
-        4441.0
+        4443.7998046875,
+        4448.10009765625,
+        4446.0,
+        4443.10009765625,
+        4442.39990234375,
+        4447.7998046875,
+        4448.39990234375,
+        4446.7998046875,
+        4449.2001953125,
+        4451.39990234375,
+        4451.5,
+        4458.7998046875,
+        4450.7001953125,
+        4450.60009765625,
+        4450.39990234375,
+        4448.89990234375,
+        4444.89990234375,
+        4441.7001953125,
+        4435.2998046875,
+        4445.2998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-13T12:06:16.201767+00:00"
+      "updated_at": "2026-08-13T13:40:54.755687+00:00"
     },
     "crude": {
-      "price": 81.59,
-      "change": -1.68,
-      "pct": -2.0175,
+      "price": 80.89,
+      "change": -2.38,
+      "pct": -2.8582,
       "closes": [
-        82.77999877929688,
-        82.94000244140625,
-        82.95999908447266,
-        82.77999877929688,
-        82.5999984741211,
-        82.19999694824219,
-        82.11000061035156,
-        81.87000274658203,
-        82.12999725341797,
-        82.0,
-        82.20999908447266,
-        82.23999786376953,
-        82.18000030517578,
-        82.13999938964844,
-        82.16999816894531,
-        82.08999633789062,
-        82.08999633789062,
-        81.7300033569336,
-        81.80999755859375,
         81.8499984741211,
         81.80000305175781,
         81.79000091552734,
-        81.80999755859375,
+        81.83000183105469,
         81.5999984741211,
         81.73999786376953,
         81.33999633789062,
-        81.51000213623047,
+        81.5199966430664,
         81.55000305175781,
         81.7300033569336,
         81.70999908447266,
@@ -479,85 +460,58 @@
         81.62000274658203,
         81.52999877929688,
         81.5999984741211,
-        81.58999633789062
+        81.47000122070312,
+        81.19000244140625,
+        81.5199966430664,
+        81.52999877929688,
+        81.55999755859375,
+        81.5,
+        81.30000305175781,
+        81.22000122070312,
+        81.2699966430664,
+        81.33000183105469,
+        81.26000213623047,
+        81.22000122070312,
+        81.27999877929688,
+        80.91000366210938,
+        80.91000366210938,
+        81.05999755859375,
+        80.93000030517578,
+        81.04000091552734,
+        81.05000305175781,
+        80.88999938964844
       ],
       "ok": true,
-      "updated_at": "2026-08-13T12:06:16.307620+00:00"
+      "updated_at": "2026-08-13T13:40:54.892798+00:00"
     },
     "us10y": {
-      "price": 4.682,
-      "change": -0.002,
-      "pct": -0.0427,
+      "price": 4.641,
+      "change": -0.041,
+      "pct": -0.8757,
       "closes": [
+        4.671999931335449,
+        4.671999931335449,
+        4.668000221252441,
+        4.6610002517700195,
         4.664000034332275,
-        4.671999931335449,
-        4.668000221252441,
-        4.668000221252441,
-        4.661999702453613,
-        4.665999889373779,
-        4.668000221252441,
-        4.668000221252441,
-        4.665999889373779,
-        4.668000221252441,
-        4.674000263214111,
-        4.675999641418457,
-        4.677999973297119,
-        4.674000263214111,
-        4.671999931335449,
-        4.670000076293945,
-        4.668000221252441,
-        4.668000221252441,
-        4.670000076293945,
-        4.671999931335449,
-        4.670000076293945,
-        4.670000076293945,
-        4.668000221252441,
-        4.668000221252441,
-        4.668000221252441,
-        4.670000076293945,
-        4.671999931335449,
-        4.670000076293945,
-        4.670000076293945,
-        4.668000221252441,
-        4.670000076293945,
-        4.670000076293945,
-        4.671999931335449,
-        4.675999641418457,
-        4.675999641418457,
-        4.674000263214111,
-        4.671999931335449,
-        4.668000221252441,
-        4.668000221252441,
-        4.668000221252441,
-        4.665999889373779,
-        4.668000221252441,
-        4.668000221252441,
-        4.671999931335449,
-        4.674000263214111,
-        4.675999641418457,
-        4.677999973297119,
-        4.684000015258789,
-        4.679999828338623,
-        4.679999828338623,
-        4.679999828338623,
-        4.679999828338623,
-        4.679999828338623,
-        4.685999870300293,
-        4.688000202178955,
-        4.685999870300293,
-        4.685999870300293,
-        4.684000015258789,
-        4.684000015258789,
-        4.682000160217285
+        4.658999919891357,
+        4.6610002517700195,
+        4.6610002517700195,
+        4.6529998779296875,
+        4.64900016784668,
+        4.644999980926514,
+        4.640999794006348,
+        4.640999794006348,
+        4.640999794006348
       ],
       "ok": true,
-      "updated_at": "2026-08-13T12:06:16.414921+00:00"
+      "updated_at": "2026-08-13T13:40:55.070688+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-13T12:06:16.535226+00:00",
+      "updated_at": "2026-08-13T13:40:55.243268+00:00",
       "items": [
         {
           "title": "UBS upgrades MCX rating to Buy with Rs 3,800 target price: Can it boost the stock?",
@@ -713,7 +667,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-13T12:06:16.940001+00:00",
+      "updated_at": "2026-08-13T13:40:55.705748+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +748,28 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-13T12:06:17.088394+00:00",
+      "updated_at": "2026-08-13T13:40:55.982713+00:00",
       "items": [
+        {
+          "title": "HAL shares rally 45% since April. Is the stock still attractive after Q1 earnings?",
+          "link": "https://www.livemint.com/market/stock-market-news/hal-shares-rally-45-since-april-is-the-stock-still-attractive-after-q1-earnings-11786626525631.html",
+          "pubDate": "2026-08-13T18:51:12+05:30"
+        },
+        {
+          "title": "Sebi proposes easier accreditation, wider pool of accredited investors",
+          "link": "https://www.livemint.com/market/sebi-proposes-easier-accreditation-wider-pool-of-accredited-investors-11786621551015.html",
+          "pubDate": "2026-08-13T18:36:11+05:30"
+        },
+        {
+          "title": "Semiconductor and spacetech boom: Is India entering a new deep-tech investment cycle?",
+          "link": "https://www.livemint.com/market/stock-market-news/semiconductor-and-spacetech-boom-is-india-entering-a-new-deep-tech-investment-cycle-11786619836223.html",
+          "pubDate": "2026-08-13T17:55:50+05:30"
+        },
+        {
+          "title": "SpaceX shares gain 35% after lock-up expiry, climb back above IPO price",
+          "link": "https://www.livemint.com/market/spacex-shares-gain-35-after-lock-up-expiry-climb-back-above-ipo-price-11786621043001.html",
+          "pubDate": "2026-08-13T17:49:59+05:30"
+        },
         {
           "title": "After a Q1 high, Hindustan Aeronautics eyes growth wings from Tejas",
           "link": "https://www.livemint.com/market/hindustan-aeronautics-q1-earnings-growth-tejas-aircraft-aviation-defence-fleet-modernization-11786610011198.html",
@@ -925,189 +899,179 @@
           "title": "Behari Lal Engineering IPO Day 2: Issue booked 4.38x so far. Check GMP, review, key dates. Apply or not?",
           "link": "https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-gmp-behari-lal-engineering-ipo-review-behari-lal-engineering-ipo-subscription-status-11786594047857.html",
           "pubDate": "2026-08-13T10:07:29+05:30"
-        },
-        {
-          "title": "LAPL Automotive SME IPO listing: Shares debut at a 44% premium despite weak stock market sentiment",
-          "link": "https://www.livemint.com/market/ipo/lapl-automotive-sme-ipo-listing-shares-debut-at-a-44-premium-despite-weak-stock-market-sentiment-11786594982873.html",
-          "pubDate": "2026-08-13T10:02:06+05:30"
-        },
-        {
-          "title": "Dhoot Transmission IPO allotment date likely today. GMP, how to check status online",
-          "link": "https://www.livemint.com/market/ipo/dhoot-transmission-ipo-allotment-date-likely-today-gmp-how-to-check-allotment-status-online-11786592152191.html",
-          "pubDate": "2026-08-13T09:52:25+05:30"
-        },
-        {
-          "title": "Shiprocket IPO Day 2: Issue fully subscribed on second day. Check GMP, review &amp; other key details - Apply or not?",
-          "link": "https://www.livemint.com/market/ipo/shiprocket-ipo-day-2-issue-subscribed-97-so-far-check-gmp-review-other-key-details-apply-or-not-11786590834946.html",
-          "pubDate": "2026-08-13T09:10:45+05:30"
-        },
-        {
-          "title": "Gold and silver trade lacklustre on MCX despite soft US inflation data; elevated dollar, bond yields weigh",
-          "link": "https://www.livemint.com/market/commodities/gold-and-silver-prices-today-rates-lacklustre-on-mcx-despite-soft-us-inflation-data-elevated-dollar-bond-yields-weigh-11786591359947.html",
-          "pubDate": "2026-08-13T09:07:02+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-13T12:06:17.236558+00:00",
+      "updated_at": "2026-08-13T13:40:56.184794+00:00",
       "items": [
         {
-          "title": "Sensex gains, Nifty slides as broader market outperforms",
-          "link": "https://www.business-standard.com/markets/capital-market-news/sensex-gains-nifty-slides-as-broader-market-outperforms-126081301359_1.html",
-          "pubDate": "2026-08-13T17:04:11+05:30"
+          "title": "Nearly one in three MF equity folios now in smallcap, midcap funds",
+          "link": "https://www.business-standard.com/markets/news/nearly-one-in-three-mf-equity-folios-now-in-smallcap-midcap-funds-126081301735_1.html",
+          "pubDate": "2026-08-13T19:02:07+05:30"
         },
         {
-          "title": "Quick Wrap: Nifty Metal Index declines 1.05%",
-          "link": "https://www.business-standard.com/markets/capital-market-news/quick-wrap-nifty-metal-index-declines-1-05-126081301358_1.html",
-          "pubDate": "2026-08-13T17:04:02+05:30"
+          "title": "INR weighed down by weak investor sentiments; Falling oil prices limit losses",
+          "link": "https://www.business-standard.com/markets/capital-market-news/inr-weighed-down-by-weak-investor-sentiments-falling-oil-prices-limit-losses-126081301652_1.html",
+          "pubDate": "2026-08-13T18:16:02+05:30"
         },
         {
-          "title": "Nifty August futures trade at a premium",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-august-futures-trade-at-a-premium-126081301305_1.html",
-          "pubDate": "2026-08-13T16:32:51+05:30"
+          "title": "Milky Mist Dairy Food IPO subscribed 56.12 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/milky-mist-dairy-food-ipo-subscribed-56-12-times-126081301622_1.html",
+          "pubDate": "2026-08-13T18:04:10+05:30"
         },
         {
-          "title": "IDream Film Infrastructure Company reports consolidated net profit of Rs 1.47 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/idream-film-infrastructure-company-reports-consolidated-net-profit-of-rs-1-47-crore-in-the-june-2026-quarter-126081301304_1.html",
-          "pubDate": "2026-08-13T16:32:43+05:30"
+          "title": "Milky Mist Dairy Food IPO subscribed 56.12 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/milky-mist-dairy-food-ipo-subscribed-56-12-times-126081301621_1.html",
+          "pubDate": "2026-08-13T18:04:08+05:30"
         },
         {
-          "title": "Bemco Hydraulics consolidated net profit rises 88.89% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/bemco-hydraulics-consolidated-net-profit-rises-88-89-in-the-june-2026-quarter-126081301303_1.html",
-          "pubDate": "2026-08-13T16:32:35+05:30"
+          "title": "Tata Motors PV Q1 PAT tumbles 80% YoY to Rs 775 cr",
+          "link": "https://www.business-standard.com/markets/capital-market-news/tata-motors-pv-q1-pat-tumbles-80-yoy-to-rs-775-cr-126081301619_1.html",
+          "pubDate": "2026-08-13T18:04:01+05:30"
         },
         {
-          "title": "ACS Technologies consolidated net profit rises 422.67% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/acs-technologies-consolidated-net-profit-rises-422-67-in-the-june-2026-quarter-126081301302_1.html",
-          "pubDate": "2026-08-13T16:32:29+05:30"
+          "title": "Chemicals, Telecom & Networking, Textiles and Solar PV are key sectors for India to become global manufacturing hub",
+          "link": "https://www.business-standard.com/markets/capital-market-news/chemicals-telecom-networking-textiles-and-solar-pv-are-key-sectors-for-india-to-become-global-manufacturing-hub-126081301603_1.html",
+          "pubDate": "2026-08-13T18:02:59+05:30"
         },
         {
-          "title": "Dai-ichi Karkaria consolidated net profit rises 14550.00% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/dai-ichi-karkaria-consolidated-net-profit-rises-14550-00-in-the-june-2026-quarter-126081301301_1.html",
-          "pubDate": "2026-08-13T16:32:22+05:30"
+          "title": "India's crude oil demand to surge 7% in 2027",
+          "link": "https://www.business-standard.com/markets/capital-market-news/india-s-crude-oil-demand-to-surge-7-in-2027-126081301602_1.html",
+          "pubDate": "2026-08-13T18:02:52+05:30"
         },
         {
-          "title": "Bhartiya International consolidated net profit rises 218.28% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/bhartiya-international-consolidated-net-profit-rises-218-28-in-the-june-2026-quarter-126081301300_1.html",
-          "pubDate": "2026-08-13T16:32:15+05:30"
+          "title": "City Pulse Multiventures consolidated net profit declines 38.18% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/city-pulse-multiventures-consolidated-net-profit-declines-38-18-in-the-june-2026-quarter-126081301600_1.html",
+          "pubDate": "2026-08-13T18:02:41+05:30"
         },
         {
-          "title": "Lords Mark Industries reports consolidated net profit of Rs 33.18 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/lords-mark-industries-reports-consolidated-net-profit-of-rs-33-18-crore-in-the-june-2026-quarter-126081301299_1.html",
-          "pubDate": "2026-08-13T16:32:07+05:30"
+          "title": "Aartech Solonics consolidated net profit rises 63.54% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/aartech-solonics-consolidated-net-profit-rises-63-54-in-the-june-2026-quarter-126081301599_1.html",
+          "pubDate": "2026-08-13T18:02:34+05:30"
         },
         {
-          "title": "Jay Shree Tea & Industries reports consolidated net loss of Rs 5.94 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/jay-shree-tea-industries-reports-consolidated-net-loss-of-rs-5-94-crore-in-the-june-2026-quarter-126081301297_1.html",
-          "pubDate": "2026-08-13T16:31:59+05:30"
+          "title": "Hazoor Multi Projects consolidated net profit declines 97.82% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/hazoor-multi-projects-consolidated-net-profit-declines-97-82-in-the-june-2026-quarter-126081301598_1.html",
+          "pubDate": "2026-08-13T18:02:26+05:30"
         },
         {
-          "title": "Kaizen Agro Infrabuild standalone net profit declines 44.44% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/kaizen-agro-infrabuild-standalone-net-profit-declines-44-44-in-the-june-2026-quarter-126081301296_1.html",
-          "pubDate": "2026-08-13T16:31:52+05:30"
+          "title": "3B Blackbio DX consolidated net profit declines 24.31% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/3b-blackbio-dx-consolidated-net-profit-declines-24-31-in-the-june-2026-quarter-126081301597_1.html",
+          "pubDate": "2026-08-13T18:02:19+05:30"
         },
         {
-          "title": "Suryaamba Spinning Mills reports standalone net loss of Rs 0.55 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/suryaamba-spinning-mills-reports-standalone-net-loss-of-rs-0-55-crore-in-the-june-2026-quarter-126081301295_1.html",
-          "pubDate": "2026-08-13T16:31:44+05:30"
+          "title": "Trinity League India reports consolidated net loss of Rs 0.06 crore in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/trinity-league-india-reports-consolidated-net-loss-of-rs-0-06-crore-in-the-june-2026-quarter-126081301596_1.html",
+          "pubDate": "2026-08-13T18:02:12+05:30"
         },
         {
-          "title": "Creative Eye reports standalone net loss of Rs 0.10 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/creative-eye-reports-standalone-net-loss-of-rs-0-10-crore-in-the-june-2026-quarter-126081301294_1.html",
-          "pubDate": "2026-08-13T16:31:37+05:30"
+          "title": "Keynote Financial Services consolidated net profit declines 7.80% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/keynote-financial-services-consolidated-net-profit-declines-7-80-in-the-june-2026-quarter-126081301595_1.html",
+          "pubDate": "2026-08-13T18:02:04+05:30"
         },
         {
-          "title": "Sam Industries standalone net profit declines 71.60% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/sam-industries-standalone-net-profit-declines-71-60-in-the-june-2026-quarter-126081301293_1.html",
-          "pubDate": "2026-08-13T16:31:30+05:30"
+          "title": "Diamond Power Infrastructure consolidated net profit rises 256.19% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/diamond-power-infrastructure-consolidated-net-profit-rises-256-19-in-the-june-2026-quarter-126081301590_1.html",
+          "pubDate": "2026-08-13T18:01:57+05:30"
         },
         {
-          "title": "Choksi Laboratories standalone net profit rises 48.72% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/choksi-laboratories-standalone-net-profit-rises-48-72-in-the-june-2026-quarter-126081301292_1.html",
-          "pubDate": "2026-08-13T16:31:23+05:30"
+          "title": "Madhav Marbles and Granites reports consolidated net loss of Rs 0.80 crore in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/madhav-marbles-and-granites-reports-consolidated-net-loss-of-rs-0-80-crore-in-the-june-2026-quarter-126081301589_1.html",
+          "pubDate": "2026-08-13T18:01:49+05:30"
         },
         {
-          "title": "Satani Bearings reports standalone net loss of Rs 0.21 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/satani-bearings-reports-standalone-net-loss-of-rs-0-21-crore-in-the-june-2026-quarter-126081301291_1.html",
-          "pubDate": "2026-08-13T16:31:16+05:30"
+          "title": "Welspun Living consolidated net profit rises 83.59% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/welspun-living-consolidated-net-profit-rises-83-59-in-the-june-2026-quarter-126081301588_1.html",
+          "pubDate": "2026-08-13T18:01:41+05:30"
         },
         {
-          "title": "Hercules Investments reports standalone net profit of Rs 0.12 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/hercules-investments-reports-standalone-net-profit-of-rs-0-12-crore-in-the-june-2026-quarter-126081301289_1.html",
-          "pubDate": "2026-08-13T16:31:08+05:30"
+          "title": "Tomorrow Technologies Global Innovations consolidated net profit rises 77.78% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/tomorrow-technologies-global-innovations-consolidated-net-profit-rises-77-78-in-the-june-2026-quarter-126081301587_1.html",
+          "pubDate": "2026-08-13T18:01:34+05:30"
         },
         {
-          "title": "Nirav Commercials reports standalone net profit of Rs 0.11 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nirav-commercials-reports-standalone-net-profit-of-rs-0-11-crore-in-the-june-2026-quarter-126081301288_1.html",
-          "pubDate": "2026-08-13T16:31:01+05:30"
+          "title": "Weizmann consolidated net profit rises 18.33% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/weizmann-consolidated-net-profit-rises-18-33-in-the-june-2026-quarter-126081301586_1.html",
+          "pubDate": "2026-08-13T18:01:27+05:30"
         },
         {
-          "title": "Benchmarks end sideways; metal shares tumble",
-          "link": "https://www.business-standard.com/markets/capital-market-news/benchmarks-end-sideways-metal-shares-tumble-126081301243_1.html",
-          "pubDate": "2026-08-13T16:04:09+05:30"
+          "title": "Tata Motors Passenger Vehicles consolidated net profit declines 80.25% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/tata-motors-passenger-vehicles-consolidated-net-profit-declines-80-25-in-the-june-2026-quarter-126081301585_1.html",
+          "pubDate": "2026-08-13T18:01:19+05:30"
         },
         {
-          "title": "Saatvik Green Energy subsidiary bags Rs 476-cr order from Vikran Engineering",
-          "link": "https://www.business-standard.com/markets/capital-market-news/saatvik-green-energy-subsidiary-bags-rs-476-cr-order-from-vikran-engineering-126081301242_1.html",
-          "pubDate": "2026-08-13T16:04:01+05:30"
+          "title": "Bharat Ekansh reports standalone net profit of Rs 0.02 crore in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/bharat-ekansh-reports-standalone-net-profit-of-rs-0-02-crore-in-the-june-2026-quarter-126081301584_1.html",
+          "pubDate": "2026-08-13T18:01:12+05:30"
         },
         {
-          "title": "Board of Zuari Industries approves acquisition of stake in Texmaco Infrastructure & Holdings and Zuari Agro Chemicals",
-          "link": "https://www.business-standard.com/markets/capital-market-news/board-of-zuari-industries-approves-acquisition-of-stake-in-texmaco-infrastructure-holdings-and-zuari-agro-chemicals-126081301231_1.html",
-          "pubDate": "2026-08-13T15:58:15+05:30"
+          "title": "Khazanchi Jewellers standalone net profit rises 83.70% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/khazanchi-jewellers-standalone-net-profit-rises-83-70-in-the-june-2026-quarter-126081301583_1.html",
+          "pubDate": "2026-08-13T18:01:05+05:30"
         },
         {
-          "title": "Paisalo Digital signs co-lending MoU with FatakPay",
-          "link": "https://www.business-standard.com/markets/capital-market-news/paisalo-digital-signs-co-lending-mou-with-fatakpay-126081301230_1.html",
-          "pubDate": "2026-08-13T15:58:08+05:30"
+          "title": "Robust Hotels standalone net profit rises 51.86% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/robust-hotels-standalone-net-profit-rises-51-86-in-the-june-2026-quarter-126081301582_1.html",
+          "pubDate": "2026-08-13T18:00:57+05:30"
         },
         {
-          "title": "Wanbury receives ESQM approval for new product Rivaroxaban API",
-          "link": "https://www.business-standard.com/markets/capital-market-news/wanbury-receives-esqm-approval-for-new-product-rivaroxaban-api-126081301229_1.html",
-          "pubDate": "2026-08-13T15:58:01+05:30"
+          "title": "N E Electronics reports standalone net loss of Rs 0.01 crore in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/n-e-electronics-reports-standalone-net-loss-of-rs-0-01-crore-in-the-june-2026-quarter-126081301581_1.html",
+          "pubDate": "2026-08-13T18:00:50+05:30"
         },
         {
-          "title": "Aveer Foods standalone net profit rises 11.32% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/aveer-foods-standalone-net-profit-rises-11-32-in-the-june-2026-quarter-126081301227_1.html",
-          "pubDate": "2026-08-13T15:57:29+05:30"
+          "title": "Basant India reports standalone net profit of Rs 0.10 crore in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/basant-india-reports-standalone-net-profit-of-rs-0-10-crore-in-the-june-2026-quarter-126081301580_1.html",
+          "pubDate": "2026-08-13T18:00:43+05:30"
         },
         {
-          "title": "A B Infrabuild standalone net profit rises 4.30% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/a-b-infrabuild-standalone-net-profit-rises-4-30-in-the-june-2026-quarter-126081301226_1.html",
-          "pubDate": "2026-08-13T15:57:22+05:30"
+          "title": "Jagadishwar Pharmaceutical Works reports standalone net profit of Rs 0.06 crore in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/jagadishwar-pharmaceutical-works-reports-standalone-net-profit-of-rs-0-06-crore-in-the-june-2026-quarter-126081301579_1.html",
+          "pubDate": "2026-08-13T18:00:35+05:30"
         },
         {
-          "title": "Vantage Knowledge Academy standalone net profit declines 76.19% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/vantage-knowledge-academy-standalone-net-profit-declines-76-19-in-the-june-2026-quarter-126081301225_1.html",
-          "pubDate": "2026-08-13T15:57:15+05:30"
+          "title": "Impala Industrial Enterprises standalone net profit rises 25.00% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/impala-industrial-enterprises-standalone-net-profit-rises-25-00-in-the-june-2026-quarter-126081301578_1.html",
+          "pubDate": "2026-08-13T18:00:28+05:30"
         },
         {
-          "title": "Impex Ferro Tech reports standalone net loss of Rs 1.77 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/impex-ferro-tech-reports-standalone-net-loss-of-rs-1-77-crore-in-the-june-2026-quarter-126081301224_1.html",
-          "pubDate": "2026-08-13T15:57:08+05:30"
+          "title": "Laffan Software reports standalone net loss of Rs 0.02 crore in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/laffan-software-reports-standalone-net-loss-of-rs-0-02-crore-in-the-june-2026-quarter-126081301577_1.html",
+          "pubDate": "2026-08-13T18:00:20+05:30"
         },
         {
-          "title": "TCFC Finance standalone net profit rises 137.93% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/tcfc-finance-standalone-net-profit-rises-137-93-in-the-june-2026-quarter-126081301223_1.html",
-          "pubDate": "2026-08-13T15:56:59+05:30"
+          "title": "Logic Infotech reports standalone net loss of Rs 0.02 crore in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/logic-infotech-reports-standalone-net-loss-of-rs-0-02-crore-in-the-june-2026-quarter-126081301576_1.html",
+          "pubDate": "2026-08-13T18:00:13+05:30"
         },
         {
-          "title": "MPS Pharmaa reports standalone net loss of Rs 0.24 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/mps-pharmaa-reports-standalone-net-loss-of-rs-0-24-crore-in-the-june-2026-quarter-126081301222_1.html",
-          "pubDate": "2026-08-13T15:56:52+05:30"
+          "title": "Agarwal Duplex Board Mills standalone net profit rises 44.44% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/agarwal-duplex-board-mills-standalone-net-profit-rises-44-44-in-the-june-2026-quarter-126081301574_1.html",
+          "pubDate": "2026-08-13T18:00:03+05:30"
         },
         {
-          "title": "Krishna Ventures reports standalone net loss of Rs 0.05 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/krishna-ventures-reports-standalone-net-loss-of-rs-0-05-crore-in-the-june-2026-quarter-126081301221_1.html",
-          "pubDate": "2026-08-13T15:56:45+05:30"
+          "title": "Manomay Tex India standalone net profit rises 11.24% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/manomay-tex-india-standalone-net-profit-rises-11-24-in-the-june-2026-quarter-126081301570_1.html",
+          "pubDate": "2026-08-13T17:59:54+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-13T12:06:18.336956+00:00",
+      "updated_at": "2026-08-13T13:40:57.015109+00:00",
       "items": [
+        {
+          "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 14, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63364",
+          "pubDate": "2026-08-13T19:05:00+00:00"
+        },
+        {
+          "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2019-20 Series III due on August 14, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63363",
+          "pubDate": "2026-08-13T17:55:00+00:00"
+        },
         {
           "title": "RBI imposes monetary penalty on Valuefin India Credit Services Private Limited",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63362",
@@ -1147,16 +1111,6 @@
           "title": "RBI invites comments on the Draft “Reserve Bank of India (Interest Rates on Loans and Advances) Directions, 2026”",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63355",
           "pubDate": "2026-08-12T17:00:00+00:00"
-        },
-        {
-          "title": "Scheduled Banks’ Statement of Position in India as on July 31, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63354",
-          "pubDate": "2026-08-12T16:15:00+00:00"
-        },
-        {
-          "title": "Treasury Bills: Full Auction Result",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63353",
-          "pubDate": "2026-08-12T13:50:00+00:00"
         }
       ]
     }

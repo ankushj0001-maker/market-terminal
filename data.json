@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T15:36:09.088143+00:00",
+  "generated_at": "2026-08-13T16:31:17.125657+00:00",
   "indices": {
     "nifty50": {
       "price": 24395.85,
@@ -68,7 +68,7 @@
         24395.849609375
       ],
       "ok": true,
-      "updated_at": "2026-08-13T15:36:06.357620+00:00"
+      "updated_at": "2026-08-13T16:31:14.887435+00:00"
     },
     "sensex": {
       "price": 78079.96,
@@ -137,7 +137,7 @@
         78079.9609375
       ],
       "ok": true,
-      "updated_at": "2026-08-13T15:36:06.464806+00:00"
+      "updated_at": "2026-08-13T16:31:15.189249+00:00"
     },
     "banknifty": {
       "price": 57635.25,
@@ -206,7 +206,7 @@
         57635.25
       ],
       "ok": true,
-      "updated_at": "2026-08-13T15:36:06.577705+00:00"
+      "updated_at": "2026-08-13T16:31:15.236657+00:00"
     },
     "vix": {
       "price": 11.417,
@@ -275,15 +275,13 @@
         11.417499542236328
       ],
       "ok": true,
-      "updated_at": "2026-08-13T15:36:06.704730+00:00"
+      "updated_at": "2026-08-13T16:31:15.288332+00:00"
     },
     "usdinr": {
       "price": 95.43,
       "change": 0.11,
       "pct": 0.1154,
       "closes": [
-        95.35250091552734,
-        95.35749816894531,
         95.36000061035156,
         95.36250305175781,
         95.3499984741211,
@@ -341,27 +339,18 @@
         95.43000030517578,
         95.43000030517578,
         95.43000030517578,
+        95.43000030517578,
+        95.43000030517578,
         95.43000030517578
       ],
       "ok": true,
-      "updated_at": "2026-08-13T15:36:06.824050+00:00"
+      "updated_at": "2026-08-13T16:31:15.340973+00:00"
     },
     "gold": {
-      "price": 4426.3,
-      "change": -41.2,
-      "pct": -0.9222,
+      "price": 4412.4,
+      "change": -55.1,
+      "pct": -1.2334,
       "closes": [
-        4446.2998046875,
-        4448.2998046875,
-        4448.0,
-        4450.2998046875,
-        4449.89990234375,
-        4447.0,
-        4448.5,
-        4452.0,
-        4450.89990234375,
-        4450.0,
-        4445.39990234375,
         4445.89990234375,
         4445.7998046875,
         4441.2001953125,
@@ -410,27 +399,27 @@
         4424.60009765625,
         4428.2001953125,
         4421.7998046875,
-        4426.2998046875
+        4417.2001953125,
+        4425.60009765625,
+        4425.10009765625,
+        4426.0,
+        4422.60009765625,
+        4422.39990234375,
+        4420.7001953125,
+        4415.7998046875,
+        4412.5,
+        4408.5,
+        4414.7001953125,
+        4412.39990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-13T15:36:06.946577+00:00"
+      "updated_at": "2026-08-13T16:31:15.424149+00:00"
     },
     "crude": {
-      "price": 82.45,
-      "change": -0.82,
-      "pct": -0.9847,
+      "price": 82.34,
+      "change": -0.93,
+      "pct": -1.1168,
       "closes": [
-        81.4800033569336,
-        81.48999786376953,
-        81.41000366210938,
-        81.56999969482422,
-        81.44999694824219,
-        81.5199966430664,
-        81.41000366210938,
-        81.44000244140625,
-        81.44000244140625,
-        81.56999969482422,
-        81.58000183105469,
         81.4800033569336,
         81.66999816894531,
         81.61000061035156,
@@ -479,15 +468,26 @@
         82.16999816894531,
         82.31999969482422,
         82.61000061035156,
-        82.44999694824219
+        82.52999877929688,
+        82.12999725341797,
+        82.36000061035156,
+        82.44999694824219,
+        82.5199966430664,
+        82.56999969482422,
+        82.63999938964844,
+        82.44999694824219,
+        82.54000091552734,
+        82.43000030517578,
+        82.27999877929688,
+        82.33999633789062
       ],
       "ok": true,
-      "updated_at": "2026-08-13T15:36:07.129310+00:00"
+      "updated_at": "2026-08-13T16:31:15.477432+00:00"
     },
     "us10y": {
-      "price": 4.635,
-      "change": -0.047,
-      "pct": -1.0038,
+      "price": 4.645,
+      "change": -0.037,
+      "pct": -0.7903,
       "closes": [
         4.671999931335449,
         4.671999931335449,
@@ -525,17 +525,28 @@
         4.63100004196167,
         4.63700008392334,
         4.63700008392334,
+        4.634999752044678,
+        4.64300012588501,
+        4.64300012588501,
         4.63700008392334,
-        4.634999752044678
+        4.638999938964844,
+        4.640999794006348,
+        4.64300012588501,
+        4.64300012588501,
+        4.64300012588501,
+        4.640999794006348,
+        4.644999980926514,
+        4.644999980926514,
+        4.644999980926514
       ],
       "ok": true,
-      "updated_at": "2026-08-13T15:36:07.234390+00:00"
+      "updated_at": "2026-08-13T16:31:15.525577+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-13T15:36:07.420457+00:00",
+      "updated_at": "2026-08-13T16:31:15.620391+00:00",
       "items": [
         {
           "title": "Birkenstock raises revenue forecast on strong demand, shares jump 18%",
@@ -690,7 +701,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-13T15:36:07.832535+00:00",
       "items": [
         {
@@ -772,8 +783,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-13T15:36:08.035521+00:00",
+      "updated_at": "2026-08-13T16:31:16.477274+00:00",
       "items": [
+        {
+          "title": "FPIs lead the exit as anchor investors after IPO lock-ins end: Sebi study",
+          "link": "https://www.livemint.com/market/fpis-lead-the-exit-as-anchor-investors-after-ipo-lock-ins-end-sebi-study-11786629154971.html",
+          "pubDate": "2026-08-13T21:54:48+05:30"
+        },
+        {
+          "title": "Multibagger Mercury EV-Tech stock to be in focus on Friday after June quarter results",
+          "link": "https://www.livemint.com/market/stock-market-news/multibagger-mercury-ev-tech-stock-to-be-in-focus-on-friday-after-june-quarter-results-11786637575044.html",
+          "pubDate": "2026-08-13T21:54:18+05:30"
+        },
         {
           "title": "Birkenstock shares pop 20% to 3-week high after strong fiscal Q3; company raises annual revenue forecast",
           "link": "https://www.livemint.com/market/stock-market-news/birkenstock-shares-pop-20-to-3-week-high-after-strong-fiscal-q3-company-raises-annual-revenue-forecast-11786631963714.html",
@@ -913,23 +934,18 @@
           "title": "Newly-listed stock Waterways Leisure Tourism declares record date for 1:10 stock split; details here",
           "link": "https://www.livemint.com/market/stock-market-news/newlylisted-stock-waterways-leisure-tourism-declares-record-date-for-1-10-stock-split-details-here-11786596685490.html",
           "pubDate": "2026-08-13T10:45:08+05:30"
-        },
-        {
-          "title": "Tour, travel stock under  ₹200 jumps 7% despite weak trends in Indian stock market; here's why",
-          "link": "https://www.livemint.com/market/stock-market-news/tour-travel-stock-under-200-mach-travel-solutions-jumps-7-despite-weak-trends-in-indian-stock-market-11786596213529.html",
-          "pubDate": "2026-08-13T10:32:49+05:30"
-        },
-        {
-          "title": "Bank of Korea Makes First Gold-Linked Investment in 13 Years",
-          "link": "https://www.livemint.com/market/bank-of-korea-makes-first-gold-linked-investment-in-13-years-11786597081671.html",
-          "pubDate": "2026-08-13T10:28:01+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-13T15:36:08.241112+00:00",
+      "updated_at": "2026-08-13T16:31:16.612897+00:00",
       "items": [
+        {
+          "title": "Indian Hotels, Tata Steel among key picks in Tata group for Jefferies",
+          "link": "https://www.business-standard.com/markets/news/indian-hotels-tata-steel-among-key-picks-in-tata-group-for-jefferies-126081301871_1.html",
+          "pubDate": "2026-08-13T21:39:04+05:30"
+        },
         {
           "title": "DCW plans to expand its Synthetic Iron Oxide Pigment capacity by 50%",
           "link": "https://www.business-standard.com/markets/capital-market-news/dcw-plans-to-expand-its-synthetic-iron-oxide-pigment-capacity-by-50-126081301860_1.html",
@@ -1074,17 +1090,12 @@
           "title": "Jagadishwar Pharmaceutical Works reports standalone net profit of Rs 0.06 crore in the June 2026 quarter",
           "link": "https://www.business-standard.com/markets/capital-market-news/jagadishwar-pharmaceutical-works-reports-standalone-net-profit-of-rs-0-06-crore-in-the-june-2026-quarter-126081301579_1.html",
           "pubDate": "2026-08-13T18:00:35+05:30"
-        },
-        {
-          "title": "Impala Industrial Enterprises standalone net profit rises 25.00% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/impala-industrial-enterprises-standalone-net-profit-rises-25-00-in-the-june-2026-quarter-126081301578_1.html",
-          "pubDate": "2026-08-13T18:00:28+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-13T15:36:09.088125+00:00",
+      "updated_at": "2026-08-13T16:31:17.125640+00:00",
       "items": [
         {
           "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 14, 2026",

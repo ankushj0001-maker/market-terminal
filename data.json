@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T13:40:57.015125+00:00",
+  "generated_at": "2026-08-13T14:41:26.561668+00:00",
   "indices": {
     "nifty50": {
       "price": 24395.85,
@@ -46,7 +46,7 @@
         24383.80078125,
         24377.349609375,
         24385.349609375,
-        24394.19921875,
+        24394.150390625,
         24378.150390625,
         24359.0,
         24356.05078125,
@@ -54,11 +54,11 @@
         24372.80078125,
         24371.650390625,
         24361.099609375,
-        24365.25,
-        24359.94921875,
+        24365.400390625,
+        24359.849609375,
         24352.25,
         24351.900390625,
-        24344.30078125,
+        24344.44921875,
         24356.94921875,
         24347.75,
         24352.69921875,
@@ -68,7 +68,7 @@
         24395.849609375
       ],
       "ok": true,
-      "updated_at": "2026-08-13T13:40:54.005251+00:00"
+      "updated_at": "2026-08-13T14:41:23.902597+00:00"
     },
     "sensex": {
       "price": 78079.96,
@@ -137,7 +137,7 @@
         78079.9609375
       ],
       "ok": true,
-      "updated_at": "2026-08-13T13:40:54.208077+00:00"
+      "updated_at": "2026-08-13T14:41:24.045215+00:00"
     },
     "banknifty": {
       "price": 57635.25,
@@ -188,7 +188,7 @@
         57627.1015625,
         57589.19921875,
         57583.30078125,
-        57585.94921875,
+        57585.3515625,
         57608.75,
         57613.3984375,
         57600.1015625,
@@ -206,7 +206,7 @@
         57635.25
       ],
       "ok": true,
-      "updated_at": "2026-08-13T13:40:54.346038+00:00"
+      "updated_at": "2026-08-13T14:41:24.109271+00:00"
     },
     "vix": {
       "price": 11.417,
@@ -275,14 +275,13 @@
         11.417499542236328
       ],
       "ok": true,
-      "updated_at": "2026-08-13T13:40:54.478401+00:00"
+      "updated_at": "2026-08-13T14:41:24.188089+00:00"
     },
     "usdinr": {
       "price": 95.43,
       "change": 0.11,
       "pct": 0.1154,
       "closes": [
-        95.3550033569336,
         95.3550033569336,
         95.35250091552734,
         95.35749816894531,
@@ -341,28 +340,17 @@
         95.43000030517578,
         95.43000030517578,
         95.43000030517578,
+        95.43000030517578,
         95.43000030517578
       ],
       "ok": true,
-      "updated_at": "2026-08-13T13:40:54.614373+00:00"
+      "updated_at": "2026-08-13T14:41:24.268526+00:00"
     },
     "gold": {
-      "price": 4445.3,
-      "change": -22.2,
-      "pct": -0.4969,
+      "price": 4425.9,
+      "change": -41.6,
+      "pct": -0.9312,
       "closes": [
-        4430.0,
-        4435.0,
-        4432.2998046875,
-        4432.39990234375,
-        4430.2998046875,
-        4433.0,
-        4433.39990234375,
-        4436.89990234375,
-        4435.0,
-        4436.39990234375,
-        4437.7001953125,
-        4437.60009765625,
         4436.7998046875,
         4436.60009765625,
         4437.39990234375,
@@ -410,28 +398,28 @@
         4444.89990234375,
         4441.7001953125,
         4435.2998046875,
-        4445.2998046875
+        4438.7001953125,
+        4435.89990234375,
+        4434.7001953125,
+        4432.7001953125,
+        4429.2001953125,
+        4430.2998046875,
+        4426.39990234375,
+        4428.0,
+        4433.0,
+        4432.2001953125,
+        4425.2998046875,
+        4431.7001953125,
+        4425.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-13T13:40:54.755687+00:00"
+      "updated_at": "2026-08-13T14:41:24.524779+00:00"
     },
     "crude": {
-      "price": 80.89,
-      "change": -2.38,
-      "pct": -2.8582,
+      "price": 80.84,
+      "change": -2.43,
+      "pct": -2.9182,
       "closes": [
-        81.8499984741211,
-        81.80000305175781,
-        81.79000091552734,
-        81.83000183105469,
-        81.5999984741211,
-        81.73999786376953,
-        81.33999633789062,
-        81.5199966430664,
-        81.55000305175781,
-        81.7300033569336,
-        81.70999908447266,
-        81.77999877929688,
         81.80999755859375,
         81.83000183105469,
         81.70999908447266,
@@ -461,33 +449,45 @@
         81.52999877929688,
         81.5999984741211,
         81.47000122070312,
-        81.19000244140625,
+        81.19999694824219,
         81.5199966430664,
         81.52999877929688,
         81.55999755859375,
         81.5,
         81.30000305175781,
-        81.22000122070312,
+        81.20999908447266,
         81.2699966430664,
         81.33000183105469,
         81.26000213623047,
-        81.22000122070312,
+        81.20999908447266,
         81.27999877929688,
         80.91000366210938,
         80.91000366210938,
         81.05999755859375,
-        80.93000030517578,
+        80.94000244140625,
         81.04000091552734,
         81.05000305175781,
-        80.88999938964844
+        81.22000122070312,
+        81.27999877929688,
+        81.0999984741211,
+        80.72000122070312,
+        80.66000366210938,
+        80.37000274658203,
+        80.11000061035156,
+        80.30999755859375,
+        80.3499984741211,
+        80.55999755859375,
+        80.80999755859375,
+        80.86000061035156,
+        80.83999633789062
       ],
       "ok": true,
-      "updated_at": "2026-08-13T13:40:54.892798+00:00"
+      "updated_at": "2026-08-13T14:41:24.586777+00:00"
     },
     "us10y": {
-      "price": 4.641,
-      "change": -0.041,
-      "pct": -0.8757,
+      "price": 4.617,
+      "change": -0.065,
+      "pct": -1.3883,
       "closes": [
         4.671999931335449,
         4.671999931335449,
@@ -502,16 +502,29 @@
         4.644999980926514,
         4.640999794006348,
         4.640999794006348,
-        4.640999794006348
+        4.64300012588501,
+        4.644999980926514,
+        4.640999794006348,
+        4.640999794006348,
+        4.634999752044678,
+        4.633000373840332,
+        4.626999855041504,
+        4.623000144958496,
+        4.616999626159668,
+        4.61299991607666,
+        4.61299991607666,
+        4.616999626159668,
+        4.616999626159668,
+        4.616999626159668
       ],
       "ok": true,
-      "updated_at": "2026-08-13T13:40:55.070688+00:00"
+      "updated_at": "2026-08-13T14:41:25.047286+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-13T13:40:55.243268+00:00",
+      "updated_at": "2026-08-13T14:41:25.150235+00:00",
       "items": [
         {
           "title": "UBS upgrades MCX rating to Buy with Rs 3,800 target price: Can it boost the stock?",
@@ -667,7 +680,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-13T13:40:55.705748+00:00",
+      "updated_at": "2026-08-13T14:41:25.277642+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -748,8 +761,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-13T13:40:55.982713+00:00",
+      "updated_at": "2026-08-13T14:41:25.616489+00:00",
       "items": [
+        {
+          "title": "Wall Street surges as oil prices and wholesale inflation ease",
+          "link": "https://www.livemint.com/market/stock-market-news/wall-street-surges-as-oil-prices-and-wholesale-inflation-ease-11786628295024.html",
+          "pubDate": "2026-08-13T19:41:01+05:30"
+        },
         {
           "title": "HAL shares rally 45% since April. Is the stock still attractive after Q1 earnings?",
           "link": "https://www.livemint.com/market/stock-market-news/hal-shares-rally-45-since-april-is-the-stock-still-attractive-after-q1-earnings-11786626525631.html",
@@ -781,7 +799,7 @@
           "pubDate": "2026-08-13T16:13:33+05:30"
         },
         {
-          "title": "Sensex climbs 100 points, Nifty 50 ends below 24,400; US-Iran uncertainty keep investors cautious",
+          "title": "Sensex climbs 100 points, Nifty 50 ends below 24,400; US-Iran uncertainty keeps investors cautious",
           "link": "https://www.livemint.com/market/stock-market-news/sensex-climbs-100-points-nifty-50-ends-below-24-400-us-iran-uncertainty-keep-investors-cautious-11786615078970.html",
           "pubDate": "2026-08-13T15:36:06+05:30"
         },
@@ -894,22 +912,37 @@
           "title": "Penny stock under  ₹5 jumps 7% despite weak trends on Dalal Street. Do you own?",
           "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-5-jumps-7-despite-weak-trends-on-dalal-street-do-you-own-11786595893809.html",
           "pubDate": "2026-08-13T10:25:48+05:30"
-        },
-        {
-          "title": "Behari Lal Engineering IPO Day 2: Issue booked 4.38x so far. Check GMP, review, key dates. Apply or not?",
-          "link": "https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-gmp-behari-lal-engineering-ipo-review-behari-lal-engineering-ipo-subscription-status-11786594047857.html",
-          "pubDate": "2026-08-13T10:07:29+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-13T13:40:56.184794+00:00",
+      "updated_at": "2026-08-13T14:41:25.795637+00:00",
       "items": [
         {
-          "title": "Nearly one in three MF equity folios now in smallcap, midcap funds",
-          "link": "https://www.business-standard.com/markets/news/nearly-one-in-three-mf-equity-folios-now-in-smallcap-midcap-funds-126081301735_1.html",
-          "pubDate": "2026-08-13T19:02:07+05:30"
+          "title": "DCW plans to expand its Synthetic Iron Oxide Pigment capacity by 50%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/dcw-plans-to-expand-its-synthetic-iron-oxide-pigment-capacity-by-50-126081301860_1.html",
+          "pubDate": "2026-08-13T20:04:11+05:30"
+        },
+        {
+          "title": "TVS Motor Company launches TVS King EV MAX in Sri Lanka",
+          "link": "https://www.business-standard.com/markets/capital-market-news/tvs-motor-company-launches-tvs-king-ev-max-in-sri-lanka-126081301858_1.html",
+          "pubDate": "2026-08-13T20:04:01+05:30"
+        },
+        {
+          "title": "Time Technoplast wins order of Rs 2.48 cr",
+          "link": "https://www.business-standard.com/markets/capital-market-news/time-technoplast-wins-order-of-rs-2-48-cr-126081301832_1.html",
+          "pubDate": "2026-08-13T19:50:18+05:30"
+        },
+        {
+          "title": "Smaller IPOs see sharper anchor investor exits after lock-in periods: Sebi",
+          "link": "https://www.business-standard.com/markets/news/smaller-ipos-see-sharper-anchor-investor-exits-after-lock-in-periods-sebi-126081301818_1.html",
+          "pubDate": "2026-08-13T19:42:06+05:30"
+        },
+        {
+          "title": "Sharper divergence in benchmark index closing levels on Sensex expiry day",
+          "link": "https://www.business-standard.com/markets/news/sharper-divergence-in-benchmark-index-closing-levels-on-sensex-expiry-day-126081301768_1.html",
+          "pubDate": "2026-08-13T19:20:02+05:30"
         },
         {
           "title": "INR weighed down by weak investor sentiments; Falling oil prices limit losses",
@@ -1035,32 +1068,12 @@
           "title": "Impala Industrial Enterprises standalone net profit rises 25.00% in the June 2026 quarter",
           "link": "https://www.business-standard.com/markets/capital-market-news/impala-industrial-enterprises-standalone-net-profit-rises-25-00-in-the-june-2026-quarter-126081301578_1.html",
           "pubDate": "2026-08-13T18:00:28+05:30"
-        },
-        {
-          "title": "Laffan Software reports standalone net loss of Rs 0.02 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/laffan-software-reports-standalone-net-loss-of-rs-0-02-crore-in-the-june-2026-quarter-126081301577_1.html",
-          "pubDate": "2026-08-13T18:00:20+05:30"
-        },
-        {
-          "title": "Logic Infotech reports standalone net loss of Rs 0.02 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/logic-infotech-reports-standalone-net-loss-of-rs-0-02-crore-in-the-june-2026-quarter-126081301576_1.html",
-          "pubDate": "2026-08-13T18:00:13+05:30"
-        },
-        {
-          "title": "Agarwal Duplex Board Mills standalone net profit rises 44.44% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/agarwal-duplex-board-mills-standalone-net-profit-rises-44-44-in-the-june-2026-quarter-126081301574_1.html",
-          "pubDate": "2026-08-13T18:00:03+05:30"
-        },
-        {
-          "title": "Manomay Tex India standalone net profit rises 11.24% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/manomay-tex-india-standalone-net-profit-rises-11-24-in-the-june-2026-quarter-126081301570_1.html",
-          "pubDate": "2026-08-13T17:59:54+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-13T13:40:57.015109+00:00",
+      "updated_at": "2026-08-13T14:41:26.561650+00:00",
       "items": [
         {
           "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 14, 2026",

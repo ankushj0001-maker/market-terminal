@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T14:41:26.561668+00:00",
+  "generated_at": "2026-08-13T15:36:09.088143+00:00",
   "indices": {
     "nifty50": {
       "price": 24395.85,
@@ -68,7 +68,7 @@
         24395.849609375
       ],
       "ok": true,
-      "updated_at": "2026-08-13T14:41:23.902597+00:00"
+      "updated_at": "2026-08-13T15:36:06.357620+00:00"
     },
     "sensex": {
       "price": 78079.96,
@@ -137,7 +137,7 @@
         78079.9609375
       ],
       "ok": true,
-      "updated_at": "2026-08-13T14:41:24.045215+00:00"
+      "updated_at": "2026-08-13T15:36:06.464806+00:00"
     },
     "banknifty": {
       "price": 57635.25,
@@ -206,7 +206,7 @@
         57635.25
       ],
       "ok": true,
-      "updated_at": "2026-08-13T14:41:24.109271+00:00"
+      "updated_at": "2026-08-13T15:36:06.577705+00:00"
     },
     "vix": {
       "price": 11.417,
@@ -275,14 +275,13 @@
         11.417499542236328
       ],
       "ok": true,
-      "updated_at": "2026-08-13T14:41:24.188089+00:00"
+      "updated_at": "2026-08-13T15:36:06.704730+00:00"
     },
     "usdinr": {
       "price": 95.43,
       "change": 0.11,
       "pct": 0.1154,
       "closes": [
-        95.3550033569336,
         95.35250091552734,
         95.35749816894531,
         95.36000061035156,
@@ -341,27 +340,17 @@
         95.43000030517578,
         95.43000030517578,
         95.43000030517578,
+        95.43000030517578,
         95.43000030517578
       ],
       "ok": true,
-      "updated_at": "2026-08-13T14:41:24.268526+00:00"
+      "updated_at": "2026-08-13T15:36:06.824050+00:00"
     },
     "gold": {
-      "price": 4425.9,
-      "change": -41.6,
-      "pct": -0.9312,
+      "price": 4426.3,
+      "change": -41.2,
+      "pct": -0.9222,
       "closes": [
-        4436.7998046875,
-        4436.60009765625,
-        4437.39990234375,
-        4441.7998046875,
-        4441.7001953125,
-        4441.60009765625,
-        4439.0,
-        4443.10009765625,
-        4442.2001953125,
-        4444.60009765625,
-        4443.10009765625,
         4446.2998046875,
         4448.2998046875,
         4448.0,
@@ -387,50 +376,50 @@
         4447.7998046875,
         4448.39990234375,
         4446.7998046875,
-        4449.2001953125,
+        4448.60009765625,
         4451.39990234375,
         4451.5,
-        4458.7998046875,
+        4458.89990234375,
         4450.7001953125,
         4450.60009765625,
         4450.39990234375,
         4448.89990234375,
-        4444.89990234375,
+        4444.7001953125,
         4441.7001953125,
         4435.2998046875,
         4438.7001953125,
         4435.89990234375,
         4434.7001953125,
         4432.7001953125,
-        4429.2001953125,
+        4429.10009765625,
         4430.2998046875,
         4426.39990234375,
         4428.0,
         4433.0,
-        4432.2001953125,
+        4431.7998046875,
         4425.2998046875,
         4431.7001953125,
-        4425.89990234375
+        4435.10009765625,
+        4438.10009765625,
+        4442.0,
+        4441.2001953125,
+        4440.89990234375,
+        4435.2998046875,
+        4428.2998046875,
+        4426.2001953125,
+        4424.60009765625,
+        4428.2001953125,
+        4421.7998046875,
+        4426.2998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-13T14:41:24.524779+00:00"
+      "updated_at": "2026-08-13T15:36:06.946577+00:00"
     },
     "crude": {
-      "price": 80.84,
-      "change": -2.43,
-      "pct": -2.9182,
+      "price": 82.45,
+      "change": -0.82,
+      "pct": -0.9847,
       "closes": [
-        81.80999755859375,
-        81.83000183105469,
-        81.70999908447266,
-        81.87000274658203,
-        82.01000213623047,
-        82.12999725341797,
-        82.11000061035156,
-        82.02999877929688,
-        81.68000030517578,
-        81.5,
-        81.52999877929688,
         81.4800033569336,
         81.48999786376953,
         81.41000366210938,
@@ -479,15 +468,26 @@
         80.55999755859375,
         80.80999755859375,
         80.86000061035156,
-        80.83999633789062
+        80.91999816894531,
+        80.95999908447266,
+        81.08000183105469,
+        81.19999694824219,
+        81.2300033569336,
+        81.44000244140625,
+        81.48999786376953,
+        82.05999755859375,
+        82.16999816894531,
+        82.31999969482422,
+        82.61000061035156,
+        82.44999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-13T14:41:24.586777+00:00"
+      "updated_at": "2026-08-13T15:36:07.129310+00:00"
     },
     "us10y": {
-      "price": 4.617,
-      "change": -0.065,
-      "pct": -1.3883,
+      "price": 4.635,
+      "change": -0.047,
+      "pct": -1.0038,
       "closes": [
         4.671999931335449,
         4.671999931335449,
@@ -514,47 +514,58 @@
         4.61299991607666,
         4.61299991607666,
         4.616999626159668,
-        4.616999626159668,
-        4.616999626159668
+        4.620999813079834,
+        4.620999813079834,
+        4.620999813079834,
+        4.620999813079834,
+        4.620999813079834,
+        4.623000144958496,
+        4.626999855041504,
+        4.626999855041504,
+        4.63100004196167,
+        4.63700008392334,
+        4.63700008392334,
+        4.63700008392334,
+        4.634999752044678
       ],
       "ok": true,
-      "updated_at": "2026-08-13T14:41:25.047286+00:00"
+      "updated_at": "2026-08-13T15:36:07.234390+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-13T14:41:25.150235+00:00",
+      "updated_at": "2026-08-13T15:36:07.420457+00:00",
       "items": [
         {
-          "title": "UBS upgrades MCX rating to Buy with Rs 3,800 target price: Can it boost the stock?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ubs-upgrades-mcx-rating-to-buy-with-rs-3800-target-price-can-it-boost-the-stock/articleshow/133203886.cms",
-          "pubDate": "2026-08-13T13:07:59+05:30"
+          "title": "Birkenstock raises revenue forecast on strong demand, shares jump 18%",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/birkenstock-raises-revenue-forecast-on-strong-demand-shares-jump-15/articleshow/133215222.cms",
+          "pubDate": "2026-08-13T19:39:37+05:30"
         },
         {
-          "title": "KRN Heat Exchanger shares hit 5% upper circuit as Q1 net profit more than doubles",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/krn-heat-exchanger-shares-hit-5-upper-circuit-as-q1-net-profit-more-than-doubles/articleshow/133203568.cms",
-          "pubDate": "2026-08-13T12:58:25+05:30"
+          "title": "US stocks: Cerebras slumps 18% as mixed quarterly results test AI growth narrative",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-cerebras-slumps-18-as-mixed-quarterly-results-test-ai-growth-narrative/articleshow/133214893.cms",
+          "pubDate": "2026-08-13T19:31:38+05:30"
         },
         {
-          "title": "Lenskart’s Meller sunglasses are Ray-Ban of the future, says Jefferies. Here’s why Wall Street giant is bullish",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/lenskarts-meller-sunglasses-are-ray-ban-of-the-future-says-jefferies-heres-why-wall-street-giant-is-bullish/articleshow/133203250.cms",
-          "pubDate": "2026-08-13T12:44:32+05:30"
+          "title": "LG Electronics India Q1 Results: PAT rises marginally YoY to Rs 653 crore; revenue up 15%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lg-electronics-india-q1-results-pat-rises-marginally-to-rs-653-crore-revenue-up-15/articleshow/133212601.cms",
+          "pubDate": "2026-08-13T18:23:37+05:30"
         },
         {
-          "title": "Paytm management gets Sebi show cause notice over timing of 2023 loan disclosure announcement",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-management-gets-sebi-show-cause-notice-over-timing-of-2023-loan-disclosure-announcement/articleshow/133200481.cms",
-          "pubDate": "2026-08-13T11:48:07+05:30"
+          "title": "Earnings growth to play larger role in determining portfolio returns than valuation re-rating: Nilesh Shah",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/earnings-growth-to-play-larger-role-in-determining-portfolio-returns-than-valuation-re-rating-nilesh-shah/articleshow/133211910.cms",
+          "pubDate": "2026-08-13T17:51:22+05:30"
         },
         {
-          "title": "Astral shares rally 10% following Q1 results; Citi sees target price at Rs 1,900, Nuvama upgrades stock to 'Buy'",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/astral-shares-rally-10-following-q1-results-citi-sees-target-price-at-rs-1900-nuvama-upgrades-stock-to-buy/articleshow/133198037.cms",
-          "pubDate": "2026-08-13T10:16:08+05:30"
+          "title": "Tata Motors PV Q1 Results: Net profit plunges 80% YoY to Rs 775 crore, revenue rises 9%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-pv-q1-results-net-profit-plunges-80-yoy-to-rs-775-crore-revenue-rises-9/articleshow/133208589.cms",
+          "pubDate": "2026-08-13T16:08:27+05:30"
         },
         {
-          "title": "India said to plan easier rules to boost micro-cap listings",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-said-to-plan-easier-rules-to-boost-micro-cap-listings/articleshow/133197081.cms",
-          "pubDate": "2026-08-13T09:19:12+05:30"
+          "title": "Will Bharti Airtel’s ARPU increase after scrapping Rs 299, other popular prepaid plans? What JM Financial says",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-bharti-airtels-arpu-increase-after-scrapping-rs-299-other-popular-prepaid-plans-what-jm-financial-says/articleshow/133199472.cms",
+          "pubDate": "2026-08-13T11:18:21+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -680,7 +691,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-13T14:41:25.277642+00:00",
+      "updated_at": "2026-08-13T15:36:07.832535+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -761,10 +772,15 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-13T14:41:25.616489+00:00",
+      "updated_at": "2026-08-13T15:36:08.035521+00:00",
       "items": [
         {
-          "title": "Wall Street surges as oil prices and wholesale inflation ease",
+          "title": "Birkenstock shares pop 20% to 3-week high after strong fiscal Q3; company raises annual revenue forecast",
+          "link": "https://www.livemint.com/market/stock-market-news/birkenstock-shares-pop-20-to-3-week-high-after-strong-fiscal-q3-company-raises-annual-revenue-forecast-11786631963714.html",
+          "pubDate": "2026-08-13T20:48:04+05:30"
+        },
+        {
+          "title": "Wall Street surges as oil prices and wholesale inflation ease, tech stocks advance",
           "link": "https://www.livemint.com/market/stock-market-news/wall-street-surges-as-oil-prices-and-wholesale-inflation-ease-11786628295024.html",
           "pubDate": "2026-08-13T19:41:01+05:30"
         },
@@ -907,17 +923,12 @@
           "title": "Bank of Korea Makes First Gold-Linked Investment in 13 Years",
           "link": "https://www.livemint.com/market/bank-of-korea-makes-first-gold-linked-investment-in-13-years-11786597081671.html",
           "pubDate": "2026-08-13T10:28:01+05:30"
-        },
-        {
-          "title": "Penny stock under  ₹5 jumps 7% despite weak trends on Dalal Street. Do you own?",
-          "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-5-jumps-7-despite-weak-trends-on-dalal-street-do-you-own-11786595893809.html",
-          "pubDate": "2026-08-13T10:25:48+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-13T14:41:25.795637+00:00",
+      "updated_at": "2026-08-13T15:36:08.241112+00:00",
       "items": [
         {
           "title": "DCW plans to expand its Synthetic Iron Oxide Pigment capacity by 50%",
@@ -937,7 +948,7 @@
         {
           "title": "Smaller IPOs see sharper anchor investor exits after lock-in periods: Sebi",
           "link": "https://www.business-standard.com/markets/news/smaller-ipos-see-sharper-anchor-investor-exits-after-lock-in-periods-sebi-126081301818_1.html",
-          "pubDate": "2026-08-13T19:42:06+05:30"
+          "pubDate": "2026-08-13T19:42:20+05:30"
         },
         {
           "title": "Sharper divergence in benchmark index closing levels on Sensex expiry day",
@@ -1073,7 +1084,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-13T14:41:26.561650+00:00",
+      "updated_at": "2026-08-13T15:36:09.088125+00:00",
       "items": [
         {
           "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 14, 2026",

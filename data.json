@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T18:33:41.868714+00:00",
+  "generated_at": "2026-08-13T19:40:54.842682+00:00",
   "indices": {
     "nifty50": {
       "price": 24395.85,
@@ -46,7 +46,7 @@
         24383.80078125,
         24377.349609375,
         24385.349609375,
-        24394.150390625,
+        24394.19921875,
         24378.150390625,
         24359.0,
         24356.05078125,
@@ -54,11 +54,11 @@
         24372.80078125,
         24371.650390625,
         24361.099609375,
-        24365.400390625,
-        24359.849609375,
+        24365.25,
+        24359.94921875,
         24352.25,
         24351.900390625,
-        24344.44921875,
+        24344.30078125,
         24356.94921875,
         24347.75,
         24352.69921875,
@@ -68,7 +68,7 @@
         24395.849609375
       ],
       "ok": true,
-      "updated_at": "2026-08-13T18:33:40.031085+00:00"
+      "updated_at": "2026-08-13T19:40:52.525751+00:00"
     },
     "sensex": {
       "price": 78079.96,
@@ -137,7 +137,7 @@
         78079.9609375
       ],
       "ok": true,
-      "updated_at": "2026-08-13T18:33:40.082886+00:00"
+      "updated_at": "2026-08-13T19:40:52.579099+00:00"
     },
     "banknifty": {
       "price": 57635.25,
@@ -206,7 +206,7 @@
         57635.25
       ],
       "ok": true,
-      "updated_at": "2026-08-13T18:33:40.174563+00:00"
+      "updated_at": "2026-08-13T19:40:52.644416+00:00"
     },
     "vix": {
       "price": 11.417,
@@ -275,7 +275,7 @@
         11.417499542236328
       ],
       "ok": true,
-      "updated_at": "2026-08-13T18:33:40.228312+00:00"
+      "updated_at": "2026-08-13T19:40:52.725648+00:00"
     },
     "usdinr": {
       "price": 95.44,
@@ -344,29 +344,15 @@
         95.44000244140625
       ],
       "ok": true,
-      "updated_at": "2026-08-13T18:33:40.306417+00:00"
+      "updated_at": "2026-08-13T19:40:52.785370+00:00"
     },
     "gold": {
-      "price": 4417.8,
-      "change": -49.7,
-      "pct": -1.1125,
+      "price": 4408.0,
+      "change": -59.5,
+      "pct": -1.3318,
       "closes": [
-        4435.2998046875,
-        4438.7001953125,
-        4435.89990234375,
-        4434.7001953125,
-        4432.7001953125,
-        4429.10009765625,
-        4430.2998046875,
-        4426.39990234375,
-        4428.0,
-        4433.0,
-        4431.7998046875,
-        4425.2998046875,
-        4431.7001953125,
-        4435.10009765625,
         4438.10009765625,
-        4442.0,
+        4442.2001953125,
         4441.2001953125,
         4440.89990234375,
         4435.2998046875,
@@ -380,17 +366,17 @@
         4425.10009765625,
         4426.0,
         4422.60009765625,
-        4422.39990234375,
+        4422.10009765625,
         4420.7001953125,
-        4415.7998046875,
+        4416.10009765625,
         4412.5,
-        4408.5,
+        4408.39990234375,
         4414.7001953125,
         4419.39990234375,
         4423.10009765625,
         4420.7001953125,
         4422.60009765625,
-        4423.0,
+        4422.89990234375,
         4422.60009765625,
         4424.2001953125,
         4423.7998046875,
@@ -398,7 +384,7 @@
         4428.39990234375,
         4424.7998046875,
         4425.0,
-        4420.0,
+        4420.10009765625,
         4417.60009765625,
         4418.0,
         4413.60009765625,
@@ -408,32 +394,32 @@
         4415.2001953125,
         4416.60009765625,
         4418.7001953125,
-        4420.10009765625,
+        4420.2998046875,
         4414.10009765625,
-        4417.7998046875
+        4414.2998046875,
+        4415.2998046875,
+        4416.2998046875,
+        4414.7001953125,
+        4413.89990234375,
+        4413.7998046875,
+        4413.60009765625,
+        4414.7998046875,
+        4410.0,
+        4403.39990234375,
+        4404.10009765625,
+        4405.39990234375,
+        4407.89990234375,
+        4407.10009765625,
+        4408.0
       ],
       "ok": true,
-      "updated_at": "2026-08-13T18:33:40.356102+00:00"
+      "updated_at": "2026-08-13T19:40:52.896039+00:00"
     },
     "crude": {
-      "price": 81.41,
-      "change": -1.86,
-      "pct": -2.2337,
+      "price": 81.22,
+      "change": -2.05,
+      "pct": -2.4619,
       "closes": [
-        81.05000305175781,
-        81.22000122070312,
-        81.27999877929688,
-        81.0999984741211,
-        80.70999908447266,
-        80.66000366210938,
-        80.37000274658203,
-        80.11000061035156,
-        80.30999755859375,
-        80.3499984741211,
-        80.55999755859375,
-        80.80999755859375,
-        80.86000061035156,
-        80.91999816894531,
         80.95999908447266,
         81.08999633789062,
         81.19999694824219,
@@ -479,23 +465,30 @@
         81.22000122070312,
         81.3499984741211,
         81.45999908447266,
-        81.41000366210938
+        81.16999816894531,
+        81.13999938964844,
+        80.94000244140625,
+        81.0,
+        81.04000091552734,
+        81.16999816894531,
+        81.1500015258789,
+        81.08999633789062,
+        81.08000183105469,
+        81.22000122070312,
+        81.2699966430664,
+        81.22000122070312,
+        81.22000122070312,
+        81.2300033569336,
+        81.22000122070312
       ],
       "ok": true,
-      "updated_at": "2026-08-13T18:33:40.418798+00:00"
+      "updated_at": "2026-08-13T19:40:52.978666+00:00"
     },
     "us10y": {
       "price": 4.641,
       "change": -0.041,
       "pct": -0.8757,
       "closes": [
-        4.64300012588501,
-        4.644999980926514,
-        4.640999794006348,
-        4.640999794006348,
-        4.634999752044678,
-        4.633000373840332,
-        4.626999855041504,
         4.623000144958496,
         4.616999626159668,
         4.61299991607666,
@@ -548,16 +541,23 @@
         4.640999794006348,
         4.63700008392334,
         4.640999794006348,
+        4.640999794006348,
+        4.640999794006348,
+        4.640999794006348,
+        4.634999752044678,
+        4.63700008392334,
+        4.63700008392334,
+        4.63700008392334,
         4.640999794006348
       ],
       "ok": true,
-      "updated_at": "2026-08-13T18:33:40.499984+00:00"
+      "updated_at": "2026-08-13T19:40:53.048551+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-13T18:33:40.598953+00:00",
+      "updated_at": "2026-08-13T19:40:53.727185+00:00",
       "items": [
         {
           "title": "Birkenstock raises revenue forecast on strong demand, shares jump 18%",
@@ -794,8 +794,28 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-13T18:33:40.800319+00:00",
+      "updated_at": "2026-08-13T19:40:53.946633+00:00",
       "items": [
+        {
+          "title": "Dollar mixed after flat PPI, rate hike bets cool",
+          "link": "https://www.livemint.com/market/dollar-mixed-after-flat-ppi-rate-hike-bets-cool-11786648017037.html",
+          "pubDate": "2026-08-14T00:36:56+05:30"
+        },
+        {
+          "title": "Gold retreats on profit-taking after hitting two-month peak following inflation data",
+          "link": "https://www.livemint.com/market/gold-retreats-on-profit-taking-after-hitting-two-month-peak-following-inflation-data-11786647773501.html",
+          "pubDate": "2026-08-14T00:32:53+05:30"
+        },
+        {
+          "title": "BlackRock’s Rieder Says Yen Rebound Hinges on BOJ Hawkishness",
+          "link": "https://www.livemint.com/market/blackrocks-rieder-says-yen-rebound-hinges-on-boj-hawkishness-11786647228236.html",
+          "pubDate": "2026-08-14T00:23:47+05:30"
+        },
+        {
+          "title": "An Influx of Middle Eastern Oil Is Finally Hitting American Shores",
+          "link": "https://www.livemint.com/market/an-influx-of-middle-eastern-oil-is-finally-hitting-american-shores-11786646737926.html",
+          "pubDate": "2026-08-14T00:15:37+05:30"
+        },
         {
           "title": "Sebi proposes colour-coded risk meter for bonds",
           "link": "https://www.livemint.com/market/bonds/sebi-proposes-colour-coded-risk-meter-for-bonds-debt-securities-investment-capital-11786636518803.html",
@@ -925,32 +945,12 @@
           "title": "Multibagger stock jumps over 8% in bear-hit Indian markets",
           "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-jumps-over-8-in-bear-hit-indian-markets-11786601815669.html",
           "pubDate": "2026-08-13T12:16:54+05:30"
-        },
-        {
-          "title": "Small-cap stock under  ₹500 jumps 5% despite muted trend on Dalal Street",
-          "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-500-jaro-institute-jumps-5-despite-muted-trend-on-dalal-street-11786600010179.html",
-          "pubDate": "2026-08-13T12:07:42+05:30"
-        },
-        {
-          "title": "Molbio Diagnostics IPO: Focus shifts to allotment date today. Latest GMP, step-by-step guide to check status",
-          "link": "https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-gmp-molbio-diagnostics-ipo-subscription-molbio-diagnostics-ipo-allotment-date-molbio-diagnostics-11786599105765.html",
-          "pubDate": "2026-08-13T11:58:49+05:30"
-        },
-        {
-          "title": "LEAP India IPO listing on Friday; GMP signals modest listing pop. Details here",
-          "link": "https://www.livemint.com/market/ipo/leap-india-ipo-listing-on-friday-gmp-signals-modest-listing-pop-details-here-11786598955777.html",
-          "pubDate": "2026-08-13T11:39:36+05:30"
-        },
-        {
-          "title": "Milky Mist Dairy Food IPO subscribed over 56 times, GMP hints 16% listing gain. Allotment date in focus",
-          "link": "https://www.livemint.com/market/ipo/milky-mist-dairy-food-ipo-day-3-live-gmp-subscription-status-to-review-apply-or-not-11786595602005.html",
-          "pubDate": "2026-08-13T10:50:08+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-13T18:33:40.909040+00:00",
+      "updated_at": "2026-08-13T19:40:54.050985+00:00",
       "items": [
         {
           "title": "Promoters pare stakes in UltraTech, Thyrocare through block deals",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-13T18:33:41.868695+00:00",
+      "updated_at": "2026-08-13T19:40:54.842666+00:00",
       "items": [
         {
           "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 14, 2026",

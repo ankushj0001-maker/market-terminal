@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T14:35:06.651774+00:00",
+  "generated_at": "2026-08-14T15:26:52.332781+00:00",
   "indices": {
     "nifty50": {
       "price": 24366.0,
@@ -68,7 +68,7 @@
         24366.0
       ],
       "ok": true,
-      "updated_at": "2026-08-14T14:35:04.606787+00:00"
+      "updated_at": "2026-08-14T15:26:50.617595+00:00"
     },
     "sensex": {
       "price": 78009.25,
@@ -137,7 +137,7 @@
         78009.25
       ],
       "ok": true,
-      "updated_at": "2026-08-14T14:35:04.648821+00:00"
+      "updated_at": "2026-08-14T15:26:50.657144+00:00"
     },
     "banknifty": {
       "price": 57491.1,
@@ -206,7 +206,7 @@
         57491.1015625
       ],
       "ok": true,
-      "updated_at": "2026-08-14T14:35:04.690625+00:00"
+      "updated_at": "2026-08-14T15:26:50.700119+00:00"
     },
     "vix": {
       "price": 11.305,
@@ -275,15 +275,13 @@
         11.305000305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-14T14:35:04.734489+00:00"
+      "updated_at": "2026-08-14T15:26:50.737954+00:00"
     },
     "usdinr": {
       "price": 95.415,
       "change": -0.015,
       "pct": -0.0157,
       "closes": [
-        95.38999938964844,
-        95.38249969482422,
         95.38999938964844,
         95.4000015258789,
         95.4000015258789,
@@ -341,27 +339,18 @@
         95.41999816894531,
         95.41500091552734,
         95.41500091552734,
+        95.41500091552734,
+        95.41500091552734,
         95.41500091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-14T14:35:05.010951+00:00"
+      "updated_at": "2026-08-14T15:26:50.896816+00:00"
     },
     "gold": {
-      "price": 4449.3,
-      "change": 28.9,
-      "pct": 0.6538,
+      "price": 4446.8,
+      "change": 26.4,
+      "pct": 0.5972,
       "closes": [
-        4408.7998046875,
-        4408.89990234375,
-        4409.89990234375,
-        4409.89990234375,
-        4410.89990234375,
-        4413.2998046875,
-        4413.39990234375,
-        4412.5,
-        4410.60009765625,
-        4409.5,
-        4410.0,
         4407.2998046875,
         4406.0,
         4405.2001953125,
@@ -383,25 +372,25 @@
         4425.7998046875,
         4430.2001953125,
         4428.2001953125,
-        4428.10009765625,
+        4428.0,
         4428.7001953125,
-        4435.89990234375,
+        4435.7001953125,
         4436.5,
         4438.2001953125,
         4434.7001953125,
         4429.5,
         4431.7001953125,
-        4432.60009765625,
+        4432.5,
         4430.89990234375,
         4435.39990234375,
         4437.0,
         4432.39990234375,
         4438.2998046875,
-        4442.60009765625,
+        4442.5,
         4441.39990234375,
         4448.5,
         4452.89990234375,
-        4451.10009765625,
+        4450.7998046875,
         4444.2998046875,
         4441.5,
         4442.0,
@@ -410,26 +399,27 @@
         4447.7998046875,
         4443.89990234375,
         4449.39990234375,
-        4447.89990234375
+        4447.89990234375,
+        4442.0,
+        4443.2998046875,
+        4441.60009765625,
+        4437.60009765625,
+        4438.7998046875,
+        4438.60009765625,
+        4444.39990234375,
+        4444.0,
+        4449.89990234375,
+        4443.60009765625,
+        4446.7998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-14T14:35:05.082085+00:00"
+      "updated_at": "2026-08-14T15:26:50.968415+00:00"
     },
     "crude": {
-      "price": 81.52,
-      "change": 0.27,
-      "pct": 0.3323,
+      "price": 81.46,
+      "change": 0.21,
+      "pct": 0.2585,
       "closes": [
-        82.4000015258789,
-        82.2699966430664,
-        82.27999877929688,
-        82.08999633789062,
-        82.08999633789062,
-        82.05999755859375,
-        81.86000061035156,
-        81.83000183105469,
-        81.80000305175781,
-        81.76000213623047,
         81.83000183105469,
         81.77999877929688,
         81.68000030517578,
@@ -463,12 +453,12 @@
         81.13999938964844,
         81.29000091552734,
         81.41000366210938,
-        81.41000366210938,
+        81.4000015258789,
         81.41000366210938,
         81.30000305175781,
-        81.27999877929688,
-        81.0199966430664,
-        80.80999755859375,
+        81.29000091552734,
+        81.01000213623047,
+        80.81999969482422,
         80.88999938964844,
         80.9800033569336,
         81.05000305175781,
@@ -479,15 +469,25 @@
         81.43000030517578,
         81.5,
         81.37000274658203,
-        81.5199966430664
+        81.51000213623047,
+        81.55000305175781,
+        81.70999908447266,
+        81.58999633789062,
+        81.7300033569336,
+        81.70999908447266,
+        81.80999755859375,
+        81.72000122070312,
+        81.66999816894531,
+        81.5,
+        81.45999908447266
       ],
       "ok": true,
-      "updated_at": "2026-08-14T14:35:05.141559+00:00"
+      "updated_at": "2026-08-14T15:26:51.082616+00:00"
     },
     "us10y": {
-      "price": 4.664,
-      "change": 0.023,
-      "pct": 0.4956,
+      "price": 4.676,
+      "change": 0.035,
+      "pct": 0.7541,
       "closes": [
         4.644999980926514,
         4.640999794006348,
@@ -513,16 +513,27 @@
         4.6610002517700195,
         4.658999919891357,
         4.661999702453613,
-        4.664000034332275
+        4.664000034332275,
+        4.661999702453613,
+        4.671999931335449,
+        4.670000076293945,
+        4.671999931335449,
+        4.668000221252441,
+        4.668000221252441,
+        4.668000221252441,
+        4.668000221252441,
+        4.675999641418457,
+        4.675999641418457,
+        4.675999641418457
       ],
       "ok": true,
-      "updated_at": "2026-08-14T14:35:05.223699+00:00"
+      "updated_at": "2026-08-14T15:26:51.160061+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-14T14:35:05.358976+00:00",
+      "updated_at": "2026-08-14T15:26:51.247926+00:00",
       "items": [
         {
           "title": "Reddit surges 14% on S&amp;P 500 inclusion, set to replace AvalonBay",
@@ -678,7 +689,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-14T14:35:05.481686+00:00",
+      "updated_at": "2026-08-14T15:26:51.331741+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -759,7 +770,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-14T14:35:05.588624+00:00",
+      "updated_at": "2026-08-14T15:26:51.432700+00:00",
       "items": [
         {
           "title": "Reddit shares jump 15% as social media platform set to join S&amp;P 500",
@@ -772,7 +783,7 @@
           "pubDate": "2026-08-14T19:46:12+05:30"
         },
         {
-          "title": "US stocks mixed after retail sales data, Middle East in focus",
+          "title": "US stocks mixed after weak retail sales data, Reddit jumps 14.7%, Middle East in focus",
           "link": "https://www.livemint.com/market/stock-market-news/us-stocks-mixed-after-retail-sales-data-middle-east-in-focus-11786714853263.html",
           "pubDate": "2026-08-14T19:22:50+05:30"
         },
@@ -902,7 +913,7 @@
           "pubDate": "2026-08-14T09:14:26+05:30"
         },
         {
-          "title": "How institutional and retail investors shifted stakes in Tata stocks under N. Chandrasekaran",
+          "title": "Under Chandrasekaran, as Tata stocks changed, so did their investors",
           "link": "https://www.livemint.com/market/stock-market-news/tata-group-stocks-n-chandrasekaran-11786673809073.html",
           "pubDate": "2026-08-14T09:07:33+05:30"
         },
@@ -915,12 +926,17 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-14T14:35:05.733754+00:00",
+      "updated_at": "2026-08-14T15:26:51.567889+00:00",
       "items": [
+        {
+          "title": "A well-designed regulatory ecosystem can further strengthen service exports and ease of doing business, says NITI Aayog",
+          "link": "https://www.business-standard.com/markets/capital-market-news/a-well-designed-regulatory-ecosystem-can-further-strengthen-service-exports-and-ease-of-doing-business-says-niti-aayog-126081401914_1.html",
+          "pubDate": "2026-08-14T20:31:01+05:30"
+        },
         {
           "title": "Nifty closing gap narrows two weeks after CAS rollout, Sensex stays higher",
           "link": "https://www.business-standard.com/markets/news/nifty-closing-gap-narrows-two-weeks-after-cas-rollout-sensex-stays-higher-126081401828_1.html",
-          "pubDate": "2026-08-14T19:37:58+05:30"
+          "pubDate": "2026-08-14T19:37:02+05:30"
         },
         {
           "title": "Svatantra Microfin files papers with Sebi for ₹3,000 crore public offer",
@@ -1061,18 +1077,18 @@
           "title": "Tarmat consolidated net profit rises 121.74% in the June 2026 quarter",
           "link": "https://www.business-standard.com/markets/capital-market-news/tarmat-consolidated-net-profit-rises-121-74-in-the-june-2026-quarter-126081401639_1.html",
           "pubDate": "2026-08-14T18:14:16+05:30"
-        },
-        {
-          "title": "GVK Power & Infrastructure reports consolidated net loss of Rs 0.55 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/gvk-power-infrastructure-reports-consolidated-net-loss-of-rs-0-55-crore-in-the-june-2026-quarter-126081401637_1.html",
-          "pubDate": "2026-08-14T18:14:08+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-14T14:35:06.651757+00:00",
+      "updated_at": "2026-08-14T15:26:52.332764+00:00",
       "items": [
+        {
+          "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2021-22 Series V due on August 17, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63381",
+          "pubDate": "2026-08-14T20:10:00+00:00"
+        },
         {
           "title": "Auction of State Government Securities",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63380",
@@ -1117,11 +1133,6 @@
           "title": "RBI imposes monetary penalty on Muthoot MCred Limited",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63372",
           "pubDate": "2026-08-14T17:30:00+00:00"
-        },
-        {
-          "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63371",
-          "pubDate": "2026-08-14T17:00:00+00:00"
         }
       ]
     }

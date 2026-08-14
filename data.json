@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T13:35:58.447733+00:00",
+  "generated_at": "2026-08-14T14:35:06.651774+00:00",
   "indices": {
     "nifty50": {
       "price": 24366.0,
@@ -68,7 +68,7 @@
         24366.0
       ],
       "ok": true,
-      "updated_at": "2026-08-14T13:35:56.286799+00:00"
+      "updated_at": "2026-08-14T14:35:04.606787+00:00"
     },
     "sensex": {
       "price": 78009.25,
@@ -137,7 +137,7 @@
         78009.25
       ],
       "ok": true,
-      "updated_at": "2026-08-14T13:35:56.339765+00:00"
+      "updated_at": "2026-08-14T14:35:04.648821+00:00"
     },
     "banknifty": {
       "price": 57491.1,
@@ -206,7 +206,7 @@
         57491.1015625
       ],
       "ok": true,
-      "updated_at": "2026-08-14T13:35:56.385984+00:00"
+      "updated_at": "2026-08-14T14:35:04.690625+00:00"
     },
     "vix": {
       "price": 11.305,
@@ -275,14 +275,13 @@
         11.305000305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-14T13:35:56.435301+00:00"
+      "updated_at": "2026-08-14T14:35:04.734489+00:00"
     },
     "usdinr": {
       "price": 95.415,
       "change": -0.015,
       "pct": -0.0157,
       "closes": [
-        95.3949966430664,
         95.38999938964844,
         95.38249969482422,
         95.38999938964844,
@@ -341,34 +340,24 @@
         95.4229965209961,
         95.41999816894531,
         95.41500091552734,
+        95.41500091552734,
         95.41500091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-14T13:35:56.501809+00:00"
+      "updated_at": "2026-08-14T14:35:05.010951+00:00"
     },
     "gold": {
-      "price": 4443.0,
-      "change": 22.6,
-      "pct": 0.5113,
+      "price": 4449.3,
+      "change": 28.9,
+      "pct": 0.6538,
       "closes": [
-        4404.10009765625,
-        4399.7998046875,
-        4400.5,
-        4402.7998046875,
-        4404.7001953125,
-        4403.89990234375,
-        4405.0,
-        4406.7001953125,
-        4405.2998046875,
-        4408.10009765625,
-        4407.39990234375,
         4408.7998046875,
         4408.89990234375,
         4409.89990234375,
         4409.89990234375,
         4410.89990234375,
-        4413.60009765625,
-        4413.2001953125,
+        4413.2998046875,
+        4413.39990234375,
         4412.5,
         4410.60009765625,
         4409.5,
@@ -394,50 +383,49 @@
         4425.7998046875,
         4430.2001953125,
         4428.2001953125,
-        4428.0,
+        4428.10009765625,
         4428.7001953125,
-        4435.7001953125,
+        4435.89990234375,
         4436.5,
         4438.2001953125,
         4434.7001953125,
         4429.5,
         4431.7001953125,
-        4432.5,
+        4432.60009765625,
         4430.89990234375,
         4435.39990234375,
         4437.0,
         4432.39990234375,
         4438.2998046875,
-        4442.5,
+        4442.60009765625,
         4441.39990234375,
-        4443.0
+        4448.5,
+        4452.89990234375,
+        4451.10009765625,
+        4444.2998046875,
+        4441.5,
+        4442.0,
+        4448.60009765625,
+        4446.5,
+        4447.7998046875,
+        4443.89990234375,
+        4449.39990234375,
+        4447.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-14T13:35:56.559736+00:00"
+      "updated_at": "2026-08-14T14:35:05.082085+00:00"
     },
     "crude": {
-      "price": 81.24,
-      "change": -0.01,
-      "pct": -0.0123,
+      "price": 81.52,
+      "change": 0.27,
+      "pct": 0.3323,
       "closes": [
-        82.27999877929688,
-        82.55000305175781,
-        82.55000305175781,
-        82.52999877929688,
-        82.54000091552734,
-        82.5,
-        82.36000061035156,
-        82.3499984741211,
-        82.33000183105469,
-        82.16000366210938,
-        82.13999938964844,
-        82.26000213623047,
         82.4000015258789,
         82.2699966430664,
         82.27999877929688,
         82.08999633789062,
         82.08999633789062,
-        82.05000305175781,
+        82.05999755859375,
         81.86000061035156,
         81.83000183105469,
         81.80000305175781,
@@ -475,19 +463,31 @@
         81.13999938964844,
         81.29000091552734,
         81.41000366210938,
-        81.4000015258789,
+        81.41000366210938,
         81.41000366210938,
         81.30000305175781,
-        81.29000091552734,
-        81.23999786376953
+        81.27999877929688,
+        81.0199966430664,
+        80.80999755859375,
+        80.88999938964844,
+        80.9800033569336,
+        81.05000305175781,
+        81.16999816894531,
+        81.31999969482422,
+        81.45999908447266,
+        81.22000122070312,
+        81.43000030517578,
+        81.5,
+        81.37000274658203,
+        81.5199966430664
       ],
       "ok": true,
-      "updated_at": "2026-08-14T13:35:56.612626+00:00"
+      "updated_at": "2026-08-14T14:35:05.141559+00:00"
     },
     "us10y": {
-      "price": 4.659,
-      "change": 0.018,
-      "pct": 0.3878,
+      "price": 4.664,
+      "change": 0.023,
+      "pct": 0.4956,
       "closes": [
         4.644999980926514,
         4.640999794006348,
@@ -501,46 +501,58 @@
         4.6529998779296875,
         4.6570000648498535,
         4.658999919891357,
-        4.658999919891357
+        4.6529998779296875,
+        4.6570000648498535,
+        4.6529998779296875,
+        4.6529998779296875,
+        4.64900016784668,
+        4.658999919891357,
+        4.6610002517700195,
+        4.658999919891357,
+        4.6610002517700195,
+        4.6610002517700195,
+        4.658999919891357,
+        4.661999702453613,
+        4.664000034332275
       ],
       "ok": true,
-      "updated_at": "2026-08-14T13:35:56.654692+00:00"
+      "updated_at": "2026-08-14T14:35:05.223699+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-14T13:35:56.742610+00:00",
+      "updated_at": "2026-08-14T14:35:05.358976+00:00",
       "items": [
         {
-          "title": "LEAP India shares fall 12% post-listing, slip below IPO price. What should investors do?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/leap-india-shares-fall-12-post-listing-slip-below-ipo-price-what-should-investors-do/articleshow/133231868.cms",
-          "pubDate": "2026-08-14T12:49:17+05:30"
+          "title": "Reddit surges 14% on S&amp;P 500 inclusion, set to replace AvalonBay",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-reddit-surges-14-on-sp-500-inclusion-set-to-replace-avalonbay/articleshow/133244407.cms",
+          "pubDate": "2026-08-14T19:49:43+05:30"
         },
         {
-          "title": "Zee Entertainment shares rally 8% after SAT grants interim relief in Sebi order",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zee-entertainment-shares-rise-8-after-sat-grants-interim-relief-in-sebi-order/articleshow/133230722.cms",
-          "pubDate": "2026-08-14T12:10:19+05:30"
+          "title": "MCX launches crude sunflower oil futures contract",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/mcx-launches-crude-sunflower-oil-futures-contract/articleshow/133239663.cms",
+          "pubDate": "2026-08-14T16:54:14+05:30"
         },
         {
-          "title": "Manorama Industries shares surge over 8% after strong Q1 results",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/manorama-industries-shares-surge-over-8-after-strong-q1-results/articleshow/133230940.cms",
-          "pubDate": "2026-08-14T12:02:09+05:30"
+          "title": "Pakistan celebrates Independence Day: Here's how its stock market performed in last one year",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pakistan-celebrates-independence-day-heres-how-its-stock-market-performed-in-last-one-year/articleshow/133232943.cms",
+          "pubDate": "2026-08-14T13:36:35+05:30"
         },
         {
-          "title": "Explained: Why Balrampur Chini, Dhampur Sugar, Dalmia Bharat &amp; other sugar stocks are up 12% in 2 days",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-balrampur-chini-dhampur-sugar-dalmia-bharat-other-sugar-stocks-are-up-12-in-2-days/articleshow/133230683.cms",
-          "pubDate": "2026-08-14T11:46:34+05:30"
+          "title": "15 stocks held by 100+ MFs in July surged up to 131%; 3 turned multibaggers in CY26",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/15-stocks-held-by-100-mfs-in-july-surged-up-to-131-3-turned-multibaggers-in-cy26/slideshow/133232865.cms",
+          "pubDate": "2026-08-14T13:18:14+05:30"
         },
         {
-          "title": "Praj Industries shares rally 7% after Q1 profit more than doubles YoY",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/praj-industries-shares-rally-7-after-q1-profit-more-than-doubles-yoy/articleshow/133230447.cms",
-          "pubDate": "2026-08-14T11:35:56+05:30"
+          "title": "Sebi proposes mandatory colour-coded Credit Risk-o-Meter for debt securities",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/sebi-proposes-mandatory-colour-coded-credit-risk-o-meter-for-debt-securities/articleshow/133229827.cms",
+          "pubDate": "2026-08-14T10:54:49+05:30"
         },
         {
-          "title": "Explained: Why Vedanta Aluminium, Hindalco, Nalco shares tumbled up to 7% on Friday",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-vedanta-aluminium-hindalco-nalco-shares-tumbled-up-to-7-on-friday/articleshow/133229710.cms",
-          "pubDate": "2026-08-14T10:49:11+05:30"
+          "title": "Behari Lal Engineering IPO Day 3: Issue subscribed 108 times; GMP at 28%",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/behari-lal-engineering-ipo-day-3-gmp-at-28-subscription-stays-strong-should-you-subscribe/articleshow/133228292.cms",
+          "pubDate": "2026-08-14T09:08:54+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -665,8 +677,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-14T11:24:27.050272+00:00",
+      "ok": true,
+      "updated_at": "2026-08-14T14:35:05.481686+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -747,8 +759,28 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-14T13:35:57.348917+00:00",
+      "updated_at": "2026-08-14T14:35:05.588624+00:00",
       "items": [
+        {
+          "title": "Reddit shares jump 15% as social media platform set to join S&amp;P 500",
+          "link": "https://www.livemint.com/market/stock-market-news/reddit-shares-jump-15-as-social-media-platform-set-to-join-s-p-500-11786715061238.html",
+          "pubDate": "2026-08-14T19:50:25+05:30"
+        },
+        {
+          "title": "Sebi proposes easier digital KYC for Indians living abroad",
+          "link": "https://www.livemint.com/market/sebi-proposes-easier-digital-kyc-for-indians-living-abroad-11786713057692.html",
+          "pubDate": "2026-08-14T19:46:12+05:30"
+        },
+        {
+          "title": "US stocks mixed after retail sales data, Middle East in focus",
+          "link": "https://www.livemint.com/market/stock-market-news/us-stocks-mixed-after-retail-sales-data-middle-east-in-focus-11786714853263.html",
+          "pubDate": "2026-08-14T19:22:50+05:30"
+        },
+        {
+          "title": "Dollar deluge prompts RBI to shut special FCNR scheme early; $52 bn raised so far",
+          "link": "https://www.livemint.com/market/dollar-deluge-prompts-rbi-to-shut-special-fcnr-scheme-early-ecbs-ofcbs-nris-foreign-currency-deposits-11786713510471.html",
+          "pubDate": "2026-08-14T19:14:10+05:30"
+        },
         {
           "title": "Pulse of the Street: Tata jitters, metal rout weigh on Indian equities",
           "link": "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-tata-jitters-metal-rout-weigh-on-indian-equities-11786708624550.html",
@@ -878,33 +910,23 @@
           "title": "Rupee opens 6 paise higher at 95.38 against US dollar",
           "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-6-paise-higher-at-95-38-against-us-dollar-11786678379019.html",
           "pubDate": "2026-08-14T09:04:35+05:30"
-        },
-        {
-          "title": "Skyways Air Services IPO: Price band set at  ₹131- ₹138 per share; check key dates, issue details",
-          "link": "https://www.livemint.com/market/ipo/skyways-air-services-ipo-price-band-set-at-rs-131-rs-138-per-share-check-key-dates-issue-details-11786677095544.html",
-          "pubDate": "2026-08-14T08:50:44+05:30"
-        },
-        {
-          "title": "Nikkei, KOSPI to US stocks: Global equity heatmap you must know before opening bell of the Indian stock market",
-          "link": "https://www.livemint.com/market/stock-market-news/nikkei-kospi-to-us-stocks-global-markets-equity-heatmap-you-must-know-before-opening-bell-of-the-indian-stock-market-11786674649475.html",
-          "pubDate": "2026-08-14T08:46:35+05:30"
-        },
-        {
-          "title": "Stocks to buy for short term: Mazagon Dock among 3 shares Ajit Mishra of Religare Broking recommends for next 1-2 weeks",
-          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-mazagon-dock-among-3-shares-ajit-mishra-of-religare-broking-recommends-for-next-1-2-weeks-11786676589305.html",
-          "pubDate": "2026-08-14T08:42:38+05:30"
-        },
-        {
-          "title": "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 14 August 2026",
-          "link": "https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-14-august-2026-11786638324666.html",
-          "pubDate": "2026-08-14T08:14:16+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-14T13:35:57.401636+00:00",
+      "updated_at": "2026-08-14T14:35:05.733754+00:00",
       "items": [
+        {
+          "title": "Nifty closing gap narrows two weeks after CAS rollout, Sensex stays higher",
+          "link": "https://www.business-standard.com/markets/news/nifty-closing-gap-narrows-two-weeks-after-cas-rollout-sensex-stays-higher-126081401828_1.html",
+          "pubDate": "2026-08-14T19:37:58+05:30"
+        },
+        {
+          "title": "Svatantra Microfin files papers with Sebi for ₹3,000 crore public offer",
+          "link": "https://www.business-standard.com/markets/ipo/svatantra-microfin-files-papers-with-sebi-for-3-000-crore-public-offer-126081401741_1.html",
+          "pubDate": "2026-08-14T18:54:42+05:30"
+        },
         {
           "title": "Solex Energy consolidated net profit declines 66.98% in the June 2026 quarter",
           "link": "https://www.business-standard.com/markets/capital-market-news/solex-energy-consolidated-net-profit-declines-66-98-in-the-june-2026-quarter-126081401678_1.html",
@@ -1044,23 +1066,23 @@
           "title": "GVK Power & Infrastructure reports consolidated net loss of Rs 0.55 crore in the June 2026 quarter",
           "link": "https://www.business-standard.com/markets/capital-market-news/gvk-power-infrastructure-reports-consolidated-net-loss-of-rs-0-55-crore-in-the-june-2026-quarter-126081401637_1.html",
           "pubDate": "2026-08-14T18:14:08+05:30"
-        },
-        {
-          "title": "Puravankara reports consolidated net profit of Rs 28.93 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/puravankara-reports-consolidated-net-profit-of-rs-28-93-crore-in-the-june-2026-quarter-126081401634_1.html",
-          "pubDate": "2026-08-14T18:14:01+05:30"
-        },
-        {
-          "title": "DCM Shriram International consolidated net profit declines 99.07% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/dcm-shriram-international-consolidated-net-profit-declines-99-07-in-the-june-2026-quarter-126081401633_1.html",
-          "pubDate": "2026-08-14T18:13:53+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-14T13:35:58.447714+00:00",
+      "updated_at": "2026-08-14T14:35:06.651757+00:00",
       "items": [
+        {
+          "title": "Auction of State Government Securities",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63380",
+          "pubDate": "2026-08-14T19:35:00+00:00"
+        },
+        {
+          "title": "RBI to conduct 7-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 17, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63379",
+          "pubDate": "2026-08-14T19:10:00+00:00"
+        },
         {
           "title": "Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63378",
@@ -1100,16 +1122,6 @@
           "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63371",
           "pubDate": "2026-08-14T17:00:00+00:00"
-        },
-        {
-          "title": "Reserve Bank of India Inter-Bank Hindi Essay Competition: 2026-27 - Result",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63370",
-          "pubDate": "2026-08-14T16:30:00+00:00"
-        },
-        {
-          "title": "Government Stock - Full Auction Results",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63369",
-          "pubDate": "2026-08-14T15:25:00+00:00"
         }
       ]
     }

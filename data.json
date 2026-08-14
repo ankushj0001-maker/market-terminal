@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T23:22:29.511024+00:00",
+  "generated_at": "2026-08-14T00:03:12.239380+00:00",
   "indices": {
     "nifty50": {
       "price": 24395.85,
@@ -68,7 +68,7 @@
         24395.849609375
       ],
       "ok": true,
-      "updated_at": "2026-08-13T23:22:27.623308+00:00"
+      "updated_at": "2026-08-14T00:03:10.412935+00:00"
     },
     "sensex": {
       "price": 78079.96,
@@ -137,7 +137,7 @@
         78079.9609375
       ],
       "ok": true,
-      "updated_at": "2026-08-13T23:22:27.662090+00:00"
+      "updated_at": "2026-08-14T00:03:10.503032+00:00"
     },
     "banknifty": {
       "price": 57635.25,
@@ -188,7 +188,7 @@
         57627.1015625,
         57589.19921875,
         57583.30078125,
-        57585.94921875,
+        57585.3515625,
         57608.75,
         57613.3984375,
         57600.1015625,
@@ -206,7 +206,7 @@
         57635.25
       ],
       "ok": true,
-      "updated_at": "2026-08-13T23:22:27.718771+00:00"
+      "updated_at": "2026-08-14T00:03:10.555716+00:00"
     },
     "vix": {
       "price": 11.417,
@@ -275,7 +275,7 @@
         11.417499542236328
       ],
       "ok": true,
-      "updated_at": "2026-08-13T23:22:27.774635+00:00"
+      "updated_at": "2026-08-14T00:03:10.607154+00:00"
     },
     "usdinr": {
       "price": 95.43,
@@ -283,25 +283,17 @@
       "pct": 0.0,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-13T23:22:27.827618+00:00"
+      "updated_at": "2026-08-14T00:03:10.670659+00:00"
     },
     "gold": {
-      "price": 4412.2,
-      "change": -8.2,
-      "pct": -0.1855,
+      "price": 4414.7,
+      "change": -5.7,
+      "pct": -0.1289,
       "closes": [
-        4425.0,
-        4420.10009765625,
-        4417.60009765625,
-        4418.0,
-        4413.60009765625,
-        4415.7998046875,
-        4414.5,
-        4412.39990234375,
         4415.2001953125,
         4416.60009765625,
         4418.7001953125,
-        4420.2998046875,
+        4420.10009765625,
         4414.10009765625,
         4414.2998046875,
         4415.2998046875,
@@ -321,7 +313,7 @@
         4407.7001953125,
         4405.2998046875,
         4406.2998046875,
-        4406.39990234375,
+        4406.2001953125,
         4403.89990234375,
         4406.2001953125,
         4406.2998046875,
@@ -346,27 +338,27 @@
         4411.39990234375,
         4412.0,
         4410.2998046875,
-        4405.5,
+        4405.60009765625,
         4415.2001953125,
         4416.2001953125,
-        4412.2001953125
+        4413.89990234375,
+        4415.60009765625,
+        4418.2001953125,
+        4416.5,
+        4417.0,
+        4415.7998046875,
+        4417.0,
+        4413.7001953125,
+        4414.7001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-13T23:22:27.916035+00:00"
+      "updated_at": "2026-08-14T00:03:10.753028+00:00"
     },
     "crude": {
-      "price": 81.14,
-      "change": -0.11,
-      "pct": -0.1354,
+      "price": 81.35,
+      "change": 0.1,
+      "pct": 0.1231,
       "closes": [
-        81.9000015258789,
-        81.8499984741211,
-        81.98999786376953,
-        81.94000244140625,
-        82.05000305175781,
-        81.91000366210938,
-        81.9000015258789,
-        81.80999755859375,
         81.4000015258789,
         81.29000091552734,
         81.22000122070312,
@@ -418,10 +410,18 @@
         81.13999938964844,
         81.16000366210938,
         81.1500015258789,
-        81.13999938964844
+        81.18000030517578,
+        81.18000030517578,
+        81.2300033569336,
+        81.23999786376953,
+        81.27999877929688,
+        81.31999969482422,
+        81.33000183105469,
+        81.3499984741211,
+        81.3499984741211
       ],
       "ok": true,
-      "updated_at": "2026-08-13T23:22:27.975297+00:00"
+      "updated_at": "2026-08-14T00:03:10.811983+00:00"
     },
     "us10y": {
       "price": 4.641,
@@ -490,13 +490,13 @@
         4.640999794006348
       ],
       "ok": true,
-      "updated_at": "2026-08-13T23:22:28.037268+00:00"
+      "updated_at": "2026-08-14T00:03:10.911951+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-13T23:22:28.107388+00:00",
+      "updated_at": "2026-08-14T00:03:11.280979+00:00",
       "items": [
         {
           "title": "US stocks: S&amp;P 500 notches record-high close as rate-hike worries ease",
@@ -733,8 +733,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-13T23:22:28.304645+00:00",
+      "updated_at": "2026-08-14T00:03:11.431732+00:00",
       "items": [
+        {
+          "title": "Gold Declines as Sliding Inflation Reinforces Fed Hold Bets",
+          "link": "https://www.livemint.com/market/gold-declines-as-sliding-inflation-reinforces-fed-hold-bets-11786663723226.html",
+          "pubDate": "2026-08-14T04:58:42+05:30"
+        },
+        {
+          "title": "ASX Shares Jump Most in Six Years After Upbeat Listings Outlook",
+          "link": "https://www.livemint.com/market/asx-shares-jump-most-in-six-years-after-upbeat-listings-outlook-11786663301274.html",
+          "pubDate": "2026-08-14T04:51:40+05:30"
+        },
         {
           "title": "Cloudy Yen Outlook Raises the Bar for Japan’s Earnings Beats",
           "link": "https://www.livemint.com/market/cloudy-yen-outlook-raises-the-bar-for-japan-s-earnings-beats-11786662091686.html",
@@ -874,22 +884,12 @@
           "title": "Newly-listed metal stock Rajputana Stainless surges 10%, hits record high after strong Q1 results",
           "link": "https://www.livemint.com/market/stock-market-news/newlylisted-metal-stock-rajputana-stainless-surges-10-hits-record-high-after-strong-q1-results-2026-11786606773029.html",
           "pubDate": "2026-08-13T13:33:29+05:30"
-        },
-        {
-          "title": "Afcons’ turnaround story stumbles on execution roadblocks",
-          "link": "https://www.livemint.com/market/afcons-infrastructure-q1-results-share-price-outlook-11786597462888.html",
-          "pubDate": "2026-08-13T13:27:37+05:30"
-        },
-        {
-          "title": "Stocks to buy: Nagaraj Shetti recommends Bank of Maharashtra, Hindustan Copper shares to buy in the short-term",
-          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-nagaraj-shetti-recommends-bank-of-maharashtra-hindustan-copper-shares-to-buy-in-the-shortterm-11786605083579.html",
-          "pubDate": "2026-08-13T13:05:42+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-13T23:22:28.683711+00:00",
+      "updated_at": "2026-08-14T00:03:11.475878+00:00",
       "items": [
         {
           "title": "Promoters pare stakes in UltraTech, Thyrocare through block deals",
@@ -1045,7 +1045,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-13T23:22:29.511007+00:00",
+      "updated_at": "2026-08-14T00:03:12.239363+00:00",
       "items": [
         {
           "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 14, 2026",

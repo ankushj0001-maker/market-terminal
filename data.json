@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T22:56:16.100730+00:00",
+  "generated_at": "2026-08-14T23:11:38.041946+00:00",
   "indices": {
     "nifty50": {
       "price": 24366.0,
@@ -11,7 +11,7 @@
         24333.80078125,
         24336.69921875,
         24312.19921875,
-        24320.849609375,
+        24320.19921875,
         24314.25,
         24315.0,
         24327.849609375,
@@ -31,7 +31,7 @@
         24347.30078125,
         24344.5,
         24340.900390625,
-        24335.849609375,
+        24336.55078125,
         24345.30078125,
         24350.69921875,
         24349.55078125,
@@ -47,9 +47,9 @@
         24383.69921875,
         24385.599609375,
         24395.0,
-        24395.55078125,
+        24395.30078125,
         24389.94921875,
-        24383.55078125,
+        24383.349609375,
         24379.94921875,
         24376.900390625,
         24371.599609375,
@@ -68,7 +68,7 @@
         24366.0
       ],
       "ok": true,
-      "updated_at": "2026-08-14T22:56:14.659544+00:00"
+      "updated_at": "2026-08-14T23:11:35.340549+00:00"
     },
     "sensex": {
       "price": 78009.25,
@@ -137,7 +137,7 @@
         78009.25
       ],
       "ok": true,
-      "updated_at": "2026-08-14T22:56:15.330448+00:00"
+      "updated_at": "2026-08-14T23:11:35.477305+00:00"
     },
     "banknifty": {
       "price": 57491.1,
@@ -206,7 +206,7 @@
         57491.1015625
       ],
       "ok": true,
-      "updated_at": "2026-08-14T22:56:15.427956+00:00"
+      "updated_at": "2026-08-14T23:11:35.609483+00:00"
     },
     "vix": {
       "price": 11.305,
@@ -275,13 +275,14 @@
         11.305000305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-14T22:56:15.480698+00:00"
+      "updated_at": "2026-08-14T23:11:35.744110+00:00"
     },
     "usdinr": {
       "price": 95.415,
       "change": -0.015,
       "pct": -0.0157,
       "closes": [
+        95.41000366210938,
         95.4175033569336,
         95.41999816894531,
         95.41500091552734,
@@ -340,11 +341,10 @@
         95.41500091552734,
         95.44000244140625,
         95.41500091552734,
-        95.41500091552734,
         95.41500091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-14T22:56:15.531943+00:00"
+      "updated_at": "2026-08-14T23:11:35.917784+00:00"
     },
     "gold": {
       "price": 4432.0,
@@ -385,7 +385,7 @@
         4433.2001953125,
         4430.89990234375,
         4430.10009765625,
-        4430.2998046875,
+        4430.2001953125,
         4429.39990234375,
         4433.0,
         4432.39990234375,
@@ -397,7 +397,7 @@
         4431.7001953125,
         4431.39990234375,
         4433.60009765625,
-        4431.5,
+        4431.60009765625,
         4429.7998046875,
         4427.60009765625,
         4428.2998046875,
@@ -413,7 +413,7 @@
         4432.0
       ],
       "ok": true,
-      "updated_at": "2026-08-14T22:56:15.582098+00:00"
+      "updated_at": "2026-08-14T23:11:36.128224+00:00"
     },
     "crude": {
       "price": 82.4,
@@ -433,10 +433,10 @@
         81.91999816894531,
         81.97000122070312,
         82.08000183105469,
-        82.19999694824219,
+        82.20999908447266,
         82.12999725341797,
         82.13999938964844,
-        82.16999816894531,
+        82.18000030517578,
         82.22000122070312,
         82.18000030517578,
         82.29000091552734,
@@ -445,7 +445,7 @@
         82.29000091552734,
         82.16000366210938,
         82.18000030517578,
-        82.23999786376953,
+        82.2300033569336,
         82.2699966430664,
         82.3499984741211,
         82.4000015258789,
@@ -482,7 +482,7 @@
         82.4000015258789
       ],
       "ok": true,
-      "updated_at": "2026-08-14T22:56:15.632836+00:00"
+      "updated_at": "2026-08-14T23:11:36.305429+00:00"
     },
     "us10y": {
       "price": 4.696,
@@ -551,13 +551,13 @@
         4.696000099182129
       ],
       "ok": true,
-      "updated_at": "2026-08-14T22:56:15.681578+00:00"
+      "updated_at": "2026-08-14T23:11:36.442500+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-14T22:56:15.758142+00:00",
+      "updated_at": "2026-08-14T23:11:36.652837+00:00",
       "items": [
         {
           "title": "US stock: S&amp;P 500 ends lower as investors weigh data, Middle East tensions",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-14T22:56:16.019174+00:00",
+      "updated_at": "2026-08-14T23:11:37.113908+00:00",
       "items": [
+        {
+          "title": "Jane Street Lost $15 Billion in Its First Down Month in a Decade",
+          "link": "https://www.livemint.com/market/jane-street-lost-15-billion-in-its-first-down-month-in-a-decade-11786748784900.html",
+          "pubDate": "2026-08-15T04:36:24+05:30"
+        },
         {
           "title": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings",
           "link": "https://www.livemint.com/market/institutional-investors-reveal-cautious-approach-to-tech-favorites-in-us-quarterly-13f-filings-11786744463480.html",
@@ -940,17 +945,12 @@
           "title": "Page Industries faces volume-margin tightrope after soft Q1",
           "link": "https://www.livemint.com/market/mark-to-market/page-industries-share-price-page-industries-q1-11786684735119.html",
           "pubDate": "2026-08-14T12:03:56+05:30"
-        },
-        {
-          "title": "Small-cap engineering stock dips after giving a technical breakout. Should you buy?",
-          "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-ratnaveer-precision-engineering-dips-after-giving-a-technical-breakout-should-you-buy-11786684269037.html",
-          "pubDate": "2026-08-14T11:42:46+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-14T22:56:16.077615+00:00",
+      "updated_at": "2026-08-14T23:11:37.307498+00:00",
       "items": [
         {
           "title": "Binance Research: Gen Z Leads Net Accumulation Across Every TradFi Product",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-14T22:56:16.100720+00:00",
+      "updated_at": "2026-08-14T23:11:38.041932+00:00",
       "items": [
         {
           "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2021-22 Series V due on August 17, 2026",

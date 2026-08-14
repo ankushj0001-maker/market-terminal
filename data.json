@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T11:24:28.174650+00:00",
+  "generated_at": "2026-08-14T12:02:46.411724+00:00",
   "indices": {
     "nifty50": {
       "price": 24366.0,
@@ -68,7 +68,7 @@
         24366.0
       ],
       "ok": true,
-      "updated_at": "2026-08-14T11:24:25.837528+00:00"
+      "updated_at": "2026-08-14T12:02:44.658378+00:00"
     },
     "sensex": {
       "price": 78009.25,
@@ -137,7 +137,7 @@
         78009.25
       ],
       "ok": true,
-      "updated_at": "2026-08-14T11:24:25.938383+00:00"
+      "updated_at": "2026-08-14T12:02:44.703188+00:00"
     },
     "banknifty": {
       "price": 57491.1,
@@ -206,7 +206,7 @@
         57491.1015625
       ],
       "ok": true,
-      "updated_at": "2026-08-14T11:24:26.041097+00:00"
+      "updated_at": "2026-08-14T12:02:44.748527+00:00"
     },
     "vix": {
       "price": 11.305,
@@ -275,7 +275,7 @@
         11.305000305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-14T11:24:26.139697+00:00"
+      "updated_at": "2026-08-14T12:02:44.794773+00:00"
     },
     "usdinr": {
       "price": 95.415,
@@ -344,21 +344,13 @@
         95.41500091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-14T11:24:26.243085+00:00"
+      "updated_at": "2026-08-14T12:02:44.843798+00:00"
     },
     "gold": {
-      "price": 4406.6,
-      "change": -13.8,
-      "pct": -0.3122,
+      "price": 4423.2,
+      "change": 2.8,
+      "pct": 0.0633,
       "closes": [
-        4387.0,
-        4385.2998046875,
-        4384.2001953125,
-        4385.2998046875,
-        4388.60009765625,
-        4390.7998046875,
-        4390.2001953125,
-        4391.60009765625,
         4391.2001953125,
         4390.2001953125,
         4387.10009765625,
@@ -410,24 +402,24 @@
         4405.5,
         4407.0,
         4406.89990234375,
-        4406.60009765625
+        4411.7001953125,
+        4410.39990234375,
+        4413.10009765625,
+        4417.89990234375,
+        4417.89990234375,
+        4418.7001953125,
+        4417.89990234375,
+        4423.39990234375,
+        4423.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-14T11:24:26.341689+00:00"
+      "updated_at": "2026-08-14T12:02:44.888531+00:00"
     },
     "crude": {
-      "price": 81.77,
-      "change": 0.52,
-      "pct": 0.64,
+      "price": 81.51,
+      "change": 0.26,
+      "pct": 0.32,
       "closes": [
-        81.9800033569336,
-        82.20999908447266,
-        82.13999938964844,
-        82.0199966430664,
-        82.12000274658203,
-        82.06999969482422,
-        82.0999984741211,
-        82.18000030517578,
         82.58000183105469,
         82.66000366210938,
         82.95999908447266,
@@ -479,10 +471,18 @@
         81.79000091552734,
         81.72000122070312,
         81.69000244140625,
-        81.7699966430664
+        81.7300033569336,
+        81.70999908447266,
+        81.69000244140625,
+        81.62999725341797,
+        81.52999877929688,
+        81.48999786376953,
+        81.51000213623047,
+        81.51000213623047,
+        81.51000213623047
       ],
       "ok": true,
-      "updated_at": "2026-08-14T11:24:26.440254+00:00"
+      "updated_at": "2026-08-14T12:02:44.934103+00:00"
     },
     "us10y": {
       "price": 4.641,
@@ -551,13 +551,13 @@
         4.640999794006348
       ],
       "ok": true,
-      "updated_at": "2026-08-14T11:24:26.542598+00:00"
+      "updated_at": "2026-08-14T12:02:44.981308+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-14T11:24:26.632035+00:00",
+      "updated_at": "2026-08-14T12:02:45.027916+00:00",
       "items": [
         {
           "title": "LEAP India shares fall 12% post-listing, slip below IPO price. What should investors do?",
@@ -712,7 +712,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-14T11:24:27.050272+00:00",
       "items": [
         {
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-14T11:24:27.174478+00:00",
+      "updated_at": "2026-08-14T12:02:45.377804+00:00",
       "items": [
+        {
+          "title": "Vijay Kedia portfolio stock: SPML Infra shares edge higher after net profit jumps 87% in Q1",
+          "link": "https://www.livemint.com/market/vijay-kedia-portfolio-stock-spml-infra-shares-edge-higher-after-net-profit-jumps-87-in-q1-11786706504717.html",
+          "pubDate": "2026-08-14T17:07:53+05:30"
+        },
         {
           "title": "Bharat Dynamics Q1 results: Profit sees sixfold increase, revenue surges 131% YoY",
           "link": "https://www.livemint.com/market/stock-market-news/bharat-dynamics-q1-results-2026-profit-sees-sixfold-increase-revenue-surges-131-yoy-11786705115010.html",
@@ -940,18 +945,38 @@
           "title": "Buy or sell: Gift Nifty signals muted start. Vaishali Parekh recommends three intraday stocks to buy today",
           "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-muted-start-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-11786672555288.html",
           "pubDate": "2026-08-14T07:56:04+05:30"
-        },
-        {
-          "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 14 August",
-          "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-14-august-11786671461265.html",
-          "pubDate": "2026-08-14T07:28:29+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-14T11:24:27.285577+00:00",
+      "updated_at": "2026-08-14T12:02:45.469586+00:00",
       "items": [
+        {
+          "title": "Sensex, Nifty retreat after early slide; Tata Motors PV drags; global cues offer support",
+          "link": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-retreat-after-early-slide-tata-motors-pv-drags-global-cues-offer-support-126081401370_1.html",
+          "pubDate": "2026-08-14T17:04:42+05:30"
+        },
+        {
+          "title": "Quick Wrap: Nifty Media Index gains 0.96%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/quick-wrap-nifty-media-index-gains-0-96-126081401368_1.html",
+          "pubDate": "2026-08-14T17:04:33+05:30"
+        },
+        {
+          "title": "Board of Info Edge (India) approves investment of Rs 8.90 cr in Udyogtech Ventures",
+          "link": "https://www.business-standard.com/markets/capital-market-news/board-of-info-edge-india-approves-investment-of-rs-8-90-cr-in-udyogtech-ventures-126081401367_1.html",
+          "pubDate": "2026-08-14T17:04:25+05:30"
+        },
+        {
+          "title": "Adani Energy Solutions acquires Vizag Power Transmission",
+          "link": "https://www.business-standard.com/markets/capital-market-news/adani-energy-solutions-acquires-vizag-power-transmission-126081401366_1.html",
+          "pubDate": "2026-08-14T17:04:17+05:30"
+        },
+        {
+          "title": "INR recovers slightly as dollar loses momentum",
+          "link": "https://www.business-standard.com/markets/capital-market-news/inr-recovers-slightly-as-dollar-loses-momentum-126081401363_1.html",
+          "pubDate": "2026-08-14T17:04:02+05:30"
+        },
         {
           "title": "Nifty August futures trade at a premium",
           "link": "https://www.business-standard.com/markets/capital-market-news/nifty-august-futures-trade-at-a-premium-126081401307_1.html",
@@ -1076,38 +1101,28 @@
           "title": "Purple Agrotech Industries standalone net profit declines 70.00% in the June 2026 quarter",
           "link": "https://www.business-standard.com/markets/capital-market-news/purple-agrotech-industries-standalone-net-profit-declines-70-00-in-the-june-2026-quarter-126081401158_1.html",
           "pubDate": "2026-08-14T15:10:57+05:30"
-        },
-        {
-          "title": "Pipan Oils reports standalone net loss of Rs 0.67 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/pipan-oils-reports-standalone-net-loss-of-rs-0-67-crore-in-the-june-2026-quarter-126081401157_1.html",
-          "pubDate": "2026-08-14T15:10:50+05:30"
-        },
-        {
-          "title": "7Seas Entertainment standalone net profit rises 27.78% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/7seas-entertainment-standalone-net-profit-rises-27-78-in-the-june-2026-quarter-126081401156_1.html",
-          "pubDate": "2026-08-14T15:10:43+05:30"
-        },
-        {
-          "title": "Madala Holdings standalone net profit declines 22.75% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/madala-holdings-standalone-net-profit-declines-22-75-in-the-june-2026-quarter-126081401155_1.html",
-          "pubDate": "2026-08-14T15:10:36+05:30"
-        },
-        {
-          "title": "Bharat Dynamics standalone net profit rises 547.36% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/bharat-dynamics-standalone-net-profit-rises-547-36-in-the-june-2026-quarter-126081401154_1.html",
-          "pubDate": "2026-08-14T15:10:29+05:30"
-        },
-        {
-          "title": "Scoobee Day Garments India reports standalone net loss of Rs 0.39 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/scoobee-day-garments-india-reports-standalone-net-loss-of-rs-0-39-crore-in-the-june-2026-quarter-126081401153_1.html",
-          "pubDate": "2026-08-14T15:10:21+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-14T11:24:28.174630+00:00",
+      "updated_at": "2026-08-14T12:02:46.411708+00:00",
       "items": [
+        {
+          "title": "Developments in India’s Balance of Payments for the Month of June 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63373",
+          "pubDate": "2026-08-14T17:30:00+00:00"
+        },
+        {
+          "title": "RBI imposes monetary penalty on Muthoot MCred Limited",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63372",
+          "pubDate": "2026-08-14T17:30:00+00:00"
+        },
+        {
+          "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63371",
+          "pubDate": "2026-08-14T17:00:00+00:00"
+        },
         {
           "title": "Reserve Bank of India Inter-Bank Hindi Essay Competition: 2026-27 - Result",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63370",
@@ -1142,21 +1157,6 @@
           "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 14, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63364",
           "pubDate": "2026-08-13T19:05:00+00:00"
-        },
-        {
-          "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2019-20 Series III due on August 14, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63363",
-          "pubDate": "2026-08-13T17:55:00+00:00"
-        },
-        {
-          "title": "RBI imposes monetary penalty on Valuefin India Credit Services Private Limited",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63362",
-          "pubDate": "2026-08-13T17:35:00+00:00"
-        },
-        {
-          "title": "RBI imposes monetary penalty on Jilla Sahakari Kendriya Bank Maryadit, Bhind, Madhya Pradesh",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63361",
-          "pubDate": "2026-08-13T17:35:00+00:00"
         }
       ]
     }

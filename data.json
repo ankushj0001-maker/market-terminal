@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T10:37:41.784990+00:00",
+  "generated_at": "2026-08-14T11:24:28.174650+00:00",
   "indices": {
     "nifty50": {
       "price": 24366.0,
@@ -68,7 +68,7 @@
         24366.0
       ],
       "ok": true,
-      "updated_at": "2026-08-14T10:37:40.213554+00:00"
+      "updated_at": "2026-08-14T11:24:25.837528+00:00"
     },
     "sensex": {
       "price": 78009.25,
@@ -137,7 +137,7 @@
         78009.25
       ],
       "ok": true,
-      "updated_at": "2026-08-14T10:37:40.260596+00:00"
+      "updated_at": "2026-08-14T11:24:25.938383+00:00"
     },
     "banknifty": {
       "price": 57491.1,
@@ -206,7 +206,7 @@
         57491.1015625
       ],
       "ok": true,
-      "updated_at": "2026-08-14T10:37:40.308256+00:00"
+      "updated_at": "2026-08-14T11:24:26.041097+00:00"
     },
     "vix": {
       "price": 11.305,
@@ -275,7 +275,7 @@
         11.305000305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-14T10:37:40.351761+00:00"
+      "updated_at": "2026-08-14T11:24:26.139697+00:00"
     },
     "usdinr": {
       "price": 95.415,
@@ -344,22 +344,13 @@
         95.41500091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-14T10:37:40.400077+00:00"
+      "updated_at": "2026-08-14T11:24:26.243085+00:00"
     },
     "gold": {
-      "price": 4407.1,
-      "change": -13.3,
-      "pct": -0.3009,
+      "price": 4406.6,
+      "change": -13.8,
+      "pct": -0.3122,
       "closes": [
-        4377.39990234375,
-        4372.7001953125,
-        4379.2001953125,
-        4385.0,
-        4389.5,
-        4391.39990234375,
-        4386.5,
-        4388.2998046875,
-        4387.7001953125,
         4387.0,
         4385.2998046875,
         4384.2001953125,
@@ -410,25 +401,25 @@
         4409.5,
         4410.0,
         4407.2998046875,
-        4407.10009765625
+        4406.0,
+        4405.2001953125,
+        4408.0,
+        4407.7998046875,
+        4407.39990234375,
+        4405.5,
+        4405.5,
+        4407.0,
+        4406.89990234375,
+        4406.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-14T10:37:40.444221+00:00"
+      "updated_at": "2026-08-14T11:24:26.341689+00:00"
     },
     "crude": {
-      "price": 81.84,
-      "change": 0.59,
-      "pct": 0.7262,
+      "price": 81.77,
+      "change": 0.52,
+      "pct": 0.64,
       "closes": [
-        81.68000030517578,
-        81.62000274658203,
-        81.6500015258789,
-        81.77999877929688,
-        81.9800033569336,
-        81.98999786376953,
-        81.95999908447266,
-        81.87000274658203,
-        82.01000213623047,
         81.9800033569336,
         82.20999908447266,
         82.13999938964844,
@@ -479,10 +470,19 @@
         81.80000305175781,
         81.76000213623047,
         81.83000183105469,
-        81.83999633789062
+        81.77999877929688,
+        81.68000030517578,
+        81.7300033569336,
+        81.6500015258789,
+        81.43000030517578,
+        81.51000213623047,
+        81.79000091552734,
+        81.72000122070312,
+        81.69000244140625,
+        81.7699966430664
       ],
       "ok": true,
-      "updated_at": "2026-08-14T10:37:40.492008+00:00"
+      "updated_at": "2026-08-14T11:24:26.440254+00:00"
     },
     "us10y": {
       "price": 4.641,
@@ -551,13 +551,13 @@
         4.640999794006348
       ],
       "ok": true,
-      "updated_at": "2026-08-14T10:37:40.539796+00:00"
+      "updated_at": "2026-08-14T11:24:26.542598+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-14T10:37:40.611484+00:00",
+      "updated_at": "2026-08-14T11:24:26.632035+00:00",
       "items": [
         {
           "title": "LEAP India shares fall 12% post-listing, slip below IPO price. What should investors do?",
@@ -712,8 +712,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-14T09:40:34.502301+00:00",
+      "ok": true,
+      "updated_at": "2026-08-14T11:24:27.050272+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-14T10:37:41.059016+00:00",
+      "updated_at": "2026-08-14T11:24:27.174478+00:00",
       "items": [
+        {
+          "title": "Bharat Dynamics Q1 results: Profit sees sixfold increase, revenue surges 131% YoY",
+          "link": "https://www.livemint.com/market/stock-market-news/bharat-dynamics-q1-results-2026-profit-sees-sixfold-increase-revenue-surges-131-yoy-11786705115010.html",
+          "pubDate": "2026-08-14T16:30:13+05:30"
+        },
         {
           "title": "Top Gainers &amp; Losers on 14 August: NALCO, HPCL, Tata Motors PV, Netweb Tech, Hindustan Copper among top losers",
           "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-14-august-nalco-hpcl-tata-motors-pv-netweb-tech-hindustan-copper-among-top-losers-11786700818338.html",
@@ -872,7 +877,7 @@
           "pubDate": "2026-08-14T11:10:53+05:30"
         },
         {
-          "title": "Shiprocket IPO Day 3 LIVE: GMP, subscription status, review, other details. Apply or not?",
+          "title": "Shiprocket IPO Day 3: GMP, subscription status, review, other details. Apply or not?",
           "link": "https://www.livemint.com/market/ipo/shiprocket-ipo-day-3-live-gmp-subscription-status-review-other-details-apply-or-not-11786681056019.html",
           "pubDate": "2026-08-14T10:13:02+05:30"
         },
@@ -940,18 +945,28 @@
           "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 14 August",
           "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-14-august-11786671461265.html",
           "pubDate": "2026-08-14T07:28:29+05:30"
-        },
-        {
-          "title": "Carry Traders Are Exploiting Intervention to Rebuild Yen Shorts",
-          "link": "https://www.livemint.com/market/carry-traders-are-exploiting-intervention-to-rebuild-yen-shorts-11786671755887.html",
-          "pubDate": "2026-08-14T07:12:35+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-14T10:37:41.087786+00:00",
+      "updated_at": "2026-08-14T11:24:27.285577+00:00",
       "items": [
+        {
+          "title": "Nifty August futures trade at a premium",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-august-futures-trade-at-a-premium-126081401307_1.html",
+          "pubDate": "2026-08-14T16:31:17+05:30"
+        },
+        {
+          "title": "Pound holds around one-month high, GBP/INR above 129 mark",
+          "link": "https://www.business-standard.com/markets/capital-market-news/pound-holds-around-one-month-high-gbp-inr-above-129-mark-126081401306_1.html",
+          "pubDate": "2026-08-14T16:31:10+05:30"
+        },
+        {
+          "title": "Nifty settles below 24,400 level; pharma shares decline",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-settles-below-24-400-level-pharma-shares-decline-126081401272_1.html",
+          "pubDate": "2026-08-14T16:04:19+05:30"
+        },
         {
           "title": "HCL Technologies expands collaboration with NetApp",
           "link": "https://www.business-standard.com/markets/capital-market-news/hcl-technologies-expands-collaboration-with-netapp-126081401208_1.html",
@@ -1086,28 +1101,18 @@
           "title": "Scoobee Day Garments India reports standalone net loss of Rs 0.39 crore in the June 2026 quarter",
           "link": "https://www.business-standard.com/markets/capital-market-news/scoobee-day-garments-india-reports-standalone-net-loss-of-rs-0-39-crore-in-the-june-2026-quarter-126081401153_1.html",
           "pubDate": "2026-08-14T15:10:21+05:30"
-        },
-        {
-          "title": "Eastern Treads reports standalone net loss of Rs 0.16 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/eastern-treads-reports-standalone-net-loss-of-rs-0-16-crore-in-the-june-2026-quarter-126081401152_1.html",
-          "pubDate": "2026-08-14T15:10:14+05:30"
-        },
-        {
-          "title": "Noble Polymers standalone net profit rises 676.92% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/noble-polymers-standalone-net-profit-rises-676-92-in-the-june-2026-quarter-126081401151_1.html",
-          "pubDate": "2026-08-14T15:10:06+05:30"
-        },
-        {
-          "title": "Vamshi Rubber reports standalone net loss of Rs 0.74 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/vamshi-rubber-reports-standalone-net-loss-of-rs-0-74-crore-in-the-june-2026-quarter-126081401150_1.html",
-          "pubDate": "2026-08-14T15:09:58+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-14T10:37:41.784973+00:00",
+      "updated_at": "2026-08-14T11:24:28.174630+00:00",
       "items": [
+        {
+          "title": "Reserve Bank of India Inter-Bank Hindi Essay Competition: 2026-27 - Result",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63370",
+          "pubDate": "2026-08-14T16:30:00+00:00"
+        },
         {
           "title": "Government Stock - Full Auction Results",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63369",
@@ -1152,11 +1157,6 @@
           "title": "RBI imposes monetary penalty on Jilla Sahakari Kendriya Bank Maryadit, Bhind, Madhya Pradesh",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63361",
           "pubDate": "2026-08-13T17:35:00+00:00"
-        },
-        {
-          "title": "Underwriting Auction for sale of Government Securities for &#8377;32,000 crore on August 14, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63360",
-          "pubDate": "2026-08-13T11:45:00+00:00"
         }
       ]
     }

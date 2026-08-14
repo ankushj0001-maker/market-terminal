@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T20:18:09.183690+00:00",
+  "generated_at": "2026-08-14T20:51:00.844238+00:00",
   "indices": {
     "nifty50": {
       "price": 24366.0,
@@ -68,7 +68,7 @@
         24366.0
       ],
       "ok": true,
-      "updated_at": "2026-08-14T20:18:08.383644+00:00"
+      "updated_at": "2026-08-14T20:50:59.824896+00:00"
     },
     "sensex": {
       "price": 78009.25,
@@ -137,7 +137,7 @@
         78009.25
       ],
       "ok": true,
-      "updated_at": "2026-08-14T20:18:08.432538+00:00"
+      "updated_at": "2026-08-14T20:50:59.955074+00:00"
     },
     "banknifty": {
       "price": 57491.1,
@@ -206,7 +206,7 @@
         57491.1015625
       ],
       "ok": true,
-      "updated_at": "2026-08-14T20:18:08.485838+00:00"
+      "updated_at": "2026-08-14T20:50:59.997931+00:00"
     },
     "vix": {
       "price": 11.305,
@@ -275,7 +275,7 @@
         11.305000305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-14T20:18:08.533667+00:00"
+      "updated_at": "2026-08-14T20:51:00.044443+00:00"
     },
     "usdinr": {
       "price": 95.415,
@@ -344,20 +344,13 @@
         95.41500091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-14T20:18:08.609090+00:00"
+      "updated_at": "2026-08-14T20:51:00.121988+00:00"
     },
     "gold": {
-      "price": 4428.7,
-      "change": 8.3,
-      "pct": 0.1878,
+      "price": 4432.0,
+      "change": 11.6,
+      "pct": 0.2624,
       "closes": [
-        4443.60009765625,
-        4440.7001953125,
-        4442.2001953125,
-        4444.89990234375,
-        4445.10009765625,
-        4446.7001953125,
-        4450.0,
         4447.7998046875,
         4449.0,
         4448.10009765625,
@@ -410,23 +403,23 @@
         4431.5,
         4429.7998046875,
         4427.60009765625,
-        4428.7001953125
+        4428.2998046875,
+        4428.7998046875,
+        4429.7001953125,
+        4430.0,
+        4429.60009765625,
+        4431.0,
+        4430.89990234375,
+        4432.0
       ],
       "ok": true,
-      "updated_at": "2026-08-14T20:18:08.679666+00:00"
+      "updated_at": "2026-08-14T20:51:00.210436+00:00"
     },
     "crude": {
-      "price": 82.5,
-      "change": 1.25,
-      "pct": 1.5385,
+      "price": 82.41,
+      "change": 1.16,
+      "pct": 1.4277,
       "closes": [
-        81.5,
-        81.69000244140625,
-        81.72000122070312,
-        81.76000213623047,
-        81.68000030517578,
-        81.58999633789062,
-        81.70999908447266,
         81.66000366210938,
         81.66000366210938,
         81.62000274658203,
@@ -479,10 +472,17 @@
         82.4000015258789,
         82.36000061035156,
         82.44999694824219,
-        82.5
+        82.44999694824219,
+        82.37000274658203,
+        82.33000183105469,
+        82.26000213623047,
+        82.3499984741211,
+        82.38999938964844,
+        82.3499984741211,
+        82.41000366210938
       ],
       "ok": true,
-      "updated_at": "2026-08-14T20:18:08.756000+00:00"
+      "updated_at": "2026-08-14T20:51:00.252686+00:00"
     },
     "us10y": {
       "price": 4.696,
@@ -551,14 +551,19 @@
         4.696000099182129
       ],
       "ok": true,
-      "updated_at": "2026-08-14T20:18:08.816104+00:00"
+      "updated_at": "2026-08-14T20:51:00.298243+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-14T20:18:08.860034+00:00",
+      "updated_at": "2026-08-14T20:51:00.463394+00:00",
       "items": [
+        {
+          "title": "US stock: S&amp;P 500 ends lower as investors weigh data, Middle East tensions",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-sp-500-ends-lower-as-investors-weigh-data-middle-east-tensions/articleshow/133251425.cms",
+          "pubDate": "2026-08-15T01:40:33+05:30"
+        },
         {
           "title": "Nvidia’s $500 billion plan envelops Wall Street in its AI frenzy",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-500-billion-plan-envelops-wall-street-in-its-ai-frenzy/articleshow/133249552.cms",
@@ -568,11 +573,6 @@
           "title": "How a $900 million bet on SpaceX turned 100x into $94 billion for Alphabet",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/how-a-900-million-bet-on-spacex-turned-100x-into-94-billion-for-alphabet/articleshow/133248581.cms",
           "pubDate": "2026-08-14T23:16:57+05:30"
-        },
-        {
-          "title": "WeWork Global sells 2.5% stake in WeWork India Management for Rs 244 crore",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/wework-global-sells-2-5-stake-in-wework-india-management-for-rs-244-crore/articleshow/133245632.cms",
-          "pubDate": "2026-08-14T20:41:01+05:30"
         },
         {
           "title": "Sebi broadens scope of online bond platforms, permits IFSCA-regulated products and tax-saving bonds",
@@ -794,7 +794,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-14T20:18:09.011008+00:00",
+      "updated_at": "2026-08-14T20:51:00.652594+00:00",
       "items": [
         {
           "title": "Oil Rises as US Warns of More Economic Pressure to Isolate Iran",
@@ -950,7 +950,7 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-14T20:18:09.150473+00:00",
+      "updated_at": "2026-08-14T20:51:00.805354+00:00",
       "items": [
         {
           "title": "A well-designed regulatory ecosystem can further strengthen service exports and ease of doing business, says NITI Aayog",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-14T20:18:09.183674+00:00",
+      "updated_at": "2026-08-14T20:51:00.844190+00:00",
       "items": [
         {
           "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2021-22 Series V due on August 17, 2026",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T18:02:03.311057+00:00",
+  "generated_at": "2026-08-14T19:09:49.345040+00:00",
   "indices": {
     "nifty50": {
       "price": 24366.0,
@@ -68,7 +68,7 @@
         24366.0
       ],
       "ok": true,
-      "updated_at": "2026-08-14T18:02:02.285453+00:00"
+      "updated_at": "2026-08-14T19:09:47.046358+00:00"
     },
     "sensex": {
       "price": 78009.25,
@@ -137,7 +137,7 @@
         78009.25
       ],
       "ok": true,
-      "updated_at": "2026-08-14T18:02:02.324808+00:00"
+      "updated_at": "2026-08-14T19:09:47.219051+00:00"
     },
     "banknifty": {
       "price": 57491.1,
@@ -206,7 +206,7 @@
         57491.1015625
       ],
       "ok": true,
-      "updated_at": "2026-08-14T18:02:02.370598+00:00"
+      "updated_at": "2026-08-14T19:09:47.325542+00:00"
     },
     "vix": {
       "price": 11.305,
@@ -275,14 +275,13 @@
         11.305000305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-14T18:02:02.414969+00:00"
+      "updated_at": "2026-08-14T19:09:47.560917+00:00"
     },
     "usdinr": {
       "price": 95.415,
       "change": -0.015,
       "pct": -0.0157,
       "closes": [
-        95.4000015258789,
         95.4000015258789,
         95.4124984741211,
         95.41000366210938,
@@ -341,29 +340,17 @@
         95.41500091552734,
         95.41500091552734,
         95.41500091552734,
+        95.41500091552734,
         95.41500091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-14T18:02:02.484957+00:00"
+      "updated_at": "2026-08-14T19:09:47.746947+00:00"
     },
     "gold": {
-      "price": 4434.0,
-      "change": 13.6,
-      "pct": 0.3077,
+      "price": 4430.0,
+      "change": 9.6,
+      "pct": 0.2172,
       "closes": [
-        4435.39990234375,
-        4437.0,
-        4432.39990234375,
-        4438.2998046875,
-        4442.5,
-        4441.39990234375,
-        4448.5,
-        4452.89990234375,
-        4450.7998046875,
-        4444.2998046875,
-        4441.5,
-        4442.0,
-        4448.60009765625,
         4446.5,
         4447.7998046875,
         4443.89990234375,
@@ -410,29 +397,29 @@
         4435.0,
         4433.89990234375,
         4435.2998046875,
-        4434.0
+        4435.5,
+        4438.5,
+        4437.2001953125,
+        4434.2001953125,
+        4435.39990234375,
+        4436.60009765625,
+        4436.39990234375,
+        4435.10009765625,
+        4439.39990234375,
+        4433.2001953125,
+        4430.89990234375,
+        4430.10009765625,
+        4430.2998046875,
+        4430.0
       ],
       "ok": true,
-      "updated_at": "2026-08-14T18:02:02.547185+00:00"
+      "updated_at": "2026-08-14T19:09:47.872666+00:00"
     },
     "crude": {
-      "price": 82.35,
-      "change": 1.1,
-      "pct": 1.3538,
+      "price": 82.4,
+      "change": 1.15,
+      "pct": 1.4154,
       "closes": [
-        81.29000091552734,
-        81.41000366210938,
-        81.4000015258789,
-        81.41000366210938,
-        81.30000305175781,
-        81.29000091552734,
-        81.01000213623047,
-        80.81999969482422,
-        80.88999938964844,
-        80.9800033569336,
-        81.05000305175781,
-        81.16999816894531,
-        81.31999969482422,
         81.45999908447266,
         81.22000122070312,
         81.43000030517578,
@@ -479,28 +466,29 @@
         82.29000091552734,
         82.31999969482422,
         82.33000183105469,
-        82.3499984741211
+        82.29000091552734,
+        82.16000366210938,
+        82.18000030517578,
+        82.23999786376953,
+        82.2699966430664,
+        82.3499984741211,
+        82.4000015258789,
+        82.58999633789062,
+        82.4800033569336,
+        82.5199966430664,
+        82.41999816894531,
+        82.44000244140625,
+        82.41000366210938,
+        82.4000015258789
       ],
       "ok": true,
-      "updated_at": "2026-08-14T18:02:02.602048+00:00"
+      "updated_at": "2026-08-14T19:09:48.092410+00:00"
     },
     "us10y": {
       "price": 4.696,
       "change": 0.055,
       "pct": 1.1851,
       "closes": [
-        4.644999980926514,
-        4.64900016784668,
-        4.6529998779296875,
-        4.6570000648498535,
-        4.658999919891357,
-        4.6529998779296875,
-        4.6570000648498535,
-        4.6529998779296875,
-        4.6529998779296875,
-        4.64900016784668,
-        4.658999919891357,
-        4.6610002517700195,
         4.658999919891357,
         4.6610002517700195,
         4.6610002517700195,
@@ -548,26 +536,38 @@
         4.693999767303467,
         4.696000099182129,
         4.696000099182129,
+        4.696000099182129,
+        4.696000099182129,
+        4.696000099182129,
+        4.691999912261963,
+        4.699999809265137,
+        4.696000099182129,
+        4.697999954223633,
+        4.696000099182129,
+        4.696000099182129,
+        4.696000099182129,
+        4.696000099182129,
+        4.696000099182129,
         4.696000099182129
       ],
       "ok": true,
-      "updated_at": "2026-08-14T18:02:02.645659+00:00"
+      "updated_at": "2026-08-14T19:09:48.202403+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-14T18:02:02.764870+00:00",
+      "updated_at": "2026-08-14T19:09:48.432261+00:00",
       "items": [
         {
-          "title": "Ashok Leyland Q1 profit rises 2% as revenue jumps 10% to Rs 10,750 crore",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ashok-leyland-q1-profit-rises-2-as-revenue-jumps-10-to-rs-10750-crore/articleshow/133245820.cms",
-          "pubDate": "2026-08-14T20:53:18+05:30"
+          "title": "Nvidia’s $500 billion plan envelops Wall Street in its AI frenzy",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-500-billion-plan-envelops-wall-street-in-its-ai-frenzy/articleshow/133249552.cms",
+          "pubDate": "2026-08-14T23:41:45+05:30"
         },
         {
-          "title": "Sebi mulls digital onboarding for individual foreign investors to boost participation in securities mkt",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-mulls-digital-onboarding-for-individual-foreign-investors-to-boost-participation-in-securities-mkt/articleshow/133245737.cms",
-          "pubDate": "2026-08-14T20:48:14+05:30"
+          "title": "How a $900 million bet on SpaceX turned 100x into $94 billion for Alphabet",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/how-a-900-million-bet-on-spacex-turned-100x-into-94-billion-for-alphabet/articleshow/133248581.cms",
+          "pubDate": "2026-08-14T23:16:57+05:30"
         },
         {
           "title": "WeWork Global sells 2.5% stake in WeWork India Management for Rs 244 crore",
@@ -712,7 +712,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-14T18:02:02.860717+00:00",
       "items": [
         {
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-14T18:02:03.134839+00:00",
+      "updated_at": "2026-08-14T19:09:49.033516+00:00",
       "items": [
+        {
+          "title": "Dollar falls on surprise drop in US retail sales",
+          "link": "https://www.livemint.com/market/dollar-falls-on-surprise-drop-in-us-retail-sales-11786733548547.html",
+          "pubDate": "2026-08-15T00:22:28+05:30"
+        },
         {
           "title": "Patanjali Foods shares to be in focus on Monday as Q1 net profit jumps 86%; revenue hits record",
           "link": "https://www.livemint.com/market/stock-market-news/patanjali-foods-shares-to-be-in-focus-on-monday-as-q1-net-profit-jumps-86-revenue-hits-record-11786727877953.html",
@@ -940,17 +945,12 @@
           "title": "LEAP India IPO listing: Shares debut at a 4% premium amid weak stock market sentiment",
           "link": "https://www.livemint.com/market/ipo/leap-india-ipo-listing-shares-debut-at-a-4-premium-amid-weak-stock-market-sentiment-11786682425070.html",
           "pubDate": "2026-08-14T10:12:39+05:30"
-        },
-        {
-          "title": "Technocraft Ventures share price makes a bumper debut, stock opens with a 34% premium at  ₹284 apiece on NSE",
-          "link": "https://www.livemint.com/market/ipo/technocraft-ventures-share-price-makes-a-bumper-debut-stock-opens-with-a-34-premium-at-rs-284-apiece-on-nse-11786680803702.html",
-          "pubDate": "2026-08-14T10:00:17+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-14T18:02:03.264679+00:00",
+      "updated_at": "2026-08-14T19:09:49.191739+00:00",
       "items": [
         {
           "title": "A well-designed regulatory ecosystem can further strengthen service exports and ease of doing business, says NITI Aayog",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-14T18:02:03.311042+00:00",
+      "updated_at": "2026-08-14T19:09:49.345023+00:00",
       "items": [
         {
           "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2021-22 Series V due on August 17, 2026",

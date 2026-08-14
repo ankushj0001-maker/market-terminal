@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T16:11:57.600005+00:00",
+  "generated_at": "2026-08-14T17:09:04.480483+00:00",
   "indices": {
     "nifty50": {
       "price": 24366.0,
@@ -68,7 +68,7 @@
         24366.0
       ],
       "ok": true,
-      "updated_at": "2026-08-14T16:11:54.432799+00:00"
+      "updated_at": "2026-08-14T17:09:01.742783+00:00"
     },
     "sensex": {
       "price": 78009.25,
@@ -137,7 +137,7 @@
         78009.25
       ],
       "ok": true,
-      "updated_at": "2026-08-14T16:11:54.493314+00:00"
+      "updated_at": "2026-08-14T17:09:01.845038+00:00"
     },
     "banknifty": {
       "price": 57491.1,
@@ -206,7 +206,7 @@
         57491.1015625
       ],
       "ok": true,
-      "updated_at": "2026-08-14T16:11:54.584919+00:00"
+      "updated_at": "2026-08-14T17:09:02.010565+00:00"
     },
     "vix": {
       "price": 11.305,
@@ -275,7 +275,7 @@
         11.305000305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-14T16:11:54.641460+00:00"
+      "updated_at": "2026-08-14T17:09:02.135333+00:00"
     },
     "usdinr": {
       "price": 95.415,
@@ -344,44 +344,33 @@
         95.41500091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-14T16:11:54.685854+00:00"
+      "updated_at": "2026-08-14T17:09:02.241607+00:00"
     },
     "gold": {
-      "price": 4451.6,
-      "change": 31.2,
-      "pct": 0.7058,
+      "price": 4442.6,
+      "change": 22.2,
+      "pct": 0.5022,
       "closes": [
-        4406.89990234375,
-        4411.7001953125,
-        4410.39990234375,
-        4413.10009765625,
-        4417.89990234375,
-        4417.89990234375,
-        4418.7001953125,
-        4417.89990234375,
-        4423.39990234375,
-        4425.7998046875,
-        4430.2001953125,
         4428.2001953125,
-        4428.10009765625,
+        4428.0,
         4428.7001953125,
-        4435.89990234375,
+        4435.7001953125,
         4436.5,
         4438.2001953125,
         4434.7001953125,
         4429.5,
         4431.7001953125,
-        4432.60009765625,
+        4432.5,
         4430.89990234375,
         4435.39990234375,
         4437.0,
         4432.39990234375,
         4438.2998046875,
-        4442.60009765625,
+        4442.5,
         4441.39990234375,
         4448.5,
         4452.89990234375,
-        4451.10009765625,
+        4450.7998046875,
         4444.2998046875,
         4441.5,
         4442.0,
@@ -402,35 +391,35 @@
         4449.89990234375,
         4443.60009765625,
         4440.7001953125,
-        4441.89990234375,
+        4442.2001953125,
         4444.89990234375,
         4445.10009765625,
-        4446.89990234375,
+        4446.7001953125,
         4450.0,
         4447.7998046875,
-        4448.7998046875,
+        4449.0,
         4448.10009765625,
-        4451.60009765625
+        4447.10009765625,
+        4446.7998046875,
+        4449.10009765625,
+        4447.10009765625,
+        4444.5,
+        4440.60009765625,
+        4445.2001953125,
+        4442.7998046875,
+        4443.7998046875,
+        4443.2998046875,
+        4442.7001953125,
+        4442.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-14T16:11:54.780923+00:00"
+      "updated_at": "2026-08-14T17:09:02.372448+00:00"
     },
     "crude": {
-      "price": 81.64,
-      "change": 0.39,
-      "pct": 0.48,
+      "price": 81.99,
+      "change": 0.74,
+      "pct": 0.9108,
       "closes": [
-        81.69000244140625,
-        81.7300033569336,
-        81.70999908447266,
-        81.69000244140625,
-        81.62999725341797,
-        81.52999877929688,
-        81.48999786376953,
-        81.51000213623047,
-        81.51000213623047,
-        81.55999755859375,
-        81.76000213623047,
         81.91999816894531,
         81.91000366210938,
         81.9800033569336,
@@ -479,15 +468,26 @@
         81.66000366210938,
         81.66000366210938,
         81.62000274658203,
-        81.63999938964844
+        81.69999694824219,
+        81.69999694824219,
+        81.76000213623047,
+        81.83999633789062,
+        81.93000030517578,
+        81.88999938964844,
+        81.83000183105469,
+        81.98999786376953,
+        82.01000213623047,
+        81.93000030517578,
+        81.91999816894531,
+        81.98999786376953
       ],
       "ok": true,
-      "updated_at": "2026-08-14T16:11:54.835751+00:00"
+      "updated_at": "2026-08-14T17:09:02.503873+00:00"
     },
     "us10y": {
-      "price": 4.686,
-      "change": 0.045,
-      "pct": 0.9696,
+      "price": 4.692,
+      "change": 0.051,
+      "pct": 1.0989,
       "closes": [
         4.644999980926514,
         4.640999794006348,
@@ -532,47 +532,58 @@
         4.684000015258789,
         4.688000202178955,
         4.685999870300293,
+        4.688000202178955,
+        4.690000057220459,
+        4.688000202178955,
+        4.688000202178955,
         4.685999870300293,
-        4.685999870300293
+        4.685999870300293,
+        4.688000202178955,
+        4.688000202178955,
+        4.685999870300293,
+        4.688000202178955,
+        4.688000202178955,
+        4.690000057220459,
+        4.691999912261963
       ],
       "ok": true,
-      "updated_at": "2026-08-14T16:11:54.905943+00:00"
+      "updated_at": "2026-08-14T17:09:02.606003+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-14T16:11:55.094092+00:00",
+      "updated_at": "2026-08-14T17:09:02.783908+00:00",
       "items": [
+        {
+          "title": "Ashok Leyland Q1 profit rises 2% as revenue jumps 10% to Rs 10,750 crore",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ashok-leyland-q1-profit-rises-2-as-revenue-jumps-10-to-rs-10750-crore/articleshow/133245820.cms",
+          "pubDate": "2026-08-14T20:53:18+05:30"
+        },
+        {
+          "title": "Sebi mulls digital onboarding for individual foreign investors to boost participation in securities mkt",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-mulls-digital-onboarding-for-individual-foreign-investors-to-boost-participation-in-securities-mkt/articleshow/133245737.cms",
+          "pubDate": "2026-08-14T20:48:14+05:30"
+        },
+        {
+          "title": "WeWork Global sells 2.5% stake in WeWork India Management for Rs 244 crore",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/wework-global-sells-2-5-stake-in-wework-india-management-for-rs-244-crore/articleshow/133245632.cms",
+          "pubDate": "2026-08-14T20:41:01+05:30"
+        },
+        {
+          "title": "Sebi broadens scope of online bond platforms, permits IFSCA-regulated products and tax-saving bonds",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/sebi-broadens-scope-of-online-bond-platforms-permits-ifsca-regulated-products-and-tax-saving-bonds/articleshow/133245588.cms",
+          "pubDate": "2026-08-14T20:39:04+05:30"
+        },
         {
           "title": "Reddit surges 14% on S&amp;P 500 inclusion, set to replace AvalonBay",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-reddit-surges-14-on-sp-500-inclusion-set-to-replace-avalonbay/articleshow/133244407.cms",
           "pubDate": "2026-08-14T19:49:43+05:30"
         },
         {
-          "title": "MCX launches crude sunflower oil futures contract",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/mcx-launches-crude-sunflower-oil-futures-contract/articleshow/133239663.cms",
-          "pubDate": "2026-08-14T16:54:14+05:30"
-        },
-        {
-          "title": "Pakistan celebrates Independence Day: Here's how its stock market performed in last one year",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pakistan-celebrates-independence-day-heres-how-its-stock-market-performed-in-last-one-year/articleshow/133232943.cms",
-          "pubDate": "2026-08-14T13:36:35+05:30"
-        },
-        {
-          "title": "15 stocks held by 100+ MFs in July surged up to 131%; 3 turned multibaggers in CY26",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/15-stocks-held-by-100-mfs-in-july-surged-up-to-131-3-turned-multibaggers-in-cy26/slideshow/133232865.cms",
-          "pubDate": "2026-08-14T13:18:14+05:30"
-        },
-        {
-          "title": "Sebi proposes mandatory colour-coded Credit Risk-o-Meter for debt securities",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/sebi-proposes-mandatory-colour-coded-credit-risk-o-meter-for-debt-securities/articleshow/133229827.cms",
-          "pubDate": "2026-08-14T10:54:49+05:30"
-        },
-        {
-          "title": "Behari Lal Engineering IPO Day 3: Issue subscribed 108 times; GMP at 28%",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/behari-lal-engineering-ipo-day-3-gmp-at-28-subscription-stays-strong-should-you-subscribe/articleshow/133228292.cms",
-          "pubDate": "2026-08-14T09:08:54+05:30"
+          "title": "Cochin Shipyard Q1 Results: Profit falls 19% YoY to Rs 151 crore, revenue up marginally",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cochin-shipyard-q1-results-profit-falls-19-yoy-to-rs-151-crore-revenue-up-marginally/articleshow/133243674.cms",
+          "pubDate": "2026-08-14T19:29:26+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -698,7 +709,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-14T16:11:55.567919+00:00",
+      "updated_at": "2026-08-14T17:09:03.211302+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -779,8 +790,23 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-14T16:11:55.637203+00:00",
+      "updated_at": "2026-08-14T17:09:03.419271+00:00",
       "items": [
+        {
+          "title": "Alphabet's $900 million SpaceX bet soars to $94 billion after rocket firm's IPO, filings show",
+          "link": "https://www.livemint.com/market/alphabets-900-million-spacex-bet-soars-to-94-billion-after-rocket-firms-ipo-filings-show-11786724830491.html",
+          "pubDate": "2026-08-14T22:08:31+05:30"
+        },
+        {
+          "title": "Sebi proposes overhaul of settlement rules to cut amounts, speed enforcement",
+          "link": "https://www.livemint.com/market/sebi-proposes-overhaul-of-settlement-rules-to-cut-amounts-speed-enforcement-11786716403062.html",
+          "pubDate": "2026-08-14T21:50:20+05:30"
+        },
+        {
+          "title": "Gold jumps 9% in August as weaker dollar, easing Fed bets boost demand",
+          "link": "https://www.livemint.com/market/commodities/gold-jumps-9-in-august-as-weaker-dollar-easing-fed-bets-boost-demand-11786716604532.html",
+          "pubDate": "2026-08-14T21:45:01+05:30"
+        },
         {
           "title": "Reddit shares jump 15% as social media platform set to join S&amp;P 500",
           "link": "https://www.livemint.com/market/stock-market-news/reddit-shares-jump-15-as-social-media-platform-set-to-join-s-p-500-11786715061238.html",
@@ -915,27 +941,12 @@
           "title": "Milky Mist Dairy Food IPO allotment date: GMP jumps following strong subscription status, how to check allotment status",
           "link": "https://www.livemint.com/market/ipo/milky-mist-dairy-food-ipo-allotment-date-gmp-jumps-following-strong-subscription-status-how-to-check-allotment-status-11786677877692.html",
           "pubDate": "2026-08-14T09:22:37+05:30"
-        },
-        {
-          "title": "Gold and silver prices today: Rates drop up to 1% on MCX as inflation fears fuel rate hike speculations",
-          "link": "https://www.livemint.com/market/commodities/gold-and-silver-prices-today-rates-drop-up-to-1-on-mcx-as-inflation-fears-fuel-rate-hike-speculations-11786678766092.html",
-          "pubDate": "2026-08-14T09:14:26+05:30"
-        },
-        {
-          "title": "Under Chandrasekaran, as Tata stocks changed, so did their investors",
-          "link": "https://www.livemint.com/market/stock-market-news/tata-group-stocks-n-chandrasekaran-11786673809073.html",
-          "pubDate": "2026-08-14T09:07:33+05:30"
-        },
-        {
-          "title": "Rupee opens 6 paise higher at 95.38 against US dollar",
-          "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-6-paise-higher-at-95-38-against-us-dollar-11786678379019.html",
-          "pubDate": "2026-08-14T09:04:35+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-14T16:11:56.802384+00:00",
+      "updated_at": "2026-08-14T17:09:03.502418+00:00",
       "items": [
         {
           "title": "A well-designed regulatory ecosystem can further strengthen service exports and ease of doing business, says NITI Aayog",
@@ -1091,7 +1102,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-14T16:11:57.599987+00:00",
+      "updated_at": "2026-08-14T17:09:04.480467+00:00",
       "items": [
         {
           "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2021-22 Series V due on August 17, 2026",

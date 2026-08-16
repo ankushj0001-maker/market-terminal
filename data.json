@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T16:09:09.111010+00:00",
+  "generated_at": "2026-08-16T16:37:51.675422+00:00",
   "indices": {
     "nifty50": {
       "price": 24366.0,
@@ -11,7 +11,7 @@
         24333.80078125,
         24336.69921875,
         24312.19921875,
-        24320.849609375,
+        24320.19921875,
         24314.25,
         24315.0,
         24327.849609375,
@@ -31,7 +31,7 @@
         24347.30078125,
         24344.5,
         24340.900390625,
-        24335.849609375,
+        24336.55078125,
         24345.30078125,
         24350.69921875,
         24349.55078125,
@@ -47,9 +47,9 @@
         24383.69921875,
         24385.599609375,
         24395.0,
-        24395.55078125,
+        24395.30078125,
         24389.94921875,
-        24383.55078125,
+        24383.349609375,
         24379.94921875,
         24376.900390625,
         24371.599609375,
@@ -68,7 +68,7 @@
         24366.0
       ],
       "ok": true,
-      "updated_at": "2026-08-16T16:09:06.445877+00:00"
+      "updated_at": "2026-08-16T16:37:50.474861+00:00"
     },
     "sensex": {
       "price": 78009.25,
@@ -137,7 +137,7 @@
         78009.25
       ],
       "ok": true,
-      "updated_at": "2026-08-16T16:09:06.558824+00:00"
+      "updated_at": "2026-08-16T16:37:50.545998+00:00"
     },
     "banknifty": {
       "price": 57491.1,
@@ -206,7 +206,7 @@
         57491.1015625
       ],
       "ok": true,
-      "updated_at": "2026-08-16T16:09:06.911990+00:00"
+      "updated_at": "2026-08-16T16:37:50.642312+00:00"
     },
     "vix": {
       "price": 11.305,
@@ -275,7 +275,7 @@
         11.305000305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-16T16:09:07.018981+00:00"
+      "updated_at": "2026-08-16T16:37:50.713745+00:00"
     },
     "usdinr": {
       "price": 95.415,
@@ -344,7 +344,7 @@
         95.41500091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-16T16:09:07.149415+00:00"
+      "updated_at": "2026-08-16T16:37:50.775933+00:00"
     },
     "gold": {
       "price": 4437.3,
@@ -352,7 +352,7 @@
       "pct": 0.3823,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-16T16:09:07.252185+00:00"
+      "updated_at": "2026-08-16T16:37:50.842143+00:00"
     },
     "crude": {
       "price": 82.4,
@@ -360,7 +360,7 @@
       "pct": 1.4154,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-16T16:09:07.348449+00:00"
+      "updated_at": "2026-08-16T16:37:50.903405+00:00"
     },
     "us10y": {
       "price": 4.696,
@@ -429,13 +429,13 @@
         4.696000099182129
       ],
       "ok": true,
-      "updated_at": "2026-08-16T16:09:07.465624+00:00"
+      "updated_at": "2026-08-16T16:37:50.968512+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-16T16:09:07.624344+00:00",
+      "updated_at": "2026-08-16T16:37:51.071013+00:00",
       "items": [
         {
           "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
@@ -591,7 +591,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-16T16:09:08.007171+00:00",
+      "updated_at": "2026-08-16T16:37:51.367697+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -672,8 +672,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-16T16:09:08.102734+00:00",
+      "updated_at": "2026-08-16T16:37:51.576466+00:00",
       "items": [
+        {
+          "title": "Gold Nears $4,400 as Traders Weigh Fed Interest-Rate Path",
+          "link": "https://www.livemint.com/market/gold-nears-4-400-as-traders-weigh-fed-interest-rate-path-11786897865527.html",
+          "pubDate": "2026-08-16T22:01:05+05:30"
+        },
         {
           "title": "Traders Get Pickier After Big Run in $886 Billion EM Debt Market",
           "link": "https://www.livemint.com/market/traders-get-pickier-after-big-run-in-886-billion-em-debt-market-11786887262475.html",
@@ -818,17 +823,12 @@
           "title": "Oil Rises as US Warns of More Economic Pressure to Isolate Iran",
           "link": "https://www.livemint.com/market/oil-rises-as-us-warns-of-more-economic-pressure-to-isolate-iran-11786737452456.html",
           "pubDate": "2026-08-15T01:27:32+05:30"
-        },
-        {
-          "title": "Dollar falls on surprise drop in US retail sales",
-          "link": "https://www.livemint.com/market/dollar-falls-on-surprise-drop-in-us-retail-sales-11786733548547.html",
-          "pubDate": "2026-08-15T00:22:28+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-16T16:09:08.255362+00:00",
+      "updated_at": "2026-08-16T16:37:51.654694+00:00",
       "items": [
         {
           "title": "Govt push, LIC mega deal push OFS fundraising to all-time high",
@@ -984,7 +984,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-16T16:09:09.110996+00:00",
+      "updated_at": "2026-08-16T16:37:51.675408+00:00",
       "items": [
         {
           "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2021-22 Series V due on August 17, 2026",

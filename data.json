@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:56:03.348123+00:00",
+  "generated_at": "2026-08-17T16:13:49.882602+00:00",
   "indices": {
     "nifty50": {
       "price": 24287.65,
@@ -68,7 +68,7 @@
         24287.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T15:56:00.183412+00:00"
+      "updated_at": "2026-08-17T16:13:47.038343+00:00"
     },
     "sensex": {
       "price": 77728.16,
@@ -137,7 +137,7 @@
         77728.15625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T15:56:00.234982+00:00"
+      "updated_at": "2026-08-17T16:13:47.141267+00:00"
     },
     "banknifty": {
       "price": 57497.8,
@@ -206,7 +206,7 @@
         57497.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-17T15:56:00.395162+00:00"
+      "updated_at": "2026-08-17T16:13:47.309005+00:00"
     },
     "vix": {
       "price": 11.325,
@@ -275,7 +275,7 @@
         11.324999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-17T15:56:00.448795+00:00"
+      "updated_at": "2026-08-17T16:13:47.437304+00:00"
     },
     "usdinr": {
       "price": 95.592,
@@ -344,16 +344,13 @@
         95.59200286865234
       ],
       "ok": true,
-      "updated_at": "2026-08-17T15:56:00.497627+00:00"
+      "updated_at": "2026-08-17T16:13:47.557063+00:00"
     },
     "gold": {
-      "price": 4475.5,
-      "change": 38.2,
-      "pct": 0.8609,
+      "price": 4481.7,
+      "change": 44.4,
+      "pct": 1.0006,
       "closes": [
-        4455.7998046875,
-        4457.0,
-        4458.7998046875,
         4456.5,
         4455.10009765625,
         4460.5,
@@ -410,19 +407,19 @@
         4479.10009765625,
         4476.10009765625,
         4480.89990234375,
-        4475.5
+        4483.7998046875,
+        4484.7998046875,
+        4482.7998046875,
+        4481.7001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-17T15:56:00.631383+00:00"
+      "updated_at": "2026-08-17T16:13:47.688631+00:00"
     },
     "crude": {
-      "price": 82.66,
-      "change": 0.26,
-      "pct": 0.3155,
+      "price": 82.69,
+      "change": 0.29,
+      "pct": 0.3519,
       "closes": [
-        82.83999633789062,
-        82.87000274658203,
-        82.5999984741211,
         82.7699966430664,
         82.66000366210938,
         82.68000030517578,
@@ -479,15 +476,18 @@
         82.52999877929688,
         82.66999816894531,
         82.76000213623047,
-        82.66000366210938
+        82.69999694824219,
+        82.81999969482422,
+        82.6500015258789,
+        82.69000244140625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T15:56:00.718942+00:00"
+      "updated_at": "2026-08-17T16:13:47.873457+00:00"
     },
     "us10y": {
-      "price": 4.704,
-      "change": 0.008,
-      "pct": 0.1704,
+      "price": 4.708,
+      "change": 0.012,
+      "pct": 0.2555,
       "closes": [
         4.699999809265137,
         4.708000183105469,
@@ -529,16 +529,20 @@
         4.703999996185303,
         4.706000328063965,
         4.706000328063965,
-        4.703999996185303
+        4.708000183105469,
+        4.708000183105469,
+        4.706000328063965,
+        4.708000183105469,
+        4.708000183105469
       ],
       "ok": true,
-      "updated_at": "2026-08-17T15:56:00.849882+00:00"
+      "updated_at": "2026-08-17T16:13:47.989186+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-17T15:56:00.988304+00:00",
+      "updated_at": "2026-08-17T16:13:48.122882+00:00",
       "items": [
         {
           "title": "Schneider Electric Infrastructure shares tumble 12% after Q1 profit plunges 70% YoY",
@@ -694,7 +698,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-17T15:56:01.050367+00:00",
+      "updated_at": "2026-08-17T16:13:48.589645+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -775,8 +779,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-17T15:56:01.165188+00:00",
+      "updated_at": "2026-08-17T16:13:48.647674+00:00",
       "items": [
+        {
+          "title": "Paytm promoter entity Resilient Asset Management to sell up to 4.98% stake",
+          "link": "https://www.livemint.com/market/stock-market-news/paytm-promoter-entity-resilient-asset-management-to-sell-up-to-4-98-stake-11786982359516.html",
+          "pubDate": "2026-08-17T21:36:57+05:30"
+        },
         {
           "title": "Sunshine Pictures raises  ₹85 crore from anchor investors ahead of IPO launch on Tuesday",
           "link": "https://www.livemint.com/market/stock-market-news/sunshine-pictures-raises-rs-85-crore-from-ancho-investors-ahead-of-ipo-launch-on-tuesday-11786976104952.html",
@@ -921,17 +930,12 @@
           "title": "Lalithaa Jewellery Mart IPO: Issue booked 24% so far. GMP hints 15% listing pop.  Apply or not?",
           "link": "https://www.livemint.com/market/ipo/lalithaa-jewellery-mart-ipo-gmp-lalithaa-jewellery-ipo-gmp-lalithaa-jewellery-ipo-review-lalithaa-jewellery-ipo-date-11786936827173.html",
           "pubDate": "2026-08-17T09:24:51+05:30"
-        },
-        {
-          "title": "Gold and silver prices rise on MCX on a weaker dollar; US-Iran stalled talks cap gains",
-          "link": "https://www.livemint.com/market/commodities/gold-and-silver-prices-rise-on-mcx-on-a-weaker-dollar-us-iran-stalled-talks-cap-gains-11786938089811.html",
-          "pubDate": "2026-08-17T09:19:35+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-17T15:56:01.294521+00:00",
+      "updated_at": "2026-08-17T16:13:48.835250+00:00",
       "items": [
         {
           "title": "Rupee weakens, bond yields rise as RBI shuts FCNR(B) swap window early",
@@ -1087,7 +1091,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-17T15:56:03.348105+00:00",
+      "updated_at": "2026-08-17T16:13:49.882584+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 18, 2026",

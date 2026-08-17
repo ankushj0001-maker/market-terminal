@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T11:55:58.433740+00:00",
+  "generated_at": "2026-08-17T12:19:23.962470+00:00",
   "indices": {
     "nifty50": {
       "price": 24287.65,
@@ -68,7 +68,7 @@
         24287.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T11:55:56.347674+00:00"
+      "updated_at": "2026-08-17T12:19:21.946517+00:00"
     },
     "sensex": {
       "price": 77728.16,
@@ -137,7 +137,7 @@
         77728.15625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T11:55:56.424601+00:00"
+      "updated_at": "2026-08-17T12:19:21.999595+00:00"
     },
     "banknifty": {
       "price": 57497.8,
@@ -206,7 +206,7 @@
         57497.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-17T11:55:56.486455+00:00"
+      "updated_at": "2026-08-17T12:19:22.068592+00:00"
     },
     "vix": {
       "price": 11.325,
@@ -275,7 +275,7 @@
         11.324999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-17T11:55:56.551146+00:00"
+      "updated_at": "2026-08-17T12:19:22.116198+00:00"
     },
     "usdinr": {
       "price": 95.592,
@@ -344,17 +344,13 @@
         95.59200286865234
       ],
       "ok": true,
-      "updated_at": "2026-08-17T11:55:56.695979+00:00"
+      "updated_at": "2026-08-17T12:19:22.384252+00:00"
     },
     "gold": {
-      "price": 4457.1,
-      "change": 19.8,
-      "pct": 0.4462,
+      "price": 4448.3,
+      "change": 11.0,
+      "pct": 0.2479,
       "closes": [
-        4459.2998046875,
-        4457.89990234375,
-        4456.5,
-        4452.7001953125,
         4453.5,
         4453.39990234375,
         4461.2001953125,
@@ -410,20 +406,20 @@
         4459.7001953125,
         4456.5,
         4453.60009765625,
-        4457.10009765625
+        4453.7001953125,
+        4453.5,
+        4451.10009765625,
+        4449.2001953125,
+        4448.2998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-17T11:55:56.751634+00:00"
+      "updated_at": "2026-08-17T12:19:22.453638+00:00"
     },
     "crude": {
-      "price": 82.46,
-      "change": 0.06,
-      "pct": 0.0728,
+      "price": 82.39,
+      "change": -0.01,
+      "pct": -0.0121,
       "closes": [
-        81.8499984741211,
-        81.91999816894531,
-        81.80000305175781,
-        81.77999877929688,
         81.62999725341797,
         81.61000061035156,
         81.80000305175781,
@@ -433,7 +429,7 @@
         81.91999816894531,
         82.19000244140625,
         81.94999694824219,
-        82.23999786376953,
+        82.22000122070312,
         82.16999816894531,
         82.16000366210938,
         82.13999938964844,
@@ -450,23 +446,23 @@
         82.5999984741211,
         82.51000213623047,
         82.45999908447266,
-        82.5199966430664,
+        82.54000091552734,
         82.66999816894531,
-        82.91999816894531,
+        82.91000366210938,
         82.7699966430664,
         82.86000061035156,
         83.12999725341797,
-        82.95999908447266,
+        82.97000122070312,
         83.12000274658203,
         83.18000030517578,
         83.13999938964844,
         83.0199966430664,
         83.01000213623047,
         82.12999725341797,
-        82.79000091552734,
+        82.77999877929688,
         82.91999816894531,
         82.86000061035156,
-        82.87000274658203,
+        82.86000061035156,
         82.6500015258789,
         82.83999633789062,
         82.87000274658203,
@@ -479,10 +475,14 @@
         82.44999694824219,
         82.48999786376953,
         82.58000183105469,
-        82.45999908447266
+        82.48999786376953,
+        82.36000061035156,
+        82.5199966430664,
+        82.4000015258789,
+        82.38999938964844
       ],
       "ok": true,
-      "updated_at": "2026-08-17T11:55:56.832155+00:00"
+      "updated_at": "2026-08-17T12:19:22.524204+00:00"
     },
     "us10y": {
       "price": 4.696,
@@ -551,13 +551,13 @@
         4.696000099182129
       ],
       "ok": true,
-      "updated_at": "2026-08-17T11:55:56.899919+00:00"
+      "updated_at": "2026-08-17T12:19:22.568169+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-17T11:55:56.958503+00:00",
+      "updated_at": "2026-08-17T12:19:22.624005+00:00",
       "items": [
         {
           "title": "Schneider Electric Infrastructure shares tumble 12% after Q1 profit plunges 70% YoY",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-17T11:55:57.011945+00:00",
+      "updated_at": "2026-08-17T12:19:22.740517+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-17T11:55:57.189234+00:00",
+      "updated_at": "2026-08-17T12:19:22.880137+00:00",
       "items": [
+        {
+          "title": "Margin impact of West Asia tensions to soften India's GDP growth to 7% in Q1 FY27, says ICRA",
+          "link": "https://www.livemint.com/market/stock-market-news/margin-impact-of-west-asia-tensions-to-soften-indias-gdp-growth-to-7-in-q1-fy27-says-icra-11786966243262.html",
+          "pubDate": "2026-08-17T17:39:56+05:30"
+        },
         {
           "title": "Penny stock under  ₹5 hits 5% upper circuit after this business diversification move",
           "link": "https://www.livemint.com/market/penny-stock-under-rs-5-hits-5-upper-circuit-after-this-business-diversification-move-11786964708532.html",
@@ -940,18 +945,38 @@
           "title": "Stocks to buy for short term: BDL, Bata India among 3 shares Anand Rathi's Jigar Patel recommends for the next 1-2 weeks",
           "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-bdl-bata-india-among-3-shares-anand-rathis-jigar-patel-recommends-for-the-next-1-2-weeks-11786934823182.html",
           "pubDate": "2026-08-17T08:43:49+05:30"
-        },
-        {
-          "title": "Tempsens Instruments IPO: Price band set at  ₹285-300 per share; check key dates, issue details",
-          "link": "https://www.livemint.com/market/ipo/tempsens-instruments-ipo-price-band-set-at-rs-285-300-per-share-check-key-dates-issue-details-11786934351400.html",
-          "pubDate": "2026-08-17T08:17:45+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-17T11:55:57.355371+00:00",
+      "updated_at": "2026-08-17T12:19:23.042215+00:00",
       "items": [
+        {
+          "title": "Horizon Industrial Parks (HIPL) IPO subscribed 14%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/horizon-industrial-parks-hipl-ipo-subscribed-14-126081701032_1.html",
+          "pubDate": "2026-08-17T17:31:15+05:30"
+        },
+        {
+          "title": "New Delhi Television inks deal to acquire GoodTimes channel",
+          "link": "https://www.business-standard.com/markets/capital-market-news/new-delhi-television-inks-deal-to-acquire-goodtimes-channel-126081701005_1.html",
+          "pubDate": "2026-08-17T17:17:27+05:30"
+        },
+        {
+          "title": "Lalithaa Jewellery Mart IPO subscribed 69%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/lalithaa-jewellery-mart-ipo-subscribed-69-126081701004_1.html",
+          "pubDate": "2026-08-17T17:16:23+05:30"
+        },
+        {
+          "title": "Nifty slips below 24,300 on elevated crude prices; IT, FMCG stocks drag",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-slips-below-24-300-on-elevated-crude-prices-it-fmcg-stocks-drag-126081701003_1.html",
+          "pubDate": "2026-08-17T17:16:15+05:30"
+        },
+        {
+          "title": "Quick Wrap: Nifty IT Index falls 1.75%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/quick-wrap-nifty-it-index-falls-1-75-126081701002_1.html",
+          "pubDate": "2026-08-17T17:16:01+05:30"
+        },
         {
           "title": "Nifty August futures trade at premium",
           "link": "https://www.business-standard.com/markets/capital-market-news/nifty-august-futures-trade-at-premium-126081700950_1.html",
@@ -1076,37 +1101,12 @@
           "title": "Equirus' $20trn economy roadmap: List railways, cut TDS, end STT & more",
           "link": "https://www.business-standard.com/markets/news/equirus-20trn-economy-roadmap-list-railways-cut-tds-end-stt-more-126081700547_1.html",
           "pubDate": "2026-08-17T13:35:26+05:30"
-        },
-        {
-          "title": "Ola Electric unveils its Shakti energy storage portfolio",
-          "link": "https://www.business-standard.com/markets/capital-market-news/ola-electric-unveils-its-shakti-energy-storage-portfolio-126081700546_1.html",
-          "pubDate": "2026-08-17T13:31:02+05:30"
-        },
-        {
-          "title": "Sebi launches portals to strengthen cybersecurity incident reporting",
-          "link": "https://www.business-standard.com/markets/news/sebi-launches-cyber-portals-to-strengthen-incident-reporting-information-sharing-126081700515_1.html",
-          "pubDate": "2026-08-17T13:07:50+05:30"
-        },
-        {
-          "title": "Greaves Cotton acquires balance 20% stake in Excel Controlinkage",
-          "link": "https://www.business-standard.com/markets/capital-market-news/greaves-cotton-acquires-balance-20-stake-in-excel-controlinkage-126081700505_1.html",
-          "pubDate": "2026-08-17T13:04:30+05:30"
-        },
-        {
-          "title": "Lupin receives USFDA approval for Pitolisant Tablets, 4.45 mg and 17.8 mg",
-          "link": "https://www.business-standard.com/markets/capital-market-news/lupin-receives-usfda-approval-for-pitolisant-tablets-4-45-mg-and-17-8-mg-126081700504_1.html",
-          "pubDate": "2026-08-17T13:04:21+05:30"
-        },
-        {
-          "title": "Sky Gold enters MSCI India Domestic Small Cap Index",
-          "link": "https://www.business-standard.com/markets/capital-market-news/sky-gold-enters-msci-india-domestic-small-cap-index-126081700503_1.html",
-          "pubDate": "2026-08-17T13:04:12+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-17T11:55:58.433721+00:00",
+      "updated_at": "2026-08-17T12:19:23.962451+00:00",
       "items": [
         {
           "title": "Result: Conversion/Switch Auction of Government of India Securities",

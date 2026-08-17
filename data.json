@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T11:38:20.119905+00:00",
+  "generated_at": "2026-08-17T11:55:58.433740+00:00",
   "indices": {
     "nifty50": {
       "price": 24287.65,
@@ -30,7 +30,7 @@
         24286.849609375,
         24290.80078125,
         24295.150390625,
-        24297.30078125,
+        24297.05078125,
         24303.5,
         24321.599609375,
         24328.69921875,
@@ -59,7 +59,7 @@
         24339.19921875,
         24343.94921875,
         24338.19921875,
-        24351.349609375,
+        24351.80078125,
         24349.099609375,
         24341.900390625,
         24339.80078125,
@@ -68,7 +68,7 @@
         24287.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T11:38:17.117206+00:00"
+      "updated_at": "2026-08-17T11:55:56.347674+00:00"
     },
     "sensex": {
       "price": 77728.16,
@@ -137,7 +137,7 @@
         77728.15625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T11:38:17.252880+00:00"
+      "updated_at": "2026-08-17T11:55:56.424601+00:00"
     },
     "banknifty": {
       "price": 57497.8,
@@ -206,7 +206,7 @@
         57497.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-17T11:38:17.385532+00:00"
+      "updated_at": "2026-08-17T11:55:56.486455+00:00"
     },
     "vix": {
       "price": 11.325,
@@ -275,7 +275,7 @@
         11.324999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-17T11:38:17.522262+00:00"
+      "updated_at": "2026-08-17T11:55:56.551146+00:00"
     },
     "usdinr": {
       "price": 95.592,
@@ -344,17 +344,13 @@
         95.59200286865234
       ],
       "ok": true,
-      "updated_at": "2026-08-17T11:38:17.661843+00:00"
+      "updated_at": "2026-08-17T11:55:56.695979+00:00"
     },
     "gold": {
-      "price": 4460.5,
-      "change": 23.2,
-      "pct": 0.5228,
+      "price": 4457.1,
+      "change": 19.8,
+      "pct": 0.4462,
       "closes": [
-        4451.0,
-        4452.2998046875,
-        4456.5,
-        4458.39990234375,
         4459.2998046875,
         4457.89990234375,
         4456.5,
@@ -409,21 +405,21 @@
         4456.5,
         4455.10009765625,
         4460.5,
-        4460.2001953125,
-        4460.5
+        4460.2998046875,
+        4460.89990234375,
+        4459.7001953125,
+        4456.5,
+        4453.60009765625,
+        4457.10009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T11:38:17.792754+00:00"
+      "updated_at": "2026-08-17T11:55:56.751634+00:00"
     },
     "crude": {
-      "price": 82.65,
-      "change": 0.25,
-      "pct": 0.3034,
+      "price": 82.46,
+      "change": 0.06,
+      "pct": 0.0728,
       "closes": [
-        81.70999908447266,
-        81.80999755859375,
-        81.7699966430664,
-        81.77999877929688,
         81.8499984741211,
         81.91999816894531,
         81.80000305175781,
@@ -479,10 +475,14 @@
         82.66000366210938,
         82.68000030517578,
         82.63999938964844,
-        82.6500015258789
+        82.5199966430664,
+        82.44999694824219,
+        82.48999786376953,
+        82.58000183105469,
+        82.45999908447266
       ],
       "ok": true,
-      "updated_at": "2026-08-17T11:38:17.935382+00:00"
+      "updated_at": "2026-08-17T11:55:56.832155+00:00"
     },
     "us10y": {
       "price": 4.696,
@@ -551,13 +551,13 @@
         4.696000099182129
       ],
       "ok": true,
-      "updated_at": "2026-08-17T11:38:18.076611+00:00"
+      "updated_at": "2026-08-17T11:55:56.899919+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-17T11:38:18.358183+00:00",
+      "updated_at": "2026-08-17T11:55:56.958503+00:00",
       "items": [
         {
           "title": "Schneider Electric Infrastructure shares tumble 12% after Q1 profit plunges 70% YoY",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-17T11:38:18.733379+00:00",
+      "updated_at": "2026-08-17T11:55:57.011945+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,7 +794,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-17T11:38:19.156823+00:00",
+      "updated_at": "2026-08-17T11:55:57.189234+00:00",
       "items": [
         {
           "title": "Penny stock under  ₹5 hits 5% upper circuit after this business diversification move",
@@ -950,8 +950,13 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-17T11:38:19.317482+00:00",
+      "updated_at": "2026-08-17T11:55:57.355371+00:00",
       "items": [
+        {
+          "title": "Nifty August futures trade at premium",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-august-futures-trade-at-premium-126081700950_1.html",
+          "pubDate": "2026-08-17T17:04:11+05:30"
+        },
         {
           "title": "Sensex, Nifty ends lower amid Q1 earnings, subdued global cues",
           "link": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-ends-lower-amid-q1-earnings-subdued-global-cues-126081700884_1.html",
@@ -1096,17 +1101,12 @@
           "title": "Sky Gold enters MSCI India Domestic Small Cap Index",
           "link": "https://www.business-standard.com/markets/capital-market-news/sky-gold-enters-msci-india-domestic-small-cap-index-126081700503_1.html",
           "pubDate": "2026-08-17T13:04:12+05:30"
-        },
-        {
-          "title": "PTC Industries spurts after PAT rises over fivefold to Rs 29 crore in Q1",
-          "link": "https://www.business-standard.com/markets/capital-market-news/ptc-industries-spurts-after-pat-rises-over-fivefold-to-rs-29-crore-in-q1-126081700502_1.html",
-          "pubDate": "2026-08-17T13:04:02+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-17T11:38:20.119888+00:00",
+      "updated_at": "2026-08-17T11:55:58.433721+00:00",
       "items": [
         {
           "title": "Result: Conversion/Switch Auction of Government of India Securities",

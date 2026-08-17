@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T00:26:06.135207+00:00",
+  "generated_at": "2026-08-17T01:59:03.940972+00:00",
   "indices": {
     "nifty50": {
       "price": 24366.0,
@@ -11,7 +11,7 @@
         24333.80078125,
         24336.69921875,
         24312.19921875,
-        24320.849609375,
+        24320.19921875,
         24314.25,
         24315.0,
         24327.849609375,
@@ -31,7 +31,7 @@
         24347.30078125,
         24344.5,
         24340.900390625,
-        24335.849609375,
+        24336.55078125,
         24345.30078125,
         24350.69921875,
         24349.55078125,
@@ -47,9 +47,9 @@
         24383.69921875,
         24385.599609375,
         24395.0,
-        24395.55078125,
+        24395.30078125,
         24389.94921875,
-        24383.55078125,
+        24383.349609375,
         24379.94921875,
         24376.900390625,
         24371.599609375,
@@ -68,7 +68,7 @@
         24366.0
       ],
       "ok": true,
-      "updated_at": "2026-08-17T00:25:58.497234+00:00"
+      "updated_at": "2026-08-17T01:59:00.951951+00:00"
     },
     "sensex": {
       "price": 78009.25,
@@ -137,7 +137,7 @@
         78009.25
       ],
       "ok": true,
-      "updated_at": "2026-08-17T00:25:58.552178+00:00"
+      "updated_at": "2026-08-17T01:59:01.100237+00:00"
     },
     "banknifty": {
       "price": 57491.1,
@@ -206,7 +206,7 @@
         57491.1015625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T00:25:58.604007+00:00"
+      "updated_at": "2026-08-17T01:59:01.244507+00:00"
     },
     "vix": {
       "price": 11.305,
@@ -275,20 +275,23 @@
         11.305000305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-17T00:25:58.660191+00:00"
+      "updated_at": "2026-08-17T01:59:01.424971+00:00"
     },
     "usdinr": {
       "price": 95.415,
       "change": 0.0,
       "pct": 0.0,
-      "closes": [],
+      "closes": [
+        95.41500091552734,
+        95.41500091552734
+      ],
       "ok": true,
-      "updated_at": "2026-08-17T00:25:58.704988+00:00"
+      "updated_at": "2026-08-17T01:59:01.559925+00:00"
     },
     "gold": {
-      "price": 4434.9,
-      "change": -2.4,
-      "pct": -0.0541,
+      "price": 4452.4,
+      "change": 15.1,
+      "pct": 0.3403,
       "closes": [
         4432.60009765625,
         4430.7998046875,
@@ -307,24 +310,42 @@
         4431.7998046875,
         4430.10009765625,
         4426.7001953125,
-        4425.7998046875,
+        4423.7998046875,
         4424.0,
         4426.89990234375,
         4427.10009765625,
         4425.5,
-        4430.7001953125,
+        4430.39990234375,
         4427.7998046875,
         4434.39990234375,
-        4434.89990234375,
-        4434.89990234375
+        4439.89990234375,
+        4442.2998046875,
+        4443.2998046875,
+        4448.2001953125,
+        4445.2001953125,
+        4451.60009765625,
+        4450.7001953125,
+        4453.60009765625,
+        4457.2998046875,
+        4464.39990234375,
+        4463.2001953125,
+        4465.7998046875,
+        4464.7001953125,
+        4469.10009765625,
+        4465.10009765625,
+        4458.7998046875,
+        4457.2998046875,
+        4459.89990234375,
+        4452.39990234375,
+        4452.39990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-17T00:25:58.762907+00:00"
+      "updated_at": "2026-08-17T01:59:01.724396+00:00"
     },
     "crude": {
-      "price": 82.12,
-      "change": -0.28,
-      "pct": -0.3398,
+      "price": 82.73,
+      "change": 0.33,
+      "pct": 0.4005,
       "closes": [
         82.61000061035156,
         82.5999984741211,
@@ -343,7 +364,7 @@
         82.44000244140625,
         82.44999694824219,
         82.4800033569336,
-        82.43000030517578,
+        82.47000122070312,
         82.41000366210938,
         82.3499984741211,
         82.3499984741211,
@@ -351,11 +372,29 @@
         82.23999786376953,
         82.1500015258789,
         82.08999633789062,
+        82.16000366210938,
+        82.05999755859375,
+        82.08000183105469,
+        82.16999816894531,
+        82.25,
         82.1500015258789,
-        82.12000274658203
+        82.1500015258789,
+        82.05000305175781,
+        81.88999938964844,
+        82.0999984741211,
+        82.22000122070312,
+        82.16000366210938,
+        82.0999984741211,
+        82.18000030517578,
+        82.13999938964844,
+        82.55000305175781,
+        82.52999877929688,
+        82.7699966430664,
+        82.7300033569336,
+        82.7300033569336
       ],
       "ok": true,
-      "updated_at": "2026-08-17T00:25:58.811336+00:00"
+      "updated_at": "2026-08-17T01:59:01.924030+00:00"
     },
     "us10y": {
       "price": 4.696,
@@ -424,43 +463,43 @@
         4.696000099182129
       ],
       "ok": true,
-      "updated_at": "2026-08-17T00:25:58.912847+00:00"
+      "updated_at": "2026-08-17T01:59:02.094553+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-17T00:26:05.106408+00:00",
+      "updated_at": "2026-08-17T01:59:02.447515+00:00",
       "items": [
         {
-          "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/133273600.cms",
-          "pubDate": "2026-08-16T16:05:27+05:30"
+          "title": "Global Market Today: Asian shares mixed, dollar dips as Fed hike bets ease",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-mixed-dollar-dips-as-fed-hike-bets-ease/articleshow/133284332.cms",
+          "pubDate": "2026-08-17T06:36:47+05:30"
         },
         {
-          "title": "Big Bull's magic: How Rakesh Jhunjhunwala turned Rs 1 crore into Rs 20 crore overnight after the 1989 budget",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/big-bulls-magic-how-rakesh-jhunjhunwala-turned-rs-1-crore-into-rs-20-crore-overnight-after-the-1989-budget/articleshow/133272063.cms",
-          "pubDate": "2026-08-16T13:41:03+05:30"
+          "title": "India Inc clocks strongest revenue growth in 9 quarters; margins squeezed by rising costs",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/india-inc-revenue-surges-19-4-in-q1-strongest-in-nine-quarters-driven-by-auto-banking-metals-pharma/articleshow/133284287.cms",
+          "pubDate": "2026-08-17T06:26:34+05:30"
         },
         {
-          "title": "PPFAS Mutual Fund among 6 MFs holding over Rs 10,000 crore in cash in July",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/ppfas-mutual-fund-among-6-mfs-holding-over-rs-10000-crore-in-cash-in-july/slideshow/133271353.cms",
-          "pubDate": "2026-08-16T12:16:39+05:30"
+          "title": "Nifty takes a breather as bulls and bears watch the next move: Analysts",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-takes-a-breather-as-bulls-and-bears-watch-the-next-move-analysts/articleshow/133284227.cms",
+          "pubDate": "2026-08-17T06:09:00+05:30"
         },
         {
-          "title": "9 penny stocks surge up to 325% in 2026 so far; 3 turn multibaggers. Did you own any?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/9-penny-stocks-surge-up-to-325-in-2026-so-far-3-turn-multibaggers-did-you-own-any/slideshow/133271258.cms",
-          "pubDate": "2026-08-16T11:48:40+05:30"
+          "title": "Equity investments should give about 15% annual returns over next 5 years: Raamdeo Agrawal",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/equity-investments-should-give-about-15-annual-returns-over-next-5-years-raamdeo-agrawal/articleshow/133284211.cms",
+          "pubDate": "2026-08-17T05:55:10+05:30"
         },
         {
-          "title": "Will Sensex, Nifty continue to bleed on Monday? 4 factors which will drive D-Street action this week",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-continue-to-bleed-on-monday-4-factors-which-will-drive-d-street-action-this-week/articleshow/133270103.cms",
-          "pubDate": "2026-08-16T10:30:22+05:30"
+          "title": "Can Horizon Parks IPO deliver long-term growth for high-risk investors?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-horizon-parks-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133284185.cms",
+          "pubDate": "2026-08-17T05:45:59+05:30"
         },
         {
-          "title": "Physicswallah among top 5 smallcap stocks facing highest mutual fund selling in July",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/physicswallah-among-top-5-smallcap-stocks-facing-highest-mutual-fund-selling-in-july/slideshow/133270081.cms",
-          "pubDate": "2026-08-16T10:16:26+05:30"
+          "title": "Banks may rush to tap short loans abroad",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/banks-may-rush-to-tap-short-loans-abroad/articleshow/133284204.cms",
+          "pubDate": "2026-08-17T01:07:00+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -585,8 +624,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-16T18:09:23.638822+00:00",
+      "ok": true,
+      "updated_at": "2026-08-17T01:59:02.802028+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -667,8 +706,63 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-17T00:26:05.360696+00:00",
+      "updated_at": "2026-08-17T01:59:02.950940+00:00",
       "items": [
+        {
+          "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 17 August",
+          "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-17-august-11786930432332.html",
+          "pubDate": "2026-08-17T07:24:49+05:30"
+        },
+        {
+          "title": "From Gift Nifty to Japan's Q2 GDP, oil prices: 7 key things that changed for Indian stock market overnight",
+          "link": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-japans-q2-gdp-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11786928889550.html",
+          "pubDate": "2026-08-17T07:10:39+05:30"
+        },
+        {
+          "title": "Australia shares fall after NAB results offset miners, Middle East tensions drag",
+          "link": "https://www.livemint.com/market/australia-shares-fall-after-nab-results-offset-miners-middle-east-tensions-drag-11786930466749.html",
+          "pubDate": "2026-08-17T07:04:26+05:30"
+        },
+        {
+          "title": "Dhoot Transmission IPO listing date today. Here’s what GMP, experts hint on share debut",
+          "link": "https://www.livemint.com/market/ipo/dhoot-transmission-ipo-gmp-dhoot-transmission-ipo-allotment-dhoot-transmission-ipo-listing-date-dhoot-transmission-ipo-11786900382536.html",
+          "pubDate": "2026-08-17T06:55:21+05:30"
+        },
+        {
+          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 17 August 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-17-august-2026-11786927363028.html",
+          "pubDate": "2026-08-17T06:31:47+05:30"
+        },
+        {
+          "title": "Indian equities may stay rangebound for another 6-9 months, says Mahindra Manulife MF CEO",
+          "link": "https://www.livemint.com/market/stock-market-news/indian-stock-market-outlook-range-bound-fpi-dii-mahindra-manulife-mf-ceo-11786854806606.html",
+          "pubDate": "2026-08-17T06:11:04+05:30"
+        },
+        {
+          "title": "Yen edges up as traders push back Fed rate hike bets",
+          "link": "https://www.livemint.com/market/yen-edges-up-as-traders-push-back-fed-rate-hike-bets-11786927254730.html",
+          "pubDate": "2026-08-17T06:10:54+05:30"
+        },
+        {
+          "title": "Thai Baht Rally May Fade on Dovish Central Bank, Analysts Say",
+          "link": "https://www.livemint.com/market/thai-baht-rally-may-fade-on-dovish-central-bank-analysts-say-11786926888646.html",
+          "pubDate": "2026-08-17T06:04:48+05:30"
+        },
+        {
+          "title": "Cement makers face a forgettable H1FY27 as prices weaken and costs rise",
+          "link": "https://www.livemint.com/market/mark-to-market/cement-weak-prices-cost-inflation-means-a-forgettable-first-half-of-fy27-ultratech-shree-ambuja-11786847193200.html",
+          "pubDate": "2026-08-17T06:00:44+05:30"
+        },
+        {
+          "title": "Raja Venkatraman recommends three stocks for 17 August",
+          "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-17-august-11786781734398.html",
+          "pubDate": "2026-08-17T06:00:44+05:30"
+        },
+        {
+          "title": "Stock recommendations for 17 August from MarketSmith India",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-17-august-from-marketsmith-india-11786787152816.html",
+          "pubDate": "2026-08-17T06:00:24+05:30"
+        },
         {
           "title": "Auction session volumes hit rock bottom",
           "link": "https://www.livemint.com/market/auction-session-volumes-hit-rock-bottom-11786868891990.html",
@@ -700,7 +794,7 @@
           "pubDate": "2026-08-16T16:09:19+05:30"
         },
         {
-          "title": "Molbio Diagnostics IPO listing date tomorrow. Here's what GMP, experts signal ahead of debut",
+          "title": "Molbio Diagnostics IPO listing date today. Here's what GMP, experts signal ahead of debut",
           "link": "https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-listing-date-tomorrow-heres-what-gmp-experts-signal-ahead-of-debut-11786870962625.html",
           "pubDate": "2026-08-16T16:00:53+05:30"
         },
@@ -763,67 +857,12 @@
           "title": "Independence Day 2026:  ₹89 to  ₹1,54,500 — gold price rises 1,73,500% in 79 years; here's how",
           "link": "https://www.livemint.com/market/commodities/independence-day-2026-rs-89-to-rs-1-54-500-gold-price-rises-1-73-500-in-79-years-heres-how-gold-rate-in-india-move-11786782745634.html",
           "pubDate": "2026-08-15T15:35:27+05:30"
-        },
-        {
-          "title": "IPO GMPs: Milky Mist IPO to Behari Lal Engineering IPO - what grey market hints",
-          "link": "https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-gmp-shiprocket-ipo-gmp-milky-mist-ipo-gmp-dhoot-transmission-ipo-gmp-molbio-diagnostics-ipo-g-11786778127510.html",
-          "pubDate": "2026-08-15T13:55:37+05:30"
-        },
-        {
-          "title": "Buy or sell: Sumeet Bagadia recommends these three Independence Day stock picks. Should you buy?",
-          "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-these-three-independence-day-stock-picks-should-you-buy-11786780566982.html",
-          "pubDate": "2026-08-15T13:48:17+05:30"
-        },
-        {
-          "title": "Lalithaa Jewellery Mart IPO kicks-off on 17 August: GMP hints 11% listing pop; check 10 key things to know",
-          "link": "https://www.livemint.com/market/ipo/lalithaa-jewellery-mart-ipo-gmp-lalithaa-jewellery-mart-ipo-details-lalithaa-jewellery-ipo-gmp-india-independence-day-11786775870610.html",
-          "pubDate": "2026-08-15T12:42:29+05:30"
-        },
-        {
-          "title": "Independence Day 2026: BEL to BEML — Ganesh Dongre of Anand Rathi recommends these four stocks to buy",
-          "link": "https://www.livemint.com/market/stock-market-news/independence-day-2026-bel-to-beml-ganesh-dongre-of-anand-rathi-recommends-these-four-stocks-to-buy-11786767806447.html",
-          "pubDate": "2026-08-15T10:58:02+05:30"
-        },
-        {
-          "title": "Nifty 50 has delivered negative returns over the last year; is it the right time to increase your bets on equities?",
-          "link": "https://www.livemint.com/market/stock-market-news/nifty-50-has-delivered-negative-returns-over-the-last-year-is-it-the-right-time-to-increase-your-bets-on-equities-11786765516810.html",
-          "pubDate": "2026-08-15T10:46:28+05:30"
-        },
-        {
-          "title": "15 Nifty 500 stocks that doubled investors’ money since last Independence Day: Do you own any?",
-          "link": "https://www.livemint.com/market/stock-market-news/15-nifty-500-stocks-that-doubled-investors-money-since-last-independence-day-do-you-own-any-11786763570569.html",
-          "pubDate": "2026-08-15T10:06:08+05:30"
-        },
-        {
-          "title": "RVNL vs IRFC vs IRCON vs IRCTC: Which railway stock to buy after Q1 results 2026?",
-          "link": "https://www.livemint.com/market/stock-market-news/rvnl-vs-irfc-vs-ircon-vs-irctc-which-railway-stock-to-buy-after-q1-results-2026-11786761714978.html",
-          "pubDate": "2026-08-15T09:33:49+05:30"
-        },
-        {
-          "title": "Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell",
-          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11786758559895.html",
-          "pubDate": "2026-08-15T07:52:20+05:30"
-        },
-        {
-          "title": "These 5 stocks are paying out more than their profits in dividends",
-          "link": "https://www.livemint.com/market/stock-market-news/these-5-stocks-are-paying-out-more-than-their-profits-in-dividends-11786726883470.html",
-          "pubDate": "2026-08-15T07:00:25+05:30"
-        },
-        {
-          "title": "Singapore Stocks’ Record Run Gets ‘Goldilocks’ Boost From Growth",
-          "link": "https://www.livemint.com/market/singapore-stocks-record-run-gets-goldilocks-boost-from-growth-11786753879545.html",
-          "pubDate": "2026-08-15T06:01:19+05:30"
-        },
-        {
-          "title": "Jane Street Lost $15 Billion in Its First Down Month in a Decade",
-          "link": "https://www.livemint.com/market/jane-street-lost-15-billion-in-its-first-down-month-in-a-decade-11786748784900.html",
-          "pubDate": "2026-08-15T04:36:24+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-17T00:26:05.391276+00:00",
+      "updated_at": "2026-08-17T01:59:03.188046+00:00",
       "items": [
         {
           "title": "West Asia developments, Fed minutes to shape bullion's next move: Analysts",
@@ -979,7 +1018,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-17T00:26:06.135192+00:00",
+      "updated_at": "2026-08-17T01:59:03.940953+00:00",
       "items": [
         {
           "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2021-22 Series V due on August 17, 2026",

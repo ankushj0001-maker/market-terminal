@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T23:53:08.465610+00:00",
+  "generated_at": "2026-08-17T00:26:06.135207+00:00",
   "indices": {
     "nifty50": {
       "price": 24366.0,
@@ -68,7 +68,7 @@
         24366.0
       ],
       "ok": true,
-      "updated_at": "2026-08-16T23:53:06.327050+00:00"
+      "updated_at": "2026-08-17T00:25:58.497234+00:00"
     },
     "sensex": {
       "price": 78009.25,
@@ -137,7 +137,7 @@
         78009.25
       ],
       "ok": true,
-      "updated_at": "2026-08-16T23:53:06.495464+00:00"
+      "updated_at": "2026-08-17T00:25:58.552178+00:00"
     },
     "banknifty": {
       "price": 57491.1,
@@ -206,7 +206,7 @@
         57491.1015625
       ],
       "ok": true,
-      "updated_at": "2026-08-16T23:53:06.601061+00:00"
+      "updated_at": "2026-08-17T00:25:58.604007+00:00"
     },
     "vix": {
       "price": 11.305,
@@ -275,7 +275,7 @@
         11.305000305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-16T23:53:06.711195+00:00"
+      "updated_at": "2026-08-17T00:25:58.660191+00:00"
     },
     "usdinr": {
       "price": 95.415,
@@ -283,12 +283,12 @@
       "pct": 0.0,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-16T23:53:06.810881+00:00"
+      "updated_at": "2026-08-17T00:25:58.704988+00:00"
     },
     "gold": {
-      "price": 4423.9,
-      "change": -13.4,
-      "pct": -0.302,
+      "price": 4434.9,
+      "change": -2.4,
+      "pct": -0.0541,
       "closes": [
         4432.60009765625,
         4430.7998046875,
@@ -309,15 +309,22 @@
         4426.7001953125,
         4425.7998046875,
         4424.0,
-        4423.89990234375
+        4426.89990234375,
+        4427.10009765625,
+        4425.5,
+        4430.7001953125,
+        4427.7998046875,
+        4434.39990234375,
+        4434.89990234375,
+        4434.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-16T23:53:06.931195+00:00"
+      "updated_at": "2026-08-17T00:25:58.762907+00:00"
     },
     "crude": {
-      "price": 82.42,
-      "change": 0.02,
-      "pct": 0.0243,
+      "price": 82.12,
+      "change": -0.28,
+      "pct": -0.3398,
       "closes": [
         82.61000061035156,
         82.5999984741211,
@@ -338,10 +345,17 @@
         82.4800033569336,
         82.43000030517578,
         82.41000366210938,
-        82.41999816894531
+        82.3499984741211,
+        82.3499984741211,
+        82.33000183105469,
+        82.23999786376953,
+        82.1500015258789,
+        82.08999633789062,
+        82.1500015258789,
+        82.12000274658203
       ],
       "ok": true,
-      "updated_at": "2026-08-16T23:53:07.032689+00:00"
+      "updated_at": "2026-08-17T00:25:58.811336+00:00"
     },
     "us10y": {
       "price": 4.696,
@@ -410,13 +424,13 @@
         4.696000099182129
       ],
       "ok": true,
-      "updated_at": "2026-08-16T23:53:07.156276+00:00"
+      "updated_at": "2026-08-17T00:25:58.912847+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-16T23:53:07.251652+00:00",
+      "updated_at": "2026-08-17T00:26:05.106408+00:00",
       "items": [
         {
           "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
@@ -653,8 +667,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-16T23:53:07.485372+00:00",
+      "updated_at": "2026-08-17T00:26:05.360696+00:00",
       "items": [
+        {
+          "title": "Auction session volumes hit rock bottom",
+          "link": "https://www.livemint.com/market/auction-session-volumes-hit-rock-bottom-11786868891990.html",
+          "pubDate": "2026-08-17T05:30:43+05:30"
+        },
         {
           "title": "At AI-fueled market party, Wall Street eyes the rates punch bowl",
           "link": "https://www.livemint.com/market/stock-market-news/at-ai-fueled-market-party-wall-street-eyes-the-rates-punch-bowl-11786902314426.html",
@@ -799,17 +818,12 @@
           "title": "Jane Street Lost $15 Billion in Its First Down Month in a Decade",
           "link": "https://www.livemint.com/market/jane-street-lost-15-billion-in-its-first-down-month-in-a-decade-11786748784900.html",
           "pubDate": "2026-08-15T04:36:24+05:30"
-        },
-        {
-          "title": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings",
-          "link": "https://www.livemint.com/market/institutional-investors-reveal-cautious-approach-to-tech-favorites-in-us-quarterly-13f-filings-11786744463480.html",
-          "pubDate": "2026-08-15T03:24:23+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-16T23:53:07.698576+00:00",
+      "updated_at": "2026-08-17T00:26:05.391276+00:00",
       "items": [
         {
           "title": "West Asia developments, Fed minutes to shape bullion's next move: Analysts",
@@ -965,7 +979,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-16T23:53:08.465595+00:00",
+      "updated_at": "2026-08-17T00:26:06.135192+00:00",
       "items": [
         {
           "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2021-22 Series V due on August 17, 2026",

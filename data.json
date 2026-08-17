@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T13:51:21.059202+00:00",
+  "generated_at": "2026-08-17T14:14:35.887443+00:00",
   "indices": {
     "nifty50": {
       "price": 24287.65,
@@ -68,7 +68,7 @@
         24287.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T13:51:18.461467+00:00"
+      "updated_at": "2026-08-17T14:14:33.762995+00:00"
     },
     "sensex": {
       "price": 77728.16,
@@ -137,7 +137,7 @@
         77728.15625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T13:51:18.576606+00:00"
+      "updated_at": "2026-08-17T14:14:33.808697+00:00"
     },
     "banknifty": {
       "price": 57497.8,
@@ -206,7 +206,7 @@
         57497.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-17T13:51:18.676789+00:00"
+      "updated_at": "2026-08-17T14:14:33.852311+00:00"
     },
     "vix": {
       "price": 11.325,
@@ -275,7 +275,7 @@
         11.324999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-17T13:51:18.847277+00:00"
+      "updated_at": "2026-08-17T14:14:33.900895+00:00"
     },
     "usdinr": {
       "price": 95.592,
@@ -344,17 +344,13 @@
         95.59200286865234
       ],
       "ok": true,
-      "updated_at": "2026-08-17T13:51:18.949330+00:00"
+      "updated_at": "2026-08-17T14:14:33.985791+00:00"
     },
     "gold": {
-      "price": 4443.4,
-      "change": 6.1,
-      "pct": 0.1375,
+      "price": 4464.4,
+      "change": 27.1,
+      "pct": 0.6107,
       "closes": [
-        4449.60009765625,
-        4451.10009765625,
-        4452.5,
-        4455.89990234375,
         4455.2998046875,
         4454.7001953125,
         4452.60009765625,
@@ -410,20 +406,20 @@
         4445.2998046875,
         4444.89990234375,
         4441.89990234375,
-        4443.39990234375
+        4451.60009765625,
+        4457.89990234375,
+        4465.2998046875,
+        4464.89990234375,
+        4464.39990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-17T13:51:19.107676+00:00"
+      "updated_at": "2026-08-17T14:14:34.036648+00:00"
     },
     "crude": {
-      "price": 82.71,
-      "change": 0.31,
-      "pct": 0.3762,
+      "price": 82.38,
+      "change": -0.02,
+      "pct": -0.0243,
       "closes": [
-        82.30999755859375,
-        82.37999725341797,
-        82.52999877929688,
-        82.63999938964844,
         82.5999984741211,
         82.51000213623047,
         82.45999908447266,
@@ -479,15 +475,19 @@
         82.68000030517578,
         82.7300033569336,
         82.76000213623047,
-        82.70999908447266
+        82.73999786376953,
+        82.62000274658203,
+        82.62999725341797,
+        82.41999816894531,
+        82.37999725341797
       ],
       "ok": true,
-      "updated_at": "2026-08-17T13:51:19.266266+00:00"
+      "updated_at": "2026-08-17T14:14:34.161497+00:00"
     },
     "us10y": {
-      "price": 4.708,
-      "change": 0.012,
-      "pct": 0.2555,
+      "price": 4.704,
+      "change": 0.008,
+      "pct": 0.1704,
       "closes": [
         4.699999809265137,
         4.708000183105469,
@@ -505,16 +505,20 @@
         4.706000328063965,
         4.708000183105469,
         4.708000183105469,
-        4.708000183105469
+        4.706000328063965,
+        4.703999996185303,
+        4.703999996185303,
+        4.703999996185303,
+        4.703999996185303
       ],
       "ok": true,
-      "updated_at": "2026-08-17T13:51:19.399578+00:00"
+      "updated_at": "2026-08-17T14:14:34.318535+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-17T13:51:19.565370+00:00",
+      "updated_at": "2026-08-17T14:14:34.346395+00:00",
       "items": [
         {
           "title": "Schneider Electric Infrastructure shares tumble 12% after Q1 profit plunges 70% YoY",
@@ -669,7 +673,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-17T13:51:19.631382+00:00",
       "items": [
         {
@@ -751,8 +755,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-17T13:51:19.833600+00:00",
+      "updated_at": "2026-08-17T14:14:34.901892+00:00",
       "items": [
+        {
+          "title": "US stocks mixed as Iran tensions weigh, Anthropic outlook lifts tech stocks",
+          "link": "https://www.livemint.com/market/stock-market-news/us-stocks-mixed-as-iran-tensions-weigh-anthropic-outlook-lifts-tech-stocks-11786974172565.html",
+          "pubDate": "2026-08-17T19:31:17+05:30"
+        },
+        {
+          "title": "Up over 110% in one year: Axis Direct sees another 10% upside in this multibagger stock",
+          "link": "https://www.livemint.com/market/stock-market-news/up-over-110-in-one-year-axis-direct-sees-another-10-upside-in-this-multibagger-stock-11786974383658.html",
+          "pubDate": "2026-08-17T19:25:22+05:30"
+        },
         {
           "title": "US stock market today: S&amp;P 500, Dow futures steady after 3-week winning streak; oil rises on Hormuz risks",
           "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-dow-futures-steady-after-3-week-winning-streak-oil-rises-on-hormuz-risks-11786969512356.html",
@@ -892,23 +906,23 @@
           "title": "Rupee opens 5 paise lower at 95.48 against US dollar",
           "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-5-paise-lower-at-95-48-against-us-dollar-11786937803681.html",
           "pubDate": "2026-08-17T09:08:20+05:30"
-        },
-        {
-          "title": "Nikkei, KOSPI to US stocks: Global equity heatmap you must know before the opening bell of the Indian stock market",
-          "link": "https://www.livemint.com/market/stock-market-news/nikkei-225-kospi-us-stocks-global-markets-equity-heatmap-stock-market-holidays-indian-stock-markets-opening-bell-11786933461146.html",
-          "pubDate": "2026-08-17T09:07:29+05:30"
-        },
-        {
-          "title": "Gold Rises to Near $4,400 as Weak Retail Data Weighs on Dollar",
-          "link": "https://www.livemint.com/market/gold-rises-to-near-4-400-as-weak-retail-data-weighs-on-dollar-11786937454532.html",
-          "pubDate": "2026-08-17T09:00:54+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-17T13:51:19.993761+00:00",
+      "updated_at": "2026-08-17T14:14:34.937925+00:00",
       "items": [
+        {
+          "title": "FII ownership falls to 17-year low as domestic investors strengthen grip",
+          "link": "https://www.business-standard.com/markets/news/fii-ownership-falls-to-17-year-low-as-domestic-investors-strengthen-grip-126081701286_1.html",
+          "pubDate": "2026-08-17T19:36:17+05:30"
+        },
+        {
+          "title": "Om Infra executes supplementary agreement for ongoing water project in UP",
+          "link": "https://www.business-standard.com/markets/capital-market-news/om-infra-executes-supplementary-agreement-for-ongoing-water-project-in-up-126081701244_1.html",
+          "pubDate": "2026-08-17T19:16:07+05:30"
+        },
         {
           "title": "Horizon Industrial Parks IPO gets 14% subscription on first day of bidding",
           "link": "https://www.business-standard.com/markets/ipo/horizon-industrial-parks-ipo-gets-14-subscription-on-first-day-of-bidding-126081701061_1.html",
@@ -1048,22 +1062,12 @@
           "title": "Mukul Agrawal portfolio stock PTC Industries soars 8% on strong Q1 results",
           "link": "https://www.business-standard.com/markets/news/mukul-agrawal-portfolio-stock-ptc-industries-soars-8-on-strong-q1-results-126081700579_1.html",
           "pubDate": "2026-08-17T14:22:29+05:30"
-        },
-        {
-          "title": "Schneider Electric Infrastructure slumps after dismal Q1 performance",
-          "link": "https://www.business-standard.com/markets/capital-market-news/schneider-electric-infrastructure-slumps-after-dismal-q1-performance-126081700618_1.html",
-          "pubDate": "2026-08-17T14:16:12+05:30"
-        },
-        {
-          "title": "$115/bbl: CareEdge pegs oil level seen turning OMCs' operating profit red",
-          "link": "https://www.business-standard.com/markets/news/oil-prices-at-115-bbl-careedge-pegs-level-that-could-turn-omcs-operating-profit-negative-126081700591_1.html",
-          "pubDate": "2026-08-17T14:08:12+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-17T13:51:21.059184+00:00",
+      "updated_at": "2026-08-17T14:14:35.887427+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 18, 2026",

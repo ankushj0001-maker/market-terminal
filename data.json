@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-17T07:28:28.128771+00:00",
+  "generated_at": "2026-08-17T08:06:03.397220+00:00",
   "indices": {
     "nifty50": {
-      "price": 24324.55,
-      "change": -41.45,
-      "pct": -0.1701,
+      "price": 24343.05,
+      "change": -22.95,
+      "pct": -0.0942,
       "closes": [
         24306.650390625,
         24303.400390625,
@@ -46,20 +46,27 @@
         24286.849609375,
         24290.80078125,
         24295.150390625,
-        24297.05078125,
+        24297.30078125,
         24303.5,
         24321.599609375,
         24328.69921875,
-        24322.44921875,
-        24324.55078125
+        24333.94921875,
+        24344.0,
+        24338.44921875,
+        24346.349609375,
+        24349.30078125,
+        24345.5,
+        24351.849609375,
+        24349.150390625,
+        24343.05078125
       ],
       "ok": true,
-      "updated_at": "2026-08-17T07:28:26.351925+00:00"
+      "updated_at": "2026-08-17T08:06:00.225940+00:00"
     },
     "sensex": {
-      "price": 77722.72,
-      "change": -286.53,
-      "pct": -0.3673,
+      "price": 77876.54,
+      "change": -132.71,
+      "pct": -0.1701,
       "closes": [
         77718.46875,
         77718.4921875,
@@ -102,16 +109,23 @@
         77662.359375,
         77690.34375,
         77707.703125,
-        77718.6875,
-        77722.71875
+        77721.890625,
+        77788.25,
+        77809.28125,
+        77824.7421875,
+        77870.328125,
+        77846.1875,
+        77876.390625,
+        77872.6328125,
+        77876.5390625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T07:28:26.399797+00:00"
+      "updated_at": "2026-08-17T08:06:00.364063+00:00"
     },
     "banknifty": {
-      "price": 57523.75,
-      "change": 32.65,
-      "pct": 0.0568,
+      "price": 57625.75,
+      "change": 134.65,
+      "pct": 0.2342,
       "closes": [
         57290.8515625,
         57271.1015625,
@@ -157,16 +171,24 @@
         57367.05078125,
         57428.3515625,
         57477.6484375,
-        57502.55078125,
-        57523.75
+        57574.25,
+        57621.05078125,
+        57617.75,
+        57656.75,
+        57657.94921875,
+        57628.3984375,
+        57635.94921875,
+        57629.1484375,
+        57624.6484375,
+        57625.75
       ],
       "ok": true,
-      "updated_at": "2026-08-17T07:28:26.448695+00:00"
+      "updated_at": "2026-08-17T08:06:00.522027+00:00"
     },
     "vix": {
-      "price": 11.387,
-      "change": 0.082,
-      "pct": 0.7253,
+      "price": 11.36,
+      "change": 0.055,
+      "pct": 0.4865,
       "closes": [
         11.702500343322754,
         11.587499618530273,
@@ -212,21 +234,25 @@
         11.447500228881836,
         11.412500381469727,
         11.414999961853027,
-        11.385000228881836,
-        11.387499809265137
+        11.4399995803833,
+        11.392499923706055,
+        11.390000343322754,
+        11.380000114440918,
+        11.395000457763672,
+        11.369999885559082,
+        11.3774995803833,
+        11.359999656677246,
+        11.359999656677246,
+        11.359999656677246
       ],
       "ok": true,
-      "updated_at": "2026-08-17T07:28:26.493779+00:00"
+      "updated_at": "2026-08-17T08:06:00.703354+00:00"
     },
     "usdinr": {
-      "price": 95.585,
-      "change": 0.17,
-      "pct": 0.1782,
+      "price": 95.6025,
+      "change": 0.1875,
+      "pct": 0.1965,
       "closes": [
-        95.41500091552734,
-        95.41500091552734,
-        95.41500091552734,
-        95.41500091552734,
         95.41500091552734,
         95.41500091552734,
         95.41500091552734,
@@ -278,18 +304,25 @@
         95.58999633789062,
         95.58000183105469,
         95.5875015258789,
+        95.57250213623047,
+        95.56999969482422,
         95.58499908447266,
-        95.58499908447266
+        95.59200286865234,
+        95.6050033569336,
+        95.60299682617188,
+        95.60749816894531,
+        95.61000061035156,
+        95.60250091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-17T07:28:26.543250+00:00"
+      "updated_at": "2026-08-17T08:06:00.852462+00:00"
     },
     "gold": {
-      "price": 4454.7,
-      "change": 17.4,
-      "pct": 0.3921,
+      "price": 4462.2,
+      "change": 24.9,
+      "pct": 0.5612,
       "closes": [
-        4454.2001953125,
+        4454.2998046875,
         4454.7998046875,
         4455.10009765625,
         4453.7998046875,
@@ -299,8 +332,8 @@
         4449.10009765625,
         4452.10009765625,
         4452.39990234375,
-        4451.60009765625,
-        4447.10009765625,
+        4453.2001953125,
+        4447.2001953125,
         4449.2001953125,
         4448.7001953125,
         4444.39990234375,
@@ -310,7 +343,7 @@
         4452.89990234375,
         4452.39990234375,
         4452.2998046875,
-        4453.60009765625,
+        4453.89990234375,
         4449.60009765625,
         4451.2998046875,
         4452.2001953125,
@@ -329,27 +362,35 @@
         4456.5,
         4452.7001953125,
         4453.5,
-        4454.7001953125
+        4453.39990234375,
+        4461.2001953125,
+        4463.2998046875,
+        4464.10009765625,
+        4465.5,
+        4463.89990234375,
+        4461.0,
+        4461.5,
+        4462.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-17T07:28:26.585743+00:00"
+      "updated_at": "2026-08-17T08:06:01.001696+00:00"
     },
     "crude": {
-      "price": 81.6,
-      "change": -0.8,
-      "pct": -0.9709,
+      "price": 82.12,
+      "change": -0.28,
+      "pct": -0.3398,
       "closes": [
         82.01000213623047,
         82.13999938964844,
         82.08999633789062,
         82.20999908447266,
         82.2699966430664,
-        82.30999755859375,
+        82.31999969482422,
         82.23999786376953,
         82.20999908447266,
         82.19000244140625,
         82.2300033569336,
-        82.20999908447266,
+        82.16999816894531,
         82.1500015258789,
         82.08999633789062,
         82.16000366210938,
@@ -379,10 +420,18 @@
         81.80000305175781,
         81.77999877929688,
         81.62999725341797,
-        81.5999984741211
+        81.61000061035156,
+        81.80000305175781,
+        81.8499984741211,
+        81.72000122070312,
+        81.76000213623047,
+        81.91999816894531,
+        82.19000244140625,
+        81.94999694824219,
+        82.12000274658203
       ],
       "ok": true,
-      "updated_at": "2026-08-17T07:28:26.634094+00:00"
+      "updated_at": "2026-08-17T08:06:01.168182+00:00"
     },
     "us10y": {
       "price": 4.696,
@@ -451,13 +500,13 @@
         4.696000099182129
       ],
       "ok": true,
-      "updated_at": "2026-08-17T07:28:26.688968+00:00"
+      "updated_at": "2026-08-17T08:06:01.348100+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-17T07:28:26.724669+00:00",
+      "updated_at": "2026-08-17T08:06:01.514371+00:00",
       "items": [
         {
           "title": "Schneider Electric Infrastructure shares tumble 12% after Q1 profit plunges 70% YoY",
@@ -612,8 +661,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-17T06:25:16.687051+00:00",
+      "ok": true,
+      "updated_at": "2026-08-17T08:06:01.918839+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -694,8 +743,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-17T07:28:27.150298+00:00",
+      "updated_at": "2026-08-17T08:06:02.114424+00:00",
       "items": [
+        {
+          "title": "Baazar Style Retail shares hit 5% upper circuit on reports of Aditya Halwasia buying company shares worth  ₹163 crore",
+          "link": "https://www.livemint.com/market/stock-market-news/baazar-style-retail-shares-hit-5-upper-circuit-on-reports-of-aditya-halwasia-buying-company-shares-worth-163-crore-11786948034095.html",
+          "pubDate": "2026-08-17T13:08:49+05:30"
+        },
         {
           "title": "Pramodini Medicare IPO allotment in focus today; latest GMP, 5 steps to check status",
           "link": "https://www.livemint.com/market/ipo/pramodini-medicare-ipo-allotment-in-focus-today-latest-gmp-5-steps-to-check-status-11786947676585.html",
@@ -840,18 +894,53 @@
           "title": "Indian equities may stay rangebound for another 6-9 months, says Mahindra Manulife MF CEO",
           "link": "https://www.livemint.com/market/stock-market-news/indian-stock-market-outlook-range-bound-fpi-dii-mahindra-manulife-mf-ceo-11786854806606.html",
           "pubDate": "2026-08-17T06:11:04+05:30"
-        },
-        {
-          "title": "Yen edges up as traders push back Fed rate hike bets",
-          "link": "https://www.livemint.com/market/yen-edges-up-as-traders-push-back-fed-rate-hike-bets-11786927254730.html",
-          "pubDate": "2026-08-17T06:10:54+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-17T07:28:27.189744+00:00",
+      "updated_at": "2026-08-17T08:06:02.370596+00:00",
       "items": [
+        {
+          "title": "Sebi launches portals to strengthen cybersecurity incident reporting",
+          "link": "https://www.business-standard.com/markets/news/sebi-launches-cyber-portals-to-strengthen-incident-reporting-information-sharing-126081700515_1.html",
+          "pubDate": "2026-08-17T13:07:50+05:30"
+        },
+        {
+          "title": "Greaves Cotton acquires balance 20% stake in Excel Controlinkage",
+          "link": "https://www.business-standard.com/markets/capital-market-news/greaves-cotton-acquires-balance-20-stake-in-excel-controlinkage-126081700505_1.html",
+          "pubDate": "2026-08-17T13:04:30+05:30"
+        },
+        {
+          "title": "Lupin receives USFDA approval for Pitolisant Tablets, 4.45 mg and 17.8 mg",
+          "link": "https://www.business-standard.com/markets/capital-market-news/lupin-receives-usfda-approval-for-pitolisant-tablets-4-45-mg-and-17-8-mg-126081700504_1.html",
+          "pubDate": "2026-08-17T13:04:21+05:30"
+        },
+        {
+          "title": "Sky Gold enters MSCI India Domestic Small Cap Index",
+          "link": "https://www.business-standard.com/markets/capital-market-news/sky-gold-enters-msci-india-domestic-small-cap-index-126081700503_1.html",
+          "pubDate": "2026-08-17T13:04:12+05:30"
+        },
+        {
+          "title": "PTC Industries spurts after PAT rises over fivefold to Rs 29 crore in Q1",
+          "link": "https://www.business-standard.com/markets/capital-market-news/ptc-industries-spurts-after-pat-rises-over-fivefold-to-rs-29-crore-in-q1-126081700502_1.html",
+          "pubDate": "2026-08-17T13:04:02+05:30"
+        },
+        {
+          "title": "ITC share price slips 2%, hits 52-week low; what's making Street nervous?",
+          "link": "https://www.business-standard.com/markets/news/itc-share-price-slips-2-hits-52-week-low-what-s-making-street-nervous-126081700482_1.html",
+          "pubDate": "2026-08-17T13:03:28+05:30"
+        },
+        {
+          "title": "Domestic lenders set record with $8 billion in dollar bond sales",
+          "link": "https://www.business-standard.com/markets/news/indian-lenders-set-record-for-dollar-bond-sales-as-rbi-cuts-hedging-costs-126081700498_1.html",
+          "pubDate": "2026-08-17T12:58:04+05:30"
+        },
+        {
+          "title": "New closing auction session here to stay, says Sebi chairman Pandey",
+          "link": "https://www.business-standard.com/markets/news/sebi-chief-tuhin-kanta-pandey-cas-here-to-stay-slbm-reforms-126081700494_1.html",
+          "pubDate": "2026-08-17T12:53:00+05:30"
+        },
         {
           "title": "EFC leases entire A+ category building in Pune",
           "link": "https://www.business-standard.com/markets/capital-market-news/efc-leases-entire-a-category-building-in-pune-126081700489_1.html",
@@ -961,52 +1050,12 @@
           "title": "Bond yields surge after RBI announces early dollar deposit window closure",
           "link": "https://www.business-standard.com/markets/news/bond-yields-surge-after-rbi-announces-early-dollar-deposit-window-closure-126081700363_1.html",
           "pubDate": "2026-08-17T11:17:10+05:30"
-        },
-        {
-          "title": "ONGC receives OFAC license to continue full operations in Venezuela",
-          "link": "https://www.business-standard.com/markets/capital-market-news/ongc-receives-ofac-license-to-continue-full-operations-in-venezuela-126081700361_1.html",
-          "pubDate": "2026-08-17T11:16:11+05:30"
-        },
-        {
-          "title": "Volumes soar at Lenskart Solutions Ltd counter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/volumes-soar-at-lenskart-solutions-ltd-counter-126081700359_1.html",
-          "pubDate": "2026-08-17T11:16:01+05:30"
-        },
-        {
-          "title": "Defence index hits new high; Midhani, HAL, BEML rally up to 5%; here's why",
-          "link": "https://www.business-standard.com/markets/news/defence-index-hits-new-high-midhani-hal-beml-rally-up-to-5-here-s-why-126081700326_1.html",
-          "pubDate": "2026-08-17T11:05:17+05:30"
-        },
-        {
-          "title": "UFlex spurts as Q1 PAT zooms 630% YoY",
-          "link": "https://www.business-standard.com/markets/capital-market-news/uflex-spurts-as-q1-pat-zooms-630-yoy-126081700334_1.html",
-          "pubDate": "2026-08-17T11:04:10+05:30"
-        },
-        {
-          "title": "Puravankara surges after reporting turnaround Q1 performance",
-          "link": "https://www.business-standard.com/markets/capital-market-news/puravankara-surges-after-reporting-turnaround-q1-performance-126081700333_1.html",
-          "pubDate": "2026-08-17T11:04:01+05:30"
-        },
-        {
-          "title": "Saatvik Solar signs MoU with Govt. of Odisha",
-          "link": "https://www.business-standard.com/markets/capital-market-news/saatvik-solar-signs-mou-with-govt-of-odisha-126081700296_1.html",
-          "pubDate": "2026-08-17T10:51:51+05:30"
-        },
-        {
-          "title": "Paisalo Digital successfully concludes Rs 300 cr NCD issuance",
-          "link": "https://www.business-standard.com/markets/capital-market-news/paisalo-digital-successfully-concludes-rs-300-cr-ncd-issuance-126081700280_1.html",
-          "pubDate": "2026-08-17T10:50:30+05:30"
-        },
-        {
-          "title": "Sensex slides 433 pts; PSU bank decline for 3rd day",
-          "link": "https://www.business-standard.com/markets/capital-market-news/sensex-slides-433-pts-psu-bank-decline-for-3rd-day-126081700279_1.html",
-          "pubDate": "2026-08-17T10:50:11+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-17T07:28:28.128755+00:00",
+      "updated_at": "2026-08-17T08:06:03.397202+00:00",
       "items": [
         {
           "title": "Money Market Operations as on August 16, 2026",

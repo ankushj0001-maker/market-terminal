@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T14:14:35.887443+00:00",
+  "generated_at": "2026-08-17T14:43:58.264422+00:00",
   "indices": {
     "nifty50": {
       "price": 24287.65,
@@ -68,7 +68,7 @@
         24287.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T14:14:33.762995+00:00"
+      "updated_at": "2026-08-17T14:43:55.520350+00:00"
     },
     "sensex": {
       "price": 77728.16,
@@ -137,7 +137,7 @@
         77728.15625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T14:14:33.808697+00:00"
+      "updated_at": "2026-08-17T14:43:55.880346+00:00"
     },
     "banknifty": {
       "price": 57497.8,
@@ -206,7 +206,7 @@
         57497.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-17T14:14:33.852311+00:00"
+      "updated_at": "2026-08-17T14:43:56.024005+00:00"
     },
     "vix": {
       "price": 11.325,
@@ -275,14 +275,13 @@
         11.324999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-17T14:14:33.900895+00:00"
+      "updated_at": "2026-08-17T14:43:56.204016+00:00"
     },
     "usdinr": {
       "price": 95.592,
       "change": 0.177,
       "pct": 0.1855,
       "closes": [
-        95.58200073242188,
         95.59750366210938,
         95.58999633789062,
         95.59750366210938,
@@ -341,22 +340,17 @@
         95.60749816894531,
         95.6050033569336,
         95.59200286865234,
+        95.59200286865234,
         95.59200286865234
       ],
       "ok": true,
-      "updated_at": "2026-08-17T14:14:33.985791+00:00"
+      "updated_at": "2026-08-17T14:43:56.355975+00:00"
     },
     "gold": {
-      "price": 4464.4,
-      "change": 27.1,
-      "pct": 0.6107,
+      "price": 4481.0,
+      "change": 43.7,
+      "pct": 0.9848,
       "closes": [
-        4455.2998046875,
-        4454.7001953125,
-        4452.60009765625,
-        4453.10009765625,
-        4453.10009765625,
-        4450.7998046875,
         4451.0,
         4452.0,
         4450.0,
@@ -410,22 +404,22 @@
         4457.89990234375,
         4465.2998046875,
         4464.89990234375,
-        4464.39990234375
+        4461.7998046875,
+        4469.2001953125,
+        4475.60009765625,
+        4481.60009765625,
+        4475.39990234375,
+        4479.2998046875,
+        4481.0
       ],
       "ok": true,
-      "updated_at": "2026-08-17T14:14:34.036648+00:00"
+      "updated_at": "2026-08-17T14:43:56.498720+00:00"
     },
     "crude": {
-      "price": 82.38,
-      "change": -0.02,
-      "pct": -0.0243,
+      "price": 82.55,
+      "change": 0.15,
+      "pct": 0.182,
       "closes": [
-        82.5999984741211,
-        82.51000213623047,
-        82.45999908447266,
-        82.54000091552734,
-        82.66999816894531,
-        82.91000366210938,
         82.7699966430664,
         82.86000061035156,
         83.12999725341797,
@@ -479,15 +473,21 @@
         82.62000274658203,
         82.62999725341797,
         82.41999816894531,
-        82.37999725341797
+        82.41999816894531,
+        82.45999908447266,
+        82.4800033569336,
+        82.43000030517578,
+        82.38999938964844,
+        82.5,
+        82.55000305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-17T14:14:34.161497+00:00"
+      "updated_at": "2026-08-17T14:43:56.650754+00:00"
     },
     "us10y": {
-      "price": 4.704,
-      "change": 0.008,
-      "pct": 0.1704,
+      "price": 4.7,
+      "change": 0.004,
+      "pct": 0.0852,
       "closes": [
         4.699999809265137,
         4.708000183105469,
@@ -509,16 +509,22 @@
         4.703999996185303,
         4.703999996185303,
         4.703999996185303,
-        4.703999996185303
+        4.699999809265137,
+        4.699999809265137,
+        4.699999809265137,
+        4.699999809265137,
+        4.699999809265137,
+        4.699999809265137,
+        4.699999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-17T14:14:34.318535+00:00"
+      "updated_at": "2026-08-17T14:43:56.838610+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-17T14:14:34.346395+00:00",
+      "updated_at": "2026-08-17T14:43:56.996715+00:00",
       "items": [
         {
           "title": "Schneider Electric Infrastructure shares tumble 12% after Q1 profit plunges 70% YoY",
@@ -673,8 +679,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-17T13:51:19.631382+00:00",
+      "ok": true,
+      "updated_at": "2026-08-17T14:43:57.370062+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -755,8 +761,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-17T14:14:34.901892+00:00",
+      "updated_at": "2026-08-17T14:43:57.533077+00:00",
       "items": [
+        {
+          "title": "Sunshine Pictures raises  ₹85 crore from anchor investors ahead of IPO launch on Tuesday",
+          "link": "https://www.livemint.com/market/stock-market-news/sunshine-pictures-raises-rs-85-crore-from-ancho-investors-ahead-of-ipo-launch-on-tuesday-11786976104952.html",
+          "pubDate": "2026-08-17T20:12:19+05:30"
+        },
         {
           "title": "US stocks mixed as Iran tensions weigh, Anthropic outlook lifts tech stocks",
           "link": "https://www.livemint.com/market/stock-market-news/us-stocks-mixed-as-iran-tensions-weigh-anthropic-outlook-lifts-tech-stocks-11786974172565.html",
@@ -901,17 +912,12 @@
           "title": "Gold and silver prices rise on MCX on a weaker dollar; US-Iran stalled talks cap gains",
           "link": "https://www.livemint.com/market/commodities/gold-and-silver-prices-rise-on-mcx-on-a-weaker-dollar-us-iran-stalled-talks-cap-gains-11786938089811.html",
           "pubDate": "2026-08-17T09:19:35+05:30"
-        },
-        {
-          "title": "Rupee opens 5 paise lower at 95.48 against US dollar",
-          "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-5-paise-lower-at-95-48-against-us-dollar-11786937803681.html",
-          "pubDate": "2026-08-17T09:08:20+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-17T14:14:34.937925+00:00",
+      "updated_at": "2026-08-17T14:43:57.744041+00:00",
       "items": [
         {
           "title": "FII ownership falls to 17-year low as domestic investors strengthen grip",
@@ -1067,7 +1073,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-17T14:14:35.887427+00:00",
+      "updated_at": "2026-08-17T14:43:58.264405+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 18, 2026",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T12:19:23.962470+00:00",
+  "generated_at": "2026-08-17T13:11:56.112667+00:00",
   "indices": {
     "nifty50": {
       "price": 24287.65,
@@ -30,7 +30,7 @@
         24286.849609375,
         24290.80078125,
         24295.150390625,
-        24297.05078125,
+        24297.30078125,
         24303.5,
         24321.599609375,
         24328.69921875,
@@ -59,7 +59,7 @@
         24339.19921875,
         24343.94921875,
         24338.19921875,
-        24351.80078125,
+        24351.349609375,
         24349.099609375,
         24341.900390625,
         24339.80078125,
@@ -68,7 +68,7 @@
         24287.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T12:19:21.946517+00:00"
+      "updated_at": "2026-08-17T13:11:52.167058+00:00"
     },
     "sensex": {
       "price": 77728.16,
@@ -137,7 +137,7 @@
         77728.15625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T12:19:21.999595+00:00"
+      "updated_at": "2026-08-17T13:11:52.357747+00:00"
     },
     "banknifty": {
       "price": 57497.8,
@@ -206,7 +206,7 @@
         57497.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-17T12:19:22.068592+00:00"
+      "updated_at": "2026-08-17T13:11:52.521518+00:00"
     },
     "vix": {
       "price": 11.325,
@@ -275,7 +275,7 @@
         11.324999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-17T12:19:22.116198+00:00"
+      "updated_at": "2026-08-17T13:11:52.703534+00:00"
     },
     "usdinr": {
       "price": 95.592,
@@ -344,24 +344,13 @@
         95.59200286865234
       ],
       "ok": true,
-      "updated_at": "2026-08-17T12:19:22.384252+00:00"
+      "updated_at": "2026-08-17T13:11:52.864923+00:00"
     },
     "gold": {
-      "price": 4448.3,
-      "change": 11.0,
-      "pct": 0.2479,
+      "price": 4441.7,
+      "change": 4.4,
+      "pct": 0.0992,
       "closes": [
-        4453.5,
-        4453.39990234375,
-        4461.2001953125,
-        4463.2998046875,
-        4464.10009765625,
-        4465.5,
-        4463.89990234375,
-        4461.0,
-        4461.5,
-        4456.5,
-        4456.10009765625,
         4459.2998046875,
         4457.60009765625,
         4458.7998046875,
@@ -410,27 +399,27 @@
         4453.5,
         4451.10009765625,
         4449.2001953125,
-        4448.2998046875
+        4450.60009765625,
+        4451.10009765625,
+        4449.10009765625,
+        4442.2998046875,
+        4445.5,
+        4437.60009765625,
+        4434.7001953125,
+        4434.5,
+        4440.7998046875,
+        4441.39990234375,
+        4440.7998046875,
+        4441.7001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-17T12:19:22.453638+00:00"
+      "updated_at": "2026-08-17T13:11:53.021328+00:00"
     },
     "crude": {
-      "price": 82.39,
-      "change": -0.01,
-      "pct": -0.0121,
+      "price": 82.93,
+      "change": 0.53,
+      "pct": 0.6432,
       "closes": [
-        81.62999725341797,
-        81.61000061035156,
-        81.80000305175781,
-        81.8499984741211,
-        81.72000122070312,
-        81.76000213623047,
-        81.91999816894531,
-        82.19000244140625,
-        81.94999694824219,
-        82.22000122070312,
-        82.16999816894531,
         82.16000366210938,
         82.13999938964844,
         82.27999877929688,
@@ -446,23 +435,23 @@
         82.5999984741211,
         82.51000213623047,
         82.45999908447266,
-        82.54000091552734,
+        82.5199966430664,
         82.66999816894531,
-        82.91000366210938,
+        82.91999816894531,
         82.7699966430664,
         82.86000061035156,
         83.12999725341797,
-        82.97000122070312,
+        82.95999908447266,
         83.12000274658203,
         83.18000030517578,
         83.13999938964844,
         83.0199966430664,
         83.01000213623047,
         82.12999725341797,
-        82.77999877929688,
+        82.79000091552734,
         82.91999816894531,
         82.86000061035156,
-        82.86000061035156,
+        82.87000274658203,
         82.6500015258789,
         82.83999633789062,
         82.87000274658203,
@@ -479,85 +468,45 @@
         82.36000061035156,
         82.5199966430664,
         82.4000015258789,
-        82.38999938964844
+        82.29000091552734,
+        82.30999755859375,
+        82.41999816894531,
+        82.81999969482422,
+        82.69999694824219,
+        82.91999816894531,
+        82.94999694824219,
+        83.04000091552734,
+        83.01000213623047,
+        82.97000122070312,
+        82.81999969482422,
+        82.93000030517578
       ],
       "ok": true,
-      "updated_at": "2026-08-17T12:19:22.524204+00:00"
+      "updated_at": "2026-08-17T13:11:53.159783+00:00"
     },
     "us10y": {
-      "price": 4.696,
-      "change": 0.055,
-      "pct": 1.1851,
+      "price": 4.714,
+      "change": 0.018,
+      "pct": 0.3833,
       "closes": [
-        4.6610002517700195,
-        4.6610002517700195,
-        4.658999919891357,
-        4.661999702453613,
-        4.664000034332275,
-        4.661999702453613,
-        4.671999931335449,
-        4.670000076293945,
-        4.671999931335449,
-        4.668000221252441,
-        4.668000221252441,
-        4.668000221252441,
-        4.668000221252441,
-        4.675999641418457,
-        4.675999641418457,
-        4.679999828338623,
-        4.682000160217285,
-        4.684000015258789,
-        4.684000015258789,
-        4.688000202178955,
-        4.684000015258789,
-        4.688000202178955,
-        4.685999870300293,
-        4.688000202178955,
-        4.690000057220459,
-        4.688000202178955,
-        4.688000202178955,
-        4.685999870300293,
-        4.685999870300293,
-        4.688000202178955,
-        4.688000202178955,
-        4.685999870300293,
-        4.688000202178955,
-        4.688000202178955,
-        4.691999912261963,
-        4.690000057220459,
-        4.691999912261963,
-        4.691999912261963,
-        4.693999767303467,
-        4.696000099182129,
-        4.693999767303467,
-        4.696000099182129,
-        4.696000099182129,
-        4.693999767303467,
-        4.696000099182129,
-        4.696000099182129,
-        4.696000099182129,
-        4.696000099182129,
-        4.696000099182129,
-        4.691999912261963,
         4.699999809265137,
-        4.696000099182129,
-        4.697999954223633,
-        4.696000099182129,
-        4.696000099182129,
-        4.696000099182129,
-        4.696000099182129,
-        4.696000099182129,
-        4.696000099182129,
-        4.696000099182129
+        4.708000183105469,
+        4.708000183105469,
+        4.710000038146973,
+        4.711999893188477,
+        4.7139997482299805,
+        4.716000080108643,
+        4.716000080108643,
+        4.7139997482299805
       ],
       "ok": true,
-      "updated_at": "2026-08-17T12:19:22.568169+00:00"
+      "updated_at": "2026-08-17T13:11:53.307341+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-17T12:19:22.624005+00:00",
+      "updated_at": "2026-08-17T13:11:53.713915+00:00",
       "items": [
         {
           "title": "Schneider Electric Infrastructure shares tumble 12% after Q1 profit plunges 70% YoY",
@@ -713,7 +662,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-17T12:19:22.740517+00:00",
+      "updated_at": "2026-08-17T13:11:53.892165+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +743,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-17T12:19:22.880137+00:00",
+      "updated_at": "2026-08-17T13:11:54.791183+00:00",
       "items": [
+        {
+          "title": "US stock market today: S&amp;P 500, Dow futures steady after 3-week winning streak; oil rises on Hormuz risks",
+          "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-dow-futures-steady-after-3-week-winning-streak-oil-rises-on-hormuz-risks-11786969512356.html",
+          "pubDate": "2026-08-17T18:21:48+05:30"
+        },
         {
           "title": "Margin impact of West Asia tensions to soften India's GDP growth to 7% in Q1 FY27, says ICRA",
           "link": "https://www.livemint.com/market/stock-market-news/margin-impact-of-west-asia-tensions-to-soften-indias-gdp-growth-to-7-in-q1-fy27-says-icra-11786966243262.html",
@@ -940,18 +894,33 @@
           "title": "Gold Rises to Near $4,400 as Weak Retail Data Weighs on Dollar",
           "link": "https://www.livemint.com/market/gold-rises-to-near-4-400-as-weak-retail-data-weighs-on-dollar-11786937454532.html",
           "pubDate": "2026-08-17T09:00:54+05:30"
-        },
-        {
-          "title": "Stocks to buy for short term: BDL, Bata India among 3 shares Anand Rathi's Jigar Patel recommends for the next 1-2 weeks",
-          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-bdl-bata-india-among-3-shares-anand-rathis-jigar-patel-recommends-for-the-next-1-2-weeks-11786934823182.html",
-          "pubDate": "2026-08-17T08:43:49+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-17T12:19:23.042215+00:00",
+      "updated_at": "2026-08-17T13:11:55.027431+00:00",
       "items": [
+        {
+          "title": "Large currency speculators slightly reduce net short position in Pound futures market",
+          "link": "https://www.business-standard.com/markets/capital-market-news/large-currency-speculators-slightly-reduce-net-short-position-in-pound-futures-market-126081701135_1.html",
+          "pubDate": "2026-08-17T18:16:02+05:30"
+        },
+        {
+          "title": "INR  settles lower amid muted equities and elevated oil prices",
+          "link": "https://www.business-standard.com/markets/capital-market-news/inr-settles-lower-amid-muted-equities-and-elevated-oil-prices-126081701111_1.html",
+          "pubDate": "2026-08-17T18:04:02+05:30"
+        },
+        {
+          "title": "Stanley Lifestyles appoints Sudhir Iyer as Group Chief Financial Officer",
+          "link": "https://www.business-standard.com/markets/capital-market-news/stanley-lifestyles-appoints-sudhir-iyer-as-group-chief-financial-officer-126081701089_1.html",
+          "pubDate": "2026-08-17T17:50:55+05:30"
+        },
+        {
+          "title": "Unemployment rate dropped to 5.1% in Jul-26 from 5.5% in previous month",
+          "link": "https://www.business-standard.com/markets/capital-market-news/unemployment-rate-dropped-to-5-1-in-jul-26-from-5-5-in-previous-month-126081701075_1.html",
+          "pubDate": "2026-08-17T17:50:02+05:30"
+        },
         {
           "title": "Horizon Industrial Parks (HIPL) IPO subscribed 14%",
           "link": "https://www.business-standard.com/markets/capital-market-news/horizon-industrial-parks-hipl-ipo-subscribed-14-126081701032_1.html",
@@ -1081,32 +1050,12 @@
           "title": "EMS rises after securing work contract worth Rs 129 crore from Municipal Corporation Jodhpur",
           "link": "https://www.business-standard.com/markets/capital-market-news/ems-rises-after-securing-work-contract-worth-rs-129-crore-from-municipal-corporation-jodhpur-126081700598_1.html",
           "pubDate": "2026-08-17T14:04:11+05:30"
-        },
-        {
-          "title": "Adani Power Ltd slips for fifth straight session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/adani-power-ltd-slips-for-fifth-straight-session-126081700597_1.html",
-          "pubDate": "2026-08-17T14:04:01+05:30"
-        },
-        {
-          "title": "Nifty trades near 24,350 level; European markets open higher amid easing Fed hike expectations",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-near-24-350-level-european-markets-open-higher-amid-easing-fed-hike-expectations-126081700586_1.html",
-          "pubDate": "2026-08-17T13:50:11+05:30"
-        },
-        {
-          "title": "BSE slides after foreign broker downgrades stock to 'underperform'",
-          "link": "https://www.business-standard.com/markets/capital-market-news/bse-slides-after-foreign-broker-downgrades-stock-to-underperform-126081700584_1.html",
-          "pubDate": "2026-08-17T13:50:02+05:30"
-        },
-        {
-          "title": "Equirus' $20trn economy roadmap: List railways, cut TDS, end STT & more",
-          "link": "https://www.business-standard.com/markets/news/equirus-20trn-economy-roadmap-list-railways-cut-tds-end-stt-more-126081700547_1.html",
-          "pubDate": "2026-08-17T13:35:26+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-17T12:19:23.962451+00:00",
+      "updated_at": "2026-08-17T13:11:56.112651+00:00",
       "items": [
         {
           "title": "Result: Conversion/Switch Auction of Government of India Securities",

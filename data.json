@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T20:11:16.977663+00:00",
+  "generated_at": "2026-08-17T20:40:01.908799+00:00",
   "indices": {
     "nifty50": {
       "price": 24287.65,
@@ -68,7 +68,7 @@
         24287.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T20:11:14.598917+00:00"
+      "updated_at": "2026-08-17T20:39:59.247077+00:00"
     },
     "sensex": {
       "price": 77728.16,
@@ -137,7 +137,7 @@
         77728.15625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T20:11:14.672471+00:00"
+      "updated_at": "2026-08-17T20:39:59.299645+00:00"
     },
     "banknifty": {
       "price": 57497.8,
@@ -206,7 +206,7 @@
         57497.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-17T20:11:14.728599+00:00"
+      "updated_at": "2026-08-17T20:39:59.342965+00:00"
     },
     "vix": {
       "price": 11.325,
@@ -275,7 +275,7 @@
         11.324999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-17T20:11:15.281623+00:00"
+      "updated_at": "2026-08-17T20:39:59.852402+00:00"
     },
     "usdinr": {
       "price": 95.592,
@@ -344,18 +344,13 @@
         95.59200286865234
       ],
       "ok": true,
-      "updated_at": "2026-08-17T20:11:15.417914+00:00"
+      "updated_at": "2026-08-17T20:40:00.008225+00:00"
     },
     "gold": {
-      "price": 4475.3,
-      "change": 38.0,
-      "pct": 0.8564,
+      "price": 4471.4,
+      "change": 34.1,
+      "pct": 0.7685,
       "closes": [
-        4478.5,
-        4479.2998046875,
-        4480.5,
-        4482.7001953125,
-        4479.89990234375,
         4479.10009765625,
         4476.10009765625,
         4480.89990234375,
@@ -410,21 +405,21 @@
         4473.89990234375,
         4475.7001953125,
         4475.2998046875,
-        4475.2998046875
+        4473.39990234375,
+        4474.10009765625,
+        4474.2998046875,
+        4473.5,
+        4471.39990234375,
+        4471.39990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-17T20:11:15.470001+00:00"
+      "updated_at": "2026-08-17T20:40:00.071196+00:00"
     },
     "crude": {
-      "price": 84.66,
-      "change": 2.26,
-      "pct": 2.7427,
+      "price": 84.86,
+      "change": 2.46,
+      "pct": 2.9854,
       "closes": [
-        82.37999725341797,
-        82.58000183105469,
-        82.77999877929688,
-        82.5999984741211,
-        82.63999938964844,
         82.52999877929688,
         82.66999816894531,
         82.76000213623047,
@@ -479,10 +474,15 @@
         84.58000183105469,
         84.6500015258789,
         84.58000183105469,
-        84.66000366210938
+        84.63999938964844,
+        84.66999816894531,
+        84.66999816894531,
+        84.77999877929688,
+        84.86000061035156,
+        84.86000061035156
       ],
       "ok": true,
-      "updated_at": "2026-08-17T20:11:15.589299+00:00"
+      "updated_at": "2026-08-17T20:40:00.217673+00:00"
     },
     "us10y": {
       "price": 4.724,
@@ -551,14 +551,24 @@
         4.723999977111816
       ],
       "ok": true,
-      "updated_at": "2026-08-17T20:11:15.664617+00:00"
+      "updated_at": "2026-08-17T20:40:00.361050+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-17T20:11:15.719036+00:00",
+      "updated_at": "2026-08-17T20:40:00.541521+00:00",
       "items": [
+        {
+          "title": "US stocks: US market slips as oil prices rise, retail results awaited",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-slips-as-oil-prices-rise-retail-results-awaited/articleshow/133306298.cms",
+          "pubDate": "2026-08-18T01:38:11+05:30"
+        },
+        {
+          "title": "Gold appears set for a rebound as it regains safe-haven appeal after US-Iran war selloff",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-appears-set-for-a-rebound-as-it-regains-safe-haven-appeal-after-us-iran-war-selloff/articleshow/133305922.cms",
+          "pubDate": "2026-08-18T00:51:40+05:30"
+        },
         {
           "title": "Schneider Electric Infrastructure shares tumble 12% after Q1 profit plunges 70% YoY",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/schneider-electric-infrastructure-shares-tumble-12-after-q1-profit-plunges-70-yoy/articleshow/133289103.cms",
@@ -578,16 +588,6 @@
           "title": "Zaggle shares crash 20%, hit lower circuit after Q1 PAT declines 33% YoY",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/zaggle-shares-crash-20-hit-lower-circuit-after-q1-pat-declines-33-yoy/articleshow/133287705.cms",
           "pubDate": "2026-08-17T11:04:44+05:30"
-        },
-        {
-          "title": "Puravankara shares rally up to 13% after Q1 revenue jumps 62% YoY; EBITDA margin expands to 25%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/puravankara-shares-rally-up-to-13-after-q1-revenue-jumps-62-yoy-ebitda-margin-expands-to-25/articleshow/133287561.cms",
-          "pubDate": "2026-08-17T11:01:48+05:30"
-        },
-        {
-          "title": "NMDC shares decline 4% after Q1 results. Should you buy, sell or hold the stock?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nmdc-shares-decline-4-after-q1-results-should-you-buy-sell-or-hold-the-stock/articleshow/133287154.cms",
-          "pubDate": "2026-08-17T10:36:04+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-17T20:11:15.963120+00:00",
+      "updated_at": "2026-08-17T20:40:00.846098+00:00",
       "items": [
+        {
+          "title": "Stocks, dollar fall after weak data; yields rise",
+          "link": "https://www.livemint.com/market/stocks-dollar-fall-after-weak-data-yields-rise-11786998207341.html",
+          "pubDate": "2026-08-18T01:53:26+05:30"
+        },
         {
           "title": "Wall Street indexes slip with Iran, retail results in focus",
           "link": "https://www.livemint.com/market/wall-street-indexes-slip-with-iran-retail-results-in-focus-11786993198786.html",
@@ -940,17 +945,12 @@
           "title": "Ashok Leyland’s demand is on the right track, but margins lag",
           "link": "https://www.livemint.com/market/mark-to-market/ashok-leyland-q1-results-share-price-margin-market-share-11786939635130.html",
           "pubDate": "2026-08-17T11:22:01+05:30"
-        },
-        {
-          "title": "LG Electronics India: turnaround or just a low-base bounce?",
-          "link": "https://www.livemint.com/market/mark-to-market/lg-electronics-india-q1-results-share-price-earnings-11786935091993.html",
-          "pubDate": "2026-08-17T10:06:36+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-17T20:11:16.065722+00:00",
+      "updated_at": "2026-08-17T20:40:00.970651+00:00",
       "items": [
         {
           "title": "Jio-BlackRock rolls out MF plans; Lalithaa Jewellery IPO booked 0.68x",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-17T20:11:16.977646+00:00",
+      "updated_at": "2026-08-17T20:40:01.908776+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 18, 2026",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:00:48.573117+00:00",
+  "generated_at": "2026-08-17T15:35:46.129655+00:00",
   "indices": {
     "nifty50": {
       "price": 24287.65,
@@ -68,7 +68,7 @@
         24287.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T15:00:40.423497+00:00"
+      "updated_at": "2026-08-17T15:35:42.629063+00:00"
     },
     "sensex": {
       "price": 77728.16,
@@ -137,7 +137,7 @@
         77728.15625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T15:00:40.521532+00:00"
+      "updated_at": "2026-08-17T15:35:42.944750+00:00"
     },
     "banknifty": {
       "price": 57497.8,
@@ -206,7 +206,7 @@
         57497.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-17T15:00:40.569410+00:00"
+      "updated_at": "2026-08-17T15:35:43.121881+00:00"
     },
     "vix": {
       "price": 11.325,
@@ -275,15 +275,13 @@
         11.324999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-17T15:00:40.626641+00:00"
+      "updated_at": "2026-08-17T15:35:43.295692+00:00"
     },
     "usdinr": {
       "price": 95.592,
       "change": 0.177,
       "pct": 0.1855,
       "closes": [
-        95.58999633789062,
-        95.59750366210938,
         95.5999984741211,
         95.59500122070312,
         95.5979995727539,
@@ -341,23 +339,18 @@
         95.59200286865234,
         95.59200286865234,
         95.59200286865234,
+        95.59200286865234,
+        95.59200286865234,
         95.59200286865234
       ],
       "ok": true,
-      "updated_at": "2026-08-17T15:00:40.678749+00:00"
+      "updated_at": "2026-08-17T15:35:43.490730+00:00"
     },
     "gold": {
-      "price": 4476.8,
-      "change": 39.5,
-      "pct": 0.8902,
+      "price": 4480.4,
+      "change": 43.1,
+      "pct": 0.9713,
       "closes": [
-        4450.7001953125,
-        4450.7998046875,
-        4452.7001953125,
-        4452.5,
-        4453.10009765625,
-        4461.60009765625,
-        4453.7001953125,
         4452.89990234375,
         4455.0,
         4453.7998046875,
@@ -410,23 +403,23 @@
         4474.7998046875,
         4474.39990234375,
         4473.39990234375,
-        4476.7998046875
+        4474.5,
+        4475.89990234375,
+        4474.10009765625,
+        4478.5,
+        4479.2998046875,
+        4480.5,
+        4482.7001953125,
+        4480.39990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-17T15:00:40.728734+00:00"
+      "updated_at": "2026-08-17T15:35:43.685179+00:00"
     },
     "crude": {
-      "price": 82.31,
-      "change": -0.09,
-      "pct": -0.1092,
+      "price": 82.73,
+      "change": 0.33,
+      "pct": 0.4005,
       "closes": [
-        83.12000274658203,
-        83.18000030517578,
-        83.13999938964844,
-        83.0199966430664,
-        83.01000213623047,
-        82.12999725341797,
-        82.77999877929688,
         82.91999816894531,
         82.86000061035156,
         82.86000061035156,
@@ -479,15 +472,22 @@
         82.4000015258789,
         82.33999633789062,
         82.2300033569336,
-        82.30999755859375
+        82.16999816894531,
+        82.33999633789062,
+        82.37999725341797,
+        82.37999725341797,
+        82.58000183105469,
+        82.77999877929688,
+        82.5999984741211,
+        82.7300033569336
       ],
       "ok": true,
-      "updated_at": "2026-08-17T15:00:40.773970+00:00"
+      "updated_at": "2026-08-17T15:35:43.845863+00:00"
     },
     "us10y": {
-      "price": 4.696,
-      "change": 0.0,
-      "pct": 0.0,
+      "price": 4.708,
+      "change": 0.012,
+      "pct": 0.2555,
       "closes": [
         4.699999809265137,
         4.708000183105469,
@@ -518,16 +518,23 @@
         4.696000099182129,
         4.693999767303467,
         4.696000099182129,
-        4.696000099182129
+        4.697999954223633,
+        4.696000099182129,
+        4.697999954223633,
+        4.706000328063965,
+        4.708000183105469,
+        4.702000141143799,
+        4.703999996185303,
+        4.708000183105469
       ],
       "ok": true,
-      "updated_at": "2026-08-17T15:00:40.825970+00:00"
+      "updated_at": "2026-08-17T15:35:44.021319+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-17T15:00:40.974732+00:00",
+      "updated_at": "2026-08-17T15:35:44.236044+00:00",
       "items": [
         {
           "title": "Schneider Electric Infrastructure shares tumble 12% after Q1 profit plunges 70% YoY",
@@ -682,8 +689,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-17T14:43:57.370062+00:00",
+      "ok": true,
+      "updated_at": "2026-08-17T15:35:44.651276+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -764,7 +771,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-17T15:00:47.599989+00:00",
+      "updated_at": "2026-08-17T15:35:44.893285+00:00",
       "items": [
         {
           "title": "Sunshine Pictures raises  ₹85 crore from anchor investors ahead of IPO launch on Tuesday",
@@ -920,8 +927,13 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-17T15:00:47.641501+00:00",
+      "updated_at": "2026-08-17T15:35:45.103644+00:00",
       "items": [
+        {
+          "title": "Rupee weakens, bond yields rise as RBI shuts FCNR(B) swap window early",
+          "link": "https://www.business-standard.com/markets/news/rupee-weakens-bond-yields-rise-as-rbi-shuts-fcnr-b-swap-window-early-126081701393_1.html",
+          "pubDate": "2026-08-17T20:47:12+05:30"
+        },
         {
           "title": "FII ownership falls to 17-year low as domestic investors strengthen grip",
           "link": "https://www.business-standard.com/markets/news/fii-ownership-falls-to-17-year-low-as-domestic-investors-strengthen-grip-126081701286_1.html",
@@ -1066,17 +1078,12 @@
           "title": "US dollar index large currency speculators marginally reduce net longs",
           "link": "https://www.business-standard.com/markets/capital-market-news/us-dollar-index-large-currency-speculators-marginally-reduce-net-longs-126081700659_1.html",
           "pubDate": "2026-08-17T14:50:02+05:30"
-        },
-        {
-          "title": "Mukul Agrawal portfolio stock PTC Industries soars 8% on strong Q1 results",
-          "link": "https://www.business-standard.com/markets/news/mukul-agrawal-portfolio-stock-ptc-industries-soars-8-on-strong-q1-results-126081700579_1.html",
-          "pubDate": "2026-08-17T14:22:29+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-17T15:00:48.573100+00:00",
+      "updated_at": "2026-08-17T15:35:46.129639+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 18, 2026",

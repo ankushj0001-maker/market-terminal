@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T18:54:47.083793+00:00",
+  "generated_at": "2026-08-17T19:18:13.172752+00:00",
   "indices": {
     "nifty50": {
       "price": 24287.65,
@@ -68,7 +68,7 @@
         24287.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T18:54:43.326191+00:00"
+      "updated_at": "2026-08-17T19:18:10.265286+00:00"
     },
     "sensex": {
       "price": 77728.16,
@@ -137,7 +137,7 @@
         77728.15625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T18:54:43.454226+00:00"
+      "updated_at": "2026-08-17T19:18:10.433815+00:00"
     },
     "banknifty": {
       "price": 57497.8,
@@ -206,7 +206,7 @@
         57497.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-17T18:54:43.622029+00:00"
+      "updated_at": "2026-08-17T19:18:10.523540+00:00"
     },
     "vix": {
       "price": 11.325,
@@ -275,7 +275,7 @@
         11.324999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-17T18:54:43.744667+00:00"
+      "updated_at": "2026-08-17T19:18:10.641344+00:00"
     },
     "usdinr": {
       "price": 95.6,
@@ -340,22 +340,17 @@
         95.59200286865234,
         95.59200286865234,
         95.59200286865234,
-        95.59200286865234,
+        95.5999984741211,
         95.5999984741211
       ],
       "ok": true,
-      "updated_at": "2026-08-17T18:54:43.886683+00:00"
+      "updated_at": "2026-08-17T19:18:10.795303+00:00"
     },
     "gold": {
-      "price": 4458.6,
-      "change": 21.3,
-      "pct": 0.48,
+      "price": 4458.3,
+      "change": 21.0,
+      "pct": 0.4733,
       "closes": [
-        4457.89990234375,
-        4465.2998046875,
-        4464.89990234375,
-        4461.7998046875,
-        4469.2001953125,
         4475.60009765625,
         4481.60009765625,
         4475.39990234375,
@@ -410,21 +405,21 @@
         4456.60009765625,
         4458.39990234375,
         4458.0,
-        4458.60009765625
+        4462.60009765625,
+        4463.2001953125,
+        4463.10009765625,
+        4459.2998046875,
+        4460.10009765625,
+        4458.2998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-17T18:54:44.087561+00:00"
+      "updated_at": "2026-08-17T19:18:10.968273+00:00"
     },
     "crude": {
-      "price": 84.14,
-      "change": 1.74,
-      "pct": 2.1117,
+      "price": 84.43,
+      "change": 2.03,
+      "pct": 2.4636,
       "closes": [
-        82.62000274658203,
-        82.62999725341797,
-        82.41999816894531,
-        82.41999816894531,
-        82.45999908447266,
         82.4800033569336,
         82.43000030517578,
         82.38999938964844,
@@ -479,19 +474,21 @@
         84.30999755859375,
         84.30999755859375,
         84.20999908447266,
-        84.13999938964844
+        84.2300033569336,
+        84.30000305175781,
+        84.25,
+        84.37000274658203,
+        84.44999694824219,
+        84.43000030517578
       ],
       "ok": true,
-      "updated_at": "2026-08-17T18:54:44.226162+00:00"
+      "updated_at": "2026-08-17T19:18:11.290195+00:00"
     },
     "us10y": {
       "price": 4.724,
       "change": 0.028,
       "pct": 0.5963,
       "closes": [
-        4.703999996185303,
-        4.703999996185303,
-        4.703999996185303,
         4.699999809265137,
         4.699999809265137,
         4.699999809265137,
@@ -548,16 +545,19 @@
         4.72599983215332,
         4.723999977111816,
         4.723999977111816,
-        4.723999977111816
+        4.723999977111816,
+        4.72599983215332,
+        4.72599983215332,
+        4.727999687194824
       ],
       "ok": true,
-      "updated_at": "2026-08-17T18:54:44.333471+00:00"
+      "updated_at": "2026-08-17T19:18:11.379892+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-17T18:54:44.500292+00:00",
+      "updated_at": "2026-08-17T19:18:11.547105+00:00",
       "items": [
         {
           "title": "Schneider Electric Infrastructure shares tumble 12% after Q1 profit plunges 70% YoY",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-17T18:54:44.726233+00:00",
+      "updated_at": "2026-08-17T19:18:11.985912+00:00",
       "items": [
+        {
+          "title": "Wall Street indexes slip with Iran, retail results in focus",
+          "link": "https://www.livemint.com/market/wall-street-indexes-slip-with-iran-retail-results-in-focus-11786993198786.html",
+          "pubDate": "2026-08-18T00:29:58+05:30"
+        },
         {
           "title": "After weeks of shaky ground, AI related stocks are on the rise again—Here's what Elon Musk's post indicates about trend",
           "link": "https://www.livemint.com/market/stock-market-news/ai-stocks-rise-after-weeks-down-elon-musk-indicates-if-market-trend-will-continue-memory-sk-hynix-micron-sandisk-samsung-11786983343642.html",
@@ -940,17 +945,12 @@
           "title": "LG Electronics India: turnaround or just a low-base bounce?",
           "link": "https://www.livemint.com/market/mark-to-market/lg-electronics-india-q1-results-share-price-earnings-11786935091993.html",
           "pubDate": "2026-08-17T10:06:36+05:30"
-        },
-        {
-          "title": "Molbio Diagnostics IPO listing: Shares debut at a 21% premium, defying weak stock market sentiment",
-          "link": "https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-listing-shares-debut-at-a-21-premium-defying-weak-stock-market-sentiment-11786940515415.html",
-          "pubDate": "2026-08-17T10:00:37+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-17T18:54:46.061028+00:00",
+      "updated_at": "2026-08-17T19:18:12.180952+00:00",
       "items": [
         {
           "title": "Jio-BlackRock rolls out MF plans; Lalithaa Jewellery IPO booked 0.68x",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-17T18:54:47.083775+00:00",
+      "updated_at": "2026-08-17T19:18:13.172701+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 18, 2026",

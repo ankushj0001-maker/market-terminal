@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T22:09:47.715542+00:00",
+  "generated_at": "2026-08-17T22:36:32.878336+00:00",
   "indices": {
     "nifty50": {
       "price": 24287.65,
@@ -68,7 +68,7 @@
         24287.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T22:09:45.783371+00:00"
+      "updated_at": "2026-08-17T22:36:30.813004+00:00"
     },
     "sensex": {
       "price": 77728.16,
@@ -137,7 +137,7 @@
         77728.15625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T22:09:45.838253+00:00"
+      "updated_at": "2026-08-17T22:36:31.008766+00:00"
     },
     "banknifty": {
       "price": 57497.8,
@@ -206,7 +206,7 @@
         57497.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-17T22:09:45.897612+00:00"
+      "updated_at": "2026-08-17T22:36:31.058283+00:00"
     },
     "vix": {
       "price": 11.325,
@@ -275,7 +275,7 @@
         11.324999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-17T22:09:45.935227+00:00"
+      "updated_at": "2026-08-17T22:36:31.186261+00:00"
     },
     "usdinr": {
       "price": 95.592,
@@ -344,20 +344,13 @@
         95.59200286865234
       ],
       "ok": true,
-      "updated_at": "2026-08-17T22:09:45.987617+00:00"
+      "updated_at": "2026-08-17T22:36:31.261096+00:00"
     },
     "gold": {
-      "price": 4473.1,
-      "change": -0.6,
-      "pct": -0.0134,
+      "price": 4470.9,
+      "change": -2.8,
+      "pct": -0.0626,
       "closes": [
-        4482.7998046875,
-        4484.89990234375,
-        4483.39990234375,
-        4483.2001953125,
-        4482.39990234375,
-        4482.2998046875,
-        4481.2998046875,
         4483.89990234375,
         4482.0,
         4481.7998046875,
@@ -410,23 +403,23 @@
         4472.2001953125,
         4472.0,
         4472.2001953125,
-        4473.10009765625
+        4473.10009765625,
+        4472.7001953125,
+        4472.0,
+        4472.89990234375,
+        4471.89990234375,
+        4471.7998046875,
+        4468.89990234375,
+        4470.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-17T22:09:46.061560+00:00"
+      "updated_at": "2026-08-17T22:36:31.431385+00:00"
     },
     "crude": {
-      "price": 84.95,
-      "change": 0.45,
-      "pct": 0.5325,
+      "price": 85.13,
+      "change": 0.63,
+      "pct": 0.7456,
       "closes": [
-        82.6500015258789,
-        82.5999984741211,
-        82.36000061035156,
-        82.37000274658203,
-        82.4800033569336,
-        82.56999969482422,
-        82.72000122070312,
         82.76000213623047,
         82.77999877929688,
         82.79000091552734,
@@ -479,10 +472,17 @@
         84.94999694824219,
         84.91999816894531,
         84.93000030517578,
-        84.94999694824219
+        84.94999694824219,
+        85.04000091552734,
+        85.2300033569336,
+        85.29000091552734,
+        85.26000213623047,
+        85.19999694824219,
+        85.08000183105469,
+        85.12999725341797
       ],
       "ok": true,
-      "updated_at": "2026-08-17T22:09:46.123082+00:00"
+      "updated_at": "2026-08-17T22:36:31.646259+00:00"
     },
     "us10y": {
       "price": 4.724,
@@ -551,13 +551,13 @@
         4.723999977111816
       ],
       "ok": true,
-      "updated_at": "2026-08-17T22:09:46.193000+00:00"
+      "updated_at": "2026-08-17T22:36:31.684554+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-17T22:09:46.315158+00:00",
+      "updated_at": "2026-08-17T22:36:31.812151+00:00",
       "items": [
         {
           "title": "US stocks: US market slips as oil prices rise, retail results awaited",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-17T22:09:46.575126+00:00",
+      "updated_at": "2026-08-17T22:36:32.088580+00:00",
       "items": [
+        {
+          "title": "Foreign Holdings of Treasuries Fell in June, Led by Japan Drop",
+          "link": "https://www.livemint.com/market/foreign-holdings-of-treasuries-fell-in-june-led-by-japan-drop-11787004808131.html",
+          "pubDate": "2026-08-18T03:43:27+05:30"
+        },
         {
           "title": "Traders Get Pickier in Emerging-Market Inflation-Linked Debt",
           "link": "https://www.livemint.com/market/traders-get-pickier-in-emerging-market-inflation-linked-debt-11787001634597.html",
@@ -940,17 +945,12 @@
           "title": "Horizon Industrial Parks IPO Day 1 LIVE: GMP, review, subscription, other details of Blackstone-backe  ₹2600 crore IPO",
           "link": "https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-day-1-live-gmp-review-subscription-other-details-of-blackstone-backe-rs-2600-crore-ipo-11786940478449.html",
           "pubDate": "2026-08-17T11:26:57+05:30"
-        },
-        {
-          "title": "Q&amp;T Foods IPO share allotment in focus today: GMP, steps to check allotment status online",
-          "link": "https://www.livemint.com/market/ipo/qt-foods-ipo-share-allotment-in-focus-today-gmp-steps-to-check-allotment-status-online-11786942257421.html",
-          "pubDate": "2026-08-17T11:25:25+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-17T22:09:46.698632+00:00",
+      "updated_at": "2026-08-17T22:36:32.252209+00:00",
       "items": [
         {
           "title": "Jio-BlackRock rolls out MF plans; Lalithaa Jewellery IPO booked 0.68x",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-17T22:09:47.715531+00:00",
+      "updated_at": "2026-08-17T22:36:32.878319+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 18, 2026",

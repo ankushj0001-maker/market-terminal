@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T17:41:41.523547+00:00",
+  "generated_at": "2026-08-17T18:00:12.875045+00:00",
   "indices": {
     "nifty50": {
       "price": 24287.65,
@@ -68,7 +68,7 @@
         24287.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T17:41:39.198296+00:00"
+      "updated_at": "2026-08-17T18:00:08.374120+00:00"
     },
     "sensex": {
       "price": 77728.16,
@@ -137,7 +137,7 @@
         77728.15625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T17:41:39.281567+00:00"
+      "updated_at": "2026-08-17T18:00:08.498700+00:00"
     },
     "banknifty": {
       "price": 57497.8,
@@ -206,7 +206,7 @@
         57497.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-17T17:41:39.470152+00:00"
+      "updated_at": "2026-08-17T18:00:08.651407+00:00"
     },
     "vix": {
       "price": 11.325,
@@ -275,7 +275,7 @@
         11.324999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-17T17:41:39.557656+00:00"
+      "updated_at": "2026-08-17T18:00:08.705166+00:00"
     },
     "usdinr": {
       "price": 95.592,
@@ -344,17 +344,13 @@
         95.59200286865234
       ],
       "ok": true,
-      "updated_at": "2026-08-17T17:41:39.681431+00:00"
+      "updated_at": "2026-08-17T18:00:08.779396+00:00"
     },
     "gold": {
-      "price": 4471.8,
-      "change": 34.5,
-      "pct": 0.7775,
+      "price": 4477.2,
+      "change": 39.9,
+      "pct": 0.8992,
       "closes": [
-        4434.7001953125,
-        4434.5,
-        4440.7998046875,
-        4441.39990234375,
         4440.7998046875,
         4442.10009765625,
         4442.60009765625,
@@ -410,20 +406,20 @@
         4474.2001953125,
         4474.0,
         4474.7001953125,
-        4471.7998046875
+        4469.2998046875,
+        4474.7001953125,
+        4476.5,
+        4474.7998046875,
+        4477.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-17T17:41:39.754760+00:00"
+      "updated_at": "2026-08-17T18:00:08.847412+00:00"
     },
     "crude": {
-      "price": 84.04,
-      "change": 1.64,
-      "pct": 1.9903,
+      "price": 84.2,
+      "change": 1.8,
+      "pct": 2.1845,
       "closes": [
-        82.94999694824219,
-        83.04000091552734,
-        83.01000213623047,
-        82.97000122070312,
         82.81999969482422,
         82.73999786376953,
         82.66000366210938,
@@ -479,19 +475,20 @@
         83.7699966430664,
         83.91000366210938,
         84.2300033569336,
-        84.04000091552734
+        84.41000366210938,
+        84.12999725341797,
+        84.12999725341797,
+        84.52999877929688,
+        84.19999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-17T17:41:39.950851+00:00"
+      "updated_at": "2026-08-17T18:00:08.935595+00:00"
     },
     "us10y": {
-      "price": 4.716,
-      "change": 0.02,
-      "pct": 0.4259,
+      "price": 4.72,
+      "change": 0.024,
+      "pct": 0.5111,
       "closes": [
-        4.710000038146973,
-        4.711999893188477,
-        4.7139997482299805,
         4.716000080108643,
         4.711999893188477,
         4.711999893188477,
@@ -548,16 +545,19 @@
         4.716000080108643,
         4.716000080108643,
         4.716000080108643,
-        4.716000080108643
+        4.720000267028809,
+        4.723999977111816,
+        4.720000267028809,
+        4.720000267028809
       ],
       "ok": true,
-      "updated_at": "2026-08-17T17:41:40.107732+00:00"
+      "updated_at": "2026-08-17T18:00:08.996139+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-17T17:41:40.232964+00:00",
+      "updated_at": "2026-08-17T18:00:12.326085+00:00",
       "items": [
         {
           "title": "Schneider Electric Infrastructure shares tumble 12% after Q1 profit plunges 70% YoY",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-17T17:41:40.429567+00:00",
+      "updated_at": "2026-08-17T18:00:12.513312+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-17T17:41:40.727097+00:00",
+      "updated_at": "2026-08-17T18:00:12.637008+00:00",
       "items": [
+        {
+          "title": "After weeks of shaky ground, AI related stocks are on the rise again—Here's what Elon Musk's post indicates about trend",
+          "link": "https://www.livemint.com/market/stock-market-news/ai-stocks-rise-after-weeks-down-elon-musk-indicates-if-market-trend-will-continue-memory-sk-hynix-micron-sandisk-samsung-11786983343642.html",
+          "pubDate": "2026-08-17T23:19:59+05:30"
+        },
         {
           "title": "This small-cap ethanol stock to be in focus on Tuesday after additional supply order from OMCs",
           "link": "https://www.livemint.com/market/stock-market-news/this-small-cap-ethanol-stock-in-focus-on-tuesday-after-additional-supply-order-from-omcs-11786986401694.html",
@@ -940,17 +945,12 @@
           "title": "Molbio Diagnostics IPO listing: Shares debut at a 21% premium, defying weak stock market sentiment",
           "link": "https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-listing-shares-debut-at-a-21-premium-defying-weak-stock-market-sentiment-11786940515415.html",
           "pubDate": "2026-08-17T10:00:37+05:30"
-        },
-        {
-          "title": "Dhoot Transmission share price makes a bumper debut, stock opens with a 38% premium at  ₹1,200 apiece on NSE",
-          "link": "https://www.livemint.com/market/ipo/dhoot-transmission-share-price-makes-a-bumper-debut-stock-opens-with-a-38-premium-at-rs-1-200-apiece-on-nse-11786939636120.html",
-          "pubDate": "2026-08-17T10:00:05+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-17T17:41:40.954904+00:00",
+      "updated_at": "2026-08-17T18:00:12.807825+00:00",
       "items": [
         {
           "title": "Jio-BlackRock rolls out MF plans; Lalithaa Jewellery IPO booked 0.68x",
@@ -960,7 +960,7 @@
         {
           "title": "Rupee weakens, bond yields harden as RBI shuts FCNR(B) swap window early",
           "link": "https://www.business-standard.com/markets/news/rupee-weakens-bond-yields-rise-as-rbi-shuts-fcnr-b-swap-window-early-126081701393_1.html",
-          "pubDate": "2026-08-17T20:47:12+05:30"
+          "pubDate": "2026-08-17T20:47:33+05:30"
         },
         {
           "title": "FII ownership falls to 17-year low as domestic investors strengthen grip",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-17T17:41:41.523528+00:00",
+      "updated_at": "2026-08-17T18:00:12.875029+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 18, 2026",

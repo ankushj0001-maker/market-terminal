@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T20:59:19.078579+00:00",
+  "generated_at": "2026-08-17T21:23:18.744151+00:00",
   "indices": {
     "nifty50": {
       "price": 24287.65,
@@ -68,7 +68,7 @@
         24287.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T20:59:16.897216+00:00"
+      "updated_at": "2026-08-17T21:23:16.647642+00:00"
     },
     "sensex": {
       "price": 77728.16,
@@ -137,7 +137,7 @@
         77728.15625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T20:59:17.034393+00:00"
+      "updated_at": "2026-08-17T21:23:16.799895+00:00"
     },
     "banknifty": {
       "price": 57497.8,
@@ -206,7 +206,7 @@
         57497.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-17T20:59:17.082833+00:00"
+      "updated_at": "2026-08-17T21:23:16.898538+00:00"
     },
     "vix": {
       "price": 11.325,
@@ -275,14 +275,13 @@
         11.324999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-17T20:59:17.151155+00:00"
+      "updated_at": "2026-08-17T21:23:16.955548+00:00"
     },
     "usdinr": {
       "price": 95.592,
       "change": 0.177,
       "pct": 0.1855,
       "closes": [
-        95.58499908447266,
         95.59500122070312,
         95.58000183105469,
         95.58999633789062,
@@ -341,18 +340,17 @@
         95.59200286865234,
         95.59200286865234,
         95.59200286865234,
+        95.59200286865234,
         95.59200286865234
       ],
       "ok": true,
-      "updated_at": "2026-08-17T20:59:17.223400+00:00"
+      "updated_at": "2026-08-17T21:23:17.043574+00:00"
     },
     "gold": {
-      "price": 4472.2,
-      "change": 34.9,
-      "pct": 0.7865,
+      "price": 4473.1,
+      "change": 35.8,
+      "pct": 0.8068,
       "closes": [
-        4484.7998046875,
-        4482.7998046875,
         4484.89990234375,
         4483.39990234375,
         4483.2001953125,
@@ -410,18 +408,18 @@
         4471.5,
         4472.2001953125,
         4472.0,
-        4472.2001953125
+        4472.2001953125,
+        4473.10009765625,
+        4473.10009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T20:59:17.321513+00:00"
+      "updated_at": "2026-08-17T21:23:17.121545+00:00"
     },
     "crude": {
-      "price": 84.93,
-      "change": 2.53,
-      "pct": 3.0704,
+      "price": 84.95,
+      "change": 2.55,
+      "pct": 3.0947,
       "closes": [
-        82.81999969482422,
-        82.6500015258789,
         82.5999984741211,
         82.36000061035156,
         82.37000274658203,
@@ -479,10 +477,12 @@
         84.95999908447266,
         84.94999694824219,
         84.91999816894531,
-        84.93000030517578
+        84.93000030517578,
+        84.94999694824219,
+        84.94999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-17T20:59:17.584633+00:00"
+      "updated_at": "2026-08-17T21:23:17.203157+00:00"
     },
     "us10y": {
       "price": 4.724,
@@ -551,13 +551,13 @@
         4.723999977111816
       ],
       "ok": true,
-      "updated_at": "2026-08-17T20:59:17.689796+00:00"
+      "updated_at": "2026-08-17T21:23:17.273567+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-17T20:59:17.783385+00:00",
+      "updated_at": "2026-08-17T21:23:17.347560+00:00",
       "items": [
         {
           "title": "US stocks: US market slips as oil prices rise, retail results awaited",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-17T20:59:17.940322+00:00",
+      "updated_at": "2026-08-17T21:23:17.778736+00:00",
       "items": [
+        {
+          "title": "Traders Get Pickier in Emerging-Market Inflation-Linked Debt",
+          "link": "https://www.livemint.com/market/traders-get-pickier-in-emerging-market-inflation-linked-debt-11787001634597.html",
+          "pubDate": "2026-08-18T02:50:34+05:30"
+        },
         {
           "title": "Stocks, dollar fall after weak data; yields rise",
           "link": "https://www.livemint.com/market/stocks-dollar-fall-after-weak-data-yields-rise-11786998207341.html",
@@ -940,17 +945,12 @@
           "title": "Q&amp;T Foods IPO share allotment in focus today: GMP, steps to check allotment status online",
           "link": "https://www.livemint.com/market/ipo/qt-foods-ipo-share-allotment-in-focus-today-gmp-steps-to-check-allotment-status-online-11786942257421.html",
           "pubDate": "2026-08-17T11:25:25+05:30"
-        },
-        {
-          "title": "Ashok Leyland’s demand is on the right track, but margins lag",
-          "link": "https://www.livemint.com/market/mark-to-market/ashok-leyland-q1-results-share-price-margin-market-share-11786939635130.html",
-          "pubDate": "2026-08-17T11:22:01+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-17T20:59:18.169201+00:00",
+      "updated_at": "2026-08-17T21:23:17.801649+00:00",
       "items": [
         {
           "title": "Jio-BlackRock rolls out MF plans; Lalithaa Jewellery IPO booked 0.68x",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-17T20:59:19.078560+00:00",
+      "updated_at": "2026-08-17T21:23:18.744135+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 18, 2026",

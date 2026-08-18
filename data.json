@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T00:29:54.817389+00:00",
+  "generated_at": "2026-08-18T01:57:29.265133+00:00",
   "indices": {
     "nifty50": {
       "price": 24287.65,
@@ -68,7 +68,7 @@
         24287.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-18T00:29:52.835157+00:00"
+      "updated_at": "2026-08-18T01:57:26.743625+00:00"
     },
     "sensex": {
       "price": 77728.16,
@@ -137,7 +137,7 @@
         77728.15625
       ],
       "ok": true,
-      "updated_at": "2026-08-18T00:29:52.895214+00:00"
+      "updated_at": "2026-08-18T01:57:26.794361+00:00"
     },
     "banknifty": {
       "price": 57497.8,
@@ -206,7 +206,7 @@
         57497.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-18T00:29:52.954124+00:00"
+      "updated_at": "2026-08-18T01:57:27.187060+00:00"
     },
     "vix": {
       "price": 11.325,
@@ -275,7 +275,7 @@
         11.324999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-18T00:29:53.002595+00:00"
+      "updated_at": "2026-08-18T01:57:27.245873+00:00"
     },
     "usdinr": {
       "price": 95.592,
@@ -283,34 +283,19 @@
       "pct": 0.0,
       "closes": [
         95.59200286865234,
+        95.59200286865234,
+        95.59200286865234,
+        95.59200286865234,
         95.59200286865234
       ],
       "ok": true,
-      "updated_at": "2026-08-18T00:29:53.039851+00:00"
+      "updated_at": "2026-08-18T01:57:27.293163+00:00"
     },
     "gold": {
-      "price": 4483.9,
-      "change": 10.2,
-      "pct": 0.228,
+      "price": 4465.0,
+      "change": -8.7,
+      "pct": -0.1945,
       "closes": [
-        4463.2001953125,
-        4456.60009765625,
-        4458.39990234375,
-        4458.0,
-        4462.60009765625,
-        4463.2001953125,
-        4463.10009765625,
-        4459.2998046875,
-        4460.10009765625,
-        4464.5,
-        4471.2001953125,
-        4472.2998046875,
-        4470.60009765625,
-        4472.7998046875,
-        4472.5,
-        4475.5,
-        4476.10009765625,
-        4473.89990234375,
         4475.7001953125,
         4475.2998046875,
         4473.39990234375,
@@ -352,34 +337,34 @@
         4476.2998046875,
         4478.39990234375,
         4482.89990234375,
-        4483.89990234375
+        4484.2001953125,
+        4487.7001953125,
+        4487.89990234375,
+        4489.2998046875,
+        4486.10009765625,
+        4486.2998046875,
+        4486.0,
+        4491.2001953125,
+        4488.5,
+        4487.0,
+        4485.5,
+        4481.7998046875,
+        4480.2998046875,
+        4481.5,
+        4479.0,
+        4476.60009765625,
+        4468.39990234375,
+        4466.2001953125,
+        4465.0
       ],
       "ok": true,
-      "updated_at": "2026-08-18T00:29:53.101376+00:00"
+      "updated_at": "2026-08-18T01:57:27.370584+00:00"
     },
     "crude": {
-      "price": 84.88,
-      "change": 0.38,
-      "pct": 0.4497,
+      "price": 84.95,
+      "change": 0.45,
+      "pct": 0.5325,
       "closes": [
-        84.45999908447266,
-        84.30999755859375,
-        84.30999755859375,
-        84.20999908447266,
-        84.2300033569336,
-        84.30000305175781,
-        84.25,
-        84.37000274658203,
-        84.44999694824219,
-        84.31999969482422,
-        84.37000274658203,
-        84.37999725341797,
-        84.4000015258789,
-        84.37999725341797,
-        84.38999938964844,
-        84.38999938964844,
-        84.38999938964844,
-        84.58000183105469,
         84.6500015258789,
         84.58000183105469,
         84.63999938964844,
@@ -421,10 +406,28 @@
         84.95999908447266,
         84.91000366210938,
         84.87999725341797,
-        84.87999725341797
+        84.9800033569336,
+        84.9000015258789,
+        84.88999938964844,
+        84.83999633789062,
+        84.83999633789062,
+        84.88999938964844,
+        84.83999633789062,
+        84.76000213623047,
+        85.0,
+        84.7300033569336,
+        84.7300033569336,
+        84.9000015258789,
+        84.87999725341797,
+        84.88999938964844,
+        84.83999633789062,
+        85.06999969482422,
+        84.98999786376953,
+        84.94999694824219,
+        84.94999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-18T00:29:53.157824+00:00"
+      "updated_at": "2026-08-18T01:57:27.446460+00:00"
     },
     "us10y": {
       "price": 4.724,
@@ -493,43 +496,43 @@
         4.723999977111816
       ],
       "ok": true,
-      "updated_at": "2026-08-18T00:29:53.210131+00:00"
+      "updated_at": "2026-08-18T01:57:27.546334+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-18T00:29:53.362168+00:00",
+      "updated_at": "2026-08-18T01:57:27.799602+00:00",
       "items": [
         {
-          "title": "US stocks: US market slips as oil prices rise, retail results awaited",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-slips-as-oil-prices-rise-retail-results-awaited/articleshow/133306298.cms",
-          "pubDate": "2026-08-18T01:38:11+05:30"
+          "title": "Resilient Asset to offload 4.98% stake in Paytm parent",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/resilient-asset-to-offload-4-98-stake-in-paytm-parent-reshaping-investment-landscape-and-future-strategies/articleshow/133309167.cms",
+          "pubDate": "2026-08-18T07:05:31+05:30"
         },
         {
-          "title": "Axis Bank expands corporate play beyond loans, shuns price war",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-expands-corporate-play-beyond-loans-shuns-price-war/articleshow/133308830.cms",
-          "pubDate": "2026-08-18T00:57:21+05:30"
+          "title": "Sebi clarifies rules on pledging securities for discretionary PMS clients to raise loans",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-clarifies-rules-on-pledging-securities-for-discretionary-pms-clients-to-raise-loans/articleshow/133309034.cms",
+          "pubDate": "2026-08-18T06:34:46+05:30"
         },
         {
-          "title": "Gold appears set for a rebound as it regains safe-haven appeal after US-Iran war selloff",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-appears-set-for-a-rebound-as-it-regains-safe-haven-appeal-after-us-iran-war-selloff/articleshow/133305922.cms",
-          "pubDate": "2026-08-18T00:51:40+05:30"
+          "title": "Zaggle plummets to 52-week low after disappointing Q1 results",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zaggle-prepaid-ocean-services-stock-plummets-to-52-week-low-after-disappointing-q1-results/articleshow/133308996.cms",
+          "pubDate": "2026-08-18T06:29:01+05:30"
         },
         {
-          "title": "Investors pile into small, mid-caps as earnings momentum improves",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/investors-pile-into-small-mid-caps-as-earnings-momentum-improves/articleshow/133308824.cms",
-          "pubDate": "2026-08-18T00:49:50+05:30"
+          "title": "Strong earnings propel mid- and small-cap stocks to a significant rally on D-St",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/strong-earnings-support-mid-small-caps-d-street-run/articleshow/133308944.cms",
+          "pubDate": "2026-08-18T06:20:12+05:30"
         },
         {
-          "title": "India’s microfinance overhang is finally easing as debt-stressed borrowers fall",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-microfinance-overhang-is-finally-easing-as-debt-stressed-borrowers-fall/articleshow/133308816.cms",
-          "pubDate": "2026-08-18T00:41:12+05:30"
+          "title": "Sebi chair rules out CAS rollback; assures commitment to resolving ongoing issues",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-chair-rules-out-cas-rollback-assures-commitment-to-resolving-ongoing-financial-issues/articleshow/133308903.cms",
+          "pubDate": "2026-08-18T06:06:37+05:30"
         },
         {
-          "title": "ICICI Bank raises $750 million as Indian banks tap dollar bond market",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/icici-bank-raises-750-million-as-indian-banks-tap-dollar-bond-market/articleshow/133300962.cms",
-          "pubDate": "2026-08-17T21:19:10+05:30"
+          "title": "ICICI Bank overtakes HDFC Bank as top MF holding in July",
+          "link": "https://economictimes.indiatimes.com/mf/mf-news/icici-bank-overtakes-hdfc-bank-as-top-mf-holding-in-july-amid-governance-concerns/articleshow/133308820.cms",
+          "pubDate": "2026-08-18T05:50:17+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -736,8 +739,33 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-18T00:29:53.747063+00:00",
+      "updated_at": "2026-08-18T01:57:28.228539+00:00",
       "items": [
+        {
+          "title": "From Gift Nifty to Kospi rally, crude oil prices: 6 key things that changed for Indian stock market overnight",
+          "link": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-kospi-rally-crude-oil-prices-6-key-things-that-changed-for-indian-stock-market-overnight-11787015325545.html",
+          "pubDate": "2026-08-18T07:10:07+05:30"
+        },
+        {
+          "title": "Milky Mist Dairy Food IPO listing date today. Here’s what GMP, experts hint ahead of debut",
+          "link": "https://www.livemint.com/market/ipo/milky-mist-dairy-food-ipo-gmp-milky-mist-ipo-gmp-milky-mist-ipo-listing-date-milky-mist-ipo-allotment-milky-mist-ipo-11786982121868.html",
+          "pubDate": "2026-08-18T06:45:57+05:30"
+        },
+        {
+          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 18 August 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-18-august-2026-11787014027002.html",
+          "pubDate": "2026-08-18T06:33:40+05:30"
+        },
+        {
+          "title": "Raja Venkatraman recommends three stocks for 18 August",
+          "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-three-stocks-18-august-11786982882569.html",
+          "pubDate": "2026-08-18T06:01:04+05:30"
+        },
+        {
+          "title": "Stock recommendations for 18 August from MarketSmith India",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-18-august-from-marketsmith-india-11786971698790.html",
+          "pubDate": "2026-08-18T06:00:24+05:30"
+        },
         {
           "title": "Foreign Holdings of Treasuries Fell in June, Led by Japan Drop",
           "link": "https://www.livemint.com/market/foreign-holdings-of-treasuries-fell-in-june-led-by-japan-drop-11787004808131.html",
@@ -862,37 +890,12 @@
           "title": "Reliance shares briefly slip below  ₹1,300 amid volatility: Buy the dip or wait?",
           "link": "https://www.livemint.com/market/stock-market-news/reliance-shares-briefly-slip-below-1-300-amid-volatility-buy-the-dip-or-wait-11786950918125.html",
           "pubDate": "2026-08-17T13:42:30+05:30"
-        },
-        {
-          "title": "Baazar Style Retail shares hit 5% upper circuit on reports of Aditya Halwasia buying company shares worth  ₹163 crore",
-          "link": "https://www.livemint.com/market/stock-market-news/baazar-style-retail-shares-hit-5-upper-circuit-on-reports-of-aditya-halwasia-buying-company-shares-worth-163-crore-11786948034095.html",
-          "pubDate": "2026-08-17T13:08:49+05:30"
-        },
-        {
-          "title": "Pramodini Medicare IPO allotment in focus today; latest GMP, 5 steps to check status",
-          "link": "https://www.livemint.com/market/ipo/pramodini-medicare-ipo-allotment-in-focus-today-latest-gmp-5-steps-to-check-status-11786947676585.html",
-          "pubDate": "2026-08-17T12:28:19+05:30"
-        },
-        {
-          "title": "Sunshine Pictures IPO: GMP signals 15% listing pop; dates, price band, other key details in 10 points",
-          "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-gmp-signals-15-listing-pop-dates-price-band-other-key-details-in-10-points-11786946572088.html",
-          "pubDate": "2026-08-17T12:15:14+05:30"
-        },
-        {
-          "title": "Behari Lal Engineering IPO allotment today. GMP signals 29% listing pop. How to check status online?",
-          "link": "https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-allotment-today-gmp-signals-29-listing-pop-how-to-check-status-online-11786943306004.html",
-          "pubDate": "2026-08-17T11:27:37+05:30"
-        },
-        {
-          "title": "Horizon Industrial Parks IPO Day 1 LIVE: GMP, review, subscription, other details of Blackstone-backe  ₹2600 crore IPO",
-          "link": "https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-day-1-live-gmp-review-subscription-other-details-of-blackstone-backe-rs-2600-crore-ipo-11786940478449.html",
-          "pubDate": "2026-08-17T11:26:57+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-18T00:29:53.889158+00:00",
+      "updated_at": "2026-08-18T01:57:28.265755+00:00",
       "items": [
         {
           "title": "Jio-BlackRock rolls out MF plans; Lalithaa Jewellery IPO booked 0.68x",
@@ -1048,7 +1051,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-18T00:29:54.817370+00:00",
+      "updated_at": "2026-08-18T01:57:29.265116+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 18, 2026",

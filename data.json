@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-18T04:57:30.121378+00:00",
+  "generated_at": "2026-08-18T05:21:36.175555+00:00",
   "indices": {
     "nifty50": {
-      "price": 24226.65,
-      "change": -61.0,
-      "pct": -0.2512,
+      "price": 24207.3,
+      "change": -80.35,
+      "pct": -0.3308,
       "closes": [
         24238.849609375,
         24244.349609375,
@@ -18,18 +18,23 @@
         24222.80078125,
         24221.599609375,
         24220.19921875,
-        24213.900390625,
+        24214.05078125,
         24216.69921875,
-        24217.5,
-        24226.650390625
+        24225.849609375,
+        24231.19921875,
+        24226.099609375,
+        24214.80078125,
+        24204.75,
+        24207.94921875,
+        24207.30078125
       ],
       "ok": true,
-      "updated_at": "2026-08-18T04:57:27.701135+00:00"
+      "updated_at": "2026-08-18T05:21:34.465305+00:00"
     },
     "sensex": {
-      "price": 77411.4,
-      "change": -316.76,
-      "pct": -0.4075,
+      "price": 77461.14,
+      "change": -267.02,
+      "pct": -0.3435,
       "closes": [
         77481.71875,
         77501.5703125,
@@ -42,16 +47,21 @@
         77452.296875,
         77419.8671875,
         77412.953125,
-        77414.7890625,
-        77411.3984375
+        77408.328125,
+        77394.7734375,
+        77404.5390625,
+        77444.4765625,
+        77457.5234375,
+        77455.4765625,
+        77461.140625
       ],
       "ok": true,
-      "updated_at": "2026-08-18T04:57:27.803177+00:00"
+      "updated_at": "2026-08-18T05:21:34.544659+00:00"
     },
     "banknifty": {
-      "price": 57342.25,
-      "change": -155.55,
-      "pct": -0.2705,
+      "price": 57283.45,
+      "change": -214.35,
+      "pct": -0.3728,
       "closes": [
         57450.5,
         57405.30078125,
@@ -67,16 +77,21 @@
         57305.05078125,
         57298.19921875,
         57299.1484375,
-        57313.6015625,
-        57342.25
+        57345.5,
+        57357.1015625,
+        57343.25,
+        57310.55078125,
+        57281.6015625,
+        57286.75,
+        57283.44921875
       ],
       "ok": true,
-      "updated_at": "2026-08-18T04:57:27.895955+00:00"
+      "updated_at": "2026-08-18T05:21:34.607679+00:00"
     },
     "vix": {
-      "price": 11.465,
-      "change": 0.14,
-      "pct": 1.2362,
+      "price": 11.595,
+      "change": 0.27,
+      "pct": 2.3841,
       "closes": [
         11.262499809265137,
         11.292499542236328,
@@ -92,16 +107,21 @@
         11.457500457763672,
         11.492500305175781,
         11.5024995803833,
-        11.5,
-        11.46500015258789
+        11.447500228881836,
+        11.447500228881836,
+        11.444999694824219,
+        11.582500457763672,
+        11.582500457763672,
+        11.582500457763672,
+        11.595000267028809
       ],
       "ok": true,
-      "updated_at": "2026-08-18T04:57:28.013880+00:00"
+      "updated_at": "2026-08-18T05:21:34.655632+00:00"
     },
     "usdinr": {
-      "price": 95.6725,
-      "change": 0.0805,
-      "pct": 0.0842,
+      "price": 95.662,
+      "change": 0.07,
+      "pct": 0.0732,
       "closes": [
         95.59200286865234,
         95.59200286865234,
@@ -129,16 +149,21 @@
         95.6675033569336,
         95.65799713134766,
         95.66999816894531,
+        95.66999816894531,
         95.6675033569336,
-        95.67250061035156
+        95.66999816894531,
+        95.66999816894531,
+        95.67250061035156,
+        95.66999816894531,
+        95.66200256347656
       ],
       "ok": true,
-      "updated_at": "2026-08-18T04:57:28.114460+00:00"
+      "updated_at": "2026-08-18T05:21:34.712422+00:00"
     },
     "gold": {
-      "price": 4447.7,
-      "change": -26.0,
-      "pct": -0.5812,
+      "price": 4446.6,
+      "change": -27.1,
+      "pct": -0.6058,
       "closes": [
         4446.2001953125,
         4446.7998046875,
@@ -150,15 +175,20 @@
         4446.7001953125,
         4448.7001953125,
         4450.10009765625,
-        4447.7001953125
+        4450.7998046875,
+        4448.89990234375,
+        4446.89990234375,
+        4449.0,
+        4446.60009765625,
+        4446.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-18T04:57:28.171762+00:00"
+      "updated_at": "2026-08-18T05:21:34.768682+00:00"
     },
     "crude": {
-      "price": 85.14,
-      "change": 0.64,
-      "pct": 0.7574,
+      "price": 85.21,
+      "change": 0.71,
+      "pct": 0.8402,
       "closes": [
         85.27999877929688,
         85.27999877929688,
@@ -170,10 +200,15 @@
         85.1500015258789,
         85.16000366210938,
         85.1500015258789,
-        85.13999938964844
+        85.13999938964844,
+        85.1500015258789,
+        85.2699966430664,
+        85.2300033569336,
+        85.2300033569336,
+        85.20999908447266
       ],
       "ok": true,
-      "updated_at": "2026-08-18T04:57:28.260895+00:00"
+      "updated_at": "2026-08-18T05:21:34.831017+00:00"
     },
     "us10y": {
       "price": 4.724,
@@ -242,13 +277,13 @@
         4.723999977111816
       ],
       "ok": true,
-      "updated_at": "2026-08-18T04:57:28.330453+00:00"
+      "updated_at": "2026-08-18T05:21:34.904825+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-18T04:57:28.559649+00:00",
+      "updated_at": "2026-08-18T05:21:34.983490+00:00",
       "items": [
         {
           "title": "Dollar feeble as rate hike bets dwindle, Iran war worries grow",
@@ -404,7 +439,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-18T04:57:28.756887+00:00",
+      "updated_at": "2026-08-18T05:21:35.272783+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -485,15 +520,25 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-18T04:57:28.928040+00:00",
+      "updated_at": "2026-08-18T05:21:35.438025+00:00",
       "items": [
+        {
+          "title": "Lalithaa Jewellery Mart IPO Day 2 LIVE: GMP, subscription status to review. Apply or not?",
+          "link": "https://www.livemint.com/market/ipo/lalithaa-jewellery-mart-ipo-day-2-live-gmp-subscription-status-to-review-apply-or-not-11787026286137.html",
+          "pubDate": "2026-08-18T10:36:38+05:30"
+        },
+        {
+          "title": "Sham Foam SME IPO listing: Shares debut at 20% discount, hit lower circuit; details here",
+          "link": "https://www.livemint.com/market/ipo/sham-foam-sme-ipo-listing-shares-debut-at-20-discount-hit-lower-circuit-details-here-11787028849464.html",
+          "pubDate": "2026-08-18T10:31:00+05:30"
+        },
         {
           "title": "Stocks to buy for short term: Grasim, Quess Corp among 6 stocks experts recommend buying today for next 1-2 weeks",
           "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-grasim-quess-corp-among-6-stocks-experts-recommend-buying-today-for-next-1-2-weeks-11787027051128.html",
           "pubDate": "2026-08-18T10:20:08+05:30"
         },
         {
-          "title": "Sunshine Pictures IPO Day 1: Issue booked 22% so far. GMP hints 21% listing pop. Should you apply or skip?",
+          "title": "Sunshine Pictures IPO Day 1: Issue booked 45% so far. GMP hints 21% listing pop. Should you apply or skip?",
           "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-1-issue-booked-22-so-far-gmp-hints-21-listing-pop-should-you-apply-or-skip-11787026498490.html",
           "pubDate": "2026-08-18T10:18:46+05:30"
         },
@@ -518,7 +563,7 @@
           "pubDate": "2026-08-18T09:22:06+05:30"
         },
         {
-          "title": "Horizon Industrial Parks IPO Day 2: Issue subscribed 14% so far. Here's GMP, review &amp; other details - Apply or not?",
+          "title": "Horizon Industrial Parks IPO Day 2: Issue subscribed 16% so far. Here's GMP, review &amp; other details - Apply or not?",
           "link": "https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-day-2-issue-subscribed-14-so-far-heres-gmp-review-other-details-apply-or-not-11787023897231.html",
           "pubDate": "2026-08-18T09:20:29+05:30"
         },
@@ -626,27 +671,47 @@
           "title": "This small-cap ethanol stock to be in focus on Tuesday after additional supply order from OMCs",
           "link": "https://www.livemint.com/market/stock-market-news/this-small-cap-ethanol-stock-in-focus-on-tuesday-after-additional-supply-order-from-omcs-11786986401694.html",
           "pubDate": "2026-08-17T22:46:11+05:30"
-        },
-        {
-          "title": "Bitcoin ETFs suffer biggest outflows since June as crypto sentiment weakens",
-          "link": "https://www.livemint.com/market/bitcoin-etfs-suffer-biggest-outflows-since-june-as-crypto-sentiment-weakens-11786983817343.html",
-          "pubDate": "2026-08-17T22:42:32+05:30"
-        },
-        {
-          "title": "Yes Bank eyes dollar bond market after six-year hiatus, arrangers appointed: Why now?",
-          "link": "https://www.livemint.com/market/stock-market-news/yes-bank-eyes-dollar-bond-market-after-six-year-hiatus-arrangers-appointed-why-now-11786981933063.html",
-          "pubDate": "2026-08-17T22:18:28+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-18T04:57:29.099024+00:00",
+      "updated_at": "2026-08-18T05:21:35.628797+00:00",
       "items": [
         {
-          "title": "Indo-MIM shares surge 10% post Q1 show, nearly double investors' IPO gains",
+          "title": "Indrajaal-Sigma consortium wins orders worth Rs 155 cr for Indrajaal Ranger",
+          "link": "https://www.business-standard.com/markets/capital-market-news/indrajaal-sigma-consortium-wins-orders-worth-rs-155-cr-for-indrajaal-ranger-126081800248_1.html",
+          "pubDate": "2026-08-18T10:31:44+05:30"
+        },
+        {
+          "title": "Adani Power gains after CARE Ratings upgrades LT ratings to 'AA+' with 'stable' outlook",
+          "link": "https://www.business-standard.com/markets/capital-market-news/adani-power-gains-after-care-ratings-upgrades-lt-ratings-to-aa-with-stable-outlook-126081800247_1.html",
+          "pubDate": "2026-08-18T10:31:27+05:30"
+        },
+        {
+          "title": "Milky Mist Dairy Food gains on market debut",
+          "link": "https://www.business-standard.com/markets/capital-market-news/milky-mist-dairy-food-gains-on-market-debut-126081800246_1.html",
+          "pubDate": "2026-08-18T10:31:19+05:30"
+        },
+        {
+          "title": "BSE SME Sham Foam loses its bounce, trades below IPO price",
+          "link": "https://www.business-standard.com/markets/capital-market-news/bse-sme-sham-foam-loses-its-bounce-trades-below-ipo-price-126081800245_1.html",
+          "pubDate": "2026-08-18T10:31:10+05:30"
+        },
+        {
+          "title": "Netweb Tech gains after launching QIP; floor price set at Rs 4,885.90/share",
+          "link": "https://www.business-standard.com/markets/capital-market-news/netweb-tech-gains-after-launching-qip-floor-price-set-at-rs-4-885-90-share-126081800244_1.html",
+          "pubDate": "2026-08-18T10:31:02+05:30"
+        },
+        {
+          "title": "PVR Inox rallies 23% in month, nears 52-week high; what's driving stock?",
+          "link": "https://www.business-standard.com/markets/news/pvr-inox-share-price-rallies-23-in-month-nears-52-week-high-what-s-driving-stock-126081800189_1.html",
+          "pubDate": "2026-08-18T10:23:24+05:30"
+        },
+        {
+          "title": "Indo-MIM shares surge 10% post Q1 show, nearly double IPO investors' gains",
           "link": "https://www.business-standard.com/markets/news/indo-mim-shares-surge-10-post-q1-show-nearly-double-investors-ipo-gains-126081800230_1.html",
-          "pubDate": "2026-08-18T10:18:02+05:30"
+          "pubDate": "2026-08-18T10:18:43+05:30"
         },
         {
           "title": "Denta Water & Infra Solutions update on its flagship Mukkumpi lift irrigation project",
@@ -691,12 +756,12 @@
         {
           "title": "Milky Mist makes a sweet debut as shares list at 18% premium over IPO price",
           "link": "https://www.business-standard.com/markets/news/milky-mist-makes-a-sweet-debut-as-shares-list-at-18-premium-over-ipo-price-126081800190_1.html",
-          "pubDate": "2026-08-18T10:00:01+05:30"
+          "pubDate": "2026-08-18T10:00:49+05:30"
         },
         {
           "title": "Paytm block deal: 2.95% equity changes hands; stock slips 1.5%",
           "link": "https://www.business-standard.com/markets/news/paytm-block-deal-2-95-equity-changes-hands-stock-slips-1-5-126081800188_1.html",
-          "pubDate": "2026-08-18T09:59:51+05:30"
+          "pubDate": "2026-08-18T09:59:58+05:30"
         },
         {
           "title": "Biocon gets supplemental US FDA nod for Yesintek prefilled autoinjector",
@@ -762,43 +827,18 @@
           "title": "Shree Ram Proteins reports standalone net loss of Rs 6.36 crore in the June 2026 quarter",
           "link": "https://www.business-standard.com/markets/capital-market-news/shree-ram-proteins-reports-standalone-net-loss-of-rs-6-36-crore-in-the-june-2026-quarter-126081800130_1.html",
           "pubDate": "2026-08-18T09:05:07+05:30"
-        },
-        {
-          "title": "Starbeam Ventures reports standalone net loss of Rs 0.51 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/starbeam-ventures-reports-standalone-net-loss-of-rs-0-51-crore-in-the-june-2026-quarter-126081800126_1.html",
-          "pubDate": "2026-08-18T09:04:59+05:30"
-        },
-        {
-          "title": "Uravi Defence & Technology consolidated net profit rises 62.79% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/uravi-defence-technology-consolidated-net-profit-rises-62-79-in-the-june-2026-quarter-126081800125_1.html",
-          "pubDate": "2026-08-18T09:04:50+05:30"
-        },
-        {
-          "title": "Godrej Housing Finance standalone net profit rises 63.93% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/godrej-housing-finance-standalone-net-profit-rises-63-93-in-the-june-2026-quarter-126081800124_1.html",
-          "pubDate": "2026-08-18T09:04:42+05:30"
-        },
-        {
-          "title": "A.K Capital Finance standalone net profit rises 45.86% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/a-k-capital-finance-standalone-net-profit-rises-45-86-in-the-june-2026-quarter-126081800123_1.html",
-          "pubDate": "2026-08-18T09:04:34+05:30"
-        },
-        {
-          "title": "Shri Ram Finance Corporation Pvt standalone net profit rises 27.55% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/shri-ram-finance-corporation-pvt-standalone-net-profit-rises-27-55-in-the-june-2026-quarter-126081800122_1.html",
-          "pubDate": "2026-08-18T09:04:26+05:30"
-        },
-        {
-          "title": "TMF Holdings reports standalone net profit of Rs 1080.11 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/tmf-holdings-reports-standalone-net-profit-of-rs-1080-11-crore-in-the-june-2026-quarter-126081800121_1.html",
-          "pubDate": "2026-08-18T09:04:18+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-18T04:57:30.121361+00:00",
+      "updated_at": "2026-08-18T05:21:36.175537+00:00",
       "items": [
+        {
+          "title": "RBI to conduct Second Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 18, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63393",
+          "pubDate": "2026-08-18T10:45:00+00:00"
+        },
         {
           "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on August 18, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63392",
@@ -843,11 +883,6 @@
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 17, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63384",
           "pubDate": "2026-08-17T10:45:00+00:00"
-        },
-        {
-          "title": "Result of the 7-day Variable Rate Reverse Repo (VRRR) auction held on August 17, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63383",
-          "pubDate": "2026-08-17T10:15:00+00:00"
         }
       ]
     }

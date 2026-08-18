@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T23:55:33.631261+00:00",
+  "generated_at": "2026-08-18T00:29:54.817389+00:00",
   "indices": {
     "nifty50": {
       "price": 24287.65,
@@ -68,7 +68,7 @@
         24287.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T23:55:30.704906+00:00"
+      "updated_at": "2026-08-18T00:29:52.835157+00:00"
     },
     "sensex": {
       "price": 77728.16,
@@ -137,7 +137,7 @@
         77728.15625
       ],
       "ok": true,
-      "updated_at": "2026-08-17T23:55:30.846946+00:00"
+      "updated_at": "2026-08-18T00:29:52.895214+00:00"
     },
     "banknifty": {
       "price": 57497.8,
@@ -206,7 +206,7 @@
         57497.80078125
       ],
       "ok": true,
-      "updated_at": "2026-08-17T23:55:30.923110+00:00"
+      "updated_at": "2026-08-18T00:29:52.954124+00:00"
     },
     "vix": {
       "price": 11.325,
@@ -275,27 +275,24 @@
         11.324999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-17T23:55:31.103227+00:00"
+      "updated_at": "2026-08-18T00:29:53.002595+00:00"
     },
     "usdinr": {
       "price": 95.592,
       "change": 0.0,
       "pct": 0.0,
-      "closes": [],
+      "closes": [
+        95.59200286865234,
+        95.59200286865234
+      ],
       "ok": true,
-      "updated_at": "2026-08-17T23:55:31.178141+00:00"
+      "updated_at": "2026-08-18T00:29:53.039851+00:00"
     },
     "gold": {
-      "price": 4478.2,
-      "change": 4.5,
-      "pct": 0.1006,
+      "price": 4483.9,
+      "change": 10.2,
+      "pct": 0.228,
       "closes": [
-        4471.0,
-        4468.5,
-        4469.0,
-        4471.2001953125,
-        4472.7001953125,
-        4466.7998046875,
         4463.2001953125,
         4456.60009765625,
         4458.39990234375,
@@ -349,22 +346,22 @@
         4477.10009765625,
         4479.10009765625,
         4479.7001953125,
-        4478.2001953125
+        4480.10009765625,
+        4482.0,
+        4481.7998046875,
+        4476.2998046875,
+        4478.39990234375,
+        4482.89990234375,
+        4483.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-17T23:55:31.391588+00:00"
+      "updated_at": "2026-08-18T00:29:53.101376+00:00"
     },
     "crude": {
-      "price": 84.89,
-      "change": 0.39,
-      "pct": 0.4615,
+      "price": 84.88,
+      "change": 0.38,
+      "pct": 0.4497,
       "closes": [
-        84.79000091552734,
-        84.5199966430664,
-        84.8499984741211,
-        84.63999938964844,
-        84.62000274658203,
-        84.68000030517578,
         84.45999908447266,
         84.30999755859375,
         84.30999755859375,
@@ -418,10 +415,16 @@
         84.95999908447266,
         84.94000244140625,
         84.86000061035156,
-        84.88999938964844
+        84.87999725341797,
+        84.87999725341797,
+        84.87000274658203,
+        84.95999908447266,
+        84.91000366210938,
+        84.87999725341797,
+        84.87999725341797
       ],
       "ok": true,
-      "updated_at": "2026-08-17T23:55:31.664431+00:00"
+      "updated_at": "2026-08-18T00:29:53.157824+00:00"
     },
     "us10y": {
       "price": 4.724,
@@ -490,13 +493,13 @@
         4.723999977111816
       ],
       "ok": true,
-      "updated_at": "2026-08-17T23:55:31.777984+00:00"
+      "updated_at": "2026-08-18T00:29:53.210131+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-17T23:55:31.951095+00:00",
+      "updated_at": "2026-08-18T00:29:53.362168+00:00",
       "items": [
         {
           "title": "US stocks: US market slips as oil prices rise, retail results awaited",
@@ -504,29 +507,29 @@
           "pubDate": "2026-08-18T01:38:11+05:30"
         },
         {
+          "title": "Axis Bank expands corporate play beyond loans, shuns price war",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-expands-corporate-play-beyond-loans-shuns-price-war/articleshow/133308830.cms",
+          "pubDate": "2026-08-18T00:57:21+05:30"
+        },
+        {
           "title": "Gold appears set for a rebound as it regains safe-haven appeal after US-Iran war selloff",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-appears-set-for-a-rebound-as-it-regains-safe-haven-appeal-after-us-iran-war-selloff/articleshow/133305922.cms",
           "pubDate": "2026-08-18T00:51:40+05:30"
         },
         {
-          "title": "Schneider Electric Infrastructure shares tumble 12% after Q1 profit plunges 70% YoY",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/schneider-electric-infrastructure-shares-tumble-12-after-q1-profit-plunges-70-yoy/articleshow/133289103.cms",
-          "pubDate": "2026-08-17T12:11:34+05:30"
+          "title": "Investors pile into small, mid-caps as earnings momentum improves",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/investors-pile-into-small-mid-caps-as-earnings-momentum-improves/articleshow/133308824.cms",
+          "pubDate": "2026-08-18T00:49:50+05:30"
         },
         {
-          "title": "Sugar stocks Balrampur Chini, Triveni Engineering, Dhampur Sugar and others rally up to 7%. Here’s why",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sugar-stocks-balrampur-chini-triveni-engineering-dhampur-sugar-and-others-rally-up-to-7-heres-why/articleshow/133288064.cms",
-          "pubDate": "2026-08-17T11:23:00+05:30"
+          "title": "India’s microfinance overhang is finally easing as debt-stressed borrowers fall",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-microfinance-overhang-is-finally-easing-as-debt-stressed-borrowers-fall/articleshow/133308816.cms",
+          "pubDate": "2026-08-18T00:41:12+05:30"
         },
         {
-          "title": "Uflex shares surge 16% after Q1 profit zooms 630% YoY",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/uflex-shares-surge-16-after-q1-profit-zooms-630-yoy/articleshow/133287997.cms",
-          "pubDate": "2026-08-17T11:19:21+05:30"
-        },
-        {
-          "title": "Zaggle shares crash 20%, hit lower circuit after Q1 PAT declines 33% YoY",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zaggle-shares-crash-20-hit-lower-circuit-after-q1-pat-declines-33-yoy/articleshow/133287705.cms",
-          "pubDate": "2026-08-17T11:04:44+05:30"
+          "title": "ICICI Bank raises $750 million as Indian banks tap dollar bond market",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/icici-bank-raises-750-million-as-indian-banks-tap-dollar-bond-market/articleshow/133300962.cms",
+          "pubDate": "2026-08-17T21:19:10+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -733,7 +736,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-17T23:55:32.349982+00:00",
+      "updated_at": "2026-08-18T00:29:53.747063+00:00",
       "items": [
         {
           "title": "Foreign Holdings of Treasuries Fell in June, Led by Japan Drop",
@@ -889,7 +892,7 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-17T23:55:32.589623+00:00",
+      "updated_at": "2026-08-18T00:29:53.889158+00:00",
       "items": [
         {
           "title": "Jio-BlackRock rolls out MF plans; Lalithaa Jewellery IPO booked 0.68x",
@@ -1045,7 +1048,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-17T23:55:33.631244+00:00",
+      "updated_at": "2026-08-18T00:29:54.817370+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 18, 2026",

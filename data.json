@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T11:57:29.276894+00:00",
+  "generated_at": "2026-08-18T12:29:46.205681+00:00",
   "indices": {
     "nifty50": {
       "price": 24154.9,
@@ -68,7 +68,7 @@
         24154.900390625
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:57:26.948186+00:00"
+      "updated_at": "2026-08-18T12:29:44.262717+00:00"
     },
     "sensex": {
       "price": 77235.46,
@@ -137,7 +137,7 @@
         77235.4609375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:57:27.056718+00:00"
+      "updated_at": "2026-08-18T12:29:44.313689+00:00"
     },
     "banknifty": {
       "price": 57262.4,
@@ -206,7 +206,7 @@
         57262.3984375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:57:27.156837+00:00"
+      "updated_at": "2026-08-18T12:29:44.360669+00:00"
     },
     "vix": {
       "price": 11.387,
@@ -275,7 +275,7 @@
         11.387499809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:57:27.256115+00:00"
+      "updated_at": "2026-08-18T12:29:44.409050+00:00"
     },
     "usdinr": {
       "price": 95.67,
@@ -344,19 +344,13 @@
         95.66999816894531
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:57:27.364526+00:00"
+      "updated_at": "2026-08-18T12:29:44.458699+00:00"
     },
     "gold": {
-      "price": 4449.3,
-      "change": -24.4,
-      "pct": -0.5454,
+      "price": 4448.1,
+      "change": -25.6,
+      "pct": -0.5722,
       "closes": [
-        4454.10009765625,
-        4455.0,
-        4453.2001953125,
-        4453.2001953125,
-        4455.10009765625,
-        4457.0,
         4459.0,
         4453.0,
         4458.0,
@@ -410,22 +404,22 @@
         4446.7998046875,
         4447.2001953125,
         4448.5,
-        4449.2998046875
+        4447.10009765625,
+        4452.2998046875,
+        4453.10009765625,
+        4448.0,
+        4449.7001953125,
+        4448.7001953125,
+        4448.10009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:57:27.465106+00:00"
+      "updated_at": "2026-08-18T12:29:44.511060+00:00"
     },
     "crude": {
-      "price": 84.09,
-      "change": 0.35,
-      "pct": 0.418,
+      "price": 84.38,
+      "change": 0.64,
+      "pct": 0.7643,
       "closes": [
-        85.19999694824219,
-        85.19000244140625,
-        85.02999877929688,
-        85.06999969482422,
-        85.0199966430664,
-        84.95999908447266,
         84.9000015258789,
         84.1500015258789,
         84.13999938964844,
@@ -479,85 +473,30 @@
         84.0199966430664,
         84.0199966430664,
         84.1500015258789,
-        84.08999633789062
+        84.16999816894531,
+        84.1500015258789,
+        84.0,
+        84.43000030517578,
+        84.36000061035156,
+        84.3499984741211,
+        84.37999725341797
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:57:27.562031+00:00"
+      "updated_at": "2026-08-18T12:29:44.564273+00:00"
     },
     "us10y": {
       "price": 4.724,
-      "change": 0.028,
-      "pct": 0.5963,
-      "closes": [
-        4.699999809265137,
-        4.699999809265137,
-        4.699999809265137,
-        4.699999809265137,
-        4.699999809265137,
-        4.699999809265137,
-        4.696000099182129,
-        4.693999767303467,
-        4.696000099182129,
-        4.697999954223633,
-        4.696000099182129,
-        4.697999954223633,
-        4.706000328063965,
-        4.708000183105469,
-        4.702000141143799,
-        4.703999996185303,
-        4.706000328063965,
-        4.703999996185303,
-        4.706000328063965,
-        4.706000328063965,
-        4.708000183105469,
-        4.708000183105469,
-        4.706000328063965,
-        4.708000183105469,
-        4.708000183105469,
-        4.708000183105469,
-        4.708000183105469,
-        4.703999996185303,
-        4.703999996185303,
-        4.706000328063965,
-        4.703999996185303,
-        4.706000328063965,
-        4.706000328063965,
-        4.710000038146973,
-        4.710000038146973,
-        4.710000038146973,
-        4.711999893188477,
-        4.711999893188477,
-        4.711999893188477,
-        4.716000080108643,
-        4.716000080108643,
-        4.716000080108643,
-        4.720000267028809,
-        4.723999977111816,
-        4.720000267028809,
-        4.720000267028809,
-        4.7220001220703125,
-        4.723999977111816,
-        4.723999977111816,
-        4.723999977111816,
-        4.723999977111816,
-        4.727999687194824,
-        4.727999687194824,
-        4.72599983215332,
-        4.723999977111816,
-        4.723999977111816,
-        4.723999977111816,
-        4.72599983215332,
-        4.72599983215332,
-        4.723999977111816
-      ],
+      "change": 0.0,
+      "pct": 0.0,
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-08-18T11:57:27.670825+00:00"
+      "updated_at": "2026-08-18T12:29:44.609071+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-18T11:57:27.820957+00:00",
+      "updated_at": "2026-08-18T12:29:44.687458+00:00",
       "items": [
         {
           "title": "Tube Investments of India shares surge 8% after Q1 earnings. What Motilal Oswal is saying",
@@ -712,7 +651,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-18T11:57:27.926793+00:00",
       "items": [
         {
@@ -794,7 +733,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-18T11:57:28.159269+00:00",
+      "updated_at": "2026-08-18T12:29:45.160110+00:00",
       "items": [
         {
           "title": "ONGC clarifies report on OVL’s Venezuela operations, says framework talks underway",
@@ -950,8 +889,23 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-18T11:57:28.325027+00:00",
+      "updated_at": "2026-08-18T12:29:45.216407+00:00",
       "items": [
+        {
+          "title": "INR weighed down by muted local equities as oil prices stay elevated",
+          "link": "https://www.business-standard.com/markets/capital-market-news/inr-weighed-down-by-muted-local-equities-as-oil-prices-stay-elevated-126081801059_1.html",
+          "pubDate": "2026-08-18T17:50:02+05:30"
+        },
+        {
+          "title": "BSE hits 4-month low after Jefferies, Nuvama downgrade stock on CAS risks",
+          "link": "https://www.business-standard.com/markets/news/bse-hits-4-month-low-after-jefferies-nuvama-downgrade-stock-on-cas-risks-126081801046_1.html",
+          "pubDate": "2026-08-18T17:42:03+05:30"
+        },
+        {
+          "title": "Horizon Industrial Parks (HIPL) IPO subscribed 24%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/horizon-industrial-parks-hipl-ipo-subscribed-24-126081801011_1.html",
+          "pubDate": "2026-08-18T17:31:02+05:30"
+        },
         {
           "title": "Sunshine Pictures IPO subscribed 4.33 times",
           "link": "https://www.business-standard.com/markets/capital-market-news/sunshine-pictures-ipo-subscribed-4-33-times-126081800984_1.html",
@@ -1086,27 +1040,12 @@
           "title": "Bosch share price soars 18% so far in August; hits new high in weak market",
           "link": "https://www.business-standard.com/markets/news/bosch-share-price-soars-18-so-far-in-august-hits-new-high-in-weak-market-126081800558_1.html",
           "pubDate": "2026-08-18T14:01:15+05:30"
-        },
-        {
-          "title": "Nifty trades tad above 24,200 level; European shares decline",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-tad-above-24-200-level-european-shares-decline-126081800580_1.html",
-          "pubDate": "2026-08-18T13:50:02+05:30"
-        },
-        {
-          "title": "Trident receives ESG score of 58",
-          "link": "https://www.business-standard.com/markets/capital-market-news/trident-receives-esg-score-of-58-126081800555_1.html",
-          "pubDate": "2026-08-18T13:31:41+05:30"
-        },
-        {
-          "title": "India Ratings and Research upgrades LT rating of Onesource Specialty Pharma to 'A'",
-          "link": "https://www.business-standard.com/markets/capital-market-news/india-ratings-and-research-upgrades-lt-rating-of-onesource-specialty-pharma-to-a-126081800551_1.html",
-          "pubDate": "2026-08-18T13:31:18+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-18T11:57:29.276877+00:00",
+      "updated_at": "2026-08-18T12:29:46.205665+00:00",
       "items": [
         {
           "title": "State Government Securities - Full Auction Result",

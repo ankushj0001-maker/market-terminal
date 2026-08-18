@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T12:29:46.205681+00:00",
+  "generated_at": "2026-08-18T13:23:17.746511+00:00",
   "indices": {
     "nifty50": {
       "price": 24154.9,
@@ -11,7 +11,7 @@
         24204.75,
         24195.55078125,
         24200.25,
-        24205.849609375,
+        24205.55078125,
         24207.25,
         24202.349609375,
         24197.75,
@@ -61,14 +61,14 @@
         24214.30078125,
         24203.19921875,
         24197.30078125,
-        24165.80078125,
+        24169.75,
         24166.349609375,
         24166.349609375,
         24154.900390625,
         24154.900390625
       ],
       "ok": true,
-      "updated_at": "2026-08-18T12:29:44.262717+00:00"
+      "updated_at": "2026-08-18T13:23:14.315540+00:00"
     },
     "sensex": {
       "price": 77235.46,
@@ -137,7 +137,7 @@
         77235.4609375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T12:29:44.313689+00:00"
+      "updated_at": "2026-08-18T13:23:14.389602+00:00"
     },
     "banknifty": {
       "price": 57262.4,
@@ -206,7 +206,7 @@
         57262.3984375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T12:29:44.360669+00:00"
+      "updated_at": "2026-08-18T13:23:15.410481+00:00"
     },
     "vix": {
       "price": 11.387,
@@ -275,7 +275,7 @@
         11.387499809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-18T12:29:44.409050+00:00"
+      "updated_at": "2026-08-18T13:23:15.470348+00:00"
     },
     "usdinr": {
       "price": 95.67,
@@ -344,24 +344,13 @@
         95.66999816894531
       ],
       "ok": true,
-      "updated_at": "2026-08-18T12:29:44.458699+00:00"
+      "updated_at": "2026-08-18T13:23:15.923010+00:00"
     },
     "gold": {
-      "price": 4448.1,
-      "change": -25.6,
-      "pct": -0.5722,
+      "price": 4450.2,
+      "change": -23.5,
+      "pct": -0.5253,
       "closes": [
-        4459.0,
-        4453.0,
-        4458.0,
-        4457.39990234375,
-        4456.0,
-        4454.2001953125,
-        4451.2001953125,
-        4450.0,
-        4446.2998046875,
-        4448.2001953125,
-        4447.60009765625,
         4444.0,
         4444.89990234375,
         4448.7998046875,
@@ -375,7 +364,7 @@
         4448.39990234375,
         4446.89990234375,
         4445.7998046875,
-        4444.89990234375,
+        4444.7001953125,
         4449.60009765625,
         4447.5,
         4444.5,
@@ -405,39 +394,39 @@
         4447.2001953125,
         4448.5,
         4447.10009765625,
-        4452.2998046875,
+        4452.5,
         4453.10009765625,
         4448.0,
         4449.7001953125,
         4448.7001953125,
-        4448.10009765625
+        4451.89990234375,
+        4451.89990234375,
+        4453.5,
+        4450.60009765625,
+        4448.7998046875,
+        4452.5,
+        4449.7001953125,
+        4450.7001953125,
+        4452.0,
+        4445.2001953125,
+        4452.0,
+        4450.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-18T12:29:44.511060+00:00"
+      "updated_at": "2026-08-18T13:23:15.996853+00:00"
     },
     "crude": {
-      "price": 84.38,
-      "change": 0.64,
-      "pct": 0.7643,
+      "price": 84.37,
+      "change": 0.63,
+      "pct": 0.7523,
       "closes": [
-        84.9000015258789,
-        84.1500015258789,
-        84.13999938964844,
-        84.27999877929688,
-        84.20999908447266,
-        84.30999755859375,
-        84.37999725341797,
-        84.38999938964844,
-        84.4000015258789,
-        84.36000061035156,
-        84.31999969482422,
         84.44999694824219,
         84.36000061035156,
         84.16000366210938,
         84.0999984741211,
         84.06999969482422,
         84.33000183105469,
-        84.12999725341797,
+        84.12000274658203,
         84.12999725341797,
         84.08999633789062,
         84.19000244140625,
@@ -449,7 +438,7 @@
         84.1500015258789,
         84.08000183105469,
         84.19000244140625,
-        84.05999755859375,
+        84.05000305175781,
         84.04000091552734,
         84.02999877929688,
         84.1500015258789,
@@ -479,54 +468,77 @@
         84.43000030517578,
         84.36000061035156,
         84.3499984741211,
-        84.37999725341797
+        84.31999969482422,
+        84.2699966430664,
+        84.18000030517578,
+        84.27999877929688,
+        84.36000061035156,
+        84.30000305175781,
+        84.37000274658203,
+        84.37999725341797,
+        84.4000015258789,
+        84.36000061035156,
+        84.33000183105469,
+        84.37000274658203
       ],
       "ok": true,
-      "updated_at": "2026-08-18T12:29:44.564273+00:00"
+      "updated_at": "2026-08-18T13:23:16.075416+00:00"
     },
     "us10y": {
-      "price": 4.724,
-      "change": 0.0,
-      "pct": 0.0,
-      "closes": [],
+      "price": 4.736,
+      "change": 0.012,
+      "pct": 0.254,
+      "closes": [
+        4.736000061035156,
+        4.736000061035156,
+        4.740000247955322,
+        4.740000247955322,
+        4.740000247955322,
+        4.740000247955322,
+        4.73799991607666,
+        4.736000061035156,
+        4.736000061035156,
+        4.736000061035156,
+        4.736000061035156
+      ],
       "ok": true,
-      "updated_at": "2026-08-18T12:29:44.609071+00:00"
+      "updated_at": "2026-08-18T13:23:16.145698+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-18T12:29:44.687458+00:00",
+      "updated_at": "2026-08-18T13:23:16.215668+00:00",
       "items": [
         {
-          "title": "Tube Investments of India shares surge 8% after Q1 earnings. What Motilal Oswal is saying",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tube-investments-of-india-shares-surge-8-after-q1-earnings-what-motilal-oswal-is-saying/articleshow/133315012.cms",
-          "pubDate": "2026-08-18T12:58:15+05:30"
+          "title": "Regulatory tailwinds to boost growth for MCX, says HDFC Securities; retains Buy for 18% gains",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/regulatory-tailwinds-to-boost-growth-for-mcx-says-hdfc-securities-retains-buy-for-18-gains/articleshow/133322360.cms",
+          "pubDate": "2026-08-18T17:56:33+05:30"
         },
         {
-          "title": "Welspun Living shares surge 8%; stock gains 14% in 3 days. What’s driving the rally?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/welspun-living-shares-surge-8-stock-gains-14-in-3-days-whats-driving-the-rally/articleshow/133314860.cms",
-          "pubDate": "2026-08-18T12:52:40+05:30"
+          "title": "India Expo Centre operator files IPO DRHP with Sebi. Check details",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/india-expo-centre-operator-files-ipo-drhp-with-sebi-check-details/articleshow/133320423.cms",
+          "pubDate": "2026-08-18T16:48:10+05:30"
         },
         {
-          "title": "Biocon shares rise 2% after USFDA approval for Yesintek single-dose prefilled autoinjector",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/biocon-shares-rise-2-after-usfda-approval-for-yesintek-single-dose-prefilled-autoinjector/articleshow/133314327.cms",
-          "pubDate": "2026-08-18T12:26:01+05:30"
+          "title": "Jefferies raises Belrise Industries target price, sees 18% upside on strong demand, business expansion",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-raises-belrise-industries-target-price-sees-18-upside-on-strong-demand-business-expansion/articleshow/133319608.cms",
+          "pubDate": "2026-08-18T16:15:37+05:30"
         },
         {
-          "title": "Colgate-Palmolive shares fall over 2% after Investor Day. What Goldman Sachs and other brokerages are saying",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/colgate-palmolive-shares-fall-over-2-after-investor-day-what-goldman-sachs-and-other-brokerages-are-saying/articleshow/133314060.cms",
-          "pubDate": "2026-08-18T12:17:36+05:30"
+          "title": "Defence stocks fire up! Paras Defence, GRSE, other stocks jump up to 10% as govt notifies 6th indigenisation list",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/defence-stocks-fire-up-paras-defence-grse-other-stocks-jump-up-to-10-as-govt-notifies-6th-indigenisation-list/articleshow/133318729.cms",
+          "pubDate": "2026-08-18T15:43:16+05:30"
         },
         {
-          "title": "Hindustan Copper, Vedanta, other metal stocks slip up to 2% after sharp gains. Should you buy the dip or avoid?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-copper-vedanta-other-metal-stocks-slip-up-to-2-after-sharp-gains-should-you-buy-the-dip-or-avoid/articleshow/133313559.cms",
-          "pubDate": "2026-08-18T11:57:33+05:30"
+          "title": "SIF AUM crosses Rs 23,000 crore in July; Hybrid Long-Short funds lead with 66% share",
+          "link": "https://economictimes.indiatimes.com/mf/analysis/sif-aum-crosses-rs-23000-crore-in-july-hybrid-long-short-funds-lead-with-66-share/slideshow/133315870.cms",
+          "pubDate": "2026-08-18T12:57:38+05:30"
         },
         {
-          "title": "BSE shares drop 3% after second downgrade in two days. Nuvama lists CAS among 3 key headwinds",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-drop-3-after-second-downgrade-in-two-days-nuvama-lists-cas-among-3-key-headwinds/articleshow/133313313.cms",
-          "pubDate": "2026-08-18T11:42:44+05:30"
+          "title": "Nifty to hit 50,000 before 2035? Raamdeo Agrawal maps 3 valuation-based timelines",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-to-hit-50000-before-2035-raamdeo-agrawal-maps-3-valuation-based-timelines/articleshow/133310552.cms",
+          "pubDate": "2026-08-18T08:58:39+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -651,8 +663,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-18T11:57:27.926793+00:00",
+      "ok": true,
+      "updated_at": "2026-08-18T13:23:16.248699+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -733,8 +745,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-18T12:29:45.160110+00:00",
+      "updated_at": "2026-08-18T13:23:16.424660+00:00",
       "items": [
+        {
+          "title": "US stock market today: S&amp;P 500, Nasdaq futures down up to 1% amid surging oil and bond yields",
+          "link": "https://www.livemint.com/market/us-stock-market-today-s-p-500-nasdaq-futures-down-up-to-1-amid-surging-oil-and-bond-yields-11787054644462.html",
+          "pubDate": "2026-08-18T18:36:19+05:30"
+        },
+        {
+          "title": "Crude oil stays above $90 per barrel as West Asia war drags on",
+          "link": "https://www.livemint.com/market/commodities/crude-oil-price-90-per-barrel-west-asia-war-india-oil-imports-11787052374538.html",
+          "pubDate": "2026-08-18T18:11:21+05:30"
+        },
         {
           "title": "ONGC clarifies report on OVL’s Venezuela operations, says framework talks underway",
           "link": "https://www.livemint.com/market/stock-market-news/ongc-clarifies-report-on-ovl-s-venezuela-operations-says-framework-talks-underway-11787052167540.html",
@@ -874,22 +896,12 @@
           "title": "Five AI infrastructure stocks riding the data centre boom",
           "link": "https://www.livemint.com/market/stock-market-news/ai-infrastructure-stocks-india-data-center-stocks-india-11786965314391.html",
           "pubDate": "2026-08-18T09:00:27+05:30"
-        },
-        {
-          "title": "Augmont Enterprises IPO: Price band set at  ₹750-788 per share; check key dates, issue details",
-          "link": "https://www.livemint.com/market/ipo/augmont-enterprises-ipo-price-band-set-at-rs-750-788-per-share-check-key-dates-issue-details-11787021673763.html",
-          "pubDate": "2026-08-18T08:40:31+05:30"
-        },
-        {
-          "title": "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 18 August 2026",
-          "link": "https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-18-august-2026-11786983589216.html",
-          "pubDate": "2026-08-18T08:18:35+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-18T12:29:45.216407+00:00",
+      "updated_at": "2026-08-18T13:23:16.621337+00:00",
       "items": [
         {
           "title": "INR weighed down by muted local equities as oil prices stay elevated",
@@ -1045,7 +1057,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-18T12:29:46.205665+00:00",
+      "updated_at": "2026-08-18T13:23:17.746495+00:00",
       "items": [
         {
           "title": "State Government Securities - Full Auction Result",

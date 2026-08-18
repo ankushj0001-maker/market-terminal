@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T10:51:50.917839+00:00",
+  "generated_at": "2026-08-18T11:12:47.806535+00:00",
   "indices": {
     "nifty50": {
       "price": 24154.9,
@@ -68,7 +68,7 @@
         24154.900390625
       ],
       "ok": true,
-      "updated_at": "2026-08-18T10:51:49.407324+00:00"
+      "updated_at": "2026-08-18T11:12:45.649912+00:00"
     },
     "sensex": {
       "price": 77235.46,
@@ -137,7 +137,7 @@
         77235.4609375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T10:51:49.455312+00:00"
+      "updated_at": "2026-08-18T11:12:45.930492+00:00"
     },
     "banknifty": {
       "price": 57262.4,
@@ -161,7 +161,7 @@
         57289.94921875,
         57314.5,
         57341.3984375,
-        57370.80078125,
+        57369.44921875,
         57370.0,
         57350.55078125,
         57341.1015625,
@@ -206,7 +206,7 @@
         57262.3984375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T10:51:49.498347+00:00"
+      "updated_at": "2026-08-18T11:12:46.036355+00:00"
     },
     "vix": {
       "price": 11.387,
@@ -275,7 +275,7 @@
         11.387499809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-18T10:51:49.546550+00:00"
+      "updated_at": "2026-08-18T11:12:46.393582+00:00"
     },
     "usdinr": {
       "price": 95.67,
@@ -344,17 +344,13 @@
         95.66999816894531
       ],
       "ok": true,
-      "updated_at": "2026-08-18T10:51:49.597251+00:00"
+      "updated_at": "2026-08-18T11:12:46.477198+00:00"
     },
     "gold": {
-      "price": 4454.4,
-      "change": -19.3,
-      "pct": -0.4314,
+      "price": 4454.5,
+      "change": -19.2,
+      "pct": -0.4292,
       "closes": [
-        4451.39990234375,
-        4450.2001953125,
-        4446.10009765625,
-        4448.60009765625,
         4450.89990234375,
         4450.7998046875,
         4453.10009765625,
@@ -363,7 +359,7 @@
         4452.39990234375,
         4452.5,
         4453.10009765625,
-        4453.60009765625,
+        4453.7998046875,
         4454.10009765625,
         4455.0,
         4453.2001953125,
@@ -394,7 +390,7 @@
         4448.39990234375,
         4446.89990234375,
         4445.7998046875,
-        4444.89990234375,
+        4444.7001953125,
         4449.60009765625,
         4447.5,
         4444.5,
@@ -410,20 +406,20 @@
         4450.2001953125,
         4453.89990234375,
         4455.0,
-        4454.39990234375
+        4455.2998046875,
+        4453.39990234375,
+        4454.39990234375,
+        4450.5,
+        4454.5
       ],
       "ok": true,
-      "updated_at": "2026-08-18T10:51:49.651151+00:00"
+      "updated_at": "2026-08-18T11:12:46.542750+00:00"
     },
     "crude": {
-      "price": 83.92,
-      "change": 0.18,
-      "pct": 0.215,
+      "price": 83.96,
+      "change": 0.22,
+      "pct": 0.2627,
       "closes": [
-        85.06999969482422,
-        85.12999725341797,
-        85.37999725341797,
-        85.4800033569336,
         85.4000015258789,
         85.3499984741211,
         85.4000015258789,
@@ -439,9 +435,9 @@
         85.06999969482422,
         85.0199966430664,
         84.95999908447266,
-        84.9000015258789,
+        84.88999938964844,
         84.1500015258789,
-        84.13999938964844,
+        84.1500015258789,
         84.27999877929688,
         84.20999908447266,
         84.30999755859375,
@@ -456,7 +452,7 @@
         84.0999984741211,
         84.06999969482422,
         84.33000183105469,
-        84.12999725341797,
+        84.12000274658203,
         84.12999725341797,
         84.08999633789062,
         84.19000244140625,
@@ -468,7 +464,7 @@
         84.1500015258789,
         84.08000183105469,
         84.19000244140625,
-        84.05999755859375,
+        84.05000305175781,
         84.04000091552734,
         84.02999877929688,
         84.1500015258789,
@@ -479,10 +475,14 @@
         84.0999984741211,
         83.91000366210938,
         83.91000366210938,
-        83.91999816894531
+        83.9800033569336,
+        83.94999694824219,
+        83.9800033569336,
+        83.91999816894531,
+        83.95999908447266
       ],
       "ok": true,
-      "updated_at": "2026-08-18T10:51:49.695524+00:00"
+      "updated_at": "2026-08-18T11:12:46.649854+00:00"
     },
     "us10y": {
       "price": 4.724,
@@ -551,13 +551,13 @@
         4.723999977111816
       ],
       "ok": true,
-      "updated_at": "2026-08-18T10:51:49.745290+00:00"
+      "updated_at": "2026-08-18T11:12:46.727748+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-18T10:51:49.887439+00:00",
+      "updated_at": "2026-08-18T11:12:46.795971+00:00",
       "items": [
         {
           "title": "Tube Investments of India shares surge 8% after Q1 earnings. What Motilal Oswal is saying",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-18T10:51:49.987909+00:00",
+      "updated_at": "2026-08-18T11:12:46.952127+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,7 +794,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-18T10:51:50.133705+00:00",
+      "updated_at": "2026-08-18T11:12:47.018254+00:00",
       "items": [
         {
           "title": "Top Gainers &amp; Losers on 18 August: PTC Industries, Inox Wind, Mphasis, Tata Elxsi, Suzlon Energy among top losers",
@@ -950,8 +950,18 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-18T10:51:50.342078+00:00",
+      "updated_at": "2026-08-18T11:12:47.174874+00:00",
       "items": [
+        {
+          "title": "Nifty August futures trade at premium",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-august-futures-trade-at-premium-126081800868_1.html",
+          "pubDate": "2026-08-18T16:31:11+05:30"
+        },
+        {
+          "title": "Sensex, Nifty tumble as crude surge, geopolitical concerns weigh",
+          "link": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-tumble-as-crude-surge-geopolitical-concerns-weigh-126081800849_1.html",
+          "pubDate": "2026-08-18T16:16:02+05:30"
+        },
         {
           "title": "PCBL Chemical receives ECMS approval for Acetylene Black Project",
           "link": "https://www.business-standard.com/markets/capital-market-news/pcbl-chemical-receives-ecms-approval-for-acetylene-black-project-126081800813_1.html",
@@ -1091,22 +1101,12 @@
           "title": "RIL, Airtel or Vi: Tariff hike ahead for telcos; which is a better play?",
           "link": "https://www.business-standard.com/markets/news/ril-airtel-or-vi-tariff-hike-ahead-for-telcos-which-is-a-better-play-126081800510_1.html",
           "pubDate": "2026-08-18T13:01:48+05:30"
-        },
-        {
-          "title": "Goldiam International bags export order for supplying lab-grown diamond jewellery",
-          "link": "https://www.business-standard.com/markets/capital-market-news/goldiam-international-bags-export-order-for-supplying-lab-grown-diamond-jewellery-126081800498_1.html",
-          "pubDate": "2026-08-18T12:50:23+05:30"
-        },
-        {
-          "title": "Ceigall India secures four LoAs from Ministry of Road Transport worth Rs 2,149 crore",
-          "link": "https://www.business-standard.com/markets/capital-market-news/ceigall-india-secures-four-loas-from-ministry-of-road-transport-worth-rs-2-149-crore-126081800497_1.html",
-          "pubDate": "2026-08-18T12:50:14+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-18T10:51:50.917823+00:00",
+      "updated_at": "2026-08-18T11:12:47.806517+00:00",
       "items": [
         {
           "title": "Overseas Direct Investment for July 2026",

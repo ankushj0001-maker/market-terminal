@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T13:23:17.746511+00:00",
+  "generated_at": "2026-08-18T14:01:39.138182+00:00",
   "indices": {
     "nifty50": {
       "price": 24154.9,
@@ -11,7 +11,7 @@
         24204.75,
         24195.55078125,
         24200.25,
-        24205.55078125,
+        24205.849609375,
         24207.25,
         24202.349609375,
         24197.75,
@@ -61,14 +61,14 @@
         24214.30078125,
         24203.19921875,
         24197.30078125,
-        24169.75,
+        24165.80078125,
         24166.349609375,
         24166.349609375,
         24154.900390625,
         24154.900390625
       ],
       "ok": true,
-      "updated_at": "2026-08-18T13:23:14.315540+00:00"
+      "updated_at": "2026-08-18T14:01:36.421859+00:00"
     },
     "sensex": {
       "price": 77235.46,
@@ -137,7 +137,7 @@
         77235.4609375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T13:23:14.389602+00:00"
+      "updated_at": "2026-08-18T14:01:36.519464+00:00"
     },
     "banknifty": {
       "price": 57262.4,
@@ -206,7 +206,7 @@
         57262.3984375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T13:23:15.410481+00:00"
+      "updated_at": "2026-08-18T14:01:36.698147+00:00"
     },
     "vix": {
       "price": 11.387,
@@ -275,7 +275,7 @@
         11.387499809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-18T13:23:15.470348+00:00"
+      "updated_at": "2026-08-18T14:01:36.804033+00:00"
     },
     "usdinr": {
       "price": 95.67,
@@ -344,27 +344,19 @@
         95.66999816894531
       ],
       "ok": true,
-      "updated_at": "2026-08-18T13:23:15.923010+00:00"
+      "updated_at": "2026-08-18T14:01:37.050847+00:00"
     },
     "gold": {
-      "price": 4450.2,
-      "change": -23.5,
-      "pct": -0.5253,
+      "price": 4448.0,
+      "change": -25.7,
+      "pct": -0.5745,
       "closes": [
-        4444.0,
-        4444.89990234375,
-        4448.7998046875,
-        4453.60009765625,
-        4452.5,
-        4448.89990234375,
-        4449.2998046875,
-        4448.89990234375,
         4448.0,
         4447.5,
         4448.39990234375,
         4446.89990234375,
         4445.7998046875,
-        4444.7001953125,
+        4444.89990234375,
         4449.60009765625,
         4447.5,
         4444.5,
@@ -394,7 +386,7 @@
         4447.2001953125,
         4448.5,
         4447.10009765625,
-        4452.5,
+        4452.2998046875,
         4453.10009765625,
         4448.0,
         4449.7001953125,
@@ -408,26 +400,26 @@
         4449.7001953125,
         4450.7001953125,
         4452.0,
-        4445.2001953125,
+        4445.5,
         4452.0,
-        4450.2001953125
+        4447.10009765625,
+        4445.7001953125,
+        4445.39990234375,
+        4452.5,
+        4458.7001953125,
+        4457.0,
+        4451.7001953125,
+        4446.7998046875,
+        4448.0
       ],
       "ok": true,
-      "updated_at": "2026-08-18T13:23:15.996853+00:00"
+      "updated_at": "2026-08-18T14:01:37.156960+00:00"
     },
     "crude": {
-      "price": 84.37,
-      "change": 0.63,
-      "pct": 0.7523,
+      "price": 84.33,
+      "change": 0.59,
+      "pct": 0.7046,
       "closes": [
-        84.44999694824219,
-        84.36000061035156,
-        84.16000366210938,
-        84.0999984741211,
-        84.06999969482422,
-        84.33000183105469,
-        84.12000274658203,
-        84.12999725341797,
         84.08999633789062,
         84.19000244140625,
         84.13999938964844,
@@ -438,7 +430,7 @@
         84.1500015258789,
         84.08000183105469,
         84.19000244140625,
-        84.05000305175781,
+        84.05999755859375,
         84.04000091552734,
         84.02999877929688,
         84.1500015258789,
@@ -469,25 +461,33 @@
         84.36000061035156,
         84.3499984741211,
         84.31999969482422,
-        84.2699966430664,
+        84.27999877929688,
         84.18000030517578,
         84.27999877929688,
         84.36000061035156,
         84.30000305175781,
         84.37000274658203,
-        84.37999725341797,
+        84.37000274658203,
         84.4000015258789,
         84.36000061035156,
         84.33000183105469,
-        84.37000274658203
+        84.44000244140625,
+        84.73999786376953,
+        84.73999786376953,
+        84.4000015258789,
+        84.58000183105469,
+        84.30999755859375,
+        84.08000183105469,
+        84.52999877929688,
+        84.33000183105469
       ],
       "ok": true,
-      "updated_at": "2026-08-18T13:23:16.075416+00:00"
+      "updated_at": "2026-08-18T14:01:37.259897+00:00"
     },
     "us10y": {
-      "price": 4.736,
-      "change": 0.012,
-      "pct": 0.254,
+      "price": 4.728,
+      "change": 0.004,
+      "pct": 0.0847,
       "closes": [
         4.736000061035156,
         4.736000061035156,
@@ -498,17 +498,25 @@
         4.73799991607666,
         4.736000061035156,
         4.736000061035156,
+        4.734000205993652,
         4.736000061035156,
-        4.736000061035156
+        4.740000247955322,
+        4.741999626159668,
+        4.740000247955322,
+        4.736000061035156,
+        4.727999687194824,
+        4.727999687194824,
+        4.727999687194824,
+        4.727999687194824
       ],
       "ok": true,
-      "updated_at": "2026-08-18T13:23:16.145698+00:00"
+      "updated_at": "2026-08-18T14:01:37.357198+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-18T13:23:16.215668+00:00",
+      "updated_at": "2026-08-18T14:01:37.643138+00:00",
       "items": [
         {
           "title": "Regulatory tailwinds to boost growth for MCX, says HDFC Securities; retains Buy for 18% gains",
@@ -664,7 +672,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-18T13:23:16.248699+00:00",
+      "updated_at": "2026-08-18T14:01:37.770014+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -745,7 +753,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-18T13:23:16.424660+00:00",
+      "updated_at": "2026-08-18T14:01:37.883327+00:00",
       "items": [
         {
           "title": "US stock market today: S&amp;P 500, Nasdaq futures down up to 1% amid surging oil and bond yields",
@@ -901,8 +909,38 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-18T13:23:16.621337+00:00",
+      "updated_at": "2026-08-18T14:01:38.063077+00:00",
       "items": [
+        {
+          "title": "Colgate PerioGard receives prestigious ISP Seal",
+          "link": "https://www.business-standard.com/markets/capital-market-news/colgate-periogard-receives-prestigious-isp-seal-126081801183_1.html",
+          "pubDate": "2026-08-18T19:04:24+05:30"
+        },
+        {
+          "title": "Highway Infrastructure receives Palayam Fee Plaza toll collection contract worth Rs 80 cr",
+          "link": "https://www.business-standard.com/markets/capital-market-news/highway-infrastructure-receives-palayam-fee-plaza-toll-collection-contract-worth-rs-80-cr-126081801182_1.html",
+          "pubDate": "2026-08-18T19:04:17+05:30"
+        },
+        {
+          "title": "MobiKwik completes transfer of its digital lending biz to MobiKwik Distribution Services",
+          "link": "https://www.business-standard.com/markets/capital-market-news/mobikwik-completes-transfer-of-its-digital-lending-biz-to-mobikwik-distribution-services-126081801181_1.html",
+          "pubDate": "2026-08-18T19:04:10+05:30"
+        },
+        {
+          "title": "ONGC Corpn commissions gas evacuation facilities at Khoraghat in Golaghat district, Assam",
+          "link": "https://www.business-standard.com/markets/capital-market-news/ongc-corpn-commissions-gas-evacuation-facilities-at-khoraghat-in-golaghat-district-assam-126081801179_1.html",
+          "pubDate": "2026-08-18T19:04:02+05:30"
+        },
+        {
+          "title": "Alivus Life Sciences acquires 76% stake in IQGenX Pharma",
+          "link": "https://www.business-standard.com/markets/capital-market-news/alivus-life-sciences-acquires-76-stake-in-iqgenx-pharma-126081801161_1.html",
+          "pubDate": "2026-08-18T18:50:10+05:30"
+        },
+        {
+          "title": "Atlanta Electricals receives order of Rs 194 cr from APTRANSCO",
+          "link": "https://www.business-standard.com/markets/capital-market-news/atlanta-electricals-receives-order-of-rs-194-cr-from-aptransco-126081801160_1.html",
+          "pubDate": "2026-08-18T18:50:02+05:30"
+        },
         {
           "title": "INR weighed down by muted local equities as oil prices stay elevated",
           "link": "https://www.business-standard.com/markets/capital-market-news/inr-weighed-down-by-muted-local-equities-as-oil-prices-stay-elevated-126081801059_1.html",
@@ -1022,43 +1060,18 @@
           "title": "Infosys Ltd slips for fifth straight session",
           "link": "https://www.business-standard.com/markets/capital-market-news/infosys-ltd-slips-for-fifth-straight-session-126081800691_1.html",
           "pubDate": "2026-08-18T14:50:20+05:30"
-        },
-        {
-          "title": "BSE Ltd eases for fifth straight session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/bse-ltd-eases-for-fifth-straight-session-126081800690_1.html",
-          "pubDate": "2026-08-18T14:50:12+05:30"
-        },
-        {
-          "title": "Sensex slides 343 pts; FMCG share extent losses for 3rd day",
-          "link": "https://www.business-standard.com/markets/capital-market-news/sensex-slides-343-pts-fmcg-share-extent-losses-for-3rd-day-126081800689_1.html",
-          "pubDate": "2026-08-18T14:50:02+05:30"
-        },
-        {
-          "title": "Shiprocket IPO could offer over 30% listing pop; check post-debut strategy",
-          "link": "https://www.business-standard.com/markets/ipo/shiprocket-ipo-could-offer-over-30-listing-pop-check-post-debut-strategy-126081800669_1.html",
-          "pubDate": "2026-08-18T14:43:00+05:30"
-        },
-        {
-          "title": "Paras Defence zooms 163% from March low; hits 52-week high on huge volume",
-          "link": "https://www.business-standard.com/markets/news/paras-defence-zooms-163-from-march-low-hits-52-week-high-on-huge-volume-126081800661_1.html",
-          "pubDate": "2026-08-18T14:41:36+05:30"
-        },
-        {
-          "title": "Piramal Pharma hikes stake in Yapan Bio",
-          "link": "https://www.business-standard.com/markets/capital-market-news/piramal-pharma-hikes-stake-in-yapan-bio-126081800644_1.html",
-          "pubDate": "2026-08-18T14:16:46+05:30"
-        },
-        {
-          "title": "Bosch share price soars 18% so far in August; hits new high in weak market",
-          "link": "https://www.business-standard.com/markets/news/bosch-share-price-soars-18-so-far-in-august-hits-new-high-in-weak-market-126081800558_1.html",
-          "pubDate": "2026-08-18T14:01:15+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-18T13:23:17.746495+00:00",
+      "updated_at": "2026-08-18T14:01:39.138167+00:00",
       "items": [
+        {
+          "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 19, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63398",
+          "pubDate": "2026-08-18T19:05:00+00:00"
+        },
         {
           "title": "State Government Securities - Full Auction Result",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63397",
@@ -1103,11 +1116,6 @@
           "title": "Auction of Government of India Dated Securities",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63389",
           "pubDate": "2026-08-17T18:50:00+00:00"
-        },
-        {
-          "title": "Result: Conversion/Switch Auction of Government of India Securities",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63388",
-          "pubDate": "2026-08-17T15:20:00+00:00"
         }
       ]
     }

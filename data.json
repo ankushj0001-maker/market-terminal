@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-18T05:50:53.401553+00:00",
+  "generated_at": "2026-08-18T06:19:01.442217+00:00",
   "indices": {
     "nifty50": {
-      "price": 24196.9,
-      "change": -90.75,
-      "pct": -0.3736,
+      "price": 24199.05,
+      "change": -88.6,
+      "pct": -0.3648,
       "closes": [
         24238.849609375,
         24244.349609375,
@@ -31,15 +31,21 @@
         24207.25,
         24202.349609375,
         24197.75,
-        24196.900390625
+        24195.75,
+        24182.650390625,
+        24190.650390625,
+        24196.599609375,
+        24198.400390625,
+        24199.55078125,
+        24199.05078125
       ],
       "ok": true,
-      "updated_at": "2026-08-18T05:50:50.405734+00:00"
+      "updated_at": "2026-08-18T06:18:58.608229+00:00"
     },
     "sensex": {
-      "price": 77365.56,
-      "change": -362.6,
-      "pct": -0.4665,
+      "price": 77292.99,
+      "change": -435.17,
+      "pct": -0.5599,
       "closes": [
         77481.71875,
         77501.5703125,
@@ -63,15 +69,21 @@
         77338.78125,
         77359.6875,
         77368.9296875,
-        77365.5625
+        77390.640625,
+        77371.046875,
+        77347.15625,
+        77337.890625,
+        77307.921875,
+        77310.78125,
+        77292.9921875
       ],
       "ok": true,
-      "updated_at": "2026-08-18T05:50:50.638517+00:00"
+      "updated_at": "2026-08-18T06:18:58.698556+00:00"
     },
     "banknifty": {
-      "price": 57277.3,
-      "change": -220.5,
-      "pct": -0.3835,
+      "price": 57281.25,
+      "change": -216.55,
+      "pct": -0.3766,
       "closes": [
         57450.5,
         57405.30078125,
@@ -98,15 +110,21 @@
         57303.25,
         57301.19921875,
         57284.05078125,
-        57277.30078125
+        57270.25,
+        57247.0,
+        57255.5,
+        57286.94921875,
+        57282.19921875,
+        57277.8984375,
+        57281.25
       ],
       "ok": true,
-      "updated_at": "2026-08-18T05:50:50.690751+00:00"
+      "updated_at": "2026-08-18T06:18:58.798779+00:00"
     },
     "vix": {
-      "price": 11.645,
-      "change": 0.32,
-      "pct": 2.8256,
+      "price": 11.698,
+      "change": 0.373,
+      "pct": 3.2936,
       "closes": [
         11.262499809265137,
         11.292499542236328,
@@ -133,15 +151,21 @@
         11.6225004196167,
         11.617500305175781,
         11.664999961853027,
-        11.645000457763672
+        11.625,
+        11.65250015258789,
+        11.694999694824219,
+        11.6850004196167,
+        11.6875,
+        11.697500228881836,
+        11.697500228881836
       ],
       "ok": true,
-      "updated_at": "2026-08-18T05:50:50.738259+00:00"
+      "updated_at": "2026-08-18T06:18:58.936384+00:00"
     },
     "usdinr": {
-      "price": 95.662,
-      "change": 0.07,
-      "pct": 0.0732,
+      "price": 95.66,
+      "change": 0.068,
+      "pct": 0.0711,
       "closes": [
         95.59200286865234,
         95.59200286865234,
@@ -180,18 +204,24 @@
         95.66999816894531,
         95.66999816894531,
         95.66999816894531,
-        95.66200256347656
+        95.66999816894531,
+        95.66999816894531,
+        95.66200256347656,
+        95.66999816894531,
+        95.67250061035156,
+        95.66999816894531,
+        95.66000366210938
       ],
       "ok": true,
-      "updated_at": "2026-08-18T05:50:50.787427+00:00"
+      "updated_at": "2026-08-18T06:18:59.351273+00:00"
     },
     "gold": {
-      "price": 4446.6,
-      "change": -27.1,
-      "pct": -0.6058,
+      "price": 4446.5,
+      "change": -27.2,
+      "pct": -0.608,
       "closes": [
         4446.2001953125,
-        4446.7998046875,
+        4447.10009765625,
         4447.89990234375,
         4446.7998046875,
         4448.2001953125,
@@ -207,19 +237,24 @@
         4446.60009765625,
         4450.0,
         4451.10009765625,
-        4446.60009765625,
+        4447.0,
         4443.10009765625,
         4445.7998046875,
         4449.2998046875,
-        4446.60009765625
+        4451.2001953125,
+        4451.39990234375,
+        4450.2001953125,
+        4446.10009765625,
+        4448.60009765625,
+        4446.5
       ],
       "ok": true,
-      "updated_at": "2026-08-18T05:50:50.834736+00:00"
+      "updated_at": "2026-08-18T06:18:59.435954+00:00"
     },
     "crude": {
-      "price": 85.15,
-      "change": 0.65,
-      "pct": 0.7692,
+      "price": 85.43,
+      "change": 0.93,
+      "pct": 1.1006,
       "closes": [
         85.27999877929688,
         85.27999877929688,
@@ -242,10 +277,15 @@
         85.1500015258789,
         85.12999725341797,
         85.13999938964844,
-        85.1500015258789
+        85.0199966430664,
+        85.06999969482422,
+        85.12999725341797,
+        85.37999725341797,
+        85.4800033569336,
+        85.43000030517578
       ],
       "ok": true,
-      "updated_at": "2026-08-18T05:50:51.589643+00:00"
+      "updated_at": "2026-08-18T06:18:59.502673+00:00"
     },
     "us10y": {
       "price": 4.724,
@@ -314,13 +354,13 @@
         4.723999977111816
       ],
       "ok": true,
-      "updated_at": "2026-08-18T05:50:51.692417+00:00"
+      "updated_at": "2026-08-18T06:18:59.599139+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-18T05:50:51.873149+00:00",
+      "updated_at": "2026-08-18T06:18:59.865649+00:00",
       "items": [
         {
           "title": "INDO-MIM shares hit 10% upper circuit as Q1 net profit rises 32% YoY",
@@ -475,8 +515,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-18T05:21:35.272783+00:00",
+      "ok": true,
+      "updated_at": "2026-08-18T06:19:00.173256+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -557,7 +597,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-18T05:50:52.397099+00:00",
+      "updated_at": "2026-08-18T06:19:00.465131+00:00",
       "items": [
         {
           "title": "NSE begins valuation exercise for mega-IPO after strong institutional demand during roadshows",
@@ -713,8 +753,38 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-18T05:50:52.480556+00:00",
+      "updated_at": "2026-08-18T06:19:00.677034+00:00",
       "items": [
+        {
+          "title": "Adani Power receives upgrade in credit ratings from CARE",
+          "link": "https://www.business-standard.com/markets/capital-market-news/adani-power-receives-upgrade-in-credit-ratings-from-care-126081800382_1.html",
+          "pubDate": "2026-08-18T11:31:30+05:30"
+        },
+        {
+          "title": "Highway Infra jumps after securing toll collection contract from NHAI",
+          "link": "https://www.business-standard.com/markets/capital-market-news/highway-infra-jumps-after-securing-toll-collection-contract-from-nhai-126081800381_1.html",
+          "pubDate": "2026-08-18T11:31:21+05:30"
+        },
+        {
+          "title": "KPI Green Energy energizes 130 MW solar capacity in Gujarat",
+          "link": "https://www.business-standard.com/markets/capital-market-news/kpi-green-energy-energizes-130-mw-solar-capacity-in-gujarat-126081800380_1.html",
+          "pubDate": "2026-08-18T11:31:12+05:30"
+        },
+        {
+          "title": "Sunshine Pictures IPO review: Analysts divided; GMP at 20% - key details",
+          "link": "https://www.business-standard.com/markets/ipo/sunshine-pictures-ipo-review-analysts-divided-gmp-at-20-key-details-126081800337_1.html",
+          "pubDate": "2026-08-18T11:22:01+05:30"
+        },
+        {
+          "title": "Groww share price slips 4% on huge volumes on BSE",
+          "link": "https://www.business-standard.com/markets/news/groww-share-price-slips-4-on-huge-volumes-on-bse-126081800346_1.html",
+          "pubDate": "2026-08-18T11:16:43+05:30"
+        },
+        {
+          "title": "Kellton receives Emerging Excellence Award at ABD's IDIQ Vendor Summit",
+          "link": "https://www.business-standard.com/markets/capital-market-news/kellton-receives-emerging-excellence-award-at-abd-s-idiq-vendor-summit-126081800365_1.html",
+          "pubDate": "2026-08-18T11:16:02+05:30"
+        },
         {
           "title": "Veefin Solutions announces strategic partnership with NSIA Group",
           "link": "https://www.business-standard.com/markets/capital-market-news/veefin-solutions-announces-strategic-partnership-with-nsia-group-126081800354_1.html",
@@ -834,42 +904,12 @@
           "title": "Market trades lower in early session; Nifty falls below 24,250 mark",
           "link": "https://www.business-standard.com/markets/capital-market-news/market-trades-lower-in-early-session-nifty-falls-below-24-250-mark-126081800200_1.html",
           "pubDate": "2026-08-18T10:04:02+05:30"
-        },
-        {
-          "title": "Augmont Enterprises to launch ₹825 cr IPO, price band set at ₹750-788",
-          "link": "https://www.business-standard.com/markets/ipo/augmont-enterprises-to-launch-825-cr-ipo-price-band-set-at-750-788-126081800147_1.html",
-          "pubDate": "2026-08-18T10:02:37+05:30"
-        },
-        {
-          "title": "Milky Mist makes a sweet debut as shares list at 18% premium over IPO price",
-          "link": "https://www.business-standard.com/markets/news/milky-mist-makes-a-sweet-debut-as-shares-list-at-18-premium-over-ipo-price-126081800190_1.html",
-          "pubDate": "2026-08-18T10:00:49+05:30"
-        },
-        {
-          "title": "Paytm block deal: 2.95% equity changes hands; stock slips 1.5%",
-          "link": "https://www.business-standard.com/markets/news/paytm-block-deal-2-95-equity-changes-hands-stock-slips-1-5-126081800188_1.html",
-          "pubDate": "2026-08-18T09:59:58+05:30"
-        },
-        {
-          "title": "Biocon gets supplemental US FDA nod for Yesintek prefilled autoinjector",
-          "link": "https://www.business-standard.com/markets/capital-market-news/biocon-gets-supplemental-us-fda-nod-for-yesintek-prefilled-autoinjector-126081800175_1.html",
-          "pubDate": "2026-08-18T09:50:42+05:30"
-        },
-        {
-          "title": "Zaggle Prepaid Ocean Services Ltd Slips 3.09%",
-          "link": "https://www.business-standard.com/markets/capital-market-news/zaggle-prepaid-ocean-services-ltd-slips-3-09-126081800174_1.html",
-          "pubDate": "2026-08-18T09:50:33+05:30"
-        },
-        {
-          "title": "Apar Industries Ltd Spikes 2.54%",
-          "link": "https://www.business-standard.com/markets/capital-market-news/apar-industries-ltd-spikes-2-54-126081800173_1.html",
-          "pubDate": "2026-08-18T09:50:25+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-18T05:50:53.401537+00:00",
+      "updated_at": "2026-08-18T06:19:01.442200+00:00",
       "items": [
         {
           "title": "RBI to conduct Second Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 18, 2026",

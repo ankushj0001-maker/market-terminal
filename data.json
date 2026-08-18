@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T10:20:00.570580+00:00",
+  "generated_at": "2026-08-18T10:51:50.917839+00:00",
   "indices": {
     "nifty50": {
       "price": 24154.9,
@@ -68,7 +68,7 @@
         24154.900390625
       ],
       "ok": true,
-      "updated_at": "2026-08-18T10:19:57.618131+00:00"
+      "updated_at": "2026-08-18T10:51:49.407324+00:00"
     },
     "sensex": {
       "price": 77235.46,
@@ -137,7 +137,7 @@
         77235.4609375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T10:19:57.782409+00:00"
+      "updated_at": "2026-08-18T10:51:49.455312+00:00"
     },
     "banknifty": {
       "price": 57262.4,
@@ -206,7 +206,7 @@
         57262.3984375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T10:19:57.881599+00:00"
+      "updated_at": "2026-08-18T10:51:49.498347+00:00"
     },
     "vix": {
       "price": 11.387,
@@ -275,7 +275,7 @@
         11.387499809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-18T10:19:57.979073+00:00"
+      "updated_at": "2026-08-18T10:51:49.546550+00:00"
     },
     "usdinr": {
       "price": 95.67,
@@ -340,24 +340,17 @@
         95.66000366210938,
         95.66799926757812,
         95.67500305175781,
-        95.68000030517578,
+        95.66999816894531,
         95.66999816894531
       ],
       "ok": true,
-      "updated_at": "2026-08-18T10:19:58.089147+00:00"
+      "updated_at": "2026-08-18T10:51:49.597251+00:00"
     },
     "gold": {
-      "price": 4449.3,
-      "change": -24.4,
-      "pct": -0.5454,
+      "price": 4454.4,
+      "change": -19.3,
+      "pct": -0.4314,
       "closes": [
-        4450.0,
-        4451.10009765625,
-        4446.60009765625,
-        4443.10009765625,
-        4445.7998046875,
-        4449.2998046875,
-        4451.2001953125,
         4451.39990234375,
         4450.2001953125,
         4446.10009765625,
@@ -410,23 +403,23 @@
         4449.7001953125,
         4450.10009765625,
         4449.5,
-        4449.2998046875
+        4450.7001953125,
+        4451.7998046875,
+        4447.7001953125,
+        4448.2998046875,
+        4450.2001953125,
+        4453.89990234375,
+        4455.0,
+        4454.39990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T10:19:58.535061+00:00"
+      "updated_at": "2026-08-18T10:51:49.651151+00:00"
     },
     "crude": {
-      "price": 84.15,
-      "change": 0.41,
-      "pct": 0.4896,
+      "price": 83.92,
+      "change": 0.18,
+      "pct": 0.215,
       "closes": [
-        85.2300033569336,
-        85.2300033569336,
-        85.25,
-        85.1500015258789,
-        85.12999725341797,
-        85.13999938964844,
-        85.0199966430664,
         85.06999969482422,
         85.12999725341797,
         85.37999725341797,
@@ -479,10 +472,17 @@
         84.04000091552734,
         84.02999877929688,
         84.1500015258789,
-        84.1500015258789
+        84.19000244140625,
+        84.27999877929688,
+        84.27999877929688,
+        84.19999694824219,
+        84.0999984741211,
+        83.91000366210938,
+        83.91000366210938,
+        83.91999816894531
       ],
       "ok": true,
-      "updated_at": "2026-08-18T10:19:58.631355+00:00"
+      "updated_at": "2026-08-18T10:51:49.695524+00:00"
     },
     "us10y": {
       "price": 4.724,
@@ -551,13 +551,13 @@
         4.723999977111816
       ],
       "ok": true,
-      "updated_at": "2026-08-18T10:19:58.749454+00:00"
+      "updated_at": "2026-08-18T10:51:49.745290+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-18T10:19:58.926708+00:00",
+      "updated_at": "2026-08-18T10:51:49.887439+00:00",
       "items": [
         {
           "title": "Tube Investments of India shares surge 8% after Q1 earnings. What Motilal Oswal is saying",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-18T10:19:59.232515+00:00",
+      "updated_at": "2026-08-18T10:51:49.987909+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,7 +794,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-18T10:19:59.329175+00:00",
+      "updated_at": "2026-08-18T10:51:50.133705+00:00",
       "items": [
         {
           "title": "Top Gainers &amp; Losers on 18 August: PTC Industries, Inox Wind, Mphasis, Tata Elxsi, Suzlon Energy among top losers",
@@ -950,8 +950,18 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-18T10:19:59.483083+00:00",
+      "updated_at": "2026-08-18T10:51:50.342078+00:00",
       "items": [
+        {
+          "title": "PCBL Chemical receives ECMS approval for Acetylene Black Project",
+          "link": "https://www.business-standard.com/markets/capital-market-news/pcbl-chemical-receives-ecms-approval-for-acetylene-black-project-126081800813_1.html",
+          "pubDate": "2026-08-18T15:50:22+05:30"
+        },
+        {
+          "title": "India's coconut product exports explode in FY26, mark a spurt of 62% on year",
+          "link": "https://www.business-standard.com/markets/capital-market-news/india-s-coconut-product-exports-explode-in-fy26-mark-a-spurt-of-62-on-year-126081800810_1.html",
+          "pubDate": "2026-08-18T15:50:02+05:30"
+        },
         {
           "title": "Currency in circulation continues to grow at double-digit rates even as cash's share of individual transactions declines",
           "link": "https://www.business-standard.com/markets/capital-market-news/currency-in-circulation-continues-to-grow-at-double-digit-rates-even-as-cash-s-share-of-individual-transactions-declines-126081800778_1.html",
@@ -1091,22 +1101,12 @@
           "title": "Ceigall India secures four LoAs from Ministry of Road Transport worth Rs 2,149 crore",
           "link": "https://www.business-standard.com/markets/capital-market-news/ceigall-india-secures-four-loas-from-ministry-of-road-transport-worth-rs-2-149-crore-126081800497_1.html",
           "pubDate": "2026-08-18T12:50:14+05:30"
-        },
-        {
-          "title": "Sensex slides 326 pts; PSU bank shares decline",
-          "link": "https://www.business-standard.com/markets/capital-market-news/sensex-slides-326-pts-psu-bank-shares-decline-126081800496_1.html",
-          "pubDate": "2026-08-18T12:50:02+05:30"
-        },
-        {
-          "title": "Nifty IT index slips nearly 2% for second straight day; here's why",
-          "link": "https://www.business-standard.com/markets/news/nifty-it-index-slips-nearly-2-for-second-straight-day-here-s-why-126081800430_1.html",
-          "pubDate": "2026-08-18T12:40:37+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-18T10:20:00.570563+00:00",
+      "updated_at": "2026-08-18T10:51:50.917823+00:00",
       "items": [
         {
           "title": "Overseas Direct Investment for July 2026",

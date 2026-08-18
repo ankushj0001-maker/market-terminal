@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T11:38:11.924548+00:00",
+  "generated_at": "2026-08-18T11:57:29.276894+00:00",
   "indices": {
     "nifty50": {
       "price": 24154.9,
@@ -11,7 +11,7 @@
         24204.75,
         24195.55078125,
         24200.25,
-        24205.55078125,
+        24205.849609375,
         24207.25,
         24202.349609375,
         24197.75,
@@ -61,14 +61,14 @@
         24214.30078125,
         24203.19921875,
         24197.30078125,
-        24169.75,
+        24165.80078125,
         24166.349609375,
         24166.349609375,
         24154.900390625,
         24154.900390625
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:38:09.715233+00:00"
+      "updated_at": "2026-08-18T11:57:26.948186+00:00"
     },
     "sensex": {
       "price": 77235.46,
@@ -137,7 +137,7 @@
         77235.4609375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:38:09.773030+00:00"
+      "updated_at": "2026-08-18T11:57:27.056718+00:00"
     },
     "banknifty": {
       "price": 57262.4,
@@ -161,7 +161,7 @@
         57289.94921875,
         57314.5,
         57341.3984375,
-        57369.44921875,
+        57370.80078125,
         57370.0,
         57350.55078125,
         57341.1015625,
@@ -206,7 +206,7 @@
         57262.3984375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:38:10.530116+00:00"
+      "updated_at": "2026-08-18T11:57:27.156837+00:00"
     },
     "vix": {
       "price": 11.387,
@@ -275,7 +275,7 @@
         11.387499809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:38:10.621021+00:00"
+      "updated_at": "2026-08-18T11:57:27.256115+00:00"
     },
     "usdinr": {
       "price": 95.67,
@@ -344,17 +344,13 @@
         95.66999816894531
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:38:10.729254+00:00"
+      "updated_at": "2026-08-18T11:57:27.364526+00:00"
     },
     "gold": {
-      "price": 4447.4,
-      "change": -26.3,
-      "pct": -0.5879,
+      "price": 4449.3,
+      "change": -24.4,
+      "pct": -0.5454,
       "closes": [
-        4452.39990234375,
-        4452.5,
-        4453.10009765625,
-        4453.7998046875,
         4454.10009765625,
         4455.0,
         4453.2001953125,
@@ -385,7 +381,7 @@
         4448.39990234375,
         4446.89990234375,
         4445.7998046875,
-        4444.7001953125,
+        4444.89990234375,
         4449.60009765625,
         4447.5,
         4444.5,
@@ -410,20 +406,20 @@
         4449.39990234375,
         4446.60009765625,
         4446.2998046875,
-        4447.39990234375
+        4445.60009765625,
+        4446.7998046875,
+        4447.2001953125,
+        4448.5,
+        4449.2998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:38:10.784647+00:00"
+      "updated_at": "2026-08-18T11:57:27.465106+00:00"
     },
     "crude": {
-      "price": 84.02,
-      "change": 0.28,
-      "pct": 0.3344,
+      "price": 84.09,
+      "change": 0.35,
+      "pct": 0.418,
       "closes": [
-        85.58999633789062,
-        85.52999877929688,
-        85.41000366210938,
-        85.33000183105469,
         85.19999694824219,
         85.19000244140625,
         85.02999877929688,
@@ -479,10 +475,14 @@
         84.06999969482422,
         84.0999984741211,
         84.04000091552734,
-        84.0199966430664
+        84.0,
+        84.0199966430664,
+        84.0199966430664,
+        84.1500015258789,
+        84.08999633789062
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:38:10.824292+00:00"
+      "updated_at": "2026-08-18T11:57:27.562031+00:00"
     },
     "us10y": {
       "price": 4.724,
@@ -551,13 +551,13 @@
         4.723999977111816
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:38:10.910742+00:00"
+      "updated_at": "2026-08-18T11:57:27.670825+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-18T11:38:10.949035+00:00",
+      "updated_at": "2026-08-18T11:57:27.820957+00:00",
       "items": [
         {
           "title": "Tube Investments of India shares surge 8% after Q1 earnings. What Motilal Oswal is saying",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-18T11:38:11.016756+00:00",
+      "updated_at": "2026-08-18T11:57:27.926793+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-18T11:38:11.057650+00:00",
+      "updated_at": "2026-08-18T11:57:28.159269+00:00",
       "items": [
+        {
+          "title": "ONGC clarifies report on OVL’s Venezuela operations, says framework talks underway",
+          "link": "https://www.livemint.com/market/stock-market-news/ongc-clarifies-report-on-ovl-s-venezuela-operations-says-framework-talks-underway-11787052167540.html",
+          "pubDate": "2026-08-18T17:19:36+05:30"
+        },
         {
           "title": "Top Gainers &amp; Losers on 18 August: PTC Industries, Inox Wind, Mphasis, Tata Elxsi, Suzlon Energy among top losers",
           "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-18-august-ptc-industries-inox-wind-mphasis-tata-elxsi-suzlon-energy-among-top-losers-11787047296067.html",
@@ -940,18 +945,38 @@
           "title": "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 18 August 2026",
           "link": "https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-18-august-2026-11786983589216.html",
           "pubDate": "2026-08-18T08:18:35+05:30"
-        },
-        {
-          "title": "Stock market today: Gift Nifty hints a weak start; eight day trading stocks to buy on Tuesday, 18 August",
-          "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-a-weak-start-eight-day-trading-stocks-to-buy-on-tuesday-18-august-11787019135761.html",
-          "pubDate": "2026-08-18T08:15:24+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-18T11:38:11.129438+00:00",
+      "updated_at": "2026-08-18T11:57:28.325027+00:00",
       "items": [
+        {
+          "title": "Sunshine Pictures IPO subscribed 4.33 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/sunshine-pictures-ipo-subscribed-4-33-times-126081800984_1.html",
+          "pubDate": "2026-08-18T17:16:19+05:30"
+        },
+        {
+          "title": "Lalithaa Jewellery Mart IPO subscribed 3.07 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/lalithaa-jewellery-mart-ipo-subscribed-3-07-times-126081800983_1.html",
+          "pubDate": "2026-08-18T17:16:11+05:30"
+        },
+        {
+          "title": "Shankesh Jewellers IPO subscribed 36%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/shankesh-jewellers-ipo-subscribed-36-126081800982_1.html",
+          "pubDate": "2026-08-18T17:16:02+05:30"
+        },
+        {
+          "title": "Nifty hits six-day losing streak as crude tops $91; IT stocks lead market selloff",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-hits-six-day-losing-streak-as-crude-tops-91-it-stocks-lead-market-selloff-126081800954_1.html",
+          "pubDate": "2026-08-18T17:04:10+05:30"
+        },
+        {
+          "title": "Quick Wrap: Nifty IT Index falls 1.93%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/quick-wrap-nifty-it-index-falls-1-93-126081800952_1.html",
+          "pubDate": "2026-08-18T17:04:02+05:30"
+        },
         {
           "title": "Japan stocks fall as bond yields and fiscal concerns rise",
           "link": "https://www.business-standard.com/markets/capital-market-news/japan-stocks-fall-as-bond-yields-and-fiscal-concerns-rise-126081800928_1.html",
@@ -1076,37 +1101,12 @@
           "title": "India Ratings and Research upgrades LT rating of Onesource Specialty Pharma to 'A'",
           "link": "https://www.business-standard.com/markets/capital-market-news/india-ratings-and-research-upgrades-lt-rating-of-onesource-specialty-pharma-to-a-126081800551_1.html",
           "pubDate": "2026-08-18T13:31:18+05:30"
-        },
-        {
-          "title": "Zee Entertainment Enterprises Ltd gains for third consecutive session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/zee-entertainment-enterprises-ltd-gains-for-third-consecutive-session-126081800550_1.html",
-          "pubDate": "2026-08-18T13:31:10+05:30"
-        },
-        {
-          "title": "Aegis Logistics Ltd rises for third consecutive session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/aegis-logistics-ltd-rises-for-third-consecutive-session-126081800549_1.html",
-          "pubDate": "2026-08-18T13:31:01+05:30"
-        },
-        {
-          "title": "Baazar Style Retail locked at 5% upper circuit for 3rd day; here's why",
-          "link": "https://www.business-standard.com/markets/news/baazar-style-retail-locked-at-5-upper-circuit-for-3rd-day-here-s-why-126081800533_1.html",
-          "pubDate": "2026-08-18T13:19:33+05:30"
-        },
-        {
-          "title": "ICICI Bank announces issuance of USD 750M Senior Notes",
-          "link": "https://www.business-standard.com/markets/capital-market-news/icici-bank-announces-issuance-of-usd-750m-senior-notes-126081800514_1.html",
-          "pubDate": "2026-08-18T13:04:18+05:30"
-        },
-        {
-          "title": "Ceigall - Sushee Infra JV receives LOA for road projects worth Rs 2,149 cr",
-          "link": "https://www.business-standard.com/markets/capital-market-news/ceigall-sushee-infra-jv-receives-loa-for-road-projects-worth-rs-2-149-cr-126081800513_1.html",
-          "pubDate": "2026-08-18T13:04:10+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-18T11:38:11.924530+00:00",
+      "updated_at": "2026-08-18T11:57:29.276877+00:00",
       "items": [
         {
           "title": "State Government Securities - Full Auction Result",

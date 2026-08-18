@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T15:52:42.608036+00:00",
+  "generated_at": "2026-08-18T16:15:27.278923+00:00",
   "indices": {
     "nifty50": {
       "price": 24154.9,
@@ -68,7 +68,7 @@
         24154.900390625
       ],
       "ok": true,
-      "updated_at": "2026-08-18T15:52:36.719038+00:00"
+      "updated_at": "2026-08-18T16:15:24.615715+00:00"
     },
     "sensex": {
       "price": 77235.46,
@@ -137,7 +137,7 @@
         77235.4609375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T15:52:37.016621+00:00"
+      "updated_at": "2026-08-18T16:15:24.799103+00:00"
     },
     "banknifty": {
       "price": 57262.4,
@@ -206,7 +206,7 @@
         57262.3984375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T15:52:37.256876+00:00"
+      "updated_at": "2026-08-18T16:15:24.956174+00:00"
     },
     "vix": {
       "price": 11.387,
@@ -275,7 +275,7 @@
         11.387499809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-18T15:52:37.818440+00:00"
+      "updated_at": "2026-08-18T16:15:25.134901+00:00"
     },
     "usdinr": {
       "price": 95.67,
@@ -344,18 +344,13 @@
         95.66999816894531
       ],
       "ok": true,
-      "updated_at": "2026-08-18T15:52:38.049361+00:00"
+      "updated_at": "2026-08-18T16:15:25.306756+00:00"
     },
     "gold": {
-      "price": 4414.7,
-      "change": -59.0,
-      "pct": -1.3188,
+      "price": 4423.1,
+      "change": -50.6,
+      "pct": -1.1311,
       "closes": [
-        4453.39990234375,
-        4454.39990234375,
-        4450.5,
-        4450.0,
-        4450.2001953125,
         4449.39990234375,
         4446.60009765625,
         4446.2998046875,
@@ -410,21 +405,21 @@
         4415.2001953125,
         4417.0,
         4414.5,
-        4414.7001953125
+        4419.2998046875,
+        4419.89990234375,
+        4420.2001953125,
+        4423.2998046875,
+        4426.60009765625,
+        4423.10009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-18T15:52:38.284177+00:00"
+      "updated_at": "2026-08-18T16:15:25.546222+00:00"
     },
     "crude": {
-      "price": 84.69,
-      "change": 0.95,
-      "pct": 1.1345,
+      "price": 84.46,
+      "change": 0.72,
+      "pct": 0.8598,
       "closes": [
-        83.94999694824219,
-        83.9800033569336,
-        83.91999816894531,
-        83.93000030517578,
-        83.98999786376953,
         84.06999969482422,
         84.0999984741211,
         84.04000091552734,
@@ -479,15 +474,20 @@
         84.9800033569336,
         84.80999755859375,
         84.87000274658203,
-        84.69000244140625
+        84.79000091552734,
+        84.6500015258789,
+        84.72000122070312,
+        84.5199966430664,
+        84.4800033569336,
+        84.45999908447266
       ],
       "ok": true,
-      "updated_at": "2026-08-18T15:52:38.585451+00:00"
+      "updated_at": "2026-08-18T16:15:25.745433+00:00"
     },
     "us10y": {
-      "price": 4.718,
-      "change": -0.006,
-      "pct": -0.127,
+      "price": 4.716,
+      "change": -0.008,
+      "pct": -0.1693,
       "closes": [
         4.736000061035156,
         4.736000061035156,
@@ -528,17 +528,21 @@
         4.716000080108643,
         4.716000080108643,
         4.720000267028809,
-        4.720000267028809,
-        4.7179999351501465
+        4.7179999351501465,
+        4.7179999351501465,
+        4.7139997482299805,
+        4.716000080108643,
+        4.716000080108643,
+        4.716000080108643
       ],
       "ok": true,
-      "updated_at": "2026-08-18T15:52:38.888234+00:00"
+      "updated_at": "2026-08-18T16:15:25.899379+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-18T15:52:39.558287+00:00",
+      "updated_at": "2026-08-18T16:15:26.105497+00:00",
       "items": [
         {
           "title": "Regulatory tailwinds to boost growth for MCX, says HDFC Securities; retains Buy for 18% gains",
@@ -694,7 +698,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-18T15:52:39.941064+00:00",
+      "updated_at": "2026-08-18T16:15:26.604707+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -775,7 +779,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-18T15:52:41.382982+00:00",
+      "updated_at": "2026-08-18T16:15:26.904977+00:00",
       "items": [
         {
           "title": "Hindustan Copper shares rebound 20% in 15 sessions. What’s driving the rally?",
@@ -931,8 +935,13 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-18T15:52:41.545690+00:00",
+      "updated_at": "2026-08-18T16:15:27.156910+00:00",
       "items": [
+        {
+          "title": "Volume growth, margin recovery to support gains for Ashok Leyland",
+          "link": "https://www.business-standard.com/markets/news/volume-growth-margin-recovery-to-support-gains-for-ashok-leyland-126081801426_1.html",
+          "pubDate": "2026-08-18T21:09:46+05:30"
+        },
         {
           "title": "Indices fall as elevated crude prices, rising global bond yields weigh",
           "link": "https://www.business-standard.com/markets/news/indices-fall-as-elevated-crude-prices-rising-global-bond-yields-weigh-126081801261_1.html",
@@ -941,7 +950,7 @@
         {
           "title": "Five-year bond yield hardens as FCNR(B) position unwinding weighs on trade",
           "link": "https://www.business-standard.com/markets/capital-market-news/five-year-bond-yield-hardens-as-fcnr-b-position-unwinding-weighs-on-trade-126081801233_1.html",
-          "pubDate": "2026-08-18T19:26:58+05:30"
+          "pubDate": "2026-08-18T19:26:00+05:30"
         },
         {
           "title": "Colgate PerioGard receives prestigious ISP Seal",
@@ -1077,17 +1086,12 @@
           "title": "Protean eGov Technologies bags Rs 6-cr order from Arunachal Pradesh govt",
           "link": "https://www.business-standard.com/markets/capital-market-news/protean-egov-technologies-bags-rs-6-cr-order-from-arunachal-pradesh-govt-126081800694_1.html",
           "pubDate": "2026-08-18T14:50:43+05:30"
-        },
-        {
-          "title": "Volumes jump at Tube Investments of India Ltd counter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/volumes-jump-at-tube-investments-of-india-ltd-counter-126081800693_1.html",
-          "pubDate": "2026-08-18T14:50:36+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-18T15:52:42.608019+00:00",
+      "updated_at": "2026-08-18T16:15:27.278909+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 19, 2026",

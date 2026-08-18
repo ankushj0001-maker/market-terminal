@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:13:41.794435+00:00",
+  "generated_at": "2026-08-18T21:36:28.770013+00:00",
   "indices": {
     "nifty50": {
       "price": 24154.9,
@@ -11,7 +11,7 @@
         24204.75,
         24195.55078125,
         24200.25,
-        24205.55078125,
+        24205.849609375,
         24207.25,
         24202.349609375,
         24197.75,
@@ -61,14 +61,14 @@
         24214.30078125,
         24203.19921875,
         24197.30078125,
-        24169.75,
+        24165.80078125,
         24166.349609375,
         24166.349609375,
         24154.900390625,
         24154.900390625
       ],
       "ok": true,
-      "updated_at": "2026-08-18T21:13:38.625563+00:00"
+      "updated_at": "2026-08-18T21:36:27.093678+00:00"
     },
     "sensex": {
       "price": 77235.46,
@@ -137,7 +137,7 @@
         77235.4609375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T21:13:38.679555+00:00"
+      "updated_at": "2026-08-18T21:36:27.140905+00:00"
     },
     "banknifty": {
       "price": 57262.4,
@@ -161,7 +161,7 @@
         57289.94921875,
         57314.5,
         57341.3984375,
-        57370.80078125,
+        57369.44921875,
         57370.0,
         57350.55078125,
         57341.1015625,
@@ -206,7 +206,7 @@
         57262.3984375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T21:13:38.720877+00:00"
+      "updated_at": "2026-08-18T21:36:27.194839+00:00"
     },
     "vix": {
       "price": 11.387,
@@ -275,7 +275,7 @@
         11.387499809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-18T21:13:38.774515+00:00"
+      "updated_at": "2026-08-18T21:36:27.269151+00:00"
     },
     "usdinr": {
       "price": 95.67,
@@ -344,7 +344,7 @@
         95.66999816894531
       ],
       "ok": true,
-      "updated_at": "2026-08-18T21:13:38.840899+00:00"
+      "updated_at": "2026-08-18T21:36:27.377108+00:00"
     },
     "gold": {
       "price": 4389.5,
@@ -352,7 +352,7 @@
       "pct": -1.8821,
       "closes": [
         4426.60009765625,
-        4423.0,
+        4423.10009765625,
         4422.5,
         4423.60009765625,
         4419.39990234375,
@@ -367,7 +367,7 @@
         4422.39990234375,
         4419.7001953125,
         4422.89990234375,
-        4421.0,
+        4420.7998046875,
         4420.10009765625,
         4418.2998046875,
         4414.39990234375,
@@ -386,11 +386,11 @@
         4409.0,
         4409.7001953125,
         4409.39990234375,
-        4410.2998046875,
+        4410.39990234375,
         4410.2998046875,
         4412.39990234375,
         4409.7998046875,
-        4408.2001953125,
+        4408.2998046875,
         4409.5,
         4408.60009765625,
         4409.39990234375,
@@ -406,14 +406,14 @@
         4392.7998046875,
         4394.39990234375,
         4393.2998046875,
-        4387.39990234375,
+        4387.60009765625,
         4387.60009765625,
         4389.39990234375,
-        4389.7001953125,
+        4389.5,
         4389.5
       ],
       "ok": true,
-      "updated_at": "2026-08-18T21:13:38.931752+00:00"
+      "updated_at": "2026-08-18T21:36:27.424586+00:00"
     },
     "crude": {
       "price": 84.42,
@@ -478,11 +478,11 @@
         84.43000030517578,
         84.4800033569336,
         84.44000244140625,
-        84.4000015258789,
+        84.41999816894531,
         84.41999816894531
       ],
       "ok": true,
-      "updated_at": "2026-08-18T21:13:38.995286+00:00"
+      "updated_at": "2026-08-18T21:36:27.519987+00:00"
     },
     "us10y": {
       "price": 4.706,
@@ -551,13 +551,13 @@
         4.706000328063965
       ],
       "ok": true,
-      "updated_at": "2026-08-18T21:13:39.034068+00:00"
+      "updated_at": "2026-08-18T21:36:27.615087+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-18T21:13:39.079073+00:00",
+      "updated_at": "2026-08-18T21:36:27.844682+00:00",
       "items": [
         {
           "title": "US stocks: Tech selloff weighs down Wall Street as bond yields climb",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-18T21:13:40.668605+00:00",
+      "updated_at": "2026-08-18T21:36:28.036001+00:00",
       "items": [
+        {
+          "title": "Mizuho Markets Head Expects BOJ to Raise Rates Soon, More Often",
+          "link": "https://www.livemint.com/market/mizuho-markets-head-expects-boj-to-raise-rates-soon-more-often-11787087982849.html",
+          "pubDate": "2026-08-19T02:49:42+05:30"
+        },
         {
           "title": "Jubilant Ingrevia shares to be in focus on Wednesday as company to acquire 40% stake in EDMS firm",
           "link": "https://www.livemint.com/market/stock-market-news/jubilant-ingrevia-shares-to-be-in-focus-on-wednesday-as-company-to-acquire-40-stake-in-edms-firm-11787072580697.html",
@@ -940,17 +945,12 @@
           "title": "Nikkei, KOSPI to US stocks: Global equity heatmap before the opening bell of the Indian stock market on Tuesday — Aug 18",
           "link": "https://www.livemint.com/market/stock-market-news/nikkei-kospi-to-us-stocks-global-markets-equity-heatmap-before-the-opening-bell-of-the-indian-stock-market-today-11787022404352.html",
           "pubDate": "2026-08-18T09:22:06+05:30"
-        },
-        {
-          "title": "Horizon Industrial Parks IPO Day 2: Issue subscribed 16% so far. Here's GMP, review &amp; other details - Apply or not?",
-          "link": "https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-day-2-issue-subscribed-14-so-far-heres-gmp-review-other-details-apply-or-not-11787023897231.html",
-          "pubDate": "2026-08-18T09:20:29+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-18T21:13:40.843879+00:00",
+      "updated_at": "2026-08-18T21:36:28.338629+00:00",
       "items": [
         {
           "title": "Milky Mist shares gain 30%; India Exposition Mart files DRHP with Sebi",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-18T21:13:41.794417+00:00",
+      "updated_at": "2026-08-18T21:36:28.769998+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 19, 2026",

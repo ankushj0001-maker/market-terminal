@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T11:12:47.806535+00:00",
+  "generated_at": "2026-08-18T11:38:11.924548+00:00",
   "indices": {
     "nifty50": {
       "price": 24154.9,
@@ -11,7 +11,7 @@
         24204.75,
         24195.55078125,
         24200.25,
-        24205.849609375,
+        24205.55078125,
         24207.25,
         24202.349609375,
         24197.75,
@@ -61,14 +61,14 @@
         24214.30078125,
         24203.19921875,
         24197.30078125,
-        24165.80078125,
+        24169.75,
         24166.349609375,
         24166.349609375,
         24154.900390625,
         24154.900390625
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:12:45.649912+00:00"
+      "updated_at": "2026-08-18T11:38:09.715233+00:00"
     },
     "sensex": {
       "price": 77235.46,
@@ -137,7 +137,7 @@
         77235.4609375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:12:45.930492+00:00"
+      "updated_at": "2026-08-18T11:38:09.773030+00:00"
     },
     "banknifty": {
       "price": 57262.4,
@@ -206,7 +206,7 @@
         57262.3984375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:12:46.036355+00:00"
+      "updated_at": "2026-08-18T11:38:10.530116+00:00"
     },
     "vix": {
       "price": 11.387,
@@ -275,7 +275,7 @@
         11.387499809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:12:46.393582+00:00"
+      "updated_at": "2026-08-18T11:38:10.621021+00:00"
     },
     "usdinr": {
       "price": 95.67,
@@ -344,18 +344,13 @@
         95.66999816894531
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:12:46.477198+00:00"
+      "updated_at": "2026-08-18T11:38:10.729254+00:00"
     },
     "gold": {
-      "price": 4454.5,
-      "change": -19.2,
-      "pct": -0.4292,
+      "price": 4447.4,
+      "change": -26.3,
+      "pct": -0.5879,
       "closes": [
-        4450.89990234375,
-        4450.7998046875,
-        4453.10009765625,
-        4454.89990234375,
-        4450.7998046875,
         4452.39990234375,
         4452.5,
         4453.10009765625,
@@ -410,21 +405,21 @@
         4453.39990234375,
         4454.39990234375,
         4450.5,
-        4454.5
+        4450.0,
+        4450.2001953125,
+        4449.39990234375,
+        4446.60009765625,
+        4446.2998046875,
+        4447.39990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:12:46.542750+00:00"
+      "updated_at": "2026-08-18T11:38:10.784647+00:00"
     },
     "crude": {
-      "price": 83.96,
-      "change": 0.22,
-      "pct": 0.2627,
+      "price": 84.02,
+      "change": 0.28,
+      "pct": 0.3344,
       "closes": [
-        85.4000015258789,
-        85.3499984741211,
-        85.4000015258789,
-        85.47000122070312,
-        85.48999786376953,
         85.58999633789062,
         85.52999877929688,
         85.41000366210938,
@@ -435,9 +430,9 @@
         85.06999969482422,
         85.0199966430664,
         84.95999908447266,
-        84.88999938964844,
+        84.9000015258789,
         84.1500015258789,
-        84.1500015258789,
+        84.13999938964844,
         84.27999877929688,
         84.20999908447266,
         84.30999755859375,
@@ -452,7 +447,7 @@
         84.0999984741211,
         84.06999969482422,
         84.33000183105469,
-        84.12000274658203,
+        84.12999725341797,
         84.12999725341797,
         84.08999633789062,
         84.19000244140625,
@@ -464,7 +459,7 @@
         84.1500015258789,
         84.08000183105469,
         84.19000244140625,
-        84.05000305175781,
+        84.05999755859375,
         84.04000091552734,
         84.02999877929688,
         84.1500015258789,
@@ -479,10 +474,15 @@
         83.94999694824219,
         83.9800033569336,
         83.91999816894531,
-        83.95999908447266
+        83.93000030517578,
+        83.98999786376953,
+        84.06999969482422,
+        84.0999984741211,
+        84.04000091552734,
+        84.0199966430664
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:12:46.649854+00:00"
+      "updated_at": "2026-08-18T11:38:10.824292+00:00"
     },
     "us10y": {
       "price": 4.724,
@@ -551,13 +551,13 @@
         4.723999977111816
       ],
       "ok": true,
-      "updated_at": "2026-08-18T11:12:46.727748+00:00"
+      "updated_at": "2026-08-18T11:38:10.910742+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-18T11:12:46.795971+00:00",
+      "updated_at": "2026-08-18T11:38:10.949035+00:00",
       "items": [
         {
           "title": "Tube Investments of India shares surge 8% after Q1 earnings. What Motilal Oswal is saying",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-18T11:12:46.952127+00:00",
+      "updated_at": "2026-08-18T11:38:11.016756+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,7 +794,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-18T11:12:47.018254+00:00",
+      "updated_at": "2026-08-18T11:38:11.057650+00:00",
       "items": [
         {
           "title": "Top Gainers &amp; Losers on 18 August: PTC Industries, Inox Wind, Mphasis, Tata Elxsi, Suzlon Energy among top losers",
@@ -950,8 +950,18 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-18T11:12:47.174874+00:00",
+      "updated_at": "2026-08-18T11:38:11.129438+00:00",
       "items": [
+        {
+          "title": "Japan stocks fall as bond yields and fiscal concerns rise",
+          "link": "https://www.business-standard.com/markets/capital-market-news/japan-stocks-fall-as-bond-yields-and-fiscal-concerns-rise-126081800928_1.html",
+          "pubDate": "2026-08-18T16:51:51+05:30"
+        },
+        {
+          "title": "China stocks turn choppy as investors await stimulus",
+          "link": "https://www.business-standard.com/markets/capital-market-news/china-stocks-turn-choppy-as-investors-await-stimulus-126081800927_1.html",
+          "pubDate": "2026-08-18T16:51:43+05:30"
+        },
         {
           "title": "Nifty August futures trade at premium",
           "link": "https://www.business-standard.com/markets/capital-market-news/nifty-august-futures-trade-at-premium-126081800868_1.html",
@@ -1091,23 +1101,18 @@
           "title": "Ceigall - Sushee Infra JV receives LOA for road projects worth Rs 2,149 cr",
           "link": "https://www.business-standard.com/markets/capital-market-news/ceigall-sushee-infra-jv-receives-loa-for-road-projects-worth-rs-2-149-cr-126081800513_1.html",
           "pubDate": "2026-08-18T13:04:10+05:30"
-        },
-        {
-          "title": "Dollar index lingers around 2-month low",
-          "link": "https://www.business-standard.com/markets/capital-market-news/dollar-index-lingers-around-2-month-low-126081800512_1.html",
-          "pubDate": "2026-08-18T13:04:01+05:30"
-        },
-        {
-          "title": "RIL, Airtel or Vi: Tariff hike ahead for telcos; which is a better play?",
-          "link": "https://www.business-standard.com/markets/news/ril-airtel-or-vi-tariff-hike-ahead-for-telcos-which-is-a-better-play-126081800510_1.html",
-          "pubDate": "2026-08-18T13:01:48+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-18T11:12:47.806517+00:00",
+      "updated_at": "2026-08-18T11:38:11.924530+00:00",
       "items": [
+        {
+          "title": "State Government Securities - Full Auction Result",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63397",
+          "pubDate": "2026-08-18T16:45:00+00:00"
+        },
         {
           "title": "Overseas Direct Investment for July 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63396",
@@ -1152,11 +1157,6 @@
           "title": "Result: Conversion/Switch Auction of Government of India Securities",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63388",
           "pubDate": "2026-08-17T15:20:00+00:00"
-        },
-        {
-          "title": "Money Market Operations as on August 16, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63387",
-          "pubDate": "2026-08-17T12:15:00+00:00"
         }
       ]
     }

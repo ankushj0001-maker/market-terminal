@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T14:01:39.138182+00:00",
+  "generated_at": "2026-08-18T14:48:29.955167+00:00",
   "indices": {
     "nifty50": {
       "price": 24154.9,
@@ -11,7 +11,7 @@
         24204.75,
         24195.55078125,
         24200.25,
-        24205.849609375,
+        24205.55078125,
         24207.25,
         24202.349609375,
         24197.75,
@@ -61,14 +61,14 @@
         24214.30078125,
         24203.19921875,
         24197.30078125,
-        24165.80078125,
+        24169.75,
         24166.349609375,
         24166.349609375,
         24154.900390625,
         24154.900390625
       ],
       "ok": true,
-      "updated_at": "2026-08-18T14:01:36.421859+00:00"
+      "updated_at": "2026-08-18T14:48:27.873742+00:00"
     },
     "sensex": {
       "price": 77235.46,
@@ -137,7 +137,7 @@
         77235.4609375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T14:01:36.519464+00:00"
+      "updated_at": "2026-08-18T14:48:27.931463+00:00"
     },
     "banknifty": {
       "price": 57262.4,
@@ -206,7 +206,7 @@
         57262.3984375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T14:01:36.698147+00:00"
+      "updated_at": "2026-08-18T14:48:27.990517+00:00"
     },
     "vix": {
       "price": 11.387,
@@ -275,14 +275,13 @@
         11.387499809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-18T14:01:36.804033+00:00"
+      "updated_at": "2026-08-18T14:48:28.053997+00:00"
     },
     "usdinr": {
       "price": 95.67,
       "change": 0.078,
       "pct": 0.0816,
       "closes": [
-        95.66999816894531,
         95.67250061035156,
         95.67250061035156,
         95.67250061035156,
@@ -341,25 +340,17 @@
         95.66799926757812,
         95.67500305175781,
         95.66999816894531,
+        95.66999816894531,
         95.66999816894531
       ],
       "ok": true,
-      "updated_at": "2026-08-18T14:01:37.050847+00:00"
+      "updated_at": "2026-08-18T14:48:28.128796+00:00"
     },
     "gold": {
-      "price": 4448.0,
-      "change": -25.7,
-      "pct": -0.5745,
+      "price": 4444.0,
+      "change": -29.7,
+      "pct": -0.6639,
       "closes": [
-        4448.0,
-        4447.5,
-        4448.39990234375,
-        4446.89990234375,
-        4445.7998046875,
-        4444.89990234375,
-        4449.60009765625,
-        4447.5,
-        4444.5,
         4448.60009765625,
         4450.0,
         4449.7001953125,
@@ -410,27 +401,27 @@
         4457.0,
         4451.7001953125,
         4446.7998046875,
-        4448.0
+        4451.0,
+        4460.39990234375,
+        4454.60009765625,
+        4449.60009765625,
+        4458.10009765625,
+        4454.10009765625,
+        4450.60009765625,
+        4446.0,
+        4438.7001953125,
+        4444.0
       ],
       "ok": true,
-      "updated_at": "2026-08-18T14:01:37.156960+00:00"
+      "updated_at": "2026-08-18T14:48:28.179606+00:00"
     },
     "crude": {
-      "price": 84.33,
-      "change": 0.59,
-      "pct": 0.7046,
+      "price": 83.91,
+      "change": 0.17,
+      "pct": 0.203,
       "closes": [
-        84.08999633789062,
         84.19000244140625,
-        84.13999938964844,
-        84.11000061035156,
-        84.20999908447266,
-        84.19999694824219,
-        84.23999786376953,
-        84.1500015258789,
-        84.08000183105469,
-        84.19000244140625,
-        84.05999755859375,
+        84.05000305175781,
         84.04000091552734,
         84.02999877929688,
         84.1500015258789,
@@ -461,13 +452,13 @@
         84.36000061035156,
         84.3499984741211,
         84.31999969482422,
-        84.27999877929688,
+        84.2699966430664,
         84.18000030517578,
         84.27999877929688,
         84.36000061035156,
         84.30000305175781,
         84.37000274658203,
-        84.37000274658203,
+        84.37999725341797,
         84.4000015258789,
         84.36000061035156,
         84.33000183105469,
@@ -479,15 +470,24 @@
         84.30999755859375,
         84.08000183105469,
         84.52999877929688,
-        84.33000183105469
+        84.55999755859375,
+        84.18000030517578,
+        84.16000366210938,
+        84.12000274658203,
+        84.06999969482422,
+        84.06999969482422,
+        83.95999908447266,
+        83.87000274658203,
+        83.83000183105469,
+        83.91000366210938
       ],
       "ok": true,
-      "updated_at": "2026-08-18T14:01:37.259897+00:00"
+      "updated_at": "2026-08-18T14:48:28.233239+00:00"
     },
     "us10y": {
-      "price": 4.728,
-      "change": 0.004,
-      "pct": 0.0847,
+      "price": 4.712,
+      "change": -0.012,
+      "pct": -0.254,
       "closes": [
         4.736000061035156,
         4.736000061035156,
@@ -506,17 +506,26 @@
         4.736000061035156,
         4.727999687194824,
         4.727999687194824,
-        4.727999687194824,
-        4.727999687194824
+        4.7220001220703125,
+        4.72599983215332,
+        4.723999977111816,
+        4.7220001220703125,
+        4.720000267028809,
+        4.716000080108643,
+        4.716000080108643,
+        4.711999893188477,
+        4.711999893188477,
+        4.711999893188477,
+        4.711999893188477
       ],
       "ok": true,
-      "updated_at": "2026-08-18T14:01:37.357198+00:00"
+      "updated_at": "2026-08-18T14:48:28.275539+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-18T14:01:37.643138+00:00",
+      "updated_at": "2026-08-18T14:48:28.338295+00:00",
       "items": [
         {
           "title": "Regulatory tailwinds to boost growth for MCX, says HDFC Securities; retains Buy for 18% gains",
@@ -672,7 +681,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-18T14:01:37.770014+00:00",
+      "updated_at": "2026-08-18T14:48:28.628933+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -753,8 +762,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-18T14:01:37.883327+00:00",
+      "updated_at": "2026-08-18T14:48:28.762738+00:00",
       "items": [
+        {
+          "title": "Hindustan Copper shares rebound 20% in 15 sessions. What’s driving the rally?",
+          "link": "https://www.livemint.com/market/stock-market-news/hindustan-copper-shares-rebound-20-in-15-sessions-what-s-driving-the-rally-11787063093871.html",
+          "pubDate": "2026-08-18T20:05:20+05:30"
+        },
         {
           "title": "US stock market today: S&amp;P 500, Nasdaq futures down up to 1% amid surging oil and bond yields",
           "link": "https://www.livemint.com/market/us-stock-market-today-s-p-500-nasdaq-futures-down-up-to-1-amid-surging-oil-and-bond-yields-11787054644462.html",
@@ -899,18 +913,23 @@
           "title": "Rupee opens 6 paise lower at 95.66 against US dollar",
           "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-6-paise-lower-at-95-66-against-us-dollar-11787024218026.html",
           "pubDate": "2026-08-18T09:08:20+05:30"
-        },
-        {
-          "title": "Five AI infrastructure stocks riding the data centre boom",
-          "link": "https://www.livemint.com/market/stock-market-news/ai-infrastructure-stocks-india-data-center-stocks-india-11786965314391.html",
-          "pubDate": "2026-08-18T09:00:27+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-18T14:01:38.063077+00:00",
+      "updated_at": "2026-08-18T14:48:28.899610+00:00",
       "items": [
+        {
+          "title": "Indices fall as elevated crude prices, rising global bond yields weigh",
+          "link": "https://www.business-standard.com/markets/news/indices-fall-as-elevated-crude-prices-rising-global-bond-yields-weigh-126081801261_1.html",
+          "pubDate": "2026-08-18T19:37:18+05:30"
+        },
+        {
+          "title": "Five-year bond yield hardens as FCNR(B) position unwinding weighs on trade",
+          "link": "https://www.business-standard.com/markets/capital-market-news/five-year-bond-yield-hardens-as-fcnr-b-position-unwinding-weighs-on-trade-126081801233_1.html",
+          "pubDate": "2026-08-18T19:26:58+05:30"
+        },
         {
           "title": "Colgate PerioGard receives prestigious ISP Seal",
           "link": "https://www.business-standard.com/markets/capital-market-news/colgate-periogard-receives-prestigious-isp-seal-126081801183_1.html",
@@ -949,7 +968,7 @@
         {
           "title": "BSE hits 4-month low after Jefferies, Nuvama downgrade stock on CAS risks",
           "link": "https://www.business-standard.com/markets/news/bse-hits-4-month-low-after-jefferies-nuvama-downgrade-stock-on-cas-risks-126081801046_1.html",
-          "pubDate": "2026-08-18T17:42:03+05:30"
+          "pubDate": "2026-08-18T17:42:08+05:30"
         },
         {
           "title": "Horizon Industrial Parks (HIPL) IPO subscribed 24%",
@@ -1050,22 +1069,12 @@
           "title": "Volumes jump at Tube Investments of India Ltd counter",
           "link": "https://www.business-standard.com/markets/capital-market-news/volumes-jump-at-tube-investments-of-india-ltd-counter-126081800693_1.html",
           "pubDate": "2026-08-18T14:50:36+05:30"
-        },
-        {
-          "title": "Airfloa Rail Technology rises after Rs 70.56 lakh order from Modern Coach Factory",
-          "link": "https://www.business-standard.com/markets/capital-market-news/airfloa-rail-technology-rises-after-rs-70-56-lakh-order-from-modern-coach-factory-126081800692_1.html",
-          "pubDate": "2026-08-18T14:50:28+05:30"
-        },
-        {
-          "title": "Infosys Ltd slips for fifth straight session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/infosys-ltd-slips-for-fifth-straight-session-126081800691_1.html",
-          "pubDate": "2026-08-18T14:50:20+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-18T14:01:39.138167+00:00",
+      "updated_at": "2026-08-18T14:48:29.955149+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 19, 2026",

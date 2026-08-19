@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T20:11:14.488372+00:00",
+  "generated_at": "2026-08-19T20:42:36.027770+00:00",
   "indices": {
     "nifty50": {
       "price": 24078.3,
@@ -68,7 +68,7 @@
         24078.30078125
       ],
       "ok": true,
-      "updated_at": "2026-08-19T20:11:11.456391+00:00"
+      "updated_at": "2026-08-19T20:42:35.156911+00:00"
     },
     "sensex": {
       "price": 76909.68,
@@ -137,7 +137,7 @@
         76909.6796875
       ],
       "ok": true,
-      "updated_at": "2026-08-19T20:11:11.588737+00:00"
+      "updated_at": "2026-08-19T20:42:35.243508+00:00"
     },
     "banknifty": {
       "price": 57239.75,
@@ -206,7 +206,7 @@
         57239.75
       ],
       "ok": true,
-      "updated_at": "2026-08-19T20:11:11.695583+00:00"
+      "updated_at": "2026-08-19T20:42:35.296791+00:00"
     },
     "vix": {
       "price": 11.323,
@@ -275,7 +275,7 @@
         11.322500228881836
       ],
       "ok": true,
-      "updated_at": "2026-08-19T20:11:11.852527+00:00"
+      "updated_at": "2026-08-19T20:42:35.340354+00:00"
     },
     "usdinr": {
       "price": 95.743,
@@ -344,19 +344,13 @@
         95.74299621582031
       ],
       "ok": true,
-      "updated_at": "2026-08-19T20:11:11.953220+00:00"
+      "updated_at": "2026-08-19T20:42:35.422686+00:00"
     },
     "gold": {
-      "price": 4566.9,
-      "change": 146.3,
-      "pct": 3.3095,
+      "price": 4579.8,
+      "change": 159.2,
+      "pct": 3.6013,
       "closes": [
-        4544.10009765625,
-        4544.39990234375,
-        4539.39990234375,
-        4541.89990234375,
-        4543.0,
-        4545.5,
         4548.7001953125,
         4548.89990234375,
         4549.5,
@@ -410,22 +404,22 @@
         4568.60009765625,
         4568.2998046875,
         4566.7001953125,
-        4566.89990234375
+        4567.89990234375,
+        4564.5,
+        4568.2001953125,
+        4576.39990234375,
+        4576.7001953125,
+        4579.89990234375,
+        4579.7998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-19T20:11:12.117324+00:00"
+      "updated_at": "2026-08-19T20:42:35.491402+00:00"
     },
     "crude": {
-      "price": 84.25,
-      "change": 0.19,
-      "pct": 0.226,
+      "price": 84.37,
+      "change": 0.31,
+      "pct": 0.3688,
       "closes": [
-        85.1500015258789,
-        85.30999755859375,
-        85.36000061035156,
-        85.33000183105469,
-        85.2699966430664,
-        85.37000274658203,
         85.22000122070312,
         85.29000091552734,
         85.22000122070312,
@@ -446,7 +440,7 @@
         85.72000122070312,
         85.5999984741211,
         85.54000091552734,
-        85.41000366210938,
+        85.4000015258789,
         85.36000061035156,
         85.25,
         85.20999908447266,
@@ -458,13 +452,13 @@
         84.9800033569336,
         84.86000061035156,
         84.70999908447266,
-        84.69999694824219,
+        84.70999908447266,
         84.2699966430664,
         84.30999755859375,
         84.2300033569336,
         84.16999816894531,
         84.20999908447266,
-        84.27999877929688,
+        84.29000091552734,
         84.3499984741211,
         84.29000091552734,
         84.27999877929688,
@@ -475,14 +469,20 @@
         84.02999877929688,
         83.9800033569336,
         83.9800033569336,
-        84.04000091552734,
+        84.02999877929688,
         84.22000122070312,
         84.26000213623047,
         84.20999908447266,
-        84.25
+        84.20999908447266,
+        84.18000030517578,
+        84.27999877929688,
+        84.29000091552734,
+        84.30000305175781,
+        84.29000091552734,
+        84.37000274658203
       ],
       "ok": true,
-      "updated_at": "2026-08-19T20:11:12.240842+00:00"
+      "updated_at": "2026-08-19T20:42:35.552473+00:00"
     },
     "us10y": {
       "price": 4.653,
@@ -551,14 +551,19 @@
         4.6529998779296875
       ],
       "ok": true,
-      "updated_at": "2026-08-19T20:11:12.429588+00:00"
+      "updated_at": "2026-08-19T20:42:35.606944+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-19T20:11:12.947819+00:00",
+      "updated_at": "2026-08-19T20:42:35.661911+00:00",
       "items": [
+        {
+          "title": "US stocks: US market rises as yields ease, Moderna lifts healthcare stocks",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-rises-as-yields-ease-moderna-lifts-healthcare-stocks/articleshow/133358680.cms",
+          "pubDate": "2026-08-20T01:39:50+05:30"
+        },
         {
           "title": "Moderna shares soar 135% in a day after cancer vaccine succeeds in late-stage trial",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/moderna-shares-soar-135-in-a-day-after-cancer-vaccine-succeeds-in-late-stage-trial/articleshow/133351080.cms",
@@ -578,11 +583,6 @@
           "title": "India stocks top Indonesia as Asia’s least-favoured in BofA poll",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-stocks-top-indonesia-as-asias-least-favoured-in-bofa-poll/articleshow/133341047.cms",
           "pubDate": "2026-08-19T13:02:18+05:30"
-        },
-        {
-          "title": "IGL, MGL, Adani Total Gas shares rally up to 6% as govt boosts domestic PNG push",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/igl-mgl-adani-total-gas-shares-rally-up-to-6-as-govt-boosts-domestic-png-push/articleshow/133339597.cms",
-          "pubDate": "2026-08-19T12:01:01+05:30"
         },
         {
           "title": "IT crash ahead? CLSA downgrades TCS, Infosys, Wipro, other stocks; revises target prices. Here's why",
@@ -794,7 +794,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-19T20:11:13.340720+00:00",
+      "updated_at": "2026-08-19T20:42:35.809109+00:00",
       "items": [
         {
           "title": "Oil Rises as Mideast Tensions Flare With UAE-Iran Spat",
@@ -950,7 +950,7 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-19T20:11:13.549960+00:00",
+      "updated_at": "2026-08-19T20:42:35.976167+00:00",
       "items": [
         {
           "title": "Govt bond yields seen opening higher after hawkish RBI MPC minutes",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-19T20:11:14.488356+00:00",
+      "updated_at": "2026-08-19T20:42:36.027754+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 20, 2026",

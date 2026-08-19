@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T11:57:08.219591+00:00",
+  "generated_at": "2026-08-19T12:28:36.125049+00:00",
   "indices": {
     "nifty50": {
       "price": 24078.3,
@@ -68,7 +68,7 @@
         24078.30078125
       ],
       "ok": true,
-      "updated_at": "2026-08-19T11:57:06.567495+00:00"
+      "updated_at": "2026-08-19T12:28:34.072472+00:00"
     },
     "sensex": {
       "price": 76909.68,
@@ -137,7 +137,7 @@
         76909.6796875
       ],
       "ok": true,
-      "updated_at": "2026-08-19T11:57:06.620588+00:00"
+      "updated_at": "2026-08-19T12:28:34.119915+00:00"
     },
     "banknifty": {
       "price": 57239.75,
@@ -206,7 +206,7 @@
         57239.75
       ],
       "ok": true,
-      "updated_at": "2026-08-19T11:57:06.662958+00:00"
+      "updated_at": "2026-08-19T12:28:34.170943+00:00"
     },
     "vix": {
       "price": 11.323,
@@ -275,7 +275,7 @@
         11.322500228881836
       ],
       "ok": true,
-      "updated_at": "2026-08-19T11:57:06.697156+00:00"
+      "updated_at": "2026-08-19T12:28:34.217449+00:00"
     },
     "usdinr": {
       "price": 95.743,
@@ -344,19 +344,13 @@
         95.74299621582031
       ],
       "ok": true,
-      "updated_at": "2026-08-19T11:57:06.735857+00:00"
+      "updated_at": "2026-08-19T12:28:34.275562+00:00"
     },
     "gold": {
-      "price": 4420.3,
-      "change": -0.3,
-      "pct": -0.0068,
+      "price": 4420.9,
+      "change": 0.3,
+      "pct": 0.0068,
       "closes": [
-        4402.7998046875,
-        4401.7001953125,
-        4406.60009765625,
-        4404.2998046875,
-        4404.2998046875,
-        4407.89990234375,
         4410.5,
         4413.5,
         4411.7001953125,
@@ -410,22 +404,22 @@
         4422.7001953125,
         4418.39990234375,
         4422.10009765625,
-        4420.2998046875
+        4420.89990234375,
+        4419.10009765625,
+        4418.89990234375,
+        4422.5,
+        4423.10009765625,
+        4422.60009765625,
+        4420.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-19T11:57:06.779715+00:00"
+      "updated_at": "2026-08-19T12:28:34.330989+00:00"
     },
     "crude": {
-      "price": 84.84,
-      "change": 0.78,
-      "pct": 0.9279,
+      "price": 84.6,
+      "change": 0.54,
+      "pct": 0.6424,
       "closes": [
-        84.54000091552734,
-        84.72000122070312,
-        84.75,
-        84.76000213623047,
-        84.8499984741211,
-        84.66000366210938,
         84.4800033569336,
         84.44000244140625,
         84.38999938964844,
@@ -479,85 +473,30 @@
         84.9000015258789,
         84.87000274658203,
         84.7699966430664,
-        84.83999633789062
+        84.63999938964844,
+        84.6500015258789,
+        84.66999816894531,
+        84.66999816894531,
+        84.62999725341797,
+        84.41999816894531,
+        84.5999984741211
       ],
       "ok": true,
-      "updated_at": "2026-08-19T11:57:06.815797+00:00"
+      "updated_at": "2026-08-19T12:28:34.380637+00:00"
     },
     "us10y": {
       "price": 4.706,
-      "change": -0.018,
-      "pct": -0.381,
-      "closes": [
-        4.7220001220703125,
-        4.720000267028809,
-        4.716000080108643,
-        4.716000080108643,
-        4.711999893188477,
-        4.711999893188477,
-        4.711999893188477,
-        4.711999893188477,
-        4.711999893188477,
-        4.708000183105469,
-        4.7139997482299805,
-        4.720000267028809,
-        4.711999893188477,
-        4.7139997482299805,
-        4.7139997482299805,
-        4.716000080108643,
-        4.716000080108643,
-        4.716000080108643,
-        4.720000267028809,
-        4.7179999351501465,
-        4.7179999351501465,
-        4.7139997482299805,
-        4.716000080108643,
-        4.716000080108643,
-        4.711999893188477,
-        4.711999893188477,
-        4.711999893188477,
-        4.708000183105469,
-        4.708000183105469,
-        4.711999893188477,
-        4.7139997482299805,
-        4.7139997482299805,
-        4.711999893188477,
-        4.711999893188477,
-        4.710000038146973,
-        4.711999893188477,
-        4.711999893188477,
-        4.711999893188477,
-        4.711999893188477,
-        4.711999893188477,
-        4.710000038146973,
-        4.711999893188477,
-        4.710000038146973,
-        4.710000038146973,
-        4.710000038146973,
-        4.708000183105469,
-        4.708000183105469,
-        4.708000183105469,
-        4.708000183105469,
-        4.706000328063965,
-        4.703999996185303,
-        4.703999996185303,
-        4.703999996185303,
-        4.703999996185303,
-        4.703999996185303,
-        4.703999996185303,
-        4.708000183105469,
-        4.706000328063965,
-        4.708000183105469,
-        4.706000328063965
-      ],
+      "change": 0.0,
+      "pct": 0.0,
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-08-19T11:57:06.858691+00:00"
+      "updated_at": "2026-08-19T12:28:34.471122+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-19T11:57:06.988711+00:00",
+      "updated_at": "2026-08-19T12:28:34.539723+00:00",
       "items": [
         {
           "title": "Behari Lal Engineering shares rally 14% after stellar debut. What are brokerages saying?",
@@ -712,7 +651,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-19T11:57:07.081241+00:00",
       "items": [
         {
@@ -794,8 +733,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-19T11:57:07.157653+00:00",
+      "updated_at": "2026-08-19T12:28:35.133516+00:00",
       "items": [
+        {
+          "title": "SK Hynix ADR jumps 6% in pre-market trade after $29 billion buyback plan",
+          "link": "https://www.livemint.com/market/stock-market-news/sk-hynix-adr-jumps-6-in-pre-market-trade-after-29-billion-buyback-plan-11787138661029.html",
+          "pubDate": "2026-08-19T17:52:21+05:30"
+        },
+        {
+          "title": "Binance Blockchain Week 2026: Here is what to expect at the two-day Bangkok event",
+          "link": "https://www.livemint.com/market/cryptocurrency/binance-is-bringing-blockchain-week-to-bangkok-here-is-what-to-expect-at-the-two-day-event-11787138098366.html",
+          "pubDate": "2026-08-19T17:36:25+05:30"
+        },
         {
           "title": "Indiabulls says the EOW status report does not mention any wrongdoing in a major loan case",
           "link": "https://www.livemint.com/market/stock-market-news/indiabulls-says-the-eow-status-report-does-not-mention-any-wrongdoing-in-a-major-loan-case-11787139527360.html",
@@ -935,23 +884,38 @@
           "title": "Bharat Dynamics to L&amp;T - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&amp;O segment",
           "link": "https://www.livemint.com/market/stock-market-news/bharat-dynamics-to-l-t-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11787112934483.html",
           "pubDate": "2026-08-19T10:01:19+05:30"
-        },
-        {
-          "title": "Shiprocket IPO listing: Shares list at 35% premium over the IPO price. Details here",
-          "link": "https://www.livemint.com/market/stock-market-news/bumper-listing-shiprocket-share-price-lists-at-35-premium-over-the-ipo-price-11787112874460.html",
-          "pubDate": "2026-08-19T10:00:11+05:30"
-        },
-        {
-          "title": "Horizon Industrial Parks IPO Day 3: Issue subscribed 27% so far. Check GMP, review - apply or not?",
-          "link": "https://www.livemint.com/market/ipo/horizon-industrial-ipo-day-3-issue-subscribed-24-so-far-check-gmp-review-apply-or-not-11787112296810.html",
-          "pubDate": "2026-08-19T09:44:13+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-19T11:57:07.304373+00:00",
+      "updated_at": "2026-08-19T12:28:35.179045+00:00",
       "items": [
+        {
+          "title": "INR slips further amid sharp rise in global crude oil prices and negative local equities",
+          "link": "https://www.business-standard.com/markets/capital-market-news/inr-slips-further-amid-sharp-rise-in-global-crude-oil-prices-and-negative-local-equities-126081901016_1.html",
+          "pubDate": "2026-08-19T17:50:59+05:30"
+        },
+        {
+          "title": "Horizon Industrial Parks (HIPL) IPO subscribed 1.45 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/horizon-industrial-parks-hipl-ipo-subscribed-1-45-times-126081901015_1.html",
+          "pubDate": "2026-08-19T17:50:51+05:30"
+        },
+        {
+          "title": "Lalithaa Jewellery Mart IPO subscribed 62.97 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/lalithaa-jewellery-mart-ipo-subscribed-62-97-times-126081901014_1.html",
+          "pubDate": "2026-08-19T17:50:43+05:30"
+        },
+        {
+          "title": "FDA temporarily suspends CEAT's license to procure Methanol",
+          "link": "https://www.business-standard.com/markets/capital-market-news/fda-temporarily-suspends-ceat-s-license-to-procure-methanol-126081901012_1.html",
+          "pubDate": "2026-08-19T17:50:31+05:30"
+        },
+        {
+          "title": "Shankesh Jewellers IPO subscribed 94%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/shankesh-jewellers-ipo-subscribed-94-126081900984_1.html",
+          "pubDate": "2026-08-19T17:32:38+05:30"
+        },
         {
           "title": "Sunshine Pictures IPO subscribed 18.46 times",
           "link": "https://www.business-standard.com/markets/capital-market-news/sunshine-pictures-ipo-subscribed-18-46-times-126081900944_1.html",
@@ -1076,37 +1040,12 @@
           "title": "Tips Music Ltd down for fifth straight session",
           "link": "https://www.business-standard.com/markets/capital-market-news/tips-music-ltd-down-for-fifth-straight-session-126081900686_1.html",
           "pubDate": "2026-08-19T14:51:07+05:30"
-        },
-        {
-          "title": "Nestle India Ltd down for fifth straight session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nestle-india-ltd-down-for-fifth-straight-session-126081900685_1.html",
-          "pubDate": "2026-08-19T14:50:59+05:30"
-        },
-        {
-          "title": "Britannia Industries Ltd down for fifth straight session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/britannia-industries-ltd-down-for-fifth-straight-session-126081900684_1.html",
-          "pubDate": "2026-08-19T14:50:52+05:30"
-        },
-        {
-          "title": "Nava Ltd down for fifth straight session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nava-ltd-down-for-fifth-straight-session-126081900683_1.html",
-          "pubDate": "2026-08-19T14:50:45+05:30"
-        },
-        {
-          "title": "Exide Industries Ltd drops for fifth straight session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/exide-industries-ltd-drops-for-fifth-straight-session-126081900682_1.html",
-          "pubDate": "2026-08-19T14:50:38+05:30"
-        },
-        {
-          "title": "Canara Bank down for fifth straight session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/canara-bank-down-for-fifth-straight-session-126081900681_1.html",
-          "pubDate": "2026-08-19T14:50:31+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-19T11:57:08.219574+00:00",
+      "updated_at": "2026-08-19T12:28:36.125032+00:00",
       "items": [
         {
           "title": "Minutes of the Monetary Policy Committee Meeting, August 3 to 5, 2026",

@@ -1,19 +1,16 @@
 {
-  "generated_at": "2026-08-19T09:45:37.823413+00:00",
+  "generated_at": "2026-08-19T10:14:40.550491+00:00",
   "indices": {
     "nifty50": {
-      "price": 24048.55,
-      "change": -239.15,
-      "pct": -0.9847,
+      "price": 24078.3,
+      "change": -209.4,
+      "pct": -0.8622,
       "closes": [
-        24065.05078125,
-        24065.19921875,
-        24057.44921875,
         24051.94921875,
         24058.400390625,
         24053.099609375,
         24061.30078125,
-        24056.099609375,
+        24055.900390625,
         24047.94921875,
         24041.19921875,
         24048.5,
@@ -21,7 +18,7 @@
         24052.25,
         24054.349609375,
         24054.25,
-        24048.099609375,
+        24047.599609375,
         24052.44921875,
         24066.900390625,
         24079.900390625,
@@ -65,21 +62,19 @@
         24055.849609375,
         24038.400390625,
         24048.55078125,
-        24048.55078125
+        24048.55078125,
+        24048.55078125,
+        24078.30078125,
+        24078.30078125
       ],
       "ok": true,
-      "updated_at": "2026-08-19T09:45:36.104818+00:00"
+      "updated_at": "2026-08-19T10:14:35.614466+00:00"
     },
     "sensex": {
-      "price": 76917.92,
-      "change": -810.28,
-      "pct": -1.0425,
+      "price": 76909.68,
+      "change": -818.52,
+      "pct": -1.0531,
       "closes": [
-        77045.84375,
-        77025.7265625,
-        76969.8984375,
-        76932.7265625,
-        76935.796875,
         76914.9765625,
         76903.078125,
         76932.28125,
@@ -134,19 +129,21 @@
         76881.953125,
         76903.9296875,
         76922.1328125,
-        76917.921875
+        76930.8828125,
+        76888.0078125,
+        76908.6796875,
+        76902.5390625,
+        76896.3515625,
+        76911.9921875
       ],
       "ok": true,
-      "updated_at": "2026-08-19T09:45:36.186590+00:00"
+      "updated_at": "2026-08-19T10:14:35.791490+00:00"
     },
     "banknifty": {
-      "price": 57157.75,
-      "change": -340.05,
-      "pct": -0.5914,
+      "price": 57239.75,
+      "change": -258.05,
+      "pct": -0.4488,
       "closes": [
-        57102.75,
-        57103.8984375,
-        57096.55078125,
         57086.05078125,
         57084.25,
         57065.1484375,
@@ -203,19 +200,19 @@
         57206.1484375,
         57179.3515625,
         57156.8984375,
-        57157.75
+        57157.75,
+        57157.75,
+        57239.75,
+        57239.75
       ],
       "ok": true,
-      "updated_at": "2026-08-19T09:45:36.257516+00:00"
+      "updated_at": "2026-08-19T10:14:35.943679+00:00"
     },
     "vix": {
-      "price": 11.368,
-      "change": 0.038,
-      "pct": 0.3354,
+      "price": 11.323,
+      "change": -0.007,
+      "pct": -0.0618,
       "closes": [
-        11.482500076293945,
-        11.479999542236328,
-        11.512499809265137,
         11.5600004196167,
         11.529999732971191,
         11.532500267028809,
@@ -272,20 +269,19 @@
         11.319999694824219,
         11.34749984741211,
         11.367500305175781,
-        11.367500305175781
+        11.319999694824219,
+        11.295000076293945,
+        11.3100004196167,
+        11.322500228881836
       ],
       "ok": true,
-      "updated_at": "2026-08-19T09:45:36.316670+00:00"
+      "updated_at": "2026-08-19T10:14:36.115008+00:00"
     },
     "usdinr": {
-      "price": 95.755,
-      "change": 0.085,
-      "pct": 0.0888,
+      "price": 95.743,
+      "change": 0.073,
+      "pct": 0.0763,
       "closes": [
-        95.7300033569336,
-        95.72000122070312,
-        95.73750305175781,
-        95.73750305175781,
         95.73249816894531,
         95.7229995727539,
         95.7249984741211,
@@ -341,21 +337,20 @@
         95.75749969482422,
         95.74500274658203,
         95.75499725341797,
-        95.75499725341797
+        95.75499725341797,
+        95.75499725341797,
+        95.74500274658203,
+        95.74299621582031,
+        95.74299621582031
       ],
       "ok": true,
-      "updated_at": "2026-08-19T09:45:36.385070+00:00"
+      "updated_at": "2026-08-19T10:14:36.298996+00:00"
     },
     "gold": {
-      "price": 4411.1,
-      "change": -9.5,
-      "pct": -0.2149,
+      "price": 4414.4,
+      "change": -6.2,
+      "pct": -0.1403,
       "closes": [
-        4400.0,
-        4398.2998046875,
-        4401.7998046875,
-        4401.0,
-        4396.0,
         4392.2001953125,
         4391.2998046875,
         4395.2001953125,
@@ -410,21 +405,21 @@
         4410.60009765625,
         4411.10009765625,
         4411.10009765625,
-        4411.10009765625
+        4413.2998046875,
+        4415.10009765625,
+        4414.5,
+        4416.39990234375,
+        4414.7998046875,
+        4414.39990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-19T09:45:36.480235+00:00"
+      "updated_at": "2026-08-19T10:14:36.441760+00:00"
     },
     "crude": {
-      "price": 84.69,
-      "change": 0.63,
-      "pct": 0.7495,
+      "price": 85.0,
+      "change": 0.94,
+      "pct": 1.1182,
       "closes": [
-        84.68000030517578,
-        84.69000244140625,
-        84.61000061035156,
-        84.58999633789062,
-        84.56999969482422,
         84.56999969482422,
         84.56999969482422,
         84.62999725341797,
@@ -479,10 +474,15 @@
         84.91000366210938,
         84.69000244140625,
         84.87999725341797,
-        84.69000244140625
+        85.0199966430664,
+        84.73999786376953,
+        85.04000091552734,
+        85.0199966430664,
+        84.94999694824219,
+        85.0
       ],
       "ok": true,
-      "updated_at": "2026-08-19T09:45:36.578403+00:00"
+      "updated_at": "2026-08-19T10:14:36.591032+00:00"
     },
     "us10y": {
       "price": 4.706,
@@ -551,13 +551,13 @@
         4.706000328063965
       ],
       "ok": true,
-      "updated_at": "2026-08-19T09:45:36.646797+00:00"
+      "updated_at": "2026-08-19T10:14:36.738654+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-19T09:45:36.702524+00:00",
+      "updated_at": "2026-08-19T10:14:37.032571+00:00",
       "items": [
         {
           "title": "IGL, MGL, Adani Total Gas shares rally up to 6% as govt boosts domestic PNG push",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-19T09:45:36.762511+00:00",
+      "updated_at": "2026-08-19T10:14:37.285709+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-19T09:45:36.847760+00:00",
+      "updated_at": "2026-08-19T10:14:37.916414+00:00",
       "items": [
+        {
+          "title": "Investors ditch semiconductor bets as AI bubble fears rise: Where’s the money moving now? BofA survey reveals",
+          "link": "https://www.livemint.com/market/stock-market-news/investors-ditch-semiconductor-bets-as-ai-bubble-fears-rise-where-s-the-money-moving-now-bofa-survey-reveals-11787131735269.html",
+          "pubDate": "2026-08-19T15:42:26+05:30"
+        },
+        {
+          "title": "Nifty 50 falls for 7th straight session, longest losing streak since Sept 2025; what keeps stock market under pressure?",
+          "link": "https://www.livemint.com/market/stock-market-news/nifty-50-falls-for-7th-straight-session-longest-since-september-2025-what-keeps-stock-market-sensex-under-pressure-11787133417369.html",
+          "pubDate": "2026-08-19T15:33:09+05:30"
+        },
         {
           "title": "Stock to buy for long-term: Angel One sees 39% upside in this Gujarat-based pharma stock. Should you buy?",
           "link": "https://www.livemint.com/market/stock-market-news/stock-to-buy-for-long-term-angel-one-sees-39-upside-in-this-gujarat-based-pharma-stock-lincoln-pharma-should-you-buy-11787127425509.html",
@@ -935,23 +945,28 @@
           "title": "Four multibagger stocks with up to 525% returns: What lies ahead?",
           "link": "https://www.livemint.com/market/stock-market-news/multibagger-stocks-2026-multibagger-stocks-best-multibagger-stocks-multibagger-stocks-india-11787048317940.html",
           "pubDate": "2026-08-19T09:00:27+05:30"
-        },
-        {
-          "title": "SHANTI puts private nuclear power in play. Are investors getting ahead of the story?",
-          "link": "https://www.livemint.com/market/stock-market-news/india-nuclear-stocks-shanti-act-rules-2026-ntpc-adani-power-tata-power-bhel-11787072087006.html",
-          "pubDate": "2026-08-19T08:59:48+05:30"
-        },
-        {
-          "title": "HY Tech Engineers IPO price band fixed at  ₹50- ₹53 per share. Here's date, size, &amp; other key details",
-          "link": "https://www.livemint.com/market/ipo/hy-tech-engineers-ipo-price-band-fixed-at-50-53-per-share-heres-date-size-other-key-details-11787108080579.html",
-          "pubDate": "2026-08-19T08:48:50+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-19T09:45:36.930040+00:00",
+      "updated_at": "2026-08-19T10:14:38.089729+00:00",
       "items": [
+        {
+          "title": "Kalyani receives nod for private freight terminal project at Shivlakha, Gujarat",
+          "link": "https://www.business-standard.com/markets/capital-market-news/kalyani-receives-nod-for-private-freight-terminal-project-at-shivlakha-gujarat-126081900777_1.html",
+          "pubDate": "2026-08-19T15:31:29+05:30"
+        },
+        {
+          "title": "Indegene's US arm settles TCPA class-action litigation for $4.72 million",
+          "link": "https://www.business-standard.com/markets/capital-market-news/indegene-s-us-arm-settles-tcpa-class-action-litigation-for-4-72-million-126081900751_1.html",
+          "pubDate": "2026-08-19T15:16:09+05:30"
+        },
+        {
+          "title": "AMC stocks ICICI Prudential, NAM India surge up to 5% in weak market",
+          "link": "https://www.business-standard.com/markets/news/amc-stocks-icici-prudential-nam-india-surge-up-to-5-in-weak-market-126081900708_1.html",
+          "pubDate": "2026-08-19T15:10:26+05:30"
+        },
         {
           "title": "Pound near three month high, GBP/INR approaches 130 mark",
           "link": "https://www.business-standard.com/markets/capital-market-news/pound-near-three-month-high-gbp-inr-approaches-130-mark-126081900732_1.html",
@@ -1050,7 +1065,7 @@
         {
           "title": "Q1FY27 earnings strong; manufacturing emerges as top bet: Sachin Bajaj",
           "link": "https://www.business-standard.com/markets/interviews/q1fy27-earnings-strong-manufacturing-emerges-as-top-bet-sachin-bajaj-126081900652_1.html",
-          "pubDate": "2026-08-19T14:36:46+05:30"
+          "pubDate": "2026-08-19T14:36:12+05:30"
         },
         {
           "title": "India to enter blue bond market: What are they and who is issuing them?",
@@ -1086,27 +1101,12 @@
           "title": "India replaces Indonesia as Asia's least-preferred stock market: BofA poll",
           "link": "https://www.business-standard.com/markets/news/india-replaces-indonesia-as-asia-s-least-preferred-stock-market-bofa-poll-126081900560_1.html",
           "pubDate": "2026-08-19T13:37:32+05:30"
-        },
-        {
-          "title": "Sebi reviewing small-company IPO, delisting rules: Chairman Tuhin Kanta",
-          "link": "https://www.business-standard.com/markets/news/sebi-reviewing-small-company-ipo-delisting-rules-chairman-tuhin-kanta-126081900490_1.html",
-          "pubDate": "2026-08-19T13:25:23+05:30"
-        },
-        {
-          "title": "ITI rises as 44-acre Bengaluru land parcel put up for Rs 1,685 crore e-auction",
-          "link": "https://www.business-standard.com/markets/capital-market-news/iti-rises-as-44-acre-bengaluru-land-parcel-put-up-for-rs-1-685-crore-e-auction-126081900539_1.html",
-          "pubDate": "2026-08-19T13:16:15+05:30"
-        },
-        {
-          "title": "Welspun Corp Ltd soars 2.49%, rises for third straight session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/welspun-corp-ltd-soars-2-49-rises-for-third-straight-session-126081900538_1.html",
-          "pubDate": "2026-08-19T13:16:07+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-19T09:45:37.823396+00:00",
+      "updated_at": "2026-08-19T10:14:40.550473+00:00",
       "items": [
         {
           "title": "Treasury Bills: Full Auction Result",

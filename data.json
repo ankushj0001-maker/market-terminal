@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-19T05:51:59.282250+00:00",
+  "generated_at": "2026-08-19T06:20:16.740373+00:00",
   "indices": {
     "nifty50": {
-      "price": 24056.2,
-      "change": -98.7,
-      "pct": -0.4086,
+      "price": 24070.5,
+      "change": -84.4,
+      "pct": -0.3494,
       "closes": [
         24118.69921875,
         24106.05078125,
@@ -31,16 +31,21 @@
         24041.19921875,
         24048.5,
         24053.150390625,
-        24052.94921875,
-        24056.19921875
+        24052.25,
+        24054.349609375,
+        24054.25,
+        24048.099609375,
+        24052.44921875,
+        24066.900390625,
+        24070.5
       ],
       "ok": true,
-      "updated_at": "2026-08-19T05:51:56.053621+00:00"
+      "updated_at": "2026-08-19T06:20:14.862680+00:00"
     },
     "sensex": {
-      "price": 76888.34,
-      "change": -347.12,
-      "pct": -0.4494,
+      "price": 76897.42,
+      "change": -338.04,
+      "pct": -0.4377,
       "closes": [
         77135.171875,
         77092.953125,
@@ -64,16 +69,21 @@
         76939.7109375,
         76935.6796875,
         76893.6328125,
-        76890.703125,
-        76888.34375
+        76857.828125,
+        76879.8515625,
+        76887.90625,
+        76891.296875,
+        76893.0,
+        76902.359375,
+        76897.421875
       ],
       "ok": true,
-      "updated_at": "2026-08-19T05:51:56.108511+00:00"
+      "updated_at": "2026-08-19T06:20:14.910623+00:00"
     },
     "banknifty": {
-      "price": 57079.7,
-      "change": -182.7,
-      "pct": -0.3191,
+      "price": 57138.35,
+      "change": -124.05,
+      "pct": -0.2166,
       "closes": [
         57154.3984375,
         57122.5,
@@ -100,16 +110,21 @@
         57043.30078125,
         57049.8984375,
         57065.30078125,
-        57064.69921875,
-        57079.69921875
+        57051.30078125,
+        57044.19921875,
+        57070.80078125,
+        57060.3515625,
+        57064.44921875,
+        57128.0,
+        57138.3515625
       ],
       "ok": true,
-      "updated_at": "2026-08-19T05:51:56.144406+00:00"
+      "updated_at": "2026-08-19T06:20:14.961315+00:00"
     },
     "vix": {
-      "price": 11.515,
-      "change": 0.1275,
-      "pct": 1.1196,
+      "price": 11.4725,
+      "change": 0.085,
+      "pct": 0.7464,
       "closes": [
         11.512499809265137,
         11.512499809265137,
@@ -137,15 +152,20 @@
         11.507499694824219,
         11.517499923706055,
         11.512499809265137,
-        11.515000343322754
+        11.515000343322754,
+        11.505000114440918,
+        11.507499694824219,
+        11.494999885559082,
+        11.479999542236328,
+        11.47249984741211
       ],
       "ok": true,
-      "updated_at": "2026-08-19T05:51:56.189446+00:00"
+      "updated_at": "2026-08-19T06:20:15.008732+00:00"
     },
     "usdinr": {
-      "price": 95.723,
-      "change": 0.053,
-      "pct": 0.0554,
+      "price": 95.74,
+      "change": 0.07,
+      "pct": 0.0732,
       "closes": [
         95.66999816894531,
         95.66999816894531,
@@ -180,16 +200,21 @@
         95.72000122070312,
         95.72000122070312,
         95.72750091552734,
-        95.72000122070312,
-        95.7229995727539
+        95.73750305175781,
+        95.7300033569336,
+        95.73500061035156,
+        95.73750305175781,
+        95.7300033569336,
+        95.73999786376953,
+        95.73999786376953
       ],
       "ok": true,
-      "updated_at": "2026-08-19T05:51:56.226902+00:00"
+      "updated_at": "2026-08-19T06:20:15.056835+00:00"
     },
     "gold": {
-      "price": 4395.0,
-      "change": -25.6,
-      "pct": -0.5791,
+      "price": 4393.3,
+      "change": -27.3,
+      "pct": -0.6176,
       "closes": [
         4407.60009765625,
         4408.10009765625,
@@ -212,15 +237,21 @@
         4391.7998046875,
         4396.39990234375,
         4395.7998046875,
-        4395.0
+        4390.39990234375,
+        4388.89990234375,
+        4389.0,
+        4390.89990234375,
+        4392.2998046875,
+        4390.7998046875,
+        4393.2998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-19T05:51:56.263287+00:00"
+      "updated_at": "2026-08-19T06:20:15.104003+00:00"
     },
     "crude": {
-      "price": 84.71,
-      "change": 0.65,
-      "pct": 0.7733,
+      "price": 84.88,
+      "change": 0.82,
+      "pct": 0.9755,
       "closes": [
         84.73999786376953,
         84.81999969482422,
@@ -243,10 +274,16 @@
         84.62999725341797,
         84.66999816894531,
         84.73999786376953,
-        84.70999908447266
+        84.69999694824219,
+        84.69999694824219,
+        84.7699966430664,
+        85.0,
+        84.87000274658203,
+        84.76000213623047,
+        84.87999725341797
       ],
       "ok": true,
-      "updated_at": "2026-08-19T05:51:56.300578+00:00"
+      "updated_at": "2026-08-19T06:20:15.149566+00:00"
     },
     "us10y": {
       "price": 4.706,
@@ -315,14 +352,34 @@
         4.706000328063965
       ],
       "ok": true,
-      "updated_at": "2026-08-19T05:51:56.351928+00:00"
+      "updated_at": "2026-08-19T06:20:15.202477+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-19T05:51:56.412245+00:00",
+      "updated_at": "2026-08-19T06:20:15.258261+00:00",
       "items": [
+        {
+          "title": "L&amp;T Technology Services shares jump 3% after bagging $75 million deal",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/lt-technology-services-shares-jump-3-after-bagging-75-million-deal/articleshow/133338513.cms",
+          "pubDate": "2026-08-19T11:11:43+05:30"
+        },
+        {
+          "title": "Vijay Kedia buys Rs 33 crore stake in Zaggle Prepaid Ocean Services via bulk deal, stock skyrockets 17%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-buys-rs-33-crore-stake-in-zaggle-prepaid-ocean-services-via-bulk-deal-stock-skyrockets-17/articleshow/133338421.cms",
+          "pubDate": "2026-08-19T11:09:48+05:30"
+        },
+        {
+          "title": "Milky Mist shares hit another 10% upper circuit, rallying 43% from IPO price. Should you buy, sell or hold?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-shares-hit-another-10-upper-circuit-rallying-43-from-ipo-price-should-you-buy-sell-or-hold/articleshow/133338174.cms",
+          "pubDate": "2026-08-19T10:48:20+05:30"
+        },
+        {
+          "title": "RailTel Corporation shares rally 5% after bagging Rs 166.8 crore EPFO order",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/railtel-corporation-shares-rally-5-after-bagging-rs-166-8-crore-epfo-order/articleshow/133337593.cms",
+          "pubDate": "2026-08-19T10:12:40+05:30"
+        },
         {
           "title": "Symbiotec Pharmalab sets price band for Rs 1,757 crore IPO, to open on August 24",
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/symbiotec-pharmalab-sets-price-band-for-rs-1757-crore-ipo-to-open-on-august-24/articleshow/133336512.cms",
@@ -332,26 +389,6 @@
           "title": "Gaja Alternative Asset Management IPO opens today: GMP at 19% — Should You Subscribe?",
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/gaja-alternative-asset-management-ipo-opens-today-gmp-at-19-should-you-subscribe/articleshow/133335323.cms",
           "pubDate": "2026-08-19T07:43:13+05:30"
-        },
-        {
-          "title": "Gold inches higher, focus on Fed minutes",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-higher-focus-on-fed-minutes/articleshow/133335242.cms",
-          "pubDate": "2026-08-19T07:29:17+05:30"
-        },
-        {
-          "title": "Can Gaja Alternative Asset Management IPO deliver long-term growth for high-risk investors?",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/returns-speak-a-lot-for-gaja-alternative-asset-management-as-funding-stays-a-risky-bet/articleshow/133334804.cms",
-          "pubDate": "2026-08-19T06:35:13+05:30"
-        },
-        {
-          "title": "Nifty falls for sixth straight session; oil surge, CAS volatility rattle markets",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-indian-markets-continue-their-six-day-losing-streak-as-oil-prices-and-geopolitical-tensions-rise/articleshow/133334664.cms",
-          "pubDate": "2026-08-19T06:12:37+05:30"
-        },
-        {
-          "title": "Strong IPO gains stoke FOMO fears, set grey market abuzz",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/strong-ipo-gains-fuel-fomo-as-grey-market-heats-up/articleshow/133334554.cms",
-          "pubDate": "2026-08-19T05:40:27+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -476,7 +513,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-19T05:51:56.637830+00:00",
       "items": [
         {
@@ -558,8 +595,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-19T05:51:56.707392+00:00",
+      "updated_at": "2026-08-19T06:20:15.774598+00:00",
       "items": [
+        {
+          "title": "IGL, MGL to Adani Total Gas: City gas distributor stocks rise up to 4%; here's why",
+          "link": "https://www.livemint.com/market/stock-market-news/igl-mgl-to-adani-total-gas-city-gas-distributor-stocks-rise-up-to-4-heres-why-11787117125898.html",
+          "pubDate": "2026-08-19T11:43:58+05:30"
+        },
+        {
+          "title": "Shankesh Jewellers IPO day 2: Issue sees decent buying, GMP signals modest listing gains; should you apply?",
+          "link": "https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-day-2-issue-sees-decent-buying-gmp-signals-modest-listing-gains-should-you-apply-11787116812914.html",
+          "pubDate": "2026-08-19T11:40:22+05:30"
+        },
         {
           "title": "Sunshine Pictures IPO day 2 LIVE: GMP, subscription status to review. Should you apply for Vipul Shah's company shares?",
           "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-2-live-gmp-subscription-status-to-review-should-you-apply-for-vipul-shahs-company-shares-11787112130407.html",
@@ -699,23 +746,43 @@
           "title": "Atlanta Electricals secures  ₹194 crore order for 12 high-capacity transformers",
           "link": "https://www.livemint.com/market/stock-market-news/atlanta-electricals-secures-rs-194-crore-order-for-12-high-capacity-transformers-11787068277430.html",
           "pubDate": "2026-08-18T21:49:18+05:30"
-        },
-        {
-          "title": "Hindustan Copper shares rebound 20% in 15 sessions. What’s driving the rally?",
-          "link": "https://www.livemint.com/market/stock-market-news/hindustan-copper-shares-rebound-20-in-15-sessions-what-s-driving-the-rally-11787063093871.html",
-          "pubDate": "2026-08-18T20:05:20+05:30"
-        },
-        {
-          "title": "US stock market today: S&amp;P 500, Nasdaq futures down up to 1% amid surging oil and bond yields",
-          "link": "https://www.livemint.com/market/us-stock-market-today-s-p-500-nasdaq-futures-down-up-to-1-amid-surging-oil-and-bond-yields-11787054644462.html",
-          "pubDate": "2026-08-18T18:36:19+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-19T05:51:56.935780+00:00",
+      "updated_at": "2026-08-19T06:20:15.802953+00:00",
       "items": [
+        {
+          "title": "Regional Rural Banks record strong growth in credit delivery in 2025-26, says Ministry of Finance",
+          "link": "https://www.business-standard.com/markets/capital-market-news/regional-rural-banks-record-strong-growth-in-credit-delivery-in-2025-26-says-ministry-of-finance-126081900381_1.html",
+          "pubDate": "2026-08-19T11:32:56+05:30"
+        },
+        {
+          "title": "Gas stocks rally as govt unveils incentive scheme for domestic PNG connections",
+          "link": "https://www.business-standard.com/markets/capital-market-news/gas-stocks-rally-as-govt-unveils-incentive-scheme-for-domestic-png-connections-126081900380_1.html",
+          "pubDate": "2026-08-19T11:32:47+05:30"
+        },
+        {
+          "title": "Gold falls ₹362 on MCX, silver drops ₹2,418 as global yields rise",
+          "link": "https://www.business-standard.com/markets/commodities/gold-falls-362-on-mcx-silver-drops-2-418-as-global-yields-rise-126081900370_1.html",
+          "pubDate": "2026-08-19T11:18:09+05:30"
+        },
+        {
+          "title": "Krystal Integrated gains after securing Rs 134-cr order from MSRTC",
+          "link": "https://www.business-standard.com/markets/capital-market-news/krystal-integrated-gains-after-securing-rs-134-cr-order-from-msrtc-126081900368_1.html",
+          "pubDate": "2026-08-19T11:16:19+05:30"
+        },
+        {
+          "title": "Volumes spurt at Aster DM Quality Care Ltd counter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/volumes-spurt-at-aster-dm-quality-care-ltd-counter-126081900367_1.html",
+          "pubDate": "2026-08-19T11:16:09+05:30"
+        },
+        {
+          "title": "Wall Street Retreats as AI Stocks Slip and Treasury Yields Remain Elevated",
+          "link": "https://www.business-standard.com/markets/capital-market-news/wall-street-retreats-as-ai-stocks-slip-and-treasury-yields-remain-elevated-126081900365_1.html",
+          "pubDate": "2026-08-19T11:16:02+05:30"
+        },
         {
           "title": "LTTS secures $75 million contract for providing engineering intelligence to global technology major",
           "link": "https://www.business-standard.com/markets/capital-market-news/ltts-secures-75-million-contract-for-providing-engineering-intelligence-to-global-technology-major-126081900356_1.html",
@@ -835,42 +902,12 @@
           "title": "Gaja Capital IPO opens: Analysts rate it a long-term play; GMP at 18%",
           "link": "https://www.business-standard.com/markets/ipo/gaja-alternative-asset-management-ipo-analysts-rate-it-a-long-term-play-gmp-at-18-126081900223_1.html",
           "pubDate": "2026-08-19T09:45:15+05:30"
-        },
-        {
-          "title": "Jubilant Ingrevia board OKs acquisition of 40% stake in deep-tech company Zettaone",
-          "link": "https://www.business-standard.com/markets/capital-market-news/jubilant-ingrevia-board-oks-acquisition-of-40-stake-in-deep-tech-company-zettaone-126081900208_1.html",
-          "pubDate": "2026-08-19T09:31:35+05:30"
-        },
-        {
-          "title": "LTTS inks 5-year EI deal valued at $75 million",
-          "link": "https://www.business-standard.com/markets/capital-market-news/ltts-inks-5-year-ei-deal-valued-at-75-million-126081900185_1.html",
-          "pubDate": "2026-08-19T09:16:02+05:30"
-        },
-        {
-          "title": "Annapurna Swadisht consolidated net profit rises 50.00% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/annapurna-swadisht-consolidated-net-profit-rises-50-00-in-the-june-2026-quarter-126081900179_1.html",
-          "pubDate": "2026-08-19T09:08:59+05:30"
-        },
-        {
-          "title": "Prabhat Technologies (India) reports consolidated net loss of Rs 2.25 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/prabhat-technologies-india-reports-consolidated-net-loss-of-rs-2-25-crore-in-the-june-2026-quarter-126081900178_1.html",
-          "pubDate": "2026-08-19T09:08:51+05:30"
-        },
-        {
-          "title": "TV Vision reports consolidated net loss of Rs 3.64 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/tv-vision-reports-consolidated-net-loss-of-rs-3-64-crore-in-the-june-2026-quarter-126081900177_1.html",
-          "pubDate": "2026-08-19T09:08:44+05:30"
-        },
-        {
-          "title": "Radico Khaitan Finance reports consolidated net loss of Rs 3.13 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/radico-khaitan-finance-reports-consolidated-net-loss-of-rs-3-13-crore-in-the-june-2026-quarter-126081900176_1.html",
-          "pubDate": "2026-08-19T09:08:36+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-19T05:51:59.282234+00:00",
+      "updated_at": "2026-08-19T06:20:16.740358+00:00",
       "items": [
         {
           "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on August 19, 2026",

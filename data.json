@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T23:10:45.662591+00:00",
+  "generated_at": "2026-08-19T23:33:30.884635+00:00",
   "indices": {
     "nifty50": {
       "price": 24078.3,
@@ -68,7 +68,7 @@
         24078.30078125
       ],
       "ok": true,
-      "updated_at": "2026-08-19T23:10:43.978687+00:00"
+      "updated_at": "2026-08-19T23:33:25.413652+00:00"
     },
     "sensex": {
       "price": 76909.68,
@@ -137,7 +137,7 @@
         76909.6796875
       ],
       "ok": true,
-      "updated_at": "2026-08-19T23:10:44.038161+00:00"
+      "updated_at": "2026-08-19T23:33:25.632947+00:00"
     },
     "banknifty": {
       "price": 57239.75,
@@ -184,8 +184,8 @@
         57102.05078125,
         57092.80078125,
         57086.25,
-        57116.0,
-        57168.75,
+        57116.55078125,
+        57170.0,
         57163.80078125,
         57139.8515625,
         57129.1484375,
@@ -206,7 +206,7 @@
         57239.75
       ],
       "ok": true,
-      "updated_at": "2026-08-19T23:10:44.087151+00:00"
+      "updated_at": "2026-08-19T23:33:25.864911+00:00"
     },
     "vix": {
       "price": 11.323,
@@ -275,25 +275,21 @@
         11.322500228881836
       ],
       "ok": true,
-      "updated_at": "2026-08-19T23:10:44.140919+00:00"
+      "updated_at": "2026-08-19T23:33:26.088097+00:00"
     },
     "usdinr": {
       "price": 95.743,
-      "change": 0.073,
-      "pct": 0.0763,
+      "change": 0.0,
+      "pct": 0.0,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-19T23:10:44.192603+00:00"
+      "updated_at": "2026-08-19T23:33:26.375546+00:00"
     },
     "gold": {
-      "price": 4576.3,
-      "change": 31.0,
-      "pct": 0.682,
+      "price": 4576.4,
+      "change": 31.1,
+      "pct": 0.6842,
       "closes": [
-        4550.10009765625,
-        4546.7998046875,
-        4547.2998046875,
-        4545.60009765625,
         4545.89990234375,
         4546.0,
         4546.60009765625,
@@ -349,20 +345,20 @@
         4576.7001953125,
         4575.89990234375,
         4578.5,
-        4576.2998046875
+        4579.39990234375,
+        4577.0,
+        4577.5,
+        4576.2998046875,
+        4576.39990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-19T23:10:44.254945+00:00"
+      "updated_at": "2026-08-19T23:33:26.658910+00:00"
     },
     "crude": {
-      "price": 84.6,
-      "change": 0.21,
-      "pct": 0.2488,
+      "price": 84.51,
+      "change": 0.12,
+      "pct": 0.1422,
       "closes": [
-        85.5999984741211,
-        85.54000091552734,
-        85.41000366210938,
-        85.36000061035156,
         85.25,
         85.20999908447266,
         85.04000091552734,
@@ -418,10 +414,14 @@
         84.2699966430664,
         84.4800033569336,
         84.41999816894531,
-        84.5999984741211
+        84.45999908447266,
+        84.54000091552734,
+        84.56999969482422,
+        84.55000305175781,
+        84.51000213623047
       ],
       "ok": true,
-      "updated_at": "2026-08-19T23:10:44.342845+00:00"
+      "updated_at": "2026-08-19T23:33:26.953532+00:00"
     },
     "us10y": {
       "price": 4.653,
@@ -490,13 +490,13 @@
         4.6529998779296875
       ],
       "ok": true,
-      "updated_at": "2026-08-19T23:10:44.381707+00:00"
+      "updated_at": "2026-08-19T23:33:27.175940+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-19T23:10:44.584014+00:00",
+      "updated_at": "2026-08-19T23:33:27.852148+00:00",
       "items": [
         {
           "title": "US stocks: US market rises as yields ease, Moderna lifts healthcare stocks",
@@ -733,8 +733,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-19T23:10:44.730583+00:00",
+      "updated_at": "2026-08-19T23:33:28.521179+00:00",
       "items": [
+        {
+          "title": "Oil Holds Four-Day Gain With Iran Stalemate and Hormuz in Focus",
+          "link": "https://www.livemint.com/market/oil-holds-four-day-gain-with-iran-stalemate-and-hormuz-in-focus-11787181261190.html",
+          "pubDate": "2026-08-20T04:44:20+05:30"
+        },
+        {
+          "title": "Bessent Boosts Debt Buybacks After Yields Hit Multi-Decade Highs",
+          "link": "https://www.livemint.com/market/bessent-boosts-debt-buybacks-after-yields-hit-multi-decade-highs-11787180955196.html",
+          "pubDate": "2026-08-20T04:39:14+05:30"
+        },
         {
           "title": "Moderna’s 177% Surge Burns Shorts in ‘Painful’ $5.5 Billion Loss",
           "link": "https://www.livemint.com/market/modernas-177-surge-burns-shorts-in-painful-5-5-billion-loss-11787175519880.html",
@@ -874,22 +884,12 @@
           "title": "Boost in the offing — Sebi may ease SME trading, market-making rules as costs, liquidity under scrutiny",
           "link": "https://www.livemint.com/market/stock-market-news/sebi-may-ease-sme-trading-market-making-rules-as-costs-and-liquidity-under-scrutiny-11787123510521.html",
           "pubDate": "2026-08-19T13:39:24+05:30"
-        },
-        {
-          "title": "Penny stock under  ₹5 hits upper circuit for 10 day in a row",
-          "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-5-nhc-foods-hits-upper-circuit-for-10-day-in-a-row-11787124431237.html",
-          "pubDate": "2026-08-19T13:33:11+05:30"
-        },
-        {
-          "title": "Multibagger stock India Glycols drops 3% after 4 days of gains; should you buy the stock as it readies for a demerger?",
-          "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-india-glycols-drops-3-after-4-days-of-gains-should-you-buy-the-stock-as-it-readies-for-a-demerger-11787123636843.html",
-          "pubDate": "2026-08-19T13:28:28+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-19T23:10:44.963328+00:00",
+      "updated_at": "2026-08-19T23:33:29.863510+00:00",
       "items": [
         {
           "title": "Govt bond yields seen opening higher after hawkish RBI MPC minutes",
@@ -1045,7 +1045,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-19T23:10:45.662573+00:00",
+      "updated_at": "2026-08-19T23:33:30.884619+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 20, 2026",

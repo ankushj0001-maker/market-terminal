@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T11:36:37.317428+00:00",
+  "generated_at": "2026-08-19T11:57:08.219591+00:00",
   "indices": {
     "nifty50": {
       "price": 24078.3,
@@ -10,7 +10,7 @@
         24058.400390625,
         24053.099609375,
         24061.30078125,
-        24055.900390625,
+        24056.099609375,
         24047.94921875,
         24041.19921875,
         24048.5,
@@ -18,7 +18,7 @@
         24052.25,
         24054.349609375,
         24054.25,
-        24047.599609375,
+        24048.099609375,
         24052.44921875,
         24066.900390625,
         24079.900390625,
@@ -68,7 +68,7 @@
         24078.30078125
       ],
       "ok": true,
-      "updated_at": "2026-08-19T11:36:35.244449+00:00"
+      "updated_at": "2026-08-19T11:57:06.567495+00:00"
     },
     "sensex": {
       "price": 76909.68,
@@ -137,7 +137,7 @@
         76909.6796875
       ],
       "ok": true,
-      "updated_at": "2026-08-19T11:36:35.308789+00:00"
+      "updated_at": "2026-08-19T11:57:06.620588+00:00"
     },
     "banknifty": {
       "price": 57239.75,
@@ -184,8 +184,8 @@
         57102.05078125,
         57092.80078125,
         57086.25,
-        57116.55078125,
-        57170.0,
+        57116.0,
+        57168.75,
         57163.80078125,
         57139.8515625,
         57129.1484375,
@@ -206,7 +206,7 @@
         57239.75
       ],
       "ok": true,
-      "updated_at": "2026-08-19T11:36:35.360364+00:00"
+      "updated_at": "2026-08-19T11:57:06.662958+00:00"
     },
     "vix": {
       "price": 11.323,
@@ -275,7 +275,7 @@
         11.322500228881836
       ],
       "ok": true,
-      "updated_at": "2026-08-19T11:36:35.416298+00:00"
+      "updated_at": "2026-08-19T11:57:06.697156+00:00"
     },
     "usdinr": {
       "price": 95.743,
@@ -344,28 +344,24 @@
         95.74299621582031
       ],
       "ok": true,
-      "updated_at": "2026-08-19T11:36:35.482279+00:00"
+      "updated_at": "2026-08-19T11:57:06.735857+00:00"
     },
     "gold": {
-      "price": 4426.8,
-      "change": 6.2,
-      "pct": 0.1403,
+      "price": 4420.3,
+      "change": -0.3,
+      "pct": -0.0068,
       "closes": [
-        4397.5,
-        4395.39990234375,
-        4397.5,
-        4401.60009765625,
-        4402.89990234375,
-        4402.10009765625,
+        4402.7998046875,
+        4401.7001953125,
         4406.60009765625,
         4404.2998046875,
-        4404.39990234375,
+        4404.2998046875,
         4407.89990234375,
         4410.5,
-        4413.2998046875,
+        4413.5,
         4411.7001953125,
         4408.2001953125,
-        4409.89990234375,
+        4410.0,
         4409.5,
         4408.2998046875,
         4411.10009765625,
@@ -373,7 +369,7 @@
         4415.2001953125,
         4413.7001953125,
         4413.60009765625,
-        4414.39990234375,
+        4414.60009765625,
         4410.89990234375,
         4413.7001953125,
         4416.39990234375,
@@ -404,26 +400,26 @@
         4423.2998046875,
         4422.10009765625,
         4422.2001953125,
-        4425.39990234375,
+        4425.60009765625,
         4426.0,
         4428.10009765625,
         4425.39990234375,
         4425.89990234375,
         4425.7998046875,
-        4426.7998046875
+        4424.0,
+        4422.7001953125,
+        4418.39990234375,
+        4422.10009765625,
+        4420.2998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-19T11:36:35.550562+00:00"
+      "updated_at": "2026-08-19T11:57:06.779715+00:00"
     },
     "crude": {
-      "price": 84.67,
-      "change": 0.61,
-      "pct": 0.7257,
+      "price": 84.84,
+      "change": 0.78,
+      "pct": 0.9279,
       "closes": [
-        84.70999908447266,
-        84.5999984741211,
-        84.62999725341797,
-        84.62999725341797,
         84.54000091552734,
         84.72000122070312,
         84.75,
@@ -435,7 +431,7 @@
         84.38999938964844,
         84.37999725341797,
         84.54000091552734,
-        84.62999725341797,
+        84.62000274658203,
         84.69999694824219,
         84.61000061035156,
         84.5999984741211,
@@ -451,7 +447,7 @@
         84.9800033569336,
         84.91000366210938,
         85.25,
-        85.25,
+        85.26000213623047,
         85.23999786376953,
         84.98999786376953,
         84.91000366210938,
@@ -465,7 +461,7 @@
         84.91000366210938,
         85.05000305175781,
         84.98999786376953,
-        84.98999786376953,
+        84.9800033569336,
         85.13999938964844,
         85.13999938964844,
         85.13999938964844,
@@ -479,10 +475,14 @@
         84.75,
         84.68000030517578,
         84.69999694824219,
-        84.66999816894531
+        84.69000244140625,
+        84.9000015258789,
+        84.87000274658203,
+        84.7699966430664,
+        84.83999633789062
       ],
       "ok": true,
-      "updated_at": "2026-08-19T11:36:35.634378+00:00"
+      "updated_at": "2026-08-19T11:57:06.815797+00:00"
     },
     "us10y": {
       "price": 4.706,
@@ -551,13 +551,13 @@
         4.706000328063965
       ],
       "ok": true,
-      "updated_at": "2026-08-19T11:36:35.710827+00:00"
+      "updated_at": "2026-08-19T11:57:06.858691+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-19T11:36:36.036490+00:00",
+      "updated_at": "2026-08-19T11:57:06.988711+00:00",
       "items": [
         {
           "title": "Behari Lal Engineering shares rally 14% after stellar debut. What are brokerages saying?",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-19T11:36:36.122842+00:00",
+      "updated_at": "2026-08-19T11:57:07.081241+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-19T11:36:36.219632+00:00",
+      "updated_at": "2026-08-19T11:57:07.157653+00:00",
       "items": [
+        {
+          "title": "Indiabulls says the EOW status report does not mention any wrongdoing in a major loan case",
+          "link": "https://www.livemint.com/market/stock-market-news/indiabulls-says-the-eow-status-report-does-not-mention-any-wrongdoing-in-a-major-loan-case-11787139527360.html",
+          "pubDate": "2026-08-19T17:22:06+05:30"
+        },
+        {
+          "title": "Mint Explainer | Why Sebi wants to revamp its settlement framework",
+          "link": "https://www.livemint.com/market/stock-market-news/sebi-proposal-settlement-framework-markets-regulator-india-11787126318033.html",
+          "pubDate": "2026-08-19T17:05:48+05:30"
+        },
         {
           "title": "Sebi asks brokers to accept orders in first five minutes of closing auction",
           "link": "https://www.livemint.com/market/stock-market-news/sebi-stockbrokers-trade-orders-closing-auction-session-11787134054384.html",
@@ -907,7 +917,7 @@
           "pubDate": "2026-08-19T11:40:22+05:30"
         },
         {
-          "title": "Sunshine Pictures IPO day 2 LIVE: GMP, subscription status to review. Should you apply for Vipul Shah's company shares?",
+          "title": "Sunshine Pictures IPO day 2: Issue subscribed over 18 times, GMP signals 21% listing pop. Should you apply?",
           "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-2-live-gmp-subscription-status-to-review-should-you-apply-for-vipul-shahs-company-shares-11787112130407.html",
           "pubDate": "2026-08-19T10:22:40+05:30"
         },
@@ -935,23 +945,43 @@
           "title": "Horizon Industrial Parks IPO Day 3: Issue subscribed 27% so far. Check GMP, review - apply or not?",
           "link": "https://www.livemint.com/market/ipo/horizon-industrial-ipo-day-3-issue-subscribed-24-so-far-check-gmp-review-apply-or-not-11787112296810.html",
           "pubDate": "2026-08-19T09:44:13+05:30"
-        },
-        {
-          "title": "Symbiotec Pharmalab IPO: Price band set at  ₹938-988 per share; check key dates, issue details",
-          "link": "https://www.livemint.com/market/ipo/symbiotec-pharmalab-ipo-price-band-set-at-rs-938-988-per-share-check-key-dates-issue-details-11787110801357.html",
-          "pubDate": "2026-08-19T09:17:17+05:30"
-        },
-        {
-          "title": "Gold and silver price today: Rates drop on MCX as rising oil prices amid stalled US-Iran talks fuel Fed rate hike bets",
-          "link": "https://www.livemint.com/market/commodities/gold-and-silver-price-today-rates-drop-on-mcx-as-rising-oil-prices-amid-stalled-us-iran-talks-fuel-fed-rate-hike-bets-11787109899918.html",
-          "pubDate": "2026-08-19T09:09:06+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-19T11:36:36.295251+00:00",
+      "updated_at": "2026-08-19T11:57:07.304373+00:00",
       "items": [
+        {
+          "title": "Sunshine Pictures IPO subscribed 18.46 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/sunshine-pictures-ipo-subscribed-18-46-times-126081900944_1.html",
+          "pubDate": "2026-08-19T17:16:11+05:30"
+        },
+        {
+          "title": "Gaja Alternative Asset Management IPO subscribed 86%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/gaja-alternative-asset-management-ipo-subscribed-86-126081900943_1.html",
+          "pubDate": "2026-08-19T17:16:02+05:30"
+        },
+        {
+          "title": "Hyundai Motor India plans increase in prices from September 2026",
+          "link": "https://www.business-standard.com/markets/capital-market-news/hyundai-motor-india-plans-increase-in-prices-from-september-2026-126081900922_1.html",
+          "pubDate": "2026-08-19T17:04:24+05:30"
+        },
+        {
+          "title": "Onida announces settlement agreement with workers' union at Wada factory",
+          "link": "https://www.business-standard.com/markets/capital-market-news/onida-announces-settlement-agreement-with-workers-union-at-wada-factory-126081900921_1.html",
+          "pubDate": "2026-08-19T17:04:17+05:30"
+        },
+        {
+          "title": "Benchmarks extends slide as crude, geopolitical risks keep investors cautious",
+          "link": "https://www.business-standard.com/markets/capital-market-news/benchmarks-extends-slide-as-crude-geopolitical-risks-keep-investors-cautious-126081900920_1.html",
+          "pubDate": "2026-08-19T17:04:10+05:30"
+        },
+        {
+          "title": "Quick Wrap: Nifty Energy Index falls 1.18%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/quick-wrap-nifty-energy-index-falls-1-18-126081900917_1.html",
+          "pubDate": "2026-08-19T17:04:02+05:30"
+        },
         {
           "title": "Japanese shares slide as tech selloff deepens",
           "link": "https://www.business-standard.com/markets/capital-market-news/japanese-shares-slide-as-tech-selloff-deepens-126081900898_1.html",
@@ -1071,43 +1101,18 @@
           "title": "Canara Bank down for fifth straight session",
           "link": "https://www.business-standard.com/markets/capital-market-news/canara-bank-down-for-fifth-straight-session-126081900681_1.html",
           "pubDate": "2026-08-19T14:50:31+05:30"
-        },
-        {
-          "title": "Nifty trades below 24,050 mark; FMCG share extent losses for 4th day",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-below-24-050-mark-fmcg-share-extent-losses-for-4th-day-126081900680_1.html",
-          "pubDate": "2026-08-19T14:50:24+05:30"
-        },
-        {
-          "title": "Gold's next test: Can the August rally survive Jackson Hole?",
-          "link": "https://www.business-standard.com/markets/commodities/gold-price-prediction-can-the-august-rally-survive-jackson-hole-126081900649_1.html",
-          "pubDate": "2026-08-19T14:46:55+05:30"
-        },
-        {
-          "title": "Sebi to overhaul SME framework, tighten accountability for AI, ML tools",
-          "link": "https://www.business-standard.com/markets/news/sebi-sme-listing-framework-ai-accountability-tuhin-kanta-pandey-126081900674_1.html",
-          "pubDate": "2026-08-19T14:44:43+05:30"
-        },
-        {
-          "title": "How Jio-BoFA deal signals growing push to tap underserved MSME sector",
-          "link": "https://www.business-standard.com/markets/news/how-jio-bofa-deal-signals-growing-push-to-tap-underserved-msme-sector-126081900672_1.html",
-          "pubDate": "2026-08-19T14:44:14+05:30"
-        },
-        {
-          "title": "Q1FY27 earnings strong; manufacturing emerges as top bet: Sachin Bajaj",
-          "link": "https://www.business-standard.com/markets/interviews/q1fy27-earnings-strong-manufacturing-emerges-as-top-bet-sachin-bajaj-126081900652_1.html",
-          "pubDate": "2026-08-19T14:36:12+05:30"
-        },
-        {
-          "title": "India to enter blue bond market: What are they and who is issuing them?",
-          "link": "https://www.business-standard.com/markets/news/india-to-enter-blue-bond-market-what-are-they-and-who-is-issuing-them-126081900651_1.html",
-          "pubDate": "2026-08-19T14:27:54+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-19T11:36:37.317411+00:00",
+      "updated_at": "2026-08-19T11:57:08.219574+00:00",
       "items": [
+        {
+          "title": "Minutes of the Monetary Policy Committee Meeting, August 3 to 5, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63403",
+          "pubDate": "2026-08-19T17:10:00+00:00"
+        },
         {
           "title": "Treasury Bills: Full Auction Result",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63402",
@@ -1152,11 +1157,6 @@
           "title": "Result of the second Overnight Variable Rate Reverse Repo (VRRR) auction held on August 18, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63394",
           "pubDate": "2026-08-18T12:50:00+00:00"
-        },
-        {
-          "title": "RBI to conduct Second Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 18, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63393",
-          "pubDate": "2026-08-18T10:45:00+00:00"
         }
       ]
     }

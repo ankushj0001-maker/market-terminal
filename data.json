@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T15:52:18.310392+00:00",
+  "generated_at": "2026-08-19T16:15:24.087525+00:00",
   "indices": {
     "nifty50": {
       "price": 24078.3,
@@ -68,7 +68,7 @@
         24078.30078125
       ],
       "ok": true,
-      "updated_at": "2026-08-19T15:52:15.918855+00:00"
+      "updated_at": "2026-08-19T16:15:21.948824+00:00"
     },
     "sensex": {
       "price": 76909.68,
@@ -137,7 +137,7 @@
         76909.6796875
       ],
       "ok": true,
-      "updated_at": "2026-08-19T15:52:15.974138+00:00"
+      "updated_at": "2026-08-19T16:15:22.007133+00:00"
     },
     "banknifty": {
       "price": 57239.75,
@@ -206,7 +206,7 @@
         57239.75
       ],
       "ok": true,
-      "updated_at": "2026-08-19T15:52:16.021079+00:00"
+      "updated_at": "2026-08-19T16:15:22.053553+00:00"
     },
     "vix": {
       "price": 11.323,
@@ -275,7 +275,7 @@
         11.322500228881836
       ],
       "ok": true,
-      "updated_at": "2026-08-19T15:52:16.074814+00:00"
+      "updated_at": "2026-08-19T16:15:22.099422+00:00"
     },
     "usdinr": {
       "price": 95.743,
@@ -344,18 +344,13 @@
         95.74299621582031
       ],
       "ok": true,
-      "updated_at": "2026-08-19T15:52:16.158220+00:00"
+      "updated_at": "2026-08-19T16:15:22.157094+00:00"
     },
     "gold": {
-      "price": 4545.8,
-      "change": 125.2,
-      "pct": 2.8322,
+      "price": 4552.5,
+      "change": 131.9,
+      "pct": 2.9838,
       "closes": [
-        4422.10009765625,
-        4422.2001953125,
-        4425.60009765625,
-        4426.0,
-        4428.10009765625,
         4425.39990234375,
         4425.89990234375,
         4425.7998046875,
@@ -410,21 +405,21 @@
         4543.0,
         4545.5,
         4548.7001953125,
-        4545.7998046875
+        4548.89990234375,
+        4549.5,
+        4552.2001953125,
+        4551.89990234375,
+        4555.7001953125,
+        4552.5
       ],
       "ok": true,
-      "updated_at": "2026-08-19T15:52:16.212925+00:00"
+      "updated_at": "2026-08-19T16:15:22.357615+00:00"
     },
     "crude": {
-      "price": 85.28,
-      "change": 1.22,
-      "pct": 1.4513,
+      "price": 85.42,
+      "change": 1.36,
+      "pct": 1.6179,
       "closes": [
-        84.97000122070312,
-        84.91000366210938,
-        84.8499984741211,
-        84.98999786376953,
-        84.81999969482422,
         84.75,
         84.68000030517578,
         84.69999694824219,
@@ -479,15 +474,20 @@
         85.2699966430664,
         85.37999725341797,
         85.22000122070312,
-        85.27999877929688
+        85.29000091552734,
+        85.22000122070312,
+        85.2300033569336,
+        85.37999725341797,
+        85.44000244140625,
+        85.41999816894531
       ],
       "ok": true,
-      "updated_at": "2026-08-19T15:52:16.285965+00:00"
+      "updated_at": "2026-08-19T16:15:22.431395+00:00"
     },
     "us10y": {
-      "price": 4.654,
-      "change": -0.052,
-      "pct": -1.105,
+      "price": 4.653,
+      "change": -0.053,
+      "pct": -1.1262,
       "closes": [
         4.679999828338623,
         4.682000160217285,
@@ -529,21 +529,30 @@
         4.659999847412109,
         4.6570000648498535,
         4.654000282287598,
-        4.654000282287598
+        4.6529998779296875,
+        4.6529998779296875,
+        4.6529998779296875,
+        4.6529998779296875,
+        4.6529998779296875
       ],
       "ok": true,
-      "updated_at": "2026-08-19T15:52:16.334946+00:00"
+      "updated_at": "2026-08-19T16:15:22.482034+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-19T15:52:16.527457+00:00",
+      "updated_at": "2026-08-19T16:15:22.570401+00:00",
       "items": [
         {
           "title": "Moderna shares soar 135% in a day after cancer vaccine succeeds in late-stage trial",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/moderna-shares-soar-135-in-a-day-after-cancer-vaccine-succeeds-in-late-stage-trial/articleshow/133351080.cms",
           "pubDate": "2026-08-19T19:56:33+05:30"
+        },
+        {
+          "title": "US stocks: US market regains ground as bond yields ease; healthcare stocks rally",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-up-after-tech-led-slump-as-yields-ease-earnings-watched/articleshow/133350322.cms",
+          "pubDate": "2026-08-19T19:14:25+05:30"
         },
         {
           "title": "Behari Lal Engineering shares rally 14% after stellar debut. What are brokerages saying?",
@@ -559,11 +568,6 @@
           "title": "IGL, MGL, Adani Total Gas shares rally up to 6% as govt boosts domestic PNG push",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/igl-mgl-adani-total-gas-shares-rally-up-to-6-as-govt-boosts-domestic-png-push/articleshow/133339597.cms",
           "pubDate": "2026-08-19T12:01:01+05:30"
-        },
-        {
-          "title": "HG Infra Engineering shares jump over 8% after receiving LoI from REC",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hg-infra-engineering-shares-jump-over-8-after-receiving-loi-from-rec/articleshow/133338862.cms",
-          "pubDate": "2026-08-19T11:25:14+05:30"
         },
         {
           "title": "IT crash ahead? CLSA downgrades TCS, Infosys, Wipro, other stocks; revises target prices. Here's why",
@@ -775,7 +779,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-19T15:52:17.184305+00:00",
+      "updated_at": "2026-08-19T16:15:23.092389+00:00",
       "items": [
         {
           "title": "US dollar falls to lowest level since late May after Treasury doubles bond buybacks",
@@ -931,7 +935,7 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-19T15:52:17.272617+00:00",
+      "updated_at": "2026-08-19T16:15:23.120600+00:00",
       "items": [
         {
           "title": "BSE partners with MSCI to explore launch of index derivatives in India",
@@ -1087,7 +1091,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-19T15:52:18.310373+00:00",
+      "updated_at": "2026-08-19T16:15:24.087504+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 20, 2026",

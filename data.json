@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T21:36:12.105648+00:00",
+  "generated_at": "2026-08-19T21:57:08.434875+00:00",
   "indices": {
     "nifty50": {
       "price": 24078.3,
@@ -68,7 +68,7 @@
         24078.30078125
       ],
       "ok": true,
-      "updated_at": "2026-08-19T21:36:10.735017+00:00"
+      "updated_at": "2026-08-19T21:57:06.733296+00:00"
     },
     "sensex": {
       "price": 76909.68,
@@ -137,7 +137,7 @@
         76909.6796875
       ],
       "ok": true,
-      "updated_at": "2026-08-19T21:36:10.787309+00:00"
+      "updated_at": "2026-08-19T21:57:06.788481+00:00"
     },
     "banknifty": {
       "price": 57239.75,
@@ -206,7 +206,7 @@
         57239.75
       ],
       "ok": true,
-      "updated_at": "2026-08-19T21:36:10.884877+00:00"
+      "updated_at": "2026-08-19T21:57:06.844671+00:00"
     },
     "vix": {
       "price": 11.323,
@@ -275,7 +275,7 @@
         11.322500228881836
       ],
       "ok": true,
-      "updated_at": "2026-08-19T21:36:10.934183+00:00"
+      "updated_at": "2026-08-19T21:57:06.900672+00:00"
     },
     "usdinr": {
       "price": 95.743,
@@ -344,19 +344,19 @@
         95.74299621582031
       ],
       "ok": true,
-      "updated_at": "2026-08-19T21:36:10.991087+00:00"
+      "updated_at": "2026-08-19T21:57:06.961118+00:00"
     },
     "gold": {
       "price": 4580.7,
-      "change": 160.1,
-      "pct": 3.6217,
+      "change": 35.4,
+      "pct": 0.7788,
       "closes": [
         4555.7001953125,
         4555.89990234375,
-        4552.7998046875,
+        4553.0,
         4552.60009765625,
         4548.7001953125,
-        4553.60009765625,
+        4553.89990234375,
         4553.2998046875,
         4553.2998046875,
         4552.2998046875,
@@ -367,14 +367,14 @@
         4550.10009765625,
         4546.7998046875,
         4547.2998046875,
-        4545.7998046875,
+        4545.60009765625,
         4545.89990234375,
         4546.0,
         4546.60009765625,
         4546.5,
         4544.10009765625,
-        4545.0,
-        4553.7998046875,
+        4544.7001953125,
+        4553.39990234375,
         4547.10009765625,
         4546.2998046875,
         4543.2001953125,
@@ -382,22 +382,22 @@
         4533.7998046875,
         4538.60009765625,
         4542.2001953125,
-        4548.60009765625,
+        4548.7001953125,
         4549.7001953125,
         4552.7001953125,
-        4553.2998046875,
+        4552.7998046875,
         4555.10009765625,
         4563.60009765625,
         4561.60009765625,
         4562.60009765625,
         4563.2001953125,
-        4565.10009765625,
+        4565.0,
         4567.5,
         4563.7001953125,
         4564.5,
         4568.2001953125,
         4568.60009765625,
-        4568.0,
+        4568.2998046875,
         4566.7001953125,
         4567.89990234375,
         4564.5,
@@ -413,12 +413,12 @@
         4580.7001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-19T21:36:11.070108+00:00"
+      "updated_at": "2026-08-19T21:57:07.028578+00:00"
     },
     "crude": {
       "price": 84.4,
-      "change": 0.34,
-      "pct": 0.4045,
+      "change": 0.01,
+      "pct": 0.0118,
       "closes": [
         85.44000244140625,
         85.5,
@@ -482,7 +482,7 @@
         84.4000015258789
       ],
       "ok": true,
-      "updated_at": "2026-08-19T21:36:11.195110+00:00"
+      "updated_at": "2026-08-19T21:57:07.088689+00:00"
     },
     "us10y": {
       "price": 4.653,
@@ -551,13 +551,13 @@
         4.6529998779296875
       ],
       "ok": true,
-      "updated_at": "2026-08-19T21:36:11.245495+00:00"
+      "updated_at": "2026-08-19T21:57:07.154089+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-19T21:36:11.285162+00:00",
+      "updated_at": "2026-08-19T21:57:07.241080+00:00",
       "items": [
         {
           "title": "US stocks: US market rises as yields ease, Moderna lifts healthcare stocks",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-19T21:36:11.660228+00:00",
+      "updated_at": "2026-08-19T21:57:07.471813+00:00",
       "items": [
+        {
+          "title": "Moderna’s 177% Surge Burns Shorts in ‘Painful’ $5.5 Billion Loss",
+          "link": "https://www.livemint.com/market/modernas-177-surge-burns-shorts-in-painful-5-5-billion-loss-11787175519880.html",
+          "pubDate": "2026-08-20T03:08:39+05:30"
+        },
         {
           "title": "Oil Rises as Mideast Tensions Flare With UAE-Iran Spat",
           "link": "https://www.livemint.com/market/oil-rises-as-mideast-tensions-flare-with-uae-iran-spat-11787166032202.html",
@@ -940,17 +945,12 @@
           "title": "Multibagger stock India Glycols drops 3% after 4 days of gains; should you buy the stock as it readies for a demerger?",
           "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-india-glycols-drops-3-after-4-days-of-gains-should-you-buy-the-stock-as-it-readies-for-a-demerger-11787123636843.html",
           "pubDate": "2026-08-19T13:28:28+05:30"
-        },
-        {
-          "title": "NMDC faces twin challenges of weaker offtake and prices after a muted Q1",
-          "link": "https://www.livemint.com/market/mark-to-market/nmdc-share-price-stock-outlook-q1-results-iron-ore-sales-11787121576124.html",
-          "pubDate": "2026-08-19T13:15:05+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-19T21:36:11.714033+00:00",
+      "updated_at": "2026-08-19T21:57:07.603271+00:00",
       "items": [
         {
           "title": "Govt bond yields seen opening higher after hawkish RBI MPC minutes",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-19T21:36:12.105631+00:00",
+      "updated_at": "2026-08-19T21:57:08.434859+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 20, 2026",

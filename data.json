@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-19T04:57:25.186318+00:00",
+  "generated_at": "2026-08-19T05:22:01.461882+00:00",
   "indices": {
     "nifty50": {
-      "price": 24068.85,
-      "change": -86.05,
-      "pct": -0.3562,
+      "price": 24053.6,
+      "change": -101.3,
+      "pct": -0.4194,
       "closes": [
         24118.69921875,
         24106.05078125,
@@ -20,16 +20,21 @@
         24091.80078125,
         24072.69921875,
         24065.05078125,
-        24067.80078125,
-        24068.849609375
+        24065.19921875,
+        24057.44921875,
+        24051.94921875,
+        24058.400390625,
+        24053.099609375,
+        24051.150390625,
+        24053.599609375
       ],
       "ok": true,
-      "updated_at": "2026-08-19T04:57:23.156328+00:00"
+      "updated_at": "2026-08-19T05:21:58.324969+00:00"
     },
     "sensex": {
-      "price": 77031.31,
-      "change": -204.15,
-      "pct": -0.2643,
+      "price": 76923.21,
+      "change": -312.25,
+      "pct": -0.4043,
       "closes": [
         77135.171875,
         77092.953125,
@@ -42,16 +47,21 @@
         77043.3671875,
         77054.28125,
         77045.84375,
-        77041.6796875,
-        77031.3125
+        77025.7265625,
+        76969.8984375,
+        76932.7265625,
+        76935.796875,
+        76914.9765625,
+        76919.53125,
+        76923.2109375
       ],
       "ok": true,
-      "updated_at": "2026-08-19T04:57:23.223428+00:00"
+      "updated_at": "2026-08-19T05:21:58.462423+00:00"
     },
     "banknifty": {
-      "price": 57113.0,
-      "change": -149.4,
-      "pct": -0.2609,
+      "price": 57064.95,
+      "change": -197.45,
+      "pct": -0.3448,
       "closes": [
         57154.3984375,
         57122.5,
@@ -67,16 +77,21 @@
         57210.6484375,
         57147.94921875,
         57102.75,
-        57111.30078125,
-        57113.0
+        57103.8984375,
+        57096.55078125,
+        57086.05078125,
+        57084.25,
+        57065.1484375,
+        57064.30078125,
+        57064.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-19T04:57:23.289717+00:00"
+      "updated_at": "2026-08-19T05:21:58.597121+00:00"
     },
     "vix": {
-      "price": 11.4575,
-      "change": 0.07,
-      "pct": 0.6147,
+      "price": 11.5375,
+      "change": 0.15,
+      "pct": 1.3172,
       "closes": [
         11.512499809265137,
         11.512499809265137,
@@ -92,16 +107,21 @@
         11.449999809265137,
         11.470000267028809,
         11.482500076293945,
-        11.477499961853027,
-        11.457500457763672
+        11.479999542236328,
+        11.512499809265137,
+        11.5600004196167,
+        11.529999732971191,
+        11.532500267028809,
+        11.529999732971191,
+        11.537500381469727
       ],
       "ok": true,
-      "updated_at": "2026-08-19T04:57:23.325205+00:00"
+      "updated_at": "2026-08-19T05:21:58.729659+00:00"
     },
     "usdinr": {
-      "price": 95.7375,
-      "change": 0.0675,
-      "pct": 0.0706,
+      "price": 95.73,
+      "change": 0.06,
+      "pct": 0.0627,
       "closes": [
         95.66999816894531,
         95.66999816894531,
@@ -125,16 +145,21 @@
         95.73999786376953,
         95.74250030517578,
         95.7300033569336,
-        95.7249984741211,
-        95.73750305175781
+        95.72000122070312,
+        95.73750305175781,
+        95.73750305175781,
+        95.73249816894531,
+        95.7229995727539,
+        95.7300033569336,
+        95.7300033569336
       ],
       "ok": true,
-      "updated_at": "2026-08-19T04:57:23.376587+00:00"
+      "updated_at": "2026-08-19T05:21:58.866344+00:00"
     },
     "gold": {
-      "price": 4399.4,
-      "change": -21.2,
-      "pct": -0.4796,
+      "price": 4393.4,
+      "change": -27.2,
+      "pct": -0.6153,
       "closes": [
         4407.60009765625,
         4408.10009765625,
@@ -146,30 +171,40 @@
         4399.89990234375,
         4399.7998046875,
         4400.0,
-        4399.39990234375
+        4398.2998046875,
+        4401.7998046875,
+        4401.0,
+        4396.0,
+        4392.2001953125,
+        4393.39990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-19T04:57:23.440727+00:00"
+      "updated_at": "2026-08-19T05:21:59.001007+00:00"
     },
     "crude": {
-      "price": 84.69,
-      "change": 0.63,
-      "pct": 0.7495,
+      "price": 84.57,
+      "change": 0.51,
+      "pct": 0.6067,
       "closes": [
         84.73999786376953,
         84.81999969482422,
         84.80999755859375,
-        84.73999786376953,
+        84.75,
         84.66000366210938,
         84.69999694824219,
         84.68000030517578,
         84.69999694824219,
         84.68000030517578,
         84.68000030517578,
-        84.69000244140625
+        84.69000244140625,
+        84.61000061035156,
+        84.58999633789062,
+        84.56999969482422,
+        84.56999969482422,
+        84.56999969482422
       ],
       "ok": true,
-      "updated_at": "2026-08-19T04:57:23.477145+00:00"
+      "updated_at": "2026-08-19T05:21:59.133267+00:00"
     },
     "us10y": {
       "price": 4.706,
@@ -238,13 +273,13 @@
         4.706000328063965
       ],
       "ok": true,
-      "updated_at": "2026-08-19T04:57:23.549714+00:00"
+      "updated_at": "2026-08-19T05:21:59.273545+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-19T04:57:23.599907+00:00",
+      "updated_at": "2026-08-19T05:21:59.461083+00:00",
       "items": [
         {
           "title": "Symbiotec Pharmalab sets price band for Rs 1,757 crore IPO, to open on August 24",
@@ -400,7 +435,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-19T04:57:23.945431+00:00",
+      "updated_at": "2026-08-19T05:21:59.947460+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -481,7 +516,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-19T04:57:24.060706+00:00",
+      "updated_at": "2026-08-19T05:22:00.158018+00:00",
       "items": [
         {
           "title": "Sunshine Pictures IPO day 2 LIVE: GMP, subscription status to review. Should you apply for Vipul Shah's company shares?",
@@ -504,12 +539,12 @@
           "pubDate": "2026-08-19T10:01:19+05:30"
         },
         {
-          "title": "Bumper listing! Shiprocket share price lists at 35% premium over the IPO price",
+          "title": "Shiprocket IPO listing: Shares list at 35% premium over the IPO price. Details here",
           "link": "https://www.livemint.com/market/stock-market-news/bumper-listing-shiprocket-share-price-lists-at-35-premium-over-the-ipo-price-11787112874460.html",
           "pubDate": "2026-08-19T10:00:11+05:30"
         },
         {
-          "title": "Horizon Industrial IPO Day 3: Issue subscribed 24% so far. Check GMP, review - apply or not?",
+          "title": "Horizon Industrial Parks IPO Day 3: Issue subscribed 27% so far. Check GMP, review - apply or not?",
           "link": "https://www.livemint.com/market/ipo/horizon-industrial-ipo-day-3-issue-subscribed-24-so-far-check-gmp-review-apply-or-not-11787112296810.html",
           "pubDate": "2026-08-19T09:44:13+05:30"
         },
@@ -637,8 +672,28 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-19T04:57:24.154381+00:00",
+      "updated_at": "2026-08-19T05:22:00.377420+00:00",
       "items": [
+        {
+          "title": "Milky Mist share price extends post-listing gains, hits 10% upper circuit",
+          "link": "https://www.business-standard.com/markets/news/milky-mist-share-price-extends-post-listing-gains-hits-10-upper-circuit-126081900322_1.html",
+          "pubDate": "2026-08-19T10:34:25+05:30"
+        },
+        {
+          "title": "Shiprocket makes strong debut; lists at 33.51% premium",
+          "link": "https://www.business-standard.com/markets/capital-market-news/shiprocket-makes-strong-debut-lists-at-33-51-premium-126081900321_1.html",
+          "pubDate": "2026-08-19T10:32:58+05:30"
+        },
+        {
+          "title": "Behari Lal Engineering makes a solid debut on Dalal Street",
+          "link": "https://www.business-standard.com/markets/capital-market-news/behari-lal-engineering-makes-a-solid-debut-on-dalal-street-126081900320_1.html",
+          "pubDate": "2026-08-19T10:32:49+05:30"
+        },
+        {
+          "title": "NIBE Space secures order of Rs 12.14 cr from MSEDCL",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nibe-space-secures-order-of-rs-12-14-cr-from-msedcl-126081900312_1.html",
+          "pubDate": "2026-08-19T10:32:07+05:30"
+        },
         {
           "title": "Interarch Building gains after bagging Rs 128-cr contract from FMCG player",
           "link": "https://www.business-standard.com/markets/capital-market-news/interarch-building-gains-after-bagging-rs-128-cr-contract-from-fmcg-player-126081900292_1.html",
@@ -652,7 +707,7 @@
         {
           "title": "Behari Lal Engineering shares make a blockbuster debut, list at 63% premium",
           "link": "https://www.business-standard.com/markets/news/behari-lal-engineering-shares-make-a-blockbuster-debut-list-at-63-premium-126081900250_1.html",
-          "pubDate": "2026-08-19T10:05:05+05:30"
+          "pubDate": "2026-08-19T10:05:56+05:30"
         },
         {
           "title": "RailTel rises after bagging Rs 167-cr work order from EPFO",
@@ -768,32 +823,12 @@
           "title": "Amrit India reports consolidated net loss of Rs 8.64 crore in the June 2026 quarter",
           "link": "https://www.business-standard.com/markets/capital-market-news/amrit-india-reports-consolidated-net-loss-of-rs-8-64-crore-in-the-june-2026-quarter-126081900168_1.html",
           "pubDate": "2026-08-19T09:07:41+05:30"
-        },
-        {
-          "title": "Robert Resources reports consolidated net loss of Rs 0.20 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/robert-resources-reports-consolidated-net-loss-of-rs-0-20-crore-in-the-june-2026-quarter-126081900167_1.html",
-          "pubDate": "2026-08-19T09:07:32+05:30"
-        },
-        {
-          "title": "Winmore Leasing & Holdings consolidated net profit rises 43.83% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/winmore-leasing-holdings-consolidated-net-profit-rises-43-83-in-the-june-2026-quarter-126081900166_1.html",
-          "pubDate": "2026-08-19T09:07:24+05:30"
-        },
-        {
-          "title": "Partap Industries consolidated net profit rises 72.26% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/partap-industries-consolidated-net-profit-rises-72-26-in-the-june-2026-quarter-126081900165_1.html",
-          "pubDate": "2026-08-19T09:07:16+05:30"
-        },
-        {
-          "title": "Srestha Finvest reports consolidated net loss of Rs 27.43 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/srestha-finvest-reports-consolidated-net-loss-of-rs-27-43-crore-in-the-june-2026-quarter-126081900164_1.html",
-          "pubDate": "2026-08-19T09:07:08+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-19T04:57:25.186301+00:00",
+      "updated_at": "2026-08-19T05:22:01.461865+00:00",
       "items": [
         {
           "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on August 19, 2026",

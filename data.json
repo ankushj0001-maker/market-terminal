@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:17:48.044555+00:00",
+  "generated_at": "2026-08-19T18:58:20.788957+00:00",
   "indices": {
     "nifty50": {
       "price": 24078.3,
@@ -68,7 +68,7 @@
         24078.30078125
       ],
       "ok": true,
-      "updated_at": "2026-08-19T18:17:45.883807+00:00"
+      "updated_at": "2026-08-19T18:58:18.394017+00:00"
     },
     "sensex": {
       "price": 76909.68,
@@ -137,7 +137,7 @@
         76909.6796875
       ],
       "ok": true,
-      "updated_at": "2026-08-19T18:17:45.941652+00:00"
+      "updated_at": "2026-08-19T18:58:18.441299+00:00"
     },
     "banknifty": {
       "price": 57239.75,
@@ -206,7 +206,7 @@
         57239.75
       ],
       "ok": true,
-      "updated_at": "2026-08-19T18:17:46.040458+00:00"
+      "updated_at": "2026-08-19T18:58:18.488534+00:00"
     },
     "vix": {
       "price": 11.323,
@@ -275,15 +275,13 @@
         11.322500228881836
       ],
       "ok": true,
-      "updated_at": "2026-08-19T18:17:46.095928+00:00"
+      "updated_at": "2026-08-19T18:58:18.526252+00:00"
     },
     "usdinr": {
-      "price": 95.75,
-      "change": 0.08,
-      "pct": 0.0836,
+      "price": 95.743,
+      "change": 0.073,
+      "pct": 0.0763,
       "closes": [
-        95.7300033569336,
-        95.73500061035156,
         95.73750305175781,
         95.7300033569336,
         95.73999786376953,
@@ -341,24 +339,18 @@
         95.74299621582031,
         95.74299621582031,
         95.75,
-        95.75
+        95.74299621582031,
+        95.74299621582031,
+        95.74299621582031
       ],
       "ok": true,
-      "updated_at": "2026-08-19T18:17:46.149395+00:00"
+      "updated_at": "2026-08-19T18:58:18.586898+00:00"
     },
     "gold": {
-      "price": 4546.4,
-      "change": 125.8,
-      "pct": 2.8458,
+      "price": 4548.5,
+      "change": 127.9,
+      "pct": 2.8933,
       "closes": [
-        4517.5,
-        4517.10009765625,
-        4516.0,
-        4519.39990234375,
-        4513.39990234375,
-        4519.10009765625,
-        4507.89990234375,
-        4511.39990234375,
         4517.7998046875,
         4518.7001953125,
         4530.2001953125,
@@ -410,24 +402,24 @@
         4545.0,
         4553.7998046875,
         4547.10009765625,
-        4546.39990234375
+        4546.2998046875,
+        4543.2001953125,
+        4539.5,
+        4533.7998046875,
+        4538.60009765625,
+        4542.2001953125,
+        4548.60009765625,
+        4549.7001953125,
+        4548.5
       ],
       "ok": true,
-      "updated_at": "2026-08-19T18:17:46.201253+00:00"
+      "updated_at": "2026-08-19T18:58:18.647858+00:00"
     },
     "crude": {
-      "price": 84.99,
-      "change": 0.93,
-      "pct": 1.1064,
+      "price": 84.19,
+      "change": 0.13,
+      "pct": 0.1547,
       "closes": [
-        84.2699966430664,
-        84.44999694824219,
-        84.43000030517578,
-        84.4000015258789,
-        84.29000091552734,
-        84.43000030517578,
-        84.56999969482422,
-        84.62000274658203,
         84.54000091552734,
         84.43000030517578,
         84.62999725341797,
@@ -479,24 +471,24 @@
         85.12999725341797,
         85.08000183105469,
         84.9800033569336,
-        84.98999786376953
+        84.86000061035156,
+        84.70999908447266,
+        84.70999908447266,
+        84.2699966430664,
+        84.30999755859375,
+        84.2300033569336,
+        84.16999816894531,
+        84.20999908447266,
+        84.19000244140625
       ],
       "ok": true,
-      "updated_at": "2026-08-19T18:17:46.253221+00:00"
+      "updated_at": "2026-08-19T18:58:19.115515+00:00"
     },
     "us10y": {
-      "price": 4.66,
-      "change": -0.046,
-      "pct": -0.9775,
+      "price": 4.654,
+      "change": -0.052,
+      "pct": -1.105,
       "closes": [
-        4.640999794006348,
-        4.640999794006348,
-        4.64900016784668,
-        4.644999980926514,
-        4.64900016784668,
-        4.647000312805176,
-        4.6529998779296875,
-        4.6529998779296875,
         4.6529998779296875,
         4.64900016784668,
         4.647000312805176,
@@ -547,17 +539,25 @@
         4.670000076293945,
         4.668000221252441,
         4.671999931335449,
+        4.659999847412109,
+        4.6570000648498535,
+        4.6570000648498535,
+        4.659999847412109,
         4.661999702453613,
-        4.659999847412109
+        4.658999919891357,
+        4.6570000648498535,
+        4.654000282287598,
+        4.654000282287598,
+        4.654000282287598
       ],
       "ok": true,
-      "updated_at": "2026-08-19T18:17:46.300366+00:00"
+      "updated_at": "2026-08-19T18:58:19.180012+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-19T18:17:46.495164+00:00",
+      "updated_at": "2026-08-19T18:58:19.280053+00:00",
       "items": [
         {
           "title": "Moderna shares soar 135% in a day after cancer vaccine succeeds in late-stage trial",
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-19T18:17:46.930365+00:00",
+      "updated_at": "2026-08-19T18:58:19.702244+00:00",
       "items": [
+        {
+          "title": "Wall St rises as yields ease, Moderna lifts healthcare stocks",
+          "link": "https://www.livemint.com/market/wall-st-rises-as-yields-ease-moderna-lifts-healthcare-stocks-11787165297698.html",
+          "pubDate": "2026-08-20T00:18:17+05:30"
+        },
+        {
+          "title": "Gold surges over 3% as US Treasury announcement hurts yields, dollar",
+          "link": "https://www.livemint.com/market/gold-surges-over-3-as-us-treasury-announcement-hurts-yields-dollar-11787164505057.html",
+          "pubDate": "2026-08-20T00:05:04+05:30"
+        },
         {
           "title": "Target shares jump 6% as retailer raises full-year outlook on strong sales",
           "link": "https://www.livemint.com/market/stock-market-news/target-shares-jump-6-as-retailer-raises-full-year-outlook-on-strong-sales-11787157995874.html",
@@ -935,22 +945,12 @@
           "title": "Shalimar Paints' 20% spike days before Hella Infra share-swap disclosure risks regulatory scrutiny",
           "link": "https://www.livemint.com/market/stock-market-news/shalimar-paints-share-price-rises-20-percent-before-hella-infra-market-deal-11787112928681.html",
           "pubDate": "2026-08-19T13:01:31+05:30"
-        },
-        {
-          "title": "Brigade Enterprises: One eye on residential launches, another on annuity capex",
-          "link": "https://www.livemint.com/market/mark-to-market/brigade-enterprises-share-price-stock-outlook-fy27-residential-launches-11787117900532.html",
-          "pubDate": "2026-08-19T12:50:45+05:30"
-        },
-        {
-          "title": "Mopshop Distribution IPO Day 1: Issue booked 29% so far. Check GMP, issue details",
-          "link": "https://www.livemint.com/market/mopshop-distribution-ipo-day-1-issue-booked-29-so-far-check-gmp-issue-details-11787121388613.html",
-          "pubDate": "2026-08-19T12:28:39+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-19T18:17:47.079905+00:00",
+      "updated_at": "2026-08-19T18:58:19.862887+00:00",
       "items": [
         {
           "title": "Govt bond yields seen opening higher after hawkish RBI MPC minutes",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-19T18:17:48.044537+00:00",
+      "updated_at": "2026-08-19T18:58:20.788940+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 20, 2026",

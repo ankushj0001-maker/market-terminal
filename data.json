@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T10:45:37.887583+00:00",
+  "generated_at": "2026-08-19T11:12:21.216039+00:00",
   "indices": {
     "nifty50": {
       "price": 24078.3,
@@ -10,7 +10,7 @@
         24058.400390625,
         24053.099609375,
         24061.30078125,
-        24055.900390625,
+        24056.099609375,
         24047.94921875,
         24041.19921875,
         24048.5,
@@ -18,7 +18,7 @@
         24052.25,
         24054.349609375,
         24054.25,
-        24047.599609375,
+        24048.099609375,
         24052.44921875,
         24066.900390625,
         24079.900390625,
@@ -68,7 +68,7 @@
         24078.30078125
       ],
       "ok": true,
-      "updated_at": "2026-08-19T10:45:34.819281+00:00"
+      "updated_at": "2026-08-19T11:12:18.974511+00:00"
     },
     "sensex": {
       "price": 76909.68,
@@ -137,7 +137,7 @@
         76909.6796875
       ],
       "ok": true,
-      "updated_at": "2026-08-19T10:45:35.208754+00:00"
+      "updated_at": "2026-08-19T11:12:19.019511+00:00"
     },
     "banknifty": {
       "price": 57239.75,
@@ -184,8 +184,8 @@
         57102.05078125,
         57092.80078125,
         57086.25,
-        57116.55078125,
-        57170.0,
+        57116.0,
+        57168.75,
         57163.80078125,
         57139.8515625,
         57129.1484375,
@@ -206,7 +206,7 @@
         57239.75
       ],
       "ok": true,
-      "updated_at": "2026-08-19T10:45:35.351110+00:00"
+      "updated_at": "2026-08-19T11:12:19.070163+00:00"
     },
     "vix": {
       "price": 11.323,
@@ -275,7 +275,7 @@
         11.322500228881836
       ],
       "ok": true,
-      "updated_at": "2026-08-19T10:45:35.486475+00:00"
+      "updated_at": "2026-08-19T11:12:19.119216+00:00"
     },
     "usdinr": {
       "price": 95.743,
@@ -344,18 +344,13 @@
         95.74299621582031
       ],
       "ok": true,
-      "updated_at": "2026-08-19T10:45:35.632385+00:00"
+      "updated_at": "2026-08-19T11:12:19.520965+00:00"
     },
     "gold": {
-      "price": 4421.9,
-      "change": 1.3,
-      "pct": 0.0294,
+      "price": 4425.1,
+      "change": 4.5,
+      "pct": 0.1018,
       "closes": [
-        4390.39990234375,
-        4388.89990234375,
-        4389.0,
-        4390.89990234375,
-        4392.2998046875,
         4390.7998046875,
         4398.7001953125,
         4399.39990234375,
@@ -365,17 +360,17 @@
         4395.39990234375,
         4397.5,
         4401.60009765625,
-        4402.89990234375,
-        4402.10009765625,
+        4402.7998046875,
+        4401.7001953125,
         4406.60009765625,
         4404.2998046875,
-        4404.39990234375,
+        4404.2998046875,
         4407.89990234375,
         4410.5,
-        4413.2998046875,
+        4413.5,
         4411.7001953125,
         4408.2001953125,
-        4409.89990234375,
+        4410.0,
         4409.5,
         4408.2998046875,
         4411.10009765625,
@@ -383,7 +378,7 @@
         4415.2001953125,
         4413.7001953125,
         4413.60009765625,
-        4414.39990234375,
+        4414.60009765625,
         4410.89990234375,
         4413.7001953125,
         4416.39990234375,
@@ -410,21 +405,21 @@
         4423.2001953125,
         4421.89990234375,
         4421.7001953125,
-        4421.89990234375
+        4422.5,
+        4423.2998046875,
+        4422.10009765625,
+        4422.2001953125,
+        4425.60009765625,
+        4425.10009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-19T10:45:35.808847+00:00"
+      "updated_at": "2026-08-19T11:12:19.568711+00:00"
     },
     "crude": {
-      "price": 85.17,
-      "change": 1.11,
-      "pct": 1.3205,
+      "price": 84.88,
+      "change": 0.82,
+      "pct": 0.9755,
       "closes": [
-        84.69999694824219,
-        84.69999694824219,
-        84.7699966430664,
-        85.0,
-        84.87000274658203,
         84.76000213623047,
         84.66999816894531,
         84.66999816894531,
@@ -445,7 +440,7 @@
         84.38999938964844,
         84.37999725341797,
         84.54000091552734,
-        84.62999725341797,
+        84.62000274658203,
         84.69999694824219,
         84.61000061035156,
         84.5999984741211,
@@ -461,7 +456,7 @@
         84.9800033569336,
         84.91000366210938,
         85.25,
-        85.25,
+        85.26000213623047,
         85.23999786376953,
         84.98999786376953,
         84.91000366210938,
@@ -475,14 +470,19 @@
         84.91000366210938,
         85.05000305175781,
         84.98999786376953,
-        84.98999786376953,
+        84.9800033569336,
         85.13999938964844,
         85.13999938964844,
         85.13999938964844,
-        85.16999816894531
+        85.04000091552734,
+        84.9000015258789,
+        84.97000122070312,
+        84.91000366210938,
+        84.8499984741211,
+        84.87999725341797
       ],
       "ok": true,
-      "updated_at": "2026-08-19T10:45:35.992684+00:00"
+      "updated_at": "2026-08-19T11:12:19.618118+00:00"
     },
     "us10y": {
       "price": 4.706,
@@ -551,14 +551,24 @@
         4.706000328063965
       ],
       "ok": true,
-      "updated_at": "2026-08-19T10:45:36.167604+00:00"
+      "updated_at": "2026-08-19T11:12:19.668322+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-19T10:45:36.361487+00:00",
+      "updated_at": "2026-08-19T11:12:19.700693+00:00",
       "items": [
+        {
+          "title": "Behari Lal Engineering shares rally 14% after stellar debut. What are brokerages saying?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/behari-lal-engineering-shares-rally-14-after-stellar-debut-what-are-brokerages-saying/articleshow/133343201.cms",
+          "pubDate": "2026-08-19T14:41:24+05:30"
+        },
+        {
+          "title": "India stocks top Indonesia as Asia’s least-favoured in BofA poll",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-stocks-top-indonesia-as-asias-least-favoured-in-bofa-poll/articleshow/133341047.cms",
+          "pubDate": "2026-08-19T13:02:18+05:30"
+        },
         {
           "title": "IGL, MGL, Adani Total Gas shares rally up to 6% as govt boosts domestic PNG push",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/igl-mgl-adani-total-gas-shares-rally-up-to-6-as-govt-boosts-domestic-png-push/articleshow/133339597.cms",
@@ -575,19 +585,9 @@
           "pubDate": "2026-08-19T11:11:43+05:30"
         },
         {
-          "title": "Vijay Kedia buys Rs 33 crore stake in Zaggle Prepaid Ocean Services via bulk deal, stock skyrockets 17%",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-buys-rs-33-crore-stake-in-zaggle-prepaid-ocean-services-via-bulk-deal-stock-skyrockets-17/articleshow/133338421.cms",
-          "pubDate": "2026-08-19T11:09:48+05:30"
-        },
-        {
-          "title": "Milky Mist shares hit another 10% upper circuit, rallying 43% from IPO price. Should you buy, sell or hold?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-shares-hit-another-10-upper-circuit-rallying-43-from-ipo-price-should-you-buy-sell-or-hold/articleshow/133338174.cms",
-          "pubDate": "2026-08-19T10:48:20+05:30"
-        },
-        {
-          "title": "RailTel Corporation shares rally 5% after bagging Rs 166.8 crore EPFO order",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/railtel-corporation-shares-rally-5-after-bagging-rs-166-8-crore-epfo-order/articleshow/133337593.cms",
-          "pubDate": "2026-08-19T10:12:40+05:30"
+          "title": "IT crash ahead? CLSA downgrades TCS, Infosys, Wipro, other stocks; revises target prices. Here's why",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-crash-ahead-clsa-downgrades-tcs-infosys-wipro-other-stocks-revises-target-prices-heres-why/articleshow/133337948.cms",
+          "pubDate": "2026-08-19T10:36:14+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -712,7 +712,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-19T10:45:36.738362+00:00",
       "items": [
         {
@@ -794,15 +794,20 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-19T10:45:36.879659+00:00",
+      "updated_at": "2026-08-19T11:12:20.190812+00:00",
       "items": [
+        {
+          "title": "Sebi asks brokers to accept orders in first five minutes of closing auction",
+          "link": "https://www.livemint.com/market/stock-market-news/sebi-stockbrokers-trade-orders-closing-auction-session-11787134054384.html",
+          "pubDate": "2026-08-19T16:25:38+05:30"
+        },
         {
           "title": "Top Gainers &amp; Losers on 19 Aug: Netweb Tech, Bata, Reliance Power, Bharat Dynamics, Tata Chemicals among top losers",
           "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-19-aug-netweb-tech-bata-reliance-power-bharat-dynamics-tata-chemicals-among-top-losers-11787134391057.html",
           "pubDate": "2026-08-19T16:01:46+05:30"
         },
         {
-          "title": "Indian stock market replaces Indonesia as Asia’s least-preferred market in BofA survey",
+          "title": "India replaces Indonesia as Asia’s least preferred stock market in BofA survey",
           "link": "https://www.livemint.com/market/indian-stock-market-replaces-indonesia-as-asia-s-least-preferred-market-in-bofa-survey-11787132370080.html",
           "pubDate": "2026-08-19T16:00:40+05:30"
         },
@@ -842,7 +847,7 @@
           "pubDate": "2026-08-19T13:42:38+05:30"
         },
         {
-          "title": "Sebi may ease SME trading, market-making rules as costs and liquidity under scrutiny",
+          "title": "Boost in the offing — Sebi may ease SME trading, market-making rules as costs, liquidity under scrutiny",
           "link": "https://www.livemint.com/market/stock-market-news/sebi-may-ease-sme-trading-market-making-rules-as-costs-and-liquidity-under-scrutiny-11787123510521.html",
           "pubDate": "2026-08-19T13:39:24+05:30"
         },
@@ -940,18 +945,23 @@
           "title": "Gold and silver price today: Rates drop on MCX as rising oil prices amid stalled US-Iran talks fuel Fed rate hike bets",
           "link": "https://www.livemint.com/market/commodities/gold-and-silver-price-today-rates-drop-on-mcx-as-rising-oil-prices-amid-stalled-us-iran-talks-fuel-fed-rate-hike-bets-11787109899918.html",
           "pubDate": "2026-08-19T09:09:06+05:30"
-        },
-        {
-          "title": "Nikkei, KOSPI to US stocks: Global equity heatmap you must know before the opening bell of the Indian stock market",
-          "link": "https://www.livemint.com/market/stock-market-news/nikkei-kospi-to-us-stocks-global-equity-heatmap-you-must-know-before-the-opening-bell-of-the-indian-stock-market-11787108646892.html",
-          "pubDate": "2026-08-19T09:07:20+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-19T10:45:37.085782+00:00",
+      "updated_at": "2026-08-19T11:12:20.286403+00:00",
       "items": [
+        {
+          "title": "Nifty August futures trade at premium",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-august-futures-trade-at-premium-126081900864_1.html",
+          "pubDate": "2026-08-19T16:31:18+05:30"
+        },
+        {
+          "title": "Market ends lower; Nifty settles below 24,100 level",
+          "link": "https://www.business-standard.com/markets/capital-market-news/market-ends-lower-nifty-settles-below-24-100-level-126081900836_1.html",
+          "pubDate": "2026-08-19T16:16:01+05:30"
+        },
         {
           "title": "Govt eyes foreign capital inflows, deeper corporate bond mkt: Alok Tiwari",
           "link": "https://www.business-standard.com/markets/capital-market-news/govt-eyes-foreign-capital-inflows-deeper-corporate-bond-mkt-alok-tiwari-126081900817_1.html",
@@ -1091,22 +1101,12 @@
           "title": "IPO index hits new high; Dhoot Transmission, Juniper Green soar up to 10%",
           "link": "https://www.business-standard.com/markets/news/ipo-index-hits-new-high-dhoot-transmission-juniper-green-soar-up-to-10-126081900598_1.html",
           "pubDate": "2026-08-19T14:11:16+05:30"
-        },
-        {
-          "title": "Bharat Coking Coal directed to stop blasting operations at New Akashkinaree Colliery",
-          "link": "https://www.business-standard.com/markets/capital-market-news/bharat-coking-coal-directed-to-stop-blasting-operations-at-new-akashkinaree-colliery-126081900605_1.html",
-          "pubDate": "2026-08-19T14:04:02+05:30"
-        },
-        {
-          "title": "Key benchmarks trade near the day's low; Europe opens lower as bond yields spike",
-          "link": "https://www.business-standard.com/markets/capital-market-news/key-benchmarks-trade-near-the-day-s-low-europe-opens-lower-as-bond-yields-spike-126081900588_1.html",
-          "pubDate": "2026-08-19T13:50:08+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-19T10:45:37.887564+00:00",
+      "updated_at": "2026-08-19T11:12:21.216023+00:00",
       "items": [
         {
           "title": "Treasury Bills: Full Auction Result",

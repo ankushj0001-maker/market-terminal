@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T23:54:33.122042+00:00",
+  "generated_at": "2026-08-19T00:26:24.768188+00:00",
   "indices": {
     "nifty50": {
       "price": 24154.9,
@@ -68,7 +68,7 @@
         24154.900390625
       ],
       "ok": true,
-      "updated_at": "2026-08-18T23:54:31.100322+00:00"
+      "updated_at": "2026-08-19T00:26:23.827639+00:00"
     },
     "sensex": {
       "price": 77235.46,
@@ -137,7 +137,7 @@
         77235.4609375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T23:54:31.155360+00:00"
+      "updated_at": "2026-08-19T00:26:23.873420+00:00"
     },
     "banknifty": {
       "price": 57262.4,
@@ -206,7 +206,7 @@
         57262.3984375
       ],
       "ok": true,
-      "updated_at": "2026-08-18T23:54:31.261086+00:00"
+      "updated_at": "2026-08-19T00:26:23.963996+00:00"
     },
     "vix": {
       "price": 11.387,
@@ -275,27 +275,24 @@
         11.387499809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-18T23:54:31.334274+00:00"
+      "updated_at": "2026-08-19T00:26:24.036617+00:00"
     },
     "usdinr": {
       "price": 95.67,
       "change": 0.0,
       "pct": 0.0,
-      "closes": [],
+      "closes": [
+        95.66999816894531,
+        95.66999816894531
+      ],
       "ok": true,
-      "updated_at": "2026-08-18T23:54:31.390342+00:00"
+      "updated_at": "2026-08-19T00:26:24.129413+00:00"
     },
     "gold": {
-      "price": 4382.4,
-      "change": -38.2,
-      "pct": -0.8641,
+      "price": 4394.6,
+      "change": -26.0,
+      "pct": -0.5882,
       "closes": [
-        4414.2998046875,
-        4413.2001953125,
-        4408.89990234375,
-        4411.0,
-        4412.89990234375,
-        4414.2001953125,
         4412.10009765625,
         4415.39990234375,
         4414.39990234375,
@@ -304,11 +301,11 @@
         4409.0,
         4409.7001953125,
         4409.39990234375,
-        4410.39990234375,
+        4410.2998046875,
         4410.2998046875,
         4412.39990234375,
         4409.7998046875,
-        4408.2998046875,
+        4408.2001953125,
         4409.5,
         4408.60009765625,
         4409.39990234375,
@@ -324,7 +321,7 @@
         4392.7998046875,
         4394.39990234375,
         4393.2998046875,
-        4387.60009765625,
+        4387.39990234375,
         4387.60009765625,
         4389.39990234375,
         4389.5,
@@ -349,23 +346,22 @@
         4383.5,
         4381.5,
         4382.5,
-        4382.39990234375
+        4383.2998046875,
+        4386.7001953125,
+        4386.0,
+        4389.7001953125,
+        4392.7998046875,
+        4397.39990234375,
+        4394.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-18T23:54:31.455465+00:00"
+      "updated_at": "2026-08-19T00:26:24.188601+00:00"
     },
     "crude": {
-      "price": 84.48,
-      "change": 0.42,
-      "pct": 0.4996,
+      "price": 84.51,
+      "change": 0.45,
+      "pct": 0.5353,
       "closes": [
-        84.0999984741211,
-        84.05000305175781,
-        84.16000366210938,
-        84.04000091552734,
-        83.95999908447266,
-        84.12000274658203,
-        84.13999938964844,
         84.0,
         84.05000305175781,
         84.08000183105469,
@@ -418,10 +414,17 @@
         84.52999877929688,
         84.4800033569336,
         84.48999786376953,
-        84.4800033569336
+        84.51000213623047,
+        84.51000213623047,
+        84.5,
+        84.43000030517578,
+        84.41999816894531,
+        84.48999786376953,
+        84.5199966430664,
+        84.51000213623047
       ],
       "ok": true,
-      "updated_at": "2026-08-18T23:54:31.533874+00:00"
+      "updated_at": "2026-08-19T00:26:24.239702+00:00"
     },
     "us10y": {
       "price": 4.706,
@@ -490,43 +493,43 @@
         4.706000328063965
       ],
       "ok": true,
-      "updated_at": "2026-08-18T23:54:31.613221+00:00"
+      "updated_at": "2026-08-19T00:26:24.304811+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-18T23:54:31.896460+00:00",
+      "updated_at": "2026-08-19T00:26:24.492988+00:00",
       "items": [
         {
-          "title": "US stocks: Tech selloff weighs down Wall Street as bond yields climb",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-tech-selloff-weighs-down-wall-street-as-bond-yields-climb/articleshow/133332021.cms",
-          "pubDate": "2026-08-19T01:39:53+05:30"
+          "title": "Strong IPO gains stoke FOMO fears, set grey market abuzz",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/strong-ipo-gains-fuel-fomo-as-grey-market-heats-up/articleshow/133334554.cms",
+          "pubDate": "2026-08-19T05:40:27+05:30"
         },
         {
-          "title": "Anthropic pre-IPO credit facility set to climb past $10 billion",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion/articleshow/133329176.cms",
-          "pubDate": "2026-08-18T23:14:46+05:30"
+          "title": "India's outward FDI jumps 17% to $5.7 billion in July: RBI",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-outward-fdi-jumps-17-to-5-7-billion-in-july-rbi/articleshow/133334574.cms",
+          "pubDate": "2026-08-18T23:44:24+05:30"
         },
         {
-          "title": "Regulatory tailwinds to boost growth for MCX, says HDFC Securities; retains Buy for 18% gains",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/regulatory-tailwinds-to-boost-growth-for-mcx-says-hdfc-securities-retains-buy-for-18-gains/articleshow/133322360.cms",
-          "pubDate": "2026-08-18T17:56:33+05:30"
+          "title": "Kotak Mahindra Bank raises $650 million in debut dollar bond sale",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/kotak-mahindra-bank-raises-650-million-in-debut-dollar-bond-sale/articleshow/133327166.cms",
+          "pubDate": "2026-08-18T21:40:42+05:30"
         },
         {
-          "title": "India Expo Centre operator files IPO DRHP with Sebi. Check details",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/india-expo-centre-operator-files-ipo-drhp-with-sebi-check-details/articleshow/133320423.cms",
-          "pubDate": "2026-08-18T16:48:10+05:30"
+          "title": "Augmont Enterprises IPO: Rs 825 crore issue price band set at Rs 750-788",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/augmont-enterprises-ipo-rs-825-crore-issue-price-band-set-at-rs-788/articleshow/133322746.cms",
+          "pubDate": "2026-08-18T18:09:41+05:30"
         },
         {
-          "title": "Defence stocks fire up! Paras Defence, GRSE, other stocks jump up to 10% as govt notifies 6th indigenisation list",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/defence-stocks-fire-up-paras-defence-grse-other-stocks-jump-up-to-10-as-govt-notifies-6th-indigenisation-list/articleshow/133318729.cms",
-          "pubDate": "2026-08-18T15:43:16+05:30"
+          "title": "L&amp;T Finance plans 500 new gold loan branches this fiscal",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/lt-finance-plans-500-new-gold-loan-branches-this-fiscal/articleshow/133334633.cms",
+          "pubDate": "2026-08-18T16:28:18+05:30"
         },
         {
-          "title": "Nifty to hit 50,000 before 2035? Raamdeo Agrawal maps 3 valuation-based timelines",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-to-hit-50000-before-2035-raamdeo-agrawal-maps-3-valuation-based-timelines/articleshow/133310552.cms",
-          "pubDate": "2026-08-18T08:58:39+05:30"
+          "title": "RBI finds cash demand harder to predict as digital payments grow",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-finds-cash-demand-harder-to-predict-as-digital-payments-grow/articleshow/133334636.cms",
+          "pubDate": "2026-08-18T15:04:08+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -733,7 +736,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-18T23:54:32.087026+00:00",
+      "updated_at": "2026-08-19T00:26:24.611954+00:00",
       "items": [
         {
           "title": "Mizuho Markets Head Expects BOJ to Raise Rates Soon, More Often",
@@ -889,7 +892,7 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-18T23:54:32.172080+00:00",
+      "updated_at": "2026-08-19T00:26:24.718397+00:00",
       "items": [
         {
           "title": "Milky Mist shares gain 30%; India Exposition Mart files DRHP with Sebi",
@@ -1045,7 +1048,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-18T23:54:33.122024+00:00",
+      "updated_at": "2026-08-19T00:26:24.768172+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 19, 2026",

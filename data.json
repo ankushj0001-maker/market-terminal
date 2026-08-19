@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T01:57:49.304381+00:00",
+  "generated_at": "2026-08-19T02:51:38.420886+00:00",
   "indices": {
     "nifty50": {
       "price": 24154.9,
@@ -11,7 +11,7 @@
         24204.75,
         24195.55078125,
         24200.25,
-        24205.55078125,
+        24205.849609375,
         24207.25,
         24202.349609375,
         24197.75,
@@ -61,14 +61,14 @@
         24214.30078125,
         24203.19921875,
         24197.30078125,
-        24169.75,
+        24165.80078125,
         24166.349609375,
         24166.349609375,
         24154.900390625,
         24154.900390625
       ],
       "ok": true,
-      "updated_at": "2026-08-19T01:57:47.337707+00:00"
+      "updated_at": "2026-08-19T02:51:34.781595+00:00"
     },
     "sensex": {
       "price": 77235.46,
@@ -137,7 +137,7 @@
         77235.4609375
       ],
       "ok": true,
-      "updated_at": "2026-08-19T01:57:47.414644+00:00"
+      "updated_at": "2026-08-19T02:51:34.886028+00:00"
     },
     "banknifty": {
       "price": 57262.4,
@@ -206,7 +206,7 @@
         57262.3984375
       ],
       "ok": true,
-      "updated_at": "2026-08-19T01:57:47.459573+00:00"
+      "updated_at": "2026-08-19T02:51:34.991673+00:00"
     },
     "vix": {
       "price": 11.387,
@@ -275,7 +275,7 @@
         11.387499809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-19T01:57:47.538903+00:00"
+      "updated_at": "2026-08-19T02:51:35.097202+00:00"
     },
     "usdinr": {
       "price": 95.67,
@@ -284,29 +284,18 @@
       "closes": [
         95.66999816894531,
         95.66999816894531,
+        95.66999816894531,
+        95.66999816894531,
         95.66999816894531
       ],
       "ok": true,
-      "updated_at": "2026-08-19T01:57:47.580492+00:00"
+      "updated_at": "2026-08-19T02:51:35.201703+00:00"
     },
     "gold": {
-      "price": 4409.2,
-      "change": -11.4,
-      "pct": -0.2579,
+      "price": 4409.5,
+      "change": -11.1,
+      "pct": -0.2511,
       "closes": [
-        4400.7998046875,
-        4400.2998046875,
-        4400.0,
-        4398.2998046875,
-        4397.39990234375,
-        4396.5,
-        4396.60009765625,
-        4393.0,
-        4392.7998046875,
-        4394.39990234375,
-        4393.2998046875,
-        4387.39990234375,
-        4387.60009765625,
         4389.39990234375,
         4389.5,
         4394.10009765625,
@@ -335,47 +324,47 @@
         4386.0,
         4389.7001953125,
         4392.7998046875,
-        4393.7001953125,
+        4395.7998046875,
         4396.2998046875,
         4396.39990234375,
         4396.2998046875,
         4394.10009765625,
         4398.2998046875,
-        4397.2001953125,
+        4397.39990234375,
         4396.5,
         4395.0,
         4391.7998046875,
-        4386.2001953125,
-        4394.0,
+        4386.0,
+        4393.89990234375,
         4397.39990234375,
         4391.39990234375,
         4391.0,
+        4396.10009765625,
         4404.10009765625,
         4408.89990234375,
         4409.39990234375,
-        4409.2001953125
+        4404.60009765625,
+        4407.0,
+        4410.2001953125,
+        4408.2998046875,
+        4409.2998046875,
+        4407.0,
+        4412.39990234375,
+        4413.60009765625,
+        4413.39990234375,
+        4410.0,
+        4408.7998046875,
+        4411.0,
+        4409.5
       ],
       "ok": true,
-      "updated_at": "2026-08-19T01:57:47.659715+00:00"
+      "updated_at": "2026-08-19T02:51:35.350743+00:00"
     },
     "crude": {
-      "price": 84.88,
-      "change": 0.82,
-      "pct": 0.9755,
+      "price": 84.72,
+      "change": 0.66,
+      "pct": 0.7852,
       "closes": [
-        84.12999725341797,
-        84.11000061035156,
-        84.08000183105469,
-        84.0999984741211,
-        84.16999816894531,
-        84.22000122070312,
-        84.22000122070312,
-        84.2300033569336,
-        84.23999786376953,
-        84.30999755859375,
-        84.30000305175781,
-        84.43000030517578,
-        84.4800033569336,
         84.44000244140625,
         84.41999816894531,
         84.54000091552734,
@@ -383,7 +372,7 @@
         84.5199966430664,
         84.47000122070312,
         84.41999816894531,
-        84.44000244140625,
+        84.44999694824219,
         84.41999816894531,
         84.51000213623047,
         84.4800033569336,
@@ -404,13 +393,13 @@
         84.5,
         84.43000030517578,
         84.41999816894531,
-        84.5,
+        84.48999786376953,
         84.55000305175781,
         84.58000183105469,
         84.81999969482422,
         84.93000030517578,
         84.66000366210938,
-        84.73999786376953,
+        84.72000122070312,
         84.68000030517578,
         84.79000091552734,
         84.75,
@@ -419,13 +408,26 @@
         84.86000061035156,
         84.8499984741211,
         84.93000030517578,
+        84.93000030517578,
         84.97000122070312,
         84.79000091552734,
         84.9000015258789,
-        84.87999725341797
+        85.0199966430664,
+        85.0199966430664,
+        85.0,
+        85.08999633789062,
+        84.91000366210938,
+        84.93000030517578,
+        84.91999816894531,
+        84.87999725341797,
+        84.8499984741211,
+        84.93000030517578,
+        84.80000305175781,
+        84.72000122070312,
+        84.72000122070312
       ],
       "ok": true,
-      "updated_at": "2026-08-19T01:57:47.741646+00:00"
+      "updated_at": "2026-08-19T02:51:35.486950+00:00"
     },
     "us10y": {
       "price": 4.706,
@@ -494,28 +496,33 @@
         4.706000328063965
       ],
       "ok": true,
-      "updated_at": "2026-08-19T01:57:47.806666+00:00"
+      "updated_at": "2026-08-19T02:51:35.589930+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-19T01:57:48.024967+00:00",
+      "updated_at": "2026-08-19T02:51:35.759234+00:00",
       "items": [
         {
-          "title": "Milky Mist Dairy Foods lists at 18% premium to issue price",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-dairy-foods-lists-at-18-premium-to-issue-price/articleshow/133334885.cms",
-          "pubDate": "2026-08-19T06:45:12+05:30"
+          "title": "Gaja Alternative Asset Management IPO opens today: GMP at 19% — Should You Subscribe?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/gaja-alternative-asset-management-ipo-opens-today-gmp-at-19-should-you-subscribe/articleshow/133335323.cms",
+          "pubDate": "2026-08-19T07:43:13+05:30"
+        },
+        {
+          "title": "Negative Breakout: These 13 stocks cross below their 200 DMAs",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-13-stocks-cross-below-their-200-dmas/downside-ahead/slideshow/133335353.cms",
+          "pubDate": "2026-08-19T07:39:18+05:30"
+        },
+        {
+          "title": "Gold inches higher, focus on Fed minutes",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-higher-focus-on-fed-minutes/articleshow/133335242.cms",
+          "pubDate": "2026-08-19T07:29:17+05:30"
         },
         {
           "title": "Can Gaja Alternative Asset Management IPO deliver long-term growth for high-risk investors?",
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/returns-speak-a-lot-for-gaja-alternative-asset-management-as-funding-stays-a-risky-bet/articleshow/133334804.cms",
           "pubDate": "2026-08-19T06:35:13+05:30"
-        },
-        {
-          "title": "Retail trading in high-yield corporate bonds gains momentum",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/rising-interest-in-retail-trading-of-high-yield-corporate-bonds-reflects-shifting-investor-strategies-in-a-changing-market/articleshow/133334749.cms",
-          "pubDate": "2026-08-19T06:22:43+05:30"
         },
         {
           "title": "Nifty falls for sixth straight session; oil surge, CAS volatility rattle markets",
@@ -526,11 +533,6 @@
           "title": "Strong IPO gains stoke FOMO fears, set grey market abuzz",
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/strong-ipo-gains-fuel-fomo-as-grey-market-heats-up/articleshow/133334554.cms",
           "pubDate": "2026-08-19T05:40:27+05:30"
-        },
-        {
-          "title": "Kotak Mahindra Bank raises $650 million in debut dollar bond sale",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/kotak-mahindra-bank-raises-650-million-in-debut-dollar-bond-sale/articleshow/133327166.cms",
-          "pubDate": "2026-08-18T21:40:42+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -656,7 +658,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-19T01:57:48.129554+00:00",
+      "updated_at": "2026-08-19T02:51:36.099258+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -737,8 +739,33 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-19T01:57:48.186095+00:00",
+      "updated_at": "2026-08-19T02:51:36.203013+00:00",
       "items": [
+        {
+          "title": "Stock market today: Gift Nifty hints a flat start; eight day trading stocks to buy on Wednesday, 19 August",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-a-flat-start-eight-day-trading-stocks-to-buy-on-wednesday-19-august-11787105497629.html",
+          "pubDate": "2026-08-19T08:09:42+05:30"
+        },
+        {
+          "title": "Stocks to watch: BPCL, RailTel, ONGC among shares in focus today; check list here",
+          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-bpcl-railtel-ongc-among-shares-in-focus-today-check-list-here-11787105168182.html",
+          "pubDate": "2026-08-19T08:01:03+05:30"
+        },
+        {
+          "title": "Korean Stocks Bear Brunt of Chip Slide Spurred by Rise in Yields",
+          "link": "https://www.livemint.com/market/korean-stocks-bear-brunt-of-chip-slide-spurred-by-rise-in-yields-11787105708352.html",
+          "pubDate": "2026-08-19T07:45:07+05:30"
+        },
+        {
+          "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 19 August",
+          "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-19-august-11787103468821.html",
+          "pubDate": "2026-08-19T07:39:26+05:30"
+        },
+        {
+          "title": "Oil prices rise for fourth straight day as US-Iran talks remain deadlocked; Brent above $90 per barrel",
+          "link": "https://www.livemint.com/market/commodities/oil-prices-rise-for-fourth-straight-day-as-us-iran-talks-remain-deadlocked-brent-above-90-per-barrel-11787103761638.html",
+          "pubDate": "2026-08-19T07:31:47+05:30"
+        },
         {
           "title": "From Gift Nifty to Asian tech stocks, crude oil prices: 7 key things that changed for Indian stock market overnight",
           "link": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-asian-tech-stocks-crude-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11787101690777.html",
@@ -863,38 +890,38 @@
           "title": "Voltas reported strong growth in June quarter, but failed to impress",
           "link": "https://www.livemint.com/market/mark-to-market/voltas-strong-growth-fails-to-impress-operating-revenue-acs-home-appliances-other-businesses-engineering-products-11787031152020.html",
           "pubDate": "2026-08-18T12:17:40+05:30"
-        },
-        {
-          "title": "Behari Lal Engineering IPO listing tomorrow: Here’s what GMP hints ahead of debut",
-          "link": "https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-allotment-behari-lal-engineering-ipo-gmp-behari-lal-engineering-ipo-listing-behari-lal-ipo-11787029898525.html",
-          "pubDate": "2026-08-18T11:46:44+05:30"
-        },
-        {
-          "title": "Small-cap IT stock under  ₹50 jumps 3% despite muted trends on Dalal Street",
-          "link": "https://www.livemint.com/market/smallcap-it-stock-under-50-blue-cloud-softech-solutions-jumps-3-despite-muted-trends-on-dalal-street-11787031047346.html",
-          "pubDate": "2026-08-18T11:45:45+05:30"
-        },
-        {
-          "title": "NSE begins valuation exercise for mega-IPO after strong institutional demand during roadshows",
-          "link": "https://www.livemint.com/market/ipo/nse-valuation-exercise-mega-ipo-institutional-demand-roadshows-qibs-domestic-funds-sebi-11787025810104.html",
-          "pubDate": "2026-08-18T11:16:41+05:30"
-        },
-        {
-          "title": "Lalithaa Jewellery Mart IPO Day 2 LIVE: GMP, subscription status to review. Apply or not?",
-          "link": "https://www.livemint.com/market/ipo/lalithaa-jewellery-mart-ipo-day-2-live-gmp-subscription-status-to-review-apply-or-not-11787026286137.html",
-          "pubDate": "2026-08-18T10:36:38+05:30"
-        },
-        {
-          "title": "Sham Foam SME IPO listing: Shares debut at 20% discount, hit lower circuit; details here",
-          "link": "https://www.livemint.com/market/ipo/sham-foam-sme-ipo-listing-shares-debut-at-20-discount-hit-lower-circuit-details-here-11787028849464.html",
-          "pubDate": "2026-08-18T10:31:00+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-19T01:57:48.389187+00:00",
+      "updated_at": "2026-08-19T02:51:37.397626+00:00",
       "items": [
+        {
+          "title": "Nifty to stay weak below 24,200 level, says MOFSL; HAL among 3 stock picks",
+          "link": "https://www.business-standard.com/markets/news/nifty-to-stay-weak-below-24-200-level-says-mofsl-hal-among-3-stock-picks-126081900103_1.html",
+          "pubDate": "2026-08-19T08:02:52+05:30"
+        },
+        {
+          "title": "Stock Market LIVE: GIFT Nifty signals tepid open; Kospi tumbles 7% on chip selloff",
+          "link": "https://www.business-standard.com/markets/news/stock-market-live-august-19-nse-bse-sensex-today-nifty-gift-nifty-behari-lal-engineering-shiprocket-ipo-listing-today-126081900099_1.html",
+          "pubDate": "2026-08-19T07:59:24+05:30"
+        },
+        {
+          "title": "Stocks to watch: Swiggy, Manipal Health, Biocon, RailTel, Sammaan Capital",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-swiggy-manipal-health-biocon-railtel-sammaan-capital-126081900101_1.html",
+          "pubDate": "2026-08-19T07:56:53+05:30"
+        },
+        {
+          "title": "Nifty outlook & two stock ideas for today by HDFC Sec's Vinay Rajani",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-buy-today-nifty-outlook-two-stock-ideas-for-today-by-hdfc-sec-s-vinay-rajani-126081900097_1.html",
+          "pubDate": "2026-08-19T07:47:23+05:30"
+        },
+        {
+          "title": "Oil prices edge higher on uncertainty over exports through Hormuz",
+          "link": "https://www.business-standard.com/markets/commodities/oil-prices-edge-higher-on-uncertainty-over-exports-through-hormuz-126081900086_1.html",
+          "pubDate": "2026-08-19T07:42:39+05:30"
+        },
         {
           "title": "Milky Mist shares gain 30%; India Exposition Mart files DRHP with Sebi",
           "link": "https://www.business-standard.com/markets/news/milky-mist-shares-gain-30-india-exposition-mart-files-drhp-with-sebi-126081801560_1.html",
@@ -1019,37 +1046,12 @@
           "title": "BSE stock hammered after back-to-back downgrades, down 10% in 5 sessions",
           "link": "https://www.business-standard.com/markets/news/bse-stock-hammered-after-back-to-back-downgrades-down-10-in-5-sessions-126081800710_1.html",
           "pubDate": "2026-08-18T15:10:09+05:30"
-        },
-        {
-          "title": "Bihari Lal Engineering IPO debut in focus: GMP hints at 40% listing pop",
-          "link": "https://www.business-standard.com/markets/ipo/bihari-lal-engineering-ipo-debut-in-focus-gmp-hints-at-40-listing-pop-126081800723_1.html",
-          "pubDate": "2026-08-18T15:04:14+05:30"
-        },
-        {
-          "title": "Ahluwalia Contracts (India) Ltd leads losers in 'A' group",
-          "link": "https://www.business-standard.com/markets/capital-market-news/ahluwalia-contracts-india-ltd-leads-losers-in-a-group-126081800727_1.html",
-          "pubDate": "2026-08-18T15:04:11+05:30"
-        },
-        {
-          "title": "Hardwyn India Ltd leads losers in 'B' group",
-          "link": "https://www.business-standard.com/markets/capital-market-news/hardwyn-india-ltd-leads-losers-in-b-group-126081800696_1.html",
-          "pubDate": "2026-08-18T14:50:58+05:30"
-        },
-        {
-          "title": "Sigma Advanced hits the roof after securing Rs 155-cr orders from Govt of India",
-          "link": "https://www.business-standard.com/markets/capital-market-news/sigma-advanced-hits-the-roof-after-securing-rs-155-cr-orders-from-govt-of-india-126081800695_1.html",
-          "pubDate": "2026-08-18T14:50:51+05:30"
-        },
-        {
-          "title": "Protean eGov Technologies bags Rs 6-cr order from Arunachal Pradesh govt",
-          "link": "https://www.business-standard.com/markets/capital-market-news/protean-egov-technologies-bags-rs-6-cr-order-from-arunachal-pradesh-govt-126081800694_1.html",
-          "pubDate": "2026-08-18T14:50:43+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-19T01:57:49.304363+00:00",
+      "updated_at": "2026-08-19T02:51:38.420870+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 19, 2026",

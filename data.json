@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T19:07:01.375012+00:00",
+  "generated_at": "2026-08-20T19:40:59.957493+00:00",
   "indices": {
     "nifty50": {
       "price": 24231.85,
@@ -68,7 +68,7 @@
         24231.849609375
       ],
       "ok": true,
-      "updated_at": "2026-08-20T19:06:58.051564+00:00"
+      "updated_at": "2026-08-20T19:40:57.400018+00:00"
     },
     "sensex": {
       "price": 77537.72,
@@ -137,7 +137,7 @@
         77537.71875
       ],
       "ok": true,
-      "updated_at": "2026-08-20T19:06:58.204058+00:00"
+      "updated_at": "2026-08-20T19:40:57.453564+00:00"
     },
     "banknifty": {
       "price": 57495.9,
@@ -206,7 +206,7 @@
         57495.8984375
       ],
       "ok": true,
-      "updated_at": "2026-08-20T19:06:58.394185+00:00"
+      "updated_at": "2026-08-20T19:40:57.506604+00:00"
     },
     "vix": {
       "price": 10.755,
@@ -275,14 +275,13 @@
         10.755000114440918
       ],
       "ok": true,
-      "updated_at": "2026-08-20T19:06:58.554691+00:00"
+      "updated_at": "2026-08-20T19:40:57.569537+00:00"
     },
     "usdinr": {
       "price": 95.695,
       "change": -0.048,
       "pct": -0.0501,
       "closes": [
-        95.64250183105469,
         95.62999725341797,
         95.63249969482422,
         95.625,
@@ -341,23 +340,17 @@
         95.69499969482422,
         95.69499969482422,
         95.69499969482422,
+        95.69499969482422,
         95.69499969482422
       ],
       "ok": true,
-      "updated_at": "2026-08-20T19:06:58.789910+00:00"
+      "updated_at": "2026-08-20T19:40:57.633792+00:00"
     },
     "gold": {
       "price": 4580.2,
       "change": 34.9,
       "pct": 0.7678,
       "closes": [
-        4540.5,
-        4541.0,
-        4538.0,
-        4546.7998046875,
-        4547.39990234375,
-        4550.10009765625,
-        4551.60009765625,
         4555.10009765625,
         4563.39990234375,
         4565.5,
@@ -409,24 +402,24 @@
         4576.5,
         4577.5,
         4580.89990234375,
-        4578.5,
+        4578.7001953125,
+        4578.2001953125,
+        4582.89990234375,
+        4584.2001953125,
+        4582.2001953125,
+        4583.5,
+        4579.2001953125,
+        4580.10009765625,
         4580.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-20T19:06:59.042231+00:00"
+      "updated_at": "2026-08-20T19:40:57.708633+00:00"
     },
     "crude": {
-      "price": 86.87,
-      "change": 2.48,
-      "pct": 2.9387,
+      "price": 86.64,
+      "change": 2.25,
+      "pct": 2.6662,
       "closes": [
-        86.6500015258789,
-        86.4800033569336,
-        86.11000061035156,
-        85.87000274658203,
-        85.9000015258789,
-        86.05000305175781,
-        85.94999694824219,
         86.12000274658203,
         86.22000122070312,
         86.0999984741211,
@@ -479,17 +472,23 @@
         86.91000366210938,
         86.86000061035156,
         86.86000061035156,
-        86.87000274658203
+        86.79000091552734,
+        86.76000213623047,
+        86.73999786376953,
+        86.76000213623047,
+        86.69999694824219,
+        86.69000244140625,
+        86.62999725341797,
+        86.63999938964844
       ],
       "ok": true,
-      "updated_at": "2026-08-20T19:06:59.256097+00:00"
+      "updated_at": "2026-08-20T19:40:57.794644+00:00"
     },
     "us10y": {
-      "price": 4.7,
-      "change": 0.047,
-      "pct": 1.0101,
+      "price": 4.696,
+      "change": 0.043,
+      "pct": 0.9241,
       "closes": [
-        4.699999809265137,
         4.699999809265137,
         4.699999809265137,
         4.693999767303467,
@@ -548,16 +547,17 @@
         4.699999809265137,
         4.699999809265137,
         4.699999809265137,
-        4.699999809265137
+        4.697999954223633,
+        4.696000099182129
       ],
       "ok": true,
-      "updated_at": "2026-08-20T19:06:59.406426+00:00"
+      "updated_at": "2026-08-20T19:40:57.867270+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-20T19:06:59.660585+00:00",
+      "updated_at": "2026-08-20T19:40:58.318655+00:00",
       "items": [
         {
           "title": "Power Finance Corporation and REC shares fall up to 3% after Morgan Stanley downgrade",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-20T19:06:59.942123+00:00",
+      "updated_at": "2026-08-20T19:40:58.925416+00:00",
       "items": [
+        {
+          "title": "Canadian dollar hits near 3-month high as oil prices climb",
+          "link": "https://www.livemint.com/market/canadian-dollar-hits-near-3-month-high-as-oil-prices-climb-11787252930972.html",
+          "pubDate": "2026-08-21T00:38:50+05:30"
+        },
         {
           "title": "Crude oil prices surge to near one-month high as US prepares sweeping sanctions on Iran",
           "link": "https://www.livemint.com/market/commodities/crude-oil-prices-surge-to-near-one-month-high-as-us-prepares-sweeping-sanctions-on-iran-11787244062232.html",
@@ -940,17 +945,12 @@
           "title": "Lalithaa Jewellery Mart IPO GMP jumps, allotment date in focus after strong subscription status",
           "link": "https://www.livemint.com/market/ipo/lalithaa-jewellery-mart-ipo-gmp-jumps-allotment-date-in-focus-after-strong-subscription-status-11787198527712.html",
           "pubDate": "2026-08-20T10:35:07+05:30"
-        },
-        {
-          "title": "Dhampur Sugar, Balrampur Chini to Dwarikesh Sugar: Sugar stocks rise up to 6%. Do you own any?",
-          "link": "https://www.livemint.com/market/stock-market-news/dhampur-sugar-balrampur-chini-to-dwarikesh-sugar-sugar-stocks-rise-up-to-6-do-you-own-any-11787199334869.html",
-          "pubDate": "2026-08-20T10:01:52+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-20T19:07:00.331227+00:00",
+      "updated_at": "2026-08-20T19:40:59.065099+00:00",
       "items": [
         {
           "title": "Sebi permits digitally signed power of attorney to ease FPI onboarding",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-20T19:07:01.374994+00:00",
+      "updated_at": "2026-08-20T19:40:59.957481+00:00",
       "items": [
         {
           "title": "Appointment of Shri Somanath Sreedhara Panicker as part-time, Non-official Director on the Central Board of Reserve Bank of India",

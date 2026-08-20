@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T01:57:49.327667+00:00",
+  "generated_at": "2026-08-20T02:51:03.650430+00:00",
   "indices": {
     "nifty50": {
       "price": 24078.3,
@@ -68,7 +68,7 @@
         24078.30078125
       ],
       "ok": true,
-      "updated_at": "2026-08-20T01:57:47.255782+00:00"
+      "updated_at": "2026-08-20T02:51:01.714292+00:00"
     },
     "sensex": {
       "price": 76909.68,
@@ -137,7 +137,7 @@
         76909.6796875
       ],
       "ok": true,
-      "updated_at": "2026-08-20T01:57:47.361716+00:00"
+      "updated_at": "2026-08-20T02:51:01.768480+00:00"
     },
     "banknifty": {
       "price": 57239.75,
@@ -206,7 +206,7 @@
         57239.75
       ],
       "ok": true,
-      "updated_at": "2026-08-20T01:57:47.468060+00:00"
+      "updated_at": "2026-08-20T02:51:01.812202+00:00"
     },
     "vix": {
       "price": 11.323,
@@ -275,32 +275,24 @@
         11.322500228881836
       ],
       "ok": true,
-      "updated_at": "2026-08-20T01:57:47.584972+00:00"
+      "updated_at": "2026-08-20T02:51:01.866292+00:00"
     },
     "usdinr": {
       "price": 95.743,
       "change": 0.0,
       "pct": 0.0,
-      "closes": [],
+      "closes": [
+        95.74299621582031,
+        95.74299621582031
+      ],
       "ok": true,
-      "updated_at": "2026-08-20T01:57:47.694403+00:00"
+      "updated_at": "2026-08-20T02:51:01.904362+00:00"
     },
     "gold": {
-      "price": 4550.9,
-      "change": 5.6,
-      "pct": 0.1232,
+      "price": 4549.1,
+      "change": 3.8,
+      "pct": 0.0836,
       "closes": [
-        4568.0,
-        4566.7001953125,
-        4567.89990234375,
-        4564.5,
-        4568.2001953125,
-        4576.39990234375,
-        4576.7001953125,
-        4579.89990234375,
-        4578.2998046875,
-        4577.2998046875,
-        4579.2998046875,
         4582.39990234375,
         4580.7001953125,
         4578.89990234375,
@@ -348,28 +340,28 @@
         4555.7998046875,
         4552.5,
         4551.2998046875,
+        4547.5,
+        4542.7998046875,
+        4547.39990234375,
+        4555.60009765625,
+        4553.2001953125,
+        4555.5,
+        4549.0,
+        4551.7001953125,
+        4550.60009765625,
+        4549.5,
         4550.2001953125,
-        4550.89990234375
+        4551.2998046875,
+        4549.10009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-20T01:57:47.832832+00:00"
+      "updated_at": "2026-08-20T02:51:01.962994+00:00"
     },
     "crude": {
-      "price": 84.64,
-      "change": 0.25,
-      "pct": 0.2962,
+      "price": 84.45,
+      "change": 0.06,
+      "pct": 0.0711,
       "closes": [
-        84.26000213623047,
-        84.20999908447266,
-        84.20999908447266,
-        84.18000030517578,
-        84.27999877929688,
-        84.29000091552734,
-        84.30000305175781,
-        84.29000091552734,
-        84.27999877929688,
-        84.3499984741211,
-        84.25,
         84.30000305175781,
         84.4000015258789,
         84.41999816894531,
@@ -417,11 +409,22 @@
         84.66000366210938,
         84.69000244140625,
         84.70999908447266,
-        84.66000366210938,
-        84.63999938964844
+        84.66999816894531,
+        84.72000122070312,
+        84.79000091552734,
+        84.7300033569336,
+        84.72000122070312,
+        84.63999938964844,
+        84.62000274658203,
+        84.54000091552734,
+        84.58999633789062,
+        84.47000122070312,
+        84.44999694824219,
+        84.44999694824219,
+        84.44999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-20T01:57:48.036629+00:00"
+      "updated_at": "2026-08-20T02:51:02.026890+00:00"
     },
     "us10y": {
       "price": 4.653,
@@ -490,23 +493,33 @@
         4.6529998779296875
       ],
       "ok": true,
-      "updated_at": "2026-08-20T01:57:48.140825+00:00"
+      "updated_at": "2026-08-20T02:51:02.080716+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-20T01:57:48.300210+00:00",
+      "updated_at": "2026-08-20T02:51:02.201277+00:00",
       "items": [
+        {
+          "title": "Gold hovers near early-June high on lower bond yields",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hovers-near-early-june-high-on-lower-bond-yields/articleshow/133361826.cms",
+          "pubDate": "2026-08-20T07:30:29+05:30"
+        },
+        {
+          "title": "Can Tempsens IPO deliver long-term growth for high-risk investors?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-tempsens-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133361720.cms",
+          "pubDate": "2026-08-20T07:23:43+05:30"
+        },
+        {
+          "title": "Multi-cap funds offer equity-like returns with lower drawdowns",
+          "link": "https://economictimes.indiatimes.com/mf/analysis/multi-cap-funds-offer-equity-like-returns-with-lower-drawdowns/articleshow/133361636.cms",
+          "pubDate": "2026-08-20T07:12:31+05:30"
+        },
         {
           "title": "Rupee falls to a 3-week low of 95.71, raising financial concerns",
           "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-to-a-3-week-low-of-95-71-raising-financial-concerns/articleshow/133361483.cms",
           "pubDate": "2026-08-20T06:42:23+05:30"
-        },
-        {
-          "title": "Global Market Today: Asian stocks rise after bond rally, dollar steady",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-after-bond-rally-dollar-steady/articleshow/133361435.cms",
-          "pubDate": "2026-08-20T06:29:18+05:30"
         },
         {
           "title": "Sebi bars two entities for 'manipulating' CAS",
@@ -514,19 +527,9 @@
           "pubDate": "2026-08-20T06:26:38+05:30"
         },
         {
-          "title": "Sebi plans comprehensive review of rules governing SME IPOs",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-review-ipo-rules-to-ease-market-access-for-smes/articleshow/133361290.cms",
-          "pubDate": "2026-08-20T05:56:40+05:30"
-        },
-        {
           "title": "Nifty price-to-book ratio hits 6-year low, but market may not be cheap",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-price-to-book-ratio-hits-6-year-low-but-market-may-not-be-cheap/articleshow/133361013.cms",
           "pubDate": "2026-08-20T05:34:09+05:30"
-        },
-        {
-          "title": "RBI MPC puts Q3 rate hike in play if inflation risks show up big",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mpc-flags-possibility-of-policy-tightening/articleshow/133361277.cms",
-          "pubDate": "2026-08-19T20:15:22+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -652,7 +655,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-20T01:57:48.744628+00:00",
+      "updated_at": "2026-08-20T02:51:02.332535+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -733,8 +736,38 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-20T01:57:48.892899+00:00",
+      "updated_at": "2026-08-20T02:51:02.485648+00:00",
       "items": [
+        {
+          "title": "Stocks to watch: HDFC Bank, BSE, Oil India among shares in focus today; check list here",
+          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-hdfc-bank-bse-oil-india-among-shares-in-focus-today-check-list-here-11787192672692.html",
+          "pubDate": "2026-08-20T08:18:23+05:30"
+        },
+        {
+          "title": "Stock market today: Gift Nifty hints a positive start; eight day trading stocks to buy on Thursday, 20 August",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-a-positive-start-eight-day-trading-stocks-to-buy-on-thursday-20-august-11787191132574.html",
+          "pubDate": "2026-08-20T08:02:57+05:30"
+        },
+        {
+          "title": "Nikkei, KOSPI to US stocks: Global equity heatmap you must know before opening bell of the Indian stock market — Aug 20",
+          "link": "https://www.livemint.com/market/stock-market-news/nikkei-225-kospi-to-us-stocks-global-markets-equity-heatmap-before-opening-bell-of-the-indian-stock-market-august-20-11787189831233.html",
+          "pubDate": "2026-08-20T07:56:47+05:30"
+        },
+        {
+          "title": "Crude oil prices rise for fifth session straight after US President Trump targets Iran's economy; Brent above $92/bbl",
+          "link": "https://www.livemint.com/market/commodities/crude-oil-prices-rise-for-fifth-session-straight-after-us-president-trump-targets-irans-economy-brent-above-92bbl-11787190791752.html",
+          "pubDate": "2026-08-20T07:48:20+05:30"
+        },
+        {
+          "title": "From Gift Nifty to Kospi rally, crude oil prices: 6 key things that changed for Indian stock market overnight",
+          "link": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-kospi-rally-crude-oil-prices-6-key-things-that-changed-for-indian-stock-market-overnight-11787189517732.html",
+          "pubDate": "2026-08-20T07:32:15+05:30"
+        },
+        {
+          "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 20 August",
+          "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-20-august-11787189694916.html",
+          "pubDate": "2026-08-20T07:28:09+05:30"
+        },
         {
           "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 20 August 2026",
           "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-20-august-2026-11787188266727.html",
@@ -854,43 +887,33 @@
           "title": "Mint Explainer | Why Sebi wants to revamp its settlement framework",
           "link": "https://www.livemint.com/market/stock-market-news/sebi-proposal-settlement-framework-markets-regulator-india-11787126318033.html",
           "pubDate": "2026-08-19T17:05:48+05:30"
-        },
-        {
-          "title": "Sebi asks brokers to accept orders in first five minutes of closing auction",
-          "link": "https://www.livemint.com/market/stock-market-news/sebi-stockbrokers-trade-orders-closing-auction-session-11787134054384.html",
-          "pubDate": "2026-08-19T16:25:38+05:30"
-        },
-        {
-          "title": "Top Gainers &amp; Losers on 19 Aug: Netweb Tech, Bata, Reliance Power, Bharat Dynamics, Tata Chemicals among top losers",
-          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-19-aug-netweb-tech-bata-reliance-power-bharat-dynamics-tata-chemicals-among-top-losers-11787134391057.html",
-          "pubDate": "2026-08-19T16:01:46+05:30"
-        },
-        {
-          "title": "India replaces Indonesia as Asia’s least preferred stock market in BofA survey",
-          "link": "https://www.livemint.com/market/indian-stock-market-replaces-indonesia-as-asia-s-least-preferred-market-in-bofa-survey-11787132370080.html",
-          "pubDate": "2026-08-19T16:00:40+05:30"
-        },
-        {
-          "title": "Investors ditch semiconductor bets as AI bubble fears rise: Where’s the money moving now? BofA survey reveals",
-          "link": "https://www.livemint.com/market/stock-market-news/investors-ditch-semiconductor-bets-as-ai-bubble-fears-rise-where-s-the-money-moving-now-bofa-survey-reveals-11787131735269.html",
-          "pubDate": "2026-08-19T15:42:26+05:30"
-        },
-        {
-          "title": "Nifty 50 falls for 7th straight session, longest losing streak since Sept 2025; what keeps stock market under pressure?",
-          "link": "https://www.livemint.com/market/stock-market-news/nifty-50-falls-for-7th-straight-session-longest-since-september-2025-what-keeps-stock-market-sensex-under-pressure-11787133417369.html",
-          "pubDate": "2026-08-19T15:33:09+05:30"
-        },
-        {
-          "title": "Stock to buy for long-term: Angel One sees 39% upside in this Gujarat-based pharma stock. Should you buy?",
-          "link": "https://www.livemint.com/market/stock-market-news/stock-to-buy-for-long-term-angel-one-sees-39-upside-in-this-gujarat-based-pharma-stock-lincoln-pharma-should-you-buy-11787127425509.html",
-          "pubDate": "2026-08-19T15:03:56+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-20T01:57:49.033288+00:00",
+      "updated_at": "2026-08-20T02:51:02.653824+00:00",
       "items": [
+        {
+          "title": "Q1 earnings deliver positive surprise; has market priced in this optimism?",
+          "link": "https://www.business-standard.com/markets/news/q1-earnings-deliver-positive-surprise-has-market-priced-in-this-optimism-126081901284_1.html",
+          "pubDate": "2026-08-20T07:57:00+05:30"
+        },
+        {
+          "title": "Stock Market LIVE: GIFT Nifty signals positive open; Kospi jumps 6%; Brent crude tops $92",
+          "link": "https://www.business-standard.com/markets/news/stock-market-live-august-20-nse-bse-sensex-today-nifty50-gift-nifty-us-iran-tension-brent-crude-tempsens-instruments-ipo-126082000087_1.html",
+          "pubDate": "2026-08-20T07:52:58+05:30"
+        },
+        {
+          "title": "Adopt cautious stance, says Ajit Mishra; shares 3 stock ideas for near term",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-buy-today-adopt-cautious-stance-says-ajit-mishra-shares-3-stock-ideas-for-near-term-126082000086_1.html",
+          "pubDate": "2026-08-20T07:37:02+05:30"
+        },
+        {
+          "title": "IT sector Q1FY27 review: Tier-2 firms lead revenue growth amid soft demand",
+          "link": "https://www.business-standard.com/markets/news/it-sector-q1fy27-review-tier-2-firms-lead-revenue-growth-amid-soft-demand-126081900532_1.html",
+          "pubDate": "2026-08-20T07:31:15+05:30"
+        },
         {
           "title": "Why Gaja Alternative IPO stands out among three ongoing public offers",
           "link": "https://www.business-standard.com/markets/ipo/why-gaja-alternative-ipo-stands-out-among-three-ongoing-public-offers-126081900808_1.html",
@@ -1020,32 +1043,12 @@
           "title": "Chinese stocks fall sharply as chipmakers lead selloff",
           "link": "https://www.business-standard.com/markets/capital-market-news/chinese-stocks-fall-sharply-as-chipmakers-lead-selloff-126081900897_1.html",
           "pubDate": "2026-08-19T16:50:02+05:30"
-        },
-        {
-          "title": "Nifty August futures trade at premium",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-august-futures-trade-at-premium-126081900864_1.html",
-          "pubDate": "2026-08-19T16:31:18+05:30"
-        },
-        {
-          "title": "Market ends lower; Nifty settles below 24,100 level",
-          "link": "https://www.business-standard.com/markets/capital-market-news/market-ends-lower-nifty-settles-below-24-100-level-126081900836_1.html",
-          "pubDate": "2026-08-19T16:16:01+05:30"
-        },
-        {
-          "title": "'Work in progress': DEA joint secy on efforts to attract foreign capital",
-          "link": "https://www.business-standard.com/markets/capital-market-news/govt-eyes-foreign-capital-inflows-deeper-corporate-bond-mkt-alok-tiwari-126081900817_1.html",
-          "pubDate": "2026-08-19T16:02:30+05:30"
-        },
-        {
-          "title": "Infosys Aster recognized as Leader in Everest Group's Marketing Transformation Services PEAK Matrix",
-          "link": "https://www.business-standard.com/markets/capital-market-news/infosys-aster-recognized-as-leader-in-everest-group-s-marketing-transformation-services-peak-matrix-126081900804_1.html",
-          "pubDate": "2026-08-19T15:50:07+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-20T01:57:49.327649+00:00",
+      "updated_at": "2026-08-20T02:51:03.650413+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 20, 2026",

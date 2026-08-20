@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T23:36:09.371897+00:00",
+  "generated_at": "2026-08-20T23:56:42.374410+00:00",
   "indices": {
     "nifty50": {
       "price": 24231.85,
@@ -68,7 +68,7 @@
         24231.849609375
       ],
       "ok": true,
-      "updated_at": "2026-08-20T23:36:08.188341+00:00"
+      "updated_at": "2026-08-20T23:56:39.368492+00:00"
     },
     "sensex": {
       "price": 77537.72,
@@ -137,7 +137,7 @@
         77537.71875
       ],
       "ok": true,
-      "updated_at": "2026-08-20T23:36:08.246555+00:00"
+      "updated_at": "2026-08-20T23:56:39.505118+00:00"
     },
     "banknifty": {
       "price": 57495.9,
@@ -206,7 +206,7 @@
         57495.8984375
       ],
       "ok": true,
-      "updated_at": "2026-08-20T23:36:08.301641+00:00"
+      "updated_at": "2026-08-20T23:56:39.665807+00:00"
     },
     "vix": {
       "price": 10.755,
@@ -275,7 +275,7 @@
         10.755000114440918
       ],
       "ok": true,
-      "updated_at": "2026-08-20T23:36:08.389894+00:00"
+      "updated_at": "2026-08-20T23:56:39.811640+00:00"
     },
     "usdinr": {
       "price": 95.695,
@@ -283,17 +283,13 @@
       "pct": 0.0,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-20T23:36:08.448470+00:00"
+      "updated_at": "2026-08-20T23:56:39.949754+00:00"
     },
     "gold": {
-      "price": 4586.4,
-      "change": 15.0,
-      "pct": 0.3281,
+      "price": 4579.8,
+      "change": 8.4,
+      "pct": 0.1838,
       "closes": [
-        4573.60009765625,
-        4574.89990234375,
-        4575.7998046875,
-        4575.0,
         4576.0,
         4578.10009765625,
         4572.89990234375,
@@ -348,21 +344,21 @@
         4587.60009765625,
         4587.5,
         4584.7998046875,
-        4583.2001953125,
-        4586.39990234375
+        4583.10009765625,
+        4579.39990234375,
+        4579.7001953125,
+        4580.7998046875,
+        4583.5,
+        4579.7998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-20T23:36:08.526114+00:00"
+      "updated_at": "2026-08-20T23:56:40.113705+00:00"
     },
     "crude": {
-      "price": 86.32,
-      "change": -0.51,
-      "pct": -0.5874,
+      "price": 86.29,
+      "change": -0.54,
+      "pct": -0.6219,
       "closes": [
-        86.66000366210938,
-        86.62000274658203,
-        86.7300033569336,
-        86.55999755859375,
         86.5199966430664,
         86.55999755859375,
         86.41999816894531,
@@ -418,10 +414,14 @@
         86.27999877929688,
         86.33000183105469,
         86.30999755859375,
-        86.31999969482422
+        86.30999755859375,
+        86.30000305175781,
+        86.30999755859375,
+        86.2699966430664,
+        86.29000091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-20T23:36:08.604732+00:00"
+      "updated_at": "2026-08-20T23:56:40.304658+00:00"
     },
     "us10y": {
       "price": 4.696,
@@ -490,13 +490,13 @@
         4.696000099182129
       ],
       "ok": true,
-      "updated_at": "2026-08-20T23:36:08.677081+00:00"
+      "updated_at": "2026-08-20T23:56:40.441532+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-20T23:36:08.722714+00:00",
+      "updated_at": "2026-08-20T23:56:40.820864+00:00",
       "items": [
         {
           "title": "US stocks: US market sinks as bond yields rise, Walmart results disappoint",
@@ -733,8 +733,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-20T23:36:08.879603+00:00",
+      "updated_at": "2026-08-20T23:56:41.130000+00:00",
       "items": [
+        {
+          "title": "Hua Hong, Kingboard, Zijin Gold May Join Hong Kong’s Stock Index",
+          "link": "https://www.livemint.com/market/hua-hong-kingboard-zijin-gold-may-join-hong-kong-s-stock-index-11787269994025.html",
+          "pubDate": "2026-08-21T05:23:13+05:30"
+        },
+        {
+          "title": "EM Currencies Mixed as Treasury Buyback Lift Proves Short-Lived",
+          "link": "https://www.livemint.com/market/em-currencies-mixed-as-treasury-buyback-lift-proves-shortlived-11787269993697.html",
+          "pubDate": "2026-08-21T05:23:13+05:30"
+        },
         {
           "title": "Dollar rebounds from losses sparked by Treasury buyback plan",
           "link": "https://www.livemint.com/market/dollar-rebounds-from-losses-sparked-by-treasury-buyback-plan-11787255798556.html",
@@ -874,22 +884,12 @@
           "title": "Shankesh Jewellers IPO: Issue subscribed 2.80x so far, GMP jumps",
           "link": "https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-day-3-live-gmp-today-subscription-status-to-review-apply-or-not-11787202874519.html",
           "pubDate": "2026-08-20T12:00:49+05:30"
-        },
-        {
-          "title": "Sunshine Pictures IPO day 3: Issue subscribed 35 times so far; GMP signals 21% listing pop; should you subscribe?",
-          "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-3-issue-subscribed-35-times-so-far-gmp-signals-21-listing-pop-should-you-subscribe-11787204217812.html",
-          "pubDate": "2026-08-20T11:44:56+05:30"
-        },
-        {
-          "title": "Horizon Industrial Parks IPO allotment likely to be out today. Latest GMP, step-by-step guide to check status",
-          "link": "https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-gmp-horizon-industrial-parks-ipo-allotment-industrial-parks-ipo-subscriptionkfin-technologi-11787202547212.html",
-          "pubDate": "2026-08-20T11:10:05+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-20T23:36:09.302435+00:00",
+      "updated_at": "2026-08-20T23:56:41.389132+00:00",
       "items": [
         {
           "title": "Sebi permits digitally signed power of attorney to ease FPI onboarding",
@@ -1045,7 +1045,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-20T23:36:09.371885+00:00",
+      "updated_at": "2026-08-20T23:56:42.374395+00:00",
       "items": [
         {
           "title": "Appointment of Shri Somanath Sreedhara Panicker as part-time, Non-official Director on the Central Board of Reserve Bank of India",

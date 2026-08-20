@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T13:30:31.060496+00:00",
+  "generated_at": "2026-08-20T14:18:22.713942+00:00",
   "indices": {
     "nifty50": {
       "price": 24231.85,
@@ -36,7 +36,7 @@
         24244.30078125,
         24244.25,
         24244.94921875,
-        24248.75,
+        24248.5,
         24246.80078125,
         24241.0,
         24250.30078125,
@@ -47,8 +47,8 @@
         24246.25,
         24239.44921875,
         24232.94921875,
-        24233.94921875,
-        24235.75,
+        24233.599609375,
+        24236.599609375,
         24238.44921875,
         24238.0,
         24242.150390625,
@@ -61,14 +61,14 @@
         24238.099609375,
         24231.349609375,
         24215.69921875,
-        24213.69921875,
+        24212.349609375,
         24211.599609375,
         24211.599609375,
         24231.849609375,
         24231.849609375
       ],
       "ok": true,
-      "updated_at": "2026-08-20T13:30:29.660255+00:00"
+      "updated_at": "2026-08-20T14:18:19.833405+00:00"
     },
     "sensex": {
       "price": 77537.72,
@@ -137,7 +137,7 @@
         77537.71875
       ],
       "ok": true,
-      "updated_at": "2026-08-20T13:30:29.731944+00:00"
+      "updated_at": "2026-08-20T14:18:19.956581+00:00"
     },
     "banknifty": {
       "price": 57495.9,
@@ -206,7 +206,7 @@
         57495.8984375
       ],
       "ok": true,
-      "updated_at": "2026-08-20T13:30:29.792894+00:00"
+      "updated_at": "2026-08-20T14:18:20.078105+00:00"
     },
     "vix": {
       "price": 10.755,
@@ -275,15 +275,13 @@
         10.755000114440918
       ],
       "ok": true,
-      "updated_at": "2026-08-20T13:30:29.878057+00:00"
+      "updated_at": "2026-08-20T14:18:20.164710+00:00"
     },
     "usdinr": {
       "price": 95.695,
       "change": -0.048,
       "pct": -0.0501,
       "closes": [
-        95.6050033569336,
-        95.59200286865234,
         95.6050033569336,
         95.62000274658203,
         95.63999938964844,
@@ -341,25 +339,18 @@
         95.69499969482422,
         95.69499969482422,
         95.69499969482422,
+        95.69499969482422,
+        95.69499969482422,
         95.69499969482422
       ],
       "ok": true,
-      "updated_at": "2026-08-20T13:30:29.980066+00:00"
+      "updated_at": "2026-08-20T14:18:20.275589+00:00"
     },
     "gold": {
-      "price": 4530.3,
-      "change": -15.0,
-      "pct": -0.33,
+      "price": 4539.2,
+      "change": -6.1,
+      "pct": -0.1342,
       "closes": [
-        4550.0,
-        4548.7001953125,
-        4547.39990234375,
-        4544.89990234375,
-        4548.39990234375,
-        4546.10009765625,
-        4547.5,
-        4548.2998046875,
-        4549.10009765625,
         4545.89990234375,
         4546.60009765625,
         4546.7998046875,
@@ -410,25 +401,25 @@
         4527.89990234375,
         4529.5,
         4529.60009765625,
-        4530.2998046875
+        4526.7001953125,
+        4530.60009765625,
+        4538.60009765625,
+        4541.89990234375,
+        4537.0,
+        4540.7998046875,
+        4536.89990234375,
+        4538.39990234375,
+        4540.5,
+        4539.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-20T13:30:30.050068+00:00"
+      "updated_at": "2026-08-20T14:18:20.422417+00:00"
     },
     "crude": {
-      "price": 86.5,
-      "change": 2.11,
-      "pct": 2.5003,
+      "price": 86.71,
+      "change": 2.32,
+      "pct": 2.7491,
       "closes": [
-        86.25,
-        86.18000030517578,
-        86.33000183105469,
-        86.29000091552734,
-        86.30999755859375,
-        86.37999725341797,
-        86.30999755859375,
-        86.38999938964844,
-        86.54000091552734,
         86.5,
         86.5,
         86.55999755859375,
@@ -479,15 +470,24 @@
         86.5999984741211,
         86.48999786376953,
         86.55999755859375,
-        86.5
+        86.69000244140625,
+        86.7699966430664,
+        86.6500015258789,
+        86.62999725341797,
+        86.37999725341797,
+        86.37999725341797,
+        86.48999786376953,
+        86.6500015258789,
+        86.63999938964844,
+        86.70999908447266
       ],
       "ok": true,
-      "updated_at": "2026-08-20T13:30:30.161235+00:00"
+      "updated_at": "2026-08-20T14:18:20.553239+00:00"
     },
     "us10y": {
-      "price": 4.706,
-      "change": 0.053,
-      "pct": 1.1391,
+      "price": 4.698,
+      "change": 0.045,
+      "pct": 0.9671,
       "closes": [
         4.703999996185303,
         4.706000328063965,
@@ -500,16 +500,26 @@
         4.696000099182129,
         4.696000099182129,
         4.703999996185303,
-        4.706000328063965
+        4.699999809265137,
+        4.697999954223633,
+        4.699999809265137,
+        4.703999996185303,
+        4.697999954223633,
+        4.699999809265137,
+        4.696000099182129,
+        4.696000099182129,
+        4.699999809265137,
+        4.697999954223633,
+        4.697999954223633
       ],
       "ok": true,
-      "updated_at": "2026-08-20T13:30:30.209370+00:00"
+      "updated_at": "2026-08-20T14:18:20.632039+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-20T13:30:30.254544+00:00",
+      "updated_at": "2026-08-20T14:18:20.860259+00:00",
       "items": [
         {
           "title": "Power Finance Corporation and REC shares fall up to 3% after Morgan Stanley downgrade",
@@ -665,7 +675,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-20T13:30:30.581845+00:00",
+      "updated_at": "2026-08-20T14:18:21.230857+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -746,8 +756,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-20T13:30:30.720154+00:00",
+      "updated_at": "2026-08-20T14:18:21.429875+00:00",
       "items": [
+        {
+          "title": "Saatvik Green Energy arm bags  ₹190 crore solar PV module order",
+          "link": "https://www.livemint.com/market/stock-market-news/saatvik-green-energy-arm-bags-rs-190-crore-solar-pv-module-order-11787233362439.html",
+          "pubDate": "2026-08-20T19:38:27+05:30"
+        },
+        {
+          "title": "Wall Street stocks edge lower as bond yields rebound",
+          "link": "https://www.livemint.com/market/stock-market-news/wall-street-stocks-edge-lower-as-bond-yields-rebound-11787233341461.html",
+          "pubDate": "2026-08-20T19:33:16+05:30"
+        },
         {
           "title": "US stock market today: Wall Street futures remain flat amid concerns over rising bond yields, oil jitters",
           "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-futures-remain-flat-amid-oil-yield-concerns-11787225819415.html",
@@ -887,23 +907,18 @@
           "title": "Gold and silver prices rise on MCX amid a softer dollar, decline in the US bond yields",
           "link": "https://www.livemint.com/market/commodities/gold-and-silver-prices-rise-on-mcx-amid-a-softer-dollar-decline-in-the-us-bond-yields-11787197068727.html",
           "pubDate": "2026-08-20T09:12:46+05:30"
-        },
-        {
-          "title": "Stocks to buy for short term: Axis Bank among 3 shares Amol Athawale of Kotak Securities recommends for next 1-2 weeks",
-          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-axis-bank-among-3-shares-amol-athawale-of-kotak-securities-recommends-for-next-1-2-weeks-11787195752378.html",
-          "pubDate": "2026-08-20T09:06:02+05:30"
-        },
-        {
-          "title": "Rupee opens 19 paise higher at 95.56 against US dollar",
-          "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-19-paise-higher-at-95-56-against-us-dollar-11787196790993.html",
-          "pubDate": "2026-08-20T09:04:33+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-20T13:30:30.970004+00:00",
+      "updated_at": "2026-08-20T14:18:21.715819+00:00",
       "items": [
+        {
+          "title": "Nifty snaps 7-day losing streak as US Treasury move eases yield pressure",
+          "link": "https://www.business-standard.com/markets/news/nifty-snaps-7-day-losing-streak-as-us-treasury-move-eases-yield-pressure-126082001205_1.html",
+          "pubDate": "2026-08-20T19:18:04+05:30"
+        },
         {
           "title": "INR seen supported by dollar weakness and positive equities",
           "link": "https://www.business-standard.com/markets/capital-market-news/inr-seen-supported-by-dollar-weakness-and-positive-equities-126082001074_1.html",
@@ -1048,18 +1063,18 @@
           "title": "US dollar index slumps under 99 mark, Trump talks in favor of lower rates",
           "link": "https://www.business-standard.com/markets/capital-market-news/us-dollar-index-slumps-under-99-mark-trump-talks-in-favor-of-lower-rates-126082000585_1.html",
           "pubDate": "2026-08-20T13:50:59+05:30"
-        },
-        {
-          "title": "HDB Financial Services rises after brokerage upgrades stock to 'overweight'",
-          "link": "https://www.business-standard.com/markets/capital-market-news/hdb-financial-services-rises-after-brokerage-upgrades-stock-to-overweight-126082000584_1.html",
-          "pubDate": "2026-08-20T13:50:51+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-20T13:30:31.060479+00:00",
+      "updated_at": "2026-08-20T14:18:22.713924+00:00",
       "items": [
+        {
+          "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 21, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63410",
+          "pubDate": "2026-08-20T19:05:00+00:00"
+        },
         {
           "title": "Result of the Second Overnight Variable Rate Reverse Repo (VRRR) auction held on August 20, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63409",
@@ -1104,11 +1119,6 @@
           "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63401",
           "pubDate": "2026-08-19T13:40:00+00:00"
-        },
-        {
-          "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on August 19, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63400",
-          "pubDate": "2026-08-19T10:15:00+00:00"
         }
       ]
     }

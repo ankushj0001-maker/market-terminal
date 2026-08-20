@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:14:01.638135+00:00",
+  "generated_at": "2026-08-20T11:41:25.906505+00:00",
   "indices": {
     "nifty50": {
       "price": 24231.85,
@@ -68,7 +68,7 @@
         24231.849609375
       ],
       "ok": true,
-      "updated_at": "2026-08-20T11:13:59.929440+00:00"
+      "updated_at": "2026-08-20T11:41:23.180325+00:00"
     },
     "sensex": {
       "price": 77537.72,
@@ -137,7 +137,7 @@
         77537.71875
       ],
       "ok": true,
-      "updated_at": "2026-08-20T11:13:59.981300+00:00"
+      "updated_at": "2026-08-20T11:41:23.284704+00:00"
     },
     "banknifty": {
       "price": 57495.9,
@@ -182,7 +182,7 @@
         57616.6484375,
         57576.94921875,
         57570.69921875,
-        57598.44921875,
+        57595.5,
         57577.19921875,
         57561.75,
         57559.3984375,
@@ -193,9 +193,9 @@
         57535.75,
         57540.69921875,
         57553.5,
-        57523.5,
+        57526.69921875,
         57534.5,
-        57528.6015625,
+        57528.75,
         57536.44921875,
         57509.55078125,
         57473.19921875,
@@ -206,7 +206,7 @@
         57495.8984375
       ],
       "ok": true,
-      "updated_at": "2026-08-20T11:14:00.045356+00:00"
+      "updated_at": "2026-08-20T11:41:23.354907+00:00"
     },
     "vix": {
       "price": 10.755,
@@ -275,7 +275,7 @@
         10.755000114440918
       ],
       "ok": true,
-      "updated_at": "2026-08-20T11:14:00.104560+00:00"
+      "updated_at": "2026-08-20T11:41:23.508976+00:00"
     },
     "usdinr": {
       "price": 95.695,
@@ -344,19 +344,13 @@
         95.69499969482422
       ],
       "ok": true,
-      "updated_at": "2026-08-20T11:14:00.163297+00:00"
+      "updated_at": "2026-08-20T11:41:23.634456+00:00"
     },
     "gold": {
-      "price": 4547.1,
-      "change": 1.8,
-      "pct": 0.0396,
+      "price": 4540.0,
+      "change": -5.3,
+      "pct": -0.1166,
       "closes": [
-        4550.10009765625,
-        4551.2998046875,
-        4550.5,
-        4551.2998046875,
-        4552.5,
-        4551.2001953125,
         4550.10009765625,
         4550.60009765625,
         4549.39990234375,
@@ -410,22 +404,22 @@
         4544.2998046875,
         4546.39990234375,
         4545.0,
-        4547.10009765625
+        4543.7998046875,
+        4541.7998046875,
+        4538.89990234375,
+        4544.0,
+        4540.7998046875,
+        4541.2001953125,
+        4540.0
       ],
       "ok": true,
-      "updated_at": "2026-08-20T11:14:00.215900+00:00"
+      "updated_at": "2026-08-20T11:41:23.780885+00:00"
     },
     "crude": {
-      "price": 86.81,
-      "change": 2.42,
-      "pct": 2.8676,
+      "price": 87.08,
+      "change": 2.69,
+      "pct": 3.1876,
       "closes": [
-        84.5,
-        84.58999633789062,
-        84.58000183105469,
-        84.68000030517578,
-        84.62000274658203,
-        84.80000305175781,
         84.75,
         84.8499984741211,
         84.8499984741211,
@@ -479,10 +473,16 @@
         86.72000122070312,
         86.73999786376953,
         86.8499984741211,
-        86.80999755859375
+        86.83999633789062,
+        86.87000274658203,
+        87.0,
+        87.0,
+        87.05000305175781,
+        87.11000061035156,
+        87.08000183105469
       ],
       "ok": true,
-      "updated_at": "2026-08-20T11:14:00.271063+00:00"
+      "updated_at": "2026-08-20T11:41:23.908378+00:00"
     },
     "us10y": {
       "price": 4.653,
@@ -551,13 +551,13 @@
         4.6529998779296875
       ],
       "ok": true,
-      "updated_at": "2026-08-20T11:14:00.329447+00:00"
+      "updated_at": "2026-08-20T11:41:24.039178+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-20T11:14:00.376562+00:00",
+      "updated_at": "2026-08-20T11:41:24.197923+00:00",
       "items": [
         {
           "title": "Power Finance Corporation and REC shares fall up to 3% after Morgan Stanley downgrade",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-20T11:14:00.414938+00:00",
+      "updated_at": "2026-08-20T11:41:24.595423+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-20T11:14:00.601472+00:00",
+      "updated_at": "2026-08-20T11:41:24.839691+00:00",
       "items": [
+        {
+          "title": "NTPC to JSW Energy: Axis Direct recommends these three power &amp; utility stocks to buy after Q1",
+          "link": "https://www.livemint.com/market/stock-market-news/ntpc-to-jsw-energy-axis-direct-recommends-these-three-power-utility-stocks-to-buy-after-q1-11787223164774.html",
+          "pubDate": "2026-08-20T16:45:35+05:30"
+        },
         {
           "title": "Top Gainers &amp; Losers on 20 Aug: Balrampur Chini Mills, Meesho, MCX, Redington, Muthoot Finance among top gainers",
           "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-20-aug-balrampur-chini-mills-meesho-mcx-redington-muthoot-finance-among-top-gainers-11787220431554.html",
@@ -940,18 +945,38 @@
           "title": "Stocks to watch: HDFC Bank, BSE, Oil India among shares in focus today; check list here",
           "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-hdfc-bank-bse-oil-india-among-shares-in-focus-today-check-list-here-11787192672692.html",
           "pubDate": "2026-08-20T08:18:23+05:30"
-        },
-        {
-          "title": "Stock market today: Gift Nifty hints a positive start; eight day trading stocks to buy on Thursday, 20 August",
-          "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-a-positive-start-eight-day-trading-stocks-to-buy-on-thursday-20-august-11787191132574.html",
-          "pubDate": "2026-08-20T08:02:57+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-20T11:14:00.643892+00:00",
+      "updated_at": "2026-08-20T11:41:25.173947+00:00",
       "items": [
+        {
+          "title": "Nifty breaks losing streak, Sensex rallies 628 points; sugar stocks shine",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-breaks-losing-streak-sensex-rallies-628-points-sugar-stocks-shine-126082000932_1.html",
+          "pubDate": "2026-08-20T17:04:09+05:30"
+        },
+        {
+          "title": "Quick Wrap: Nifty Media Index records a surge of 2.13%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/quick-wrap-nifty-media-index-records-a-surge-of-2-13-126082000931_1.html",
+          "pubDate": "2026-08-20T17:04:01+05:30"
+        },
+        {
+          "title": "Nifty August futures trade at premium",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-august-futures-trade-at-premium-126082000909_1.html",
+          "pubDate": "2026-08-20T16:50:31+05:30"
+        },
+        {
+          "title": "India to host the 12th BRICS Communications Ministers Meeting on 21st August 2026",
+          "link": "https://www.business-standard.com/markets/capital-market-news/india-to-host-the-12th-brics-communications-ministers-meeting-on-21st-august-2026-126082000903_1.html",
+          "pubDate": "2026-08-20T16:50:02+05:30"
+        },
+        {
+          "title": "Sebi to test bond tokenisation, eyes deeper corporate bond repo market",
+          "link": "https://www.business-standard.com/markets/news/sebi-to-test-bond-tokenisation-eyes-deeper-corporate-bond-repo-market-126082000885_1.html",
+          "pubDate": "2026-08-20T16:38:10+05:30"
+        },
         {
           "title": "Barometers end with substantial gains; Nifty settles above 24,200",
           "link": "https://www.business-standard.com/markets/capital-market-news/barometers-end-with-substantial-gains-nifty-settles-above-24-200-126082000835_1.html",
@@ -1076,37 +1101,12 @@
           "title": "NISUS launches its first tokenised offering - NIFCOT1",
           "link": "https://www.business-standard.com/markets/capital-market-news/nisus-launches-its-first-tokenised-offering-nifcot1-126082000579_1.html",
           "pubDate": "2026-08-20T13:50:01+05:30"
-        },
-        {
-          "title": "PFC, REC drop up to 3% as Morgan Stanley downgrades amid loan growth woes",
-          "link": "https://www.business-standard.com/markets/news/pfc-rec-drop-up-to-3-as-morgan-stanley-downgrades-amid-loan-growth-woes-126082000539_1.html",
-          "pubDate": "2026-08-20T13:47:45+05:30"
-        },
-        {
-          "title": "Tata Motors stock rebounds 22% from June low, nears record high",
-          "link": "https://www.business-standard.com/markets/news/tata-motors-stock-rebounds-22-from-june-low-nears-record-high-126082000529_1.html",
-          "pubDate": "2026-08-20T13:46:16+05:30"
-        },
-        {
-          "title": "Board of NHC Foods to consider fund raising options",
-          "link": "https://www.business-standard.com/markets/capital-market-news/board-of-nhc-foods-to-consider-fund-raising-options-126082000549_1.html",
-          "pubDate": "2026-08-20T13:31:12+05:30"
-        },
-        {
-          "title": "NSE may allow its shares to trade on its own platform after BSE listing",
-          "link": "https://www.business-standard.com/markets/news/nse-may-allow-its-shares-to-trade-on-its-own-platform-after-bse-listing-126082000546_1.html",
-          "pubDate": "2026-08-20T13:30:26+05:30"
-        },
-        {
-          "title": "Lupin inks pact with Tenpoint Therapeutics to commercialize YUVEZZI in select countries",
-          "link": "https://www.business-standard.com/markets/capital-market-news/lupin-inks-pact-with-tenpoint-therapeutics-to-commercialize-yuvezzi-in-select-countries-126082000523_1.html",
-          "pubDate": "2026-08-20T13:16:19+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-20T11:14:01.638117+00:00",
+      "updated_at": "2026-08-20T11:41:25.906489+00:00",
       "items": [
         {
           "title": "Result of the Second Overnight Variable Rate Reverse Repo (VRRR) auction held on August 20, 2026",

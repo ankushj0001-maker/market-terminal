@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-08-20T09:47:31.570196+00:00",
+  "generated_at": "2026-08-20T10:16:03.985226+00:00",
   "indices": {
     "nifty50": {
-      "price": 24211.6,
-      "change": 56.7,
-      "pct": 0.2347,
+      "price": 24231.85,
+      "change": 76.95,
+      "pct": 0.3186,
       "closes": [
-        24210.150390625,
-        24210.19921875,
         24205.0,
         24211.849609375,
         24215.55078125,
@@ -38,7 +36,7 @@
         24244.30078125,
         24244.25,
         24244.94921875,
-        24248.5,
+        24248.75,
         24246.80078125,
         24241.0,
         24250.30078125,
@@ -49,8 +47,8 @@
         24246.25,
         24239.44921875,
         24232.94921875,
-        24233.599609375,
-        24236.599609375,
+        24233.94921875,
+        24235.75,
         24238.44921875,
         24238.0,
         24242.150390625,
@@ -63,23 +61,20 @@
         24238.099609375,
         24231.349609375,
         24215.69921875,
-        24212.349609375,
+        24213.69921875,
         24211.599609375,
-        24211.599609375
+        24211.599609375,
+        24231.849609375,
+        24231.849609375
       ],
       "ok": true,
-      "updated_at": "2026-08-20T09:47:23.841444+00:00"
+      "updated_at": "2026-08-20T10:16:01.804812+00:00"
     },
     "sensex": {
-      "price": 77531.34,
-      "change": 295.84,
-      "pct": 0.383,
+      "price": 77537.72,
+      "change": 302.22,
+      "pct": 0.3913,
       "closes": [
-        77492.3828125,
-        77492.8125,
-        77493.0078125,
-        77446.6796875,
-        77441.2109375,
         77421.8671875,
         77439.9921875,
         77435.9921875,
@@ -133,19 +128,22 @@
         77556.0,
         77565.921875,
         77553.859375,
-        77495.2265625,
-        77531.34375
+        77581.0,
+        77476.59375,
+        77488.1875,
+        77519.109375,
+        77438.8984375,
+        77537.71875,
+        77537.71875
       ],
       "ok": true,
-      "updated_at": "2026-08-20T09:47:24.287328+00:00"
+      "updated_at": "2026-08-20T10:16:01.940910+00:00"
     },
     "banknifty": {
-      "price": 57444.05,
-      "change": 181.65,
-      "pct": 0.3172,
+      "price": 57495.9,
+      "change": 233.5,
+      "pct": 0.4078,
       "closes": [
-        57639.3984375,
-        57630.5,
         57629.69921875,
         57656.3984375,
         57678.05078125,
@@ -203,18 +201,18 @@
         57473.19921875,
         57448.6015625,
         57444.05078125,
-        57444.05078125
+        57444.05078125,
+        57495.8984375,
+        57495.8984375
       ],
       "ok": true,
-      "updated_at": "2026-08-20T09:47:24.386151+00:00"
+      "updated_at": "2026-08-20T10:16:02.012243+00:00"
     },
     "vix": {
-      "price": 10.715,
-      "change": -0.675,
-      "pct": -5.9263,
+      "price": 10.755,
+      "change": -0.635,
+      "pct": -5.5751,
       "closes": [
-        10.662500381469727,
-        10.667499542236328,
         10.675000190734863,
         10.672499656677246,
         10.699999809265137,
@@ -271,20 +269,19 @@
         10.65999984741211,
         10.65250015258789,
         10.632499694824219,
-        10.779999732971191,
-        10.71500015258789
+        10.71500015258789,
+        10.78499984741211,
+        10.824999809265137,
+        10.755000114440918
       ],
       "ok": true,
-      "updated_at": "2026-08-20T09:47:24.483640+00:00"
+      "updated_at": "2026-08-20T10:16:02.073023+00:00"
     },
     "usdinr": {
       "price": 95.695,
       "change": -0.048,
       "pct": -0.0501,
       "closes": [
-        95.5999984741211,
-        95.61000061035156,
-        95.61499786376953,
         95.60749816894531,
         95.6050033569336,
         95.6050033569336,
@@ -340,33 +337,30 @@
         95.69200134277344,
         95.70999908447266,
         95.69200134277344,
-        95.69000244140625,
+        95.697998046875,
+        95.70500183105469,
+        95.69999694824219,
+        95.69499969482422,
         95.69499969482422
       ],
       "ok": true,
-      "updated_at": "2026-08-20T09:47:24.584722+00:00"
+      "updated_at": "2026-08-20T10:16:02.144607+00:00"
     },
     "gold": {
-      "price": 4543.3,
-      "change": -2.0,
-      "pct": -0.044,
+      "price": 4542.9,
+      "change": -2.4,
+      "pct": -0.0528,
       "closes": [
-        4548.0,
-        4547.60009765625,
-        4546.10009765625,
-        4548.7001953125,
-        4548.39990234375,
-        4542.89990234375,
         4542.2001953125,
         4544.0,
         4540.5,
         4537.7001953125,
-        4537.5,
+        4537.2001953125,
         4537.7998046875,
         4538.60009765625,
         4535.7001953125,
         4538.5,
-        4545.89990234375,
+        4545.7998046875,
         4547.2998046875,
         4550.10009765625,
         4551.2998046875,
@@ -375,14 +369,14 @@
         4552.5,
         4551.2001953125,
         4550.10009765625,
-        4550.7998046875,
+        4550.60009765625,
         4549.39990234375,
         4550.7998046875,
-        4545.7998046875,
+        4545.7001953125,
         4546.0,
         4544.5,
         4543.7998046875,
-        4542.2998046875,
+        4542.39990234375,
         4540.5,
         4546.5,
         4546.2001953125,
@@ -395,7 +389,7 @@
         4551.39990234375,
         4553.60009765625,
         4552.7001953125,
-        4548.60009765625,
+        4548.5,
         4550.0,
         4548.7001953125,
         4547.39990234375,
@@ -406,26 +400,26 @@
         4548.2998046875,
         4549.10009765625,
         4545.89990234375,
-        4546.39990234375,
+        4546.60009765625,
         4546.7998046875,
-        4544.60009765625,
+        4544.5,
         4542.7998046875,
-        4543.2998046875
+        4545.7001953125,
+        4542.10009765625,
+        4540.5,
+        4538.89990234375,
+        4542.10009765625,
+        4546.10009765625,
+        4542.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-20T09:47:24.681772+00:00"
+      "updated_at": "2026-08-20T10:16:02.249373+00:00"
     },
     "crude": {
-      "price": 86.46,
-      "change": 2.07,
-      "pct": 2.4529,
+      "price": 86.58,
+      "change": 2.19,
+      "pct": 2.5951,
       "closes": [
-        84.41000366210938,
-        84.41000366210938,
-        84.47000122070312,
-        84.44000244140625,
-        84.44000244140625,
-        84.4000015258789,
         84.37999725341797,
         84.44000244140625,
         84.36000061035156,
@@ -479,10 +473,16 @@
         86.55999755859375,
         86.44000244140625,
         86.33000183105469,
-        86.45999908447266
+        86.29000091552734,
+        86.55000305175781,
+        86.66999816894531,
+        86.7699966430664,
+        86.58000183105469,
+        86.62999725341797,
+        86.58000183105469
       ],
       "ok": true,
-      "updated_at": "2026-08-20T09:47:24.778748+00:00"
+      "updated_at": "2026-08-20T10:16:02.296611+00:00"
     },
     "us10y": {
       "price": 4.653,
@@ -551,13 +551,13 @@
         4.6529998779296875
       ],
       "ok": true,
-      "updated_at": "2026-08-20T09:47:24.882095+00:00"
+      "updated_at": "2026-08-20T10:16:02.656371+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-20T09:47:24.960320+00:00",
+      "updated_at": "2026-08-20T10:16:02.722711+00:00",
       "items": [
         {
           "title": "Power Finance Corporation and REC shares fall up to 3% after Morgan Stanley downgrade",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-20T09:47:25.488122+00:00",
+      "updated_at": "2026-08-20T10:16:02.849910+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-20T09:47:25.592488+00:00",
+      "updated_at": "2026-08-20T10:16:03.012685+00:00",
       "items": [
+        {
+          "title": "Top Gainers &amp; Losers on 20 Aug: Balrampur Chini Mills, Meesho, MCX, Redington, Muthoot Finance among top gainers",
+          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-20-aug-balrampur-chini-mills-meesho-mcx-redington-muthoot-finance-among-top-gainers-11787220431554.html",
+          "pubDate": "2026-08-20T15:41:05+05:30"
+        },
+        {
+          "title": "Kalpataru Projects, GR Infraprojects, RITES: Axis Securities recommends these three infra stocks after Q1FY27 results",
+          "link": "https://www.livemint.com/market/stock-market-news/kalpataru-projects-gr-infraprojects-rites-axis-securities-recommends-these-three-infra-stocks-after-q1fy27-results-11787217214714.html",
+          "pubDate": "2026-08-20T15:25:39+05:30"
+        },
         {
           "title": "BSE mulling the launch of derivatives in India linked to MSCI indices. Details here",
           "link": "https://www.livemint.com/market/stock-market-news/bse-mulling-the-launch-of-derivatives-in-india-linked-to-msci-indices-details-here-11787216791308.html",
@@ -935,23 +945,18 @@
           "title": "Stock market today: Gift Nifty hints a positive start; eight day trading stocks to buy on Thursday, 20 August",
           "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-a-positive-start-eight-day-trading-stocks-to-buy-on-thursday-20-august-11787191132574.html",
           "pubDate": "2026-08-20T08:02:57+05:30"
-        },
-        {
-          "title": "Nikkei, KOSPI to US stocks: Global equity heatmap you must know before opening bell of the Indian stock market — Aug 20",
-          "link": "https://www.livemint.com/market/stock-market-news/nikkei-225-kospi-to-us-stocks-global-markets-equity-heatmap-before-opening-bell-of-the-indian-stock-market-august-20-11787189831233.html",
-          "pubDate": "2026-08-20T07:56:47+05:30"
-        },
-        {
-          "title": "Crude oil prices rise for fifth session straight after US President Trump targets Iran's economy; Brent above $92/bbl",
-          "link": "https://www.livemint.com/market/commodities/crude-oil-prices-rise-for-fifth-session-straight-after-us-president-trump-targets-irans-economy-brent-above-92bbl-11787190791752.html",
-          "pubDate": "2026-08-20T07:48:20+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-20T09:47:25.728897+00:00",
+      "updated_at": "2026-08-20T10:16:03.118015+00:00",
       "items": [
+        {
+          "title": "Vipul Organics surges after commencing operations at greenfield Sayakha facility",
+          "link": "https://www.business-standard.com/markets/capital-market-news/vipul-organics-surges-after-commencing-operations-at-greenfield-sayakha-facility-126082000754_1.html",
+          "pubDate": "2026-08-20T15:31:18+05:30"
+        },
         {
           "title": "Himadri Speciality Chemical Ltd leads losers in 'A' group",
           "link": "https://www.business-standard.com/markets/capital-market-news/himadri-speciality-chemical-ltd-leads-losers-in-a-group-126082000691_1.html",
@@ -1096,17 +1101,12 @@
           "title": "Sambandam Spinning Mills Ltd leads gainers in 'B' group",
           "link": "https://www.business-standard.com/markets/capital-market-news/sambandam-spinning-mills-ltd-leads-gainers-in-b-group-126082000489_1.html",
           "pubDate": "2026-08-20T12:50:34+05:30"
-        },
-        {
-          "title": "Sensex jumps 524 pts; media shares in demand",
-          "link": "https://www.business-standard.com/markets/capital-market-news/sensex-jumps-524-pts-media-shares-in-demand-126082000488_1.html",
-          "pubDate": "2026-08-20T12:50:16+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-20T09:47:31.570179+00:00",
+      "updated_at": "2026-08-20T10:16:03.985209+00:00",
       "items": [
         {
           "title": "Result of the Second Overnight Variable Rate Reverse Repo (VRRR) auction held on August 20, 2026",

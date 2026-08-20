@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T15:00:18.361430+00:00",
+  "generated_at": "2026-08-20T15:45:41.015476+00:00",
   "indices": {
     "nifty50": {
       "price": 24231.85,
@@ -36,7 +36,7 @@
         24244.30078125,
         24244.25,
         24244.94921875,
-        24248.75,
+        24248.5,
         24246.80078125,
         24241.0,
         24250.30078125,
@@ -47,8 +47,8 @@
         24246.25,
         24239.44921875,
         24232.94921875,
-        24233.94921875,
-        24235.75,
+        24233.599609375,
+        24236.599609375,
         24238.44921875,
         24238.0,
         24242.150390625,
@@ -61,14 +61,14 @@
         24238.099609375,
         24231.349609375,
         24215.69921875,
-        24213.69921875,
+        24212.349609375,
         24211.599609375,
         24211.599609375,
         24231.849609375,
         24231.849609375
       ],
       "ok": true,
-      "updated_at": "2026-08-20T15:00:15.175543+00:00"
+      "updated_at": "2026-08-20T15:45:39.522522+00:00"
     },
     "sensex": {
       "price": 77537.72,
@@ -137,7 +137,7 @@
         77537.71875
       ],
       "ok": true,
-      "updated_at": "2026-08-20T15:00:15.224810+00:00"
+      "updated_at": "2026-08-20T15:45:39.571604+00:00"
     },
     "banknifty": {
       "price": 57495.9,
@@ -182,7 +182,7 @@
         57616.6484375,
         57576.94921875,
         57570.69921875,
-        57598.44921875,
+        57595.5,
         57577.19921875,
         57561.75,
         57559.3984375,
@@ -193,9 +193,9 @@
         57535.75,
         57540.69921875,
         57553.5,
-        57523.5,
+        57526.69921875,
         57534.5,
-        57528.6015625,
+        57528.75,
         57536.44921875,
         57509.55078125,
         57473.19921875,
@@ -206,7 +206,7 @@
         57495.8984375
       ],
       "ok": true,
-      "updated_at": "2026-08-20T15:00:15.312354+00:00"
+      "updated_at": "2026-08-20T15:45:39.617624+00:00"
     },
     "vix": {
       "price": 10.755,
@@ -275,7 +275,7 @@
         10.755000114440918
       ],
       "ok": true,
-      "updated_at": "2026-08-20T15:00:15.449777+00:00"
+      "updated_at": "2026-08-20T15:45:39.678293+00:00"
     },
     "usdinr": {
       "price": 95.695,
@@ -344,22 +344,13 @@
         95.69499969482422
       ],
       "ok": true,
-      "updated_at": "2026-08-20T15:00:15.527178+00:00"
+      "updated_at": "2026-08-20T15:45:39.731592+00:00"
     },
     "gold": {
-      "price": 4563.9,
-      "change": 18.6,
-      "pct": 0.4092,
+      "price": 4580.7,
+      "change": 35.4,
+      "pct": 0.7788,
       "closes": [
-        4542.10009765625,
-        4546.10009765625,
-        4547.10009765625,
-        4547.2998046875,
-        4545.2998046875,
-        4550.2001953125,
-        4549.7001953125,
-        4546.89990234375,
-        4547.5,
         4546.7001953125,
         4544.2998046875,
         4546.39990234375,
@@ -410,25 +401,25 @@
         4555.10009765625,
         4563.39990234375,
         4565.5,
-        4563.89990234375
+        4571.7001953125,
+        4591.60009765625,
+        4581.2001953125,
+        4591.5,
+        4595.89990234375,
+        4583.2998046875,
+        4588.60009765625,
+        4580.0,
+        4574.60009765625,
+        4580.7001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-20T15:00:15.605675+00:00"
+      "updated_at": "2026-08-20T15:45:39.836858+00:00"
     },
     "crude": {
-      "price": 86.21,
-      "change": 1.82,
-      "pct": 2.1567,
+      "price": 86.63,
+      "change": 2.24,
+      "pct": 2.6543,
       "closes": [
-        86.58000183105469,
-        86.62999725341797,
-        86.6500015258789,
-        86.62999725341797,
-        86.5999984741211,
-        86.58000183105469,
-        86.62000274658203,
-        86.66999816894531,
-        86.66000366210938,
         86.68000030517578,
         86.72000122070312,
         86.73999786376953,
@@ -479,15 +470,24 @@
         86.11000061035156,
         86.22000122070312,
         86.0999984741211,
-        86.20999908447266
+        86.02999877929688,
+        86.18000030517578,
+        86.05999755859375,
+        86.26000213623047,
+        86.30000305175781,
+        86.47000122070312,
+        86.52999877929688,
+        86.5999984741211,
+        86.68000030517578,
+        86.62999725341797
       ],
       "ok": true,
-      "updated_at": "2026-08-20T15:00:15.662905+00:00"
+      "updated_at": "2026-08-20T15:45:39.889492+00:00"
     },
     "us10y": {
-      "price": 4.69,
-      "change": 0.037,
-      "pct": 0.7952,
+      "price": 4.7,
+      "change": 0.047,
+      "pct": 1.0101,
       "closes": [
         4.703999996185303,
         4.706000328063965,
@@ -518,16 +518,25 @@
         4.690000057220459,
         4.688000202178955,
         4.691999912261963,
-        4.690000057220459
+        4.690000057220459,
+        4.688000202178955,
+        4.690000057220459,
+        4.677999973297119,
+        4.690000057220459,
+        4.688000202178955,
+        4.691999912261963,
+        4.702000141143799,
+        4.699999809265137,
+        4.699999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-20T15:00:15.755099+00:00"
+      "updated_at": "2026-08-20T15:45:39.931579+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-20T15:00:15.828075+00:00",
+      "updated_at": "2026-08-20T15:45:40.071529+00:00",
       "items": [
         {
           "title": "Power Finance Corporation and REC shares fall up to 3% after Morgan Stanley downgrade",
@@ -682,7 +691,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-20T15:00:16.021527+00:00",
       "items": [
         {
@@ -764,8 +773,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-20T15:00:16.139166+00:00",
+      "updated_at": "2026-08-20T15:45:40.484696+00:00",
       "items": [
+        {
+          "title": "Walmart shares plunge 10% to 9-month low after slowest US sales growth in six years",
+          "link": "https://www.livemint.com/market/stock-market-news/walmart-shares-plunge-10-to-9-month-low-after-slowest-us-sales-growth-in-six-years-11787235327638.html",
+          "pubDate": "2026-08-20T20:57:16+05:30"
+        },
         {
           "title": "Saatvik Green Energy arm bags  ₹190 crore solar PV module order",
           "link": "https://www.livemint.com/market/stock-market-news/saatvik-green-energy-arm-bags-rs-190-crore-solar-pv-module-order-11787233362439.html",
@@ -910,18 +924,18 @@
           "title": "Buy or sell: Gift Nifty hints at a strong start! Vaishali Parekh recommends three stocks to buy today — 20 August 2026",
           "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-hints-at-a-strong-start-vaishali-parekh-recommends-three-stocks-to-buy-today-20-august-2026-11787195070605.html",
           "pubDate": "2026-08-20T09:23:21+05:30"
-        },
-        {
-          "title": "Gold and silver prices rise on MCX amid a softer dollar, decline in the US bond yields",
-          "link": "https://www.livemint.com/market/commodities/gold-and-silver-prices-rise-on-mcx-amid-a-softer-dollar-decline-in-the-us-bond-yields-11787197068727.html",
-          "pubDate": "2026-08-20T09:12:46+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-20T15:00:16.446329+00:00",
+      "updated_at": "2026-08-20T15:45:40.505682+00:00",
       "items": [
+        {
+          "title": "Active derivatives traders fall 18% in FY26 to 8.75 million: Sebi study",
+          "link": "https://www.business-standard.com/markets/news/active-derivatives-traders-fall-18-in-fy26-to-8-75-million-sebi-study-126082001378_1.html",
+          "pubDate": "2026-08-20T20:48:30+05:30"
+        },
         {
           "title": "Nifty snaps 7-day losing streak as US Treasury move eases yield pressure",
           "link": "https://www.business-standard.com/markets/news/nifty-snaps-7-day-losing-streak-as-us-treasury-move-eases-yield-pressure-126082001205_1.html",
@@ -1066,18 +1080,23 @@
           "title": "Brahmaputra Infra wins WBSEDCL project valued at Rs 78.09 cr",
           "link": "https://www.business-standard.com/markets/capital-market-news/brahmaputra-infra-wins-wbsedcl-project-valued-at-rs-78-09-cr-126082000595_1.html",
           "pubDate": "2026-08-20T14:04:01+05:30"
-        },
-        {
-          "title": "US dollar index slumps under 99 mark, Trump talks in favor of lower rates",
-          "link": "https://www.business-standard.com/markets/capital-market-news/us-dollar-index-slumps-under-99-mark-trump-talks-in-favor-of-lower-rates-126082000585_1.html",
-          "pubDate": "2026-08-20T13:50:59+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-20T15:00:18.361412+00:00",
+      "updated_at": "2026-08-20T15:45:41.015461+00:00",
       "items": [
+        {
+          "title": "Appointment of Shri Somanath Sreedhara Panicker as part-time, Non-official Director on the Central Board of Reserve Bank of India",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63412",
+          "pubDate": "2026-08-20T20:25:00+00:00"
+        },
+        {
+          "title": "Re-appointment of Shri Anand Gopal Mahindra as part-time, Non-official Director on the Central Board of Reserve Bank of India",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63411",
+          "pubDate": "2026-08-20T20:20:00+00:00"
+        },
         {
           "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 21, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63410",
@@ -1117,16 +1136,6 @@
           "title": "Minutes of the Monetary Policy Committee Meeting, August 3 to 5, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63403",
           "pubDate": "2026-08-19T17:10:00+00:00"
-        },
-        {
-          "title": "Treasury Bills: Full Auction Result",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63402",
-          "pubDate": "2026-08-19T14:40:00+00:00"
-        },
-        {
-          "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63401",
-          "pubDate": "2026-08-19T13:40:00+00:00"
         }
       ]
     }

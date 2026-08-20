@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-20T05:55:02.280901+00:00",
+  "generated_at": "2026-08-20T06:21:02.346988+00:00",
   "indices": {
     "nifty50": {
-      "price": 24198.2,
-      "change": 119.9,
-      "pct": 0.498,
+      "price": 24212.85,
+      "change": 134.55,
+      "pct": 0.5588,
       "closes": [
         24192.849609375,
         24185.5,
@@ -31,16 +31,21 @@
         24211.44921875,
         24204.400390625,
         24198.75,
-        24198.44921875,
-        24198.19921875
+        24198.099609375,
+        24201.0,
+        24212.150390625,
+        24211.75,
+        24212.349609375,
+        24212.400390625,
+        24212.849609375
       ],
       "ok": true,
-      "updated_at": "2026-08-20T05:54:59.697199+00:00"
+      "updated_at": "2026-08-20T06:20:59.530567+00:00"
     },
     "sensex": {
-      "price": 77447.31,
-      "change": 537.63,
-      "pct": 0.699,
+      "price": 77433.57,
+      "change": 523.89,
+      "pct": 0.6812,
       "closes": [
         77398.640625,
         77393.34375,
@@ -64,20 +69,25 @@
         77421.6875,
         77448.5234375,
         77452.3125,
-        77441.3828125,
-        77447.3125
+        77446.8203125,
+        77424.6796875,
+        77404.3203125,
+        77385.953125,
+        77396.78125,
+        77428.7421875,
+        77433.5703125
       ],
       "ok": true,
-      "updated_at": "2026-08-20T05:54:59.828519+00:00"
+      "updated_at": "2026-08-20T06:20:59.750221+00:00"
     },
     "banknifty": {
-      "price": 57617.4,
-      "change": 377.65,
-      "pct": 0.6598,
+      "price": 57621.15,
+      "change": 381.4,
+      "pct": 0.6663,
       "closes": [
         57537.1484375,
         57511.1015625,
-        57582.80078125,
+        57585.30078125,
         57549.80078125,
         57589.6484375,
         57665.19921875,
@@ -100,16 +110,21 @@
         57681.0,
         57676.75,
         57642.30078125,
-        57627.8984375,
-        57617.3984375
+        57617.1015625,
+        57618.30078125,
+        57641.80078125,
+        57634.6015625,
+        57631.6484375,
+        57618.8515625,
+        57621.1484375
       ],
       "ok": true,
-      "updated_at": "2026-08-20T05:54:59.922335+00:00"
+      "updated_at": "2026-08-20T06:20:59.850387+00:00"
     },
     "vix": {
-      "price": 10.67,
-      "change": -0.6525,
-      "pct": -5.7629,
+      "price": 10.65,
+      "change": -0.6725,
+      "pct": -5.9395,
       "closes": [
         10.697500228881836,
         10.949999809265137,
@@ -137,15 +152,20 @@
         10.657500267028809,
         10.675000190734863,
         10.670000076293945,
-        10.670000076293945
+        10.667499542236328,
+        10.680000305175781,
+        10.704999923706055,
+        10.697500228881836,
+        10.645000457763672,
+        10.649999618530273
       ],
       "ok": true,
-      "updated_at": "2026-08-20T05:55:00.019523+00:00"
+      "updated_at": "2026-08-20T06:20:59.949095+00:00"
     },
     "usdinr": {
-      "price": 95.632,
-      "change": -0.111,
-      "pct": -0.1159,
+      "price": 95.63,
+      "change": -0.113,
+      "pct": -0.118,
       "closes": [
         95.74299621582031,
         95.74299621582031,
@@ -177,23 +197,28 @@
         95.62000274658203,
         95.63999938964844,
         95.63999938964844,
-        95.62799835205078,
-        95.63200378417969
+        95.63200378417969,
+        95.63999938964844,
+        95.64250183105469,
+        95.62999725341797,
+        95.63249969482422,
+        95.625,
+        95.62999725341797
       ],
       "ok": true,
-      "updated_at": "2026-08-20T05:55:00.118789+00:00"
+      "updated_at": "2026-08-20T06:21:00.048475+00:00"
     },
     "gold": {
-      "price": 4537.8,
-      "change": -7.5,
-      "pct": -0.165,
+      "price": 4549.1,
+      "change": 3.8,
+      "pct": 0.0836,
       "closes": [
         4553.10009765625,
         4554.10009765625,
         4553.60009765625,
         4553.89990234375,
         4552.7001953125,
-        4547.2998046875,
+        4547.39990234375,
         4545.89990234375,
         4544.7998046875,
         4544.39990234375,
@@ -207,17 +232,23 @@
         4544.0,
         4540.5,
         4537.7001953125,
-        4537.2001953125,
+        4537.5,
         4537.7998046875,
-        4537.7998046875
+        4538.60009765625,
+        4535.7001953125,
+        4538.5,
+        4545.89990234375,
+        4547.2998046875,
+        4550.10009765625,
+        4549.10009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-20T05:55:00.232502+00:00"
+      "updated_at": "2026-08-20T06:21:00.150539+00:00"
     },
     "crude": {
-      "price": 84.53,
-      "change": 0.14,
-      "pct": 0.1659,
+      "price": 84.48,
+      "change": 0.09,
+      "pct": 0.1066,
       "closes": [
         84.5,
         84.55000305175781,
@@ -240,10 +271,16 @@
         84.37999725341797,
         84.41000366210938,
         84.52999877929688,
-        84.52999877929688
+        84.61000061035156,
+        84.61000061035156,
+        84.55000305175781,
+        84.48999786376953,
+        84.54000091552734,
+        84.5,
+        84.4800033569336
       ],
       "ok": true,
-      "updated_at": "2026-08-20T05:55:00.306137+00:00"
+      "updated_at": "2026-08-20T06:21:00.247765+00:00"
     },
     "us10y": {
       "price": 4.653,
@@ -312,13 +349,13 @@
         4.6529998779296875
       ],
       "ok": true,
-      "updated_at": "2026-08-20T05:55:00.443913+00:00"
+      "updated_at": "2026-08-20T06:21:00.361069+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-20T05:55:00.648762+00:00",
+      "updated_at": "2026-08-20T06:21:00.483494+00:00",
       "items": [
         {
           "title": "Milky Mist Dairy Food shares slip 4% after sharp post-listing rally",
@@ -474,7 +511,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-20T05:55:00.841217+00:00",
+      "updated_at": "2026-08-20T06:21:00.818929+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -555,8 +592,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-20T05:55:01.119550+00:00",
+      "updated_at": "2026-08-20T06:21:00.963385+00:00",
       "items": [
+        {
+          "title": "Sunshine Pictures IPO day 3: Issue subscribed 35 times so far; GMP signals 21% listing pop; should you subscribe?",
+          "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-3-issue-subscribed-35-times-so-far-gmp-signals-21-listing-pop-should-you-subscribe-11787204217812.html",
+          "pubDate": "2026-08-20T11:44:56+05:30"
+        },
         {
           "title": "Horizon Industrial Parks IPO allotment likely to be out today. Latest GMP, step-by-step guide to check status",
           "link": "https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-gmp-horizon-industrial-parks-ipo-allotment-industrial-parks-ipo-subscriptionkfin-technologi-11787202547212.html",
@@ -701,18 +743,33 @@
           "title": "Target shares jump 6% as retailer raises full-year outlook on strong sales",
           "link": "https://www.livemint.com/market/stock-market-news/target-shares-jump-6-as-retailer-raises-full-year-outlook-on-strong-sales-11787157995874.html",
           "pubDate": "2026-08-19T22:56:47+05:30"
-        },
-        {
-          "title": "Korean investors dump home stocks for US ones, buy same names at a premium | Is KOSPI-style crash coming to Wall Street?",
-          "link": "https://www.livemint.com/market/stock-market-news/korean-investors-dump-home-stocks-for-us-buying-same-names-at-a-premium-is-wall-street-headed-for-kospi-style-crash-11787150873908.html",
-          "pubDate": "2026-08-19T22:47:56+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-20T05:55:01.451359+00:00",
+      "updated_at": "2026-08-20T06:21:01.110621+00:00",
       "items": [
+        {
+          "title": "Aditya Infotech rallies on Rs 1,500 crore fund-raising plan",
+          "link": "https://www.business-standard.com/markets/capital-market-news/aditya-infotech-rallies-on-rs-1-500-crore-fund-raising-plan-126082000408_1.html",
+          "pubDate": "2026-08-20T11:31:38+05:30"
+        },
+        {
+          "title": "NSE SME Credent Connect N Care gets a strong diagnosis from the market",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nse-sme-credent-connect-n-care-gets-a-strong-diagnosis-from-the-market-126082000407_1.html",
+          "pubDate": "2026-08-20T11:31:29+05:30"
+        },
+        {
+          "title": "Aditya Birla Capital rises on announcing foray into gold loan business",
+          "link": "https://www.business-standard.com/markets/capital-market-news/aditya-birla-capital-rises-on-announcing-foray-into-gold-loan-business-126082000406_1.html",
+          "pubDate": "2026-08-20T11:31:20+05:30"
+        },
+        {
+          "title": "Oil prices rise for fifth session as Iran war threatens global supply",
+          "link": "https://www.business-standard.com/markets/commodities/oil-prices-rise-for-fifth-session-as-iran-war-threatens-global-supply-126082000261_1.html",
+          "pubDate": "2026-08-20T11:23:25+05:30"
+        },
         {
           "title": "Unicommerce eSolutions climbs after expanding Urban Company partnership to UAE, Saudi Arabia",
           "link": "https://www.business-standard.com/markets/capital-market-news/unicommerce-esolutions-climbs-after-expanding-urban-company-partnership-to-uae-saudi-arabia-126082000384_1.html",
@@ -726,7 +783,7 @@
         {
           "title": "Goodluck India share price rallies 8% ahead of 2:1 bonus issue ex-date",
           "link": "https://www.business-standard.com/markets/news/goodluck-india-share-price-rallies-8-ahead-of-2-1-bonus-issue-ex-date-126082000336_1.html",
-          "pubDate": "2026-08-20T11:14:40+05:30"
+          "pubDate": "2026-08-20T11:14:42+05:30"
         },
         {
           "title": "Asian shares rise, South Korea's Kospi jumps 6% after Wall Street gains",
@@ -842,33 +899,18 @@
           "title": "Tempsens Instruments IPO: GMP at 73%; analysts assign 'subscribe' tag",
           "link": "https://www.business-standard.com/markets/ipo/tempsens-instruments-ipo-gmp-at-73-analysts-assign-subscribe-tag-126082000178_1.html",
           "pubDate": "2026-08-20T09:52:50+05:30"
-        },
-        {
-          "title": "INR rebounds well in opening trades as dollar turns lower",
-          "link": "https://www.business-standard.com/markets/capital-market-news/inr-rebounds-well-in-opening-trades-as-dollar-turns-lower-126082000196_1.html",
-          "pubDate": "2026-08-20T09:51:13+05:30"
-        },
-        {
-          "title": "RBI grants approval to LIC for raising stake in HDFC Bank to 9.99%",
-          "link": "https://www.business-standard.com/markets/capital-market-news/rbi-grants-approval-to-lic-for-raising-stake-in-hdfc-bank-to-9-99-126082000195_1.html",
-          "pubDate": "2026-08-20T09:51:05+05:30"
-        },
-        {
-          "title": "Reliance Industries rises on buzz of Rs 2.73 lakh crore coal gasification project",
-          "link": "https://www.business-standard.com/markets/capital-market-news/reliance-industries-rises-on-buzz-of-rs-2-73-lakh-crore-coal-gasification-project-126082000193_1.html",
-          "pubDate": "2026-08-20T09:50:56+05:30"
-        },
-        {
-          "title": "Oil India Ltd Slips 0.42%",
-          "link": "https://www.business-standard.com/markets/capital-market-news/oil-india-ltd-slips-0-42-126082000192_1.html",
-          "pubDate": "2026-08-20T09:50:49+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-20T05:55:02.280888+00:00",
+      "updated_at": "2026-08-20T06:21:02.346971+00:00",
       "items": [
+        {
+          "title": "Underwriting Auction for sale of Government Securities for &#8377;28,000 crore on August 21, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63408",
+          "pubDate": "2026-08-20T11:25:00+00:00"
+        },
         {
           "title": "RBI to conduct Second Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 20, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63407",
@@ -913,11 +955,6 @@
           "title": "Money Market Operations as on August 18, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63399",
           "pubDate": "2026-08-19T09:00:00+00:00"
-        },
-        {
-          "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 19, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63398",
-          "pubDate": "2026-08-18T19:05:00+00:00"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T11:58:46.396634+00:00",
+  "generated_at": "2026-08-21T12:38:35.034329+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
@@ -68,7 +68,7 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-21T11:58:43.759247+00:00"
+      "updated_at": "2026-08-21T12:38:33.416618+00:00"
     },
     "sensex": {
       "price": 77540.83,
@@ -137,7 +137,7 @@
         77540.828125
       ],
       "ok": true,
-      "updated_at": "2026-08-21T11:58:43.869556+00:00"
+      "updated_at": "2026-08-21T12:38:33.469954+00:00"
     },
     "banknifty": {
       "price": 57761.95,
@@ -206,7 +206,7 @@
         57761.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-21T11:58:43.945277+00:00"
+      "updated_at": "2026-08-21T12:38:33.557097+00:00"
     },
     "vix": {
       "price": 11.195,
@@ -275,7 +275,7 @@
         11.194999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-21T11:58:44.029432+00:00"
+      "updated_at": "2026-08-21T12:38:33.614452+00:00"
     },
     "usdinr": {
       "price": 95.685,
@@ -344,21 +344,13 @@
         95.68499755859375
       ],
       "ok": true,
-      "updated_at": "2026-08-21T11:58:44.163468+00:00"
+      "updated_at": "2026-08-21T12:38:33.717172+00:00"
     },
     "gold": {
-      "price": 4655.5,
-      "change": 84.1,
-      "pct": 1.8397,
+      "price": 4643.3,
+      "change": 71.9,
+      "pct": 1.5728,
       "closes": [
-        4617.89990234375,
-        4623.0,
-        4615.7998046875,
-        4618.39990234375,
-        4623.2001953125,
-        4620.7001953125,
-        4618.60009765625,
-        4619.2998046875,
         4621.2001953125,
         4621.10009765625,
         4623.10009765625,
@@ -410,24 +402,24 @@
         4654.60009765625,
         4654.2998046875,
         4657.10009765625,
-        4655.5
+        4655.2001953125,
+        4654.10009765625,
+        4652.89990234375,
+        4650.7998046875,
+        4650.0,
+        4645.2001953125,
+        4642.7998046875,
+        4642.2001953125,
+        4643.2998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-21T11:58:44.332183+00:00"
+      "updated_at": "2026-08-21T12:38:33.788438+00:00"
     },
     "crude": {
-      "price": 86.57,
-      "change": -0.26,
-      "pct": -0.2994,
+      "price": 87.13,
+      "change": 0.3,
+      "pct": 0.3455,
       "closes": [
-        86.29000091552734,
-        86.12999725341797,
-        86.37999725341797,
-        86.13999938964844,
-        86.2699966430664,
-        86.22000122070312,
-        86.41999816894531,
-        86.30999755859375,
         86.37000274658203,
         86.43000030517578,
         86.22000122070312,
@@ -479,85 +471,35 @@
         86.3499984741211,
         86.47000122070312,
         86.63999938964844,
-        86.56999969482422
+        86.83000183105469,
+        86.95999908447266,
+        86.93000030517578,
+        86.87000274658203,
+        87.12999725341797,
+        87.05000305175781,
+        87.22000122070312,
+        87.02999877929688,
+        87.12999725341797
       ],
       "ok": true,
-      "updated_at": "2026-08-21T11:58:44.431035+00:00"
+      "updated_at": "2026-08-21T12:38:33.846298+00:00"
     },
     "us10y": {
-      "price": 4.696,
-      "change": 0.043,
-      "pct": 0.9241,
+      "price": 4.694,
+      "change": -0.002,
+      "pct": -0.0426,
       "closes": [
-        4.699999809265137,
-        4.699999809265137,
         4.693999767303467,
-        4.691999912261963,
-        4.688000202178955,
-        4.688000202178955,
-        4.690000057220459,
-        4.688000202178955,
-        4.691999912261963,
-        4.690000057220459,
-        4.688000202178955,
-        4.690000057220459,
-        4.677999973297119,
-        4.690000057220459,
-        4.688000202178955,
-        4.691999912261963,
-        4.702000141143799,
-        4.699999809265137,
-        4.708000183105469,
-        4.708000183105469,
-        4.711999893188477,
-        4.706000328063965,
-        4.708000183105469,
-        4.703999996185303,
-        4.699999809265137,
-        4.702000141143799,
-        4.702000141143799,
-        4.699999809265137,
-        4.699999809265137,
-        4.699999809265137,
-        4.702000141143799,
-        4.702000141143799,
-        4.702000141143799,
-        4.699999809265137,
-        4.699999809265137,
-        4.699999809265137,
-        4.697999954223633,
-        4.696000099182129,
-        4.697999954223633,
-        4.699999809265137,
-        4.702000141143799,
-        4.702000141143799,
-        4.703999996185303,
-        4.706000328063965,
-        4.706000328063965,
-        4.703999996185303,
-        4.697999954223633,
-        4.697999954223633,
-        4.696000099182129,
-        4.697999954223633,
-        4.699999809265137,
-        4.699999809265137,
-        4.699999809265137,
-        4.699999809265137,
-        4.697999954223633,
-        4.699999809265137,
-        4.699999809265137,
-        4.699999809265137,
-        4.697999954223633,
-        4.696000099182129
+        4.693999767303467
       ],
       "ok": true,
-      "updated_at": "2026-08-21T11:58:44.530921+00:00"
+      "updated_at": "2026-08-21T12:38:33.917086+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-21T11:58:44.721288+00:00",
+      "updated_at": "2026-08-21T12:38:33.957435+00:00",
       "items": [
         {
           "title": "Hindustan Copper shares jump 4%. What’s driving the rally?",
@@ -713,7 +655,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-21T11:58:45.144725+00:00",
+      "updated_at": "2026-08-21T12:38:34.041707+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +736,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-21T11:58:45.586664+00:00",
+      "updated_at": "2026-08-21T12:38:34.120775+00:00",
       "items": [
+        {
+          "title": "US stock market today: Wall Street futures rebound from bond yield-driven sell-off",
+          "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-futures-rebound-from-bond-yield-driven-selloff-11787310418240.html",
+          "pubDate": "2026-08-21T17:49:51+05:30"
+        },
         {
           "title": "Penny stock under  ₹10 hits 20% upper circuit despite weak trend on Dalal Street",
           "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-10-nandan-denim-hits-20-upper-circuit-despite-weak-trend-on-dalal-street-11787309517444.html",
@@ -857,7 +804,7 @@
           "pubDate": "2026-08-21T12:32:24+05:30"
         },
         {
-          "title": "Nifty’s higher highs offer a bullish signal amid global turmoil",
+          "title": "In a bullish signal, market tiptoes to higher highs and higher lows",
           "link": "https://www.livemint.com/market/stock-market-news/niftys-higher-highs-offer-a-bullish-signal-amid-global-turmoil-11787283025704.html",
           "pubDate": "2026-08-21T12:27:46+05:30"
         },
@@ -940,18 +887,23 @@
           "title": "Lumino Industries IPO: Price band set at  ₹78- ₹82 per share; check key dates, issue details",
           "link": "https://www.livemint.com/market/ipo/lumino-industries-ipo-price-band-set-at-rs-78-82-per-share-check-key-dates-issue-details-11787282457238.html",
           "pubDate": "2026-08-21T08:58:22+05:30"
-        },
-        {
-          "title": "Evergrande Saga Highlights Short-Selling Risks, Andrew Left Says",
-          "link": "https://www.livemint.com/market/evergrande-saga-highlights-short-selling-risks-andrew-left-says-11787282900967.html",
-          "pubDate": "2026-08-21T08:58:20+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-21T11:58:45.855066+00:00",
+      "updated_at": "2026-08-21T12:38:34.190903+00:00",
       "items": [
+        {
+          "title": "Quick Wrap: Nifty Metal Index records a surge of 0.86%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/quick-wrap-nifty-metal-index-records-a-surge-of-0-86-126082101035_1.html",
+          "pubDate": "2026-08-21T17:50:02+05:30"
+        },
+        {
+          "title": "Augmont Enterprises IPO subscribed 2.74 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/augmont-enterprises-ipo-subscribed-2-74-times-126082100988_1.html",
+          "pubDate": "2026-08-21T17:31:02+05:30"
+        },
         {
           "title": "INR settles marginally higher as support from a weak dollar was offset by continued geopolitical tensions",
           "link": "https://www.business-standard.com/markets/capital-market-news/inr-settles-marginally-higher-as-support-from-a-weak-dollar-was-offset-by-continued-geopolitical-tensions-126082100970_1.html",
@@ -1091,23 +1043,23 @@
           "title": "Welspun Corp wins its largest order ever worth USD 1.8 billion",
           "link": "https://www.business-standard.com/markets/capital-market-news/welspun-corp-wins-its-largest-order-ever-worth-usd-1-8-billion-126082100581_1.html",
           "pubDate": "2026-08-21T13:31:12+05:30"
-        },
-        {
-          "title": "NMDC Steel gains after Crisil Ratings upgrades ratings to 'A' with 'stable' outlook",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nmdc-steel-gains-after-crisil-ratings-upgrades-ratings-to-a-with-stable-outlook-126082100566_1.html",
-          "pubDate": "2026-08-21T13:16:54+05:30"
-        },
-        {
-          "title": "Oriental Rail Infrastructure Ltd leads gainers in 'B' group",
-          "link": "https://www.business-standard.com/markets/capital-market-news/oriental-rail-infrastructure-ltd-leads-gainers-in-b-group-126082100565_1.html",
-          "pubDate": "2026-08-21T13:16:23+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-21T11:58:46.396617+00:00",
+      "updated_at": "2026-08-21T12:38:35.034312+00:00",
       "items": [
+        {
+          "title": "RBI imposes monetary penalty on Shri Ram Finance Corporation Private Limited",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63422",
+          "pubDate": "2026-08-21T17:35:00+00:00"
+        },
+        {
+          "title": "RBI imposes monetary penalty on Progfin Private Limited",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63421",
+          "pubDate": "2026-08-21T17:35:00+00:00"
+        },
         {
           "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63420",
@@ -1147,16 +1099,6 @@
           "title": "Money Market Operations as on August 20, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63413",
           "pubDate": "2026-08-21T09:00:00+00:00"
-        },
-        {
-          "title": "Appointment of Shri Somanath Sreedhara Panicker as part-time, Non-official Director on the Central Board of Reserve Bank of India",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63412",
-          "pubDate": "2026-08-20T20:25:00+00:00"
-        },
-        {
-          "title": "Re-appointment of Shri Anand Gopal Mahindra as part-time, Non-official Director on the Central Board of Reserve Bank of India",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63411",
-          "pubDate": "2026-08-20T20:20:00+00:00"
         }
       ]
     }

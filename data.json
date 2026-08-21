@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T16:16:37.165691+00:00",
+  "generated_at": "2026-08-21T16:56:49.933077+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
@@ -68,7 +68,7 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-21T16:16:35.091424+00:00"
+      "updated_at": "2026-08-21T16:56:46.259311+00:00"
     },
     "sensex": {
       "price": 77540.83,
@@ -137,7 +137,7 @@
         77540.828125
       ],
       "ok": true,
-      "updated_at": "2026-08-21T16:16:35.193768+00:00"
+      "updated_at": "2026-08-21T16:56:46.739827+00:00"
     },
     "banknifty": {
       "price": 57761.95,
@@ -206,7 +206,7 @@
         57761.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-21T16:16:35.245716+00:00"
+      "updated_at": "2026-08-21T16:56:46.884883+00:00"
     },
     "vix": {
       "price": 11.195,
@@ -275,15 +275,13 @@
         11.194999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-21T16:16:35.298752+00:00"
+      "updated_at": "2026-08-21T16:56:47.031998+00:00"
     },
     "usdinr": {
       "price": 95.685,
       "change": -0.01,
       "pct": -0.0104,
       "closes": [
-        95.72000122070312,
-        95.73249816894531,
         95.72000122070312,
         95.7300033569336,
         95.7249984741211,
@@ -341,24 +339,18 @@
         95.68499755859375,
         95.68499755859375,
         95.68499755859375,
+        95.68499755859375,
+        95.68499755859375,
         95.68499755859375
       ],
       "ok": true,
-      "updated_at": "2026-08-21T16:16:35.362613+00:00"
+      "updated_at": "2026-08-21T16:56:47.181393+00:00"
     },
     "gold": {
-      "price": 4671.0,
-      "change": 99.6,
-      "pct": 2.1788,
+      "price": 4679.5,
+      "change": 108.1,
+      "pct": 2.3647,
       "closes": [
-        4653.2998046875,
-        4655.39990234375,
-        4655.7001953125,
-        4652.0,
-        4654.60009765625,
-        4654.2998046875,
-        4657.10009765625,
-        4655.2001953125,
         4654.10009765625,
         4652.89990234375,
         4650.7998046875,
@@ -409,25 +401,25 @@
         4671.39990234375,
         4672.0,
         4674.2998046875,
-        4667.2998046875,
-        4671.0
+        4667.60009765625,
+        4672.10009765625,
+        4671.60009765625,
+        4670.2001953125,
+        4671.60009765625,
+        4673.2001953125,
+        4676.7001953125,
+        4678.89990234375,
+        4681.10009765625,
+        4679.5
       ],
       "ok": true,
-      "updated_at": "2026-08-21T16:16:35.439128+00:00"
+      "updated_at": "2026-08-21T16:56:47.366095+00:00"
     },
     "crude": {
-      "price": 86.94,
-      "change": 0.11,
-      "pct": 0.1267,
+      "price": 86.93,
+      "change": 0.1,
+      "pct": 0.1152,
       "closes": [
-        87.16999816894531,
-        86.5199966430664,
-        86.43000030517578,
-        86.3499984741211,
-        86.3499984741211,
-        86.47000122070312,
-        86.63999938964844,
-        86.83000183105469,
         86.95999908447266,
         86.93000030517578,
         86.87000274658203,
@@ -478,16 +470,24 @@
         86.76000213623047,
         86.80999755859375,
         86.8499984741211,
+        86.94000244140625,
+        86.87000274658203,
         86.91000366210938,
-        86.94000244140625
+        86.61000061035156,
+        86.58000183105469,
+        86.58999633789062,
+        86.8499984741211,
+        86.83000183105469,
+        86.77999877929688,
+        86.93000030517578
       ],
       "ok": true,
-      "updated_at": "2026-08-21T16:16:35.512221+00:00"
+      "updated_at": "2026-08-21T16:56:47.593834+00:00"
     },
     "us10y": {
-      "price": 4.734,
-      "change": 0.038,
-      "pct": 0.8092,
+      "price": 4.732,
+      "change": 0.036,
+      "pct": 0.7666,
       "closes": [
         4.693999767303467,
         4.691999912261963,
@@ -533,17 +533,25 @@
         4.730000019073486,
         4.73199987411499,
         4.73199987411499,
+        4.734000205993652,
+        4.736000061035156,
+        4.736000061035156,
+        4.73799991607666,
         4.73199987411499,
-        4.734000205993652
+        4.73199987411499,
+        4.734000205993652,
+        4.734000205993652,
+        4.734000205993652,
+        4.73199987411499
       ],
       "ok": true,
-      "updated_at": "2026-08-21T16:16:35.675630+00:00"
+      "updated_at": "2026-08-21T16:56:47.752720+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-21T16:16:35.741310+00:00",
+      "updated_at": "2026-08-21T16:56:47.920154+00:00",
       "items": [
         {
           "title": "US stocks: US market rebounds, but yield surge sets stage for weekly losses",
@@ -699,7 +707,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-21T16:16:36.081512+00:00",
+      "updated_at": "2026-08-21T16:56:48.329340+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -780,7 +788,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-21T16:16:36.282151+00:00",
+      "updated_at": "2026-08-21T16:56:48.534153+00:00",
       "items": [
         {
           "title": "Crude oil prices head for second weekly gain as US steps up economic pressure on Iran",
@@ -936,13 +944,8 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-21T16:16:36.412122+00:00",
+      "updated_at": "2026-08-21T16:56:48.974932+00:00",
       "items": [
-        {
-          "title": "Prop traders stay biggest derivatives winners as retail continues to lose",
-          "link": "https://www.business-standard.com/markets/capital-market-news/prop-traders-stay-biggest-derivatives-winners-as-retail-continues-to-lose-126082101242_1.html",
-          "pubDate": "2026-08-21T19:41:26+05:30"
-        },
         {
           "title": "Innovision receives toll collection mandate for Etaura Bujurg & Akhtiyari Kotila fee plaza",
           "link": "https://www.business-standard.com/markets/capital-market-news/innovision-receives-toll-collection-mandate-for-etaura-bujurg-akhtiyari-kotila-fee-plaza-126082101218_1.html",
@@ -994,9 +997,9 @@
           "pubDate": "2026-08-21T17:04:01+05:30"
         },
         {
-          "title": "Sebi proposes distribution model to deepen corporate bond market reach",
+          "title": "Sebi proposes distribution model to deepen corporate bond reach",
           "link": "https://www.business-standard.com/economy/news/sebi-proposes-distribution-model-to-deepen-corporate-bond-market-reach-126082100923_1.html",
-          "pubDate": "2026-08-21T16:55:01+05:30"
+          "pubDate": "2026-08-21T16:55:11+05:30"
         },
         {
           "title": "Tata Communications allots 68,894 equity shares under ESOP",
@@ -1087,12 +1090,17 @@
           "title": "Kabra Extrusiontechnik skyrockets 181% from June low; hits 52-week high",
           "link": "https://www.business-standard.com/markets/news/kabra-extrusiontechnik-skyrockets-181-from-june-low-hits-52-week-high-126082100655_1.html",
           "pubDate": "2026-08-21T14:33:01+05:30"
+        },
+        {
+          "title": "B.L. Kashyap & Sons secures order worth Rs 183 crore",
+          "link": "https://www.business-standard.com/markets/capital-market-news/b-l-kashyap-sons-secures-order-worth-rs-183-crore-126082100672_1.html",
+          "pubDate": "2026-08-21T14:31:27+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-21T16:16:37.165675+00:00",
+      "updated_at": "2026-08-21T16:56:49.933057+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T00:44:13.424369+00:00",
+  "generated_at": "2026-08-21T02:12:14.937060+00:00",
   "indices": {
     "nifty50": {
       "price": 24231.85,
@@ -68,7 +68,7 @@
         24231.849609375
       ],
       "ok": true,
-      "updated_at": "2026-08-21T00:44:09.157076+00:00"
+      "updated_at": "2026-08-21T02:12:12.780900+00:00"
     },
     "sensex": {
       "price": 77537.72,
@@ -137,7 +137,7 @@
         77537.71875
       ],
       "ok": true,
-      "updated_at": "2026-08-21T00:44:09.266414+00:00"
+      "updated_at": "2026-08-21T02:12:12.830506+00:00"
     },
     "banknifty": {
       "price": 57495.9,
@@ -206,7 +206,7 @@
         57495.8984375
       ],
       "ok": true,
-      "updated_at": "2026-08-21T00:44:09.378390+00:00"
+      "updated_at": "2026-08-21T02:12:12.884543+00:00"
     },
     "vix": {
       "price": 10.755,
@@ -275,7 +275,7 @@
         10.755000114440918
       ],
       "ok": true,
-      "updated_at": "2026-08-21T00:44:09.481784+00:00"
+      "updated_at": "2026-08-21T02:12:12.986355+00:00"
     },
     "usdinr": {
       "price": 95.695,
@@ -283,31 +283,13 @@
       "pct": 0.0,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-21T00:44:09.583183+00:00"
+      "updated_at": "2026-08-21T02:12:13.042227+00:00"
     },
     "gold": {
-      "price": 4571.3,
-      "change": -0.1,
-      "pct": -0.0022,
+      "price": 4585.2,
+      "change": 13.8,
+      "pct": 0.3019,
       "closes": [
-        4576.5,
-        4577.5,
-        4580.89990234375,
-        4578.5,
-        4578.2001953125,
-        4582.89990234375,
-        4584.2001953125,
-        4582.2001953125,
-        4583.5,
-        4579.2001953125,
-        4580.10009765625,
-        4584.7001953125,
-        4582.2001953125,
-        4584.7998046875,
-        4587.10009765625,
-        4584.89990234375,
-        4583.2998046875,
-        4579.5,
         4578.89990234375,
         4578.2998046875,
         4577.7998046875,
@@ -349,34 +331,34 @@
         4574.2998046875,
         4571.39990234375,
         4571.2001953125,
-        4571.2998046875
+        4569.39990234375,
+        4570.39990234375,
+        4568.60009765625,
+        4568.10009765625,
+        4567.2001953125,
+        4569.60009765625,
+        4570.39990234375,
+        4577.39990234375,
+        4580.89990234375,
+        4583.10009765625,
+        4586.39990234375,
+        4594.0,
+        4584.7001953125,
+        4582.39990234375,
+        4587.7001953125,
+        4582.39990234375,
+        4587.0,
+        4583.10009765625,
+        4585.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-21T00:44:09.713884+00:00"
+      "updated_at": "2026-08-21T02:12:13.124182+00:00"
     },
     "crude": {
-      "price": 86.27,
-      "change": -0.56,
-      "pct": -0.6449,
+      "price": 86.77,
+      "change": -0.06,
+      "pct": -0.0691,
       "closes": [
-        86.91000366210938,
-        86.91000366210938,
-        86.86000061035156,
-        86.86000061035156,
-        86.79000091552734,
-        86.76000213623047,
-        86.73999786376953,
-        86.76000213623047,
-        86.69999694824219,
-        86.69000244140625,
-        86.62999725341797,
-        86.55999755859375,
-        86.62000274658203,
-        86.66000366210938,
-        86.5999984741211,
-        86.5999984741211,
-        86.6500015258789,
-        86.56999969482422,
         86.55000305175781,
         86.5199966430664,
         86.58000183105469,
@@ -418,10 +400,28 @@
         86.12999725341797,
         86.18000030517578,
         86.25,
-        86.2699966430664
+        86.2699966430664,
+        86.29000091552734,
+        86.31999969482422,
+        86.41999816894531,
+        86.37000274658203,
+        86.30999755859375,
+        86.44999694824219,
+        86.62000274658203,
+        86.62000274658203,
+        86.62999725341797,
+        86.5999984741211,
+        86.58999633789062,
+        86.69000244140625,
+        86.83000183105469,
+        86.83999633789062,
+        86.66999816894531,
+        86.7300033569336,
+        86.72000122070312,
+        86.7699966430664
       ],
       "ok": true,
-      "updated_at": "2026-08-21T00:44:09.916447+00:00"
+      "updated_at": "2026-08-21T02:12:13.192614+00:00"
     },
     "us10y": {
       "price": 4.696,
@@ -490,43 +490,43 @@
         4.696000099182129
       ],
       "ok": true,
-      "updated_at": "2026-08-21T00:44:10.024956+00:00"
+      "updated_at": "2026-08-21T02:12:13.249653+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-21T00:44:10.138493+00:00",
+      "updated_at": "2026-08-21T02:12:13.405718+00:00",
       "items": [
         {
-          "title": "Foreign investors continue to buy, with financials top the list",
+          "title": "Can Augmont Enterprises IPO deliver long-term growth for high-risk investors?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-augmont-enterprises-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133390534.cms",
+          "pubDate": "2026-08-21T06:53:44+05:30"
+        },
+        {
+          "title": "Treasury heads in buying mode as 5-year yield jumps",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/treasury-heads-in-buying-mode-as-5-year-yield-jumps/articleshow/133390496.cms",
+          "pubDate": "2026-08-21T06:40:16+05:30"
+        },
+        {
+          "title": "88% retail investors lost money in F&amp;O trading in FY26: Sebi",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/88-retail-investors-lost-money-in-fo-trading-in-fy26-sebi/articleshow/133390440.cms",
+          "pubDate": "2026-08-21T06:30:04+05:30"
+        },
+        {
+          "title": "Sebi eases FPI onboarding with digital power of attorney",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-fpi-onboarding-with-digital-power-of-attorney/articleshow/133390422.cms",
+          "pubDate": "2026-08-21T06:22:53+05:30"
+        },
+        {
+          "title": "Bond yields are the 'Elephant in the Room' stock investors are ignoring",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bond-yields-are-the-elephant-in-the-room-stock-investors-are-ignoring/articleshow/133390377.cms",
+          "pubDate": "2026-08-21T06:17:00+05:30"
+        },
+        {
+          "title": "FPIs turn bullish on financials, autos and IT in first half of August",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-continue-to-buy-with-financials-top-the-list/articleshow/133389861.cms",
           "pubDate": "2026-08-21T05:46:28+05:30"
-        },
-        {
-          "title": "Protection, annuity more relevant in insurance products: Sumit Madan, MD &amp; CEO, Axis Max Life",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/protection-annuity-more-relevant-in-insurance-products-sumit-madan-md-ceo-axis-max-life/articleshow/133390261.cms",
-          "pubDate": "2026-08-20T23:55:42+05:30"
-        },
-        {
-          "title": "Niva Bupa, Acko General Insurance barred from opening places of biz for 6 months",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/niva-bupa-acko-general-insurance-barred-from-opening-places-of-biz-for-6-months/articleshow/133390233.cms",
-          "pubDate": "2026-08-20T23:43:01+05:30"
-        },
-        {
-          "title": "Local funds' share rises in private credit market: EY report",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/local-funds-share-rises-in-private-credit-market-ey-report/articleshow/133390197.cms",
-          "pubDate": "2026-08-20T23:18:51+05:30"
-        },
-        {
-          "title": "Govt reappoints Anand Mahindra to RBI board, names former Isro chief S Somanath as non-official director",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/govt-reappoints-anand-mahindra-to-rbi-board-names-former-isro-chief-s-somanath-as-non-official-director/articleshow/133390156.cms",
-          "pubDate": "2026-08-20T21:50:04+05:30"
-        },
-        {
-          "title": "Aditya Birla Capital to enter gold loan market, target 1,000 branches",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/aditya-birla-capital-to-enter-gold-loan-market-target-1000-branches/articleshow/133390271.cms",
-          "pubDate": "2026-08-20T19:15:25+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -733,8 +733,38 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-21T00:44:10.448886+00:00",
+      "updated_at": "2026-08-21T02:12:13.994019+00:00",
       "items": [
+        {
+          "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 21 August",
+          "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-21-august-11787276003478.html",
+          "pubDate": "2026-08-21T07:22:27+05:30"
+        },
+        {
+          "title": "Bitcoin demand turns positive in spot, perpetual markets as price rebounds above $70K; hits 11-week high",
+          "link": "https://www.livemint.com/market/cryptocurrency/bitcoin-demand-turns-positive-in-spot-perpetual-markets-as-price-rebounds-above-70k-hits-11-week-high-11787273026525.html",
+          "pubDate": "2026-08-21T07:09:55+05:30"
+        },
+        {
+          "title": "These three copper stocks are riding India’s energy expansion. Should you invest?",
+          "link": "https://www.livemint.com/market/stock-market-news/best-copper-stocks-india-hindustan-copper-hindalco-vedanta-11787226069485.html",
+          "pubDate": "2026-08-21T07:00:58+05:30"
+        },
+        {
+          "title": "Stocks to watch: HAL, RailTel, Tata Motors PV among shares in focus today; check list here",
+          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-hal-railtel-tata-motors-pv-among-shares-in-focus-today-check-list-here-11787243365674.html",
+          "pubDate": "2026-08-21T06:58:01+05:30"
+        },
+        {
+          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 21 August 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-21-august-2026-11787241979222.html",
+          "pubDate": "2026-08-21T06:42:55+05:30"
+        },
+        {
+          "title": "Gold Set for Third Weekly Gain on US Treasury Buyback Plans",
+          "link": "https://www.livemint.com/market/gold-set-for-third-weekly-gain-on-us-treasury-buyback-plans-11787273040473.html",
+          "pubDate": "2026-08-21T06:14:00+05:30"
+        },
         {
           "title": "Raja Venkatraman recommends three stocks for 21 August",
           "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-21-august-11787228648758.html",
@@ -854,43 +884,18 @@
           "title": "Gold rate today: Gold price retraces from 2-month high. Is it the right time to buy gold?",
           "link": "https://www.livemint.com/market/commodities/gold-rate-today-gold-price-retraces-from-2-month-high-is-it-the-right-time-to-buy-gold-11787211652041.html",
           "pubDate": "2026-08-20T14:22:38+05:30"
-        },
-        {
-          "title": "IPOs GMP comparison: Check grey market winner - Shankesh Jewellers vs Sunshine Pictures vs Gaja vs Tempsens",
-          "link": "https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-latest-gmp-sunshine-pictures-ipo-latest-gmp-tempsens-instruments-ipo-latest-gmp-gaja-captial-11787209391450.html",
-          "pubDate": "2026-08-20T14:13:39+05:30"
-        },
-        {
-          "title": "Swiggy as Indian-controlled company: time to reassess Instamart’s valuation?",
-          "link": "https://www.livemint.com/market/mark-to-market/swiggy-instamart-indian-owned-controlled-company-quick-commerce-11787208009609.html",
-          "pubDate": "2026-08-20T13:51:53+05:30"
-        },
-        {
-          "title": "Why Sebi's closing auction session order is a strong message to future violators",
-          "link": "https://www.livemint.com/market/stock-market-news/sebi-cas-order-sensex-nifty-derivative-futures-and-options-f-o-contracts-11787206244392.html",
-          "pubDate": "2026-08-20T13:17:46+05:30"
-        },
-        {
-          "title": "Mutual funds turn to large-caps as FPIs retreat, retail shifts bets",
-          "link": "https://www.livemint.com/market/stock-market-news/small-cap-stocks-mutual-funds-fpi-retail-investors-q1fy27-11787195441939.html",
-          "pubDate": "2026-08-20T13:05:34+05:30"
-        },
-        {
-          "title": "Small-cap IT stock under  ₹50 jumps following Indian stock market rebound",
-          "link": "https://www.livemint.com/market/stock-market-news/smallcap-it-stock-under-50-blue-cloud-softech-solutions-jumps-following-indian-stock-market-rebound-11787208784541.html",
-          "pubDate": "2026-08-20T12:49:33+05:30"
-        },
-        {
-          "title": "Why is stock market up today? Top 3 reasons behind the rise in Sensex, Nifty, and the biggest gaining stocks",
-          "link": "https://www.livemint.com/market/stock-market-news/why-is-stock-market-up-today-top-3-reasons-behind-the-rise-in-sensex-nifty-50-and-the-biggest-gaining-stocks-11787207387920.html",
-          "pubDate": "2026-08-20T12:12:52+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-21T00:44:11.101035+00:00",
+      "updated_at": "2026-08-21T02:12:14.022711+00:00",
       "items": [
+        {
+          "title": "Bonanza's Kunal Kamble is bullish on MCX and two other stocks; details here",
+          "link": "https://www.business-standard.com/markets/news/bonanza-s-kunal-kamble-is-bullish-on-mcx-and-two-other-stocks-details-here-126082100076_1.html",
+          "pubDate": "2026-08-21T07:34:24+05:30"
+        },
         {
           "title": "Sebi permits digitally signed power of attorney to ease FPI onboarding",
           "link": "https://www.business-standard.com/markets/news/sebi-permits-digitally-signed-power-of-attorney-to-ease-fpi-onboarding-126082001603_1.html",
@@ -904,7 +909,7 @@
         {
           "title": "Active derivatives traders fall 18% in FY26 to 8.75 million: Sebi study",
           "link": "https://www.business-standard.com/markets/news/active-derivatives-traders-fall-18-in-fy26-to-8-75-million-sebi-study-126082001378_1.html",
-          "pubDate": "2026-08-20T20:48:24+05:30"
+          "pubDate": "2026-08-20T20:48:39+05:30"
         },
         {
           "title": "Nifty snaps 7-day losing streak as US Treasury move eases yield pressure",
@@ -1035,17 +1040,12 @@
           "title": "Euro reclaims above $1.17 mark for the first time in over three-months; EUR/INR futures scale well above 111 mark",
           "link": "https://www.business-standard.com/markets/capital-market-news/euro-reclaims-above-1-17-mark-for-the-first-time-in-over-three-months-eur-inr-futures-scale-well-above-111-mark-126082000611_1.html",
           "pubDate": "2026-08-20T14:16:15+05:30"
-        },
-        {
-          "title": "India and Japan agree to deepen defence technology partnership",
-          "link": "https://www.business-standard.com/markets/capital-market-news/india-and-japan-agree-to-deepen-defence-technology-partnership-126082000609_1.html",
-          "pubDate": "2026-08-20T14:16:01+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-21T00:44:13.424353+00:00",
+      "updated_at": "2026-08-21T02:12:14.937045+00:00",
       "items": [
         {
           "title": "Appointment of Shri Somanath Sreedhara Panicker as part-time, Non-official Director on the Central Board of Reserve Bank of India",

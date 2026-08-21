@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T11:40:23.889375+00:00",
+  "generated_at": "2026-08-21T11:58:46.396634+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
@@ -68,7 +68,7 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-21T11:40:22.722832+00:00"
+      "updated_at": "2026-08-21T11:58:43.759247+00:00"
     },
     "sensex": {
       "price": 77540.83,
@@ -137,7 +137,7 @@
         77540.828125
       ],
       "ok": true,
-      "updated_at": "2026-08-21T11:40:22.780831+00:00"
+      "updated_at": "2026-08-21T11:58:43.869556+00:00"
     },
     "banknifty": {
       "price": 57761.95,
@@ -206,7 +206,7 @@
         57761.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-21T11:40:22.871278+00:00"
+      "updated_at": "2026-08-21T11:58:43.945277+00:00"
     },
     "vix": {
       "price": 11.195,
@@ -275,7 +275,7 @@
         11.194999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-21T11:40:22.927877+00:00"
+      "updated_at": "2026-08-21T11:58:44.029432+00:00"
     },
     "usdinr": {
       "price": 95.685,
@@ -344,16 +344,13 @@
         95.68499755859375
       ],
       "ok": true,
-      "updated_at": "2026-08-21T11:40:23.012034+00:00"
+      "updated_at": "2026-08-21T11:58:44.163468+00:00"
     },
     "gold": {
-      "price": 4655.6,
-      "change": 84.2,
-      "pct": 1.8419,
+      "price": 4655.5,
+      "change": 84.1,
+      "pct": 1.8397,
       "closes": [
-        4619.5,
-        4624.5,
-        4621.5,
         4617.89990234375,
         4623.0,
         4615.7998046875,
@@ -409,20 +406,20 @@
         4653.2998046875,
         4655.39990234375,
         4655.7001953125,
-        4652.2001953125,
-        4655.60009765625
+        4652.0,
+        4654.60009765625,
+        4654.2998046875,
+        4657.10009765625,
+        4655.5
       ],
       "ok": true,
-      "updated_at": "2026-08-21T11:40:23.068203+00:00"
+      "updated_at": "2026-08-21T11:58:44.332183+00:00"
     },
     "crude": {
-      "price": 86.49,
-      "change": -0.34,
-      "pct": -0.3916,
+      "price": 86.57,
+      "change": -0.26,
+      "pct": -0.2994,
       "closes": [
-        86.4000015258789,
-        86.37999725341797,
-        86.41999816894531,
         86.29000091552734,
         86.12999725341797,
         86.37999725341797,
@@ -479,10 +476,13 @@
         86.5199966430664,
         86.43000030517578,
         86.3499984741211,
-        86.48999786376953
+        86.3499984741211,
+        86.47000122070312,
+        86.63999938964844,
+        86.56999969482422
       ],
       "ok": true,
-      "updated_at": "2026-08-21T11:40:23.133604+00:00"
+      "updated_at": "2026-08-21T11:58:44.431035+00:00"
     },
     "us10y": {
       "price": 4.696,
@@ -551,13 +551,13 @@
         4.696000099182129
       ],
       "ok": true,
-      "updated_at": "2026-08-21T11:40:23.200576+00:00"
+      "updated_at": "2026-08-21T11:58:44.530921+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-21T11:40:23.359411+00:00",
+      "updated_at": "2026-08-21T11:58:44.721288+00:00",
       "items": [
         {
           "title": "Hindustan Copper shares jump 4%. What’s driving the rally?",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-21T11:40:23.598939+00:00",
+      "updated_at": "2026-08-21T11:58:45.144725+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,7 +794,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-21T11:40:23.652537+00:00",
+      "updated_at": "2026-08-21T11:58:45.586664+00:00",
       "items": [
         {
           "title": "Penny stock under  ₹10 hits 20% upper circuit despite weak trend on Dalal Street",
@@ -812,7 +812,7 @@
           "pubDate": "2026-08-21T15:31:29+05:30"
         },
         {
-          "title": "Maharatna PSU stock SAIL declares record date for final dividend in FY26",
+          "title": "SAIL dividend 2026: Maharatna PSU declares record date for final dividend",
           "link": "https://www.livemint.com/market/stock-market-news/maharatna-psu-stock-sail-declares-record-date-for-final-dividend-in-fy26-11787303082467.html",
           "pubDate": "2026-08-21T15:17:09+05:30"
         },
@@ -872,7 +872,7 @@
           "pubDate": "2026-08-21T12:03:11+05:30"
         },
         {
-          "title": "Tempsens Instruments IPO Day 2 LIVE: GMP, subscription status, review, other details. Apply or not?",
+          "title": "Tempsens Instruments IPO Day 2: Issue booked 21.66 times, GMP signals 90% premium. Apply or not?",
           "link": "https://www.livemint.com/market/ipo/tempsens-instruments-ipo-day-2-live-gmp-subscription-status-review-other-details-apply-or-not-11787290258573.html",
           "pubDate": "2026-08-21T11:40:41+05:30"
         },
@@ -917,7 +917,7 @@
           "pubDate": "2026-08-21T10:01:01+05:30"
         },
         {
-          "title": "Augmont Enterprises IPO Day 1 LIVE: GMP, subscription status to review. Apply or not?",
+          "title": "Augmont Enterprises IPO Day 1: GMP signals 38% listing pop after strong subscription status. Apply or not?",
           "link": "https://www.livemint.com/market/ipo/augmont-enterprises-ipo-day-1-live-gmp-subscription-status-to-review-apply-or-not-11787282345630.html",
           "pubDate": "2026-08-21T09:23:59+05:30"
         },
@@ -950,8 +950,18 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-21T11:40:23.798016+00:00",
+      "updated_at": "2026-08-21T11:58:45.855066+00:00",
       "items": [
+        {
+          "title": "INR settles marginally higher as support from a weak dollar was offset by continued geopolitical tensions",
+          "link": "https://www.business-standard.com/markets/capital-market-news/inr-settles-marginally-higher-as-support-from-a-weak-dollar-was-offset-by-continued-geopolitical-tensions-126082100970_1.html",
+          "pubDate": "2026-08-21T17:16:36+05:30"
+        },
+        {
+          "title": "Tempsens Instruments (India) IPO subscribed 21.65 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/tempsens-instruments-india-ipo-subscribed-21-65-times-126082100967_1.html",
+          "pubDate": "2026-08-21T17:16:01+05:30"
+        },
         {
           "title": "S&S Power Switchgear hits the roof after subsidiary bags Rs 50-cr order from Vedanta Aluminium",
           "link": "https://www.business-standard.com/markets/capital-market-news/s-s-power-switchgear-hits-the-roof-after-subsidiary-bags-rs-50-cr-order-from-vedanta-aluminium-126082100937_1.html",
@@ -1091,22 +1101,12 @@
           "title": "Oriental Rail Infrastructure Ltd leads gainers in 'B' group",
           "link": "https://www.business-standard.com/markets/capital-market-news/oriental-rail-infrastructure-ltd-leads-gainers-in-b-group-126082100565_1.html",
           "pubDate": "2026-08-21T13:16:23+05:30"
-        },
-        {
-          "title": "Bajaj Finance: Why Nomura is bullish despite competition, regulatory risks",
-          "link": "https://www.business-standard.com/markets/news/bajaj-finance-why-nomura-is-bullish-despite-competition-regulatory-risks-126082100537_1.html",
-          "pubDate": "2026-08-21T13:05:41+05:30"
-        },
-        {
-          "title": "Welspun Corp Ltd up for five straight sessions",
-          "link": "https://www.business-standard.com/markets/capital-market-news/welspun-corp-ltd-up-for-five-straight-sessions-126082100547_1.html",
-          "pubDate": "2026-08-21T13:04:34+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-21T11:40:23.889356+00:00",
+      "updated_at": "2026-08-21T11:58:46.396617+00:00",
       "items": [
         {
           "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",

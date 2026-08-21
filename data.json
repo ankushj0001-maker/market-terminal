@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T12:38:35.034329+00:00",
+  "generated_at": "2026-08-21T13:29:31.767624+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
@@ -68,7 +68,7 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-21T12:38:33.416618+00:00"
+      "updated_at": "2026-08-21T13:29:25.204226+00:00"
     },
     "sensex": {
       "price": 77540.83,
@@ -137,7 +137,7 @@
         77540.828125
       ],
       "ok": true,
-      "updated_at": "2026-08-21T12:38:33.469954+00:00"
+      "updated_at": "2026-08-21T13:29:25.370917+00:00"
     },
     "banknifty": {
       "price": 57761.95,
@@ -206,7 +206,7 @@
         57761.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-21T12:38:33.557097+00:00"
+      "updated_at": "2026-08-21T13:29:25.462059+00:00"
     },
     "vix": {
       "price": 11.195,
@@ -275,7 +275,7 @@
         11.194999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-21T12:38:33.614452+00:00"
+      "updated_at": "2026-08-21T13:29:25.594745+00:00"
     },
     "usdinr": {
       "price": 95.685,
@@ -344,23 +344,13 @@
         95.68499755859375
       ],
       "ok": true,
-      "updated_at": "2026-08-21T12:38:33.717172+00:00"
+      "updated_at": "2026-08-21T13:29:25.710660+00:00"
     },
     "gold": {
-      "price": 4643.3,
-      "change": 71.9,
-      "pct": 1.5728,
+      "price": 4637.5,
+      "change": 66.1,
+      "pct": 1.4459,
       "closes": [
-        4621.2001953125,
-        4621.10009765625,
-        4623.10009765625,
-        4618.7998046875,
-        4621.10009765625,
-        4618.2001953125,
-        4618.5,
-        4622.2998046875,
-        4629.60009765625,
-        4634.5,
         4636.39990234375,
         4637.7998046875,
         4636.5,
@@ -410,26 +400,26 @@
         4645.2001953125,
         4642.7998046875,
         4642.2001953125,
-        4643.2998046875
+        4634.89990234375,
+        4621.7998046875,
+        4630.5,
+        4636.39990234375,
+        4636.60009765625,
+        4634.7001953125,
+        4637.60009765625,
+        4637.7001953125,
+        4642.0,
+        4637.60009765625,
+        4637.5
       ],
       "ok": true,
-      "updated_at": "2026-08-21T12:38:33.788438+00:00"
+      "updated_at": "2026-08-21T13:29:26.244800+00:00"
     },
     "crude": {
-      "price": 87.13,
-      "change": 0.3,
-      "pct": 0.3455,
+      "price": 86.81,
+      "change": -0.02,
+      "pct": -0.023,
       "closes": [
-        86.37000274658203,
-        86.43000030517578,
-        86.22000122070312,
-        86.33999633789062,
-        86.37000274658203,
-        86.58000183105469,
-        86.66999816894531,
-        86.5,
-        86.30000305175781,
-        86.2300033569336,
         86.11000061035156,
         86.30999755859375,
         86.19999694824219,
@@ -479,27 +469,47 @@
         87.05000305175781,
         87.22000122070312,
         87.02999877929688,
-        87.12999725341797
+        86.9000015258789,
+        86.91999816894531,
+        86.80999755859375,
+        86.9800033569336,
+        87.06999969482422,
+        86.87000274658203,
+        86.6500015258789,
+        86.7699966430664,
+        86.79000091552734,
+        86.7699966430664,
+        86.80999755859375
       ],
       "ok": true,
-      "updated_at": "2026-08-21T12:38:33.846298+00:00"
+      "updated_at": "2026-08-21T13:29:26.332037+00:00"
     },
     "us10y": {
-      "price": 4.694,
-      "change": -0.002,
-      "pct": -0.0426,
+      "price": 4.708,
+      "change": 0.012,
+      "pct": 0.2555,
       "closes": [
         4.693999767303467,
-        4.693999767303467
+        4.691999912261963,
+        4.696000099182129,
+        4.697999954223633,
+        4.693999767303467,
+        4.696000099182129,
+        4.697999954223633,
+        4.696000099182129,
+        4.703999996185303,
+        4.710000038146973,
+        4.708000183105469,
+        4.708000183105469
       ],
       "ok": true,
-      "updated_at": "2026-08-21T12:38:33.917086+00:00"
+      "updated_at": "2026-08-21T13:29:26.432275+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-21T12:38:33.957435+00:00",
+      "updated_at": "2026-08-21T13:29:26.592266+00:00",
       "items": [
         {
           "title": "Hindustan Copper shares jump 4%. What’s driving the rally?",
@@ -655,7 +665,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-21T12:38:34.041707+00:00",
+      "updated_at": "2026-08-21T13:29:27.033358+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -736,8 +746,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-21T12:38:34.120775+00:00",
+      "updated_at": "2026-08-21T13:29:27.204469+00:00",
       "items": [
+        {
+          "title": "Saatvik Green Energy shares post biggest 1-day gain in over a month on  ₹190 crore order win",
+          "link": "https://www.livemint.com/market/stock-market-news/saatvik-green-energy-shares-post-biggest-1-day-gain-in-over-a-month-on-rs-190-crore-order-win-11787310393835.html",
+          "pubDate": "2026-08-21T18:42:15+05:30"
+        },
         {
           "title": "US stock market today: Wall Street futures rebound from bond yield-driven sell-off",
           "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-futures-rebound-from-bond-yield-driven-selloff-11787310418240.html",
@@ -882,18 +897,23 @@
           "title": "Stocks to buy for short term: Ajit Mishra of Religare Broking recommends 3 shares for next 1-2 weeks",
           "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-ajit-mishra-of-religare-broking-recommends-3-shares-for-next-1-2-weeks-11787279316530.html",
           "pubDate": "2026-08-21T09:00:45+05:30"
-        },
-        {
-          "title": "Lumino Industries IPO: Price band set at  ₹78- ₹82 per share; check key dates, issue details",
-          "link": "https://www.livemint.com/market/ipo/lumino-industries-ipo-price-band-set-at-rs-78-82-per-share-check-key-dates-issue-details-11787282457238.html",
-          "pubDate": "2026-08-21T08:58:22+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-21T12:38:34.190903+00:00",
+      "updated_at": "2026-08-21T13:29:27.495049+00:00",
       "items": [
+        {
+          "title": "RBI Central Board of Directors review current economic situation",
+          "link": "https://www.business-standard.com/markets/capital-market-news/rbi-central-board-of-directors-review-current-economic-situation-126082101074_1.html",
+          "pubDate": "2026-08-21T18:04:02+05:30"
+        },
+        {
+          "title": "Religare takeover: SAT dismisses Danny Gaekwad's plea on exemptions",
+          "link": "https://www.business-standard.com/markets/news/religare-takeover-sat-dismisses-danny-gaekwad-s-plea-on-exemptions-126082101051_1.html",
+          "pubDate": "2026-08-21T17:52:01+05:30"
+        },
         {
           "title": "Quick Wrap: Nifty Metal Index records a surge of 0.86%",
           "link": "https://www.business-standard.com/markets/capital-market-news/quick-wrap-nifty-metal-index-records-a-surge-of-0-86-126082101035_1.html",
@@ -1033,22 +1053,12 @@
           "title": "MCX share price up 102% in a year; can the rally sustain? Analysts weigh",
           "link": "https://www.business-standard.com/markets/news/mcx-share-price-up-102-in-a-year-can-the-rally-sustain-analysts-weigh-126082100656_1.html",
           "pubDate": "2026-08-21T14:19:52+05:30"
-        },
-        {
-          "title": "Hindustan Copper rises nearly 4% as copper prices gain on weak dollar",
-          "link": "https://www.business-standard.com/markets/news/hindustan-copper-rises-nearly-4-as-copper-prices-gain-on-weak-dollar-126082100649_1.html",
-          "pubDate": "2026-08-21T14:19:24+05:30"
-        },
-        {
-          "title": "Welspun Corp wins its largest order ever worth USD 1.8 billion",
-          "link": "https://www.business-standard.com/markets/capital-market-news/welspun-corp-wins-its-largest-order-ever-worth-usd-1-8-billion-126082100581_1.html",
-          "pubDate": "2026-08-21T13:31:12+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-21T12:38:35.034312+00:00",
+      "updated_at": "2026-08-21T13:29:31.767606+00:00",
       "items": [
         {
           "title": "RBI imposes monetary penalty on Shri Ram Finance Corporation Private Limited",

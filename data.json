@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T19:33:46.208032+00:00",
+  "generated_at": "2026-08-21T19:53:22.341376+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
@@ -68,7 +68,7 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-21T19:33:44.502226+00:00"
+      "updated_at": "2026-08-21T19:53:20.491574+00:00"
     },
     "sensex": {
       "price": 77540.83,
@@ -137,7 +137,7 @@
         77540.828125
       ],
       "ok": true,
-      "updated_at": "2026-08-21T19:33:44.577344+00:00"
+      "updated_at": "2026-08-21T19:53:20.554993+00:00"
     },
     "banknifty": {
       "price": 57761.95,
@@ -206,7 +206,7 @@
         57761.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-21T19:33:44.642379+00:00"
+      "updated_at": "2026-08-21T19:53:20.609619+00:00"
     },
     "vix": {
       "price": 11.195,
@@ -275,7 +275,7 @@
         11.194999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-21T19:33:44.740373+00:00"
+      "updated_at": "2026-08-21T19:53:20.665183+00:00"
     },
     "usdinr": {
       "price": 95.685,
@@ -344,17 +344,13 @@
         95.68499755859375
       ],
       "ok": true,
-      "updated_at": "2026-08-21T19:33:44.804105+00:00"
+      "updated_at": "2026-08-21T19:53:20.794991+00:00"
     },
     "gold": {
-      "price": 4680.3,
-      "change": 108.9,
-      "pct": 2.3822,
+      "price": 4676.1,
+      "change": 104.7,
+      "pct": 2.2903,
       "closes": [
-        4646.60009765625,
-        4638.39990234375,
-        4639.0,
-        4647.89990234375,
         4646.2001953125,
         4648.10009765625,
         4650.2001953125,
@@ -410,20 +406,20 @@
         4680.0,
         4679.7998046875,
         4679.5,
-        4680.2998046875
+        4675.60009765625,
+        4674.10009765625,
+        4674.89990234375,
+        4675.39990234375,
+        4676.10009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-21T19:33:44.876895+00:00"
+      "updated_at": "2026-08-21T19:53:20.872283+00:00"
     },
     "crude": {
-      "price": 86.81,
-      "change": -0.02,
-      "pct": -0.023,
+      "price": 86.75,
+      "change": -0.08,
+      "pct": -0.0921,
       "closes": [
-        86.7699966430664,
-        86.5,
-        86.41000366210938,
-        86.47000122070312,
         86.56999969482422,
         86.52999877929688,
         86.36000061035156,
@@ -479,10 +475,14 @@
         86.80000305175781,
         86.87999725341797,
         86.81999969482422,
-        86.80999755859375
+        86.81999969482422,
+        86.87999725341797,
+        86.77999877929688,
+        86.80999755859375,
+        86.75
       ],
       "ok": true,
-      "updated_at": "2026-08-21T19:33:44.984017+00:00"
+      "updated_at": "2026-08-21T19:53:20.955324+00:00"
     },
     "us10y": {
       "price": 4.738,
@@ -548,16 +548,16 @@
         4.736000061035156,
         4.73799991607666,
         4.73799991607666,
-        4.736000061035156
+        4.73799991607666
       ],
       "ok": true,
-      "updated_at": "2026-08-21T19:33:45.045020+00:00"
+      "updated_at": "2026-08-21T19:53:21.009297+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-21T19:33:45.103252+00:00",
+      "updated_at": "2026-08-21T19:53:21.280227+00:00",
       "items": [
         {
           "title": "US stocks: US market rebounds, but yield surge sets stage for weekly losses",
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-21T19:33:45.276478+00:00",
+      "updated_at": "2026-08-21T19:53:21.558065+00:00",
       "items": [
+        {
+          "title": "Dollar falls to three-month low on Treasury buyback worries",
+          "link": "https://www.livemint.com/market/dollar-falls-to-three-month-low-on-treasury-buyback-worries-11787341555185.html",
+          "pubDate": "2026-08-22T01:15:54+05:30"
+        },
+        {
+          "title": "Week of Whiplash in Treasuries Is Closing With Muddied Outlook",
+          "link": "https://www.livemint.com/market/week-of-whiplash-in-treasuries-is-closing-with-muddied-outlook-11787340705313.html",
+          "pubDate": "2026-08-22T01:01:44+05:30"
+        },
         {
           "title": "Allspring’s Miletti Sees Jackson Hole as Bigger Risk Than Nvidia",
           "link": "https://www.livemint.com/market/allsprings-miletti-sees-jackson-hole-as-bigger-risk-than-nvidia-11787337053320.html",
@@ -935,22 +945,12 @@
           "title": "Welspun Corp share price: Nearly 186% returns in 2026 alone - What's driving the rally?",
           "link": "https://www.livemint.com/market/stock-market-news/welspun-corp-share-price-nearly-186-returns-in-2026-alone-whats-driving-the-rally-11787288613073.html",
           "pubDate": "2026-08-21T11:04:59+05:30"
-        },
-        {
-          "title": "China Keeps Oil Buying in Check as Crude Prices Stay Above $90",
-          "link": "https://www.livemint.com/market/china-keeps-oil-buying-in-check-as-crude-prices-stay-above-90-11787289773942.html",
-          "pubDate": "2026-08-21T10:52:53+05:30"
-        },
-        {
-          "title": "Sunshine Pictures IPO GMP signals 20% listing pop. Here's how to check allotment status online",
-          "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-gmp-signals-20-listing-pop-heres-how-to-check-allotment-status-online-11787285538630.html",
-          "pubDate": "2026-08-21T10:23:15+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-21T19:33:45.411248+00:00",
+      "updated_at": "2026-08-21T19:53:21.638406+00:00",
       "items": [
         {
           "title": "Innovision receives toll collection mandate for Etaura Bujurg & Akhtiyari Kotila fee plaza",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-21T19:33:46.208017+00:00",
+      "updated_at": "2026-08-21T19:53:22.341358+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

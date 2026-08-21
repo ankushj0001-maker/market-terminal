@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T14:50:03.090171+00:00",
+  "generated_at": "2026-08-21T15:20:03.932719+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
@@ -68,7 +68,7 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-21T14:50:01.267172+00:00"
+      "updated_at": "2026-08-21T15:20:02.156178+00:00"
     },
     "sensex": {
       "price": 77540.83,
@@ -137,7 +137,7 @@
         77540.828125
       ],
       "ok": true,
-      "updated_at": "2026-08-21T14:50:01.304198+00:00"
+      "updated_at": "2026-08-21T15:20:02.203599+00:00"
     },
     "banknifty": {
       "price": 57761.95,
@@ -206,7 +206,7 @@
         57761.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-21T14:50:01.343670+00:00"
+      "updated_at": "2026-08-21T15:20:02.241673+00:00"
     },
     "vix": {
       "price": 11.195,
@@ -275,7 +275,7 @@
         11.194999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-21T14:50:01.390683+00:00"
+      "updated_at": "2026-08-21T15:20:02.285117+00:00"
     },
     "usdinr": {
       "price": 95.685,
@@ -344,20 +344,13 @@
         95.68499755859375
       ],
       "ok": true,
-      "updated_at": "2026-08-21T14:50:01.439336+00:00"
+      "updated_at": "2026-08-21T15:20:02.334955+00:00"
     },
     "gold": {
-      "price": 4638.4,
-      "change": 67.0,
-      "pct": 1.4656,
+      "price": 4651.2,
+      "change": 79.8,
+      "pct": 1.7456,
       "closes": [
-        4638.60009765625,
-        4641.2998046875,
-        4639.7001953125,
-        4642.10009765625,
-        4640.10009765625,
-        4635.7001953125,
-        4641.2998046875,
         4642.89990234375,
         4645.60009765625,
         4648.0,
@@ -410,22 +403,23 @@
         4659.5,
         4646.60009765625,
         4638.39990234375,
-        4638.39990234375
+        4639.0,
+        4647.89990234375,
+        4646.5,
+        4648.10009765625,
+        4650.2001953125,
+        4651.0,
+        4652.2001953125,
+        4651.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-21T14:50:01.496705+00:00"
+      "updated_at": "2026-08-21T15:20:02.390738+00:00"
     },
     "crude": {
-      "price": 86.49,
-      "change": -0.34,
-      "pct": -0.3916,
+      "price": 86.29,
+      "change": -0.54,
+      "pct": -0.6219,
       "closes": [
-        86.44000244140625,
-        86.51000213623047,
-        86.55000305175781,
-        86.9800033569336,
-        87.16999816894531,
-        87.30999755859375,
         87.2300033569336,
         87.02999877929688,
         86.61000061035156,
@@ -479,15 +473,21 @@
         86.41999816894531,
         86.7699966430664,
         86.5,
-        86.41000366210938
+        86.41000366210938,
+        86.47000122070312,
+        86.58000183105469,
+        86.52999877929688,
+        86.36000061035156,
+        86.29000091552734,
+        86.29000091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-21T14:50:01.562759+00:00"
+      "updated_at": "2026-08-21T15:20:02.437244+00:00"
     },
     "us10y": {
-      "price": 4.732,
-      "change": 0.036,
-      "pct": 0.7666,
+      "price": 4.728,
+      "change": 0.032,
+      "pct": 0.6814,
       "closes": [
         4.693999767303467,
         4.691999912261963,
@@ -515,18 +515,29 @@
         4.720000267028809,
         4.723999977111816,
         4.723999977111816,
+        4.73199987411499,
+        4.736000061035156,
+        4.73199987411499,
         4.727999687194824,
-        4.73199987411499
+        4.730000019073486,
+        4.730000019073486,
+        4.727999687194824,
+        4.727999687194824
       ],
       "ok": true,
-      "updated_at": "2026-08-21T14:50:01.601583+00:00"
+      "updated_at": "2026-08-21T15:20:02.484933+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-21T14:50:01.789465+00:00",
+      "updated_at": "2026-08-21T15:20:02.667317+00:00",
       "items": [
+        {
+          "title": "US stocks: US market rebounds, but yield surge sets stage for weekly losses",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-but-weekly-losses-loom/articleshow/133406374.cms",
+          "pubDate": "2026-08-21T19:19:33+05:30"
+        },
         {
           "title": "Hindustan Copper shares jump 4%. What’s driving the rally?",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-copper-shares-jump-4-whats-driving-the-rally/articleshow/133394956.cms",
@@ -546,11 +557,6 @@
           "title": "RailTel shares rise 4% after securing Rs 165 crore order from Western Coalfields",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/railtel-shares-rise-4-after-securing-rs-165-crore-order-from-western-coalfields/articleshow/133393761.cms",
           "pubDate": "2026-08-21T10:33:55+05:30"
-        },
-        {
-          "title": "Hindustan Zinc shares jump 7% in two sessions. What’s triggering the rally?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-shares-jump-7-in-two-sessions-whats-triggering-the-rally/articleshow/133393717.cms",
-          "pubDate": "2026-08-21T10:30:38+05:30"
         },
         {
           "title": "Did Goodluck India shares really crash 66% in just one day? Here's how the bonus math works",
@@ -681,7 +687,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-21T14:50:02.198839+00:00",
+      "updated_at": "2026-08-21T15:20:02.801975+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -762,7 +768,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-21T14:50:02.415359+00:00",
+      "updated_at": "2026-08-21T15:20:02.923181+00:00",
       "items": [
         {
           "title": "Symbiotec Pharmalab IPO: Price band, lot size, GMP, listing date and other key details",
@@ -770,7 +776,7 @@
           "pubDate": "2026-08-21T19:46:55+05:30"
         },
         {
-          "title": "US stocks surge as bond market volatility eases",
+          "title": "US stocks surge as bond market volatility eases, crypto stocks rally",
           "link": "https://www.livemint.com/market/stock-market-news/us-stocks-surge-as-bond-market-volatility-eases-11787319906181.html",
           "pubDate": "2026-08-21T19:33:55+05:30"
         },
@@ -918,7 +924,7 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-21T14:50:02.557987+00:00",
+      "updated_at": "2026-08-21T15:20:03.114449+00:00",
       "items": [
         {
           "title": "Fund houses resume large-ticket gold ETF subscriptions as concerns ease",
@@ -948,7 +954,7 @@
         {
           "title": "Religare takeover: SAT dismisses Danny Gaekwad's plea on exemptions",
           "link": "https://www.business-standard.com/markets/news/religare-takeover-sat-dismisses-danny-gaekwad-s-plea-on-exemptions-126082101051_1.html",
-          "pubDate": "2026-08-21T17:52:01+05:30"
+          "pubDate": "2026-08-21T17:52:16+05:30"
         },
         {
           "title": "Quick Wrap: Nifty Metal Index records a surge of 0.86%",
@@ -1074,8 +1080,13 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-21T14:50:03.090155+00:00",
+      "updated_at": "2026-08-21T15:20:03.932704+00:00",
       "items": [
+        {
+          "title": "Auction of State Government Securities",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63425",
+          "pubDate": "2026-08-21T20:15:00+00:00"
+        },
         {
           "title": "RBI to conduct 7-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 24, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63424",
@@ -1120,11 +1131,6 @@
           "title": "Sovereign Gold Bond (SGB) Scheme Calendar for premature redemption during October 2026 – March 2027",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63416",
           "pubDate": "2026-08-21T11:00:00+00:00"
-        },
-        {
-          "title": "Result of the 3-day Variable Rate Reverse Repo (VRRR) auction held on August 21, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63415",
-          "pubDate": "2026-08-21T10:25:00+00:00"
         }
       ]
     }

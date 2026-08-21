@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T20:56:58.031800+00:00",
+  "generated_at": "2026-08-21T21:15:03.131329+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
@@ -68,7 +68,7 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-21T20:56:56.760870+00:00"
+      "updated_at": "2026-08-21T21:15:00.093640+00:00"
     },
     "sensex": {
       "price": 77540.83,
@@ -137,7 +137,7 @@
         77540.828125
       ],
       "ok": true,
-      "updated_at": "2026-08-21T20:56:56.815768+00:00"
+      "updated_at": "2026-08-21T21:15:00.154569+00:00"
     },
     "banknifty": {
       "price": 57761.95,
@@ -206,7 +206,7 @@
         57761.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-21T20:56:56.868304+00:00"
+      "updated_at": "2026-08-21T21:15:00.854695+00:00"
     },
     "vix": {
       "price": 11.195,
@@ -275,7 +275,7 @@
         11.194999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-21T20:56:56.924670+00:00"
+      "updated_at": "2026-08-21T21:15:00.909728+00:00"
     },
     "usdinr": {
       "price": 95.685,
@@ -344,15 +344,13 @@
         95.68499755859375
       ],
       "ok": true,
-      "updated_at": "2026-08-21T20:56:57.026170+00:00"
+      "updated_at": "2026-08-21T21:15:00.983817+00:00"
     },
     "gold": {
-      "price": 4666.1,
-      "change": 94.7,
-      "pct": 2.0716,
+      "price": 4661.6,
+      "change": 90.2,
+      "pct": 1.9731,
       "closes": [
-        4672.0,
-        4674.2998046875,
         4667.60009765625,
         4672.10009765625,
         4671.60009765625,
@@ -410,18 +408,18 @@
         4666.0,
         4665.7998046875,
         4664.0,
-        4666.10009765625
+        4663.2001953125,
+        4661.89990234375,
+        4661.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-21T20:56:57.086067+00:00"
+      "updated_at": "2026-08-21T21:15:01.719781+00:00"
     },
     "crude": {
-      "price": 86.79,
-      "change": -0.04,
-      "pct": -0.0461,
+      "price": 86.64,
+      "change": -0.19,
+      "pct": -0.2188,
       "closes": [
-        86.80999755859375,
-        86.8499984741211,
         86.94000244140625,
         86.87000274658203,
         86.91000366210938,
@@ -479,10 +477,12 @@
         86.77999877929688,
         86.81999969482422,
         86.69999694824219,
-        86.79000091552734
+        86.68000030517578,
+        86.66000366210938,
+        86.63999938964844
       ],
       "ok": true,
-      "updated_at": "2026-08-21T20:56:57.160158+00:00"
+      "updated_at": "2026-08-21T21:15:01.794994+00:00"
     },
     "us10y": {
       "price": 4.738,
@@ -551,13 +551,13 @@
         4.73799991607666
       ],
       "ok": true,
-      "updated_at": "2026-08-21T20:56:57.216597+00:00"
+      "updated_at": "2026-08-21T21:15:01.856513+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-21T20:56:57.398851+00:00",
+      "updated_at": "2026-08-21T21:15:02.198939+00:00",
       "items": [
         {
           "title": "US stocks: US market rises on the day but falls for the week; bond yields and Iran in focus",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-21T20:56:57.576112+00:00",
+      "updated_at": "2026-08-21T21:15:02.372227+00:00",
       "items": [
+        {
+          "title": "Bitcoin Nears $80,000 Amid Biggest Weekly Rally In Three Years",
+          "link": "https://www.livemint.com/market/bitcoin-nears-80-000-amid-biggest-weekly-rally-in-three-years-11787346008375.html",
+          "pubDate": "2026-08-22T02:30:08+05:30"
+        },
         {
           "title": "Dollar falls to three-month low on Treasury buyback worries",
           "link": "https://www.livemint.com/market/dollar-falls-to-three-month-low-on-treasury-buyback-worries-11787341555185.html",
@@ -940,17 +945,12 @@
           "title": "India Prop Traders’ Derivatives Profits Fall as Market Lags",
           "link": "https://www.livemint.com/market/india-prop-traders-derivatives-profits-fall-as-market-lags-11787292174925.html",
           "pubDate": "2026-08-21T11:32:54+05:30"
-        },
-        {
-          "title": "Welspun Corp share price: Nearly 186% returns in 2026 alone - What's driving the rally?",
-          "link": "https://www.livemint.com/market/stock-market-news/welspun-corp-share-price-nearly-186-returns-in-2026-alone-whats-driving-the-rally-11787288613073.html",
-          "pubDate": "2026-08-21T11:04:59+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-21T20:56:57.753324+00:00",
+      "updated_at": "2026-08-21T21:15:02.416775+00:00",
       "items": [
         {
           "title": "Innovision receives toll collection mandate for Etaura Bujurg & Akhtiyari Kotila fee plaza",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-21T20:56:58.031785+00:00",
+      "updated_at": "2026-08-21T21:15:03.131312+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

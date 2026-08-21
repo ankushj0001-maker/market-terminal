@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T10:16:21.300923+00:00",
+  "generated_at": "2026-08-21T10:53:20.555959+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
@@ -68,7 +68,7 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-21T10:16:20.009169+00:00"
+      "updated_at": "2026-08-21T10:53:18.763530+00:00"
     },
     "sensex": {
       "price": 77540.83,
@@ -137,7 +137,7 @@
         77540.828125
       ],
       "ok": true,
-      "updated_at": "2026-08-21T10:16:20.075862+00:00"
+      "updated_at": "2026-08-21T10:53:18.824928+00:00"
     },
     "banknifty": {
       "price": 57761.95,
@@ -206,7 +206,7 @@
         57761.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-21T10:16:20.130186+00:00"
+      "updated_at": "2026-08-21T10:53:18.881505+00:00"
     },
     "vix": {
       "price": 11.195,
@@ -275,7 +275,7 @@
         11.194999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-21T10:16:20.185671+00:00"
+      "updated_at": "2026-08-21T10:53:18.936676+00:00"
     },
     "usdinr": {
       "price": 95.685,
@@ -344,20 +344,13 @@
         95.68499755859375
       ],
       "ok": true,
-      "updated_at": "2026-08-21T10:16:20.286235+00:00"
+      "updated_at": "2026-08-21T10:53:18.995105+00:00"
     },
     "gold": {
-      "price": 4641.1,
-      "change": 69.7,
-      "pct": 1.5247,
+      "price": 4650.1,
+      "change": 78.7,
+      "pct": 1.7216,
       "closes": [
-        4590.0,
-        4590.10009765625,
-        4586.7001953125,
-        4594.39990234375,
-        4592.39990234375,
-        4599.39990234375,
-        4602.39990234375,
         4604.0,
         4609.7001953125,
         4605.7998046875,
@@ -410,23 +403,23 @@
         4639.7001953125,
         4642.10009765625,
         4640.10009765625,
-        4641.10009765625
+        4635.7001953125,
+        4641.2998046875,
+        4642.89990234375,
+        4645.60009765625,
+        4648.0,
+        4650.7998046875,
+        4650.39990234375,
+        4650.10009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-21T10:16:20.368608+00:00"
+      "updated_at": "2026-08-21T10:53:19.048961+00:00"
     },
     "crude": {
-      "price": 86.99,
-      "change": 0.16,
-      "pct": 0.1843,
+      "price": 86.78,
+      "change": -0.05,
+      "pct": -0.0576,
       "closes": [
-        86.29000091552734,
-        86.30000305175781,
-        86.44999694824219,
-        86.44999694824219,
-        86.37000274658203,
-        86.44999694824219,
-        86.45999908447266,
         86.26000213623047,
         86.16999816894531,
         86.22000122070312,
@@ -479,10 +472,17 @@
         86.55000305175781,
         86.97000122070312,
         87.16999816894531,
-        86.98999786376953
+        87.30999755859375,
+        87.2300033569336,
+        87.02999877929688,
+        86.61000061035156,
+        86.81999969482422,
+        86.81999969482422,
+        86.81999969482422,
+        86.77999877929688
       ],
       "ok": true,
-      "updated_at": "2026-08-21T10:16:20.433778+00:00"
+      "updated_at": "2026-08-21T10:53:19.103599+00:00"
     },
     "us10y": {
       "price": 4.696,
@@ -551,13 +551,13 @@
         4.696000099182129
       ],
       "ok": true,
-      "updated_at": "2026-08-21T10:16:20.499732+00:00"
+      "updated_at": "2026-08-21T10:53:19.197737+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-21T10:16:20.554803+00:00",
+      "updated_at": "2026-08-21T10:53:19.252252+00:00",
       "items": [
         {
           "title": "Hindustan Copper shares jump 4%. What’s driving the rally?",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-21T10:16:20.849919+00:00",
+      "updated_at": "2026-08-21T10:53:19.574311+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,7 +794,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-21T10:16:21.009012+00:00",
+      "updated_at": "2026-08-21T10:53:19.653698+00:00",
       "items": [
         {
           "title": "Top Gainers &amp; Losers on 21 Aug: Welspun Corp, Jindal Saw, Urban Company, Vedanta, CarTrade Tech among top gainers",
@@ -950,8 +950,28 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-21T10:16:21.250393+00:00",
+      "updated_at": "2026-08-21T10:53:19.791647+00:00",
       "items": [
+        {
+          "title": "Diamond Power Infrastructure commissions copper wire drawing and copper cable manufacturing line",
+          "link": "https://www.business-standard.com/markets/capital-market-news/diamond-power-infrastructure-commissions-copper-wire-drawing-and-copper-cable-manufacturing-line-126082100849_1.html",
+          "pubDate": "2026-08-21T16:16:11+05:30"
+        },
+        {
+          "title": "Sanathan Textiles starts production from its expanded technical textile yarn capacity",
+          "link": "https://www.business-standard.com/markets/capital-market-news/sanathan-textiles-starts-production-from-its-expanded-technical-textile-yarn-capacity-126082100848_1.html",
+          "pubDate": "2026-08-21T16:16:02+05:30"
+        },
+        {
+          "title": "Market ends flat amid geopolitical concerns; metal stocks gain",
+          "link": "https://www.business-standard.com/markets/capital-market-news/market-ends-flat-amid-geopolitical-concerns-metal-stocks-gain-126082100830_1.html",
+          "pubDate": "2026-08-21T16:04:02+05:30"
+        },
+        {
+          "title": "Millworks Technologies secures orders worth Rs 53.74 cr",
+          "link": "https://www.business-standard.com/markets/capital-market-news/millworks-technologies-secures-orders-worth-rs-53-74-cr-126082100807_1.html",
+          "pubDate": "2026-08-21T15:50:02+05:30"
+        },
         {
           "title": "SME stock Technocrats Plasma Systems zooms 83% against IPO price on debut",
           "link": "https://www.business-standard.com/markets/news/sme-stock-technocrats-plasma-systems-zooms-83-against-ipo-price-on-debut-126082100763_1.html",
@@ -1081,32 +1101,12 @@
           "title": "ICICI Bank's board OKs $5 billion overseas borrowing limit",
           "link": "https://www.business-standard.com/markets/capital-market-news/icici-bank-s-board-oks-5-billion-overseas-borrowing-limit-126082100465_1.html",
           "pubDate": "2026-08-21T12:04:25+05:30"
-        },
-        {
-          "title": "Geojit flags 'Rising Channel' pattern in GPIL stock since 2 yrs; what next?",
-          "link": "https://www.business-standard.com/markets/news/geojit-flags-rising-channel-pattern-in-gpil-stock-since-2-years-what-next-126082100403_1.html",
-          "pubDate": "2026-08-21T11:57:01+05:30"
-        },
-        {
-          "title": "Bajel Project surges after JV arm emerges as L-1 bidder for inter-state transmission project in Gujarat",
-          "link": "https://www.business-standard.com/markets/capital-market-news/bajel-project-surges-after-jv-arm-emerges-as-l-1-bidder-for-inter-state-transmission-project-in-gujarat-126082100456_1.html",
-          "pubDate": "2026-08-21T11:54:10+05:30"
-        },
-        {
-          "title": "Bajel Projects JV wins bid for inter-state transmission project",
-          "link": "https://www.business-standard.com/markets/capital-market-news/bajel-projects-jv-wins-bid-for-inter-state-transmission-project-126082100453_1.html",
-          "pubDate": "2026-08-21T11:53:52+05:30"
-        },
-        {
-          "title": "Ceigall India secures Rs 225-cr bulk drug park project",
-          "link": "https://www.business-standard.com/markets/capital-market-news/ceigall-india-secures-rs-225-cr-bulk-drug-park-project-126082100451_1.html",
-          "pubDate": "2026-08-21T11:53:39+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-21T10:16:21.300907+00:00",
+      "updated_at": "2026-08-21T10:53:20.555942+00:00",
       "items": [
         {
           "title": "624<sup>th</sup> Meeting of Central Board of the Reserve Bank of India",

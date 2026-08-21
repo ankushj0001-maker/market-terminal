@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T13:29:31.767624+00:00",
+  "generated_at": "2026-08-21T14:05:25.065312+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
@@ -68,7 +68,7 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-21T13:29:25.204226+00:00"
+      "updated_at": "2026-08-21T14:05:22.671439+00:00"
     },
     "sensex": {
       "price": 77540.83,
@@ -137,7 +137,7 @@
         77540.828125
       ],
       "ok": true,
-      "updated_at": "2026-08-21T13:29:25.370917+00:00"
+      "updated_at": "2026-08-21T14:05:22.831267+00:00"
     },
     "banknifty": {
       "price": 57761.95,
@@ -206,7 +206,7 @@
         57761.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-21T13:29:25.462059+00:00"
+      "updated_at": "2026-08-21T14:05:22.939488+00:00"
     },
     "vix": {
       "price": 11.195,
@@ -275,14 +275,13 @@
         11.194999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-21T13:29:25.594745+00:00"
+      "updated_at": "2026-08-21T14:05:23.082424+00:00"
     },
     "usdinr": {
       "price": 95.685,
       "change": -0.01,
       "pct": -0.0104,
       "closes": [
-        95.72750091552734,
         95.72750091552734,
         95.72000122070312,
         95.73249816894531,
@@ -341,24 +340,17 @@
         95.7300033569336,
         95.69750213623047,
         95.68499755859375,
+        95.68499755859375,
         95.68499755859375
       ],
       "ok": true,
-      "updated_at": "2026-08-21T13:29:25.710660+00:00"
+      "updated_at": "2026-08-21T14:05:23.181639+00:00"
     },
     "gold": {
-      "price": 4637.5,
-      "change": 66.1,
-      "pct": 1.4459,
+      "price": 4640.4,
+      "change": 69.0,
+      "pct": 1.5094,
       "closes": [
-        4636.39990234375,
-        4637.7998046875,
-        4636.5,
-        4639.5,
-        4638.0,
-        4638.60009765625,
-        4641.0,
-        4642.89990234375,
         4653.2998046875,
         4656.7998046875,
         4650.7001953125,
@@ -410,24 +402,24 @@
         4637.7001953125,
         4642.0,
         4637.60009765625,
-        4637.5
+        4640.0,
+        4640.89990234375,
+        4631.0,
+        4644.60009765625,
+        4644.89990234375,
+        4647.10009765625,
+        4638.10009765625,
+        4638.2998046875,
+        4640.39990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-21T13:29:26.244800+00:00"
+      "updated_at": "2026-08-21T14:05:23.604169+00:00"
     },
     "crude": {
-      "price": 86.81,
-      "change": -0.02,
-      "pct": -0.023,
+      "price": 86.53,
+      "change": -0.3,
+      "pct": -0.3455,
       "closes": [
-        86.11000061035156,
-        86.30999755859375,
-        86.19999694824219,
-        86.11000061035156,
-        86.06999969482422,
-        86.06999969482422,
-        85.93000030517578,
-        85.83999633789062,
         85.91000366210938,
         86.08999633789062,
         86.16000366210938,
@@ -478,16 +470,24 @@
         86.6500015258789,
         86.7699966430664,
         86.79000091552734,
-        86.7699966430664,
-        86.80999755859375
+        86.79000091552734,
+        86.9800033569336,
+        86.91000366210938,
+        86.93000030517578,
+        86.79000091552734,
+        86.76000213623047,
+        86.58000183105469,
+        86.58999633789062,
+        86.45999908447266,
+        86.52999877929688
       ],
       "ok": true,
-      "updated_at": "2026-08-21T13:29:26.332037+00:00"
+      "updated_at": "2026-08-21T14:05:23.694954+00:00"
     },
     "us10y": {
-      "price": 4.708,
-      "change": 0.012,
-      "pct": 0.2555,
+      "price": 4.716,
+      "change": 0.02,
+      "pct": 0.4259,
       "closes": [
         4.693999767303467,
         4.691999912261963,
@@ -499,17 +499,24 @@
         4.696000099182129,
         4.703999996185303,
         4.710000038146973,
-        4.708000183105469,
-        4.708000183105469
+        4.706000328063965,
+        4.711999893188477,
+        4.7139997482299805,
+        4.716000080108643,
+        4.720000267028809,
+        4.716000080108643,
+        4.720000267028809,
+        4.716000080108643,
+        4.716000080108643
       ],
       "ok": true,
-      "updated_at": "2026-08-21T13:29:26.432275+00:00"
+      "updated_at": "2026-08-21T14:05:23.772592+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-21T13:29:26.592266+00:00",
+      "updated_at": "2026-08-21T14:05:24.016622+00:00",
       "items": [
         {
           "title": "Hindustan Copper shares jump 4%. What’s driving the rally?",
@@ -665,7 +672,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-21T13:29:27.033358+00:00",
+      "updated_at": "2026-08-21T14:05:24.381585+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -746,8 +753,23 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-21T13:29:27.204469+00:00",
+      "updated_at": "2026-08-21T14:05:24.670987+00:00",
       "items": [
+        {
+          "title": "US stocks surge as bond market volatility eases",
+          "link": "https://www.livemint.com/market/stock-market-news/us-stocks-surge-as-bond-market-volatility-eases-11787319906181.html",
+          "pubDate": "2026-08-21T19:33:55+05:30"
+        },
+        {
+          "title": "Sebi proposes bond distributor network, tighter ad rules to deepen retail participation",
+          "link": "https://www.livemint.com/market/sebi-bond-distributor-network-ad-rules-retail-participation-mutual-fund-11787316933242.html",
+          "pubDate": "2026-08-21T19:23:35+05:30"
+        },
+        {
+          "title": "Pulse of the Street: Cyclicals buck weak market as FPI inflows hit 23-month high",
+          "link": "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-cyclicals-buck-weak-market-as-fpi-inflows-hit-23-month-high-11787315061912.html",
+          "pubDate": "2026-08-21T19:06:48+05:30"
+        },
         {
           "title": "Saatvik Green Energy shares post biggest 1-day gain in over a month on  ₹190 crore order win",
           "link": "https://www.livemint.com/market/stock-market-news/saatvik-green-energy-shares-post-biggest-1-day-gain-in-over-a-month-on-rs-190-crore-order-win-11787310393835.html",
@@ -882,27 +904,12 @@
           "title": "Augmont Enterprises IPO Day 1: GMP signals 38% listing pop after strong subscription status. Apply or not?",
           "link": "https://www.livemint.com/market/ipo/augmont-enterprises-ipo-day-1-live-gmp-subscription-status-to-review-apply-or-not-11787282345630.html",
           "pubDate": "2026-08-21T09:23:59+05:30"
-        },
-        {
-          "title": "MCX gold nears  ₹1,60,000, silver at  ₹2,45,000 amid positive global cues; experts highlight key levels to watch",
-          "link": "https://www.livemint.com/market/commodities/mcx-gold-nears-1-60-000-silver-at-2-45-000-amid-positive-global-cues-experts-highlight-key-levels-to-watch-11787283205483.html",
-          "pubDate": "2026-08-21T09:12:02+05:30"
-        },
-        {
-          "title": "Rupee opens 7 paise higher at 95.64 against US dollar",
-          "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-7-paise-higher-at-95-64-against-us-dollar-11787283390220.html",
-          "pubDate": "2026-08-21T09:07:56+05:30"
-        },
-        {
-          "title": "Stocks to buy for short term: Ajit Mishra of Religare Broking recommends 3 shares for next 1-2 weeks",
-          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-ajit-mishra-of-religare-broking-recommends-3-shares-for-next-1-2-weeks-11787279316530.html",
-          "pubDate": "2026-08-21T09:00:45+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-21T13:29:27.495049+00:00",
+      "updated_at": "2026-08-21T14:05:24.928065+00:00",
       "items": [
         {
           "title": "RBI Central Board of Directors review current economic situation",
@@ -947,7 +954,7 @@
         {
           "title": "Sebi proposes distribution model to deepen corporate bond market reach",
           "link": "https://www.business-standard.com/economy/news/sebi-proposes-distribution-model-to-deepen-corporate-bond-market-reach-126082100923_1.html",
-          "pubDate": "2026-08-21T16:55:45+05:30"
+          "pubDate": "2026-08-21T16:55:01+05:30"
         },
         {
           "title": "Tata Communications allots 68,894 equity shares under ESOP",
@@ -1058,8 +1065,18 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-21T13:29:31.767606+00:00",
+      "updated_at": "2026-08-21T14:05:25.065294+00:00",
       "items": [
+        {
+          "title": "RBI to conduct 7-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 24, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63424",
+          "pubDate": "2026-08-21T19:15:00+00:00"
+        },
+        {
+          "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63423",
+          "pubDate": "2026-08-21T19:10:00+00:00"
+        },
         {
           "title": "RBI imposes monetary penalty on Shri Ram Finance Corporation Private Limited",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63422",
@@ -1099,16 +1116,6 @@
           "title": "Result of the 3-day Variable Rate Reverse Repo (VRRR) auction held on August 21, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63415",
           "pubDate": "2026-08-21T10:25:00+00:00"
-        },
-        {
-          "title": "Result of Underwriting Auction conducted on August 21, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63414",
-          "pubDate": "2026-08-21T09:50:00+00:00"
-        },
-        {
-          "title": "Money Market Operations as on August 20, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63413",
-          "pubDate": "2026-08-21T09:00:00+00:00"
         }
       ]
     }

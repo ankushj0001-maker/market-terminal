@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T23:56:42.374410+00:00",
+  "generated_at": "2026-08-21T00:44:13.424369+00:00",
   "indices": {
     "nifty50": {
       "price": 24231.85,
@@ -36,7 +36,7 @@
         24244.30078125,
         24244.25,
         24244.94921875,
-        24248.75,
+        24248.5,
         24246.80078125,
         24241.0,
         24250.30078125,
@@ -47,8 +47,8 @@
         24246.25,
         24239.44921875,
         24232.94921875,
-        24233.94921875,
-        24235.75,
+        24233.599609375,
+        24236.599609375,
         24238.44921875,
         24238.0,
         24242.150390625,
@@ -61,14 +61,14 @@
         24238.099609375,
         24231.349609375,
         24215.69921875,
-        24213.69921875,
+        24212.349609375,
         24211.599609375,
         24211.599609375,
         24231.849609375,
         24231.849609375
       ],
       "ok": true,
-      "updated_at": "2026-08-20T23:56:39.368492+00:00"
+      "updated_at": "2026-08-21T00:44:09.157076+00:00"
     },
     "sensex": {
       "price": 77537.72,
@@ -137,7 +137,7 @@
         77537.71875
       ],
       "ok": true,
-      "updated_at": "2026-08-20T23:56:39.505118+00:00"
+      "updated_at": "2026-08-21T00:44:09.266414+00:00"
     },
     "banknifty": {
       "price": 57495.9,
@@ -182,7 +182,7 @@
         57616.6484375,
         57576.94921875,
         57570.69921875,
-        57598.44921875,
+        57595.5,
         57577.19921875,
         57561.75,
         57559.3984375,
@@ -193,9 +193,9 @@
         57535.75,
         57540.69921875,
         57553.5,
-        57523.5,
+        57526.69921875,
         57534.5,
-        57528.6015625,
+        57528.75,
         57536.44921875,
         57509.55078125,
         57473.19921875,
@@ -206,7 +206,7 @@
         57495.8984375
       ],
       "ok": true,
-      "updated_at": "2026-08-20T23:56:39.665807+00:00"
+      "updated_at": "2026-08-21T00:44:09.378390+00:00"
     },
     "vix": {
       "price": 10.755,
@@ -275,7 +275,7 @@
         10.755000114440918
       ],
       "ok": true,
-      "updated_at": "2026-08-20T23:56:39.811640+00:00"
+      "updated_at": "2026-08-21T00:44:09.481784+00:00"
     },
     "usdinr": {
       "price": 95.695,
@@ -283,26 +283,17 @@
       "pct": 0.0,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-20T23:56:39.949754+00:00"
+      "updated_at": "2026-08-21T00:44:09.583183+00:00"
     },
     "gold": {
-      "price": 4579.8,
-      "change": 8.4,
-      "pct": 0.1838,
+      "price": 4571.3,
+      "change": -0.1,
+      "pct": -0.0022,
       "closes": [
-        4576.0,
-        4578.10009765625,
-        4572.89990234375,
-        4567.2998046875,
-        4572.2998046875,
-        4572.39990234375,
-        4575.89990234375,
-        4575.7998046875,
-        4577.60009765625,
         4576.5,
         4577.5,
         4580.89990234375,
-        4578.7001953125,
+        4578.5,
         4578.2001953125,
         4582.89990234375,
         4584.2001953125,
@@ -311,10 +302,10 @@
         4579.2001953125,
         4580.10009765625,
         4584.7001953125,
-        4582.39990234375,
+        4582.2001953125,
         4584.7998046875,
         4587.10009765625,
-        4585.10009765625,
+        4584.89990234375,
         4583.2998046875,
         4579.5,
         4578.89990234375,
@@ -344,30 +335,30 @@
         4587.60009765625,
         4587.5,
         4584.7998046875,
-        4583.10009765625,
+        4583.2001953125,
         4579.39990234375,
         4579.7001953125,
         4580.7998046875,
         4583.5,
-        4579.7998046875
+        4584.2001953125,
+        4582.2001953125,
+        4578.7998046875,
+        4576.39990234375,
+        4575.10009765625,
+        4574.39990234375,
+        4574.2998046875,
+        4571.39990234375,
+        4571.2001953125,
+        4571.2998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-20T23:56:40.113705+00:00"
+      "updated_at": "2026-08-21T00:44:09.713884+00:00"
     },
     "crude": {
-      "price": 86.29,
-      "change": -0.54,
-      "pct": -0.6219,
+      "price": 86.27,
+      "change": -0.56,
+      "pct": -0.6449,
       "closes": [
-        86.5199966430664,
-        86.55999755859375,
-        86.41999816894531,
-        86.47000122070312,
-        86.48999786376953,
-        86.47000122070312,
-        86.94000244140625,
-        86.77999877929688,
-        86.91000366210938,
         86.91000366210938,
         86.91000366210938,
         86.86000061035156,
@@ -418,10 +409,19 @@
         86.30000305175781,
         86.30999755859375,
         86.2699966430664,
-        86.29000091552734
+        86.26000213623047,
+        86.22000122070312,
+        86.1500015258789,
+        86.19999694824219,
+        86.2699966430664,
+        86.1500015258789,
+        86.12999725341797,
+        86.18000030517578,
+        86.25,
+        86.2699966430664
       ],
       "ok": true,
-      "updated_at": "2026-08-20T23:56:40.304658+00:00"
+      "updated_at": "2026-08-21T00:44:09.916447+00:00"
     },
     "us10y": {
       "price": 4.696,
@@ -490,43 +490,43 @@
         4.696000099182129
       ],
       "ok": true,
-      "updated_at": "2026-08-20T23:56:40.441532+00:00"
+      "updated_at": "2026-08-21T00:44:10.024956+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-20T23:56:40.820864+00:00",
+      "updated_at": "2026-08-21T00:44:10.138493+00:00",
       "items": [
         {
-          "title": "US stocks: US market sinks as bond yields rise, Walmart results disappoint",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-sinks-as-bond-yields-rise-walmart-results-disappoint/articleshow/133387377.cms",
-          "pubDate": "2026-08-21T01:41:54+05:30"
+          "title": "Foreign investors continue to buy, with financials top the list",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-continue-to-buy-with-financials-top-the-list/articleshow/133389861.cms",
+          "pubDate": "2026-08-21T05:46:28+05:30"
         },
         {
-          "title": "Power Finance Corporation and REC shares fall up to 3% after Morgan Stanley downgrade",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/power-finance-corporation-and-rec-shares-fall-up-to-3-after-morgan-stanley-downgrade/articleshow/133367186.cms",
-          "pubDate": "2026-08-20T12:17:24+05:30"
+          "title": "Protection, annuity more relevant in insurance products: Sumit Madan, MD &amp; CEO, Axis Max Life",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/protection-annuity-more-relevant-in-insurance-products-sumit-madan-md-ceo-axis-max-life/articleshow/133390261.cms",
+          "pubDate": "2026-08-20T23:55:42+05:30"
         },
         {
-          "title": "Sugar stocks Bajaj Hindusthan Sugar, Balrampur Chini, others rally up to 8% after govt tightens stock limits",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sugar-stocks-bajaj-hindusthan-sugar-balrampur-chini-others-rally-up-to-8-after-govt-tightens-stock-limits/articleshow/133365775.cms",
-          "pubDate": "2026-08-20T11:20:05+05:30"
+          "title": "Niva Bupa, Acko General Insurance barred from opening places of biz for 6 months",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/niva-bupa-acko-general-insurance-barred-from-opening-places-of-biz-for-6-months/articleshow/133390233.cms",
+          "pubDate": "2026-08-20T23:43:01+05:30"
         },
         {
-          "title": "Can Turtlemint Fintech shares rally to Rs 190? Why Jefferies initiated coverage on the stock",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-turtlemint-fintech-shares-rally-to-rs-190-why-jefferies-initiated-coverage-on-the-stock/articleshow/133365683.cms",
-          "pubDate": "2026-08-20T11:14:58+05:30"
+          "title": "Local funds' share rises in private credit market: EY report",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/local-funds-share-rises-in-private-credit-market-ey-report/articleshow/133390197.cms",
+          "pubDate": "2026-08-20T23:18:51+05:30"
         },
         {
-          "title": "Strides Pharma Science shares jump 9% after USFDA EIR for Bengaluru facility",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/strides-pharma-science-shares-jump-9-after-usfda-eir-for-bengaluru-facility/articleshow/133365447.cms",
-          "pubDate": "2026-08-20T11:09:25+05:30"
+          "title": "Govt reappoints Anand Mahindra to RBI board, names former Isro chief S Somanath as non-official director",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/govt-reappoints-anand-mahindra-to-rbi-board-names-former-isro-chief-s-somanath-as-non-official-director/articleshow/133390156.cms",
+          "pubDate": "2026-08-20T21:50:04+05:30"
         },
         {
-          "title": "Milky Mist Dairy Food shares slip 4% after sharp post-listing rally",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-dairy-food-shares-slip-4-after-sharp-post-listing-rally/articleshow/133365199.cms",
-          "pubDate": "2026-08-20T10:54:45+05:30"
+          "title": "Aditya Birla Capital to enter gold loan market, target 1,000 branches",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/aditya-birla-capital-to-enter-gold-loan-market-target-1000-branches/articleshow/133390271.cms",
+          "pubDate": "2026-08-20T19:15:25+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -733,8 +733,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-20T23:56:41.130000+00:00",
+      "updated_at": "2026-08-21T00:44:10.448886+00:00",
       "items": [
+        {
+          "title": "Raja Venkatraman recommends three stocks for 21 August",
+          "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-21-august-11787228648758.html",
+          "pubDate": "2026-08-21T06:00:38+05:30"
+        },
+        {
+          "title": "Stock recommendations for 21 August from MarketSmith India",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-21-august-from-marketsmith-india-11787226581989.html",
+          "pubDate": "2026-08-21T06:00:17+05:30"
+        },
         {
           "title": "Hua Hong, Kingboard, Zijin Gold May Join Hong Kong’s Stock Index",
           "link": "https://www.livemint.com/market/hua-hong-kingboard-zijin-gold-may-join-hong-kong-s-stock-index-11787269994025.html",
@@ -874,22 +884,12 @@
           "title": "Why is stock market up today? Top 3 reasons behind the rise in Sensex, Nifty, and the biggest gaining stocks",
           "link": "https://www.livemint.com/market/stock-market-news/why-is-stock-market-up-today-top-3-reasons-behind-the-rise-in-sensex-nifty-50-and-the-biggest-gaining-stocks-11787207387920.html",
           "pubDate": "2026-08-20T12:12:52+05:30"
-        },
-        {
-          "title": "Annu Projects IPO: Price band set at  ₹94-99 per share; check key dates, issue details",
-          "link": "https://www.livemint.com/market/ipo/annu-projects-ipo-price-band-set-at-rs-94-99-per-share-check-key-dates-issue-details-11787205777391.html",
-          "pubDate": "2026-08-20T12:03:44+05:30"
-        },
-        {
-          "title": "Shankesh Jewellers IPO: Issue subscribed 2.80x so far, GMP jumps",
-          "link": "https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-day-3-live-gmp-today-subscription-status-to-review-apply-or-not-11787202874519.html",
-          "pubDate": "2026-08-20T12:00:49+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-20T23:56:41.389132+00:00",
+      "updated_at": "2026-08-21T00:44:11.101035+00:00",
       "items": [
         {
           "title": "Sebi permits digitally signed power of attorney to ease FPI onboarding",
@@ -1045,7 +1045,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-20T23:56:42.374395+00:00",
+      "updated_at": "2026-08-21T00:44:13.424353+00:00",
       "items": [
         {
           "title": "Appointment of Shri Somanath Sreedhara Panicker as part-time, Non-official Director on the Central Board of Reserve Bank of India",

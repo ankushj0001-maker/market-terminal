@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:50:25.107842+00:00",
+  "generated_at": "2026-08-22T08:13:42.241615+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
@@ -27,8 +27,8 @@
         24236.25,
         24233.30078125,
         24237.94921875,
-        24240.849609375,
-        24238.099609375,
+        24240.75,
+        24238.25,
         24243.099609375,
         24236.55078125,
         24233.30078125,
@@ -46,9 +46,9 @@
         24235.80078125,
         24231.44921875,
         24232.94921875,
-        24233.599609375,
+        24233.94921875,
         24230.69921875,
-        24225.5,
+        24225.44921875,
         24230.55078125,
         24236.150390625,
         24239.349609375,
@@ -68,7 +68,7 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-22T07:50:23.074399+00:00"
+      "updated_at": "2026-08-22T08:13:40.694282+00:00"
     },
     "sensex": {
       "price": 77540.83,
@@ -137,16 +137,16 @@
         77540.828125
       ],
       "ok": true,
-      "updated_at": "2026-08-22T07:50:23.145909+00:00"
+      "updated_at": "2026-08-22T08:13:40.751093+00:00"
     },
     "banknifty": {
       "price": 57761.95,
       "change": 266.05,
       "pct": 0.4627,
       "closes": [
-        57709.05078125,
+        57707.8984375,
         57735.75,
-        57729.3984375,
+        57728.5,
         57731.69921875,
         57711.05078125,
         57727.05078125,
@@ -156,7 +156,7 @@
         57701.69921875,
         57723.6015625,
         57712.3984375,
-        57702.55078125,
+        57704.1484375,
         57707.30078125,
         57704.80078125,
         57678.75,
@@ -174,7 +174,7 @@
         57676.69921875,
         57674.1484375,
         57676.30078125,
-        57708.1484375,
+        57707.6015625,
         57686.69921875,
         57677.6484375,
         57672.44921875,
@@ -193,7 +193,7 @@
         57681.25,
         57676.3515625,
         57648.6484375,
-        57651.3515625,
+        57650.6484375,
         57664.19921875,
         57663.8984375,
         57667.55078125,
@@ -206,7 +206,7 @@
         57761.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-22T07:50:23.213706+00:00"
+      "updated_at": "2026-08-22T08:13:40.802842+00:00"
     },
     "vix": {
       "price": 11.195,
@@ -275,7 +275,7 @@
         11.194999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-22T07:50:23.283081+00:00"
+      "updated_at": "2026-08-22T08:13:40.860948+00:00"
     },
     "usdinr": {
       "price": 95.71,
@@ -344,7 +344,7 @@
         95.69000244140625
       ],
       "ok": true,
-      "updated_at": "2026-08-22T07:50:23.363294+00:00"
+      "updated_at": "2026-08-22T08:13:40.917671+00:00"
     },
     "gold": {
       "price": 4680.6,
@@ -364,17 +364,17 @@
         4684.89990234375,
         4686.60009765625,
         4685.60009765625,
-        4688.89990234375,
+        4689.0,
         4681.39990234375,
-        4681.39990234375,
+        4681.5,
         4676.39990234375,
         4680.10009765625,
         4678.60009765625,
-        4681.10009765625,
+        4680.89990234375,
         4677.7001953125,
-        4676.60009765625,
-        4677.7001953125,
-        4678.7998046875,
+        4676.2001953125,
+        4677.7998046875,
+        4678.7001953125,
         4684.39990234375,
         4684.0,
         4682.5,
@@ -413,7 +413,7 @@
         4680.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-22T07:50:23.447099+00:00"
+      "updated_at": "2026-08-22T08:13:40.984823+00:00"
     },
     "crude": {
       "price": 87.06,
@@ -421,7 +421,7 @@
       "pct": 0.2649,
       "closes": [
         86.8499984741211,
-        86.94000244140625,
+        86.91000366210938,
         86.87000274658203,
         86.91000366210938,
         86.61000061035156,
@@ -448,7 +448,7 @@
         87.13999938964844,
         87.16999816894531,
         87.27999877929688,
-        87.2300033569336,
+        87.23999786376953,
         87.06999969482422,
         87.0999984741211,
         87.0199966430664,
@@ -482,7 +482,7 @@
         87.05999755859375
       ],
       "ok": true,
-      "updated_at": "2026-08-22T07:50:23.564458+00:00"
+      "updated_at": "2026-08-22T08:13:41.045987+00:00"
     },
     "us10y": {
       "price": 4.738,
@@ -551,13 +551,13 @@
         4.73799991607666
       ],
       "ok": true,
-      "updated_at": "2026-08-22T07:50:23.634628+00:00"
+      "updated_at": "2026-08-22T08:13:41.107200+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-22T07:50:23.907206+00:00",
+      "updated_at": "2026-08-22T08:13:41.210686+00:00",
       "items": [
         {
           "title": "HDFC and Axis Mutual Fund resume subscriptions in gold ETFs and gold ETF FoFs",
@@ -712,7 +712,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-22T07:50:23.983393+00:00",
       "items": [
         {
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-22T07:50:24.151322+00:00",
+      "updated_at": "2026-08-22T08:13:41.638447+00:00",
       "items": [
+        {
+          "title": "IPO GMPs: Skyways IPO, Symbiotec Pharmalab IPO to Lumino Industries IPO —what grey market premium signals?",
+          "link": "https://www.livemint.com/market/ipo/ipo-gmps-skyways-ipo-symbiotec-pharmalab-ipo-to-lumino-industries-ipo-what-grey-market-premium-signals-11787211771064.html",
+          "pubDate": "2026-08-22T13:29:58+05:30"
+        },
         {
           "title": "Luxury Sales Plunge in China as Tax Push Hits Rich Shoppers",
           "link": "https://www.livemint.com/market/luxury-sales-plunge-in-china-as-tax-push-hits-rich-shoppers-11787382434070.html",
@@ -940,18 +945,18 @@
           "title": "80% rally in YTD! Ratnaveer Precision Engineering declares rights issue worth  ₹330 crore",
           "link": "https://www.livemint.com/market/stock-market-news/80-rally-in-ytd-ratnaveer-precision-engineering-declares-rights-issue-worth-rs-330-crore-11787296981659.html",
           "pubDate": "2026-08-21T13:27:30+05:30"
-        },
-        {
-          "title": "For city gas distributors, policy support is short-term relief, at best",
-          "link": "https://www.livemint.com/market/mark-to-market/for-city-gas-distributors-policy-support-is-short-term-relief-at-best-11787289999889.html",
-          "pubDate": "2026-08-21T13:13:27+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-22T07:50:24.312280+00:00",
+      "updated_at": "2026-08-22T08:13:41.686907+00:00",
       "items": [
+        {
+          "title": "Crisil Ratings reaffirms ratings of Hyundai Motor India at 'AAA/A1+' with 'stable' outlook",
+          "link": "https://www.business-standard.com/markets/capital-market-news/crisil-ratings-reaffirms-ratings-of-hyundai-motor-india-at-aaa-a1-with-stable-outlook-126082200408_1.html",
+          "pubDate": "2026-08-22T13:31:02+05:30"
+        },
         {
           "title": "NATCO Pharma's Visakhapatnam unit gets Form 483 with 4 observations from US FDA",
           "link": "https://www.business-standard.com/markets/capital-market-news/natco-pharma-s-visakhapatnam-unit-gets-form-483-with-4-observations-from-us-fda-126082200318_1.html",
@@ -1096,17 +1101,12 @@
           "title": "Diamond Power Infrastructure commissions copper wire drawing and copper cable manufacturing line",
           "link": "https://www.business-standard.com/markets/capital-market-news/diamond-power-infrastructure-commissions-copper-wire-drawing-and-copper-cable-manufacturing-line-126082100849_1.html",
           "pubDate": "2026-08-21T16:16:11+05:30"
-        },
-        {
-          "title": "Sanathan Textiles starts production from its expanded technical textile yarn capacity",
-          "link": "https://www.business-standard.com/markets/capital-market-news/sanathan-textiles-starts-production-from-its-expanded-technical-textile-yarn-capacity-126082100848_1.html",
-          "pubDate": "2026-08-21T16:16:02+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-22T07:50:25.107825+00:00",
+      "updated_at": "2026-08-22T08:13:42.241596+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

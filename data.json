@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T04:18:46.423663+00:00",
+  "generated_at": "2026-08-22T04:56:34.727121+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
@@ -68,7 +68,7 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-22T04:18:44.595321+00:00"
+      "updated_at": "2026-08-22T04:56:30.412774+00:00"
     },
     "sensex": {
       "price": 77540.83,
@@ -137,7 +137,7 @@
         77540.828125
       ],
       "ok": true,
-      "updated_at": "2026-08-22T04:18:44.656953+00:00"
+      "updated_at": "2026-08-22T04:56:30.550430+00:00"
     },
     "banknifty": {
       "price": 57761.95,
@@ -206,7 +206,7 @@
         57761.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-22T04:18:44.714396+00:00"
+      "updated_at": "2026-08-22T04:56:30.626194+00:00"
     },
     "vix": {
       "price": 11.195,
@@ -275,7 +275,7 @@
         11.194999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-22T04:18:44.774795+00:00"
+      "updated_at": "2026-08-22T04:56:30.755514+00:00"
     },
     "usdinr": {
       "price": 95.71,
@@ -344,12 +344,12 @@
         95.69000244140625
       ],
       "ok": true,
-      "updated_at": "2026-08-22T04:18:44.848522+00:00"
+      "updated_at": "2026-08-22T04:56:30.871574+00:00"
     },
     "gold": {
-      "price": 4661.6,
-      "change": 90.2,
-      "pct": 1.9731,
+      "price": 4680.6,
+      "change": 109.2,
+      "pct": 2.3888,
       "closes": [
         4674.2998046875,
         4667.60009765625,
@@ -413,12 +413,12 @@
         4661.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-22T04:18:44.932921+00:00"
+      "updated_at": "2026-08-22T04:56:31.009572+00:00"
     },
     "crude": {
-      "price": 86.64,
-      "change": -0.19,
-      "pct": -0.2188,
+      "price": 87.06,
+      "change": 0.23,
+      "pct": 0.2649,
       "closes": [
         86.8499984741211,
         86.94000244140625,
@@ -482,7 +482,7 @@
         86.63999938964844
       ],
       "ok": true,
-      "updated_at": "2026-08-22T04:18:44.995707+00:00"
+      "updated_at": "2026-08-22T04:56:31.181118+00:00"
     },
     "us10y": {
       "price": 4.738,
@@ -551,14 +551,34 @@
         4.73799991607666
       ],
       "ok": true,
-      "updated_at": "2026-08-22T04:18:45.051605+00:00"
+      "updated_at": "2026-08-22T04:56:31.369436+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-22T04:18:45.113586+00:00",
+      "updated_at": "2026-08-22T04:56:31.693284+00:00",
       "items": [
+        {
+          "title": "Dubai office boom drives commercial real estate growth; transaction value triples in H1 2026",
+          "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/dubai-office-boom-drives-commercial-real-estate-growth-transaction-value-triples-in-h1-2026/articleshow/133417249.cms",
+          "pubDate": "2026-08-22T09:53:51+05:30"
+        },
+        {
+          "title": "Gold regains momentum as weak Dollar, safe haven demand and seasonal buying support prices",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-regains-momentum-as-weak-dollar-safe-haven-demand-and-seasonal-buying-support-prices/articleshow/133417184.cms",
+          "pubDate": "2026-08-22T09:48:50+05:30"
+        },
+        {
+          "title": "Delayed, Not Denied: India’s BGAI Entry Waits on Market Access",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/delayed-not-denied-indias-bgai-entry-waits-on-market-access/articleshow/133417098.cms",
+          "pubDate": "2026-08-22T09:42:32+05:30"
+        },
+        {
+          "title": "ETMarkets Smart Talk | India’s diverse earnings story could bring FIIs back: Bandhan Life’s Avinash Agarwal",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-indias-diverse-earnings-story-could-bring-fiis-back-bandhan-lifes-avinash-agarwal/articleshow/133417060.cms",
+          "pubDate": "2026-08-22T09:33:20+05:30"
+        },
         {
           "title": "ETMarkets Smart Talk | Bonds aren’t boring: Where Devang Shah sees the best fixed-income opportunities",
           "link": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-bonds-arent-boring-where-devang-shah-sees-the-best-fixed-income-opportunities/articleshow/133416948.cms",
@@ -568,26 +588,6 @@
           "title": "5 world market themes for the week ahead",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/5-world-market-themes-for-the-week-ahead/articleshow/133416904.cms",
           "pubDate": "2026-08-22T09:23:55+05:30"
-        },
-        {
-          "title": "Trump says he did not direct Bessent to intervene in bond market",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/trump-says-he-did-not-direct-bessent-to-intervene-in-bond-market/articleshow/133416881.cms",
-          "pubDate": "2026-08-22T09:19:20+05:30"
-        },
-        {
-          "title": "Wall St Week Ahead Nvidia earnings, Jackson Hole to test pillars of stock rally",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-st-week-ahead-nvidia-earnings-jackson-hole-to-test-pillars-of-stock-rally/articleshow/133416862.cms",
-          "pubDate": "2026-08-22T09:17:28+05:30"
-        },
-        {
-          "title": "Goldman Sachs picks ICICI Bank, Kotak Mahindra Bank as top banking bets",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-picks-icici-bank-kotak-mahindra-bank-as-top-banking-bets/articleshow/133416320.cms",
-          "pubDate": "2026-08-22T08:28:43+05:30"
-        },
-        {
-          "title": "West Asia tensions cloud market outlook, Nifty may stay rangebound",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/west-asia-tensions-cloud-market-outlook-nifty-may-stay-rangebound/articleshow/133415917.cms",
-          "pubDate": "2026-08-22T07:33:48+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-22T04:18:45.382899+00:00",
+      "updated_at": "2026-08-22T04:56:32.175164+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-22T04:18:45.576290+00:00",
+      "updated_at": "2026-08-22T04:56:32.574365+00:00",
       "items": [
+        {
+          "title": "Private banking stocks witnessing fresh momentum; should you bet or book profit?",
+          "link": "https://www.livemint.com/market/stock-market-news/private-banking-stocks-witnessing-fresh-momentum-should-you-bet-or-book-profit-11787327701659.html",
+          "pubDate": "2026-08-22T10:01:03+05:30"
+        },
         {
           "title": "Sugar Rises on India Tightness Amid Demand Anxieties",
           "link": "https://www.livemint.com/market/sugar-rises-on-india-tightness-amid-demand-anxieties-11787372290067.html",
@@ -940,18 +945,23 @@
           "title": "In a bullish signal, market tiptoes to higher highs and higher lows",
           "link": "https://www.livemint.com/market/stock-market-news/niftys-higher-highs-offer-a-bullish-signal-amid-global-turmoil-11787283025704.html",
           "pubDate": "2026-08-21T12:27:46+05:30"
-        },
-        {
-          "title": "Vedanta Aluminium dividend: Did you check bank account? Anil Agarwal's company starts crediting stock rewards",
-          "link": "https://www.livemint.com/market/stock-market-news/vedanta-aluminium-dividend-did-you-check-bank-account-anil-agarwals-company-starts-crediting-stock-rewards-11787293202890.html",
-          "pubDate": "2026-08-21T12:25:35+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-22T04:18:45.736993+00:00",
+      "updated_at": "2026-08-22T04:56:33.860889+00:00",
       "items": [
+        {
+          "title": "Federal Bank's board nod to raise $ 500 mln via GIFT City unit",
+          "link": "https://www.business-standard.com/markets/capital-market-news/federal-bank-s-board-nod-to-raise-500-mln-via-gift-city-unit-126082200182_1.html",
+          "pubDate": "2026-08-22T10:16:54+05:30"
+        },
+        {
+          "title": "Board of Innova Captab approves capacity addition at Baddi factory",
+          "link": "https://www.business-standard.com/markets/capital-market-news/board-of-innova-captab-approves-capacity-addition-at-baddi-factory-126082200157_1.html",
+          "pubDate": "2026-08-22T09:50:07+05:30"
+        },
         {
           "title": "Caplin Point Laboratories' arm receives Form 483 with 10 observations from USFDA",
           "link": "https://www.business-standard.com/markets/capital-market-news/caplin-point-laboratories-arm-receives-form-483-with-10-observations-from-usfda-126082200115_1.html",
@@ -1091,22 +1101,12 @@
           "title": "Hy-Tech Engineers IPO: Valuations, growth outlook make analysts bullish",
           "link": "https://www.business-standard.com/markets/ipo/hy-tech-engineers-ipo-details-valuations-growth-outlook-make-analysts-bullish-126082100709_1.html",
           "pubDate": "2026-08-21T15:02:06+05:30"
-        },
-        {
-          "title": "Alacrity Securities Ltd leads losers in 'B' group",
-          "link": "https://www.business-standard.com/markets/capital-market-news/alacrity-securities-ltd-leads-losers-in-b-group-126082100696_1.html",
-          "pubDate": "2026-08-21T14:51:04+05:30"
-        },
-        {
-          "title": "Zydus receives USFDA approval for Ascorbic Acid Injection USP",
-          "link": "https://www.business-standard.com/markets/capital-market-news/zydus-receives-usfda-approval-for-ascorbic-acid-injection-usp-126082100690_1.html",
-          "pubDate": "2026-08-21T14:50:34+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-22T04:18:46.423647+00:00",
+      "updated_at": "2026-08-22T04:56:34.727104+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

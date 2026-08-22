@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T18:46:04.755784+00:00",
+  "generated_at": "2026-08-22T19:12:32.217007+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
@@ -27,8 +27,8 @@
         24236.25,
         24233.30078125,
         24237.94921875,
-        24240.75,
-        24238.25,
+        24240.849609375,
+        24238.099609375,
         24243.099609375,
         24236.55078125,
         24233.30078125,
@@ -46,9 +46,9 @@
         24235.80078125,
         24231.44921875,
         24232.94921875,
-        24233.94921875,
+        24233.599609375,
         24230.69921875,
-        24225.44921875,
+        24225.5,
         24230.55078125,
         24236.150390625,
         24239.349609375,
@@ -68,11 +68,11 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-22T18:46:02.095756+00:00"
+      "updated_at": "2026-08-22T19:12:30.280403+00:00"
     },
     "sensex": {
-      "price": 77540.83,
-      "change": 3.13,
+      "price": 77540.8,
+      "change": 3.1,
       "pct": 0.004,
       "closes": [
         77617.0703125,
@@ -134,19 +134,19 @@
         77519.84375,
         77418.1796875,
         77540.828125,
-        77540.828125
+        77540.796875
       ],
       "ok": true,
-      "updated_at": "2026-08-22T18:46:02.203527+00:00"
+      "updated_at": "2026-08-22T19:12:30.339376+00:00"
     },
     "banknifty": {
-      "price": 57761.95,
-      "change": 266.05,
-      "pct": 0.4627,
+      "price": 57761.9,
+      "change": 266.0,
+      "pct": 0.4626,
       "closes": [
-        57707.8984375,
+        57709.05078125,
         57735.75,
-        57728.5,
+        57729.3984375,
         57731.69921875,
         57711.05078125,
         57727.05078125,
@@ -156,7 +156,7 @@
         57701.69921875,
         57723.6015625,
         57712.3984375,
-        57704.1484375,
+        57702.55078125,
         57707.30078125,
         57704.80078125,
         57678.75,
@@ -174,7 +174,7 @@
         57676.69921875,
         57674.1484375,
         57676.30078125,
-        57707.6015625,
+        57708.1484375,
         57686.69921875,
         57677.6484375,
         57672.44921875,
@@ -193,7 +193,7 @@
         57681.25,
         57676.3515625,
         57648.6484375,
-        57650.6484375,
+        57651.3515625,
         57664.19921875,
         57663.8984375,
         57667.55078125,
@@ -203,15 +203,15 @@
         57647.6484375,
         57647.6484375,
         57761.94921875,
-        57761.94921875
+        57761.8984375
       ],
       "ok": true,
-      "updated_at": "2026-08-22T18:46:02.308630+00:00"
+      "updated_at": "2026-08-22T19:12:30.396588+00:00"
     },
     "vix": {
-      "price": 11.195,
-      "change": 0.435,
-      "pct": 4.0428,
+      "price": 11.2,
+      "change": 0.44,
+      "pct": 4.0892,
       "closes": [
         11.172499656677246,
         11.100000381469727,
@@ -272,10 +272,10 @@
         11.202500343322754,
         11.164999961853027,
         11.21500015258789,
-        11.194999694824219
+        11.199999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-22T18:46:02.421281+00:00"
+      "updated_at": "2026-08-22T19:12:30.488695+00:00"
     },
     "usdinr": {
       "price": 95.71,
@@ -344,7 +344,7 @@
         95.69000244140625
       ],
       "ok": true,
-      "updated_at": "2026-08-22T18:46:02.552074+00:00"
+      "updated_at": "2026-08-22T19:12:30.553014+00:00"
     },
     "gold": {
       "price": 4680.6,
@@ -364,17 +364,17 @@
         4684.89990234375,
         4686.60009765625,
         4685.60009765625,
-        4689.0,
+        4688.89990234375,
         4681.39990234375,
-        4681.5,
+        4681.39990234375,
         4676.39990234375,
         4680.10009765625,
         4678.60009765625,
-        4680.89990234375,
+        4681.10009765625,
         4677.7001953125,
-        4676.2001953125,
-        4677.7998046875,
-        4678.7001953125,
+        4676.60009765625,
+        4677.7001953125,
+        4678.7998046875,
         4684.39990234375,
         4684.0,
         4682.5,
@@ -413,7 +413,7 @@
         4680.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-22T18:46:02.675123+00:00"
+      "updated_at": "2026-08-22T19:12:30.633034+00:00"
     },
     "crude": {
       "price": 87.06,
@@ -421,7 +421,7 @@
       "pct": 0.2649,
       "closes": [
         86.8499984741211,
-        86.91000366210938,
+        86.94000244140625,
         86.87000274658203,
         86.91000366210938,
         86.61000061035156,
@@ -448,7 +448,7 @@
         87.13999938964844,
         87.16999816894531,
         87.27999877929688,
-        87.23999786376953,
+        87.2300033569336,
         87.06999969482422,
         87.0999984741211,
         87.0199966430664,
@@ -482,7 +482,7 @@
         87.05999755859375
       ],
       "ok": true,
-      "updated_at": "2026-08-22T18:46:02.835491+00:00"
+      "updated_at": "2026-08-22T19:12:30.701272+00:00"
     },
     "us10y": {
       "price": 4.738,
@@ -551,13 +551,13 @@
         4.73799991607666
       ],
       "ok": true,
-      "updated_at": "2026-08-22T18:46:02.948357+00:00"
+      "updated_at": "2026-08-22T19:12:30.766160+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-22T18:46:03.143962+00:00",
+      "updated_at": "2026-08-22T19:12:30.917717+00:00",
       "items": [
         {
           "title": "Sebi proposes tighter curbs on promotional claims by online bond platforms",
@@ -588,6 +588,16 @@
           "title": "ETMarkets Management Talk | CleanMax’s next growth phase: 1.5 GW capacity addition target, Rs 3,000 crore EBITDA by FY28, says Kuldeep Jain",
           "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-management-talk-cleanmaxs-next-growth-phase-1-5-gw-capacity-addition-target-rs-3000-crore-ebitda-by-fy28-says-kuldeep-jain/articleshow/133417896.cms",
           "pubDate": "2026-08-22T10:50:32+05:30"
+        },
+        {
+          "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-four-of-top-10-most-valued-firms-jumps-rs-1-43-lakh-cr-state-bank-biggest-winner/articleshow/133062390.cms",
+          "pubDate": "2026-08-09T10:21:35+05:30"
+        },
+        {
+          "title": "Foreign investors continue buying spree; pour Rs 12,921 cr in first week of Aug",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-continue-buying-spree-pour-rs-12921-cr-in-first-week-of-aug/articleshow/133062370.cms",
+          "pubDate": "2026-08-09T10:18:25+05:30"
         },
         {
           "title": "RBI special windows seen big enough to bring in $100B",
@@ -635,6 +645,16 @@
           "pubDate": "2026-07-23T13:09:22+05:30"
         },
         {
+          "title": "Bonus, dividends and stock splits: Bharti Airtel, Hero MotoCorp among 88 stocks turning ex-date this week. Do you own any?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-dividends-and-stock-splits-bharti-airtel-hero-motocorp-among-88-stocks-turning-ex-date-this-week-do-you-own-any/articleshow/132491671.cms",
+          "pubDate": "2026-07-19T13:55:14+05:30"
+        },
+        {
+          "title": "Will Sensex, Nifty extend gains on Monday? Q1 earnings, global tech selloff among 6 factors to steer D-St this week",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-extend-gains-on-monday-q1-earnings-global-tech-selloff-among-6-factors-to-steer-d-st-this-week/articleshow/132489722.cms",
+          "pubDate": "2026-07-19T09:37:40+05:30"
+        },
+        {
           "title": "India-UK CETA takes effect: First zero-duty Indian coffee, jewellery consignments reach UK shores",
           "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-uk-ceta-takes-effect-first-zero-duty-indian-coffee-jewellery-consignments-reach-uk-shores/articleshow/132442764.cms",
           "pubDate": "2026-07-16T20:56:34+05:30"
@@ -648,6 +668,16 @@
           "title": "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
           "link": "https://economictimes.indiatimes.com/news/economy/policy/fm-sitharaman-flags-global-crisis-spillovers-unfair-burden-on-developing-nations/articleshow/131668427.cms",
           "pubDate": "2026-06-12T01:07:27+05:30"
+        },
+        {
+          "title": "FPIs pull out Rs 27,000 cr in May; 2026 outflows hit Rs 2.2 lakh cr-mark",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-pull-out-rs-27000-cr-in-may-2026-outflows-hit-rs-2-2-lakh-cr-mark/articleshow/131149440.cms",
+          "pubDate": "2026-05-17T11:15:08+05:30"
+        },
+        {
+          "title": "Oil prices to hit $150? How Indian stock markets may react as Iran war rages on",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/oil-prices-to-hit-150-how-indian-stock-markets-may-react-as-iran-war-rages-on/articleshow/129587020.cms",
+          "pubDate": "2026-03-15T14:11:58+05:30"
         },
         {
           "title": "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls",
@@ -678,36 +708,6 @@
           "title": "Implementation of 'guarantees', decline of BRS favour Congress in Telangana, BJP aiming for better show",
           "link": "https://economictimes.indiatimes.com/news/elections/lok-sabha/india/implementation-of-guarantees-decline-of-brs-favour-congress-in-telangana-bjp-aiming-for-better-show/articleshow/108548569.cms",
           "pubDate": "2024-03-16T17:48:48+05:30"
-        },
-        {
-          "title": "Apple faces Indian engineer’s bias lawsuit",
-          "link": "https://economictimes.indiatimes.com/tech/technology/apple-faces-indian-engineers-bias-lawsuit/articleshow/81694292.cms",
-          "pubDate": "2021-03-25T23:14:01+05:30"
-        },
-        {
-          "title": "Despite transatlantic 'love fest', EU charts third way in ties with US and China",
-          "link": "https://economictimes.indiatimes.com/news/defence/despite-transatlantic-love-fest-eu-charts-third-way-in-ties-with-us-and-china/articleshow/81467467.cms",
-          "pubDate": "2021-03-12T16:53:26+05:30"
-        },
-        {
-          "title": "Twitter's India policy head to step down; will transition in March",
-          "link": "https://economictimes.indiatimes.com/tech/tech-bytes/twitters-india-policy-head-to-step-down-will-transition-in-march/articleshow/80732868.cms",
-          "pubDate": "2021-02-07T13:01:32+05:30"
-        },
-        {
-          "title": "Govt may keep Rs 7,500 cr outlay for IT hardware manufacturing under PLI scheme",
-          "link": "https://economictimes.indiatimes.com/tech/tech-and-gadgets/govt-may-keep-rs-7500-cr-outlay-for-it-hardware-manufacturing-under-pli-scheme/articleshow/80333429.cms",
-          "pubDate": "2021-01-18T21:41:10+05:30"
-        },
-        {
-          "title": "Indian dating apps, services see surge of paying users in small cities",
-          "link": "https://economictimes.indiatimes.com/tech/technology/indian-dating-apps-services-see-surge-of-paying-users-in-small-cities/articleshow/80063342.cms",
-          "pubDate": "2021-01-01T22:39:55+05:30"
-        },
-        {
-          "title": "Time for government, companies to adopt artificial intelligence: Deloitte India",
-          "link": "https://economictimes.indiatimes.com/tech/technology/time-for-govt-cos-to-adopt-ai-deloitte-india/articleshow/79981215.cms",
-          "pubDate": "2020-12-27T23:33:04+05:30"
         }
       ]
     },
@@ -794,7 +794,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-22T18:46:03.692429+00:00",
+      "updated_at": "2026-08-22T19:12:31.284788+00:00",
       "items": [
         {
           "title": "SIPs stay above  ₹30,000 crore: Equity mutual funds smash record as assets hit  ₹48.5 lakh crore",
@@ -950,7 +950,7 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-22T18:46:03.882706+00:00",
+      "updated_at": "2026-08-22T19:12:31.403629+00:00",
       "items": [
         {
           "title": "Sebi proposes channel partners to expand retail access to bonds in India",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-22T18:46:04.755769+00:00",
+      "updated_at": "2026-08-22T19:12:32.216989+00:00",
       "items": [
         {
           "title": "Data on Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",

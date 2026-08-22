@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T09:41:57.418369+00:00",
+  "generated_at": "2026-08-22T09:57:17.431317+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
@@ -27,8 +27,8 @@
         24236.25,
         24233.30078125,
         24237.94921875,
-        24240.849609375,
-        24238.099609375,
+        24240.75,
+        24238.25,
         24243.099609375,
         24236.55078125,
         24233.30078125,
@@ -46,9 +46,9 @@
         24235.80078125,
         24231.44921875,
         24232.94921875,
-        24233.599609375,
+        24233.94921875,
         24230.69921875,
-        24225.5,
+        24225.44921875,
         24230.55078125,
         24236.150390625,
         24239.349609375,
@@ -68,7 +68,7 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-22T09:41:55.332878+00:00"
+      "updated_at": "2026-08-22T09:57:15.580136+00:00"
     },
     "sensex": {
       "price": 77540.83,
@@ -137,16 +137,16 @@
         77540.828125
       ],
       "ok": true,
-      "updated_at": "2026-08-22T09:41:55.389945+00:00"
+      "updated_at": "2026-08-22T09:57:15.633585+00:00"
     },
     "banknifty": {
       "price": 57761.95,
       "change": 266.05,
       "pct": 0.4627,
       "closes": [
-        57709.05078125,
+        57707.8984375,
         57735.75,
-        57729.3984375,
+        57728.5,
         57731.69921875,
         57711.05078125,
         57727.05078125,
@@ -156,7 +156,7 @@
         57701.69921875,
         57723.6015625,
         57712.3984375,
-        57702.55078125,
+        57704.1484375,
         57707.30078125,
         57704.80078125,
         57678.75,
@@ -174,7 +174,7 @@
         57676.69921875,
         57674.1484375,
         57676.30078125,
-        57708.1484375,
+        57707.6015625,
         57686.69921875,
         57677.6484375,
         57672.44921875,
@@ -193,7 +193,7 @@
         57681.25,
         57676.3515625,
         57648.6484375,
-        57651.3515625,
+        57650.6484375,
         57664.19921875,
         57663.8984375,
         57667.55078125,
@@ -206,7 +206,7 @@
         57761.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-22T09:41:55.462837+00:00"
+      "updated_at": "2026-08-22T09:57:15.685591+00:00"
     },
     "vix": {
       "price": 11.195,
@@ -275,7 +275,7 @@
         11.194999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-22T09:41:55.519120+00:00"
+      "updated_at": "2026-08-22T09:57:15.740885+00:00"
     },
     "usdinr": {
       "price": 95.71,
@@ -344,7 +344,7 @@
         95.69000244140625
       ],
       "ok": true,
-      "updated_at": "2026-08-22T09:41:55.590555+00:00"
+      "updated_at": "2026-08-22T09:57:15.818151+00:00"
     },
     "gold": {
       "price": 4680.6,
@@ -364,17 +364,17 @@
         4684.89990234375,
         4686.60009765625,
         4685.60009765625,
-        4688.89990234375,
+        4689.0,
         4681.39990234375,
-        4681.39990234375,
+        4681.5,
         4676.39990234375,
         4680.10009765625,
         4678.60009765625,
-        4681.10009765625,
+        4680.89990234375,
         4677.7001953125,
-        4676.60009765625,
-        4677.7001953125,
-        4678.7998046875,
+        4676.2001953125,
+        4677.7998046875,
+        4678.7001953125,
         4684.39990234375,
         4684.0,
         4682.5,
@@ -413,7 +413,7 @@
         4680.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-22T09:41:55.646685+00:00"
+      "updated_at": "2026-08-22T09:57:15.896504+00:00"
     },
     "crude": {
       "price": 87.06,
@@ -421,7 +421,7 @@
       "pct": 0.2649,
       "closes": [
         86.8499984741211,
-        86.94000244140625,
+        86.91000366210938,
         86.87000274658203,
         86.91000366210938,
         86.61000061035156,
@@ -448,7 +448,7 @@
         87.13999938964844,
         87.16999816894531,
         87.27999877929688,
-        87.2300033569336,
+        87.23999786376953,
         87.06999969482422,
         87.0999984741211,
         87.0199966430664,
@@ -482,7 +482,7 @@
         87.05999755859375
       ],
       "ok": true,
-      "updated_at": "2026-08-22T09:41:55.727361+00:00"
+      "updated_at": "2026-08-22T09:57:15.956578+00:00"
     },
     "us10y": {
       "price": 4.738,
@@ -551,18 +551,23 @@
         4.73799991607666
       ],
       "ok": true,
-      "updated_at": "2026-08-22T09:41:55.780494+00:00"
+      "updated_at": "2026-08-22T09:57:16.012048+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-22T09:41:55.909668+00:00",
+      "updated_at": "2026-08-22T09:57:16.109885+00:00",
       "items": [
         {
-          "title": "Mom's Belief operator to launch IPO on Sep 1",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/moms-belief-operator-to-launch-ipo-on-sep-1/articleshow/133420812.cms",
-          "pubDate": "2026-08-22T14:25:28+05:30"
+          "title": "Zee Entertainment allots 20.94 cr convertible warrants to promoter group entity",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zee-entertainment-allots-20-94-cr-convertible-warrants-to-promoter-group-entity/articleshow/133421533.cms",
+          "pubDate": "2026-08-22T15:21:31+05:30"
+        },
+        {
+          "title": "CAS chaos triggers liquidity spiral: Nuvama says higher participation needed to break cycle",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-triggers-liquidity-spiral-nuvama-says-higher-participation-needed-to-break-cycle/articleshow/133421238.cms",
+          "pubDate": "2026-08-22T14:58:53+05:30"
         },
         {
           "title": "Bitcoin surges 23% in 1 week to trade nearly $78K as liquidity hopes, ETF inflows boost crypto markets",
@@ -570,14 +575,9 @@
           "pubDate": "2026-08-22T13:52:07+05:30"
         },
         {
-          "title": "Bank stocks to buy: Goldman Sachs remains bullish on 6 private bank stocks. Do you own any?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bank-stocks-to-buy-goldman-sachs-remains-bullish-on-6-private-bank-stocks-do-you-own-any/slideshow/133420450.cms",
-          "pubDate": "2026-08-22T13:39:31+05:30"
-        },
-        {
-          "title": "JioBlackRock Mutual Fund announces feature changes across 6 funds, including flexi cap, large cap",
-          "link": "https://economictimes.indiatimes.com/mf/mf-news/jioblackrock-mutual-fund-announces-feature-changes-across-6-funds-including-flexi-cap-large-cap/articleshow/133420203.cms",
-          "pubDate": "2026-08-22T13:32:44+05:30"
+          "title": "Vijay Kedia Portfolio: 5 stocks surge up to 55% in CY26; 1 new addition in June quarter",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-portfolio-5-stocks-surge-up-to-55-in-cy26-1-new-addition-in-june-quarter/portfolio-snapshot/slideshow/133419471.cms",
+          "pubDate": "2026-08-22T12:28:43+05:30"
         },
         {
           "title": "Gold prices rise for 3rd straight week, hit 3-month high. Can bullion reclaim $5,500 peak?",
@@ -585,9 +585,9 @@
           "pubDate": "2026-08-22T12:14:47+05:30"
         },
         {
-          "title": "ETMarkets NRI Talk | Rs 1 crore, 5-7 years: How NRIs should allocate across Indian equities, bonds, gold and alternatives, says Rohit Sarin",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/etmarkets-nri-talk-rs-1-crore-5-7-years-how-nris-should-allocate-across-indian-equities-bonds-gold-and-alternatives-says-rohit-sarin/articleshow/133417845.cms",
-          "pubDate": "2026-08-22T10:41:45+05:30"
+          "title": "ETMarkets Management Talk | CleanMax’s next growth phase: 1.5 GW capacity addition target, Rs 3,000 crore EBITDA by FY28, says Kuldeep Jain",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-management-talk-cleanmaxs-next-growth-phase-1-5-gw-capacity-addition-target-rs-3000-crore-ebitda-by-fy28-says-kuldeep-jain/articleshow/133417896.cms",
+          "pubDate": "2026-08-22T10:50:32+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -712,7 +712,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-22T09:41:56.291644+00:00",
       "items": [
         {
@@ -794,7 +794,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-22T09:41:56.489560+00:00",
+      "updated_at": "2026-08-22T09:57:16.512152+00:00",
       "items": [
         {
           "title": "IPO GMPs: Skyways IPO, Symbiotec Pharmalab IPO to Lumino Industries IPO —what grey market premium signals?",
@@ -950,7 +950,7 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-22T09:41:56.626747+00:00",
+      "updated_at": "2026-08-22T09:57:16.546018+00:00",
       "items": [
         {
           "title": "Mamata Machinery geta patent for its Quadra 600 machine",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-22T09:41:57.418347+00:00",
+      "updated_at": "2026-08-22T09:57:17.431276+00:00",
       "items": [
         {
           "title": "Data on Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",

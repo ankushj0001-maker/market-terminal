@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T07:52:32.006137+00:00",
+  "generated_at": "2026-08-23T08:14:16.627197+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
@@ -27,8 +27,8 @@
         24236.25,
         24233.30078125,
         24237.94921875,
-        24240.849609375,
-        24238.099609375,
+        24240.75,
+        24238.25,
         24243.099609375,
         24236.55078125,
         24233.30078125,
@@ -46,9 +46,9 @@
         24235.80078125,
         24231.44921875,
         24232.94921875,
-        24233.599609375,
+        24233.94921875,
         24230.69921875,
-        24225.5,
+        24225.44921875,
         24230.55078125,
         24236.150390625,
         24239.349609375,
@@ -68,7 +68,7 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-23T07:52:30.220913+00:00"
+      "updated_at": "2026-08-23T08:14:15.043221+00:00"
     },
     "sensex": {
       "price": 77540.83,
@@ -137,16 +137,16 @@
         77540.828125
       ],
       "ok": true,
-      "updated_at": "2026-08-23T07:52:30.276290+00:00"
+      "updated_at": "2026-08-23T08:14:15.101712+00:00"
     },
     "banknifty": {
       "price": 57761.95,
       "change": 266.05,
       "pct": 0.4627,
       "closes": [
-        57709.05078125,
+        57707.8984375,
         57735.75,
-        57729.3984375,
+        57728.5,
         57731.69921875,
         57711.05078125,
         57727.05078125,
@@ -156,7 +156,7 @@
         57701.69921875,
         57723.6015625,
         57712.3984375,
-        57702.55078125,
+        57704.1484375,
         57707.30078125,
         57704.80078125,
         57678.75,
@@ -174,7 +174,7 @@
         57676.69921875,
         57674.1484375,
         57676.30078125,
-        57708.1484375,
+        57707.6015625,
         57686.69921875,
         57677.6484375,
         57672.44921875,
@@ -193,7 +193,7 @@
         57681.25,
         57676.3515625,
         57648.6484375,
-        57651.3515625,
+        57650.6484375,
         57664.19921875,
         57663.8984375,
         57667.55078125,
@@ -206,7 +206,7 @@
         57761.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-23T07:52:30.334857+00:00"
+      "updated_at": "2026-08-23T08:14:15.156241+00:00"
     },
     "vix": {
       "price": 11.195,
@@ -275,7 +275,7 @@
         11.194999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-23T07:52:30.391302+00:00"
+      "updated_at": "2026-08-23T08:14:15.206936+00:00"
     },
     "usdinr": {
       "price": 95.71,
@@ -344,7 +344,7 @@
         95.69000244140625
       ],
       "ok": true,
-      "updated_at": "2026-08-23T07:52:30.462178+00:00"
+      "updated_at": "2026-08-23T08:14:15.259714+00:00"
     },
     "gold": {
       "price": 4680.6,
@@ -352,14 +352,14 @@
       "pct": 2.3888,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-23T07:52:30.472968+00:00"
+      "updated_at": "2026-08-23T08:14:15.363558+00:00"
     },
     "crude": {
       "price": 87.06,
       "change": 0.23,
       "pct": 0.2649,
       "closes": [],
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-23T07:52:30.530428+00:00"
     },
     "us10y": {
@@ -429,13 +429,13 @@
         4.73799991607666
       ],
       "ok": true,
-      "updated_at": "2026-08-23T07:52:30.589349+00:00"
+      "updated_at": "2026-08-23T08:14:15.448737+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-23T07:52:30.829394+00:00",
+      "updated_at": "2026-08-23T08:14:15.605367+00:00",
       "items": [
         {
           "title": "FPIs invest Rs 23,544 crore in Indian equities in Aug on earnings revival, rupee stability",
@@ -591,7 +591,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-23T07:52:30.883191+00:00",
+      "updated_at": "2026-08-23T08:14:15.684011+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -672,163 +672,163 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-23T07:52:31.240760+00:00",
+      "updated_at": "2026-08-23T08:14:15.734784+00:00",
       "items": [
         {
-          "title": "Top Gainers &amp; Losers on 21 Aug: Welspun Corp, Jindal Saw, Urban Company, Vedanta, CarTrade Tech among top gainers",
-          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-21-aug-welspun-corp-jindal-saw-urban-company-vedanta-cartrade-tech-among-top-gainers-11787305625058.html",
-          "pubDate": "2026-08-23T07:52:31.240751+00:00"
+          "title": "Upcoming IPO: Gemini Edibles &amp; Fats India files draft papers to raise funds via public issue. Details here",
+          "link": "https://www.livemint.com/market/ipo/upcoming-ipo-gemini-edibles-fats-india-files-draft-papers-to-raise-funds-via-public-issue-details-here-11787469576854.html",
+          "pubDate": "2026-08-23T13:05:20+05:30"
         },
         {
-          "title": "Penny stock under  ₹10 hits 20% upper circuit despite weak trend on Dalal Street",
-          "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-10-nandan-denim-hits-20-upper-circuit-despite-weak-trend-on-dalal-street-11787309517444.html",
-          "pubDate": "2026-08-23T07:52:31.240746+00:00"
+          "title": "Stock market holiday: Will the NSE, BSE remain closed on Friday next week for Raksha Bandhan?",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-market-holiday-will-the-nse-bse-remain-closed-on-friday-next-week-for-raksha-bandhan-11787465524134.html",
+          "pubDate": "2026-08-23T12:35:16+05:30"
         },
         {
-          "title": "US stock market today: Wall Street futures rebound from bond yield-driven sell-off",
-          "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-futures-rebound-from-bond-yield-driven-selloff-11787310418240.html",
-          "pubDate": "2026-08-23T07:52:31.240741+00:00"
+          "title": "US-Iran war: Crude oil price is key | Is Tehran writing the obituary of Turkey-Pakistan-Saudi Arabia's defence pact?",
+          "link": "https://www.livemint.com/market/commodities/us-iran-war-crude-oil-price-is-key-is-tehran-writing-the-obituary-of-turkey-pakistan-saudi-arabias-defence-pact-11787455149964.html",
+          "pubDate": "2026-08-23T11:34:03+05:30"
         },
         {
-          "title": "Saatvik Green Energy shares post biggest 1-day gain in over a month on  ₹190 crore order win",
-          "link": "https://www.livemint.com/market/stock-market-news/saatvik-green-energy-shares-post-biggest-1-day-gain-in-over-a-month-on-rs-190-crore-order-win-11787310393835.html",
-          "pubDate": "2026-08-23T07:52:31.240736+00:00"
+          "title": "Stocks under  ₹100: Sumeet Bagadia recommends three shares to buy on Monday - 24 August 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/stocks-under-rs-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-24-august-2026-11787462320209.html",
+          "pubDate": "2026-08-23T11:07:11+05:30"
         },
         {
-          "title": "Pulse of the Street: Cyclicals buck weak market as FPI inflows hit 23-month high",
-          "link": "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-cyclicals-buck-weak-market-as-fpi-inflows-hit-23-month-high-11787315061912.html",
-          "pubDate": "2026-08-23T07:52:31.240731+00:00"
-        },
-        {
-          "title": "Sebi proposes bond distributor network, tighter ad rules to deepen retail participation",
-          "link": "https://www.livemint.com/market/sebi-bond-distributor-network-ad-rules-retail-participation-mutual-fund-11787316933242.html",
-          "pubDate": "2026-08-23T07:52:31.240725+00:00"
-        },
-        {
-          "title": "US stocks surge as bond market volatility eases, crypto stocks rally",
-          "link": "https://www.livemint.com/market/stock-market-news/us-stocks-surge-as-bond-market-volatility-eases-11787319906181.html",
-          "pubDate": "2026-08-23T07:52:31.240719+00:00"
-        },
-        {
-          "title": "Symbiotec Pharmalab IPO: Price band, lot size, GMP, listing date and other key details",
-          "link": "https://www.livemint.com/market/ipo/symbiotec-pharmalab-ipo-price-band-lot-size-gmp-listing-date-and-other-key-details-11787319352853.html",
-          "pubDate": "2026-08-23T07:52:31.240715+00:00"
-        },
-        {
-          "title": "Crude oil prices head for second weekly gain as US steps up economic pressure on Iran",
-          "link": "https://www.livemint.com/market/commodities/crude-oil-prices-head-for-second-weekly-gain-as-us-steps-up-economic-pressure-on-iran-11787327365673.html",
-          "pubDate": "2026-08-23T07:52:31.240710+00:00"
-        },
-        {
-          "title": "Allspring’s Miletti Sees Jackson Hole as Bigger Risk Than Nvidia",
-          "link": "https://www.livemint.com/market/allsprings-miletti-sees-jackson-hole-as-bigger-risk-than-nvidia-11787337053320.html",
-          "pubDate": "2026-08-23T07:52:31.240704+00:00"
-        },
-        {
-          "title": "Week of Whiplash in Treasuries Is Closing With Muddied Outlook",
-          "link": "https://www.livemint.com/market/week-of-whiplash-in-treasuries-is-closing-with-muddied-outlook-11787340705313.html",
-          "pubDate": "2026-08-23T07:52:31.240699+00:00"
-        },
-        {
-          "title": "Dollar falls to three-month low on Treasury buyback worries",
-          "link": "https://www.livemint.com/market/dollar-falls-to-three-month-low-on-treasury-buyback-worries-11787341555185.html",
-          "pubDate": "2026-08-23T07:52:31.240694+00:00"
-        },
-        {
-          "title": "Bitcoin Nears $80,000 Amid Biggest Weekly Rally In Three Years",
-          "link": "https://www.livemint.com/market/bitcoin-nears-80-000-amid-biggest-weekly-rally-in-three-years-11787346008375.html",
-          "pubDate": "2026-08-23T07:52:31.240689+00:00"
-        },
-        {
-          "title": "Vijay Kedia’s fresh bet on a fintech stock",
-          "link": "https://www.livemint.com/market/stock-market-news/vijay-kedia-s-fresh-bet-on-a-fintech-stock-11787308701757.html",
-          "pubDate": "2026-08-23T07:52:31.240684+00:00"
-        },
-        {
-          "title": "Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell",
-          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11787361611357.html",
-          "pubDate": "2026-08-23T07:52:31.240679+00:00"
-        },
-        {
-          "title": "Nifty may hit 28,000 in the next 1 year, says Pankaj Pandey of ICICI Securities, suggests 5 stocks for up to 60% upside",
-          "link": "https://www.livemint.com/market/stock-market-news/nifty-may-hit-28-000-in-the-next-1-year-says-pankaj-pandey-of-icici-securities-suggests-5-stocks-for-up-to-60-upside-11787323383377.html",
-          "pubDate": "2026-08-23T07:52:31.240674+00:00"
-        },
-        {
-          "title": "Explained | How Bitcoin rally led to skyrocketing of crypto stocks | What’s fuelling surge of both? Climbing in tandem",
-          "link": "https://www.livemint.com/market/cryptocurrency/explained-how-bitcoin-rally-led-to-skyrocketing-of-crypto-stocks-what-s-fuelling-surge-of-both-climbing-in-tandem-11787364376857.html",
-          "pubDate": "2026-08-23T07:52:31.240668+00:00"
-        },
-        {
-          "title": "Sugar Rises on India Tightness Amid Demand Anxieties",
-          "link": "https://www.livemint.com/market/sugar-rises-on-india-tightness-amid-demand-anxieties-11787372290067.html",
-          "pubDate": "2026-08-23T07:52:31.240664+00:00"
-        },
-        {
-          "title": "Private banking stocks witnessing fresh momentum; should you bet or book profit?",
-          "link": "https://www.livemint.com/market/stock-market-news/private-banking-stocks-witnessing-fresh-momentum-should-you-bet-or-book-profit-11787327701659.html",
-          "pubDate": "2026-08-23T07:52:31.240659+00:00"
-        },
-        {
-          "title": "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 24 August 2026",
-          "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-24-august-2026-11787369417517.html",
-          "pubDate": "2026-08-23T07:52:31.240654+00:00"
-        },
-        {
-          "title": "Gaja Alternative IPO: Focus shifts to allotment date; latest GMP, 6 steps to check status",
-          "link": "https://www.livemint.com/market/ipo/gaja-alternative-ipo-focus-shifts-to-allotment-date-latest-gmp-6-steps-to-check-status-11787380024927.html",
-          "pubDate": "2026-08-23T07:52:31.240649+00:00"
-        },
-        {
-          "title": "Luxury Sales Plunge in China as Tax Push Hits Rich Shoppers",
-          "link": "https://www.livemint.com/market/luxury-sales-plunge-in-china-as-tax-push-hits-rich-shoppers-11787382434070.html",
-          "pubDate": "2026-08-23T07:52:31.240644+00:00"
-        },
-        {
-          "title": "IPO GMPs: Skyways IPO, Symbiotec Pharmalab IPO to Lumino Industries IPO —what grey market premium signals?",
-          "link": "https://www.livemint.com/market/ipo/ipo-gmps-skyways-ipo-symbiotec-pharmalab-ipo-to-lumino-industries-ipo-what-grey-market-premium-signals-11787211771064.html",
-          "pubDate": "2026-08-23T07:52:31.240639+00:00"
-        },
-        {
-          "title": "Gold shines, braving odds, rises 17% from June lows — What’s behind the jump? Will it impact Fed rate cut decision?",
-          "link": "https://www.livemint.com/market/commodities/gold-shines-braving-odds-rises-17-from-june-lows-what-s-behind-the-jump-will-it-impact-fed-rate-cut-decision-11787391720084.html",
-          "pubDate": "2026-08-23T07:52:31.240634+00:00"
-        },
-        {
-          "title": "SIPs stay above  ₹30,000 crore: Equity mutual funds smash record as assets hit  ₹48.5 lakh crore",
-          "link": "https://www.livemint.com/market/sips-stay-above-rs-30-000-crore-equity-mutual-funds-smash-record-as-assets-hit-rs-48-5-lakh-crore-11787408860279.html",
-          "pubDate": "2026-08-23T07:52:31.240629+00:00"
-        },
-        {
-          "title": "Korean Traders Chase 40% Coupons as Risk Appetite Survives Rout",
-          "link": "https://www.livemint.com/market/korean-traders-chase-40-coupons-as-risk-appetite-survives-rout-11787444779474.html",
-          "pubDate": "2026-08-23T07:52:31.240624+00:00"
-        },
-        {
-          "title": "MCX gold rallies for fifth straight week; gains  ₹19,000 per 10 grams in August",
-          "link": "https://www.livemint.com/market/commodities/mcx-gold-rallies-for-fifth-straight-week-gains-rs-19-000-per-10-grams-in-august-11787380646821.html",
-          "pubDate": "2026-08-23T07:52:31.240619+00:00"
-        },
-        {
-          "title": "Welspun Corp leads as over 10 Nifty 500 stocks gain 10–23% this week despite market volatility",
-          "link": "https://www.livemint.com/market/stock-market-news/welspun-corp-leads-as-over-10-nifty-500-stocks-gain-10-23-this-week-despite-market-volatility-11787385989520.html",
-          "pubDate": "2026-08-23T07:52:31.240615+00:00"
-        },
-        {
-          "title": "Stock Market prediction for tomorrow, 24 August 2026: Sensex, Nifty outlook for Monday — US, South Korea, Taiwan cues",
-          "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-tomorrow-24-august-2026-sensex-nifty-outlook-for-monday-us-south-korea-taiwan-cues-11787450741265.html",
-          "pubDate": "2026-08-23T07:52:31.240610+00:00"
+          "title": "Buy or sell: Ganesh Dongre of Anand Rathi recommends 3 stocks to buy on Monday - 24 August 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-3-stocks-to-buy-on-monday-24-august-2026-11787460916220.html",
+          "pubDate": "2026-08-23T10:44:05+05:30"
         },
         {
           "title": "US Fed chair Warsh's speech to US-Iran war: Top five triggers that may dictate the Indian stock market this week",
           "link": "https://www.livemint.com/market/stock-market-news/us-fed-chair-warshs-speech-to-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11787453214240.html",
-          "pubDate": "2026-08-23T07:52:31.240605+00:00"
+          "pubDate": "2026-08-23T09:31:53+05:30"
+        },
+        {
+          "title": "Stock Market prediction for tomorrow, 24 August 2026: Sensex, Nifty outlook for Monday — US, South Korea, Taiwan cues",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-tomorrow-24-august-2026-sensex-nifty-outlook-for-monday-us-south-korea-taiwan-cues-11787450741265.html",
+          "pubDate": "2026-08-23T08:46:40+05:30"
+        },
+        {
+          "title": "Welspun Corp leads as over 10 Nifty 500 stocks gain 10–23% this week despite market volatility",
+          "link": "https://www.livemint.com/market/stock-market-news/welspun-corp-leads-as-over-10-nifty-500-stocks-gain-10-23-this-week-despite-market-volatility-11787385989520.html",
+          "pubDate": "2026-08-23T07:00:41+05:30"
+        },
+        {
+          "title": "MCX gold rallies for fifth straight week; gains  ₹19,000 per 10 grams in August",
+          "link": "https://www.livemint.com/market/commodities/mcx-gold-rallies-for-fifth-straight-week-gains-rs-19-000-per-10-grams-in-august-11787380646821.html",
+          "pubDate": "2026-08-23T06:01:00+05:30"
+        },
+        {
+          "title": "Korean Traders Chase 40% Coupons as Risk Appetite Survives Rout",
+          "link": "https://www.livemint.com/market/korean-traders-chase-40-coupons-as-risk-appetite-survives-rout-11787444779474.html",
+          "pubDate": "2026-08-23T05:56:19+05:30"
+        },
+        {
+          "title": "SIPs stay above  ₹30,000 crore: Equity mutual funds smash record as assets hit  ₹48.5 lakh crore",
+          "link": "https://www.livemint.com/market/sips-stay-above-rs-30-000-crore-equity-mutual-funds-smash-record-as-assets-hit-rs-48-5-lakh-crore-11787408860279.html",
+          "pubDate": "2026-08-22T20:06:55+05:30"
+        },
+        {
+          "title": "Gold shines, braving odds, rises 17% from June lows — What’s behind the jump? Will it impact Fed rate cut decision?",
+          "link": "https://www.livemint.com/market/commodities/gold-shines-braving-odds-rises-17-from-june-lows-what-s-behind-the-jump-will-it-impact-fed-rate-cut-decision-11787391720084.html",
+          "pubDate": "2026-08-22T16:15:43+05:30"
+        },
+        {
+          "title": "IPO GMPs: Skyways IPO, Symbiotec Pharmalab IPO to Lumino Industries IPO —what grey market premium signals?",
+          "link": "https://www.livemint.com/market/ipo/ipo-gmps-skyways-ipo-symbiotec-pharmalab-ipo-to-lumino-industries-ipo-what-grey-market-premium-signals-11787211771064.html",
+          "pubDate": "2026-08-22T13:29:58+05:30"
+        },
+        {
+          "title": "Luxury Sales Plunge in China as Tax Push Hits Rich Shoppers",
+          "link": "https://www.livemint.com/market/luxury-sales-plunge-in-china-as-tax-push-hits-rich-shoppers-11787382434070.html",
+          "pubDate": "2026-08-22T12:37:13+05:30"
+        },
+        {
+          "title": "Gaja Alternative IPO: Focus shifts to allotment date; latest GMP, 6 steps to check status",
+          "link": "https://www.livemint.com/market/ipo/gaja-alternative-ipo-focus-shifts-to-allotment-date-latest-gmp-6-steps-to-check-status-11787380024927.html",
+          "pubDate": "2026-08-22T12:24:20+05:30"
+        },
+        {
+          "title": "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 24 August 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-24-august-2026-11787369417517.html",
+          "pubDate": "2026-08-22T10:24:14+05:30"
+        },
+        {
+          "title": "Private banking stocks witnessing fresh momentum; should you bet or book profit?",
+          "link": "https://www.livemint.com/market/stock-market-news/private-banking-stocks-witnessing-fresh-momentum-should-you-bet-or-book-profit-11787327701659.html",
+          "pubDate": "2026-08-22T10:01:03+05:30"
+        },
+        {
+          "title": "Sugar Rises on India Tightness Amid Demand Anxieties",
+          "link": "https://www.livemint.com/market/sugar-rises-on-india-tightness-amid-demand-anxieties-11787372290067.html",
+          "pubDate": "2026-08-22T09:48:09+05:30"
+        },
+        {
+          "title": "Explained | How Bitcoin rally led to skyrocketing of crypto stocks | What’s fuelling surge of both? Climbing in tandem",
+          "link": "https://www.livemint.com/market/cryptocurrency/explained-how-bitcoin-rally-led-to-skyrocketing-of-crypto-stocks-what-s-fuelling-surge-of-both-climbing-in-tandem-11787364376857.html",
+          "pubDate": "2026-08-22T09:26:49+05:30"
+        },
+        {
+          "title": "Nifty may hit 28,000 in the next 1 year, says Pankaj Pandey of ICICI Securities, suggests 5 stocks for up to 60% upside",
+          "link": "https://www.livemint.com/market/stock-market-news/nifty-may-hit-28-000-in-the-next-1-year-says-pankaj-pandey-of-icici-securities-suggests-5-stocks-for-up-to-60-upside-11787323383377.html",
+          "pubDate": "2026-08-22T09:00:02+05:30"
+        },
+        {
+          "title": "Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell",
+          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11787361611357.html",
+          "pubDate": "2026-08-22T07:17:22+05:30"
+        },
+        {
+          "title": "Vijay Kedia’s fresh bet on a fintech stock",
+          "link": "https://www.livemint.com/market/stock-market-news/vijay-kedia-s-fresh-bet-on-a-fintech-stock-11787308701757.html",
+          "pubDate": "2026-08-22T07:00:40+05:30"
+        },
+        {
+          "title": "Bitcoin Nears $80,000 Amid Biggest Weekly Rally In Three Years",
+          "link": "https://www.livemint.com/market/bitcoin-nears-80-000-amid-biggest-weekly-rally-in-three-years-11787346008375.html",
+          "pubDate": "2026-08-22T02:30:08+05:30"
+        },
+        {
+          "title": "Dollar falls to three-month low on Treasury buyback worries",
+          "link": "https://www.livemint.com/market/dollar-falls-to-three-month-low-on-treasury-buyback-worries-11787341555185.html",
+          "pubDate": "2026-08-22T01:15:54+05:30"
+        },
+        {
+          "title": "Week of Whiplash in Treasuries Is Closing With Muddied Outlook",
+          "link": "https://www.livemint.com/market/week-of-whiplash-in-treasuries-is-closing-with-muddied-outlook-11787340705313.html",
+          "pubDate": "2026-08-22T01:01:44+05:30"
+        },
+        {
+          "title": "Allspring’s Miletti Sees Jackson Hole as Bigger Risk Than Nvidia",
+          "link": "https://www.livemint.com/market/allsprings-miletti-sees-jackson-hole-as-bigger-risk-than-nvidia-11787337053320.html",
+          "pubDate": "2026-08-22T00:00:52+05:30"
+        },
+        {
+          "title": "Crude oil prices head for second weekly gain as US steps up economic pressure on Iran",
+          "link": "https://www.livemint.com/market/commodities/crude-oil-prices-head-for-second-weekly-gain-as-us-steps-up-economic-pressure-on-iran-11787327365673.html",
+          "pubDate": "2026-08-21T21:39:40+05:30"
+        },
+        {
+          "title": "Symbiotec Pharmalab IPO: Price band, lot size, GMP, listing date and other key details",
+          "link": "https://www.livemint.com/market/ipo/symbiotec-pharmalab-ipo-price-band-lot-size-gmp-listing-date-and-other-key-details-11787319352853.html",
+          "pubDate": "2026-08-21T19:46:55+05:30"
+        },
+        {
+          "title": "US stocks surge as bond market volatility eases, crypto stocks rally",
+          "link": "https://www.livemint.com/market/stock-market-news/us-stocks-surge-as-bond-market-volatility-eases-11787319906181.html",
+          "pubDate": "2026-08-21T19:33:55+05:30"
+        },
+        {
+          "title": "Sebi proposes bond distributor network, tighter ad rules to deepen retail participation",
+          "link": "https://www.livemint.com/market/sebi-bond-distributor-network-ad-rules-retail-participation-mutual-fund-11787316933242.html",
+          "pubDate": "2026-08-21T19:23:35+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-23T07:52:31.283171+00:00",
+      "updated_at": "2026-08-23T08:14:15.840642+00:00",
       "items": [
         {
           "title": "Mcap of 4 of top-10 most valued firms erodes ₹87,960 cr, Airtel worst hit",
@@ -984,7 +984,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-23T07:52:32.006122+00:00",
+      "updated_at": "2026-08-23T08:14:16.627182+00:00",
       "items": [
         {
           "title": "Data on Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",

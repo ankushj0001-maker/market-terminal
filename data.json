@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T13:57:33.246567+00:00",
+  "generated_at": "2026-08-23T14:16:15.578728+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
@@ -27,8 +27,8 @@
         24236.25,
         24233.30078125,
         24237.94921875,
-        24240.849609375,
-        24238.099609375,
+        24240.75,
+        24238.25,
         24243.099609375,
         24236.55078125,
         24233.30078125,
@@ -46,9 +46,9 @@
         24235.80078125,
         24231.44921875,
         24232.94921875,
-        24233.599609375,
+        24233.94921875,
         24230.69921875,
-        24225.5,
+        24225.44921875,
         24230.55078125,
         24236.150390625,
         24239.349609375,
@@ -68,7 +68,7 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-23T13:57:31.490033+00:00"
+      "updated_at": "2026-08-23T14:16:12.164792+00:00"
     },
     "sensex": {
       "price": 77540.83,
@@ -137,16 +137,16 @@
         77540.828125
       ],
       "ok": true,
-      "updated_at": "2026-08-23T13:57:31.566361+00:00"
+      "updated_at": "2026-08-23T14:16:12.268567+00:00"
     },
     "banknifty": {
       "price": 57761.95,
       "change": 266.05,
       "pct": 0.4627,
       "closes": [
-        57709.05078125,
+        57707.8984375,
         57735.75,
-        57729.3984375,
+        57728.5,
         57731.69921875,
         57711.05078125,
         57727.05078125,
@@ -156,7 +156,7 @@
         57701.69921875,
         57723.6015625,
         57712.3984375,
-        57702.55078125,
+        57704.1484375,
         57707.30078125,
         57704.80078125,
         57678.75,
@@ -174,7 +174,7 @@
         57676.69921875,
         57674.1484375,
         57676.30078125,
-        57708.1484375,
+        57707.6015625,
         57686.69921875,
         57677.6484375,
         57672.44921875,
@@ -193,7 +193,7 @@
         57681.25,
         57676.3515625,
         57648.6484375,
-        57651.3515625,
+        57650.6484375,
         57664.19921875,
         57663.8984375,
         57667.55078125,
@@ -206,7 +206,7 @@
         57761.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-23T13:57:31.622871+00:00"
+      "updated_at": "2026-08-23T14:16:12.370709+00:00"
     },
     "vix": {
       "price": 11.195,
@@ -275,12 +275,12 @@
         11.194999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-23T13:57:31.681904+00:00"
+      "updated_at": "2026-08-23T14:16:12.474208+00:00"
     },
     "usdinr": {
-      "price": 95.71,
-      "change": 0.015,
-      "pct": 0.0157,
+      "price": 95.68,
+      "change": -0.015,
+      "pct": -0.0157,
       "closes": [
         95.7249984741211,
         95.7300033569336,
@@ -344,7 +344,7 @@
         95.69000244140625
       ],
       "ok": true,
-      "updated_at": "2026-08-23T13:57:31.754179+00:00"
+      "updated_at": "2026-08-23T14:16:12.595347+00:00"
     },
     "gold": {
       "price": 4680.6,
@@ -352,7 +352,7 @@
       "pct": 2.3888,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-23T13:57:31.804292+00:00"
+      "updated_at": "2026-08-23T14:16:12.694477+00:00"
     },
     "crude": {
       "price": 87.06,
@@ -360,7 +360,7 @@
       "pct": 0.2649,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-23T13:57:31.854927+00:00"
+      "updated_at": "2026-08-23T14:16:12.796509+00:00"
     },
     "us10y": {
       "price": 4.738,
@@ -429,13 +429,13 @@
         4.73799991607666
       ],
       "ok": true,
-      "updated_at": "2026-08-23T13:57:31.918243+00:00"
+      "updated_at": "2026-08-23T14:16:12.921969+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-23T13:57:31.995590+00:00",
+      "updated_at": "2026-08-23T14:16:13.240390+00:00",
       "items": [
         {
           "title": "Market Trading Guide: Jayaswal Neco Industries among 2 stock recommendations for Monday",
@@ -591,7 +591,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-23T13:57:32.062855+00:00",
+      "updated_at": "2026-08-23T14:16:13.550575+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -672,8 +672,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-23T13:57:32.201386+00:00",
+      "updated_at": "2026-08-23T14:16:13.781827+00:00",
       "items": [
+        {
+          "title": "Alphabet out, Netflix in: Bill Ackman exits major stocks, reworks Pershing Square's portfolio — Here's what has changed",
+          "link": "https://www.livemint.com/market/stock-market-news/bill-ackman-exit-major-stocks-alphabet-umg-sp-global-netflix-visa-mastercard-alcon-pershing-square-fund-portfolio-change-11787491499652.html",
+          "pubDate": "2026-08-23T19:42:34+05:30"
+        },
         {
           "title": "Best Coffee Will Be Harder to Get as Downpours Hit Brazil’s Trees",
           "link": "https://www.livemint.com/market/best-coffee-will-be-harder-to-get-as-downpours-hit-brazil-s-trees-11787484613213.html",
@@ -818,18 +823,18 @@
           "title": "Bitcoin Nears $80,000 Amid Biggest Weekly Rally In Three Years",
           "link": "https://www.livemint.com/market/bitcoin-nears-80-000-amid-biggest-weekly-rally-in-three-years-11787346008375.html",
           "pubDate": "2026-08-22T02:30:08+05:30"
-        },
-        {
-          "title": "Dollar falls to three-month low on Treasury buyback worries",
-          "link": "https://www.livemint.com/market/dollar-falls-to-three-month-low-on-treasury-buyback-worries-11787341555185.html",
-          "pubDate": "2026-08-22T01:15:54+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-23T13:57:32.409370+00:00",
+      "updated_at": "2026-08-23T14:16:14.756212+00:00",
       "items": [
+        {
+          "title": "US, Indian markets look less attractive on free cash flow yield measure",
+          "link": "https://www.business-standard.com/markets/news/us-indian-markets-look-less-attractive-on-free-cash-flow-yield-measure-126082300621_1.html",
+          "pubDate": "2026-08-23T19:28:08+05:30"
+        },
         {
           "title": "Strong inflows via RBI's swap schemes lift reserves, fail to boost rupee",
           "link": "https://www.business-standard.com/markets/news/strong-inflows-via-rbi-s-swap-schemes-lift-reserves-fail-to-boost-rupee-126082300488_1.html",
@@ -974,17 +979,12 @@
           "title": "Jhaveri Credits & Capital receives LoI from GEDA for solar rooftop project",
           "link": "https://www.business-standard.com/markets/capital-market-news/jhaveri-credits-capital-receives-loi-from-geda-for-solar-rooftop-project-126082101217_1.html",
           "pubDate": "2026-08-21T19:31:25+05:30"
-        },
-        {
-          "title": "RBI Central Board of Directors review current economic situation",
-          "link": "https://www.business-standard.com/markets/capital-market-news/rbi-central-board-of-directors-review-current-economic-situation-126082101074_1.html",
-          "pubDate": "2026-08-21T18:04:02+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-23T13:57:33.246551+00:00",
+      "updated_at": "2026-08-23T14:16:15.578712+00:00",
       "items": [
         {
           "title": "Data on Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",

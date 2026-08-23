@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T08:47:39.365376+00:00",
+  "generated_at": "2026-08-23T09:14:26.330298+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
@@ -27,8 +27,8 @@
         24236.25,
         24233.30078125,
         24237.94921875,
-        24240.75,
-        24238.25,
+        24240.849609375,
+        24238.099609375,
         24243.099609375,
         24236.55078125,
         24233.30078125,
@@ -46,9 +46,9 @@
         24235.80078125,
         24231.44921875,
         24232.94921875,
-        24233.94921875,
+        24233.599609375,
         24230.69921875,
-        24225.44921875,
+        24225.5,
         24230.55078125,
         24236.150390625,
         24239.349609375,
@@ -68,7 +68,7 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-23T08:47:37.319917+00:00"
+      "updated_at": "2026-08-23T09:14:22.867742+00:00"
     },
     "sensex": {
       "price": 77540.83,
@@ -137,16 +137,16 @@
         77540.828125
       ],
       "ok": true,
-      "updated_at": "2026-08-23T08:47:37.374052+00:00"
+      "updated_at": "2026-08-23T09:14:23.019703+00:00"
     },
     "banknifty": {
       "price": 57761.95,
       "change": 266.05,
       "pct": 0.4627,
       "closes": [
-        57707.8984375,
+        57709.05078125,
         57735.75,
-        57728.5,
+        57729.3984375,
         57731.69921875,
         57711.05078125,
         57727.05078125,
@@ -156,7 +156,7 @@
         57701.69921875,
         57723.6015625,
         57712.3984375,
-        57704.1484375,
+        57702.55078125,
         57707.30078125,
         57704.80078125,
         57678.75,
@@ -174,7 +174,7 @@
         57676.69921875,
         57674.1484375,
         57676.30078125,
-        57707.6015625,
+        57708.1484375,
         57686.69921875,
         57677.6484375,
         57672.44921875,
@@ -193,7 +193,7 @@
         57681.25,
         57676.3515625,
         57648.6484375,
-        57650.6484375,
+        57651.3515625,
         57664.19921875,
         57663.8984375,
         57667.55078125,
@@ -206,7 +206,7 @@
         57761.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-23T08:47:37.426350+00:00"
+      "updated_at": "2026-08-23T09:14:23.154884+00:00"
     },
     "vix": {
       "price": 11.195,
@@ -275,7 +275,7 @@
         11.194999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-23T08:47:37.478829+00:00"
+      "updated_at": "2026-08-23T09:14:23.289871+00:00"
     },
     "usdinr": {
       "price": 95.71,
@@ -344,7 +344,7 @@
         95.69000244140625
       ],
       "ok": true,
-      "updated_at": "2026-08-23T08:47:37.539386+00:00"
+      "updated_at": "2026-08-23T09:14:23.454924+00:00"
     },
     "gold": {
       "price": 4680.6,
@@ -352,7 +352,7 @@
       "pct": 2.3888,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-23T08:47:37.589295+00:00"
+      "updated_at": "2026-08-23T09:14:23.595599+00:00"
     },
     "crude": {
       "price": 87.06,
@@ -360,7 +360,7 @@
       "pct": 0.2649,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-23T08:47:37.633454+00:00"
+      "updated_at": "2026-08-23T09:14:23.728630+00:00"
     },
     "us10y": {
       "price": 4.738,
@@ -429,13 +429,13 @@
         4.73799991607666
       ],
       "ok": true,
-      "updated_at": "2026-08-23T08:47:37.691763+00:00"
+      "updated_at": "2026-08-23T09:14:23.870494+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-23T08:47:37.806657+00:00",
+      "updated_at": "2026-08-23T09:14:24.139371+00:00",
       "items": [
         {
           "title": "20 IPOs on investors' radar next week. GMPs indicate up to 90% returns",
@@ -590,8 +590,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-23T08:14:15.684011+00:00",
+      "ok": true,
+      "updated_at": "2026-08-23T09:14:24.281676+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -672,8 +672,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-23T08:47:38.360703+00:00",
+      "updated_at": "2026-08-23T09:14:24.490604+00:00",
       "items": [
+        {
+          "title": "Mcap of four of top-10 most valued firms erodes  ₹87,960 crore; Airtel takes biggest hit",
+          "link": "https://www.livemint.com/market/stock-market-news/mcap-four-top-10-most-valued-firms-erodes-rs-87960-crore-airtel-biggest-hit-indian-markets-crude-oil-tcs-sbi-hul-lic-ril-11787474680284.html",
+          "pubDate": "2026-08-23T14:40:04+05:30"
+        },
+        {
+          "title": "Penny stock under  ₹10 to be in focus on Monday | Here's why",
+          "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-axita-cotton-to-be-in-focus-on-monday-heres-why-11787473728032.html",
+          "pubDate": "2026-08-23T14:26:26+05:30"
+        },
         {
           "title": "Upcoming IPO: Gemini Edibles &amp; Fats India files draft papers to raise funds via public issue. Details here",
           "link": "https://www.livemint.com/market/ipo/upcoming-ipo-gemini-edibles-fats-india-files-draft-papers-to-raise-funds-via-public-issue-details-here-11787469576854.html",
@@ -813,23 +823,18 @@
           "title": "Symbiotec Pharmalab IPO: Price band, lot size, GMP, listing date and other key details",
           "link": "https://www.livemint.com/market/ipo/symbiotec-pharmalab-ipo-price-band-lot-size-gmp-listing-date-and-other-key-details-11787319352853.html",
           "pubDate": "2026-08-21T19:46:55+05:30"
-        },
-        {
-          "title": "US stocks surge as bond market volatility eases, crypto stocks rally",
-          "link": "https://www.livemint.com/market/stock-market-news/us-stocks-surge-as-bond-market-volatility-eases-11787319906181.html",
-          "pubDate": "2026-08-21T19:33:55+05:30"
-        },
-        {
-          "title": "Sebi proposes bond distributor network, tighter ad rules to deepen retail participation",
-          "link": "https://www.livemint.com/market/sebi-bond-distributor-network-ad-rules-retail-participation-mutual-fund-11787316933242.html",
-          "pubDate": "2026-08-21T19:23:35+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-23T08:47:38.467754+00:00",
+      "updated_at": "2026-08-23T09:14:25.463742+00:00",
       "items": [
+        {
+          "title": "Bullion may shine next week as traders await US inflation data, Fed signals",
+          "link": "https://www.business-standard.com/markets/commodities/bullion-may-shine-next-week-as-traders-await-us-inflation-data-fed-signals-126082300295_1.html",
+          "pubDate": "2026-08-23T14:31:06+05:30"
+        },
         {
           "title": "Geopolitics, crude oil prices likely to drive stock market movements",
           "link": "https://www.business-standard.com/markets/news/geopolitics-crude-oil-prices-likely-to-drive-stock-market-movements-126082300268_1.html",
@@ -974,17 +979,12 @@
           "title": "Religare takeover: SAT dismisses Danny Gaekwad's plea on exemptions",
           "link": "https://www.business-standard.com/markets/news/religare-takeover-sat-dismisses-danny-gaekwad-s-plea-on-exemptions-126082101051_1.html",
           "pubDate": "2026-08-21T17:52:16+05:30"
-        },
-        {
-          "title": "Quick Wrap: Nifty Metal Index records a surge of 0.86%",
-          "link": "https://www.business-standard.com/markets/capital-market-news/quick-wrap-nifty-metal-index-records-a-surge-of-0-86-126082101035_1.html",
-          "pubDate": "2026-08-21T17:50:02+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-23T08:47:39.365360+00:00",
+      "updated_at": "2026-08-23T09:14:26.330242+00:00",
       "items": [
         {
           "title": "Data on Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",

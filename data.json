@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T22:07:32.523330+00:00",
+  "generated_at": "2026-08-23T22:34:42.731282+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
@@ -68,7 +68,7 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-23T22:07:30.767758+00:00"
+      "updated_at": "2026-08-23T22:34:40.954435+00:00"
     },
     "sensex": {
       "price": 77540.83,
@@ -137,7 +137,7 @@
         77540.828125
       ],
       "ok": true,
-      "updated_at": "2026-08-23T22:07:30.823270+00:00"
+      "updated_at": "2026-08-23T22:34:41.013505+00:00"
     },
     "banknifty": {
       "price": 57761.95,
@@ -206,7 +206,7 @@
         57761.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-23T22:07:30.879285+00:00"
+      "updated_at": "2026-08-23T22:34:41.066427+00:00"
     },
     "vix": {
       "price": 11.195,
@@ -275,7 +275,7 @@
         11.194999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-23T22:07:30.931697+00:00"
+      "updated_at": "2026-08-23T22:34:41.116483+00:00"
     },
     "usdinr": {
       "price": 95.68,
@@ -344,23 +344,33 @@
         95.69000244140625
       ],
       "ok": true,
-      "updated_at": "2026-08-23T22:07:31.008882+00:00"
+      "updated_at": "2026-08-23T22:34:41.195349+00:00"
     },
     "gold": {
-      "price": 4680.6,
-      "change": 0.0,
-      "pct": 0.0,
-      "closes": [],
+      "price": 4673.8,
+      "change": -6.8,
+      "pct": -0.1453,
+      "closes": [
+        4675.39990234375,
+        4675.7998046875,
+        4674.89990234375,
+        4673.7998046875
+      ],
       "ok": true,
-      "updated_at": "2026-08-23T22:07:31.051512+00:00"
+      "updated_at": "2026-08-23T22:34:41.638197+00:00"
     },
     "crude": {
-      "price": 87.06,
-      "change": 0.0,
-      "pct": 0.0,
-      "closes": [],
+      "price": 86.39,
+      "change": -0.67,
+      "pct": -0.7696,
+      "closes": [
+        86.4000015258789,
+        86.38999938964844,
+        86.41000366210938,
+        86.38999938964844
+      ],
       "ok": true,
-      "updated_at": "2026-08-23T22:07:31.098502+00:00"
+      "updated_at": "2026-08-23T22:34:41.686722+00:00"
     },
     "us10y": {
       "price": 4.738,
@@ -429,13 +439,13 @@
         4.73799991607666
       ],
       "ok": true,
-      "updated_at": "2026-08-23T22:07:31.156948+00:00"
+      "updated_at": "2026-08-23T22:34:41.747644+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-23T22:07:31.470732+00:00",
+      "updated_at": "2026-08-23T22:34:41.782779+00:00",
       "items": [
         {
           "title": "Market Trading Guide: Jayaswal Neco Industries among 2 stock recommendations for Monday",
@@ -672,7 +682,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-23T22:07:31.644917+00:00",
+      "updated_at": "2026-08-23T22:34:41.884866+00:00",
       "items": [
         {
           "title": "Wall Street Week Ahead: Warsh’s Jackson speech, PCE inflation and Nvidia earnings in focus",
@@ -828,7 +838,7 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-23T22:07:31.681704+00:00",
+      "updated_at": "2026-08-23T22:34:41.909348+00:00",
       "items": [
         {
           "title": "Derivatives market gets Gen Z twist, but losses cast a long shadow: Sebi",
@@ -984,7 +994,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-23T22:07:32.523285+00:00",
+      "updated_at": "2026-08-23T22:34:42.731266+00:00",
       "items": [
         {
           "title": "Data on Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",

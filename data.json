@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-23T03:12:39.703561+00:00",
+  "generated_at": "2026-08-23T03:58:12.030020+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
-      "change": 20.2,
-      "pct": 0.0834,
+      "change": 20.15,
+      "pct": 0.0832,
       "closes": [
         24249.349609375,
         24253.19921875,
@@ -68,11 +68,11 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-23T03:12:37.310424+00:00"
+      "updated_at": "2026-08-23T03:58:10.185900+00:00"
     },
     "sensex": {
       "price": 77540.83,
-      "change": 3.13,
+      "change": 3.11,
       "pct": 0.004,
       "closes": [
         77617.0703125,
@@ -137,7 +137,7 @@
         77540.828125
       ],
       "ok": true,
-      "updated_at": "2026-08-23T03:12:37.415511+00:00"
+      "updated_at": "2026-08-23T03:58:10.288487+00:00"
     },
     "banknifty": {
       "price": 57761.95,
@@ -206,12 +206,12 @@
         57761.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-23T03:12:37.522254+00:00"
+      "updated_at": "2026-08-23T03:58:10.338435+00:00"
     },
     "vix": {
       "price": 11.195,
-      "change": 0.435,
-      "pct": 4.0428,
+      "change": 0.44,
+      "pct": 4.0911,
       "closes": [
         11.172499656677246,
         11.100000381469727,
@@ -275,13 +275,14 @@
         11.194999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-23T03:12:37.627782+00:00"
+      "updated_at": "2026-08-23T03:58:10.389213+00:00"
     },
     "usdinr": {
       "price": 95.71,
       "change": 0.015,
       "pct": 0.0157,
       "closes": [
+        95.7249984741211,
         95.7300033569336,
         95.73500061035156,
         95.73249816894531,
@@ -340,11 +341,10 @@
         95.68499755859375,
         95.68499755859375,
         95.68499755859375,
-        95.69000244140625,
-        95.70999908447266
+        95.69000244140625
       ],
       "ok": true,
-      "updated_at": "2026-08-23T03:12:37.761767+00:00"
+      "updated_at": "2026-08-23T03:58:10.441562+00:00"
     },
     "gold": {
       "price": 4680.6,
@@ -413,7 +413,7 @@
         4680.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-23T03:12:37.971277+00:00"
+      "updated_at": "2026-08-23T03:58:10.520957+00:00"
     },
     "crude": {
       "price": 87.06,
@@ -482,7 +482,7 @@
         87.05999755859375
       ],
       "ok": true,
-      "updated_at": "2026-08-23T03:12:38.103591+00:00"
+      "updated_at": "2026-08-23T03:58:10.593142+00:00"
     },
     "us10y": {
       "price": 4.738,
@@ -551,13 +551,13 @@
         4.73799991607666
       ],
       "ok": true,
-      "updated_at": "2026-08-23T03:12:38.211122+00:00"
+      "updated_at": "2026-08-23T03:58:10.646017+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-23T03:12:38.371593+00:00",
+      "updated_at": "2026-08-23T03:58:10.751572+00:00",
       "items": [
         {
           "title": "Sebi proposes tighter curbs on promotional claims by online bond platforms",
@@ -712,7 +712,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-23T03:12:38.484708+00:00",
       "items": [
         {
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-23T03:12:38.691642+00:00",
+      "updated_at": "2026-08-23T03:58:11.229539+00:00",
       "items": [
+        {
+          "title": "Stock Market prediction for tomorrow, 24 August 2026: Sensex, Nifty outlook for Monday — US, South Korea, Taiwan cues",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-tomorrow-24-august-2026-sensex-nifty-outlook-for-monday-us-south-korea-taiwan-cues-11787450741265.html",
+          "pubDate": "2026-08-23T08:46:40+05:30"
+        },
         {
           "title": "Welspun Corp leads as over 10 Nifty 500 stocks gain 10–23% this week despite market volatility",
           "link": "https://www.livemint.com/market/stock-market-news/welspun-corp-leads-as-over-10-nifty-500-stocks-gain-10-23-this-week-despite-market-volatility-11787385989520.html",
@@ -940,17 +945,12 @@
           "title": "Sensex, Nifty 50 end flat, extend losses for second consecutive week",
           "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-end-flat-amid-elevated-oil-prices-us-iran-stalled-talks-infosys-sbi-among-top-drags-11787305978312.html",
           "pubDate": "2026-08-21T15:31:29+05:30"
-        },
-        {
-          "title": "SAIL dividend 2026: Maharatna PSU declares record date for final dividend",
-          "link": "https://www.livemint.com/market/stock-market-news/maharatna-psu-stock-sail-declares-record-date-for-final-dividend-in-fy26-11787303082467.html",
-          "pubDate": "2026-08-21T15:17:09+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-23T03:12:38.825942+00:00",
+      "updated_at": "2026-08-23T03:58:11.260878+00:00",
       "items": [
         {
           "title": "South Korean traders chase 40% coupons as risk appetite survives rout",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-23T03:12:39.703547+00:00",
+      "updated_at": "2026-08-23T03:58:12.030005+00:00",
       "items": [
         {
           "title": "Data on Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",

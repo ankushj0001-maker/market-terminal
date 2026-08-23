@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T15:20:17.275221+00:00",
+  "generated_at": "2026-08-23T15:42:13.934117+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
@@ -27,8 +27,8 @@
         24236.25,
         24233.30078125,
         24237.94921875,
-        24240.849609375,
-        24238.099609375,
+        24240.75,
+        24238.25,
         24243.099609375,
         24236.55078125,
         24233.30078125,
@@ -46,9 +46,9 @@
         24235.80078125,
         24231.44921875,
         24232.94921875,
-        24233.599609375,
+        24233.94921875,
         24230.69921875,
-        24225.5,
+        24225.44921875,
         24230.55078125,
         24236.150390625,
         24239.349609375,
@@ -68,7 +68,7 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-23T15:20:16.093628+00:00"
+      "updated_at": "2026-08-23T15:42:12.003990+00:00"
     },
     "sensex": {
       "price": 77540.83,
@@ -137,16 +137,16 @@
         77540.828125
       ],
       "ok": true,
-      "updated_at": "2026-08-23T15:20:16.157898+00:00"
+      "updated_at": "2026-08-23T15:42:12.058679+00:00"
     },
     "banknifty": {
       "price": 57761.95,
       "change": 266.05,
       "pct": 0.4627,
       "closes": [
-        57709.05078125,
+        57707.8984375,
         57735.75,
-        57729.3984375,
+        57728.5,
         57731.69921875,
         57711.05078125,
         57727.05078125,
@@ -156,7 +156,7 @@
         57701.69921875,
         57723.6015625,
         57712.3984375,
-        57702.55078125,
+        57704.1484375,
         57707.30078125,
         57704.80078125,
         57678.75,
@@ -174,7 +174,7 @@
         57676.69921875,
         57674.1484375,
         57676.30078125,
-        57708.1484375,
+        57707.6015625,
         57686.69921875,
         57677.6484375,
         57672.44921875,
@@ -193,7 +193,7 @@
         57681.25,
         57676.3515625,
         57648.6484375,
-        57651.3515625,
+        57650.6484375,
         57664.19921875,
         57663.8984375,
         57667.55078125,
@@ -206,7 +206,7 @@
         57761.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-23T15:20:16.246358+00:00"
+      "updated_at": "2026-08-23T15:42:12.102258+00:00"
     },
     "vix": {
       "price": 11.195,
@@ -275,7 +275,7 @@
         11.194999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-23T15:20:16.301753+00:00"
+      "updated_at": "2026-08-23T15:42:12.156191+00:00"
     },
     "usdinr": {
       "price": 95.68,
@@ -344,7 +344,7 @@
         95.69000244140625
       ],
       "ok": true,
-      "updated_at": "2026-08-23T15:20:16.359569+00:00"
+      "updated_at": "2026-08-23T15:42:12.211281+00:00"
     },
     "gold": {
       "price": 4680.6,
@@ -352,7 +352,7 @@
       "pct": 2.3888,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-23T15:20:16.433886+00:00"
+      "updated_at": "2026-08-23T15:42:12.371667+00:00"
     },
     "crude": {
       "price": 87.06,
@@ -360,7 +360,7 @@
       "pct": 0.2649,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-23T15:20:16.503710+00:00"
+      "updated_at": "2026-08-23T15:42:12.406358+00:00"
     },
     "us10y": {
       "price": 4.738,
@@ -429,13 +429,13 @@
         4.73799991607666
       ],
       "ok": true,
-      "updated_at": "2026-08-23T15:20:16.560579+00:00"
+      "updated_at": "2026-08-23T15:42:12.462409+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-23T15:20:16.623602+00:00",
+      "updated_at": "2026-08-23T15:42:12.714194+00:00",
       "items": [
         {
           "title": "Market Trading Guide: Jayaswal Neco Industries among 2 stock recommendations for Monday",
@@ -591,7 +591,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-23T15:20:16.753593+00:00",
+      "updated_at": "2026-08-23T15:42:12.817367+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -672,7 +672,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-23T15:20:17.043347+00:00",
+      "updated_at": "2026-08-23T15:42:13.036259+00:00",
       "items": [
         {
           "title": "Alphabet out, Netflix in: Bill Ackman exits major stocks, reworks Pershing Square's portfolio — Here's what has changed",
@@ -828,8 +828,13 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-23T15:20:17.239942+00:00",
+      "updated_at": "2026-08-23T15:42:13.151399+00:00",
       "items": [
+        {
+          "title": "Derivatives market gets Gen Z twist, but losses cast a long shadow: Sebi",
+          "link": "https://www.business-standard.com/markets/news/derivatives-market-gets-gen-z-twist-but-losses-cast-a-long-shadow-sebi-126082300682_1.html",
+          "pubDate": "2026-08-23T20:42:28+05:30"
+        },
         {
           "title": "US, Indian markets look less attractive on free cash flow yield measure",
           "link": "https://www.business-standard.com/markets/news/us-indian-markets-look-less-attractive-on-free-cash-flow-yield-measure-126082300621_1.html",
@@ -974,17 +979,12 @@
           "title": "Innovision receives toll collection mandate for Etaura Bujurg & Akhtiyari Kotila fee plaza",
           "link": "https://www.business-standard.com/markets/capital-market-news/innovision-receives-toll-collection-mandate-for-etaura-bujurg-akhtiyari-kotila-fee-plaza-126082101218_1.html",
           "pubDate": "2026-08-21T19:31:32+05:30"
-        },
-        {
-          "title": "Jhaveri Credits & Capital receives LoI from GEDA for solar rooftop project",
-          "link": "https://www.business-standard.com/markets/capital-market-news/jhaveri-credits-capital-receives-loi-from-geda-for-solar-rooftop-project-126082101217_1.html",
-          "pubDate": "2026-08-21T19:31:25+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-23T15:20:17.275209+00:00",
+      "updated_at": "2026-08-23T15:42:13.934099+00:00",
       "items": [
         {
           "title": "Data on Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T17:01:05.860031+00:00",
+  "generated_at": "2026-08-24T17:42:13.682063+00:00",
   "indices": {
     "nifty50": {
       "price": 24219.05,
@@ -68,7 +68,7 @@
         24219.05078125
       ],
       "ok": true,
-      "updated_at": "2026-08-24T17:01:03.728351+00:00"
+      "updated_at": "2026-08-24T17:42:11.223118+00:00"
     },
     "sensex": {
       "price": 77369.11,
@@ -137,7 +137,7 @@
         77369.109375
       ],
       "ok": true,
-      "updated_at": "2026-08-24T17:01:03.803098+00:00"
+      "updated_at": "2026-08-24T17:42:11.333933+00:00"
     },
     "banknifty": {
       "price": 57525.95,
@@ -206,7 +206,7 @@
         57525.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-24T17:01:03.876568+00:00"
+      "updated_at": "2026-08-24T17:42:11.400190+00:00"
     },
     "vix": {
       "price": 11.525,
@@ -275,7 +275,7 @@
         11.524999618530273
       ],
       "ok": true,
-      "updated_at": "2026-08-24T17:01:03.953476+00:00"
+      "updated_at": "2026-08-24T17:42:11.464719+00:00"
     },
     "usdinr": {
       "price": 95.74,
@@ -344,21 +344,13 @@
         95.73999786376953
       ],
       "ok": true,
-      "updated_at": "2026-08-24T17:01:04.041416+00:00"
+      "updated_at": "2026-08-24T17:42:11.608209+00:00"
     },
     "gold": {
-      "price": 4713.9,
-      "change": 33.3,
-      "pct": 0.7114,
+      "price": 4697.6,
+      "change": 17.0,
+      "pct": 0.3632,
       "closes": [
-        4710.2998046875,
-        4712.2998046875,
-        4715.5,
-        4711.2998046875,
-        4715.0,
-        4719.39990234375,
-        4712.2001953125,
-        4720.5,
         4715.0,
         4719.7001953125,
         4724.7001953125,
@@ -410,23 +402,24 @@
         4717.10009765625,
         4715.0,
         4709.89990234375,
-        4713.89990234375
+        4701.89990234375,
+        4702.7998046875,
+        4709.7001953125,
+        4709.0,
+        4705.39990234375,
+        4693.10009765625,
+        4695.2998046875,
+        4694.5,
+        4697.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-24T17:01:04.126382+00:00"
+      "updated_at": "2026-08-24T17:42:11.707481+00:00"
     },
     "crude": {
-      "price": 85.34,
-      "change": -1.72,
-      "pct": -1.9756,
+      "price": 84.88,
+      "change": -2.18,
+      "pct": -2.504,
       "closes": [
-        85.36000061035156,
-        85.37000274658203,
-        85.5199966430664,
-        85.52999877929688,
-        85.51000213623047,
-        85.45999908447266,
-        85.55000305175781,
         85.52999877929688,
         85.62000274658203,
         85.55999755859375,
@@ -478,20 +471,24 @@
         85.30999755859375,
         85.36000061035156,
         85.37000274658203,
-        85.30000305175781,
-        85.33999633789062
+        85.22000122070312,
+        85.02999877929688,
+        85.0199966430664,
+        84.91999816894531,
+        84.79000091552734,
+        84.8499984741211,
+        84.8499984741211,
+        85.01000213623047,
+        84.87999725341797
       ],
       "ok": true,
-      "updated_at": "2026-08-24T17:01:04.205347+00:00"
+      "updated_at": "2026-08-24T17:42:11.802452+00:00"
     },
     "us10y": {
-      "price": 4.692,
-      "change": -0.046,
-      "pct": -0.9709,
+      "price": 4.698,
+      "change": -0.04,
+      "pct": -0.8442,
       "closes": [
-        4.703999996185303,
-        4.703999996185303,
-        4.708000183105469,
         4.706000328063965,
         4.711999893188477,
         4.711999893188477,
@@ -542,16 +539,25 @@
         4.691999912261963,
         4.691999912261963,
         4.693999767303467,
-        4.691999912261963
+        4.696000099182129,
+        4.696000099182129,
+        4.693999767303467,
+        4.691999912261963,
+        4.691999912261963,
+        4.691999912261963,
+        4.691999912261963,
+        4.699999809265137,
+        4.697999954223633,
+        4.697999954223633
       ],
       "ok": true,
-      "updated_at": "2026-08-24T17:01:04.280198+00:00"
+      "updated_at": "2026-08-24T17:42:11.870996+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-24T17:01:04.368263+00:00",
+      "updated_at": "2026-08-24T17:42:12.151489+00:00",
       "items": [
         {
           "title": "Sebi drops proceedings against Max Financial, Axis Bank in Max Life deal case",
@@ -707,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-24T17:01:04.453632+00:00",
+      "updated_at": "2026-08-24T17:42:12.437407+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -788,7 +794,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-24T17:01:04.589455+00:00",
+      "updated_at": "2026-08-24T17:42:12.634655+00:00",
       "items": [
         {
           "title": "Shein IPO: Fast fashion retailer eyes $27 billion price tag in long-awaited Hong Kong listing — What we know",
@@ -944,8 +950,13 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-24T17:01:04.861202+00:00",
+      "updated_at": "2026-08-24T17:42:12.772664+00:00",
       "items": [
+        {
+          "title": "JPMorgan India unit to argue that any regulatory breach was technical",
+          "link": "https://www.business-standard.com/markets/news/jpmorgan-india-unit-to-argue-that-any-regulatory-breach-was-technical-126082401446_1.html",
+          "pubDate": "2026-08-24T22:42:01+05:30"
+        },
         {
           "title": "Sebi to introduce IT Resilience Index for market infra institutions",
           "link": "https://www.business-standard.com/markets/news/sebi-to-introduce-it-resilience-index-for-market-infra-institutions-126082400940_1.html",
@@ -959,7 +970,7 @@
         {
           "title": "From trades to balance sheets: Sebi to widen AI surveillance net",
           "link": "https://www.business-standard.com/markets/news/from-trades-to-balance-sheets-sebi-widens-its-ai-powered-surveillance-net-126082401060_1.html",
-          "pubDate": "2026-08-24T18:52:46+05:30"
+          "pubDate": "2026-08-24T18:52:30+05:30"
         },
         {
           "title": "Maxgrow India consolidated net profit rises 190.19% in the June 2026 quarter",
@@ -1090,17 +1101,12 @@
           "title": "China stocks fall as tech shares come under pressure",
           "link": "https://www.business-standard.com/markets/capital-market-news/china-stocks-fall-as-tech-shares-come-under-pressure-126082400709_1.html",
           "pubDate": "2026-08-24T15:50:10+05:30"
-        },
-        {
-          "title": "Dhabriya Polywood gains after bagging Rs 5-cr order from Godrej Properties",
-          "link": "https://www.business-standard.com/markets/capital-market-news/dhabriya-polywood-gains-after-bagging-rs-5-cr-order-from-godrej-properties-126082400708_1.html",
-          "pubDate": "2026-08-24T15:50:02+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-24T17:01:05.860012+00:00",
+      "updated_at": "2026-08-24T17:42:13.682045+00:00",
       "items": [
         {
           "title": "RBI to conduct 2-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 25, 2026",

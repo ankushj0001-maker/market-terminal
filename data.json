@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T10:35:15.816615+00:00",
+  "generated_at": "2026-08-24T11:04:55.069224+00:00",
   "indices": {
     "nifty50": {
       "price": 24219.05,
@@ -68,7 +68,7 @@
         24219.05078125
       ],
       "ok": true,
-      "updated_at": "2026-08-24T10:35:09.223014+00:00"
+      "updated_at": "2026-08-24T11:04:53.360187+00:00"
     },
     "sensex": {
       "price": 77369.11,
@@ -137,7 +137,7 @@
         77369.109375
       ],
       "ok": true,
-      "updated_at": "2026-08-24T10:35:09.443606+00:00"
+      "updated_at": "2026-08-24T11:04:53.419106+00:00"
     },
     "banknifty": {
       "price": 57525.95,
@@ -206,7 +206,7 @@
         57525.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-24T10:35:09.670633+00:00"
+      "updated_at": "2026-08-24T11:04:53.478097+00:00"
     },
     "vix": {
       "price": 11.525,
@@ -275,7 +275,7 @@
         11.524999618530273
       ],
       "ok": true,
-      "updated_at": "2026-08-24T10:35:09.909787+00:00"
+      "updated_at": "2026-08-24T11:04:53.536205+00:00"
     },
     "usdinr": {
       "price": 95.735,
@@ -344,18 +344,13 @@
         95.73500061035156
       ],
       "ok": true,
-      "updated_at": "2026-08-24T10:35:10.147401+00:00"
+      "updated_at": "2026-08-24T11:04:53.598545+00:00"
     },
     "gold": {
-      "price": 4700.5,
-      "change": 19.9,
-      "pct": 0.4252,
+      "price": 4702.8,
+      "change": 22.2,
+      "pct": 0.4743,
       "closes": [
-        4688.7998046875,
-        4689.2998046875,
-        4689.39990234375,
-        4694.5,
-        4694.7001953125,
         4701.10009765625,
         4705.39990234375,
         4708.2001953125,
@@ -410,21 +405,21 @@
         4703.60009765625,
         4701.7998046875,
         4700.7001953125,
-        4700.5
+        4702.5,
+        4705.2998046875,
+        4701.39990234375,
+        4702.5,
+        4703.0,
+        4702.7998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-24T10:35:10.373604+00:00"
+      "updated_at": "2026-08-24T11:04:53.609982+00:00"
     },
     "crude": {
-      "price": 85.06,
-      "change": -2.0,
-      "pct": -2.2973,
+      "price": 85.23,
+      "change": -1.83,
+      "pct": -2.102,
       "closes": [
-        85.61000061035156,
-        85.58999633789062,
-        85.76000213623047,
-        85.6500015258789,
-        85.69999694824219,
         85.48999786376953,
         85.47000122070312,
         85.29000091552734,
@@ -479,10 +474,15 @@
         85.06999969482422,
         85.04000091552734,
         84.98999786376953,
-        85.05999755859375
+        84.97000122070312,
+        84.95999908447266,
+        85.19999694824219,
+        85.22000122070312,
+        85.2300033569336,
+        85.2300033569336
       ],
       "ok": true,
-      "updated_at": "2026-08-24T10:35:10.614344+00:00"
+      "updated_at": "2026-08-24T11:04:53.662717+00:00"
     },
     "us10y": {
       "price": 4.738,
@@ -551,13 +551,13 @@
         4.73799991607666
       ],
       "ok": true,
-      "updated_at": "2026-08-24T10:35:10.857347+00:00"
+      "updated_at": "2026-08-24T11:04:53.718438+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-24T10:35:11.339417+00:00",
+      "updated_at": "2026-08-24T11:04:53.781744+00:00",
       "items": [
         {
           "title": "Urban Company shares surge 7% to 11-month high, rally 16% in 2 sessions. Here are 2 reasons why",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-24T10:35:11.680759+00:00",
+      "updated_at": "2026-08-24T11:04:53.861603+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,7 +794,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-24T10:35:13.302518+00:00",
+      "updated_at": "2026-08-24T11:04:54.008906+00:00",
       "items": [
         {
           "title": "Multibagger defence stock Apollo Micro System acquires 34% stake in defence tech company",
@@ -950,8 +950,23 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-24T10:35:14.641894+00:00",
+      "updated_at": "2026-08-24T11:04:54.077053+00:00",
       "items": [
+        {
+          "title": "India plans first tokenised corporate bond issue using blockchain in Sept",
+          "link": "https://www.business-standard.com/markets/capital-market-news/india-plans-first-tokenised-corporate-bond-issue-using-blockchain-in-sept-126082400715_1.html",
+          "pubDate": "2026-08-24T16:14:56+05:30"
+        },
+        {
+          "title": "US dollar index large currency speculators further reduce net longs",
+          "link": "https://www.business-standard.com/markets/capital-market-news/us-dollar-index-large-currency-speculators-further-reduce-net-longs-126082400750_1.html",
+          "pubDate": "2026-08-24T16:05:38+05:30"
+        },
+        {
+          "title": "Sensex settles 172 pts lower; Nifty ends below 24,250",
+          "link": "https://www.business-standard.com/markets/capital-market-news/sensex-settles-172-pts-lower-nifty-ends-below-24-250-126082400749_1.html",
+          "pubDate": "2026-08-24T16:05:30+05:30"
+        },
         {
           "title": "Equity investing: Why allocation matters more than what you buy",
           "link": "https://www.business-standard.com/markets/news/equity-investing-why-allocation-matters-more-than-what-you-buy-126082400726_1.html",
@@ -1086,27 +1101,12 @@
           "title": "Brahmaputra Infrastructure secures O&M contract for NH-502A corridor in Mizoram",
           "link": "https://www.business-standard.com/markets/capital-market-news/brahmaputra-infrastructure-secures-o-m-contract-for-nh-502a-corridor-in-mizoram-126082400483_1.html",
           "pubDate": "2026-08-24T13:32:08+05:30"
-        },
-        {
-          "title": "Caplin Point Lab declines  after arm receives form-485 with 10 observations from USFDA",
-          "link": "https://www.business-standard.com/markets/capital-market-news/caplin-point-lab-declines-after-arm-receives-form-485-with-10-observations-from-usfda-126082400481_1.html",
-          "pubDate": "2026-08-24T13:32:00+05:30"
-        },
-        {
-          "title": "Tata Power Co's renewables arm commissions 190.5 MW FDRE project in Rajasthan",
-          "link": "https://www.business-standard.com/markets/capital-market-news/tata-power-co-s-renewables-arm-commissions-190-5-mw-fdre-project-in-rajasthan-126082400479_1.html",
-          "pubDate": "2026-08-24T13:31:51+05:30"
-        },
-        {
-          "title": "NMDC Ltd rises for third straight session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nmdc-ltd-rises-for-third-straight-session-126082400478_1.html",
-          "pubDate": "2026-08-24T13:31:43+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-24T10:35:15.816599+00:00",
+      "updated_at": "2026-08-24T11:04:55.069206+00:00",
       "items": [
         {
           "title": "Money Market Operations as on August 23, 2026",

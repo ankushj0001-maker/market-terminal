@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:58:48.735253+00:00",
+  "generated_at": "2026-08-24T12:41:08.120211+00:00",
   "indices": {
     "nifty50": {
       "price": 24219.05,
@@ -23,7 +23,7 @@
         24196.75,
         24191.25,
         24181.099609375,
-        24190.69921875,
+        24190.30078125,
         24194.05078125,
         24194.05078125,
         24189.400390625,
@@ -68,7 +68,7 @@
         24219.05078125
       ],
       "ok": true,
-      "updated_at": "2026-08-24T11:58:44.616210+00:00"
+      "updated_at": "2026-08-24T12:41:06.530777+00:00"
     },
     "sensex": {
       "price": 77369.11,
@@ -137,7 +137,7 @@
         77369.109375
       ],
       "ok": true,
-      "updated_at": "2026-08-24T11:58:44.720941+00:00"
+      "updated_at": "2026-08-24T12:41:06.599505+00:00"
     },
     "banknifty": {
       "price": 57525.95,
@@ -165,7 +165,7 @@
         57385.8984375,
         57379.75,
         57362.25,
-        57376.44921875,
+        57377.1484375,
         57325.6015625,
         57341.1015625,
         57345.30078125,
@@ -206,7 +206,7 @@
         57525.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-24T11:58:44.817675+00:00"
+      "updated_at": "2026-08-24T12:41:06.654862+00:00"
     },
     "vix": {
       "price": 11.525,
@@ -275,7 +275,7 @@
         11.524999618530273
       ],
       "ok": true,
-      "updated_at": "2026-08-24T11:58:44.914829+00:00"
+      "updated_at": "2026-08-24T12:41:06.707635+00:00"
     },
     "usdinr": {
       "price": 95.735,
@@ -344,29 +344,20 @@
         95.73500061035156
       ],
       "ok": true,
-      "updated_at": "2026-08-24T11:58:45.019844+00:00"
+      "updated_at": "2026-08-24T12:41:06.763061+00:00"
     },
     "gold": {
-      "price": 4709.1,
-      "change": 28.5,
-      "pct": 0.6089,
+      "price": 4718.6,
+      "change": 38.0,
+      "pct": 0.8119,
       "closes": [
-        4706.7001953125,
-        4705.10009765625,
-        4702.7001953125,
-        4704.39990234375,
-        4701.7001953125,
-        4698.89990234375,
-        4699.0,
-        4702.39990234375,
-        4700.39990234375,
-        4690.60009765625,
+        4690.7001953125,
         4687.39990234375,
         4691.10009765625,
         4697.39990234375,
         4696.39990234375,
         4694.10009765625,
-        4692.7001953125,
+        4691.89990234375,
         4691.2998046875,
         4691.7998046875,
         4684.7998046875,
@@ -396,7 +387,7 @@
         4700.7001953125,
         4702.5,
         4705.2998046875,
-        4701.2998046875,
+        4701.39990234375,
         4702.5,
         4703.0,
         4700.2998046875,
@@ -405,37 +396,37 @@
         4699.2001953125,
         4701.89990234375,
         4698.60009765625,
-        4704.0,
-        4709.5,
+        4703.7001953125,
+        4709.2998046875,
         4718.39990234375,
         4716.7001953125,
-        4706.60009765625,
-        4709.10009765625
+        4706.7001953125,
+        4716.7998046875,
+        4714.89990234375,
+        4710.2998046875,
+        4712.2998046875,
+        4715.5,
+        4711.2998046875,
+        4715.0,
+        4719.39990234375,
+        4712.2998046875,
+        4718.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-24T11:58:45.118585+00:00"
+      "updated_at": "2026-08-24T12:41:06.827545+00:00"
     },
     "crude": {
-      "price": 85.22,
-      "change": -1.84,
-      "pct": -2.1135,
+      "price": 85.41,
+      "change": -1.65,
+      "pct": -1.8952,
       "closes": [
-        85.18000030517578,
-        85.16000366210938,
-        85.08000183105469,
-        85.2300033569336,
-        85.2300033569336,
-        85.19999694824219,
-        85.29000091552734,
-        85.13999938964844,
-        85.30000305175781,
         85.51000213623047,
         85.69000244140625,
         85.44999694824219,
         85.66999816894531,
         85.41999816894531,
         85.66000366210938,
-        85.51000213623047,
+        85.75,
         85.41000366210938,
         85.56999969482422,
         85.56999969482422,
@@ -454,10 +445,10 @@
         85.30999755859375,
         85.12999725341797,
         85.31999969482422,
-        85.12000274658203,
+        85.11000061035156,
         85.06999969482422,
         85.1500015258789,
-        85.08999633789062,
+        85.0999984741211,
         84.98999786376953,
         85.08000183105469,
         85.06999969482422,
@@ -479,85 +470,37 @@
         85.16999816894531,
         85.1500015258789,
         85.22000122070312,
-        85.22000122070312
+        85.3499984741211,
+        85.37999725341797,
+        85.36000061035156,
+        85.37000274658203,
+        85.5199966430664,
+        85.52999877929688,
+        85.51000213623047,
+        85.45999908447266,
+        85.55000305175781,
+        85.41000366210938
       ],
       "ok": true,
-      "updated_at": "2026-08-24T11:58:45.216949+00:00"
+      "updated_at": "2026-08-24T12:41:06.886573+00:00"
     },
     "us10y": {
-      "price": 4.738,
-      "change": 0.042,
-      "pct": 0.8944,
+      "price": 4.708,
+      "change": -0.03,
+      "pct": -0.6332,
       "closes": [
-        4.7139997482299805,
-        4.716000080108643,
-        4.720000267028809,
-        4.720000267028809,
-        4.723999977111816,
-        4.723999977111816,
-        4.73199987411499,
-        4.736000061035156,
-        4.73199987411499,
-        4.727999687194824,
-        4.730000019073486,
-        4.730000019073486,
-        4.727999687194824,
-        4.727999687194824,
-        4.736000061035156,
-        4.736000061035156,
-        4.736000061035156,
-        4.734000205993652,
-        4.73199987411499,
-        4.73199987411499,
-        4.727999687194824,
-        4.730000019073486,
-        4.73199987411499,
-        4.73199987411499,
-        4.734000205993652,
-        4.736000061035156,
-        4.736000061035156,
-        4.73799991607666,
-        4.73199987411499,
-        4.73199987411499,
-        4.734000205993652,
-        4.734000205993652,
-        4.734000205993652,
-        4.73199987411499,
-        4.734000205993652,
-        4.73199987411499,
-        4.734000205993652,
-        4.734000205993652,
-        4.73199987411499,
-        4.734000205993652,
-        4.73199987411499,
-        4.734000205993652,
-        4.736000061035156,
-        4.740000247955322,
-        4.740000247955322,
-        4.741999626159668,
-        4.740000247955322,
-        4.740000247955322,
-        4.740000247955322,
-        4.740000247955322,
-        4.740000247955322,
-        4.740000247955322,
-        4.73799991607666,
-        4.736000061035156,
-        4.73799991607666,
-        4.740000247955322,
-        4.736000061035156,
-        4.73799991607666,
-        4.73799991607666,
-        4.73799991607666
+        4.703999996185303,
+        4.706000328063965,
+        4.708000183105469
       ],
       "ok": true,
-      "updated_at": "2026-08-24T11:58:45.333437+00:00"
+      "updated_at": "2026-08-24T12:41:06.943218+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-24T11:58:45.512475+00:00",
+      "updated_at": "2026-08-24T12:41:07.151973+00:00",
       "items": [
         {
           "title": "Urban Company shares surge 7% to 11-month high, rally 16% in 2 sessions. Here are 2 reasons why",
@@ -713,7 +656,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-24T11:58:45.931399+00:00",
+      "updated_at": "2026-08-24T12:41:07.395749+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +737,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-24T11:58:46.349036+00:00",
+      "updated_at": "2026-08-24T12:41:07.552824+00:00",
       "items": [
+        {
+          "title": "US stock market today: Wall Street futures slip as tech rout, Iran tensions and bond yields weigh",
+          "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-futures-slip-as-tech-rout-iran-tensions-and-bond-yields-weigh-11787385929496.html",
+          "pubDate": "2026-08-24T18:05:14+05:30"
+        },
         {
           "title": "Bajaj Finance, HDFC Life to Nippon Life India AMC: Mirae Asset Sharekhan recommends 11 BFSI stocks to buy for long term",
           "link": "https://www.livemint.com/market/stock-market-news/bajaj-finance-hdfc-life-to-nippon-life-india-amc-mirae-asset-sharekhan-recommends-11-bfsi-stocks-to-buy-for-long-term-11787568683714.html",
@@ -940,18 +888,58 @@
           "title": "Priority Jewels IPO price band set at  ₹190- ₹200. Here's date, size &amp; other key details",
           "link": "https://www.livemint.com/market/ipo/priority-jewels-ipo-price-band-set-at-190-200-heres-date-size-other-key-details-11787540369833.html",
           "pubDate": "2026-08-24T08:44:21+05:30"
-        },
-        {
-          "title": "Rays of Belief IPO: Price band set at  ₹227-239 per share; check key dates, issue details",
-          "link": "https://www.livemint.com/market/ipo/rays-of-belief-ipo-price-band-set-at-rs-227-239-per-share-check-key-dates-issue-details-11787539870153.html",
-          "pubDate": "2026-08-24T08:42:24+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-24T11:58:46.501734+00:00",
+      "updated_at": "2026-08-24T12:41:07.666857+00:00",
       "items": [
+        {
+          "title": "Brigade Hotel Ventures appoints Vinay Gupta as CEO",
+          "link": "https://www.business-standard.com/markets/capital-market-news/brigade-hotel-ventures-appoints-vinay-gupta-as-ceo-126082400975_1.html",
+          "pubDate": "2026-08-24T18:04:01+05:30"
+        },
+        {
+          "title": "INR settles marginally lower as local equities turn weak",
+          "link": "https://www.business-standard.com/markets/capital-market-news/inr-settles-marginally-lower-as-local-equities-turn-weak-126082400955_1.html",
+          "pubDate": "2026-08-24T17:50:26+05:30"
+        },
+        {
+          "title": "Pace Digitek arm secures BESS project of Rs 93 cr",
+          "link": "https://www.business-standard.com/markets/capital-market-news/pace-digitek-arm-secures-bess-project-of-rs-93-cr-126082400954_1.html",
+          "pubDate": "2026-08-24T17:50:19+05:30"
+        },
+        {
+          "title": "TCS inks 5-year strategic deal with Porsche AG",
+          "link": "https://www.business-standard.com/markets/capital-market-news/tcs-inks-5-year-strategic-deal-with-porsche-ag-126082400953_1.html",
+          "pubDate": "2026-08-24T17:50:10+05:30"
+        },
+        {
+          "title": "Tempsens Instruments (India) IPO subscribed 184.07 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/tempsens-instruments-india-ipo-subscribed-184-07-times-126082400952_1.html",
+          "pubDate": "2026-08-24T17:50:02+05:30"
+        },
+        {
+          "title": "CSM Technologies to adopt MOSIP framework to strengthen its DPI capabilities",
+          "link": "https://www.business-standard.com/markets/capital-market-news/csm-technologies-to-adopt-mosip-framework-to-strengthen-its-dpi-capabilities-126082400918_1.html",
+          "pubDate": "2026-08-24T17:31:30+05:30"
+        },
+        {
+          "title": "Tolins Group to establish reclaim rubber manufacturing unit in Kerala",
+          "link": "https://www.business-standard.com/markets/capital-market-news/tolins-group-to-establish-reclaim-rubber-manufacturing-unit-in-kerala-126082400917_1.html",
+          "pubDate": "2026-08-24T17:31:21+05:30"
+        },
+        {
+          "title": "Augmont Enterprises IPO subscribed 14.46 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/augmont-enterprises-ipo-subscribed-14-46-times-126082400916_1.html",
+          "pubDate": "2026-08-24T17:31:11+05:30"
+        },
+        {
+          "title": "Symbiotec Pharmalab IPO subscribed 80%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/symbiotec-pharmalab-ipo-subscribed-80-126082400915_1.html",
+          "pubDate": "2026-08-24T17:31:01+05:30"
+        },
         {
           "title": "Skyways Air Services IPO subscribed 1.16 times",
           "link": "https://www.business-standard.com/markets/capital-market-news/skyways-air-services-ipo-subscribed-1-16-times-126082400884_1.html",
@@ -1056,58 +1044,38 @@
           "title": "Air passenger services see sharp spike, according to Service Producer Price Index",
           "link": "https://www.business-standard.com/markets/capital-market-news/air-passenger-services-see-sharp-spike-according-to-service-producer-price-index-126082400648_1.html",
           "pubDate": "2026-08-24T15:18:09+05:30"
-        },
-        {
-          "title": "ICRA upgrades ratings of iValue Infosolutions to 'A+/A1+' with 'stable' outlook",
-          "link": "https://www.business-standard.com/markets/capital-market-news/icra-upgrades-ratings-of-ivalue-infosolutions-to-a-a1-with-stable-outlook-126082400646_1.html",
-          "pubDate": "2026-08-24T15:18:01+05:30"
-        },
-        {
-          "title": "Tempsens Instruments IPO booked 132x so far on final day; GMP at 107%",
-          "link": "https://www.business-standard.com/markets/ipo/tempsens-instruments-ipo-booked-132x-so-far-on-final-day-gmp-at-107-126082400644_1.html",
-          "pubDate": "2026-08-24T15:16:39+05:30"
-        },
-        {
-          "title": "Volumes jump at L T Foods Ltd counter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/volumes-jump-at-l-t-foods-ltd-counter-126082400643_1.html",
-          "pubDate": "2026-08-24T15:16:02+05:30"
-        },
-        {
-          "title": "UPI Transaction Value soared from Rs 0.07 lakh crore in FY17 to Rs 314 lakh crore in FY26",
-          "link": "https://www.business-standard.com/markets/capital-market-news/upi-transaction-value-soared-from-rs-0-07-lakh-crore-in-fy17-to-rs-314-lakh-crore-in-fy26-126082400614_1.html",
-          "pubDate": "2026-08-24T15:04:01+05:30"
-        },
-        {
-          "title": "DJ Mediaprint & Logistics Ltd leads losers in 'B' group",
-          "link": "https://www.business-standard.com/markets/capital-market-news/dj-mediaprint-logistics-ltd-leads-losers-in-b-group-126082400598_1.html",
-          "pubDate": "2026-08-24T14:50:12+05:30"
-        },
-        {
-          "title": "Nifty trades below 24,200 level; media share decline",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-below-24-200-level-media-share-decline-126082400597_1.html",
-          "pubDate": "2026-08-24T14:50:02+05:30"
-        },
-        {
-          "title": "Ratnamani Metals & Tubes arm wins export orders worth Rs 2,700 cr",
-          "link": "https://www.business-standard.com/markets/capital-market-news/ratnamani-metals-tubes-arm-wins-export-orders-worth-rs-2-700-cr-126082400571_1.html",
-          "pubDate": "2026-08-24T14:31:10+05:30"
-        },
-        {
-          "title": "Heranba Industries spurts as Q1 PAT rises 17.1% YoY",
-          "link": "https://www.business-standard.com/markets/capital-market-news/heranba-industries-spurts-as-q1-pat-rises-17-1-yoy-126082400570_1.html",
-          "pubDate": "2026-08-24T14:31:02+05:30"
-        },
-        {
-          "title": "Crisil Ratings reaffirms ratings of Hirect at 'BBB/A2' with 'stable' outlook",
-          "link": "https://www.business-standard.com/markets/capital-market-news/crisil-ratings-reaffirms-ratings-of-hirect-at-bbb-a2-with-stable-outlook-126082400554_1.html",
-          "pubDate": "2026-08-24T14:16:44+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-24T11:58:48.735235+00:00",
+      "updated_at": "2026-08-24T12:41:08.120195+00:00",
       "items": [
+        {
+          "title": "Auction of Government of India Dated Security",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63437",
+          "pubDate": "2026-08-24T18:05:00+00:00"
+        },
+        {
+          "title": "All-India House Price Index for Q1:2026-27",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63436",
+          "pubDate": "2026-08-24T17:30:00+00:00"
+        },
+        {
+          "title": "RBI imposes monetary penalty on Vikas Souharda Co-operative Bank Limited, Hosapete, Karnataka",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63435",
+          "pubDate": "2026-08-24T17:25:00+00:00"
+        },
+        {
+          "title": "RBI imposes monetary penalty on The Pragathi Co-operative Bank Limited, Karnataka",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63434",
+          "pubDate": "2026-08-24T17:20:00+00:00"
+        },
+        {
+          "title": "RBI imposes monetary penalty on Shri Vijay Mahantesh Co-operative Bank Limited, Hungund, Karnataka",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63433",
+          "pubDate": "2026-08-24T17:15:00+00:00"
+        },
         {
           "title": "Money Market Operations as on August 23, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63432",
@@ -1132,31 +1100,6 @@
           "title": "Result of the 7-day Variable Rate Reverse Repo (VRRR) auction held on August 24, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63428",
           "pubDate": "2026-08-24T10:20:00+00:00"
-        },
-        {
-          "title": "Money Market Operations as on August 21, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63427",
-          "pubDate": "2026-08-24T09:00:00+00:00"
-        },
-        {
-          "title": "Data on Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63426",
-          "pubDate": "2026-08-22T13:55:00+00:00"
-        },
-        {
-          "title": "Auction of State Government Securities",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63425",
-          "pubDate": "2026-08-21T20:15:00+00:00"
-        },
-        {
-          "title": "RBI to conduct 7-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 24, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63424",
-          "pubDate": "2026-08-21T19:15:00+00:00"
-        },
-        {
-          "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63423",
-          "pubDate": "2026-08-21T19:10:00+00:00"
         }
       ]
     }

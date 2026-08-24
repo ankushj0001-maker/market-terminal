@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T17:42:13.682063+00:00",
+  "generated_at": "2026-08-24T18:02:35.855287+00:00",
   "indices": {
     "nifty50": {
       "price": 24219.05,
@@ -68,7 +68,7 @@
         24219.05078125
       ],
       "ok": true,
-      "updated_at": "2026-08-24T17:42:11.223118+00:00"
+      "updated_at": "2026-08-24T18:02:33.687719+00:00"
     },
     "sensex": {
       "price": 77369.11,
@@ -137,7 +137,7 @@
         77369.109375
       ],
       "ok": true,
-      "updated_at": "2026-08-24T17:42:11.333933+00:00"
+      "updated_at": "2026-08-24T18:02:33.791137+00:00"
     },
     "banknifty": {
       "price": 57525.95,
@@ -206,7 +206,7 @@
         57525.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-24T17:42:11.400190+00:00"
+      "updated_at": "2026-08-24T18:02:33.861253+00:00"
     },
     "vix": {
       "price": 11.525,
@@ -275,12 +275,12 @@
         11.524999618530273
       ],
       "ok": true,
-      "updated_at": "2026-08-24T17:42:11.464719+00:00"
+      "updated_at": "2026-08-24T18:02:33.918869+00:00"
     },
     "usdinr": {
-      "price": 95.74,
-      "change": 0.05,
-      "pct": 0.0523,
+      "price": 95.735,
+      "change": 0.045,
+      "pct": 0.047,
       "closes": [
         95.68000030517578,
         95.68000030517578,
@@ -341,20 +341,16 @@
         95.73500061035156,
         95.73500061035156,
         95.73999786376953,
-        95.73999786376953
+        95.73500061035156
       ],
       "ok": true,
-      "updated_at": "2026-08-24T17:42:11.608209+00:00"
+      "updated_at": "2026-08-24T18:02:33.991380+00:00"
     },
     "gold": {
-      "price": 4697.6,
-      "change": 17.0,
-      "pct": 0.3632,
+      "price": 4692.2,
+      "change": 11.6,
+      "pct": 0.2478,
       "closes": [
-        4715.0,
-        4719.7001953125,
-        4724.7001953125,
-        4720.7001953125,
         4724.60009765625,
         4731.39990234375,
         4734.89990234375,
@@ -410,20 +406,20 @@
         4693.10009765625,
         4695.2998046875,
         4694.5,
-        4697.60009765625
+        4697.7001953125,
+        4695.5,
+        4690.2998046875,
+        4690.7001953125,
+        4692.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-24T17:42:11.707481+00:00"
+      "updated_at": "2026-08-24T18:02:34.086930+00:00"
     },
     "crude": {
-      "price": 84.88,
-      "change": -2.18,
-      "pct": -2.504,
+      "price": 84.8,
+      "change": -2.26,
+      "pct": -2.5959,
       "closes": [
-        85.52999877929688,
-        85.62000274658203,
-        85.55999755859375,
-        85.56999969482422,
         85.52999877929688,
         85.5,
         85.63999938964844,
@@ -479,20 +475,20 @@
         84.8499984741211,
         84.8499984741211,
         85.01000213623047,
-        84.87999725341797
+        84.97000122070312,
+        84.88999938964844,
+        84.91000366210938,
+        84.75,
+        84.80000305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-24T17:42:11.802452+00:00"
+      "updated_at": "2026-08-24T18:02:34.167417+00:00"
     },
     "us10y": {
-      "price": 4.698,
-      "change": -0.04,
-      "pct": -0.8442,
+      "price": 4.7,
+      "change": -0.038,
+      "pct": -0.802,
       "closes": [
-        4.706000328063965,
-        4.711999893188477,
-        4.711999893188477,
-        4.711999893188477,
         4.7139997482299805,
         4.7139997482299805,
         4.716000080108643,
@@ -547,17 +543,21 @@
         4.691999912261963,
         4.691999912261963,
         4.699999809265137,
-        4.697999954223633,
-        4.697999954223633
+        4.699999809265137,
+        4.699999809265137,
+        4.699999809265137,
+        4.699999809265137,
+        4.699999809265137,
+        4.699999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-24T17:42:11.870996+00:00"
+      "updated_at": "2026-08-24T18:02:34.235866+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-24T17:42:12.151489+00:00",
+      "updated_at": "2026-08-24T18:02:34.360469+00:00",
       "items": [
         {
           "title": "Sebi drops proceedings against Max Financial, Axis Bank in Max Life deal case",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-24T17:42:12.437407+00:00",
+      "updated_at": "2026-08-24T18:02:34.689989+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-24T17:42:12.634655+00:00",
+      "updated_at": "2026-08-24T18:02:34.832394+00:00",
       "items": [
+        {
+          "title": "Sebi drops fraud, disclosure charges in Max-Axis Bank case",
+          "link": "https://www.livemint.com/market/sebi-drops-fraud-disclosure-charges-in-max-axis-bank-case-11787591557710.html",
+          "pubDate": "2026-08-24T23:30:25+05:30"
+        },
         {
           "title": "Shein IPO: Fast fashion retailer eyes $27 billion price tag in long-awaited Hong Kong listing — What we know",
           "link": "https://www.livemint.com/market/ipo/shein-ipo-fast-fashion-retailer-27-billion-price-tag-valuation-long-wait-hong-kong-public-listing-stock-markets-investor-11787578639325.html",
@@ -940,17 +945,12 @@
           "title": "Upper circuit! Why Vishal Mega Mart share price surged today - Rally drive rationale explained",
           "link": "https://www.livemint.com/market/stock-market-news/why-vishal-mega-mart-share-price-is-rising-today-stock-hits-the-upper-circuit-11787547310653.html",
           "pubDate": "2026-08-24T10:32:19+05:30"
-        },
-        {
-          "title": "Gaja Alternative Asset Management IPO allotment in focus, GMP signals 12% listing pop | guide to check status online",
-          "link": "https://www.livemint.com/market/ipo/gaja-alternative-asset-management-ipo-allotment-status-in-focus-gmp-signals-12-listing-pop-guide-to-check-status-11787544644821.html",
-          "pubDate": "2026-08-24T10:28:31+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-24T17:42:12.772664+00:00",
+      "updated_at": "2026-08-24T18:02:35.089953+00:00",
       "items": [
         {
           "title": "JPMorgan India unit to argue that any regulatory breach was technical",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-24T17:42:13.682045+00:00",
+      "updated_at": "2026-08-24T18:02:35.855270+00:00",
       "items": [
         {
           "title": "RBI to conduct 2-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 25, 2026",

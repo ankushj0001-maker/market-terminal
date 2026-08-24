@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T02:05:50.082122+00:00",
+  "generated_at": "2026-08-24T03:13:36.241522+00:00",
   "indices": {
     "nifty50": {
       "price": 24252.0,
@@ -68,7 +68,7 @@
         24252.0
       ],
       "ok": true,
-      "updated_at": "2026-08-24T02:05:47.621187+00:00"
+      "updated_at": "2026-08-24T03:13:34.299964+00:00"
     },
     "sensex": {
       "price": 77540.83,
@@ -137,7 +137,7 @@
         77540.828125
       ],
       "ok": true,
-      "updated_at": "2026-08-24T02:05:47.735295+00:00"
+      "updated_at": "2026-08-24T03:13:34.354230+00:00"
     },
     "banknifty": {
       "price": 57761.95,
@@ -206,7 +206,7 @@
         57761.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-24T02:05:47.842037+00:00"
+      "updated_at": "2026-08-24T03:13:34.409129+00:00"
     },
     "vix": {
       "price": 11.195,
@@ -275,7 +275,7 @@
         11.194999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-24T02:05:47.945548+00:00"
+      "updated_at": "2026-08-24T03:13:34.473924+00:00"
     },
     "usdinr": {
       "price": 95.68,
@@ -283,15 +283,17 @@
       "pct": -0.0105,
       "closes": [
         95.68000030517578,
+        95.68000030517578,
+        95.68000030517578,
         95.68000030517578
       ],
       "ok": true,
-      "updated_at": "2026-08-24T02:05:48.136250+00:00"
+      "updated_at": "2026-08-24T03:13:34.526214+00:00"
     },
     "gold": {
-      "price": 4683.2,
-      "change": 2.6,
-      "pct": 0.0555,
+      "price": 4697.3,
+      "change": 16.7,
+      "pct": 0.3568,
       "closes": [
         4675.39990234375,
         4675.7998046875,
@@ -338,16 +340,29 @@
         4674.60009765625,
         4675.39990234375,
         4685.2998046875,
-        4685.0,
-        4683.2001953125
+        4688.60009765625,
+        4693.60009765625,
+        4699.2001953125,
+        4707.5,
+        4711.0,
+        4711.10009765625,
+        4712.2998046875,
+        4708.7001953125,
+        4702.5,
+        4694.89990234375,
+        4685.5,
+        4695.0,
+        4700.39990234375,
+        4697.7998046875,
+        4697.2998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-24T02:05:48.242084+00:00"
+      "updated_at": "2026-08-24T03:13:34.580129+00:00"
     },
     "crude": {
-      "price": 85.33,
-      "change": -1.73,
-      "pct": -1.9871,
+      "price": 85.69,
+      "change": -1.37,
+      "pct": -1.5736,
       "closes": [
         86.4000015258789,
         86.38999938964844,
@@ -394,11 +409,24 @@
         85.30000305175781,
         85.30000305175781,
         85.37999725341797,
-        85.3499984741211,
-        85.33000183105469
+        85.36000061035156,
+        85.27999877929688,
+        85.4000015258789,
+        85.33000183105469,
+        85.37000274658203,
+        85.48999786376953,
+        85.51000213623047,
+        85.66000366210938,
+        85.61000061035156,
+        85.61000061035156,
+        85.55999755859375,
+        85.63999938964844,
+        85.69000244140625,
+        85.70999908447266,
+        85.69000244140625
       ],
       "ok": true,
-      "updated_at": "2026-08-24T02:05:48.350737+00:00"
+      "updated_at": "2026-08-24T03:13:34.632479+00:00"
     },
     "us10y": {
       "price": 4.738,
@@ -467,28 +495,28 @@
         4.73799991607666
       ],
       "ok": true,
-      "updated_at": "2026-08-24T02:05:48.456898+00:00"
+      "updated_at": "2026-08-24T03:13:34.689349+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-24T02:05:48.646606+00:00",
+      "updated_at": "2026-08-24T03:13:34.735403+00:00",
       "items": [
         {
-          "title": "'It's a Carry World': EM trade notches longest run since 2008",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/its-a-carry-world-em-trade-notches-longest-run-since-2008/articleshow/133449002.cms",
-          "pubDate": "2026-08-24T06:42:37+05:30"
+          "title": "Nifty’s rally hinges on a break above the key 24,350–24,400 resistance zone",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/niftys-rally-hinges-on-a-break-above-the-key-2435024400-resistance-zone/articleshow/133449178.cms",
+          "pubDate": "2026-08-24T07:41:49+05:30"
+        },
+        {
+          "title": "Negative Breakout: These 7 stocks cross below their 200 DMAs",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-7-stocks-cross-below-their-200-dmas/aditya-birla-real-estate/slideshow/133449382.cms",
+          "pubDate": "2026-08-24T07:37:40+05:30"
         },
         {
           "title": "Derivatives get gen Z twist, but losses cast a long shadow: Sebi",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/derivatives-get-gen-z-twist-but-losses-cast-a-long-shadow-sebi/articleshow/133448921.cms",
           "pubDate": "2026-08-24T06:36:12+05:30"
-        },
-        {
-          "title": "Global Market Today: Asian stocks dip with AI in focus, oil declines",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-dip-with-ai-in-focus-oil-declines/articleshow/133448923.cms",
-          "pubDate": "2026-08-24T06:33:43+05:30"
         },
         {
           "title": "IPO rush continues: 10 issues to raise over Rs 3,500 crore this week",
@@ -628,7 +656,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-24T02:05:48.971197+00:00",
       "items": [
         {
@@ -710,8 +738,58 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-24T02:05:49.098540+00:00",
+      "updated_at": "2026-08-24T03:13:35.343704+00:00",
       "items": [
+        {
+          "title": "FTSE’s Reshuffle May Give Vietnam Stocks a $3 Billion Boost",
+          "link": "https://www.livemint.com/market/ftses-reshuffle-may-give-vietnam-stocks-a-3-billion-boost-11787540652711.html",
+          "pubDate": "2026-08-24T08:34:12+05:30"
+        },
+        {
+          "title": "Tempsens Instruments IPO Day 3: Issue booked 21.66x so far. Here's GMP, review, other key details - Apply or not?",
+          "link": "https://www.livemint.com/market/ipo/tempsens-instruments-ipo-day-3-issue-booked-21-66x-so-far-heres-gmp-review-other-key-details-apply-or-not-11787538665690.html",
+          "pubDate": "2026-08-24T08:23:02+05:30"
+        },
+        {
+          "title": "Stock market today: Gift Nifty hints a flat-to-positive start; eight day trading stocks to buy on Monday, 24 August",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-a-flat-to-positive-start-eight-day-trading-stocks-to-buy-on-monday-24-august-11787537236634.html",
+          "pubDate": "2026-08-24T08:12:31+05:30"
+        },
+        {
+          "title": "Buy or sell: Gift Nifty signals gap-up start | Vaishali Parekh recommends three stocks to buy today — 24 August 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-gap-up-start-vaishali-parekh-recommends-three-stocks-to-buy-today-24-august-2026-11787535479845.html",
+          "pubDate": "2026-08-24T07:48:07+05:30"
+        },
+        {
+          "title": "Stocks to watch: Reliance Industries, Power Grid, IREDA among shares to be in focus today. Details here",
+          "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-reliance-industries-power-grid-ireda-among-shares-to-be-in-focus-today-details-here-11787536183776.html",
+          "pubDate": "2026-08-24T07:43:26+05:30"
+        },
+        {
+          "title": "BOJ Set to Offer Clues as Markets Bet Heavily on September Hike",
+          "link": "https://www.livemint.com/market/boj-set-to-offer-clues-as-markets-bet-heavily-on-september-hike-11787537557020.html",
+          "pubDate": "2026-08-24T07:42:36+05:30"
+        },
+        {
+          "title": "Taiwan Dollar’s August Rebound Is Looking Fragile, Analysts Say",
+          "link": "https://www.livemint.com/market/taiwan-dollar-s-august-rebound-is-looking-fragile-analysts-say-11787537551629.html",
+          "pubDate": "2026-08-24T07:42:31+05:30"
+        },
+        {
+          "title": "Hedge Funds Ramp Up Dollar Shorts Ahead of Bessent’s Fiscal Plan",
+          "link": "https://www.livemint.com/market/hedge-funds-ramp-up-dollar-shorts-ahead-of-bessent-s-fiscal-plan-11787537552046.html",
+          "pubDate": "2026-08-24T07:42:31+05:30"
+        },
+        {
+          "title": "India’s $10 Billion Equity Rush Puts August on Track for Record",
+          "link": "https://www.livemint.com/market/indias-10-billion-equity-rush-puts-august-on-track-for-record-11787537487806.html",
+          "pubDate": "2026-08-24T07:41:27+05:30"
+        },
+        {
+          "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 24 August",
+          "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-24-august-11787535334144.html",
+          "pubDate": "2026-08-24T07:33:40+05:30"
+        },
         {
           "title": "From Gift Nifty to crude oil prices, gold prices: 6 key things that changed for Indian stock market overnight",
           "link": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-crude-oil-prices-gold-prices-6-key-things-that-changed-for-indian-stock-market-overnight-11787533966868.html",
@@ -811,63 +889,53 @@
           "title": "Upcoming IPOs: Symbiotec Pharmalab IPO, Skyways Air Services IPO among 10 new issues to open next week; full list here",
           "link": "https://www.livemint.com/market/ipo/upcoming-ipos-symbiotec-pharmalab-ipo-skyways-air-services-ipo-among-10-new-issues-to-open-next-week-full-list-here-11787471553011.html",
           "pubDate": "2026-08-23T15:30:57+05:30"
-        },
-        {
-          "title": "Mcap of four of top-10 most valued firms erodes  ₹87,960 crore; Airtel takes biggest hit",
-          "link": "https://www.livemint.com/market/stock-market-news/mcap-four-top-10-most-valued-firms-erodes-rs-87960-crore-airtel-biggest-hit-indian-markets-crude-oil-tcs-sbi-hul-lic-ril-11787474680284.html",
-          "pubDate": "2026-08-23T14:40:04+05:30"
-        },
-        {
-          "title": "Penny stock under  ₹10 to be in focus on Monday | Here's why",
-          "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-axita-cotton-to-be-in-focus-on-monday-heres-why-11787473728032.html",
-          "pubDate": "2026-08-23T14:26:26+05:30"
-        },
-        {
-          "title": "Upcoming IPO: Gemini Edibles &amp; Fats India files draft papers to raise funds via public issue. Details here",
-          "link": "https://www.livemint.com/market/ipo/upcoming-ipo-gemini-edibles-fats-india-files-draft-papers-to-raise-funds-via-public-issue-details-here-11787469576854.html",
-          "pubDate": "2026-08-23T13:05:20+05:30"
-        },
-        {
-          "title": "Stock market holiday: Will the NSE, BSE remain closed on Friday next week for Raksha Bandhan?",
-          "link": "https://www.livemint.com/market/stock-market-news/stock-market-holiday-will-the-nse-bse-remain-closed-on-friday-next-week-for-raksha-bandhan-11787465524134.html",
-          "pubDate": "2026-08-23T12:35:16+05:30"
-        },
-        {
-          "title": "US-Iran war: Crude oil price is key | Is Tehran writing the obituary of Turkey-Pakistan-Saudi Arabia's defence pact?",
-          "link": "https://www.livemint.com/market/commodities/us-iran-war-crude-oil-price-is-key-is-tehran-writing-the-obituary-of-turkey-pakistan-saudi-arabias-defence-pact-11787455149964.html",
-          "pubDate": "2026-08-23T11:34:03+05:30"
-        },
-        {
-          "title": "Stocks under  ₹100: Sumeet Bagadia recommends three shares to buy on Monday - 24 August 2026",
-          "link": "https://www.livemint.com/market/stock-market-news/stocks-under-rs-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-24-august-2026-11787462320209.html",
-          "pubDate": "2026-08-23T11:07:11+05:30"
-        },
-        {
-          "title": "Buy or sell: Ganesh Dongre of Anand Rathi recommends 3 stocks to buy on Monday - 24 August 2026",
-          "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-3-stocks-to-buy-on-monday-24-august-2026-11787460916220.html",
-          "pubDate": "2026-08-23T10:44:05+05:30"
-        },
-        {
-          "title": "US Fed chair Warsh's speech to US-Iran war: Top five triggers that may dictate the Indian stock market this week",
-          "link": "https://www.livemint.com/market/stock-market-news/us-fed-chair-warshs-speech-to-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11787453214240.html",
-          "pubDate": "2026-08-23T09:31:53+05:30"
-        },
-        {
-          "title": "Stock Market prediction for tomorrow, 24 August 2026: Sensex, Nifty outlook for Monday — US, South Korea, Taiwan cues",
-          "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-tomorrow-24-august-2026-sensex-nifty-outlook-for-monday-us-south-korea-taiwan-cues-11787450741265.html",
-          "pubDate": "2026-08-23T08:46:40+05:30"
-        },
-        {
-          "title": "Welspun Corp leads as over 10 Nifty 500 stocks gain 10–23% this week despite market volatility",
-          "link": "https://www.livemint.com/market/stock-market-news/welspun-corp-leads-as-over-10-nifty-500-stocks-gain-10-23-this-week-despite-market-volatility-11787385989520.html",
-          "pubDate": "2026-08-23T07:00:41+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-24T02:05:49.230158+00:00",
+      "updated_at": "2026-08-24T03:13:35.397238+00:00",
       "items": [
+        {
+          "title": "Sandur Manganese forays into hospitality with new wholly owned subsidiary",
+          "link": "https://www.business-standard.com/markets/capital-market-news/sandur-manganese-forays-into-hospitality-with-new-wholly-owned-subsidiary-126082400083_1.html",
+          "pubDate": "2026-08-24T08:31:02+05:30"
+        },
+        {
+          "title": "Prestige Estates and PB Fintech among top picks by Choice Broking",
+          "link": "https://www.business-standard.com/markets/news/prestige-estates-and-pb-fintech-among-top-picks-by-choice-borking-126082400068_1.html",
+          "pubDate": "2026-08-24T08:10:58+05:30"
+        },
+        {
+          "title": "Stocks to watch: ZEEL, Vodafone Idea, Jubilant Pharmova, Power Grid, BoB",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-today-zeel-vodafone-idea-jubilant-pharmova-power-grid-126082400067_1.html",
+          "pubDate": "2026-08-24T08:05:36+05:30"
+        },
+        {
+          "title": "Stock Market LIVE: GIFT Nifty signals higher open; Asia mkts mixed; Bessent to declare Iran sanction",
+          "link": "https://www.business-standard.com/markets/news/stock-market-live-august-24-nse-bse-sensex-today-nifty50-gift-nifty-hy-tech-engineers-ipo-gmp-today-126082400062_1.html",
+          "pubDate": "2026-08-24T08:01:15+05:30"
+        },
+        {
+          "title": "India's $10 billion equity rush puts August on track for a record month",
+          "link": "https://www.business-standard.com/markets/news/india-s-10-billion-equity-rush-puts-august-on-track-for-a-record-month-126082400063_1.html",
+          "pubDate": "2026-08-24T07:47:41+05:30"
+        },
+        {
+          "title": "KFintech, Affle 3i: Two breakout ideas from Angel One",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-buy-today-two-breakout-ideas-from-angel-one-126082400061_1.html",
+          "pubDate": "2026-08-24T07:45:35+05:30"
+        },
+        {
+          "title": "Asian shares flat ahead of expected US sanctions on Iran, Nvidia results",
+          "link": "https://www.business-standard.com/markets/news/asian-shares-flat-ahead-of-expected-us-sanctions-on-iran-nvidia-results-126082400051_1.html",
+          "pubDate": "2026-08-24T07:40:12+05:30"
+        },
+        {
+          "title": "Oil prices fall ahead of expected US announcement on new Iran sanctions",
+          "link": "https://www.business-standard.com/markets/commodities/oil-prices-fall-ahead-of-expected-us-announcement-on-new-iran-sanctions-126082400049_1.html",
+          "pubDate": "2026-08-24T07:37:36+05:30"
+        },
         {
           "title": "Derivatives market gets Gen Z twist, but losses cast a long shadow: Sebi",
           "link": "https://www.business-standard.com/markets/news/derivatives-market-gets-gen-z-twist-but-losses-cast-a-long-shadow-sebi-126082300682_1.html",
@@ -977,52 +1045,12 @@
           "title": "ICICI Bank completes issuance of USD 750M Senior Notes",
           "link": "https://www.business-standard.com/markets/capital-market-news/icici-bank-completes-issuance-of-usd-750m-senior-notes-126082200242_1.html",
           "pubDate": "2026-08-22T10:53:23+05:30"
-        },
-        {
-          "title": "Axis Bank allots USD 300M Senior Notes",
-          "link": "https://www.business-standard.com/markets/capital-market-news/axis-bank-allots-usd-300m-senior-notes-126082200201_1.html",
-          "pubDate": "2026-08-22T10:50:02+05:30"
-        },
-        {
-          "title": "Federal Bank's board nod to raise $ 500 mln via GIFT City unit",
-          "link": "https://www.business-standard.com/markets/capital-market-news/federal-bank-s-board-nod-to-raise-500-mln-via-gift-city-unit-126082200182_1.html",
-          "pubDate": "2026-08-22T10:16:54+05:30"
-        },
-        {
-          "title": "Board of Innova Captab approves capacity addition at Baddi factory",
-          "link": "https://www.business-standard.com/markets/capital-market-news/board-of-innova-captab-approves-capacity-addition-at-baddi-factory-126082200157_1.html",
-          "pubDate": "2026-08-22T09:50:07+05:30"
-        },
-        {
-          "title": "Caplin Point Laboratories' arm receives Form 483 with 10 observations from USFDA",
-          "link": "https://www.business-standard.com/markets/capital-market-news/caplin-point-laboratories-arm-receives-form-483-with-10-observations-from-usfda-126082200115_1.html",
-          "pubDate": "2026-08-22T09:04:46+05:30"
-        },
-        {
-          "title": "Flexituff Ventures International reports consolidated net loss of Rs 15.68 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/flexituff-ventures-international-reports-consolidated-net-loss-of-rs-15-68-crore-in-the-june-2026-quarter-126082200114_1.html",
-          "pubDate": "2026-08-22T09:04:36+05:30"
-        },
-        {
-          "title": "Hiranandani Financial Services Pvt standalone net profit rises 115.14% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/hiranandani-financial-services-pvt-standalone-net-profit-rises-115-14-in-the-june-2026-quarter-126082200113_1.html",
-          "pubDate": "2026-08-22T09:04:29+05:30"
-        },
-        {
-          "title": "Andhra Pradesh State Beverages Corporation standalone net profit declines 61.69% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/andhra-pradesh-state-beverages-corporation-standalone-net-profit-declines-61-69-in-the-june-2026-quarter-126082200112_1.html",
-          "pubDate": "2026-08-22T09:04:02+05:30"
-        },
-        {
-          "title": "Innovision receives toll collection mandate for Etaura Bujurg & Akhtiyari Kotila fee plaza",
-          "link": "https://www.business-standard.com/markets/capital-market-news/innovision-receives-toll-collection-mandate-for-etaura-bujurg-akhtiyari-kotila-fee-plaza-126082101218_1.html",
-          "pubDate": "2026-08-21T19:31:32+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-24T02:05:50.082109+00:00",
+      "updated_at": "2026-08-24T03:13:36.241505+00:00",
       "items": [
         {
           "title": "Data on Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",

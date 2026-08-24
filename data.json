@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T18:55:48.422430+00:00",
+  "generated_at": "2026-08-24T19:20:40.573885+00:00",
   "indices": {
     "nifty50": {
       "price": 24219.05,
@@ -68,7 +68,7 @@
         24219.05078125
       ],
       "ok": true,
-      "updated_at": "2026-08-24T18:55:45.579840+00:00"
+      "updated_at": "2026-08-24T19:20:38.014954+00:00"
     },
     "sensex": {
       "price": 77369.11,
@@ -137,7 +137,7 @@
         77369.109375
       ],
       "ok": true,
-      "updated_at": "2026-08-24T18:55:45.710214+00:00"
+      "updated_at": "2026-08-24T19:20:38.154096+00:00"
     },
     "banknifty": {
       "price": 57525.95,
@@ -206,7 +206,7 @@
         57525.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-24T18:55:45.844513+00:00"
+      "updated_at": "2026-08-24T19:20:38.288763+00:00"
     },
     "vix": {
       "price": 11.525,
@@ -275,7 +275,7 @@
         11.524999618530273
       ],
       "ok": true,
-      "updated_at": "2026-08-24T18:55:46.012949+00:00"
+      "updated_at": "2026-08-24T19:20:38.419732+00:00"
     },
     "usdinr": {
       "price": 95.735,
@@ -344,18 +344,13 @@
         95.73500061035156
       ],
       "ok": true,
-      "updated_at": "2026-08-24T18:55:46.122143+00:00"
+      "updated_at": "2026-08-24T19:20:38.565102+00:00"
     },
     "gold": {
-      "price": 4691.5,
-      "change": 10.9,
-      "pct": 0.2329,
+      "price": 4694.3,
+      "change": 13.7,
+      "pct": 0.2927,
       "closes": [
-        4721.7998046875,
-        4719.7001953125,
-        4727.7001953125,
-        4722.2001953125,
-        4722.7001953125,
         4723.7001953125,
         4729.0,
         4733.89990234375,
@@ -410,21 +405,21 @@
         4686.60009765625,
         4691.10009765625,
         4689.39990234375,
-        4691.5
+        4689.7001953125,
+        4693.0,
+        4695.39990234375,
+        4694.7998046875,
+        4692.5,
+        4694.2998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-24T18:55:46.311489+00:00"
+      "updated_at": "2026-08-24T19:20:38.730531+00:00"
     },
     "crude": {
-      "price": 85.18,
-      "change": -1.88,
-      "pct": -2.1594,
+      "price": 85.25,
+      "change": -1.81,
+      "pct": -2.079,
       "closes": [
-        85.41999816894531,
-        85.38999938964844,
-        85.44000244140625,
-        85.29000091552734,
-        85.3499984741211,
         85.25,
         85.16999816894531,
         84.91999816894531,
@@ -479,19 +474,21 @@
         85.0999984741211,
         85.16999816894531,
         85.22000122070312,
-        85.18000030517578
+        85.20999908447266,
+        85.18000030517578,
+        85.2300033569336,
+        85.23999786376953,
+        85.23999786376953,
+        85.25
       ],
       "ok": true,
-      "updated_at": "2026-08-24T18:55:46.433390+00:00"
+      "updated_at": "2026-08-24T19:20:38.892570+00:00"
     },
     "us10y": {
-      "price": 4.7,
-      "change": -0.038,
-      "pct": -0.802,
+      "price": 4.704,
+      "change": -0.034,
+      "pct": -0.7176,
       "closes": [
-        4.697999954223633,
-        4.696000099182129,
-        4.697999954223633,
         4.697999954223633,
         4.699999809265137,
         4.699999809265137,
@@ -548,16 +545,19 @@
         4.699999809265137,
         4.699999809265137,
         4.699999809265137,
+        4.697999954223633,
+        4.697999954223633,
+        4.697999954223633,
         4.699999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-24T18:55:46.614378+00:00"
+      "updated_at": "2026-08-24T19:20:39.027573+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-24T18:55:46.852949+00:00",
+      "updated_at": "2026-08-24T19:20:39.221768+00:00",
       "items": [
         {
           "title": "Sebi drops proceedings against Max Financial, Axis Bank in Max Life deal case",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-24T18:55:47.183656+00:00",
+      "updated_at": "2026-08-24T19:20:39.695661+00:00",
       "items": [
+        {
+          "title": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases",
+          "link": "https://www.livemint.com/market/dollar-higher-after-iran-sanctions-loonie-drops-after-us-announces-tariff-increases-11787599085535.html",
+          "pubDate": "2026-08-25T00:48:05+05:30"
+        },
         {
           "title": "Sebi drops fraud, disclosure charges in Max-Axis Bank case",
           "link": "https://www.livemint.com/market/sebi-drops-fraud-disclosure-charges-in-max-axis-bank-case-11787591557710.html",
@@ -940,17 +945,12 @@
           "title": "Alibaba shares plunge 11% after $10.2 billion share placement to fund AI expansion",
           "link": "https://www.livemint.com/market/stock-market-news/alibaba-shares-plunge-11-after-10-2-billion-share-placement-to-fund-ai-expansion-11787547880961.html",
           "pubDate": "2026-08-24T10:38:39+05:30"
-        },
-        {
-          "title": "Upper circuit! Why Vishal Mega Mart share price surged today - Rally drive rationale explained",
-          "link": "https://www.livemint.com/market/stock-market-news/why-vishal-mega-mart-share-price-is-rising-today-stock-hits-the-upper-circuit-11787547310653.html",
-          "pubDate": "2026-08-24T10:32:19+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-24T18:55:47.445042+00:00",
+      "updated_at": "2026-08-24T19:20:40.165131+00:00",
       "items": [
         {
           "title": "JPMorgan India unit to argue that any regulatory breach was technical",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-24T18:55:48.422412+00:00",
+      "updated_at": "2026-08-24T19:20:40.573871+00:00",
       "items": [
         {
           "title": "RBI to conduct 2-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 25, 2026",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T15:05:47.197655+00:00",
+  "generated_at": "2026-08-24T15:51:39.889442+00:00",
   "indices": {
     "nifty50": {
       "price": 24219.05,
@@ -68,7 +68,7 @@
         24219.05078125
       ],
       "ok": true,
-      "updated_at": "2026-08-24T15:05:43.185577+00:00"
+      "updated_at": "2026-08-24T15:51:36.358791+00:00"
     },
     "sensex": {
       "price": 77369.11,
@@ -137,7 +137,7 @@
         77369.109375
       ],
       "ok": true,
-      "updated_at": "2026-08-24T15:05:43.267298+00:00"
+      "updated_at": "2026-08-24T15:51:36.521504+00:00"
     },
     "banknifty": {
       "price": 57525.95,
@@ -206,7 +206,7 @@
         57525.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-24T15:05:43.367662+00:00"
+      "updated_at": "2026-08-24T15:51:36.675312+00:00"
     },
     "vix": {
       "price": 11.525,
@@ -275,7 +275,7 @@
         11.524999618530273
       ],
       "ok": true,
-      "updated_at": "2026-08-24T15:05:43.497798+00:00"
+      "updated_at": "2026-08-24T15:51:36.848923+00:00"
     },
     "usdinr": {
       "price": 95.735,
@@ -344,22 +344,13 @@
         95.73500061035156
       ],
       "ok": true,
-      "updated_at": "2026-08-24T15:05:43.558340+00:00"
+      "updated_at": "2026-08-24T15:51:37.025406+00:00"
     },
     "gold": {
-      "price": 4725.0,
-      "change": 44.4,
-      "pct": 0.9486,
+      "price": 4723.2,
+      "change": 42.6,
+      "pct": 0.9101,
       "closes": [
-        4704.0,
-        4704.89990234375,
-        4703.60009765625,
-        4701.7998046875,
-        4700.7001953125,
-        4702.5,
-        4705.2998046875,
-        4701.39990234375,
-        4702.5,
         4703.0,
         4700.2998046875,
         4702.60009765625,
@@ -410,25 +401,25 @@
         4722.7001953125,
         4725.5,
         4727.60009765625,
-        4725.0
+        4732.60009765625,
+        4730.60009765625,
+        4730.2998046875,
+        4730.5,
+        4727.10009765625,
+        4732.7001953125,
+        4729.5,
+        4725.10009765625,
+        4718.0,
+        4723.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-24T15:05:43.632988+00:00"
+      "updated_at": "2026-08-24T15:51:37.173498+00:00"
     },
     "crude": {
-      "price": 84.87,
-      "change": -2.19,
-      "pct": -2.5155,
+      "price": 84.74,
+      "change": -2.32,
+      "pct": -2.6648,
       "closes": [
-        84.98999786376953,
-        85.08000183105469,
-        85.06999969482422,
-        85.04000091552734,
-        84.98999786376953,
-        84.97000122070312,
-        84.95999908447266,
-        85.19999694824219,
-        85.22000122070312,
         85.2300033569336,
         85.38999938964844,
         85.20999908447266,
@@ -479,15 +470,24 @@
         85.0199966430664,
         84.86000061035156,
         85.0,
-        84.87000274658203
+        85.13999938964844,
+        84.9800033569336,
+        85.0,
+        85.02999877929688,
+        85.08999633789062,
+        84.44000244140625,
+        84.6500015258789,
+        84.7300033569336,
+        84.81999969482422,
+        84.73999786376953
       ],
       "ok": true,
-      "updated_at": "2026-08-24T15:05:43.697125+00:00"
+      "updated_at": "2026-08-24T15:51:37.337350+00:00"
     },
     "us10y": {
-      "price": 4.7,
-      "change": -0.038,
-      "pct": -0.802,
+      "price": 4.694,
+      "change": -0.044,
+      "pct": -0.9287,
       "closes": [
         4.703999996185303,
         4.703999996185303,
@@ -519,16 +519,26 @@
         4.697999954223633,
         4.699999809265137,
         4.699999809265137,
-        4.699999809265137
+        4.697999954223633,
+        4.702000141143799,
+        4.699999809265137,
+        4.699999809265137,
+        4.697999954223633,
+        4.697999954223633,
+        4.696000099182129,
+        4.688000202178955,
+        4.696000099182129,
+        4.696000099182129,
+        4.693999767303467
       ],
       "ok": true,
-      "updated_at": "2026-08-24T15:05:43.758559+00:00"
+      "updated_at": "2026-08-24T15:51:37.503077+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-24T15:05:43.911705+00:00",
+      "updated_at": "2026-08-24T15:51:37.750924+00:00",
       "items": [
         {
           "title": "PLI 2.0 for mobiles set to reward scale, exports; Dixon a key beneficiary: Motilal Oswal",
@@ -684,7 +694,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-24T15:05:44.409051+00:00",
+      "updated_at": "2026-08-24T15:51:38.235116+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -765,15 +775,20 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-24T15:05:44.673016+00:00",
+      "updated_at": "2026-08-24T15:51:38.573040+00:00",
       "items": [
+        {
+          "title": "Paluck Technologies IPO: BSE SME declares IPO opening date, fixes price band at  ₹46 to  ₹48",
+          "link": "https://www.livemint.com/market/stock-market-news/paluck-technologies-ipo-bse-sme-declares-ipo-opening-date-fixes-price-band-at-rs-46-to-rs-48-11787582226301.html",
+          "pubDate": "2026-08-24T20:40:13+05:30"
+        },
         {
           "title": "Hindustan Copper OFS: Government to sell up to 6% stake at  ₹514 per share, 10% below market price",
           "link": "https://www.livemint.com/market/stock-market-news/hindustan-copper-ofs-government-to-sell-up-to-6-stake-at-rs-514-per-share-10-below-market-price-11787579800581.html",
           "pubDate": "2026-08-24T19:39:23+05:30"
         },
         {
-          "title": "Wall Street stocks fall as Iran tensions, Nvidia earnings and inflation data in focus; Marvell and Micron drop 6% each",
+          "title": "Wall Street stocks mostly fall as Iran tensions, Nvidia earnings in focus; Marvell and Micron drop 6% each",
           "link": "https://www.livemint.com/market/stock-market-news/wall-street-stocks-fall-as-iran-tensions-nvidia-earnings-and-inflation-data-in-focus-11787579304844.html",
           "pubDate": "2026-08-24T19:32:07+05:30"
         },
@@ -911,18 +926,18 @@
           "title": "Horizon Industrial Parks IPO listing: Shares debut flat in a range-bound market",
           "link": "https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-listing-shares-debut-flat-in-a-range-bound-market-11787545062108.html",
           "pubDate": "2026-08-24T10:01:10+05:30"
-        },
-        {
-          "title": "Hy-Tech Engineers IPO Day 1: Issue subscribed 1.18x so far. GMP hints 47% listing gain. Apply or not?",
-          "link": "https://www.livemint.com/market/ipo/hytech-engineers-ipo-day-1-issue-opens-today-gmp-hints-47-listing-gain-apply-or-not-11787542339746.html",
-          "pubDate": "2026-08-24T09:54:57+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-24T15:05:44.829911+00:00",
+      "updated_at": "2026-08-24T15:51:38.827070+00:00",
       "items": [
+        {
+          "title": "Sebi to introduce IT Resilience Index for market infra institutions",
+          "link": "https://www.business-standard.com/markets/news/sebi-to-introduce-it-resilience-index-for-market-infra-institutions-126082400940_1.html",
+          "pubDate": "2026-08-24T20:58:26+05:30"
+        },
         {
           "title": "PFC withdraws three-year bond issue as yields remain elevated in market",
           "link": "https://www.business-standard.com/markets/news/pfc-withdraws-three-year-bond-issue-as-yields-remain-elevated-in-market-126082401105_1.html",
@@ -931,7 +946,7 @@
         {
           "title": "From trades to balance sheets, Sebi widens its AI-powered surveillance net",
           "link": "https://www.business-standard.com/markets/news/from-trades-to-balance-sheets-sebi-widens-its-ai-powered-surveillance-net-126082401060_1.html",
-          "pubDate": "2026-08-24T18:52:01+05:30"
+          "pubDate": "2026-08-24T18:52:59+05:30"
         },
         {
           "title": "Maxgrow India consolidated net profit rises 190.19% in the June 2026 quarter",
@@ -1067,17 +1082,12 @@
           "title": "Dhabriya Polywood gains after bagging Rs 5-cr order from Godrej Properties",
           "link": "https://www.business-standard.com/markets/capital-market-news/dhabriya-polywood-gains-after-bagging-rs-5-cr-order-from-godrej-properties-126082400708_1.html",
           "pubDate": "2026-08-24T15:50:02+05:30"
-        },
-        {
-          "title": "BLS International tumbles amid buzz of visa fraud; Co denies claims",
-          "link": "https://www.business-standard.com/markets/capital-market-news/bls-international-tumbles-amid-buzz-of-visa-fraud-co-denies-claims-126082400670_1.html",
-          "pubDate": "2026-08-24T15:31:01+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-24T15:05:47.197639+00:00",
+      "updated_at": "2026-08-24T15:51:39.889423+00:00",
       "items": [
         {
           "title": "RBI to conduct 2-day Variable Rate Reverse Repo (VRRR) auction under LAF on August 25, 2026",

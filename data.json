@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:40:22.301647+00:00",
+  "generated_at": "2026-08-24T11:58:48.735253+00:00",
   "indices": {
     "nifty50": {
       "price": 24219.05,
@@ -68,7 +68,7 @@
         24219.05078125
       ],
       "ok": true,
-      "updated_at": "2026-08-24T11:40:20.419459+00:00"
+      "updated_at": "2026-08-24T11:58:44.616210+00:00"
     },
     "sensex": {
       "price": 77369.11,
@@ -137,7 +137,7 @@
         77369.109375
       ],
       "ok": true,
-      "updated_at": "2026-08-24T11:40:20.463524+00:00"
+      "updated_at": "2026-08-24T11:58:44.720941+00:00"
     },
     "banknifty": {
       "price": 57525.95,
@@ -206,7 +206,7 @@
         57525.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-24T11:40:20.514685+00:00"
+      "updated_at": "2026-08-24T11:58:44.817675+00:00"
     },
     "vix": {
       "price": 11.525,
@@ -275,7 +275,7 @@
         11.524999618530273
       ],
       "ok": true,
-      "updated_at": "2026-08-24T11:40:20.560049+00:00"
+      "updated_at": "2026-08-24T11:58:44.914829+00:00"
     },
     "usdinr": {
       "price": 95.735,
@@ -344,16 +344,13 @@
         95.73500061035156
       ],
       "ok": true,
-      "updated_at": "2026-08-24T11:40:20.609562+00:00"
+      "updated_at": "2026-08-24T11:58:45.019844+00:00"
     },
     "gold": {
-      "price": 4702.9,
-      "change": 22.3,
-      "pct": 0.4764,
+      "price": 4709.1,
+      "change": 28.5,
+      "pct": 0.6089,
       "closes": [
-        4699.5,
-        4706.2001953125,
-        4707.2998046875,
         4706.7001953125,
         4705.10009765625,
         4702.7001953125,
@@ -410,19 +407,19 @@
         4698.60009765625,
         4704.0,
         4709.5,
-        4702.89990234375
+        4718.39990234375,
+        4716.7001953125,
+        4706.60009765625,
+        4709.10009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-24T11:40:20.654979+00:00"
+      "updated_at": "2026-08-24T11:58:45.118585+00:00"
     },
     "crude": {
-      "price": 85.53,
-      "change": -1.53,
-      "pct": -1.7574,
+      "price": 85.22,
+      "change": -1.84,
+      "pct": -2.1135,
       "closes": [
-        85.2300033569336,
-        85.30000305175781,
-        85.25,
         85.18000030517578,
         85.16000366210938,
         85.08000183105469,
@@ -479,10 +476,13 @@
         85.45999908447266,
         85.48999786376953,
         85.30999755859375,
-        85.52999877929688
+        85.16999816894531,
+        85.1500015258789,
+        85.22000122070312,
+        85.22000122070312
       ],
       "ok": true,
-      "updated_at": "2026-08-24T11:40:20.702057+00:00"
+      "updated_at": "2026-08-24T11:58:45.216949+00:00"
     },
     "us10y": {
       "price": 4.738,
@@ -551,13 +551,13 @@
         4.73799991607666
       ],
       "ok": true,
-      "updated_at": "2026-08-24T11:40:20.761032+00:00"
+      "updated_at": "2026-08-24T11:58:45.333437+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-24T11:40:20.830327+00:00",
+      "updated_at": "2026-08-24T11:58:45.512475+00:00",
       "items": [
         {
           "title": "Urban Company shares surge 7% to 11-month high, rally 16% in 2 sessions. Here are 2 reasons why",
@@ -712,8 +712,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-24T11:04:53.861603+00:00",
+      "ok": true,
+      "updated_at": "2026-08-24T11:58:45.931399+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,7 +794,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-24T11:40:21.326297+00:00",
+      "updated_at": "2026-08-24T11:58:46.349036+00:00",
       "items": [
         {
           "title": "Bajaj Finance, HDFC Life to Nippon Life India AMC: Mirae Asset Sharekhan recommends 11 BFSI stocks to buy for long term",
@@ -802,7 +802,7 @@
           "pubDate": "2026-08-24T17:06:39+05:30"
         },
         {
-          "title": "Stock market prediction tomorrow, 25 August: What will happen to Sensex, Nifty Bank Nifty, KOSPI, Nikkei on Tuesday?",
+          "title": "Stock market prediction tomorrow, 25 August: What will happen to Sensex, Nifty Bank, Nifty, KOSPI, Nikkei on Tuesday?",
           "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-tomorrow-25-august-what-will-happen-in-sensex-nifty-bank-nifty-kospi-nikkei-on-tuesday-11787568302143.html",
           "pubDate": "2026-08-24T16:51:30+05:30"
         },
@@ -950,8 +950,23 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-24T11:40:21.352228+00:00",
+      "updated_at": "2026-08-24T11:58:46.501734+00:00",
       "items": [
+        {
+          "title": "Skyways Air Services IPO subscribed 1.16 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/skyways-air-services-ipo-subscribed-1-16-times-126082400884_1.html",
+          "pubDate": "2026-08-24T17:16:09+05:30"
+        },
+        {
+          "title": "Hy-Tech Engineers IPO subscribed 7.74 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/hy-tech-engineers-ipo-subscribed-7-74-times-126082400883_1.html",
+          "pubDate": "2026-08-24T17:16:02+05:30"
+        },
+        {
+          "title": "Nifty slips 33 points, Sensex slides 172 points amid Iran sanctions concerns",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-slips-33-points-sensex-slides-172-points-amid-iran-sanctions-concerns-126082400855_1.html",
+          "pubDate": "2026-08-24T17:05:20+05:30"
+        },
         {
           "title": "Quick Wrap: Nifty Metal Index gains 1.59%",
           "link": "https://www.business-standard.com/markets/capital-market-news/quick-wrap-nifty-metal-index-gains-1-59-126082400854_1.html",
@@ -1086,27 +1101,12 @@
           "title": "Crisil Ratings reaffirms ratings of Hirect at 'BBB/A2' with 'stable' outlook",
           "link": "https://www.business-standard.com/markets/capital-market-news/crisil-ratings-reaffirms-ratings-of-hirect-at-bbb-a2-with-stable-outlook-126082400554_1.html",
           "pubDate": "2026-08-24T14:16:44+05:30"
-        },
-        {
-          "title": "Ajanta Pharma Ltd slips for fifth straight session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/ajanta-pharma-ltd-slips-for-fifth-straight-session-126082400553_1.html",
-          "pubDate": "2026-08-24T14:16:35+05:30"
-        },
-        {
-          "title": "Lloyds Metals & Energy Ltd drops for fifth straight session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/lloyds-metals-energy-ltd-drops-for-fifth-straight-session-126082400552_1.html",
-          "pubDate": "2026-08-24T14:16:26+05:30"
-        },
-        {
-          "title": "Sun TV Network Ltd drops for fifth straight session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/sun-tv-network-ltd-drops-for-fifth-straight-session-126082400551_1.html",
-          "pubDate": "2026-08-24T14:16:19+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-24T11:40:22.301610+00:00",
+      "updated_at": "2026-08-24T11:58:48.735235+00:00",
       "items": [
         {
           "title": "Money Market Operations as on August 23, 2026",

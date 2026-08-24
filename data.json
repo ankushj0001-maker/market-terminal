@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T04:57:29.811840+00:00",
+  "generated_at": "2026-08-24T05:32:01.343080+00:00",
   "indices": {
     "nifty50": {
-      "price": 24279.4,
-      "change": 27.4,
-      "pct": 0.113,
+      "price": 24249.85,
+      "change": -2.15,
+      "pct": -0.0089,
       "closes": [
-        24303.900390625,
+        24303.30078125,
         24303.150390625,
         24288.099609375,
         24276.75,
@@ -20,16 +20,23 @@
         24273.099609375,
         24277.94921875,
         24278.75,
-        24277.900390625,
-        24279.400390625
+        24277.599609375,
+        24279.650390625,
+        24279.650390625,
+        24279.25,
+        24270.94921875,
+        24268.69921875,
+        24242.900390625,
+        24250.44921875,
+        24249.849609375
       ],
       "ok": true,
-      "updated_at": "2026-08-24T04:57:28.169193+00:00"
+      "updated_at": "2026-08-24T05:31:59.262299+00:00"
     },
     "sensex": {
-      "price": 77618.02,
-      "change": 77.19,
-      "pct": 0.0995,
+      "price": 77626.87,
+      "change": 86.04,
+      "pct": 0.111,
       "closes": [
         77745.359375,
         77740.2578125,
@@ -42,16 +49,23 @@
         77609.1875,
         77622.0078125,
         77617.2578125,
-        77615.6484375,
-        77618.0234375
+        77631.25,
+        77627.2265625,
+        77633.578125,
+        77629.3203125,
+        77636.546875,
+        77647.15625,
+        77640.59375,
+        77636.21875,
+        77626.8671875
       ],
       "ok": true,
-      "updated_at": "2026-08-24T04:57:28.214602+00:00"
+      "updated_at": "2026-08-24T05:31:59.325990+00:00"
     },
     "banknifty": {
-      "price": 57670.3,
-      "change": -91.65,
-      "pct": -0.1587,
+      "price": 57553.65,
+      "change": -208.3,
+      "pct": -0.3606,
       "closes": [
         57807.0,
         57816.44921875,
@@ -67,16 +81,23 @@
         57683.8984375,
         57689.1015625,
         57665.30078125,
-        57654.94921875,
-        57670.30078125
+        57661.44921875,
+        57667.0,
+        57650.6484375,
+        57650.19921875,
+        57630.75,
+        57596.94921875,
+        57545.30078125,
+        57564.75,
+        57553.6484375
       ],
       "ok": true,
-      "updated_at": "2026-08-24T04:57:28.265981+00:00"
+      "updated_at": "2026-08-24T05:31:59.378119+00:00"
     },
     "vix": {
-      "price": 11.335,
-      "change": 0.14,
-      "pct": 1.2506,
+      "price": 11.45,
+      "change": 0.255,
+      "pct": 2.2778,
       "closes": [
         10.782500267028809,
         10.800000190734863,
@@ -92,16 +113,23 @@
         11.287500381469727,
         11.3125,
         11.3149995803833,
-        11.3149995803833,
-        11.335000038146973
+        11.297499656677246,
+        11.262499809265137,
+        11.305000305175781,
+        11.274999618530273,
+        11.267499923706055,
+        11.3774995803833,
+        11.552499771118164,
+        11.444999694824219,
+        11.449999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-24T04:57:28.322929+00:00"
+      "updated_at": "2026-08-24T05:31:59.437985+00:00"
     },
     "usdinr": {
-      "price": 95.67,
-      "change": -0.02,
-      "pct": -0.0209,
+      "price": 95.665,
+      "change": -0.025,
+      "pct": -0.0261,
       "closes": [
         95.68000030517578,
         95.68000030517578,
@@ -123,16 +151,23 @@
         95.66500091552734,
         95.66500091552734,
         95.65799713134766,
+        95.6675033569336,
+        95.6675033569336,
+        95.66000366210938,
+        95.66500091552734,
+        95.66500091552734,
+        95.66200256347656,
+        95.67749786376953,
         95.66999816894531,
-        95.66999816894531
+        95.66500091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-24T04:57:28.372510+00:00"
+      "updated_at": "2026-08-24T05:31:59.507070+00:00"
     },
     "gold": {
-      "price": 4693.2,
-      "change": 12.6,
-      "pct": 0.2692,
+      "price": 4695.9,
+      "change": 15.3,
+      "pct": 0.3269,
       "closes": [
         4696.2998046875,
         4690.2001953125,
@@ -144,15 +179,22 @@
         4692.89990234375,
         4694.39990234375,
         4692.60009765625,
-        4693.2001953125
+        4696.0,
+        4695.2001953125,
+        4696.0,
+        4696.10009765625,
+        4699.10009765625,
+        4699.0,
+        4694.39990234375,
+        4695.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-24T04:57:28.418146+00:00"
+      "updated_at": "2026-08-24T05:31:59.590074+00:00"
     },
     "crude": {
-      "price": 85.63,
-      "change": -1.43,
-      "pct": -1.6425,
+      "price": 85.58,
+      "change": -1.48,
+      "pct": -1.7,
       "closes": [
         85.69000244140625,
         85.66000366210938,
@@ -164,10 +206,17 @@
         85.66999816894531,
         85.61000061035156,
         85.7300033569336,
-        85.62999725341797
+        85.66000366210938,
+        85.61000061035156,
+        85.66999816894531,
+        85.5999984741211,
+        85.66999816894531,
+        85.62000274658203,
+        85.55999755859375,
+        85.58000183105469
       ],
       "ok": true,
-      "updated_at": "2026-08-24T04:57:28.463846+00:00"
+      "updated_at": "2026-08-24T05:31:59.641940+00:00"
     },
     "us10y": {
       "price": 4.738,
@@ -236,13 +285,13 @@
         4.73799991607666
       ],
       "ok": true,
-      "updated_at": "2026-08-24T04:57:28.520261+00:00"
+      "updated_at": "2026-08-24T05:31:59.708284+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-24T04:57:28.615042+00:00",
+      "updated_at": "2026-08-24T05:31:59.880438+00:00",
       "items": [
         {
           "title": "Nifty’s rally hinges on a break above the key 24,350–24,400 resistance zone",
@@ -397,8 +446,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-24T04:03:36.118165+00:00",
+      "ok": true,
+      "updated_at": "2026-08-24T05:32:00.328047+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -479,8 +528,23 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-24T04:57:29.130147+00:00",
+      "updated_at": "2026-08-24T05:32:00.492656+00:00",
       "items": [
+        {
+          "title": "Alibaba shares plunge 11% after $10.2 billion share placement to fund AI expansion",
+          "link": "https://www.livemint.com/market/stock-market-news/alibaba-shares-plunge-11-after-10-2-billion-share-placement-to-fund-ai-expansion-11787547880961.html",
+          "pubDate": "2026-08-24T10:38:39+05:30"
+        },
+        {
+          "title": "Why Vishal Mega Mart share price is rising today? Stock hits the upper circuit",
+          "link": "https://www.livemint.com/market/stock-market-news/why-vishal-mega-mart-share-price-is-rising-today-stock-hits-the-upper-circuit-11787547310653.html",
+          "pubDate": "2026-08-24T10:32:19+05:30"
+        },
+        {
+          "title": "Gaja Alternative Asset Management IPO allotment in focus, GMP signals 12% listing pop | guide to check status online",
+          "link": "https://www.livemint.com/market/ipo/gaja-alternative-asset-management-ipo-allotment-status-in-focus-gmp-signals-12-listing-pop-guide-to-check-status-11787544644821.html",
+          "pubDate": "2026-08-24T10:28:31+05:30"
+        },
         {
           "title": "Lalithaa Jewellery IPO listing: Shares list at 32% premium over the issue price. Details here",
           "link": "https://www.livemint.com/market/stock-market-news/lalithaa-jewellery-ipo-listing-shares-list-at-32-premium-over-the-issue-price-details-here-11787545678542.html",
@@ -492,7 +556,7 @@
           "pubDate": "2026-08-24T10:01:10+05:30"
         },
         {
-          "title": "Hy-Tech Engineers IPO Day 1: Issue opens today. GMP hints 47% listing gain. Apply or not?",
+          "title": "Hy-Tech Engineers IPO Day 1: Issue subscribed 1.18x so far. GMP hints 47% listing gain. Apply or not?",
           "link": "https://www.livemint.com/market/ipo/hytech-engineers-ipo-day-1-issue-opens-today-gmp-hints-47-listing-gain-apply-or-not-11787542339746.html",
           "pubDate": "2026-08-24T09:54:57+05:30"
         },
@@ -615,28 +679,38 @@
           "title": "Stock recommendations for 24 August from MarketSmith India",
           "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-22-august-from-marketsmith-india-11787312561537.html",
           "pubDate": "2026-08-24T06:00:40+05:30"
-        },
-        {
-          "title": "Symbiotec Pharmalab IPO Day 1 LIVE: GMP, subscription status, review, issue size, other details. Should you apply?",
-          "link": "https://www.livemint.com/market/ipo/symbiotec-pharmalab-ipo-day-1-live-gmp-subscription-status-review-issue-size-other-details-should-you-apply-11787507960722.html",
-          "pubDate": "2026-08-24T05:46:40+05:30"
-        },
-        {
-          "title": "‘FY27 returns to be earnings driven with large caps in focus'",
-          "link": "https://www.livemint.com/market/stock-market-news/kotak-institutional-equities-pratik-gupta-india-stocks-fy27-outlook-11787463083080.html",
-          "pubDate": "2026-08-24T05:46:00+05:30"
-        },
-        {
-          "title": "Horizon Industrial Parks IPO listing date today. GMP, experts hint up to 2.5% listing gain",
-          "link": "https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-listing-date-today-gmp-experts-hint-up-to-2-5-listing-gain-11787504443122.html",
-          "pubDate": "2026-08-24T05:33:00+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-24T04:57:29.237268+00:00",
+      "updated_at": "2026-08-24T05:32:00.764820+00:00",
       "items": [
+        {
+          "title": "Power Grid wins bid for transmission project in Gujarat",
+          "link": "https://www.business-standard.com/markets/capital-market-news/power-grid-wins-bid-for-transmission-project-in-gujarat-126082400233_1.html",
+          "pubDate": "2026-08-24T10:32:06+05:30"
+        },
+        {
+          "title": "Horizon Industrial Park makes weak debut on BSE; lists at discount",
+          "link": "https://www.business-standard.com/markets/capital-market-news/horizon-industrial-park-makes-weak-debut-on-bse-lists-at-discount-126082400225_1.html",
+          "pubDate": "2026-08-24T10:31:28+05:30"
+        },
+        {
+          "title": "B.R. Goyal Infta bags Rs 151 crore services contract from NHAI",
+          "link": "https://www.business-standard.com/markets/capital-market-news/b-r-goyal-infta-bags-rs-151-crore-services-contract-from-nhai-126082400224_1.html",
+          "pubDate": "2026-08-24T10:31:20+05:30"
+        },
+        {
+          "title": "TVS Supply Chain Solutions climbs after signing strategic MoU with Sankyu",
+          "link": "https://www.business-standard.com/markets/capital-market-news/tvs-supply-chain-solutions-climbs-after-signing-strategic-mou-with-sankyu-126082400223_1.html",
+          "pubDate": "2026-08-24T10:31:12+05:30"
+        },
+        {
+          "title": "Lalithaa Jewellery Mart lists at premium",
+          "link": "https://www.business-standard.com/markets/capital-market-news/lalithaa-jewellery-mart-lists-at-premium-126082400222_1.html",
+          "pubDate": "2026-08-24T10:31:02+05:30"
+        },
         {
           "title": "Netweb hits new high on successful QIP; stock up 40% in one month",
           "link": "https://www.business-standard.com/markets/news/netweb-share-price-hits-new-high-on-successful-qip-stock-up-40-in-one-month-126082400172_1.html",
@@ -653,14 +727,14 @@
           "pubDate": "2026-08-24T10:04:11+05:30"
         },
         {
-          "title": "Lalithaa Jewellery shares shine bright on market debut, list at 32% premium",
-          "link": "https://www.business-standard.com/markets/news/lalithaa-jewellery-share-price-shines-bright-on-market-debut-lists-at-32-premium-126082400176_1.html",
-          "pubDate": "2026-08-24T10:01:37+05:30"
-        },
-        {
           "title": "Horizon Industrial Parks shares list near IPO price in muted debut on D-St",
           "link": "https://www.business-standard.com/markets/news/horizon-industrial-parks-shares-list-near-ipo-price-in-muted-debut-on-d-st-126082400173_1.html",
-          "pubDate": "2026-08-24T10:01:12+05:30"
+          "pubDate": "2026-08-24T10:01:28+05:30"
+        },
+        {
+          "title": "Lalithaa Jewellery shares shine bright on market debut, list at 32% premium",
+          "link": "https://www.business-standard.com/markets/news/lalithaa-jewellery-share-price-shines-bright-on-market-debut-lists-at-32-premium-126082400176_1.html",
+          "pubDate": "2026-08-24T10:01:17+05:30"
         },
         {
           "title": "Vishal Mega Mart surges after board reappoints Gunender Kapur as MD & CEO",
@@ -755,44 +829,24 @@
         {
           "title": "Stocks to watch: ZEEL, Vodafone Idea, Jubilant Pharmova, Power Grid, BoB",
           "link": "https://www.business-standard.com/markets/news/stocks-to-watch-today-zeel-vodafone-idea-jubilant-pharmova-power-grid-126082400067_1.html",
-          "pubDate": "2026-08-24T08:05:36+05:30"
+          "pubDate": "2026-08-24T08:05:42+05:30"
         },
         {
-          "title": "Stock Market LIVE: Sensex up 80 pts, Nifty tops 24,250; Nifty IT gains 1% as Infosys, HCLTech lead",
+          "title": "Stock Market LIVE: Sensex, Nifty move in small range; SAIL, Welspun Corp drive gains Nifty Metal",
           "link": "https://www.business-standard.com/markets/news/stock-market-live-august-24-nse-bse-sensex-today-nifty50-gift-nifty-hy-tech-engineers-ipo-gmp-today-126082400062_1.html",
-          "pubDate": "2026-08-24T08:01:38+05:30"
-        },
-        {
-          "title": "India's $10 billion equity rush puts August on track for a record month",
-          "link": "https://www.business-standard.com/markets/news/india-s-10-billion-equity-rush-puts-august-on-track-for-a-record-month-126082400063_1.html",
-          "pubDate": "2026-08-24T07:47:41+05:30"
-        },
-        {
-          "title": "KFintech, Affle 3i: Two breakout ideas from Angel One",
-          "link": "https://www.business-standard.com/markets/news/stocks-to-buy-today-two-breakout-ideas-from-angel-one-126082400061_1.html",
-          "pubDate": "2026-08-24T07:45:35+05:30"
-        },
-        {
-          "title": "Asian shares flat ahead of expected US sanctions on Iran, Nvidia results",
-          "link": "https://www.business-standard.com/markets/news/asian-shares-flat-ahead-of-expected-us-sanctions-on-iran-nvidia-results-126082400051_1.html",
-          "pubDate": "2026-08-24T07:40:12+05:30"
-        },
-        {
-          "title": "Oil prices fall ahead of expected US announcement on new Iran sanctions",
-          "link": "https://www.business-standard.com/markets/commodities/oil-prices-fall-ahead-of-expected-us-announcement-on-new-iran-sanctions-126082400049_1.html",
-          "pubDate": "2026-08-24T07:37:36+05:30"
-        },
-        {
-          "title": "Derivatives market gets Gen Z twist, but losses cast a long shadow: Sebi",
-          "link": "https://www.business-standard.com/markets/news/derivatives-market-gets-gen-z-twist-but-losses-cast-a-long-shadow-sebi-126082300682_1.html",
-          "pubDate": "2026-08-23T20:42:28+05:30"
+          "pubDate": "2026-08-24T08:01:42+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-24T04:57:29.811824+00:00",
+      "updated_at": "2026-08-24T05:32:01.343064+00:00",
       "items": [
+        {
+          "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 24, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63429",
+          "pubDate": "2026-08-24T10:25:00+00:00"
+        },
         {
           "title": "Result of the 7-day Variable Rate Reverse Repo (VRRR) auction held on August 24, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63428",
@@ -837,11 +891,6 @@
           "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63420",
           "pubDate": "2026-08-21T17:00:00+00:00"
-        },
-        {
-          "title": "624<sup>th</sup> Meeting of Central Board of the Reserve Bank of India",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63419",
-          "pubDate": "2026-08-21T15:00:00+00:00"
         }
       ]
     }

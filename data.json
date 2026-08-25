@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T23:13:53.433645+00:00",
+  "generated_at": "2026-08-25T23:36:17.268720+00:00",
   "indices": {
     "nifty50": {
       "price": 24334.55,
@@ -68,7 +68,7 @@
         24334.55078125
       ],
       "ok": true,
-      "updated_at": "2026-08-25T23:13:50.775956+00:00"
+      "updated_at": "2026-08-25T23:36:14.247432+00:00"
     },
     "sensex": {
       "price": 77656.09,
@@ -137,7 +137,7 @@
         77656.09375
       ],
       "ok": true,
-      "updated_at": "2026-08-25T23:13:50.905991+00:00"
+      "updated_at": "2026-08-25T23:36:14.383819+00:00"
     },
     "banknifty": {
       "price": 57514.2,
@@ -206,7 +206,7 @@
         57514.19921875
       ],
       "ok": true,
-      "updated_at": "2026-08-25T23:13:51.036123+00:00"
+      "updated_at": "2026-08-25T23:36:14.523460+00:00"
     },
     "vix": {
       "price": 11.075,
@@ -275,26 +275,21 @@
         11.074999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-25T23:13:51.119182+00:00"
+      "updated_at": "2026-08-25T23:36:14.660180+00:00"
     },
     "usdinr": {
       "price": 95.402,
-      "change": -0.333,
-      "pct": -0.3478,
+      "change": 0.0,
+      "pct": 0.0,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-25T23:13:51.209733+00:00"
+      "updated_at": "2026-08-25T23:36:14.819240+00:00"
     },
     "gold": {
-      "price": 4728.0,
-      "change": 33.5,
-      "pct": 0.7136,
+      "price": 4718.3,
+      "change": 23.8,
+      "pct": 0.507,
       "closes": [
-        4694.7998046875,
-        4700.10009765625,
-        4696.5,
-        4694.2001953125,
-        4695.7001953125,
         4700.0,
         4700.2001953125,
         4702.89990234375,
@@ -349,21 +344,21 @@
         4729.7001953125,
         4729.7001953125,
         4729.5,
-        4728.0
+        4726.2001953125,
+        4725.10009765625,
+        4724.39990234375,
+        4719.10009765625,
+        4718.2998046875,
+        4718.2998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-25T23:13:51.304400+00:00"
+      "updated_at": "2026-08-25T23:36:14.987002+00:00"
     },
     "crude": {
       "price": 81.0,
       "change": -1.36,
       "pct": -1.6513,
       "closes": [
-        82.18000030517578,
-        82.26000213623047,
-        82.3499984741211,
-        82.22000122070312,
-        82.23999786376953,
         82.2699966430664,
         82.27999877929688,
         82.16000366210938,
@@ -418,10 +413,15 @@
         81.0199966430664,
         81.01000213623047,
         81.0,
+        80.98999786376953,
+        80.9800033569336,
+        80.98999786376953,
+        81.0,
+        81.0,
         81.0
       ],
       "ok": true,
-      "updated_at": "2026-08-25T23:13:51.434862+00:00"
+      "updated_at": "2026-08-25T23:36:15.156009+00:00"
     },
     "us10y": {
       "price": 4.639,
@@ -490,13 +490,13 @@
         4.638999938964844
       ],
       "ok": true,
-      "updated_at": "2026-08-25T23:13:51.565677+00:00"
+      "updated_at": "2026-08-25T23:36:15.302919+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-25T23:13:51.813287+00:00",
+      "updated_at": "2026-08-25T23:36:15.576575+00:00",
       "items": [
         {
           "title": "NSE IPO coming soon: Should investors buy unlisted shares now or wait for the mega issue?",
@@ -733,8 +733,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-25T23:13:52.158753+00:00",
+      "updated_at": "2026-08-25T23:36:15.973945+00:00",
       "items": [
+        {
+          "title": "Gold Edges Up After Four-Day Gain as Traders Eye Treasury Moves",
+          "link": "https://www.livemint.com/market/gold-edges-up-after-four-day-gain-as-traders-eye-treasury-moves-11787699754952.html",
+          "pubDate": "2026-08-26T04:45:54+05:30"
+        },
         {
           "title": "Oil Falls on Fresh Iran War Diplomacy, Talks on Hormuz",
           "link": "https://www.livemint.com/market/oil-falls-on-fresh-iran-war-diplomacy-talks-on-hormuz-11787692674565.html",
@@ -879,17 +884,12 @@
           "title": "Annu Projects IPO Day 1 LIVE: GMP, subscription status to review | Apply or not?",
           "link": "https://www.livemint.com/market/ipo/annu-projects-ipo-day-1-live-gmp-subscription-status-to-review-apply-or-not-11787632322925.html",
           "pubDate": "2026-08-25T10:47:17+05:30"
-        },
-        {
-          "title": "Piramal Finance  ₹2,100 crore QIP: Check key dates, indicative issue price, purpose behind fund raise",
-          "link": "https://www.livemint.com/market/stock-market-news/piramal-finance-2-100-crore-qip-check-key-dates-indicative-issue-price-purpose-behind-fund-raise-11787632998420.html",
-          "pubDate": "2026-08-25T10:29:51+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-25T23:13:52.382416+00:00",
+      "updated_at": "2026-08-25T23:36:16.233813+00:00",
       "items": [
         {
           "title": "Bitcoin tops $80,000 as optimistic mood returns to crypto market",
@@ -1045,7 +1045,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-25T23:13:53.433624+00:00",
+      "updated_at": "2026-08-25T23:36:17.268703+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 27, 2026",

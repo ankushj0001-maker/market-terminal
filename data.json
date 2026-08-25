@@ -1,12 +1,11 @@
 {
-  "generated_at": "2026-08-25T11:15:55.887374+00:00",
+  "generated_at": "2026-08-25T11:49:43.052789+00:00",
   "indices": {
     "nifty50": {
-      "price": 24219.1,
-      "change": -32.9,
-      "pct": -0.1357,
+      "price": 24334.55,
+      "change": 82.55,
+      "pct": 0.3404,
       "closes": [
-        24129.75,
         24131.650390625,
         24135.94921875,
         24154.5,
@@ -65,10 +64,11 @@
         24260.150390625,
         24260.05078125,
         24260.05078125,
+        24334.55078125,
         24334.55078125
       ],
       "ok": true,
-      "updated_at": "2026-08-25T11:15:53.583537+00:00"
+      "updated_at": "2026-08-25T11:49:40.059491+00:00"
     },
     "sensex": {
       "price": 77656.09,
@@ -137,14 +137,13 @@
         77656.09375
       ],
       "ok": true,
-      "updated_at": "2026-08-25T11:15:53.648519+00:00"
+      "updated_at": "2026-08-25T11:49:40.167862+00:00"
     },
     "banknifty": {
-      "price": 57525.9,
-      "change": -236.0,
-      "pct": -0.4086,
+      "price": 57514.2,
+      "change": -247.7,
+      "pct": -0.4288,
       "closes": [
-        57444.69921875,
         57433.25,
         57463.69921875,
         57509.19921875,
@@ -203,17 +202,17 @@
         57455.80078125,
         57454.1015625,
         57454.1015625,
+        57514.19921875,
         57514.19921875
       ],
       "ok": true,
-      "updated_at": "2026-08-25T11:15:53.715269+00:00"
+      "updated_at": "2026-08-25T11:49:40.284030+00:00"
     },
     "vix": {
-      "price": 11.53,
-      "change": 0.33,
-      "pct": 2.9464,
+      "price": 11.075,
+      "change": -0.125,
+      "pct": -1.1161,
       "closes": [
-        11.395000457763672,
         11.359999656677246,
         11.494999885559082,
         11.449999809265137,
@@ -272,10 +271,11 @@
         11.145000457763672,
         11.117500305175781,
         11.082500457763672,
-        11.029999732971191
+        11.029999732971191,
+        11.074999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-25T11:15:53.781327+00:00"
+      "updated_at": "2026-08-25T11:49:40.392828+00:00"
     },
     "usdinr": {
       "price": 95.41,
@@ -344,18 +344,13 @@
         95.41000366210938
       ],
       "ok": true,
-      "updated_at": "2026-08-25T11:15:53.850713+00:00"
+      "updated_at": "2026-08-25T11:49:40.520326+00:00"
     },
     "gold": {
-      "price": 4694.5,
-      "change": -3.3,
-      "pct": -0.0702,
+      "price": 4699.2,
+      "change": 1.4,
+      "pct": 0.0298,
       "closes": [
-        4703.60009765625,
-        4707.89990234375,
-        4706.2998046875,
-        4707.89990234375,
-        4706.2001953125,
         4704.0,
         4704.10009765625,
         4698.0,
@@ -410,22 +405,21 @@
         4695.0,
         4695.7998046875,
         4695.89990234375,
-        4694.5
+        4696.2998046875,
+        4697.89990234375,
+        4697.2001953125,
+        4698.7998046875,
+        4700.60009765625,
+        4699.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-25T11:15:53.919918+00:00"
+      "updated_at": "2026-08-25T11:49:40.620195+00:00"
     },
     "crude": {
-      "price": 82.4,
-      "change": -2.61,
-      "pct": -3.0702,
+      "price": 82.33,
+      "change": -2.68,
+      "pct": -3.1526,
       "closes": [
-        84.29000091552734,
-        84.16000366210938,
-        84.19999694824219,
-        84.30000305175781,
-        84.58000183105469,
-        84.45999908447266,
         84.5199966430664,
         84.16999816894531,
         84.26000213623047,
@@ -479,10 +473,16 @@
         82.44999694824219,
         82.37999725341797,
         82.5999984741211,
-        82.4000015258789
+        82.44000244140625,
+        82.54000091552734,
+        82.44999694824219,
+        82.5,
+        82.31999969482422,
+        82.29000091552734,
+        82.33000183105469
       ],
       "ok": true,
-      "updated_at": "2026-08-25T11:15:53.987844+00:00"
+      "updated_at": "2026-08-25T11:49:40.720248+00:00"
     },
     "us10y": {
       "price": 4.704,
@@ -551,43 +551,43 @@
         4.703999996185303
       ],
       "ok": true,
-      "updated_at": "2026-08-25T11:15:54.735858+00:00"
+      "updated_at": "2026-08-25T11:49:40.832063+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-25T11:15:54.830223+00:00",
+      "updated_at": "2026-08-25T11:49:41.825994+00:00",
       "items": [
         {
-          "title": "Ratnamani Metals shares rally up to 21% in two sessions after securing Rs 2,700 crore order",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ratnamani-metals-shares-rally-up-to-21-in-two-sessions-after-securing-rs-2700-crore-order/articleshow/133495796.cms",
-          "pubDate": "2026-08-25T11:31:48+05:30"
+          "title": "NSE IPO coming soon: Should investors buy unlisted shares now or wait for the mega issue?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-coming-soon-should-investors-buy-unlisted-shares-now-or-wait-for-the-mega-issue/articleshow/133499038.cms",
+          "pubDate": "2026-08-25T12:53:27+05:30"
         },
         {
-          "title": "Are BSE, NSE closed on August 26 for Eid-e-Milad? Check full market holiday dates list",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/are-bse-nse-closed-on-august-26-for-eid-e-milad-check-full-market-holiday-dates-list/articleshow/133494507.cms",
-          "pubDate": "2026-08-25T11:03:20+05:30"
+          "title": "Bernstein cuts PFC, REC target prices as bank competition weighs on loan growth",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bernstein-cuts-pfc-rec-target-prices-as-bank-competition-weighs-on-loan-growth/articleshow/133498418.cms",
+          "pubDate": "2026-08-25T12:37:44+05:30"
         },
         {
-          "title": "Netweb Technologies shares fall 4% after raising Rs 1,200 crore through QIP",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/netweb-technologies-shares-fall-4-after-raising-rs-1200-crore-through-qip/articleshow/133494330.cms",
-          "pubDate": "2026-08-25T10:54:55+05:30"
+          "title": "From IPO mockery to Rs 1 lakh crore m-cap: Why investors are still betting on Lenskart’s vision",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-ipo-mockery-to-rs-1-lakh-crore-m-cap-why-investors-are-still-betting-on-lenskarts-vision/articleshow/133494107.cms",
+          "pubDate": "2026-08-25T10:50:05+05:30"
         },
         {
-          "title": "Entero Healthcare shares gain 15% in 2 days after Prashant Jain’s 3P Investment picks stake in block deal",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/entero-healthcare-shares-gain-15-in-2-days-after-prashant-jains-3p-investment-picks-stake-in-block-deal/articleshow/133493852.cms",
-          "pubDate": "2026-08-25T10:40:36+05:30"
+          "title": "Fall of market leaders! How 6 Nifty giants trapped investors with negative returns for 5 years",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fall-of-market-leaders-how-6-nifty-giants-trapped-investors-with-negative-returns-for-5-years/articleshow/133491673.cms",
+          "pubDate": "2026-08-25T10:01:19+05:30"
         },
         {
-          "title": "FACT, Paradeep Phosphates, RCF, other fertiliser stocks rally up to 13%. Here's why",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fact-paradeep-phosphates-rcf-other-fertiliser-stocks-rally-up-to-13-heres-why/articleshow/133493687.cms",
-          "pubDate": "2026-08-25T10:37:10+05:30"
+          "title": "Is the smallcap rally a trap? Only 37% of stocks are outperforming their benchmark",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/is-the-smallcap-rally-a-trap-only-37-of-stocks-are-outperforming-their-benchmark/articleshow/133491005.cms",
+          "pubDate": "2026-08-25T09:44:38+05:30"
         },
         {
-          "title": "Afcons Infrastructure shares rally 4% after receiving Rs 335.5 crore arbitration award",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/afcons-infrastructure-shares-rally-4-after-receiving-rs-335-5-crore-arbitration-award/articleshow/133492282.cms",
-          "pubDate": "2026-08-25T10:08:13+05:30"
+          "title": "Why investors should not ignore largecaps despite the smallcap rush: Canara Robeco CIO Shridatta Bhandwaldar",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/why-investors-should-not-ignore-largecaps-despite-the-smallcap-rush-canara-robeco-cio-shridatta-bhandwaldar/articleshow/133490109.cms",
+          "pubDate": "2026-08-25T09:31:28+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-25T11:15:54.926287+00:00",
+      "updated_at": "2026-08-25T11:49:41.919836+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-25T11:15:55.020275+00:00",
+      "updated_at": "2026-08-25T11:49:42.040188+00:00",
       "items": [
+        {
+          "title": "Stock market prediction tomorrow, 26 August: What will happen to Sensex, Nifty, Hang Seng, KOSPI, Nikkei on Wednesday",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-tomorrow-26-august-what-will-happen-to-sensex-nifty-hang-seng-kospi-and-nikkei-on-wednesday-11787656285637.html",
+          "pubDate": "2026-08-25T17:11:36+05:30"
+        },
+        {
+          "title": "Expert view: Nifty 50 can hit 27,000 by March 2027, EPS growth rate of 10%-11% likely in FY27, says Ametra PMS CIO",
+          "link": "https://www.livemint.com/market/stock-market-news/expert-view-nifty-50-can-hit-27-000-by-march-2027-eps-growth-rate-of-10-11-likely-in-fy27-says-ametra-pms-cio-11787655099258.html",
+          "pubDate": "2026-08-25T16:49:39+05:30"
+        },
         {
           "title": "Top Gainers &amp; Losers on 25 Aug: FACT, Vodafone Idea, Cyient, Paytm, Angel One, Pine Labs among top gainers",
           "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-25-aug-fact-vodafone-idea-cyient-paytm-angel-one-pine-labs-among-top-gainers-11787650287290.html",
@@ -935,23 +945,28 @@
           "title": "Bitcoin Rides Debasement Trade to Three-Month High Above $80,000",
           "link": "https://www.livemint.com/market/bitcoin-rides-debasement-trade-to-three-month-high-above-80000-11787625670227.html",
           "pubDate": "2026-08-25T08:11:09+05:30"
-        },
-        {
-          "title": "Stock market today: Gift Nifty hints a weak start; eight day trading stocks to buy on Tuesday, 25 August",
-          "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-a-weak-start-eight-day-trading-stocks-to-buy-on-tuesday-25-august-11787624139233.html",
-          "pubDate": "2026-08-25T08:09:28+05:30"
-        },
-        {
-          "title": "Silver’s surge: Three Indian stocks to play the next leg",
-          "link": "https://www.livemint.com/market/stock-market-news/silvers-surge-three-indian-stocks-to-play-the-next-leg-11787571105657.html",
-          "pubDate": "2026-08-25T08:00:22+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-25T11:15:55.163111+00:00",
+      "updated_at": "2026-08-25T11:49:42.219899+00:00",
       "items": [
+        {
+          "title": "Japanese stocks recover as tech shares rebound",
+          "link": "https://www.business-standard.com/markets/capital-market-news/japanese-stocks-recover-as-tech-shares-rebound-126082500920_1.html",
+          "pubDate": "2026-08-25T17:04:19+05:30"
+        },
+        {
+          "title": "Chinese stocks mixed as tech shares weigh",
+          "link": "https://www.business-standard.com/markets/capital-market-news/chinese-stocks-mixed-as-tech-shares-weigh-126082500919_1.html",
+          "pubDate": "2026-08-25T17:04:11+05:30"
+        },
+        {
+          "title": "Nifty September futures trade at premium",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-september-futures-trade-at-premium-126082500901_1.html",
+          "pubDate": "2026-08-25T16:50:02+05:30"
+        },
         {
           "title": "Sensex settles 287 pts higher; Nifty ends above 24,300 level",
           "link": "https://www.business-standard.com/markets/capital-market-news/sensex-settles-287-pts-higher-nifty-ends-above-24-300-level-126082500830_1.html",
@@ -1086,28 +1101,18 @@
           "title": "BJP to contest all 117 seats in Punjab Assembly polls",
           "link": "https://www.business-standard.com/markets/capital-market-news/bjp-to-contest-all-117-seats-in-punjab-assembly-polls-126082500496_1.html",
           "pubDate": "2026-08-25T12:31:11+05:30"
-        },
-        {
-          "title": "Union Minister for Commerce Piyush Goyal highlights strategic and comprehensive nature of India-Japan relations",
-          "link": "https://www.business-standard.com/markets/capital-market-news/union-minister-for-commerce-piyush-goyal-highlights-strategic-and-comprehensive-nature-of-india-japan-relations-126082500495_1.html",
-          "pubDate": "2026-08-25T12:31:01+05:30"
-        },
-        {
-          "title": "Crisil Ratings affirms ratings of Siyaram Silk Mills at 'AA-/A1+' with 'stable' outlook",
-          "link": "https://www.business-standard.com/markets/capital-market-news/crisil-ratings-affirms-ratings-of-siyaram-silk-mills-at-aa-a1-with-stable-outlook-126082500478_1.html",
-          "pubDate": "2026-08-25T12:19:31+05:30"
-        },
-        {
-          "title": "IIFL Finance drops as subsidiary faces Rs 963 crore tax demand",
-          "link": "https://www.business-standard.com/markets/capital-market-news/iifl-finance-drops-as-subsidiary-faces-rs-963-crore-tax-demand-126082500477_1.html",
-          "pubDate": "2026-08-25T12:19:23+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-25T11:15:55.887356+00:00",
+      "updated_at": "2026-08-25T11:49:43.052773+00:00",
       "items": [
+        {
+          "title": "State Government Securities - Full Auction Result",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63443",
+          "pubDate": "2026-08-25T16:55:00+00:00"
+        },
         {
           "title": "Result of Yield/Price Based Auction of State Government Securities",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63442",
@@ -1152,11 +1157,6 @@
           "title": "RBI imposes monetary penalty on The Pragathi Co-operative Bank Limited, Karnataka",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63434",
           "pubDate": "2026-08-24T17:20:00+00:00"
-        },
-        {
-          "title": "RBI imposes monetary penalty on Shri Vijay Mahantesh Co-operative Bank Limited, Hungund, Karnataka",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63433",
-          "pubDate": "2026-08-24T17:15:00+00:00"
         }
       ]
     }

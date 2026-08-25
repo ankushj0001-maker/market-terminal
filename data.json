@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T21:02:06.266908+00:00",
+  "generated_at": "2026-08-25T21:39:36.299577+00:00",
   "indices": {
     "nifty50": {
       "price": 24334.55,
@@ -68,7 +68,7 @@
         24334.55078125
       ],
       "ok": true,
-      "updated_at": "2026-08-25T21:02:03.496442+00:00"
+      "updated_at": "2026-08-25T21:39:33.201102+00:00"
     },
     "sensex": {
       "price": 77656.09,
@@ -137,7 +137,7 @@
         77656.09375
       ],
       "ok": true,
-      "updated_at": "2026-08-25T21:02:03.566940+00:00"
+      "updated_at": "2026-08-25T21:39:33.344619+00:00"
     },
     "banknifty": {
       "price": 57514.2,
@@ -206,7 +206,7 @@
         57514.19921875
       ],
       "ok": true,
-      "updated_at": "2026-08-25T21:02:03.645181+00:00"
+      "updated_at": "2026-08-25T21:39:33.488852+00:00"
     },
     "vix": {
       "price": 11.075,
@@ -275,7 +275,7 @@
         11.074999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-25T21:02:03.709348+00:00"
+      "updated_at": "2026-08-25T21:39:33.635156+00:00"
     },
     "usdinr": {
       "price": 95.402,
@@ -344,14 +344,13 @@
         95.4020004272461
       ],
       "ok": true,
-      "updated_at": "2026-08-25T21:02:04.336318+00:00"
+      "updated_at": "2026-08-25T21:39:33.799630+00:00"
     },
     "gold": {
-      "price": 4717.1,
-      "change": 19.3,
-      "pct": 0.4108,
+      "price": 4715.9,
+      "change": 18.1,
+      "pct": 0.3853,
       "closes": [
-        4704.7998046875,
         4701.60009765625,
         4701.39990234375,
         4699.7998046875,
@@ -410,17 +409,17 @@
         4718.39990234375,
         4718.2998046875,
         4716.7001953125,
-        4717.10009765625
+        4715.89990234375,
+        4715.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-25T21:02:04.413229+00:00"
+      "updated_at": "2026-08-25T21:39:33.972073+00:00"
     },
     "crude": {
-      "price": 81.08,
-      "change": -3.93,
-      "pct": -4.623,
+      "price": 81.11,
+      "change": -3.9,
+      "pct": -4.5877,
       "closes": [
-        82.20999908447266,
         82.11000061035156,
         82.16000366210938,
         82.19000244140625,
@@ -479,10 +478,11 @@
         80.86000061035156,
         81.08000183105469,
         81.05000305175781,
-        81.08000183105469
+        81.11000061035156,
+        81.11000061035156
       ],
       "ok": true,
-      "updated_at": "2026-08-25T21:02:04.512516+00:00"
+      "updated_at": "2026-08-25T21:39:34.140793+00:00"
     },
     "us10y": {
       "price": 4.639,
@@ -551,13 +551,13 @@
         4.638999938964844
       ],
       "ok": true,
-      "updated_at": "2026-08-25T21:02:04.579134+00:00"
+      "updated_at": "2026-08-25T21:39:34.353174+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-25T21:02:04.810260+00:00",
+      "updated_at": "2026-08-25T21:39:34.776514+00:00",
       "items": [
         {
           "title": "NSE IPO coming soon: Should investors buy unlisted shares now or wait for the mega issue?",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-25T21:02:05.076390+00:00",
+      "updated_at": "2026-08-25T21:39:35.191459+00:00",
       "items": [
+        {
+          "title": "Oil Falls on Fresh Iran War Diplomacy, Talks on Hormuz",
+          "link": "https://www.livemint.com/market/oil-falls-on-fresh-iran-war-diplomacy-talks-on-hormuz-11787692674565.html",
+          "pubDate": "2026-08-26T02:47:54+05:30"
+        },
         {
           "title": "Short Squeeze in US Swaps, Options Shows ‘Bessent Put’ at Work",
           "link": "https://www.livemint.com/market/short-squeeze-in-us-swaps-options-shows-bessent-put-at-work-11787685652584.html",
@@ -940,17 +945,12 @@
           "title": "Piramal Finance  ₹2,100 crore QIP: Check key dates, indicative issue price, purpose behind fund raise",
           "link": "https://www.livemint.com/market/stock-market-news/piramal-finance-2-100-crore-qip-check-key-dates-indicative-issue-price-purpose-behind-fund-raise-11787632998420.html",
           "pubDate": "2026-08-25T10:29:51+05:30"
-        },
-        {
-          "title": "Sunshine Pictures IPO listing: Shares debut at a 10% premium on the NSE despite weak stock market sentiment",
-          "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-listing-shares-debut-at-a-10-premium-on-the-nse-despite-weak-stock-market-sentiment-11787631340903.html",
-          "pubDate": "2026-08-25T10:01:39+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-25T21:02:05.317911+00:00",
+      "updated_at": "2026-08-25T21:39:35.542131+00:00",
       "items": [
         {
           "title": "Bitcoin tops $80,000 as optimistic mood returns to crypto market",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-25T21:02:06.266893+00:00",
+      "updated_at": "2026-08-25T21:39:36.299545+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 27, 2026",

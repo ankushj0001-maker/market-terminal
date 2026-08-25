@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T18:53:53.275127+00:00",
+  "generated_at": "2026-08-25T19:20:15.104915+00:00",
   "indices": {
     "nifty50": {
       "price": 24334.55,
@@ -68,7 +68,7 @@
         24334.55078125
       ],
       "ok": true,
-      "updated_at": "2026-08-25T18:53:50.614005+00:00"
+      "updated_at": "2026-08-25T19:20:12.891175+00:00"
     },
     "sensex": {
       "price": 77656.09,
@@ -137,7 +137,7 @@
         77656.09375
       ],
       "ok": true,
-      "updated_at": "2026-08-25T18:53:50.717473+00:00"
+      "updated_at": "2026-08-25T19:20:13.002725+00:00"
     },
     "banknifty": {
       "price": 57514.2,
@@ -206,7 +206,7 @@
         57514.19921875
       ],
       "ok": true,
-      "updated_at": "2026-08-25T18:53:50.833528+00:00"
+      "updated_at": "2026-08-25T19:20:13.110541+00:00"
     },
     "vix": {
       "price": 11.075,
@@ -275,15 +275,13 @@
         11.074999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-25T18:53:50.933547+00:00"
+      "updated_at": "2026-08-25T19:20:13.224813+00:00"
     },
     "usdinr": {
-      "price": 95.41,
-      "change": -0.325,
-      "pct": -0.3395,
+      "price": 95.402,
+      "change": -0.333,
+      "pct": -0.3478,
       "closes": [
-        95.72000122070312,
-        95.72000122070312,
         95.70500183105469,
         95.7074966430664,
         95.7074966430664,
@@ -341,22 +339,18 @@
         95.4020004272461,
         95.4020004272461,
         95.4020004272461,
-        95.41000366210938
+        95.41000366210938,
+        95.4020004272461,
+        95.4020004272461
       ],
       "ok": true,
-      "updated_at": "2026-08-25T18:53:51.043400+00:00"
+      "updated_at": "2026-08-25T19:20:13.369118+00:00"
     },
     "gold": {
-      "price": 4707.3,
-      "change": 9.5,
-      "pct": 0.2022,
+      "price": 4716.1,
+      "change": 18.3,
+      "pct": 0.3895,
       "closes": [
-        4662.7998046875,
-        4671.7998046875,
-        4674.2998046875,
-        4677.60009765625,
-        4678.2001953125,
-        4674.89990234375,
         4681.60009765625,
         4679.7998046875,
         4685.10009765625,
@@ -410,22 +404,22 @@
         4704.39990234375,
         4705.10009765625,
         4706.0,
-        4707.2998046875
+        4707.89990234375,
+        4707.7001953125,
+        4711.39990234375,
+        4711.10009765625,
+        4716.2001953125,
+        4719.2001953125,
+        4716.10009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-25T18:53:51.173620+00:00"
+      "updated_at": "2026-08-25T19:20:13.484170+00:00"
     },
     "crude": {
-      "price": 82.4,
-      "change": -2.61,
-      "pct": -3.0702,
+      "price": 82.38,
+      "change": -2.63,
+      "pct": -3.0938,
       "closes": [
-        82.29000091552734,
-        82.43000030517578,
-        82.61000061035156,
-        82.31999969482422,
-        82.38999938964844,
-        82.45999908447266,
         82.61000061035156,
         82.58999633789062,
         82.80000305175781,
@@ -479,19 +473,22 @@
         82.33999633789062,
         82.43000030517578,
         82.38999938964844,
-        82.4000015258789
+        82.31999969482422,
+        82.29000091552734,
+        82.30000305175781,
+        82.30999755859375,
+        82.37999725341797,
+        82.30000305175781,
+        82.37999725341797
       ],
       "ok": true,
-      "updated_at": "2026-08-25T18:53:51.484973+00:00"
+      "updated_at": "2026-08-25T19:20:13.623011+00:00"
     },
     "us10y": {
-      "price": 4.641,
-      "change": -0.063,
-      "pct": -1.3393,
+      "price": 4.639,
+      "change": -0.065,
+      "pct": -1.3818,
       "closes": [
-        4.659999847412109,
-        4.664000034332275,
-        4.664000034332275,
         4.661999702453613,
         4.659999847412109,
         4.661999702453613,
@@ -547,17 +544,20 @@
         4.64300012588501,
         4.640999794006348,
         4.640999794006348,
+        4.64300012588501,
+        4.64300012588501,
+        4.640999794006348,
         4.640999794006348,
         4.640999794006348
       ],
       "ok": true,
-      "updated_at": "2026-08-25T18:53:51.586247+00:00"
+      "updated_at": "2026-08-25T19:20:13.734793+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-25T18:53:51.729088+00:00",
+      "updated_at": "2026-08-25T19:20:13.874669+00:00",
       "items": [
         {
           "title": "NSE IPO coming soon: Should investors buy unlisted shares now or wait for the mega issue?",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-25T18:53:52.259384+00:00",
+      "updated_at": "2026-08-25T19:20:14.073729+00:00",
       "items": [
+        {
+          "title": "Dollar edges lower as Iran sanctions, Treasury buybacks weighed",
+          "link": "https://www.livemint.com/market/dollar-edges-lower-as-iran-sanctions-treasury-buybacks-weighed-11787684911184.html",
+          "pubDate": "2026-08-26T00:38:30+05:30"
+        },
         {
           "title": "Government signals more PSU stake sales after Hindustan Copper OFS: Report",
           "link": "https://www.livemint.com/market/stock-market-news/government-signals-more-psu-stake-sales-after-hindustan-copper-ofs-report-11787677668931.html",
@@ -940,17 +945,12 @@
           "title": "Shankesh Jewellers share price makes a positive debut, stock opens with a 11.08% premium at  ₹103.30 apiece on NSE",
           "link": "https://www.livemint.com/market/ipo/shankesh-jewellers-share-price-makes-a-positive-debut-stock-opens-with-a-11-08-premium-at-rs-103-30-apiece-on-nse-11787631168108.html",
           "pubDate": "2026-08-25T10:00:04+05:30"
-        },
-        {
-          "title": "ESDS Software Solution IPO: Price band set at  ₹408- ₹429 per share; check key dates, issue details",
-          "link": "https://www.livemint.com/market/ipo/esds-software-solution-ipo-price-band-set-at-rs-408-rs-429-per-share-check-key-dates-issue-details-11787628080100.html",
-          "pubDate": "2026-08-25T09:15:04+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-25T18:53:52.357384+00:00",
+      "updated_at": "2026-08-25T19:20:14.176047+00:00",
       "items": [
         {
           "title": "Bitcoin tops $80,000 as optimistic mood returns to crypto market",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-25T18:53:53.275108+00:00",
+      "updated_at": "2026-08-25T19:20:15.104899+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 27, 2026",

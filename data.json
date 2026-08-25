@@ -1,54 +1,83 @@
 {
-  "generated_at": "2026-08-25T03:55:52.718371+00:00",
+  "generated_at": "2026-08-25T04:27:32.998228+00:00",
   "indices": {
     "nifty50": {
-      "price": 24176.85,
-      "change": -42.2,
-      "pct": -0.1742,
+      "price": 24148.15,
+      "change": -70.9,
+      "pct": -0.2927,
       "closes": [
         24184.05078125,
         24175.05078125,
-        24176.849609375
+        24181.5,
+        24190.900390625,
+        24172.80078125,
+        24155.150390625,
+        24154.150390625,
+        24138.099609375,
+        24143.150390625,
+        24148.150390625
       ],
       "ok": true,
-      "updated_at": "2026-08-25T03:55:49.501907+00:00"
+      "updated_at": "2026-08-25T04:27:29.855134+00:00"
     },
     "sensex": {
-      "price": 77295.49,
-      "change": -73.62,
-      "pct": -0.0952,
-      "closes": [],
+      "price": 77269.01,
+      "change": -100.1,
+      "pct": -0.1294,
+      "closes": [
+        77325.4609375,
+        77311.6875,
+        77338.609375,
+        77371.359375,
+        77310.828125,
+        77271.3671875,
+        77269.0078125
+      ],
       "ok": true,
-      "updated_at": "2026-08-25T03:55:49.660676+00:00"
+      "updated_at": "2026-08-25T04:27:30.035021+00:00"
     },
     "banknifty": {
-      "price": 57529.05,
-      "change": 3.1,
-      "pct": 0.0054,
+      "price": 57507.95,
+      "change": -18.0,
+      "pct": -0.0313,
       "closes": [
         57458.30078125,
         57494.44921875,
-        57529.05078125
+        57550.6015625,
+        57620.55078125,
+        57544.30078125,
+        57517.69921875,
+        57505.69921875,
+        57481.55078125,
+        57499.94921875,
+        57507.94921875
       ],
       "ok": true,
-      "updated_at": "2026-08-25T03:55:49.827926+00:00"
+      "updated_at": "2026-08-25T04:27:30.262322+00:00"
     },
     "vix": {
-      "price": 10.988,
-      "change": -0.537,
-      "pct": -4.6594,
+      "price": 11.333,
+      "change": -0.192,
+      "pct": -1.6659,
       "closes": [
         11.077500343322754,
         10.962499618530273,
-        10.987500190734863
+        11.272500038146973,
+        10.864999771118164,
+        11.319999694824219,
+        11.404999732971191,
+        11.395000457763672,
+        11.442500114440918,
+        11.302499771118164,
+        11.332500457763672
       ],
       "ok": true,
-      "updated_at": "2026-08-25T03:55:50.062168+00:00"
+      "updated_at": "2026-08-25T04:27:30.425421+00:00"
     },
     "usdinr": {
-      "price": 95.73,
-      "change": -0.005,
-      "pct": -0.0052,
+      "price": 95.7025,
+      "change": -0.0325,
+      "pct": -0.0339,
       "closes": [
         95.73500061035156,
         95.73500061035156,
@@ -58,148 +87,45 @@
         95.7229995727539,
         95.73249816894531,
         95.7300033569336,
-        95.7300033569336
+        95.7300033569336,
+        95.7125015258789,
+        95.7125015258789,
+        95.70999908447266,
+        95.70500183105469,
+        95.69499969482422,
+        95.697998046875,
+        95.70249938964844
       ],
       "ok": true,
-      "updated_at": "2026-08-25T03:55:50.222240+00:00"
+      "updated_at": "2026-08-25T04:27:30.590444+00:00"
     },
     "gold": {
-      "price": 4689.6,
-      "change": -8.2,
-      "pct": -0.1745,
+      "price": 4690.6,
+      "change": -7.2,
+      "pct": -0.1533,
       "closes": [
-        4724.5,
-        4725.2998046875,
-        4726.2998046875,
-        4729.2001953125,
-        4731.7998046875,
-        4731.5,
-        4726.0,
-        4729.39990234375,
-        4732.10009765625,
-        4734.0,
-        4734.0,
-        4736.5,
-        4737.2001953125,
-        4735.0,
-        4739.0,
-        4747.7998046875,
-        4738.5,
-        4737.0,
-        4739.7998046875,
-        4745.2998046875,
-        4752.5,
-        4751.2998046875,
-        4749.89990234375,
-        4745.7001953125,
-        4741.0,
-        4734.0,
-        4735.60009765625,
-        4735.0,
-        4734.5,
-        4723.5,
-        4726.0,
-        4724.60009765625,
-        4725.10009765625,
-        4726.7001953125,
-        4731.60009765625,
-        4721.39990234375,
-        4714.5,
-        4708.0,
-        4701.10009765625,
-        4698.2001953125,
-        4705.89990234375,
-        4710.7001953125,
-        4712.7998046875,
-        4702.7998046875,
-        4699.89990234375,
-        4687.7998046875,
-        4689.39990234375,
-        4682.60009765625,
-        4685.5,
-        4679.5,
-        4690.89990234375,
-        4689.5,
-        4691.10009765625,
         4690.39990234375,
-        4693.89990234375,
-        4696.0,
-        4691.2001953125,
-        4690.10009765625,
-        4689.60009765625,
-        4689.60009765625
+        4691.7001953125,
+        4693.2001953125,
+        4690.0,
+        4690.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-08-25T03:55:50.444695+00:00"
+      "updated_at": "2026-08-25T04:27:30.754511+00:00"
     },
     "crude": {
-      "price": 85.4,
-      "change": 0.39,
-      "pct": 0.4588,
+      "price": 85.33,
+      "change": 0.32,
+      "pct": 0.3764,
       "closes": [
-        85.0999984741211,
-        85.08999633789062,
-        85.11000061035156,
-        85.1500015258789,
-        85.16000366210938,
-        85.16000366210938,
-        85.18000030517578,
-        85.20999908447266,
-        85.13999938964844,
-        85.16999816894531,
-        85.19000244140625,
-        85.19000244140625,
-        85.19000244140625,
-        85.23999786376953,
-        85.12000274658203,
-        85.13999938964844,
-        85.12999725341797,
-        85.0999984741211,
-        85.11000061035156,
-        85.04000091552734,
-        85.08000183105469,
-        84.91000366210938,
-        84.9000015258789,
-        84.8499984741211,
-        84.77999877929688,
-        85.06999969482422,
-        85.27999877929688,
-        85.13999938964844,
-        85.0999984741211,
-        85.2300033569336,
-        85.23999786376953,
-        85.26000213623047,
-        85.27999877929688,
-        85.37000274658203,
-        85.41999816894531,
-        85.3499984741211,
-        85.45999908447266,
-        85.66000366210938,
-        85.66000366210938,
-        85.76000213623047,
-        85.79000091552734,
-        85.75,
-        85.69999694824219,
-        85.73999786376953,
-        85.58999633789062,
-        85.61000061035156,
-        85.56999969482422,
-        85.5199966430664,
-        85.55999755859375,
-        85.48999786376953,
-        85.30000305175781,
-        85.33999633789062,
-        85.20999908447266,
-        85.33999633789062,
-        85.3499984741211,
-        85.41000366210938,
-        85.38999938964844,
-        85.41999816894531,
-        85.41000366210938,
-        85.4000015258789
+        85.44000244140625,
+        85.4000015258789,
+        85.36000061035156,
+        85.30999755859375,
+        85.33000183105469
       ],
       "ok": true,
-      "updated_at": "2026-08-25T03:55:50.689353+00:00"
+      "updated_at": "2026-08-25T04:27:30.910642+00:00"
     },
     "us10y": {
       "price": 4.704,
@@ -268,13 +194,13 @@
         4.703999996185303
       ],
       "ok": true,
-      "updated_at": "2026-08-25T03:55:50.862939+00:00"
+      "updated_at": "2026-08-25T04:27:31.080855+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-25T03:55:51.048440+00:00",
+      "updated_at": "2026-08-25T04:27:31.257344+00:00",
       "items": [
         {
           "title": "Positive Breakout: These 8 stocks cross above their 200 DMAs",
@@ -430,7 +356,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-25T03:55:51.147889+00:00",
+      "updated_at": "2026-08-25T04:27:31.720797+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -511,7 +437,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-25T03:55:51.453467+00:00",
+      "updated_at": "2026-08-25T04:27:31.843647+00:00",
       "items": [
         {
           "title": "ESDS Software Solution IPO: Price band set at  ₹408- ₹429 per share; check key dates, issue details",
@@ -667,8 +593,28 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-25T03:55:51.616865+00:00",
+      "updated_at": "2026-08-25T04:27:31.994147+00:00",
       "items": [
+        {
+          "title": "India house price index rises 1.1% in Q1 on sequential basis: RBI",
+          "link": "https://www.business-standard.com/markets/capital-market-news/india-house-price-index-rises-1-1-in-q1-on-sequential-basis-rbi-126082500165_1.html",
+          "pubDate": "2026-08-25T09:50:02+05:30"
+        },
+        {
+          "title": "Sigma Advanced Systems secures further 125m long-term contract with Rolls-Royce",
+          "link": "https://www.business-standard.com/markets/capital-market-news/sigma-advanced-systems-secures-further-125m-long-term-contract-with-rolls-royce-126082500147_1.html",
+          "pubDate": "2026-08-25T09:31:16+05:30"
+        },
+        {
+          "title": "Sudarshan Chem signs asset sale and transfer agreement with Clariant Additives (Switzerland) AG",
+          "link": "https://www.business-standard.com/markets/capital-market-news/sudarshan-chem-signs-asset-sale-and-transfer-agreement-with-clariant-additives-switzerland-ag-126082500145_1.html",
+          "pubDate": "2026-08-25T09:31:01+05:30"
+        },
+        {
+          "title": "Annu Projects IPO kicks off: Why analysts are split on this EPC infra firm",
+          "link": "https://www.business-standard.com/markets/ipo/annu-projects-ipo-kicks-off-why-analysts-are-split-on-this-epc-infra-firm-126082500132_1.html",
+          "pubDate": "2026-08-25T09:30:23+05:30"
+        },
         {
           "title": "Asian shares slip as tech stocks weigh ahead of key Nvidia results",
           "link": "https://www.business-standard.com/markets/news/asian-shares-slip-as-tech-stocks-weigh-ahead-of-key-nvidia-results-126082500079_1.html",
@@ -725,9 +671,9 @@
           "pubDate": "2026-08-25T08:07:20+05:30"
         },
         {
-          "title": "Stock Market LIVE: Sensex falls 100 pts, Nifty around 24,150; bank shares weigh",
+          "title": "Stock Market LIVE: Sensex drops 100 pts, Nifty below 24,200; Brigade Hotel shares jump 6%",
           "link": "https://www.business-standard.com/markets/news/stock-market-live-august-25-nse-bse-sensex-today-nifty50-gift-nifty-tempsens-instruments-ipo-allotment-today-126082500083_1.html",
-          "pubDate": "2026-08-25T07:57:30+05:30"
+          "pubDate": "2026-08-25T07:57:49+05:30"
         },
         {
           "title": "Hindustan Zinc among top 3 stock picks by Geojit Investments for near term",
@@ -798,32 +744,12 @@
           "title": "CSM Technologies to adopt MOSIP framework to strengthen its DPI capabilities",
           "link": "https://www.business-standard.com/markets/capital-market-news/csm-technologies-to-adopt-mosip-framework-to-strengthen-its-dpi-capabilities-126082400918_1.html",
           "pubDate": "2026-08-24T17:31:30+05:30"
-        },
-        {
-          "title": "Tolins Group to establish reclaim rubber manufacturing unit in Kerala",
-          "link": "https://www.business-standard.com/markets/capital-market-news/tolins-group-to-establish-reclaim-rubber-manufacturing-unit-in-kerala-126082400917_1.html",
-          "pubDate": "2026-08-24T17:31:21+05:30"
-        },
-        {
-          "title": "Augmont Enterprises IPO subscribed 14.46 times",
-          "link": "https://www.business-standard.com/markets/capital-market-news/augmont-enterprises-ipo-subscribed-14-46-times-126082400916_1.html",
-          "pubDate": "2026-08-24T17:31:11+05:30"
-        },
-        {
-          "title": "Symbiotec Pharmalab IPO subscribed 80%",
-          "link": "https://www.business-standard.com/markets/capital-market-news/symbiotec-pharmalab-ipo-subscribed-80-126082400915_1.html",
-          "pubDate": "2026-08-24T17:31:01+05:30"
-        },
-        {
-          "title": "Skyways Air Services IPO subscribed 1.16 times",
-          "link": "https://www.business-standard.com/markets/capital-market-news/skyways-air-services-ipo-subscribed-1-16-times-126082400884_1.html",
-          "pubDate": "2026-08-24T17:16:09+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-25T03:55:52.718354+00:00",
+      "updated_at": "2026-08-25T04:27:32.998212+00:00",
       "items": [
         {
           "title": "Money Market Operations as on August 24, 2026",

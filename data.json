@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T13:24:01.212455+00:00",
+  "generated_at": "2026-08-25T14:09:36.721948+00:00",
   "indices": {
     "nifty50": {
       "price": 24334.55,
@@ -68,7 +68,7 @@
         24334.55078125
       ],
       "ok": true,
-      "updated_at": "2026-08-25T13:23:58.909288+00:00"
+      "updated_at": "2026-08-25T14:09:34.359982+00:00"
     },
     "sensex": {
       "price": 77656.09,
@@ -137,7 +137,7 @@
         77656.09375
       ],
       "ok": true,
-      "updated_at": "2026-08-25T13:23:59.017550+00:00"
+      "updated_at": "2026-08-25T14:09:34.447274+00:00"
     },
     "banknifty": {
       "price": 57514.2,
@@ -206,7 +206,7 @@
         57514.19921875
       ],
       "ok": true,
-      "updated_at": "2026-08-25T13:23:59.156666+00:00"
+      "updated_at": "2026-08-25T14:09:34.543510+00:00"
     },
     "vix": {
       "price": 11.075,
@@ -275,12 +275,12 @@
         11.074999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-25T13:23:59.225292+00:00"
+      "updated_at": "2026-08-25T14:09:34.614957+00:00"
     },
     "usdinr": {
-      "price": 95.41,
-      "change": -0.325,
-      "pct": -0.3395,
+      "price": 95.402,
+      "change": -0.333,
+      "pct": -0.3478,
       "closes": [
         95.71299743652344,
         95.72000122070312,
@@ -341,25 +341,16 @@
         95.4020004272461,
         95.41000366210938,
         95.41000366210938,
-        95.41000366210938
+        95.4020004272461
       ],
       "ok": true,
-      "updated_at": "2026-08-25T13:23:59.300964+00:00"
+      "updated_at": "2026-08-25T14:09:34.716165+00:00"
     },
     "gold": {
-      "price": 4684.8,
-      "change": -13.0,
-      "pct": -0.2767,
+      "price": 4670.4,
+      "change": -27.4,
+      "pct": -0.5833,
       "closes": [
-        4684.89990234375,
-        4700.10009765625,
-        4689.2001953125,
-        4691.0,
-        4686.2001953125,
-        4687.89990234375,
-        4683.7998046875,
-        4682.39990234375,
-        4685.7001953125,
         4682.2998046875,
         4688.60009765625,
         4686.0,
@@ -409,26 +400,26 @@
         4695.7001953125,
         4689.60009765625,
         4686.7998046875,
-        4678.5,
-        4684.7998046875
+        4678.2998046875,
+        4681.10009765625,
+        4669.10009765625,
+        4665.0,
+        4676.89990234375,
+        4670.60009765625,
+        4667.7998046875,
+        4661.7001953125,
+        4662.7998046875,
+        4671.39990234375,
+        4670.39990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-25T13:23:59.383554+00:00"
+      "updated_at": "2026-08-25T14:09:34.798258+00:00"
     },
     "crude": {
-      "price": 81.83,
-      "change": -3.18,
-      "pct": -3.7407,
+      "price": 82.45,
+      "change": -2.56,
+      "pct": -3.0114,
       "closes": [
-        83.56999969482422,
-        83.93000030517578,
-        83.5,
-        83.6500015258789,
-        83.43000030517578,
-        83.33000183105469,
-        83.29000091552734,
-        83.0199966430664,
-        82.94000244140625,
         82.87999725341797,
         82.87999725341797,
         82.72000122070312,
@@ -479,15 +470,24 @@
         82.0999984741211,
         82.08999633789062,
         82.0,
-        81.83000183105469
+        82.36000061035156,
+        82.43000030517578,
+        82.4000015258789,
+        82.44000244140625,
+        82.31999969482422,
+        82.2300033569336,
+        82.20999908447266,
+        82.29000091552734,
+        82.43000030517578,
+        82.44999694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-25T13:23:59.477318+00:00"
+      "updated_at": "2026-08-25T14:09:34.900490+00:00"
     },
     "us10y": {
-      "price": 4.656,
-      "change": -0.048,
-      "pct": -1.0204,
+      "price": 4.664,
+      "change": -0.04,
+      "pct": -0.8503,
       "closes": [
         4.668000221252441,
         4.665999889373779,
@@ -498,17 +498,26 @@
         4.6579999923706055,
         4.659999847412109,
         4.656000137329102,
+        4.6529998779296875,
+        4.64900016784668,
         4.656000137329102,
-        4.656000137329102
+        4.6579999923706055,
+        4.6579999923706055,
+        4.661999702453613,
+        4.659999847412109,
+        4.664000034332275,
+        4.659999847412109,
+        4.664000034332275,
+        4.664000034332275
       ],
       "ok": true,
-      "updated_at": "2026-08-25T13:23:59.559292+00:00"
+      "updated_at": "2026-08-25T14:09:34.983706+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-25T13:23:59.625897+00:00",
+      "updated_at": "2026-08-25T14:09:35.106784+00:00",
       "items": [
         {
           "title": "NSE IPO coming soon: Should investors buy unlisted shares now or wait for the mega issue?",
@@ -664,7 +673,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-25T13:23:59.999949+00:00",
+      "updated_at": "2026-08-25T14:09:35.204521+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -745,8 +754,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-25T13:24:00.085949+00:00",
+      "updated_at": "2026-08-25T14:09:35.674137+00:00",
       "items": [
+        {
+          "title": "Scott Bessent’s bond buyback strategy draws criticism from Druckenmiller, JPMorgan: ‘Paying mortgage with credit card’",
+          "link": "https://www.livemint.com/market/bonds/scott-bessent-s-bond-buyback-strategy-draws-criticism-from-druckenmiller-jpmorgan-paying-mortgage-with-credit-card-11787661389133.html",
+          "pubDate": "2026-08-25T19:05:33+05:30"
+        },
         {
           "title": "Taiwan index: Asian bourse jumps 85% in one year | Top 5 gainers &amp; losers you MUST Know",
           "link": "https://www.livemint.com/market/taiwan-index-asian-bourse-jumps-85-in-one-year-top-5-gainers-losers-you-must-know-11787658897377.html",
@@ -891,18 +905,33 @@
           "title": "Stocks to buy for short term: PNB, NMDC among 6 stocks experts recommend buying today for next 1-2 weeks",
           "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-pnb-nmdc-among-6-stocks-experts-recommend-buying-today-for-next-1-2-weeks-11787625693037.html",
           "pubDate": "2026-08-25T08:37:40+05:30"
-        },
-        {
-          "title": "Sensex, Nifty, Nikkei, KOSPI to Dow Jones: Global equity heatmap before the opening bell of the Indian stock market",
-          "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-nikkei-kospi-to-dow-jones-global-equity-heatmap-before-the-opening-bell-of-the-indian-stock-market-11787622491284.html",
-          "pubDate": "2026-08-25T08:18:55+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-25T13:24:00.233069+00:00",
+      "updated_at": "2026-08-25T14:09:35.769136+00:00",
       "items": [
+        {
+          "title": "HEG demerger becomes effective from 07 Sep 2026",
+          "link": "https://www.business-standard.com/markets/capital-market-news/heg-demerger-becomes-effective-from-07-sep-2026-126082501237_1.html",
+          "pubDate": "2026-08-25T19:31:17+05:30"
+        },
+        {
+          "title": "BRGIL secures Jajau Fee Plaza toll collection and maintenance contract worth Rs 151 cr",
+          "link": "https://www.business-standard.com/markets/capital-market-news/brgil-secures-jajau-fee-plaza-toll-collection-and-maintenance-contract-worth-rs-151-cr-126082501236_1.html",
+          "pubDate": "2026-08-25T19:31:09+05:30"
+        },
+        {
+          "title": "Noumed Pharmaceuticals renews its supply agreement with leading Australian pharmacy chain",
+          "link": "https://www.business-standard.com/markets/capital-market-news/noumed-pharmaceuticals-renews-its-supply-agreement-with-leading-australian-pharmacy-chain-126082501235_1.html",
+          "pubDate": "2026-08-25T19:31:02+05:30"
+        },
+        {
+          "title": "Fortune expands its mustard oil portfolio with launch of Yellow Mustard Oil",
+          "link": "https://www.business-standard.com/markets/capital-market-news/fortune-expands-its-mustard-oil-portfolio-with-launch-of-yellow-mustard-oil-126082501217_1.html",
+          "pubDate": "2026-08-25T19:16:02+05:30"
+        },
         {
           "title": "NBCC bags Rs 122-cr order from Rajasthan Council of School Education",
           "link": "https://www.business-standard.com/markets/capital-market-news/nbcc-bags-rs-122-cr-order-from-rajasthan-council-of-school-education-126082501167_1.html",
@@ -1032,33 +1061,18 @@
           "title": "Hindustan Copper Ltd leads losers in 'A' group",
           "link": "https://www.business-standard.com/markets/capital-market-news/hindustan-copper-ltd-leads-losers-in-a-group-126082500813_1.html",
           "pubDate": "2026-08-25T15:50:51+05:30"
-        },
-        {
-          "title": "Shah Metacorp Ltd leads losers in 'B' group",
-          "link": "https://www.business-standard.com/markets/capital-market-news/shah-metacorp-ltd-leads-losers-in-b-group-126082500812_1.html",
-          "pubDate": "2026-08-25T15:50:44+05:30"
-        },
-        {
-          "title": "Volumes jump at Fertilizers & Chemicals Travancore Ltd counter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/volumes-jump-at-fertilizers-chemicals-travancore-ltd-counter-126082500811_1.html",
-          "pubDate": "2026-08-25T15:50:36+05:30"
-        },
-        {
-          "title": "Samvardhana Motherson International Ltd down for fifth straight session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/samvardhana-motherson-international-ltd-down-for-fifth-straight-session-126082500810_1.html",
-          "pubDate": "2026-08-25T15:50:29+05:30"
-        },
-        {
-          "title": "Sona BLW Precision Forgings Ltd down for fifth straight session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/sona-blw-precision-forgings-ltd-down-for-fifth-straight-session-126082500809_1.html",
-          "pubDate": "2026-08-25T15:50:21+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-25T13:24:01.212436+00:00",
+      "updated_at": "2026-08-25T14:09:36.721929+00:00",
       "items": [
+        {
+          "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 27, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63445",
+          "pubDate": "2026-08-25T19:05:00+00:00"
+        },
         {
           "title": "RBI Bulletin – August 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63444",
@@ -1103,11 +1117,6 @@
           "title": "All-India House Price Index for Q1:2026-27",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63436",
           "pubDate": "2026-08-24T17:30:00+00:00"
-        },
-        {
-          "title": "RBI imposes monetary penalty on Vikas Souharda Co-operative Bank Limited, Hosapete, Karnataka",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63435",
-          "pubDate": "2026-08-24T17:25:00+00:00"
         }
       ]
     }

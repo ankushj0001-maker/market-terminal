@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T11:49:43.052789+00:00",
+  "generated_at": "2026-08-25T12:19:40.439880+00:00",
   "indices": {
     "nifty50": {
       "price": 24334.55,
@@ -68,7 +68,7 @@
         24334.55078125
       ],
       "ok": true,
-      "updated_at": "2026-08-25T11:49:40.059491+00:00"
+      "updated_at": "2026-08-25T12:19:38.029681+00:00"
     },
     "sensex": {
       "price": 77656.09,
@@ -137,7 +137,7 @@
         77656.09375
       ],
       "ok": true,
-      "updated_at": "2026-08-25T11:49:40.167862+00:00"
+      "updated_at": "2026-08-25T12:19:38.141163+00:00"
     },
     "banknifty": {
       "price": 57514.2,
@@ -206,7 +206,7 @@
         57514.19921875
       ],
       "ok": true,
-      "updated_at": "2026-08-25T11:49:40.284030+00:00"
+      "updated_at": "2026-08-25T12:19:38.249956+00:00"
     },
     "vix": {
       "price": 11.075,
@@ -275,7 +275,7 @@
         11.074999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-25T11:49:40.392828+00:00"
+      "updated_at": "2026-08-25T12:19:38.417562+00:00"
     },
     "usdinr": {
       "price": 95.41,
@@ -344,19 +344,13 @@
         95.41000366210938
       ],
       "ok": true,
-      "updated_at": "2026-08-25T11:49:40.520326+00:00"
+      "updated_at": "2026-08-25T12:19:38.528683+00:00"
     },
     "gold": {
-      "price": 4699.2,
-      "change": 1.4,
-      "pct": 0.0298,
+      "price": 4692.9,
+      "change": -4.9,
+      "pct": -0.1043,
       "closes": [
-        4704.0,
-        4704.10009765625,
-        4698.0,
-        4694.60009765625,
-        4696.2001953125,
-        4697.5,
         4696.2001953125,
         4697.60009765625,
         4697.0,
@@ -409,23 +403,23 @@
         4697.89990234375,
         4697.2001953125,
         4698.7998046875,
-        4700.60009765625,
-        4699.2001953125
+        4700.7001953125,
+        4696.60009765625,
+        4700.89990234375,
+        4699.7998046875,
+        4698.39990234375,
+        4692.60009765625,
+        4693.10009765625,
+        4692.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-08-25T11:49:40.620195+00:00"
+      "updated_at": "2026-08-25T12:19:38.639978+00:00"
     },
     "crude": {
-      "price": 82.33,
-      "change": -2.68,
-      "pct": -3.1526,
+      "price": 82.01,
+      "change": -3.0,
+      "pct": -3.529,
       "closes": [
-        84.5199966430664,
-        84.16999816894531,
-        84.26000213623047,
-        84.23999786376953,
-        84.23999786376953,
-        84.41000366210938,
         84.29000091552734,
         84.44000244140625,
         84.47000122070312,
@@ -479,10 +473,16 @@
         82.5,
         82.31999969482422,
         82.29000091552734,
-        82.33000183105469
+        82.18000030517578,
+        81.83999633789062,
+        81.97000122070312,
+        81.94999694824219,
+        81.97000122070312,
+        81.97000122070312,
+        82.01000213623047
       ],
       "ok": true,
-      "updated_at": "2026-08-25T11:49:40.720248+00:00"
+      "updated_at": "2026-08-25T12:19:38.750104+00:00"
     },
     "us10y": {
       "price": 4.704,
@@ -551,13 +551,13 @@
         4.703999996185303
       ],
       "ok": true,
-      "updated_at": "2026-08-25T11:49:40.832063+00:00"
+      "updated_at": "2026-08-25T12:19:38.863324+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-25T11:49:41.825994+00:00",
+      "updated_at": "2026-08-25T12:19:38.929565+00:00",
       "items": [
         {
           "title": "NSE IPO coming soon: Should investors buy unlisted shares now or wait for the mega issue?",
@@ -712,7 +712,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-25T11:49:41.919836+00:00",
       "items": [
         {
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-25T11:49:42.040188+00:00",
+      "updated_at": "2026-08-25T12:19:39.406379+00:00",
       "items": [
+        {
+          "title": "Retail traded options big time despite curbs , Sebi study",
+          "link": "https://www.livemint.com/market/retail-traded-options-big-time-despite-curbs-sebi-study-11787646980276.html",
+          "pubDate": "2026-08-25T17:33:59+05:30"
+        },
         {
           "title": "Stock market prediction tomorrow, 26 August: What will happen to Sensex, Nifty, Hang Seng, KOSPI, Nikkei on Wednesday",
           "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-tomorrow-26-august-what-will-happen-to-sensex-nifty-hang-seng-kospi-and-nikkei-on-wednesday-11787656285637.html",
@@ -940,18 +945,43 @@
           "title": "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 25 August 2026",
           "link": "https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-25-august-2026-11787588928686.html",
           "pubDate": "2026-08-25T08:11:54+05:30"
-        },
-        {
-          "title": "Bitcoin Rides Debasement Trade to Three-Month High Above $80,000",
-          "link": "https://www.livemint.com/market/bitcoin-rides-debasement-trade-to-three-month-high-above-80000-11787625670227.html",
-          "pubDate": "2026-08-25T08:11:09+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-25T11:49:42.219899+00:00",
+      "updated_at": "2026-08-25T12:19:39.498568+00:00",
       "items": [
+        {
+          "title": "Hy-Tech Engineers IPO subscribed 19.31 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/hy-tech-engineers-ipo-subscribed-19-31-times-126082500972_1.html",
+          "pubDate": "2026-08-25T17:31:33+05:30"
+        },
+        {
+          "title": "Skyways Air Services IPO subscribed 2.46 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/skyways-air-services-ipo-subscribed-2-46-times-126082500971_1.html",
+          "pubDate": "2026-08-25T17:31:26+05:30"
+        },
+        {
+          "title": "Annu Projects IPO subscribed 34%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/annu-projects-ipo-subscribed-34-126082500970_1.html",
+          "pubDate": "2026-08-25T17:31:18+05:30"
+        },
+        {
+          "title": "Symbiotec Pharmalab IPO subscribed 1.85 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/symbiotec-pharmalab-ipo-subscribed-1-85-times-126082500969_1.html",
+          "pubDate": "2026-08-25T17:31:10+05:30"
+        },
+        {
+          "title": "Sensex gains 287 points, Nifty ends above 24,300 after volatile session",
+          "link": "https://www.business-standard.com/markets/capital-market-news/sensex-gains-287-points-nifty-ends-above-24-300-after-volatile-session-126082500945_1.html",
+          "pubDate": "2026-08-25T17:16:09+05:30"
+        },
+        {
+          "title": "Quick Wrap: Nifty Pharma Index gains 0.85%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/quick-wrap-nifty-pharma-index-gains-0-85-126082500944_1.html",
+          "pubDate": "2026-08-25T17:16:01+05:30"
+        },
         {
           "title": "Japanese stocks recover as tech shares rebound",
           "link": "https://www.business-standard.com/markets/capital-market-news/japanese-stocks-recover-as-tech-shares-rebound-126082500920_1.html",
@@ -1071,43 +1101,18 @@
           "title": "Jindal Steel Ltd soars 0.27%, up for fifth straight session",
           "link": "https://www.business-standard.com/markets/capital-market-news/jindal-steel-ltd-soars-0-27-up-for-fifth-straight-session-126082500569_1.html",
           "pubDate": "2026-08-25T13:31:17+05:30"
-        },
-        {
-          "title": "Genesys International Corporation Ltd leads gainers in 'B' group",
-          "link": "https://www.business-standard.com/markets/capital-market-news/genesys-international-corporation-ltd-leads-gainers-in-b-group-126082500568_1.html",
-          "pubDate": "2026-08-25T13:31:08+05:30"
-        },
-        {
-          "title": "WazirX launches AI trading assistant for crypto research, trade execution",
-          "link": "https://www.business-standard.com/markets/cryptocurrency/wazirx-launches-ai-trading-assistant-for-crypto-research-trade-execution-126082500526_1.html",
-          "pubDate": "2026-08-25T13:20:46+05:30"
-        },
-        {
-          "title": "Kothari Industrial Corporation secures food services contract worth Rs 12 cr",
-          "link": "https://www.business-standard.com/markets/capital-market-news/kothari-industrial-corporation-secures-food-services-contract-worth-rs-12-cr-126082500556_1.html",
-          "pubDate": "2026-08-25T13:16:10+05:30"
-        },
-        {
-          "title": "Sebi drops Max, Axis entities case over alleged ₹3,911 cr shareholder loss",
-          "link": "https://www.business-standard.com/markets/news/sebi-drops-max-axis-entities-case-over-alleged-3-911-cr-shareholder-loss-126082500517_1.html",
-          "pubDate": "2026-08-25T13:13:28+05:30"
-        },
-        {
-          "title": "Indices pare losses; Nifty above 24,150 mark",
-          "link": "https://www.business-standard.com/markets/capital-market-news/indices-pare-losses-nifty-above-24-150-mark-126082500528_1.html",
-          "pubDate": "2026-08-25T12:50:07+05:30"
-        },
-        {
-          "title": "BJP to contest all 117 seats in Punjab Assembly polls",
-          "link": "https://www.business-standard.com/markets/capital-market-news/bjp-to-contest-all-117-seats-in-punjab-assembly-polls-126082500496_1.html",
-          "pubDate": "2026-08-25T12:31:11+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-25T11:49:43.052773+00:00",
+      "updated_at": "2026-08-25T12:19:40.439864+00:00",
       "items": [
+        {
+          "title": "RBI Bulletin – August 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63444",
+          "pubDate": "2026-08-25T17:30:00+00:00"
+        },
         {
           "title": "State Government Securities - Full Auction Result",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63443",
@@ -1152,11 +1157,6 @@
           "title": "RBI imposes monetary penalty on Vikas Souharda Co-operative Bank Limited, Hosapete, Karnataka",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63435",
           "pubDate": "2026-08-24T17:25:00+00:00"
-        },
-        {
-          "title": "RBI imposes monetary penalty on The Pragathi Co-operative Bank Limited, Karnataka",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63434",
-          "pubDate": "2026-08-24T17:20:00+00:00"
         }
       ]
     }

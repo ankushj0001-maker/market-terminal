@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-26T05:20:15.054050+00:00",
+  "generated_at": "2026-08-26T05:54:57.022864+00:00",
   "indices": {
     "nifty50": {
-      "price": 24317.6,
-      "change": -16.95,
-      "pct": -0.0697,
+      "price": 24302.9,
+      "change": -31.65,
+      "pct": -0.1301,
       "closes": [
         24318.30078125,
         24354.0,
@@ -25,15 +25,22 @@
         24320.849609375,
         24327.44921875,
         24317.900390625,
-        24317.599609375
+        24319.349609375,
+        24320.400390625,
+        24312.849609375,
+        24321.55078125,
+        24330.80078125,
+        24310.19921875,
+        24300.80078125,
+        24302.900390625
       ],
       "ok": true,
-      "updated_at": "2026-08-26T05:20:09.349744+00:00"
+      "updated_at": "2026-08-26T05:54:55.519296+00:00"
     },
     "sensex": {
-      "price": 77787.74,
-      "change": 131.65,
-      "pct": 0.1695,
+      "price": 77777.9,
+      "change": 121.81,
+      "pct": 0.1569,
       "closes": [
         77827.421875,
         77934.703125,
@@ -51,15 +58,22 @@
         77729.953125,
         77730.390625,
         77786.3984375,
-        77787.7421875
+        77790.2109375,
+        77810.953125,
+        77784.0,
+        77787.7109375,
+        77787.421875,
+        77758.6171875,
+        77770.21875,
+        77777.8984375
       ],
       "ok": true,
-      "updated_at": "2026-08-26T05:20:09.642849+00:00"
+      "updated_at": "2026-08-26T05:54:55.574005+00:00"
     },
     "banknifty": {
-      "price": 57923.25,
-      "change": 409.05,
-      "pct": 0.7112,
+      "price": 57911.65,
+      "change": 397.45,
+      "pct": 0.691,
       "closes": [
         57812.69921875,
         57913.94921875,
@@ -80,15 +94,22 @@
         57960.94921875,
         57938.8515625,
         57923.8515625,
-        57923.25
+        57892.5,
+        57897.94921875,
+        57868.6015625,
+        57898.0,
+        57954.44921875,
+        57908.5,
+        57900.55078125,
+        57911.6484375
       ],
       "ok": true,
-      "updated_at": "2026-08-26T05:20:09.878222+00:00"
+      "updated_at": "2026-08-26T05:54:55.628111+00:00"
     },
     "vix": {
-      "price": 10.7,
-      "change": -0.375,
-      "pct": -3.386,
+      "price": 10.797,
+      "change": -0.278,
+      "pct": -2.5102,
       "closes": [
         10.454999923706055,
         10.3774995803833,
@@ -109,10 +130,17 @@
         10.670000076293945,
         10.680000305175781,
         10.699999809265137,
-        10.699999809265137
+        10.717499732971191,
+        10.7524995803833,
+        10.712499618530273,
+        10.675000190734863,
+        10.6899995803833,
+        10.727499961853027,
+        10.782500267028809,
+        10.797499656677246
       ],
       "ok": true,
-      "updated_at": "2026-08-26T05:20:10.111010+00:00"
+      "updated_at": "2026-08-26T05:54:55.688111+00:00"
     },
     "usdinr": {
       "price": 95.402,
@@ -127,12 +155,12 @@
         95.4020004272461
       ],
       "ok": true,
-      "updated_at": "2026-08-26T05:20:10.337883+00:00"
+      "updated_at": "2026-08-26T05:54:55.740044+00:00"
     },
     "gold": {
-      "price": 4702.5,
-      "change": 8.0,
-      "pct": 0.1704,
+      "price": 4694.7,
+      "change": 0.2,
+      "pct": 0.0043,
       "closes": [
         4699.89990234375,
         4700.60009765625,
@@ -149,15 +177,21 @@
         4699.10009765625,
         4702.7001953125,
         4700.2001953125,
-        4702.5
+        4700.10009765625,
+        4700.60009765625,
+        4700.2001953125,
+        4702.7998046875,
+        4698.2998046875,
+        4695.0,
+        4694.7001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-26T05:20:10.572483+00:00"
+      "updated_at": "2026-08-26T05:54:55.792853+00:00"
     },
     "crude": {
-      "price": 80.53,
-      "change": -1.83,
-      "pct": -2.222,
+      "price": 80.88,
+      "change": -1.48,
+      "pct": -1.797,
       "closes": [
         80.37999725341797,
         80.37999725341797,
@@ -173,10 +207,17 @@
         80.61000061035156,
         80.48999786376953,
         80.52999877929688,
-        80.52999877929688
+        80.58999633789062,
+        80.70999908447266,
+        80.69000244140625,
+        80.76000213623047,
+        80.73999786376953,
+        80.8499984741211,
+        80.87999725341797,
+        80.87999725341797
       ],
       "ok": true,
-      "updated_at": "2026-08-26T05:20:10.809021+00:00"
+      "updated_at": "2026-08-26T05:54:55.842798+00:00"
     },
     "us10y": {
       "price": 4.639,
@@ -245,43 +286,43 @@
         4.638999938964844
       ],
       "ok": true,
-      "updated_at": "2026-08-26T05:20:11.045225+00:00"
+      "updated_at": "2026-08-26T05:54:55.901876+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-26T05:20:11.586065+00:00",
+      "updated_at": "2026-08-26T05:54:56.039037+00:00",
       "items": [
         {
-          "title": "Sensex rises over 300 points; Nifty above 24,350 as oil prices slide. What lies ahead?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-200-points-nifty-nears-24350-as-oil-prices-slide-what-lies-ahead/articleshow/133528847.cms",
-          "pubDate": "2026-08-26T09:26:10+05:30"
+          "title": "Buy, Sell or Hold: Morgan Stanley maintains overweight on Varun Beverages; Nuvama retains hold on Cyient",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/buy-sell-or-hold-morgan-stanley-maintains-overweight-on-varun-beverages-nuvama-retains-hold-on-cyient/articleshow/133529809.cms",
+          "pubDate": "2026-08-26T10:11:01+05:30"
         },
         {
-          "title": "HEG demerger: What 1:1 restructuring mean for shareholders as company fixes record date?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/heg-shares-in-focus-as-company-fixes-record-date-for-demerger-what-it-means-for-shareholders/articleshow/133528755.cms",
-          "pubDate": "2026-08-26T09:17:44+05:30"
+          "title": "MTAR Tech shares rally 3%, extend gains for second session. What’s triggering the surge?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mtar-tech-shares-rally-3-extend-gains-for-second-session-whats-triggering-the-surge/articleshow/133529737.cms",
+          "pubDate": "2026-08-26T10:07:17+05:30"
         },
         {
-          "title": "Groww shares fall 3% after Rs 2,500 crore block deal; Ribbit likely seller",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/groww-shares-in-focus-as-ribbit-likely-sells-stake-through-rs-1914-crore-block-deal/articleshow/133528618.cms",
-          "pubDate": "2026-08-26T09:05:17+05:30"
+          "title": "Hy-Tech Engineers IPO Day 3: GMP at 57%, subscription reaches 19.33x. Should you subscribe?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/hy-tech-engineers-ipo-day-3-gmp-at-57-subscription-reaches-19-33x-should-you-subscribe/articleshow/133529025.cms",
+          "pubDate": "2026-08-26T09:35:11+05:30"
         },
         {
-          "title": "ESDS to expand data centre operations with Rs 720-cr IPO proceeds",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/esds-to-expand-data-centre-operations-with-of-rs-720-cr-ipo-proceeds/articleshow/133526906.cms",
-          "pubDate": "2026-08-26T06:11:08+05:30"
+          "title": "Over Rs 1 crore invested in mutual funds, NPS, PPF and FDs: Should this PSU banker increase equity exposure with 18 years to retirement?",
+          "link": "https://economictimes.indiatimes.com/mf/analysis/over-rs-1-crore-invested-in-mutual-funds-nps-ppf-and-fds-should-this-psu-banker-increase-equity-exposure-with-18-years-to-retirement/articleshow/133528903.cms",
+          "pubDate": "2026-08-26T09:30:27+05:30"
         },
         {
-          "title": "Hindustan Copper OFS may not be a big draw for retail investors: Analysts",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hind-copper-may-not-be-a-big-draw-for-retail-investors/articleshow/133526868.cms",
-          "pubDate": "2026-08-26T05:58:50+05:30"
+          "title": "Avaada Electro files updated draft papers with Sebi for Rs 7,600-cr IPO",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/avaada-electro-files-updated-draft-papers-with-sebi-for-rs-7600-cr-ipo/articleshow/133528857.cms",
+          "pubDate": "2026-08-26T09:22:44+05:30"
         },
         {
-          "title": "Small and midcaps shine as blue-chip stocks struggle for momentum",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/small-and-midcaps-shine-as-blue-chip-stocks-struggle-for-momentum/articleshow/133526882.cms",
-          "pubDate": "2026-08-26T05:55:15+05:30"
+          "title": "Gaja Alternative Asset shares list at 16% premium over IPO price on NSE, BSE",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/gaja-alternative-asset-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/133527367.cms",
+          "pubDate": "2026-08-26T07:37:29+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -407,7 +448,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-26T05:20:12.027858+00:00",
+      "updated_at": "2026-08-26T05:54:56.066522+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -488,8 +529,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-26T05:20:12.571181+00:00",
+      "updated_at": "2026-08-26T05:54:56.109619+00:00",
       "items": [
+        {
+          "title": "SBI, PNB to Bank of Maharashtra: PSU bank stocks rise up to 4%. What's driving the rally? Do you own any of these?",
+          "link": "https://www.livemint.com/market/stock-market-news/sbi-pnb-to-bank-of-maharashtra-psu-bank-stocks-rise-up-to-4-whats-driving-the-rally-do-you-own-any-of-these-11787720628727.html",
+          "pubDate": "2026-08-26T11:00:32+05:30"
+        },
         {
           "title": "ABH Healthcare IPO Day 3: Issue booked 83% so far. Check GMP, issue details",
           "link": "https://www.livemint.com/market/ipo/abh-healthcare-ipo-day-3-issue-booked-83-so-far-check-gmp-issue-details-11787720403740.html",
@@ -634,18 +680,78 @@
           "title": "Retail traded options big time despite curbs , Sebi study",
           "link": "https://www.livemint.com/market/retail-traded-options-big-time-despite-curbs-sebi-study-11787646980276.html",
           "pubDate": "2026-08-25T17:33:59+05:30"
-        },
-        {
-          "title": "Stock market prediction tomorrow, 26 August: What will happen to Sensex, Nifty, Hang Seng, KOSPI, Nikkei on Wednesday",
-          "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-tomorrow-26-august-what-will-happen-to-sensex-nifty-hang-seng-kospi-and-nikkei-on-wednesday-11787656285637.html",
-          "pubDate": "2026-08-25T17:11:36+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-26T05:20:14.071041+00:00",
+      "updated_at": "2026-08-26T05:54:56.205553+00:00",
       "items": [
+        {
+          "title": "Volatile crude oil prices pressurize Indian rupee , says RBI",
+          "link": "https://www.business-standard.com/markets/capital-market-news/volatile-crude-oil-prices-pressurize-indian-rupee-says-rbi-126082600322_1.html",
+          "pubDate": "2026-08-26T11:16:20+05:30"
+        },
+        {
+          "title": "CARE Ratings upgrades LT ratings of Arvind to 'AA' with 'stable' outlook",
+          "link": "https://www.business-standard.com/markets/capital-market-news/care-ratings-upgrades-lt-ratings-of-arvind-to-aa-with-stable-outlook-126082600321_1.html",
+          "pubDate": "2026-08-26T11:16:11+05:30"
+        },
+        {
+          "title": "Pharma shares shine: Divi's, Laurus hit new highs; zoom up to 91% in FY27",
+          "link": "https://www.business-standard.com/markets/news/pharma-shares-shine-divi-s-laurus-hit-new-highs-zoom-up-to-91-in-fy27-126082600280_1.html",
+          "pubDate": "2026-08-26T11:11:07+05:30"
+        },
+        {
+          "title": "NPAs of regional rural banks at all time low",
+          "link": "https://www.business-standard.com/markets/capital-market-news/npas-of-regional-rural-banks-at-all-time-low-126082600308_1.html",
+          "pubDate": "2026-08-26T11:05:28+05:30"
+        },
+        {
+          "title": "Gujarat Pipavav Port update on proposal for extension of concession period",
+          "link": "https://www.business-standard.com/markets/capital-market-news/gujarat-pipavav-port-update-on-proposal-for-extension-of-concession-period-126082600307_1.html",
+          "pubDate": "2026-08-26T11:05:19+05:30"
+        },
+        {
+          "title": "Volumes jump at Phoenix Mills Ltd counter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/volumes-jump-at-phoenix-mills-ltd-counter-126082600292_1.html",
+          "pubDate": "2026-08-26T11:04:18+05:30"
+        },
+        {
+          "title": "Hindustan Zinc up 5% as Jefferies sees earnings boost on firm metal prices",
+          "link": "https://www.business-standard.com/markets/news/hindustan-zinc-share-price-rises-5-as-jefferies-sees-earnings-boost-from-favourable-zinc-silver-prices-126082600288_1.html",
+          "pubDate": "2026-08-26T11:04:15+05:30"
+        },
+        {
+          "title": "Kuantum Papers gains as PM3 restarts after major rebuild",
+          "link": "https://www.business-standard.com/markets/capital-market-news/kuantum-papers-gains-as-pm3-restarts-after-major-rebuild-126082600291_1.html",
+          "pubDate": "2026-08-26T11:04:10+05:30"
+        },
+        {
+          "title": "BSE SME Mopshop Distribution struggles to make a clean start",
+          "link": "https://www.business-standard.com/markets/capital-market-news/bse-sme-mopshop-distribution-struggles-to-make-a-clean-start-126082600290_1.html",
+          "pubDate": "2026-08-26T11:04:02+05:30"
+        },
+        {
+          "title": "Nomura remains bullish on OMCs despite high crude prices; prefers IOC, BPCL",
+          "link": "https://www.business-standard.com/markets/news/nomura-remains-bullish-on-omcs-despite-high-crude-prices-prefers-ioc-bpcl-126082600276_1.html",
+          "pubDate": "2026-08-26T10:52:41+05:30"
+        },
+        {
+          "title": "Indices trade with sideways; PSU bank shares in demand",
+          "link": "https://www.business-standard.com/markets/capital-market-news/indices-trade-with-sideways-psu-bank-shares-in-demand-126082600274_1.html",
+          "pubDate": "2026-08-26T10:50:24+05:30"
+        },
+        {
+          "title": "Sai Parenterals gains after arm renews 204 cr OTC supply agreement",
+          "link": "https://www.business-standard.com/markets/capital-market-news/sai-parenterals-gains-after-arm-renews-204-cr-otc-supply-agreement-126082600273_1.html",
+          "pubDate": "2026-08-26T10:50:10+05:30"
+        },
+        {
+          "title": "BSE SME Dhanwel Hybrid Seeds fails to blossom as stock slips below IPO price",
+          "link": "https://www.business-standard.com/markets/capital-market-news/bse-sme-dhanwel-hybrid-seeds-fails-to-blossom-as-stock-slips-below-ipo-price-126082600272_1.html",
+          "pubDate": "2026-08-26T10:50:02+05:30"
+        },
         {
           "title": "Indian Metals rises after greenfield Kalinganagar plant commences production",
           "link": "https://www.business-standard.com/markets/capital-market-news/indian-metals-rises-after-greenfield-kalinganagar-plant-commences-production-126082600252_1.html",
@@ -719,7 +825,7 @@
         {
           "title": "Gold rises ₹320 on MCX, silver gains ₹1,456 as US bond buybacks lift demand",
           "link": "https://www.business-standard.com/markets/commodities/gold-rises-320-on-mcx-silver-gains-1-456-as-us-bond-buybacks-lift-demand-126082600193_1.html",
-          "pubDate": "2026-08-26T09:47:26+05:30"
+          "pubDate": "2026-08-26T09:47:33+05:30"
         },
         {
           "title": "Opportunity to raise money via NFOs maybe limited: Chirag Setalvad, HDFC AMC",
@@ -730,77 +836,12 @@
           "title": "Adani Energy Solutions wins Rs 4,700-cr transmission project in Maharashtra",
           "link": "https://www.business-standard.com/markets/capital-market-news/adani-energy-solutions-wins-rs-4-700-cr-transmission-project-in-maharashtra-126082600159_1.html",
           "pubDate": "2026-08-26T09:16:06+05:30"
-        },
-        {
-          "title": "F&O: Nifty sees healthy rollovers; eyes triangle breakout in Sep series",
-          "link": "https://www.business-standard.com/markets/news/f-o-nifty-sees-healthy-rollovers-eyes-triangle-breakout-in-september-series-126082600150_1.html",
-          "pubDate": "2026-08-26T09:09:55+05:30"
-        },
-        {
-          "title": "Stock Alert: Cipla, Varun Beverages, TMPV, United Breweries,Sai Parenterals",
-          "link": "https://www.business-standard.com/markets/capital-market-news/stock-alert-cipla-varun-beverages-tmpv-united-breweries-sai-parenterals-126082600142_1.html",
-          "pubDate": "2026-08-26T09:04:27+05:30"
-        },
-        {
-          "title": "MV Electrosystems reports standalone net loss of Rs 6.89 crore in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/mv-electrosystems-reports-standalone-net-loss-of-rs-6-89-crore-in-the-june-2026-quarter-126082600141_1.html",
-          "pubDate": "2026-08-26T09:04:18+05:30"
-        },
-        {
-          "title": "Ardee Industries standalone net profit rises 5.96% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/ardee-industries-standalone-net-profit-rises-5-96-in-the-june-2026-quarter-126082600140_1.html",
-          "pubDate": "2026-08-26T09:04:11+05:30"
-        },
-        {
-          "title": "Nifty set for positive start amid easing oil prices and FPI buying",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-set-for-positive-start-amid-easing-oil-prices-and-fpi-buying-126082600139_1.html",
-          "pubDate": "2026-08-26T09:04:02+05:30"
-        },
-        {
-          "title": "Asian stocks stutter as oil falls, investors await Nvidia earnings",
-          "link": "https://www.business-standard.com/markets/news/asian-stocks-stutter-as-oil-falls-investors-await-nvidia-earnings-126082600104_1.html",
-          "pubDate": "2026-08-26T08:54:44+05:30"
-        },
-        {
-          "title": "Monarch Surveyors bags contract from Maharashtra govt",
-          "link": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-bags-contract-from-maharashtra-govt-126082600131_1.html",
-          "pubDate": "2026-08-26T08:50:02+05:30"
-        },
-        {
-          "title": "Stocks to watch: Varun Beverages, Groww, Welspun Corp, HEG, Tata Motors PV",
-          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-august-26-varun-beverages-groww-welspun-corp-heg-tata-motors-pv-126082600106_1.html",
-          "pubDate": "2026-08-26T08:02:29+05:30"
-        },
-        {
-          "title": "Oil prices fall 2% after Iran-Oman resume talks to reopen Strait of Hormuz",
-          "link": "https://www.business-standard.com/markets/commodities/oil-prices-fall-2-after-iran-oman-resume-talks-to-reopen-strait-of-hormuz-126082600092_1.html",
-          "pubDate": "2026-08-26T08:00:03+05:30"
-        },
-        {
-          "title": "Stock Market LIVE: Sensex in narrow range, Nifty near 24,300; consumer durables shares weigh",
-          "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-august-26-nse-bse-sensex-today-nifty-gift-nifty-us-iran-tension-crude-annu-projects-ipo-126082600098_1.html",
-          "pubDate": "2026-08-26T07:55:31+05:30"
-        },
-        {
-          "title": "TVS Motors, Divi's Laboratories among top stock picks by Chandan Taparia",
-          "link": "https://www.business-standard.com/markets/news/tvs-motors-divi-s-laboratories-among-top-stock-picks-by-chandan-taparia-126082600100_1.html",
-          "pubDate": "2026-08-26T07:49:09+05:30"
-        },
-        {
-          "title": "Bitcoin tops $80,000 as optimistic mood returns to crypto market",
-          "link": "https://www.business-standard.com/markets/news/bitcoin-tops-80-000-as-optimistic-mood-returns-to-crypto-market-126082501545_1.html",
-          "pubDate": "2026-08-25T23:01:57+05:30"
-        },
-        {
-          "title": "Nifty Midcap index hits new high as earnings, domestic demand drive gains",
-          "link": "https://www.business-standard.com/markets/capital-market-news/midcap-index-scales-new-peak-as-domestic-demand-earnings-drive-gains-126082501435_1.html",
-          "pubDate": "2026-08-25T21:43:02+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-26T05:20:15.054034+00:00",
+      "updated_at": "2026-08-26T05:54:57.022848+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 27, 2026",

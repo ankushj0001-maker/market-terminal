@@ -1,62 +1,98 @@
 {
-  "generated_at": "2026-08-26T04:07:20.250459+00:00",
+  "generated_at": "2026-08-26T04:52:20.308912+00:00",
   "indices": {
     "nifty50": {
-      "price": 24344.1,
-      "change": 9.55,
-      "pct": 0.0392,
+      "price": 24308.3,
+      "change": -26.25,
+      "pct": -0.1079,
       "closes": [
         24318.30078125,
         24354.0,
         24351.150390625,
         24344.650390625,
-        24346.150390625,
-        24344.099609375
+        24356.05078125,
+        24371.599609375,
+        24369.69921875,
+        24364.849609375,
+        24365.80078125,
+        24358.0,
+        24346.30078125,
+        24342.94921875,
+        24318.349609375,
+        24305.19921875,
+        24308.30078125
       ],
       "ok": true,
-      "updated_at": "2026-08-26T04:07:18.204353+00:00"
+      "updated_at": "2026-08-26T04:52:17.960976+00:00"
     },
     "sensex": {
-      "price": 77911.05,
-      "change": 254.96,
-      "pct": 0.3283,
+      "price": 77894.67,
+      "change": 238.58,
+      "pct": 0.3072,
       "closes": [
         77827.421875,
-        77910.453125,
-        77911.046875
+        77934.703125,
+        77906.71875,
+        77895.6484375,
+        77910.3125,
+        77960.8984375,
+        77961.96875,
+        77934.6328125,
+        77955.1171875,
+        77919.40625,
+        77908.2734375,
+        77894.671875
       ],
       "ok": true,
-      "updated_at": "2026-08-26T04:07:18.254301+00:00"
+      "updated_at": "2026-08-26T04:52:18.122773+00:00"
     },
     "banknifty": {
-      "price": 57918.7,
-      "change": 404.5,
-      "pct": 0.7033,
+      "price": 57838.5,
+      "change": 324.3,
+      "pct": 0.5639,
       "closes": [
         57812.69921875,
         57913.94921875,
         57965.44921875,
         57951.6484375,
-        57910.69921875,
-        57918.69921875
+        57953.19921875,
+        57955.5,
+        57928.75,
+        57932.6015625,
+        57976.30078125,
+        57952.94921875,
+        57923.30078125,
+        57903.55078125,
+        57890.05078125,
+        57840.0,
+        57838.5
       ],
       "ok": true,
-      "updated_at": "2026-08-26T04:07:18.320730+00:00"
+      "updated_at": "2026-08-26T04:52:18.230107+00:00"
     },
     "vix": {
-      "price": 10.632,
-      "change": -0.443,
-      "pct": -4.0,
+      "price": 10.762,
+      "change": -0.313,
+      "pct": -2.8262,
       "closes": [
         10.454999923706055,
         10.3774995803833,
         10.8725004196167,
         10.632499694824219,
-        10.614999771118164,
-        10.632499694824219
+        10.632499694824219,
+        10.875,
+        10.850000381469727,
+        10.767499923706055,
+        10.727499961853027,
+        10.727499961853027,
+        10.739999771118164,
+        10.8149995803833,
+        10.717499732971191,
+        10.827500343322754,
+        10.762499809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-26T04:07:18.389208+00:00"
+      "updated_at": "2026-08-26T04:52:18.337391+00:00"
     },
     "usdinr": {
       "price": 95.402,
@@ -71,23 +107,45 @@
         95.4020004272461
       ],
       "ok": true,
-      "updated_at": "2026-08-26T04:07:18.459715+00:00"
+      "updated_at": "2026-08-26T04:52:18.462163+00:00"
     },
     "gold": {
-      "price": 4700.4,
-      "change": 5.9,
-      "pct": 0.1257,
-      "closes": [],
+      "price": 4697.7,
+      "change": 3.2,
+      "pct": 0.0682,
+      "closes": [
+        4699.89990234375,
+        4700.60009765625,
+        4699.60009765625,
+        4698.89990234375,
+        4699.60009765625,
+        4699.2001953125,
+        4698.5,
+        4697.2998046875,
+        4697.60009765625,
+        4697.7001953125
+      ],
       "ok": true,
-      "updated_at": "2026-08-26T04:07:18.520577+00:00"
+      "updated_at": "2026-08-26T04:52:18.574223+00:00"
     },
     "crude": {
-      "price": 80.25,
-      "change": -2.11,
-      "pct": -2.5619,
-      "closes": [],
+      "price": 80.32,
+      "change": -2.04,
+      "pct": -2.4769,
+      "closes": [
+        80.37999725341797,
+        80.37999725341797,
+        80.4000015258789,
+        80.30000305175781,
+        80.2699966430664,
+        80.31999969482422,
+        80.30000305175781,
+        80.31999969482422,
+        80.29000091552734,
+        80.31999969482422
+      ],
       "ok": true,
-      "updated_at": "2026-08-26T04:07:18.586389+00:00"
+      "updated_at": "2026-08-26T04:52:18.679688+00:00"
     },
     "us10y": {
       "price": 4.639,
@@ -156,28 +214,28 @@
         4.638999938964844
       ],
       "ok": true,
-      "updated_at": "2026-08-26T04:07:18.641600+00:00"
+      "updated_at": "2026-08-26T04:52:18.793958+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-26T04:07:18.719399+00:00",
+      "updated_at": "2026-08-26T04:52:18.877623+00:00",
       "items": [
         {
-          "title": "Oil Price Today (August 26): Crude oil tanks 6% in two days to hover near $85. What’s behind the decline?",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-26-crude-oil-tanks-6-in-two-days-to-hover-near-85-whats-behind-the-decline/articleshow/133527538.cms",
-          "pubDate": "2026-08-26T07:44:27+05:30"
+          "title": "Sensex rises over 300 points; Nifty above 24,350 as oil prices slide. What lies ahead?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-200-points-nifty-nears-24350-as-oil-prices-slide-what-lies-ahead/articleshow/133528847.cms",
+          "pubDate": "2026-08-26T09:26:10+05:30"
         },
         {
-          "title": "Hindustan Copper OFS opens for retail investors today. Should you apply in the metals major's offer?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-copper-ofs-opens-for-retail-investors-today-should-you-apply-in-the-metals-majors-offer/articleshow/133527323.cms",
-          "pubDate": "2026-08-26T07:26:51+05:30"
+          "title": "HEG demerger: What 1:1 restructuring mean for shareholders as company fixes record date?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/heg-shares-in-focus-as-company-fixes-record-date-for-demerger-what-it-means-for-shareholders/articleshow/133528755.cms",
+          "pubDate": "2026-08-26T09:17:44+05:30"
         },
         {
-          "title": "Axis Bank set to raise $700 million through ECB swap facility",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-set-to-raise-700-million-through-ecb-swap-facility/articleshow/133526983.cms",
-          "pubDate": "2026-08-26T06:33:39+05:30"
+          "title": "Groww shares fall 3% after Rs 2,500 crore block deal; Ribbit likely seller",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/groww-shares-in-focus-as-ribbit-likely-sells-stake-through-rs-1914-crore-block-deal/articleshow/133528618.cms",
+          "pubDate": "2026-08-26T09:05:17+05:30"
         },
         {
           "title": "ESDS to expand data centre operations with Rs 720-cr IPO proceeds",
@@ -317,7 +375,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-26T04:07:18.988889+00:00",
       "items": [
         {
@@ -399,8 +457,28 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-26T04:07:19.109278+00:00",
+      "updated_at": "2026-08-26T04:52:19.353579+00:00",
       "items": [
+        {
+          "title": "Gautam Adani's Adani Energy Solutions wins  ₹4,700 crore transmission project in Maharashtra | shares rise",
+          "link": "https://www.livemint.com/market/stock-market-news/gautam-adanis-adani-energy-solutions-wins-rs-4-700-crore-transmission-project-in-maharashtra-shares-rise-11787717367517.html",
+          "pubDate": "2026-08-26T10:06:19+05:30"
+        },
+        {
+          "title": "Gaja Alternative Asset Management IPO listing: Shares list at a 16% premium over the issue price",
+          "link": "https://www.livemint.com/market/ipo/gaja-alternative-asset-management-ipo-listing-shares-list-at-a-16-premium-over-the-issue-price-11787717617976.html",
+          "pubDate": "2026-08-26T10:00:38+05:30"
+        },
+        {
+          "title": "Retail investors return to stocks as IPO appetite cools in FY27",
+          "link": "https://www.livemint.com/market/stock-market-news/retail-investors-secondary-market-ipo-primary-market-nse-fy27-retail-flows-listed-stocks-ipo-pipeline-11787711484359.html",
+          "pubDate": "2026-08-26T09:54:20+05:30"
+        },
+        {
+          "title": "Indus Towers to AU Small Finance Bank - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&amp;O segment",
+          "link": "https://www.livemint.com/market/stock-market-news/indus-towers-to-au-small-finance-bank-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11787717193068.html",
+          "pubDate": "2026-08-26T09:52:58+05:30"
+        },
         {
           "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five stocks to buy today —26 August 2026",
           "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-stocks-to-buy-today-26-august-2026-11787713474862.html",
@@ -530,33 +608,68 @@
           "title": "Expert view: Nifty 50 can hit 27,000 by March 2027, EPS growth rate of 10%-11% likely in FY27, says Ametra PMS CIO",
           "link": "https://www.livemint.com/market/stock-market-news/expert-view-nifty-50-can-hit-27-000-by-march-2027-eps-growth-rate-of-10-11-likely-in-fy27-says-ametra-pms-cio-11787655099258.html",
           "pubDate": "2026-08-25T16:49:39+05:30"
-        },
-        {
-          "title": "Top Gainers &amp; Losers on 25 Aug: FACT, Vodafone Idea, Cyient, Paytm, Angel One, Pine Labs among top gainers",
-          "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-25-aug-fact-vodafone-idea-cyient-paytm-angel-one-pine-labs-among-top-gainers-11787650287290.html",
-          "pubDate": "2026-08-25T15:41:00+05:30"
-        },
-        {
-          "title": "Sensex gains 287 points, Nifty 50 ends at 24,335- What drove the stock market up today?",
-          "link": "https://www.livemint.com/market/stock-market-news/sensex-gains-287-points-nifty-50-ends-at-24-335-what-drove-the-stock-market-up-today-11787652088991.html",
-          "pubDate": "2026-08-25T15:36:11+05:30"
-        },
-        {
-          "title": "Small-cap stock under  ₹50 Ebix hits 5% upper circuit for sixth straight session | Do you own?",
-          "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-ebix-hits-5-upper-circuit-for-sixth-straight-session-do-you-own-11787647567213.html",
-          "pubDate": "2026-08-25T15:26:37+05:30"
-        },
-        {
-          "title": "Vishal Mega Mart gets a 5-year vote of confidence",
-          "link": "https://www.livemint.com/market/mark-to-market/vishal-mega-mart-share-price-stock-outlook-11787641464604.html",
-          "pubDate": "2026-08-25T15:10:20+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-26T04:07:19.249231+00:00",
+      "updated_at": "2026-08-26T04:52:19.393675+00:00",
       "items": [
+        {
+          "title": "Tavexia Lifecare announces its diversification into pharma biz",
+          "link": "https://www.business-standard.com/markets/capital-market-news/tavexia-lifecare-announces-its-diversification-into-pharma-biz-126082600223_1.html",
+          "pubDate": "2026-08-26T10:04:41+05:30"
+        },
+        {
+          "title": "MTAR Tech rises after securing order worth nearly Rs 127 crore for coolant channel assemblies",
+          "link": "https://www.business-standard.com/markets/capital-market-news/mtar-tech-rises-after-securing-order-worth-nearly-rs-127-crore-for-coolant-channel-assemblies-126082600216_1.html",
+          "pubDate": "2026-08-26T10:04:02+05:30"
+        },
+        {
+          "title": "Gaja Capital shares make strong debut, list 15% above issue price",
+          "link": "https://www.business-standard.com/markets/news/gaja-capital-shares-make-strong-debut-list-15-above-issue-price-126082600211_1.html",
+          "pubDate": "2026-08-26T10:00:55+05:30"
+        },
+        {
+          "title": "State Trading Corporation of India standalone net profit declines 71.11% in the June 2026 quarter",
+          "link": "https://www.business-standard.com/markets/capital-market-news/state-trading-corporation-of-india-standalone-net-profit-declines-71-11-in-the-june-2026-quarter-126082600202_1.html",
+          "pubDate": "2026-08-26T09:50:35+05:30"
+        },
+        {
+          "title": "Nifty trade above 24,350 in early trade; breadth strong",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trade-above-24-350-in-early-trade-breadth-strong-126082600201_1.html",
+          "pubDate": "2026-08-26T09:50:26+05:30"
+        },
+        {
+          "title": "Max Estates gains as board to mull preferential issue",
+          "link": "https://www.business-standard.com/markets/capital-market-news/max-estates-gains-as-board-to-mull-preferential-issue-126082600200_1.html",
+          "pubDate": "2026-08-26T09:50:19+05:30"
+        },
+        {
+          "title": "APL Apollo Tubes Ltd Slides 0.84%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/apl-apollo-tubes-ltd-slides-0-84-126082600199_1.html",
+          "pubDate": "2026-08-26T09:50:10+05:30"
+        },
+        {
+          "title": "Godrej Properties Ltd Spurts 1.71%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/godrej-properties-ltd-spurts-1-71-126082600198_1.html",
+          "pubDate": "2026-08-26T09:50:01+05:30"
+        },
+        {
+          "title": "Hindustan Copper OFS Day 2: Stock up 3%; should retail investors apply? Analyst view here",
+          "link": "https://www.business-standard.com/markets/news/hindustan-copper-ofs-day-2-stock-gains-3-should-retail-investors-apply-126082600185_1.html",
+          "pubDate": "2026-08-26T09:48:18+05:30"
+        },
+        {
+          "title": "Gold rises ₹320 on MCX, silver gains ₹1,456 as US bond buybacks lift demand",
+          "link": "https://www.business-standard.com/markets/commodities/gold-rises-320-on-mcx-silver-gains-1-456-as-us-bond-buybacks-lift-demand-126082600193_1.html",
+          "pubDate": "2026-08-26T09:47:26+05:30"
+        },
+        {
+          "title": "Opportunity to raise money via NFOs maybe limited: Chirag Setalvad, HDFC AMC",
+          "link": "https://www.business-standard.com/markets/news/opportunity-to-raise-money-via-nfos-maybe-limited-chirag-setalvad-hdfc-amc-126082600180_1.html",
+          "pubDate": "2026-08-26T09:34:12+05:30"
+        },
         {
           "title": "Adani Energy Solutions wins Rs 4,700-cr transmission project in Maharashtra",
           "link": "https://www.business-standard.com/markets/capital-market-news/adani-energy-solutions-wins-rs-4-700-cr-transmission-project-in-maharashtra-126082600159_1.html",
@@ -608,9 +721,9 @@
           "pubDate": "2026-08-26T08:00:03+05:30"
         },
         {
-          "title": "Stock Market LIVE: Sensex rises 100 pts, Nifty near 24,300; Nifty PSU bank gains 1%",
+          "title": "Stock Market LIVE: Eternal, UltraTech drive 300-pts gain in Sensex; Nifty tops 24,350",
           "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-august-26-nse-bse-sensex-today-nifty-gift-nifty-us-iran-tension-crude-annu-projects-ipo-126082600098_1.html",
-          "pubDate": "2026-08-26T07:55:53+05:30"
+          "pubDate": "2026-08-26T07:55:54+05:30"
         },
         {
           "title": "TVS Motors, Divi's Laboratories among top stock picks by Chandan Taparia",
@@ -651,67 +764,12 @@
           "title": "BRGIL secures Jajau Fee Plaza toll collection and maintenance contract worth Rs 151 cr",
           "link": "https://www.business-standard.com/markets/capital-market-news/brgil-secures-jajau-fee-plaza-toll-collection-and-maintenance-contract-worth-rs-151-cr-126082501236_1.html",
           "pubDate": "2026-08-25T19:31:09+05:30"
-        },
-        {
-          "title": "Noumed Pharmaceuticals renews its supply agreement with leading Australian pharmacy chain",
-          "link": "https://www.business-standard.com/markets/capital-market-news/noumed-pharmaceuticals-renews-its-supply-agreement-with-leading-australian-pharmacy-chain-126082501235_1.html",
-          "pubDate": "2026-08-25T19:31:02+05:30"
-        },
-        {
-          "title": "Fortune expands its mustard oil portfolio with launch of Yellow Mustard Oil",
-          "link": "https://www.business-standard.com/markets/capital-market-news/fortune-expands-its-mustard-oil-portfolio-with-launch-of-yellow-mustard-oil-126082501217_1.html",
-          "pubDate": "2026-08-25T19:16:02+05:30"
-        },
-        {
-          "title": "NBCC bags Rs 122-cr order from Rajasthan Council of School Education",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nbcc-bags-rs-122-cr-order-from-rajasthan-council-of-school-education-126082501167_1.html",
-          "pubDate": "2026-08-25T18:50:39+05:30"
-        },
-        {
-          "title": "GLHRL alters object clause under Memorandum of Association",
-          "link": "https://www.business-standard.com/markets/capital-market-news/glhrl-alters-object-clause-under-memorandum-of-association-126082501164_1.html",
-          "pubDate": "2026-08-25T18:50:22+05:30"
-        },
-        {
-          "title": "Ritco Logistics arm raises capital Rs 78.26 cr",
-          "link": "https://www.business-standard.com/markets/capital-market-news/ritco-logistics-arm-raises-capital-rs-78-26-cr-126082501161_1.html",
-          "pubDate": "2026-08-25T18:50:02+05:30"
-        },
-        {
-          "title": "Krystal Integrated Services bags Rs 17-cr work order",
-          "link": "https://www.business-standard.com/markets/capital-market-news/krystal-integrated-services-bags-rs-17-cr-work-order-126082501121_1.html",
-          "pubDate": "2026-08-25T18:31:29+05:30"
-        },
-        {
-          "title": "NIS Management receives SBI SME Rhodium status",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nis-management-receives-sbi-sme-rhodium-status-126082501120_1.html",
-          "pubDate": "2026-08-25T18:31:20+05:30"
-        },
-        {
-          "title": "Oriental Rail Infrastructure wins order of Rs 1.75 cr from ICF, Chennai",
-          "link": "https://www.business-standard.com/markets/capital-market-news/oriental-rail-infrastructure-wins-order-of-rs-1-75-cr-from-icf-chennai-126082501117_1.html",
-          "pubDate": "2026-08-25T18:31:02+05:30"
-        },
-        {
-          "title": "Rupee leads Asian currencies; bond yields ease as crude slips below $90",
-          "link": "https://www.business-standard.com/markets/news/rupee-leads-asian-currencies-bond-yields-ease-as-crude-slips-below-90-126082501083_1.html",
-          "pubDate": "2026-08-25T18:11:30+05:30"
-        },
-        {
-          "title": "Lupin allots 30,967 equity shares under ESOP",
-          "link": "https://www.business-standard.com/markets/capital-market-news/lupin-allots-30-967-equity-shares-under-esop-126082501064_1.html",
-          "pubDate": "2026-08-25T18:04:53+05:30"
-        },
-        {
-          "title": "Credit growth stays robust, agriculture lending expands",
-          "link": "https://www.business-standard.com/markets/capital-market-news/credit-growth-stays-robust-agriculture-lending-expands-126082501061_1.html",
-          "pubDate": "2026-08-25T18:04:15+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-26T04:07:20.250443+00:00",
+      "updated_at": "2026-08-26T04:52:20.308897+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 27, 2026",

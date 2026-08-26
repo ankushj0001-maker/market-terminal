@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T16:14:41.876371+00:00",
+  "generated_at": "2026-08-26T16:58:26.083111+00:00",
   "indices": {
     "nifty50": {
       "price": 24207.75,
@@ -68,7 +68,7 @@
         24207.75
       ],
       "ok": true,
-      "updated_at": "2026-08-26T16:14:39.337916+00:00"
+      "updated_at": "2026-08-26T16:58:23.606801+00:00"
     },
     "sensex": {
       "price": 77472.94,
@@ -137,7 +137,7 @@
         77472.9375
       ],
       "ok": true,
-      "updated_at": "2026-08-26T16:14:39.495236+00:00"
+      "updated_at": "2026-08-26T16:58:23.664932+00:00"
     },
     "banknifty": {
       "price": 57783.75,
@@ -206,7 +206,7 @@
         57783.75
       ],
       "ok": true,
-      "updated_at": "2026-08-26T16:14:39.607473+00:00"
+      "updated_at": "2026-08-26T16:58:23.767717+00:00"
     },
     "vix": {
       "price": 10.565,
@@ -275,7 +275,7 @@
         10.5649995803833
       ],
       "ok": true,
-      "updated_at": "2026-08-26T16:14:39.719914+00:00"
+      "updated_at": "2026-08-26T16:58:23.845855+00:00"
     },
     "usdinr": {
       "price": 95.402,
@@ -291,25 +291,18 @@
         95.4020004272461,
         95.4020004272461,
         95.4020004272461,
+        95.4020004272461,
+        95.4020004272461,
         95.4020004272461
       ],
       "ok": true,
-      "updated_at": "2026-08-26T16:14:39.885872+00:00"
+      "updated_at": "2026-08-26T16:58:23.911472+00:00"
     },
     "gold": {
-      "price": 4653.0,
-      "change": -41.5,
-      "pct": -0.884,
+      "price": 4649.0,
+      "change": -45.5,
+      "pct": -0.9692,
       "closes": [
-        4674.10009765625,
-        4678.0,
-        4672.5,
-        4676.0,
-        4674.7998046875,
-        4674.0,
-        4674.5,
-        4673.7001953125,
-        4675.0,
         4680.2998046875,
         4683.2998046875,
         4683.10009765625,
@@ -359,26 +352,26 @@
         4663.5,
         4656.0,
         4651.60009765625,
-        4652.7998046875,
-        4653.0
+        4652.89990234375,
+        4654.60009765625,
+        4655.2001953125,
+        4654.2001953125,
+        4651.0,
+        4649.89990234375,
+        4649.39990234375,
+        4642.39990234375,
+        4643.7001953125,
+        4650.0,
+        4649.0
       ],
       "ok": true,
-      "updated_at": "2026-08-26T16:14:40.052910+00:00"
+      "updated_at": "2026-08-26T16:58:23.993729+00:00"
     },
     "crude": {
-      "price": 82.9,
-      "change": 0.54,
-      "pct": 0.6557,
+      "price": 83.03,
+      "change": 0.67,
+      "pct": 0.8135,
       "closes": [
-        80.19999694824219,
-        80.13999938964844,
-        80.33999633789062,
-        80.19999694824219,
-        80.13999938964844,
-        80.37000274658203,
-        80.38999938964844,
-        80.51000213623047,
-        80.54000091552734,
         80.55000305175781,
         80.58000183105469,
         80.51000213623047,
@@ -429,15 +422,24 @@
         82.75,
         82.7699966430664,
         82.79000091552734,
-        82.9000015258789
+        82.83999633789062,
+        82.9000015258789,
+        83.12999725341797,
+        83.2300033569336,
+        83.08000183105469,
+        83.16000366210938,
+        83.1500015258789,
+        83.05999755859375,
+        82.97000122070312,
+        83.02999877929688
       ],
       "ok": true,
-      "updated_at": "2026-08-26T16:14:40.166185+00:00"
+      "updated_at": "2026-08-26T16:58:24.048107+00:00"
     },
     "us10y": {
-      "price": 4.662,
-      "change": 0.023,
-      "pct": 0.4958,
+      "price": 4.668,
+      "change": 0.029,
+      "pct": 0.6251,
       "closes": [
         4.63100004196167,
         4.625,
@@ -483,16 +485,25 @@
         4.656000137329102,
         4.664000034332275,
         4.661999702453613,
-        4.661999702453613
+        4.664000034332275,
+        4.668000221252441,
+        4.664000034332275,
+        4.668000221252441,
+        4.668000221252441,
+        4.668000221252441,
+        4.668000221252441,
+        4.668000221252441,
+        4.668000221252441,
+        4.668000221252441
       ],
       "ok": true,
-      "updated_at": "2026-08-26T16:14:40.276471+00:00"
+      "updated_at": "2026-08-26T16:58:24.122841+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-26T16:14:40.365232+00:00",
+      "updated_at": "2026-08-26T16:58:24.211601+00:00",
       "items": [
         {
           "title": "Anthropic gears up for Wall Street debut: Five things investors need to know",
@@ -647,8 +658,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-26T14:58:55.473038+00:00",
+      "ok": true,
+      "updated_at": "2026-08-26T16:58:24.631911+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -729,8 +740,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-26T16:14:40.938824+00:00",
+      "updated_at": "2026-08-26T16:58:24.889219+00:00",
       "items": [
+        {
+          "title": "Textile stock under  ₹100 hits 10% upper circuit after declaration of final dividend move | Details here",
+          "link": "https://www.livemint.com/market/stock-market-news/textile-stock-under-rs-100-hits-10-upper-circuit-after-declaration-of-final-dividend-move-details-here-11787759576516.html",
+          "pubDate": "2026-08-26T21:49:48+05:30"
+        },
         {
           "title": "Meta shares jump 4% as Facebook parent settles major teen addiction lawsuit",
           "link": "https://www.livemint.com/market/meta-shares-jump-4-as-facebook-parent-settles-major-teen-addiction-lawsuit-11787754449421.html",
@@ -875,17 +891,12 @@
           "title": "Stock market today: Gift Nifty hints a positive start; eight day trading stocks to buy on Wednesday, 26 August",
           "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-a-positive-start-eight-day-trading-stocks-to-buy-on-wednesday-26-august-11787709978109.html",
           "pubDate": "2026-08-26T08:09:00+05:30"
-        },
-        {
-          "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 26 August",
-          "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-26-august-11787708075189.html",
-          "pubDate": "2026-08-26T07:35:15+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-26T16:14:40.967915+00:00",
+      "updated_at": "2026-08-26T16:58:25.102139+00:00",
       "items": [
         {
           "title": "Block deals worth ₹10,300 cr in a day lift August tally to 14-month high",
@@ -1041,7 +1052,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-26T16:14:41.876355+00:00",
+      "updated_at": "2026-08-26T16:58:26.083095+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 27, 2026",

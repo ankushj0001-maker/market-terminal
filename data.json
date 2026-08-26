@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T18:54:00.463161+00:00",
+  "generated_at": "2026-08-26T21:21:04.617676+00:00",
   "indices": {
     "nifty50": {
       "price": 24207.75,
@@ -68,7 +68,7 @@
         24207.75
       ],
       "ok": true,
-      "updated_at": "2026-08-26T18:53:58.490539+00:00"
+      "updated_at": "2026-08-26T21:21:02.653188+00:00"
     },
     "sensex": {
       "price": 77472.94,
@@ -137,7 +137,7 @@
         77472.9375
       ],
       "ok": true,
-      "updated_at": "2026-08-26T18:53:58.580937+00:00"
+      "updated_at": "2026-08-26T21:21:02.709455+00:00"
     },
     "banknifty": {
       "price": 57783.75,
@@ -206,7 +206,7 @@
         57783.75
       ],
       "ok": true,
-      "updated_at": "2026-08-26T18:53:58.643080+00:00"
+      "updated_at": "2026-08-26T21:21:02.777528+00:00"
     },
     "vix": {
       "price": 10.565,
@@ -275,12 +275,12 @@
         10.5649995803833
       ],
       "ok": true,
-      "updated_at": "2026-08-26T18:53:58.742313+00:00"
+      "updated_at": "2026-08-26T21:21:02.832391+00:00"
     },
     "usdinr": {
-      "price": 95.41,
-      "change": 0.008,
-      "pct": 0.0084,
+      "price": 95.402,
+      "change": 0.0,
+      "pct": 0.0,
       "closes": [
         95.4020004272461,
         95.4020004272461,
@@ -295,43 +295,17 @@
         95.4020004272461,
         95.4020004272461,
         95.41000366210938,
-        95.41000366210938
+        95.4020004272461,
+        95.4020004272461
       ],
       "ok": true,
-      "updated_at": "2026-08-26T18:53:58.804236+00:00"
+      "updated_at": "2026-08-26T21:21:02.892574+00:00"
     },
     "gold": {
-      "price": 4651.2,
-      "change": -43.3,
-      "pct": -0.9224,
+      "price": 4647.8,
+      "change": -46.7,
+      "pct": -0.9948,
       "closes": [
-        4679.0,
-        4686.39990234375,
-        4679.7998046875,
-        4678.5,
-        4676.10009765625,
-        4678.7998046875,
-        4676.60009765625,
-        4672.5,
-        4674.2998046875,
-        4672.7001953125,
-        4677.89990234375,
-        4668.60009765625,
-        4663.10009765625,
-        4658.2001953125,
-        4653.2998046875,
-        4653.0,
-        4643.39990234375,
-        4646.60009765625,
-        4647.10009765625,
-        4650.39990234375,
-        4653.2998046875,
-        4656.7001953125,
-        4660.2001953125,
-        4663.5,
-        4656.0,
-        4651.60009765625,
-        4652.89990234375,
         4654.60009765625,
         4655.2001953125,
         4654.2001953125,
@@ -364,43 +338,43 @@
         4648.7001953125,
         4649.60009765625,
         4652.0,
-        4651.2001953125
+        4651.89990234375,
+        4651.10009765625,
+        4648.5,
+        4647.2001953125,
+        4647.89990234375,
+        4649.10009765625,
+        4646.60009765625,
+        4648.7998046875,
+        4652.89990234375,
+        4652.2998046875,
+        4651.7998046875,
+        4650.2001953125,
+        4650.0,
+        4648.2001953125,
+        4648.7998046875,
+        4648.60009765625,
+        4649.5,
+        4646.0,
+        4643.89990234375,
+        4644.2001953125,
+        4645.89990234375,
+        4646.60009765625,
+        4648.2998046875,
+        4646.39990234375,
+        4648.2998046875,
+        4647.60009765625,
+        4647.7998046875,
+        4647.7998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-26T18:53:58.867756+00:00"
+      "updated_at": "2026-08-26T21:21:02.948948+00:00"
     },
     "crude": {
-      "price": 82.17,
-      "change": -0.19,
-      "pct": -0.2307,
+      "price": 81.91,
+      "change": -0.45,
+      "pct": -0.5464,
       "closes": [
-        81.51000213623047,
-        81.5,
-        81.4800033569336,
-        81.38999938964844,
-        81.5,
-        81.63999938964844,
-        81.58000183105469,
-        81.69000244140625,
-        81.69000244140625,
-        81.75,
-        81.80000305175781,
-        81.83999633789062,
-        81.76000213623047,
-        81.91999816894531,
-        81.93000030517578,
-        81.9800033569336,
-        82.20999908447266,
-        82.08000183105469,
-        82.19999694824219,
-        82.37999725341797,
-        82.4800033569336,
-        82.2699966430664,
-        82.30999755859375,
-        82.30000305175781,
-        82.75,
-        82.7699966430664,
-        82.79000091552734,
         82.83999633789062,
         82.9000015258789,
         83.12999725341797,
@@ -433,19 +407,43 @@
         82.26000213623047,
         82.18000030517578,
         82.12999725341797,
-        82.16999816894531
+        82.0199966430664,
+        82.02999877929688,
+        82.0,
+        81.87999725341797,
+        81.9800033569336,
+        81.97000122070312,
+        82.04000091552734,
+        82.01000213623047,
+        81.98999786376953,
+        82.0199966430664,
+        81.94999694824219,
+        81.97000122070312,
+        81.95999908447266,
+        81.97000122070312,
+        81.93000030517578,
+        81.91999816894531,
+        81.91999816894531,
+        81.87000274658203,
+        81.80999755859375,
+        81.81999969482422,
+        81.80000305175781,
+        81.77999877929688,
+        81.77999877929688,
+        81.80000305175781,
+        81.8499984741211,
+        81.80999755859375,
+        81.91000366210938,
+        81.91000366210938
       ],
       "ok": true,
-      "updated_at": "2026-08-26T18:53:58.935168+00:00"
+      "updated_at": "2026-08-26T21:21:03.018519+00:00"
     },
     "us10y": {
-      "price": 4.668,
-      "change": 0.029,
-      "pct": 0.6251,
+      "price": 4.664,
+      "change": 0.025,
+      "pct": 0.5389,
       "closes": [
-        4.664000034332275,
-        4.664000034332275,
-        4.664000034332275,
         4.664000034332275,
         4.664000034332275,
         4.664000034332275,
@@ -502,16 +500,19 @@
         4.664000034332275,
         4.665999889373779,
         4.665999889373779,
-        4.668000221252441
+        4.664000034332275,
+        4.665999889373779,
+        4.664000034332275,
+        4.664000034332275
       ],
       "ok": true,
-      "updated_at": "2026-08-26T18:53:59.013555+00:00"
+      "updated_at": "2026-08-26T21:21:03.085166+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-26T18:53:59.142981+00:00",
+      "updated_at": "2026-08-26T21:21:03.300027+00:00",
       "items": [
         {
           "title": "Anthropic gears up for Wall Street debut: Five things investors need to know",
@@ -748,8 +749,43 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-26T18:53:59.547373+00:00",
+      "updated_at": "2026-08-26T21:21:03.476976+00:00",
       "items": [
+        {
+          "title": "Oil Dips as Traders Assess Hormuz Talks, Ukraine War Escalation",
+          "link": "https://www.livemint.com/market/oil-dips-as-traders-assess-hormuz-talks-ukraine-war-escalation-11787778798554.html",
+          "pubDate": "2026-08-27T02:43:18+05:30"
+        },
+        {
+          "title": "Dollar Gains Most in Over Two Weeks as PCE Backs Fed Hike",
+          "link": "https://www.livemint.com/market/dollar-gains-most-in-over-two-weeks-as-pce-backs-fed-hike-11787778441174.html",
+          "pubDate": "2026-08-27T02:37:20+05:30"
+        },
+        {
+          "title": "Gold Rally Eases as Traders Turn Focus to Fed Interest Rate Path",
+          "link": "https://www.livemint.com/market/gold-rally-eases-as-traders-turn-focus-to-fed-interest-rate-path-11787775547971.html",
+          "pubDate": "2026-08-27T01:49:07+05:30"
+        },
+        {
+          "title": "Indexes end close to flat after hot inflation data ahead of Nvidia earnings",
+          "link": "https://www.livemint.com/market/indexes-end-close-to-flat-after-hot-inflation-data-ahead-of-nvidia-earnings-11787774565346.html",
+          "pubDate": "2026-08-27T01:32:44+05:30"
+        },
+        {
+          "title": "Wheat soars to daily limit on Black Sea export worries, corn at lifetime highs",
+          "link": "https://www.livemint.com/market/wheat-soars-to-daily-limit-on-black-sea-export-worries-corn-at-lifetime-highs-11787773711563.html",
+          "pubDate": "2026-08-27T01:18:31+05:30"
+        },
+        {
+          "title": "Why Oura and Whoop Are Bound for IPO Glory",
+          "link": "https://www.livemint.com/market/why-oura-and-whoop-are-bound-for-ipo-glory-11787772060529.html",
+          "pubDate": "2026-08-27T00:51:00+05:30"
+        },
+        {
+          "title": "US data buoys dollar as Fed hike expectations nudged higher",
+          "link": "https://www.livemint.com/market/us-data-buoys-dollar-as-fed-hike-expectations-nudged-higher-11787770825665.html",
+          "pubDate": "2026-08-27T00:30:25+05:30"
+        },
         {
           "title": "Stock market prediction tomorrow, 27 August: What will happen to Sensex, Nifty, Hang Seng, KOSPI, Nikkei on Thursday",
           "link": "https://www.livemint.com/market/stock-market-prediction-tomorrow-27-august-what-will-happen-to-sensex-nifty-hang-seng-kospi-nikkei-on-thursday-11787743788377.html",
@@ -864,47 +900,12 @@
           "title": "Gautam Adani's Adani Energy Solutions wins  ₹4,700 crore transmission project in Maharashtra | shares rise",
           "link": "https://www.livemint.com/market/stock-market-news/gautam-adanis-adani-energy-solutions-wins-rs-4-700-crore-transmission-project-in-maharashtra-shares-rise-11787717367517.html",
           "pubDate": "2026-08-26T10:06:19+05:30"
-        },
-        {
-          "title": "Gaja Alternative Asset Management IPO listing: Shares list at a 16% premium over the issue price",
-          "link": "https://www.livemint.com/market/ipo/gaja-alternative-asset-management-ipo-listing-shares-list-at-a-16-premium-over-the-issue-price-11787717617976.html",
-          "pubDate": "2026-08-26T10:00:38+05:30"
-        },
-        {
-          "title": "Retail investors return to stocks as IPO appetite cools in FY27",
-          "link": "https://www.livemint.com/market/stock-market-news/retail-investors-secondary-market-ipo-primary-market-nse-fy27-retail-flows-listed-stocks-ipo-pipeline-11787711484359.html",
-          "pubDate": "2026-08-26T09:54:20+05:30"
-        },
-        {
-          "title": "Indus Towers to AU Small Finance Bank - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&amp;O segment",
-          "link": "https://www.livemint.com/market/stock-market-news/indus-towers-to-au-small-finance-bank-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11787717193068.html",
-          "pubDate": "2026-08-26T09:52:58+05:30"
-        },
-        {
-          "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five stocks to buy today —26 August 2026",
-          "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-stocks-to-buy-today-26-august-2026-11787713474862.html",
-          "pubDate": "2026-08-26T09:08:32+05:30"
-        },
-        {
-          "title": "Gold and silver prices rise on MCX amid a crash in oil prices and a weaker dollar ahead of key US inflation data",
-          "link": "https://www.livemint.com/market/commodities/gold-and-silver-prices-rise-on-mcx-amid-a-crash-in-oil-prices-and-a-weaker-dollar-ahead-of-key-us-inflation-data-11787715056435.html",
-          "pubDate": "2026-08-26T09:06:19+05:30"
-        },
-        {
-          "title": "Hindustan Copper share price in focus as OFS opens for retail investors today. Should you apply?",
-          "link": "https://www.livemint.com/market/stock-market-news/hindustan-copper-share-price-in-focus-as-ofs-opens-for-retail-investors-today-should-you-apply-11787713785032.html",
-          "pubDate": "2026-08-26T08:45:54+05:30"
-        },
-        {
-          "title": "Buy or sell: Gift Nifty signals gap-up start | Vaishali Parekh recommends three stocks to buy today — 26 August 2026",
-          "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-gap-up-start-vaishali-parekh-recommends-three-stocks-to-buy-today-26-august-2026-11787709370297.html",
-          "pubDate": "2026-08-26T08:29:56+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-26T18:53:59.645279+00:00",
+      "updated_at": "2026-08-26T21:21:03.690938+00:00",
       "items": [
         {
           "title": "High-frequency trading firms paying interns about ₹30 lakh a month",
@@ -1060,7 +1061,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-26T18:54:00.463143+00:00",
+      "updated_at": "2026-08-26T21:21:04.617660+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 27, 2026",

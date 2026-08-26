@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-26T06:23:20.552404+00:00",
+  "generated_at": "2026-08-26T07:14:47.965284+00:00",
   "indices": {
     "nifty50": {
-      "price": 24294.1,
-      "change": -40.45,
-      "pct": -0.1662,
+      "price": 24284.45,
+      "change": -50.1,
+      "pct": -0.2059,
       "closes": [
         24318.30078125,
         24354.0,
@@ -37,16 +37,26 @@
         24309.69921875,
         24308.19921875,
         24299.599609375,
-        24295.650390625,
-        24294.099609375
+        24285.150390625,
+        24288.44921875,
+        24276.44921875,
+        24270.400390625,
+        24281.0,
+        24288.0,
+        24290.349609375,
+        24278.099609375,
+        24279.5,
+        24277.69921875,
+        24283.75,
+        24284.44921875
       ],
       "ok": true,
-      "updated_at": "2026-08-26T06:23:17.965317+00:00"
+      "updated_at": "2026-08-26T07:14:45.725738+00:00"
     },
     "sensex": {
-      "price": 77761.87,
-      "change": 105.78,
-      "pct": 0.1362,
+      "price": 77675.03,
+      "change": 18.94,
+      "pct": 0.0244,
       "closes": [
         77827.421875,
         77934.703125,
@@ -76,16 +86,26 @@
         77720.046875,
         77737.203125,
         77717.5703125,
-        77763.8984375,
-        77761.8671875
+        77750.390625,
+        77750.203125,
+        77724.25,
+        77678.8671875,
+        77691.359375,
+        77648.578125,
+        77638.40625,
+        77671.3203125,
+        77692.109375,
+        77705.53125,
+        77661.46875,
+        77675.03125
       ],
       "ok": true,
-      "updated_at": "2026-08-26T06:23:18.074048+00:00"
+      "updated_at": "2026-08-26T07:14:45.828728+00:00"
     },
     "banknifty": {
-      "price": 57888.25,
-      "change": 374.05,
-      "pct": 0.6504,
+      "price": 57963.2,
+      "change": 449.0,
+      "pct": 0.7807,
       "closes": [
         57812.69921875,
         57913.94921875,
@@ -118,16 +138,26 @@
         57936.6484375,
         57909.5,
         57893.5,
-        57888.19921875,
-        57888.25
+        57874.94921875,
+        57882.19921875,
+        57880.30078125,
+        57870.75,
+        57937.6015625,
+        57952.94921875,
+        57956.1015625,
+        57920.30078125,
+        57935.44921875,
+        57933.6484375,
+        57955.75,
+        57963.19921875
       ],
       "ok": true,
-      "updated_at": "2026-08-26T06:23:18.182872+00:00"
+      "updated_at": "2026-08-26T07:14:45.934197+00:00"
     },
     "vix": {
-      "price": 10.65,
-      "change": -0.425,
-      "pct": -3.8375,
+      "price": 10.757,
+      "change": -0.318,
+      "pct": -2.8713,
       "closes": [
         10.454999923706055,
         10.3774995803833,
@@ -160,11 +190,21 @@
         10.645000457763672,
         10.649999618530273,
         10.675000190734863,
-        10.692500114440918,
-        10.649999618530273
+        10.72249984741211,
+        10.682499885559082,
+        10.755000114440918,
+        10.917499542236328,
+        10.817500114440918,
+        10.807499885559082,
+        10.789999961853027,
+        10.805000305175781,
+        10.792499542236328,
+        10.857500076293945,
+        10.767499923706055,
+        10.757499694824219
       ],
       "ok": true,
-      "updated_at": "2026-08-26T06:23:18.293108+00:00"
+      "updated_at": "2026-08-26T07:14:46.035959+00:00"
     },
     "usdinr": {
       "price": 95.402,
@@ -179,12 +219,12 @@
         95.4020004272461
       ],
       "ok": true,
-      "updated_at": "2026-08-26T06:23:18.405168+00:00"
+      "updated_at": "2026-08-26T07:14:46.145619+00:00"
     },
     "gold": {
-      "price": 4695.3,
-      "change": 0.8,
-      "pct": 0.017,
+      "price": 4695.2,
+      "change": 0.7,
+      "pct": 0.0149,
       "closes": [
         4699.89990234375,
         4700.60009765625,
@@ -212,15 +252,25 @@
         4697.5,
         4695.7001953125,
         4694.2001953125,
-        4695.2998046875
+        4690.7998046875,
+        4684.0,
+        4683.60009765625,
+        4687.60009765625,
+        4687.2998046875,
+        4690.2001953125,
+        4691.5,
+        4689.7998046875,
+        4690.39990234375,
+        4695.2998046875,
+        4695.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-08-26T06:23:18.515331+00:00"
+      "updated_at": "2026-08-26T07:14:46.253704+00:00"
     },
     "crude": {
-      "price": 80.82,
-      "change": -1.54,
-      "pct": -1.8698,
+      "price": 80.33,
+      "change": -2.03,
+      "pct": -2.4648,
       "closes": [
         80.37999725341797,
         80.37999725341797,
@@ -248,10 +298,20 @@
         80.81999969482422,
         80.87000274658203,
         80.87999725341797,
-        80.81999969482422
+        80.7699966430664,
+        80.83999633789062,
+        80.8499984741211,
+        80.69000244140625,
+        80.52999877929688,
+        80.30999755859375,
+        80.33000183105469,
+        80.41999816894531,
+        80.47000122070312,
+        80.33999633789062,
+        80.33000183105469
       ],
       "ok": true,
-      "updated_at": "2026-08-26T06:23:18.672198+00:00"
+      "updated_at": "2026-08-26T07:14:46.375217+00:00"
     },
     "us10y": {
       "price": 4.639,
@@ -320,33 +380,33 @@
         4.638999938964844
       ],
       "ok": true,
-      "updated_at": "2026-08-26T06:23:18.783651+00:00"
+      "updated_at": "2026-08-26T07:14:46.480958+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-26T06:23:19.003126+00:00",
+      "updated_at": "2026-08-26T07:14:46.597556+00:00",
       "items": [
         {
-          "title": "Buy, Sell or Hold: Morgan Stanley maintains overweight on Varun Beverages; Nuvama retains hold on Cyient",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/buy-sell-or-hold-morgan-stanley-maintains-overweight-on-varun-beverages-nuvama-retains-hold-on-cyient/articleshow/133529809.cms",
-          "pubDate": "2026-08-26T10:11:01+05:30"
+          "title": "Physicswallah shares jump 5% after block deal worth Rs 550 crore. What’s ahead after 63% rally in 6 months?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/physicswallah-shares-jump-5-after-block-deal-worth-rs-550-crore-whats-ahead-after-63-rally-in-6-months/articleshow/133532214.cms",
+          "pubDate": "2026-08-26T11:56:59+05:30"
         },
         {
-          "title": "MTAR Tech shares rally 3%, extend gains for second session. What’s triggering the surge?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mtar-tech-shares-rally-3-extend-gains-for-second-session-whats-triggering-the-surge/articleshow/133529737.cms",
-          "pubDate": "2026-08-26T10:07:17+05:30"
+          "title": "Welspun Corp shares drop 6% after CEO, promoter group likely sell stake worth Rs 1,433 crore via block deal",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/welspun-corp-shares-drop-6-after-ceo-promoter-group-likely-sell-stake-worth-rs-1433-crore-via-block-deal/articleshow/133531522.cms",
+          "pubDate": "2026-08-26T11:26:38+05:30"
         },
         {
-          "title": "Hy-Tech Engineers IPO Day 3: GMP at 57%, subscription reaches 19.33x. Should you subscribe?",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/hy-tech-engineers-ipo-day-3-gmp-at-57-subscription-reaches-19-33x-should-you-subscribe/articleshow/133529025.cms",
-          "pubDate": "2026-08-26T09:35:11+05:30"
+          "title": "Cyient shares rocket 8% after investor day, but brokerages see up to 24% downside. Here’s why",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cyient-shares-rocket-8-after-investor-day-but-brokerages-see-up-to-24-downside-heres-why/articleshow/133531459.cms",
+          "pubDate": "2026-08-26T11:23:12+05:30"
         },
         {
-          "title": "Over Rs 1 crore invested in mutual funds, NPS, PPF and FDs: Should this PSU banker increase equity exposure with 18 years to retirement?",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/over-rs-1-crore-invested-in-mutual-funds-nps-ppf-and-fds-should-this-psu-banker-increase-equity-exposure-with-18-years-to-retirement/articleshow/133528903.cms",
-          "pubDate": "2026-08-26T09:30:27+05:30"
+          "title": "Vedanta Aluminium at earnings inflection point? Here's why Motilal Oswal sees 21% upside",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-at-earnings-inflection-point-heres-why-motilal-oswal-sees-21-upside/articleshow/133531348.cms",
+          "pubDate": "2026-08-26T11:20:28+05:30"
         },
         {
           "title": "Avaada Electro files updated draft papers with Sebi for Rs 7,600-cr IPO",
@@ -481,8 +541,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-26T05:54:56.066522+00:00",
+      "ok": true,
+      "updated_at": "2026-08-26T07:14:46.730436+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -563,8 +623,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-26T06:23:19.567856+00:00",
+      "updated_at": "2026-08-26T07:14:46.851608+00:00",
       "items": [
+        {
+          "title": "Textile firms spin smart comeback in Q1, eye strong FY27",
+          "link": "https://www.livemint.com/market/mark-to-market/india-textile-sector-q1f-earnings-exports-arvind-welspun-vardhman-11787721952182.html",
+          "pubDate": "2026-08-26T12:37:45+05:30"
+        },
+        {
+          "title": "Madhur Knit Crafts IPO Day 3: Issue booked 55% so far. GMP hints 16% listing pop. Check key dates, issue details",
+          "link": "https://www.livemint.com/market/ipo/madhur-knit-crafts-ipo-day-3-issue-booked-55-so-far-gmp-hints-16-listing-pop-check-key-dates-issue-details-11787725851725.html",
+          "pubDate": "2026-08-26T12:36:52+05:30"
+        },
         {
           "title": "Healthcare stock Park Medi World jumps 3%, rises for 5th consecutive session after this capex update | Details here",
           "link": "https://www.livemint.com/market/stock-market-news/healthcare-stock-park-medi-world-jumps-3-rises-for-5th-consecutive-session-after-this-capex-update-details-here-11787724749621.html",
@@ -704,23 +774,43 @@
           "title": "Sebi bars Varanium Cloud, promoter for 7 years, orders  ₹128.8 crore disgorgement",
           "link": "https://www.livemint.com/market/stock-market-news/sebi-bars-varanium-cloud-promoter-for-7-years-orders-128-8-crore-disgorgement-11787664270771.html",
           "pubDate": "2026-08-25T20:01:33+05:30"
-        },
-        {
-          "title": "Varun Beverages to enter alcoholic drinks business, forms new subsidiary",
-          "link": "https://www.livemint.com/market/stock-market-news/varun-beverages-to-enter-alcoholic-drinks-business-forms-new-subsidiary-11787667099002.html",
-          "pubDate": "2026-08-25T19:49:29+05:30"
-        },
-        {
-          "title": "Scott Bessent’s bond buyback strategy draws criticism from Druckenmiller, JPMorgan: ‘Paying mortgage with credit card’",
-          "link": "https://www.livemint.com/market/bonds/scott-bessent-s-bond-buyback-strategy-draws-criticism-from-druckenmiller-jpmorgan-paying-mortgage-with-credit-card-11787661389133.html",
-          "pubDate": "2026-08-25T19:05:33+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-26T06:23:19.620354+00:00",
+      "updated_at": "2026-08-26T07:14:47.018104+00:00",
       "items": [
+        {
+          "title": "Groww falls nearly 4% after two block trades; most active stock on NSE",
+          "link": "https://www.business-standard.com/markets/news/groww-share-price-falls-nearly-4-after-two-block-deals-most-active-stock-on-nse-126082600378_1.html",
+          "pubDate": "2026-08-26T12:15:11+05:30"
+        },
+        {
+          "title": "Buzzing stock: IDBI Bank extends rally to 5th day, jumps 5% on huge volume",
+          "link": "https://www.business-standard.com/markets/news/buzzing-stock-idbi-bank-extends-rally-to-5th-day-jumps-5-on-huge-volume-126082600335_1.html",
+          "pubDate": "2026-08-26T12:14:01+05:30"
+        },
+        {
+          "title": "Park Medi World to set up 550-bed speciality hospital in Prayagraj",
+          "link": "https://www.business-standard.com/markets/capital-market-news/park-medi-world-to-set-up-550-bed-speciality-hospital-in-prayagraj-126082600371_1.html",
+          "pubDate": "2026-08-26T12:04:20+05:30"
+        },
+        {
+          "title": "Cyient Ltd leads gainers in 'A' group",
+          "link": "https://www.business-standard.com/markets/capital-market-news/cyient-ltd-leads-gainers-in-a-group-126082600370_1.html",
+          "pubDate": "2026-08-26T12:04:11+05:30"
+        },
+        {
+          "title": "Fedbank Financial board raises borrowing limit to Rs 23,000 crore",
+          "link": "https://www.business-standard.com/markets/capital-market-news/fedbank-financial-board-raises-borrowing-limit-to-rs-23-000-crore-126082600369_1.html",
+          "pubDate": "2026-08-26T12:04:02+05:30"
+        },
+        {
+          "title": "Delhi Master Plan 2047 puts brokerages' spotlight on Max, Fortis, Medanta",
+          "link": "https://www.business-standard.com/markets/news/delhi-master-plan-2047-puts-brokerages-spotlight-on-max-fortis-medanta-126082600359_1.html",
+          "pubDate": "2026-08-26T11:51:31+05:30"
+        },
         {
           "title": "US equities edge higher, markets eye economic cues",
           "link": "https://www.business-standard.com/markets/capital-market-news/us-equities-edge-higher-markets-eye-economic-cues-126082600357_1.html",
@@ -840,42 +930,12 @@
           "title": "Eternal hits 10-month high; here's why stock zoomed 56% from March low",
           "link": "https://www.business-standard.com/markets/news/eternal-share-hits-10-month-high-here-s-why-stock-zoomed-56-from-march-low-126082600232_1.html",
           "pubDate": "2026-08-26T10:16:46+05:30"
-        },
-        {
-          "title": "SPR Auto Technologies to acquire minor stake in Sunsure Solarpark",
-          "link": "https://www.business-standard.com/markets/capital-market-news/spr-auto-technologies-to-acquire-minor-stake-in-sunsure-solarpark-126082600242_1.html",
-          "pubDate": "2026-08-26T10:16:07+05:30"
-        },
-        {
-          "title": "Tavexia Lifecare announces its diversification into pharma biz",
-          "link": "https://www.business-standard.com/markets/capital-market-news/tavexia-lifecare-announces-its-diversification-into-pharma-biz-126082600223_1.html",
-          "pubDate": "2026-08-26T10:04:41+05:30"
-        },
-        {
-          "title": "MTAR Tech rises after securing order worth nearly Rs 127 crore for coolant channel assemblies",
-          "link": "https://www.business-standard.com/markets/capital-market-news/mtar-tech-rises-after-securing-order-worth-nearly-rs-127-crore-for-coolant-channel-assemblies-126082600216_1.html",
-          "pubDate": "2026-08-26T10:04:02+05:30"
-        },
-        {
-          "title": "Gaja Capital shares make strong debut, list 16% above issue price",
-          "link": "https://www.business-standard.com/markets/news/gaja-capital-shares-make-strong-debut-list-15-above-issue-price-126082600211_1.html",
-          "pubDate": "2026-08-26T10:00:46+05:30"
-        },
-        {
-          "title": "State Trading Corporation of India standalone net profit declines 71.11% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/state-trading-corporation-of-india-standalone-net-profit-declines-71-11-in-the-june-2026-quarter-126082600202_1.html",
-          "pubDate": "2026-08-26T09:50:35+05:30"
-        },
-        {
-          "title": "Nifty trade above 24,350 in early trade; breadth strong",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trade-above-24-350-in-early-trade-breadth-strong-126082600201_1.html",
-          "pubDate": "2026-08-26T09:50:26+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-26T06:23:20.552388+00:00",
+      "updated_at": "2026-08-26T07:14:47.965267+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 27, 2026",

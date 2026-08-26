@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T14:58:56.736251+00:00",
+  "generated_at": "2026-08-26T16:14:41.876371+00:00",
   "indices": {
     "nifty50": {
       "price": 24207.75,
@@ -68,7 +68,7 @@
         24207.75
       ],
       "ok": true,
-      "updated_at": "2026-08-26T14:58:54.327592+00:00"
+      "updated_at": "2026-08-26T16:14:39.337916+00:00"
     },
     "sensex": {
       "price": 77472.94,
@@ -137,7 +137,7 @@
         77472.9375
       ],
       "ok": true,
-      "updated_at": "2026-08-26T14:58:54.448269+00:00"
+      "updated_at": "2026-08-26T16:14:39.495236+00:00"
     },
     "banknifty": {
       "price": 57783.75,
@@ -206,7 +206,7 @@
         57783.75
       ],
       "ok": true,
-      "updated_at": "2026-08-26T14:58:54.528951+00:00"
+      "updated_at": "2026-08-26T16:14:39.607473+00:00"
     },
     "vix": {
       "price": 10.565,
@@ -275,7 +275,7 @@
         10.5649995803833
       ],
       "ok": true,
-      "updated_at": "2026-08-26T14:58:54.615546+00:00"
+      "updated_at": "2026-08-26T16:14:39.719914+00:00"
     },
     "usdinr": {
       "price": 95.402,
@@ -290,31 +290,17 @@
         95.4020004272461,
         95.4020004272461,
         95.4020004272461,
+        95.4020004272461,
         95.4020004272461
       ],
       "ok": true,
-      "updated_at": "2026-08-26T14:58:54.744731+00:00"
+      "updated_at": "2026-08-26T16:14:39.885872+00:00"
     },
     "gold": {
-      "price": 4669.5,
-      "change": -25.0,
-      "pct": -0.5325,
+      "price": 4653.0,
+      "change": -41.5,
+      "pct": -0.884,
       "closes": [
-        4679.5,
-        4679.60009765625,
-        4677.7001953125,
-        4675.0,
-        4673.39990234375,
-        4674.60009765625,
-        4670.7998046875,
-        4675.39990234375,
-        4679.89990234375,
-        4678.2998046875,
-        4679.5,
-        4678.5,
-        4675.89990234375,
-        4676.5,
-        4673.5,
         4674.10009765625,
         4678.0,
         4672.5,
@@ -359,31 +345,31 @@
         4672.7001953125,
         4677.89990234375,
         4668.60009765625,
-        4669.5
+        4663.10009765625,
+        4658.2001953125,
+        4653.2998046875,
+        4653.0,
+        4643.39990234375,
+        4646.60009765625,
+        4647.10009765625,
+        4650.39990234375,
+        4653.2998046875,
+        4656.7001953125,
+        4660.2001953125,
+        4663.5,
+        4656.0,
+        4651.60009765625,
+        4652.7998046875,
+        4653.0
       ],
       "ok": true,
-      "updated_at": "2026-08-26T14:58:54.823948+00:00"
+      "updated_at": "2026-08-26T16:14:40.052910+00:00"
     },
     "crude": {
-      "price": 81.88,
-      "change": -0.48,
-      "pct": -0.5828,
+      "price": 82.9,
+      "change": 0.54,
+      "pct": 0.6557,
       "closes": [
-        80.12000274658203,
-        80.12999725341797,
-        80.02999877929688,
-        80.16000366210938,
-        80.2300033569336,
-        80.1500015258789,
-        80.1500015258789,
-        80.18000030517578,
-        80.08000183105469,
-        80.19000244140625,
-        80.29000091552734,
-        80.37000274658203,
-        80.2300033569336,
-        80.1500015258789,
-        80.31999969482422,
         80.19999694824219,
         80.13999938964844,
         80.33999633789062,
@@ -428,15 +414,30 @@
         81.75,
         81.80000305175781,
         81.83999633789062,
-        81.87999725341797
+        81.76000213623047,
+        81.91999816894531,
+        81.93000030517578,
+        81.9800033569336,
+        82.20999908447266,
+        82.08000183105469,
+        82.19999694824219,
+        82.37999725341797,
+        82.4800033569336,
+        82.2699966430664,
+        82.30999755859375,
+        82.30000305175781,
+        82.75,
+        82.7699966430664,
+        82.79000091552734,
+        82.9000015258789
       ],
       "ok": true,
-      "updated_at": "2026-08-26T14:58:54.917416+00:00"
+      "updated_at": "2026-08-26T16:14:40.166185+00:00"
     },
     "us10y": {
-      "price": 4.656,
-      "change": 0.017,
-      "pct": 0.3665,
+      "price": 4.662,
+      "change": 0.023,
+      "pct": 0.4958,
       "closes": [
         4.63100004196167,
         4.625,
@@ -467,17 +468,37 @@
         4.659999847412109,
         4.656000137329102,
         4.656000137329102,
-        4.656000137329102
+        4.659999847412109,
+        4.656000137329102,
+        4.654000282287598,
+        4.6529998779296875,
+        4.6529998779296875,
+        4.654000282287598,
+        4.6529998779296875,
+        4.654000282287598,
+        4.656000137329102,
+        4.6579999923706055,
+        4.656000137329102,
+        4.656000137329102,
+        4.656000137329102,
+        4.664000034332275,
+        4.661999702453613,
+        4.661999702453613
       ],
       "ok": true,
-      "updated_at": "2026-08-26T14:58:55.062302+00:00"
+      "updated_at": "2026-08-26T16:14:40.276471+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-26T14:58:55.311628+00:00",
+      "updated_at": "2026-08-26T16:14:40.365232+00:00",
       "items": [
+        {
+          "title": "Anthropic gears up for Wall Street debut: Five things investors need to know",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropics-gears-up-for-wall-street-debut-five-things-investors-need-to-know/slideshow/133545308.cms",
+          "pubDate": "2026-08-26T21:00:49+05:30"
+        },
         {
           "title": "M&amp;A deals double, but execution holds the key for investors: Crisil Ratings",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/ma-deals-double-but-execution-holds-the-key-for-investors-crisil-ratings/articleshow/133538096.cms",
@@ -492,11 +513,6 @@
           "title": "Adani’s Cemindia is said to near up to $524 million share sale",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/adanis-cemindia-is-said-to-near-up-to-524-million-share-sale/articleshow/133536591.cms",
           "pubDate": "2026-08-26T15:16:36+05:30"
-        },
-        {
-          "title": "Welspun Corp shares drop 6% after CEO, promoter group likely sell stake worth Rs 1,433 crore via block deal",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/welspun-corp-shares-drop-6-after-ceo-promoter-group-likely-sell-stake-worth-rs-1433-crore-via-block-deal/articleshow/133531522.cms",
-          "pubDate": "2026-08-26T11:26:38+05:30"
         },
         {
           "title": "ETMarkets Smart Talk | Large caps look better for next 24 months, but hidden gems remain in smallcaps: Divam Sharma",
@@ -631,7 +647,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-26T14:58:55.473038+00:00",
       "items": [
         {
@@ -713,8 +729,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-26T14:58:55.699365+00:00",
+      "updated_at": "2026-08-26T16:14:40.938824+00:00",
       "items": [
+        {
+          "title": "Meta shares jump 4% as Facebook parent settles major teen addiction lawsuit",
+          "link": "https://www.livemint.com/market/meta-shares-jump-4-as-facebook-parent-settles-major-teen-addiction-lawsuit-11787754449421.html",
+          "pubDate": "2026-08-26T20:59:54+05:30"
+        },
         {
           "title": "Bharat Electronics shares to be in focus on Thursday as company secures  ₹730 crore order",
           "link": "https://www.livemint.com/market/stock-market-news/bharat-electronics-shares-to-be-in-focus-on-thursday-as-company-secures-rs-730-crore-order-11787752515101.html",
@@ -859,27 +880,32 @@
           "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 26 August",
           "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-26-august-11787708075189.html",
           "pubDate": "2026-08-26T07:35:15+05:30"
-        },
-        {
-          "title": "Gaja Alternative IPO listing date today. GMP hints up to 12% listing pop",
-          "link": "https://www.livemint.com/market/ipo/gaja-alternative-ipo-listing-date-today-gmp-hints-up-to-12-listing-pop-11787674467068.html",
-          "pubDate": "2026-08-26T07:03:52+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-26T14:58:56.026187+00:00",
+      "updated_at": "2026-08-26T16:14:40.967915+00:00",
       "items": [
+        {
+          "title": "Block deals worth ₹10,300 cr in a day lift August tally to 14-month high",
+          "link": "https://www.business-standard.com/markets/news/block-deals-worth-10-300-cr-in-a-day-lift-august-tally-to-14-month-high-126082601256_1.html",
+          "pubDate": "2026-08-26T21:27:26+05:30"
+        },
+        {
+          "title": "Indians invest record funds in overseas stocks, debt in June",
+          "link": "https://www.business-standard.com/economy/news/indians-invest-record-funds-in-overseas-stocks-debt-in-june-126082601177_1.html",
+          "pubDate": "2026-08-26T20:28:12+05:30"
+        },
         {
           "title": "Purple Style Labs sets price band, eyes ₹4,604 crore IPO valuation",
           "link": "https://www.business-standard.com/markets/ipo/purple-style-labs-sets-price-band-eyes-4-604-crore-ipo-valuation-126082601120_1.html",
-          "pubDate": "2026-08-26T19:37:13+05:30"
+          "pubDate": "2026-08-26T19:37:52+05:30"
         },
         {
           "title": "Private banks drive Nifty Bank up 0.47%; PSU lenders retain long-term lead",
           "link": "https://www.business-standard.com/markets/news/private-banks-drive-nifty-bank-up-0-47-psu-lenders-retain-long-term-lead-126082601013_1.html",
-          "pubDate": "2026-08-26T18:32:39+05:30"
+          "pubDate": "2026-08-26T18:32:18+05:30"
         },
         {
           "title": "GK Energy gains after receiving Rs 455-cr solar project order",
@@ -1010,22 +1036,12 @@
           "title": "Glenmark Pharmaceuticals Ltd soars 1.8%, rises for third straight session",
           "link": "https://www.business-standard.com/markets/capital-market-news/glenmark-pharmaceuticals-ltd-soars-1-8-rises-for-third-straight-session-126082600745_1.html",
           "pubDate": "2026-08-26T16:06:19+05:30"
-        },
-        {
-          "title": "Ashok Leyland Ltd rises for third straight session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/ashok-leyland-ltd-rises-for-third-straight-session-126082600744_1.html",
-          "pubDate": "2026-08-26T16:06:11+05:30"
-        },
-        {
-          "title": "GK Energy secures Rs 454-cr grid connected rooftop solar PV project",
-          "link": "https://www.business-standard.com/markets/capital-market-news/gk-energy-secures-rs-454-cr-grid-connected-rooftop-solar-pv-project-126082600715_1.html",
-          "pubDate": "2026-08-26T15:50:27+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-26T14:58:56.736238+00:00",
+      "updated_at": "2026-08-26T16:14:41.876355+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 27, 2026",

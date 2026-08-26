@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T00:40:32.000610+00:00",
+  "generated_at": "2026-08-26T02:12:07.867007+00:00",
   "indices": {
     "nifty50": {
       "price": 24334.55,
@@ -68,7 +68,7 @@
         24334.55078125
       ],
       "ok": true,
-      "updated_at": "2026-08-26T00:40:29.272361+00:00"
+      "updated_at": "2026-08-26T02:12:05.424261+00:00"
     },
     "sensex": {
       "price": 77656.09,
@@ -137,7 +137,7 @@
         77656.09375
       ],
       "ok": true,
-      "updated_at": "2026-08-26T00:40:29.431054+00:00"
+      "updated_at": "2026-08-26T02:12:05.492881+00:00"
     },
     "banknifty": {
       "price": 57514.2,
@@ -206,7 +206,7 @@
         57514.19921875
       ],
       "ok": true,
-      "updated_at": "2026-08-26T00:40:29.574537+00:00"
+      "updated_at": "2026-08-26T02:12:05.561276+00:00"
     },
     "vix": {
       "price": 11.075,
@@ -275,7 +275,7 @@
         11.074999809265137
       ],
       "ok": true,
-      "updated_at": "2026-08-26T00:40:29.745103+00:00"
+      "updated_at": "2026-08-26T02:12:05.651970+00:00"
     },
     "usdinr": {
       "price": 95.402,
@@ -283,30 +283,13 @@
       "pct": 0.0,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-08-26T00:40:29.924320+00:00"
+      "updated_at": "2026-08-26T02:12:05.716212+00:00"
     },
     "gold": {
-      "price": 4703.9,
-      "change": 9.4,
-      "pct": 0.2002,
+      "price": 4714.8,
+      "change": 20.3,
+      "pct": 0.4324,
       "closes": [
-        4705.10009765625,
-        4706.0,
-        4707.89990234375,
-        4707.7001953125,
-        4711.39990234375,
-        4711.10009765625,
-        4716.2001953125,
-        4719.2001953125,
-        4723.89990234375,
-        4721.5,
-        4717.89990234375,
-        4715.7998046875,
-        4716.10009765625,
-        4719.0,
-        4721.10009765625,
-        4722.10009765625,
-        4723.39990234375,
         4721.7998046875,
         4725.5,
         4722.7001953125,
@@ -348,34 +331,34 @@
         4708.39990234375,
         4702.89990234375,
         4703.7001953125,
-        4704.5,
-        4703.89990234375
+        4702.2001953125,
+        4696.89990234375,
+        4694.10009765625,
+        4693.2001953125,
+        4692.7001953125,
+        4694.2001953125,
+        4702.7001953125,
+        4701.7001953125,
+        4700.7998046875,
+        4702.5,
+        4701.0,
+        4700.2998046875,
+        4696.0,
+        4701.89990234375,
+        4701.10009765625,
+        4707.60009765625,
+        4708.39990234375,
+        4715.39990234375,
+        4714.7998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-26T00:40:30.097354+00:00"
+      "updated_at": "2026-08-26T02:12:05.796348+00:00"
     },
     "crude": {
-      "price": 80.97,
-      "change": -1.39,
-      "pct": -1.6877,
+      "price": 80.54,
+      "change": -1.82,
+      "pct": -2.2098,
       "closes": [
-        82.43000030517578,
-        82.38999938964844,
-        82.31999969482422,
-        82.29000091552734,
-        82.30000305175781,
-        82.30999755859375,
-        82.37999725341797,
-        82.30000305175781,
-        82.25,
-        82.18000030517578,
-        82.23999786376953,
-        82.12000274658203,
-        82.06999969482422,
-        81.98999786376953,
-        81.83999633789062,
-        81.44000244140625,
-        81.12999725341797,
         80.98999786376953,
         80.66000366210938,
         80.54000091552734,
@@ -417,11 +400,28 @@
         80.83000183105469,
         80.83000183105469,
         80.91999816894531,
-        80.87000274658203,
-        80.97000122070312
+        80.88999938964844,
+        80.94999694824219,
+        80.70999908447266,
+        80.61000061035156,
+        80.81999969482422,
+        80.69999694824219,
+        80.45999908447266,
+        80.5,
+        80.38999938964844,
+        80.4800033569336,
+        80.44999694824219,
+        80.55000305175781,
+        80.48999786376953,
+        80.36000061035156,
+        80.44999694824219,
+        80.6500015258789,
+        80.58999633789062,
+        80.54000091552734,
+        80.54000091552734
       ],
       "ok": true,
-      "updated_at": "2026-08-26T00:40:30.291146+00:00"
+      "updated_at": "2026-08-26T02:12:05.877461+00:00"
     },
     "us10y": {
       "price": 4.639,
@@ -490,43 +490,43 @@
         4.638999938964844
       ],
       "ok": true,
-      "updated_at": "2026-08-26T00:40:30.463028+00:00"
+      "updated_at": "2026-08-26T02:12:05.953469+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-26T00:40:30.633279+00:00",
+      "updated_at": "2026-08-26T02:12:06.155651+00:00",
       "items": [
         {
-          "title": "Small- and midcaps shine as blue-chip stocks struggle for momentum",
+          "title": "Hindustan Copper OFS opens for retail investors today. Should you apply in the metals major's offer?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-copper-ofs-opens-for-retail-investors-today-should-you-apply-in-the-metals-majors-offer/articleshow/133527323.cms",
+          "pubDate": "2026-08-26T07:26:51+05:30"
+        },
+        {
+          "title": "Axis Bank set to raise $700 million through ECB swap facility",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-set-to-raise-700-million-through-ecb-swap-facility/articleshow/133526983.cms",
+          "pubDate": "2026-08-26T06:33:39+05:30"
+        },
+        {
+          "title": "Global Market Today: Asian stocks mixed ahead of Nvidia results, oil prices slide",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-ahead-of-nvidia-results-oil-prices-slide/articleshow/133526965.cms",
+          "pubDate": "2026-08-26T06:25:28+05:30"
+        },
+        {
+          "title": "ESDS to expand data centre operations with Rs 720-cr IPO proceeds",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/esds-to-expand-data-centre-operations-with-of-rs-720-cr-ipo-proceeds/articleshow/133526906.cms",
+          "pubDate": "2026-08-26T06:11:08+05:30"
+        },
+        {
+          "title": "Hindustan Copper OFS may not be a big draw for retail investors: Analysts",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hind-copper-may-not-be-a-big-draw-for-retail-investors/articleshow/133526868.cms",
+          "pubDate": "2026-08-26T05:58:50+05:30"
+        },
+        {
+          "title": "Small and midcaps shine as blue-chip stocks struggle for momentum",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/small-and-midcaps-shine-as-blue-chip-stocks-struggle-for-momentum/articleshow/133526882.cms",
           "pubDate": "2026-08-26T05:55:15+05:30"
-        },
-        {
-          "title": "L&amp;T wins ₹5,000-10,000 cr 'major' order to build 3 battery storage projects in Middle East",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/lt-wins-major-middle-east-order-for-6-gwh-battery-storage-projects/articleshow/133526841.cms",
-          "pubDate": "2026-08-26T00:56:58+05:30"
-        },
-        {
-          "title": "Food prices on the rise, domestic demand keeps economy strong",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/food-prices-on-the-rise-domestic-demand-keeps-economy-strong/articleshow/133526830.cms",
-          "pubDate": "2026-08-26T00:33:30+05:30"
-        },
-        {
-          "title": "India adds 1.26 million credit cards in July as spending rises; HDFC, SBI lead the way",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-adds-1-26-million-credit-cards-in-july-as-spending-rises-hdfc-sbi-lead-the-way/articleshow/133526854.cms",
-          "pubDate": "2026-08-25T23:46:55+05:30"
-        },
-        {
-          "title": "From IPO mockery to Rs 1 lakh crore m-cap: Why investors are still betting on Lenskart’s vision",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-ipo-mockery-to-rs-1-lakh-crore-m-cap-why-investors-are-still-betting-on-lenskarts-vision/articleshow/133494107.cms",
-          "pubDate": "2026-08-25T10:50:05+05:30"
-        },
-        {
-          "title": "Why investors should not ignore largecaps despite the smallcap rush: Canara Robeco CIO Shridatta Bhandwaldar",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/why-investors-should-not-ignore-largecaps-despite-the-smallcap-rush-canara-robeco-cio-shridatta-bhandwaldar/articleshow/133490109.cms",
-          "pubDate": "2026-08-25T09:31:28+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -651,8 +651,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-08-25T18:02:05.514431+00:00",
+      "ok": true,
+      "updated_at": "2026-08-26T02:12:06.612239+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -733,8 +733,23 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-26T00:40:30.892132+00:00",
+      "updated_at": "2026-08-26T02:12:06.648126+00:00",
       "items": [
+        {
+          "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 26 August",
+          "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-26-august-11787708075189.html",
+          "pubDate": "2026-08-26T07:35:15+05:30"
+        },
+        {
+          "title": "Gaja Alternative IPO listing date today. GMP hints up to 12% listing pop",
+          "link": "https://www.livemint.com/market/ipo/gaja-alternative-ipo-listing-date-today-gmp-hints-up-to-12-listing-pop-11787674467068.html",
+          "pubDate": "2026-08-26T07:03:52+05:30"
+        },
+        {
+          "title": "Nifty outlook for September series: Can the 50-stock index continue its up move?",
+          "link": "https://www.livemint.com/market/stock-market-news/nifty-outlook-for-september-series-can-the-50-stock-index-continue-its-up-move-11787676280285.html",
+          "pubDate": "2026-08-26T07:00:14+05:30"
+        },
         {
           "title": "Stock recommendations for 26 August from MarketSmith India",
           "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-26-august-from-marketsmith-india-11787660649278.html",
@@ -869,27 +884,12 @@
           "title": "Sumax Engineering IPO day 1: Issue fully subscribed; GMP signals 35% listing pop; key details of SME IPO in 10 points",
           "link": "https://www.livemint.com/market/ipo/sumax-engineering-ipo-day-1-issue-fully-subscribed-gmp-signals-35-listing-pop-key-details-of-sme-ipo-in-10-points-11787640725570.html",
           "pubDate": "2026-08-25T13:11:14+05:30"
-        },
-        {
-          "title": "Navin Fluorine’s new refrigerant capacity seen adding to its CDMO momentum",
-          "link": "https://www.livemint.com/market/mark-to-market/navin-fluorine-international-r32-refrigerants-high-performance-products-hpp-cdmo-specialty-chemicals-11787636833896.html",
-          "pubDate": "2026-08-25T12:49:12+05:30"
-        },
-        {
-          "title": "FPIs are back in India. Their bets show they’re still not sold",
-          "link": "https://www.livemint.com/market/stock-market-news/foreign-investors-india-stocks-fpi-inflows-11787570795633.html",
-          "pubDate": "2026-08-25T12:04:27+05:30"
-        },
-        {
-          "title": "PVR INOX share buyback: First ever - Board meeting on Aug 31 | Check face value per share, record date status",
-          "link": "https://www.livemint.com/market/stock-market-news/pvr-inox-share-buyback-first-ever-board-meeting-on-aug-31-check-face-value-per-share-record-date-status-11787636241178.html",
-          "pubDate": "2026-08-25T12:04:07+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-26T00:40:31.211906+00:00",
+      "updated_at": "2026-08-26T02:12:06.872951+00:00",
       "items": [
         {
           "title": "Bitcoin tops $80,000 as optimistic mood returns to crypto market",
@@ -1045,7 +1045,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-26T00:40:32.000591+00:00",
+      "updated_at": "2026-08-26T02:12:07.866991+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 27, 2026",

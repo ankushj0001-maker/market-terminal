@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T10:48:50.600160+00:00",
+  "generated_at": "2026-08-26T11:17:00.608387+00:00",
   "indices": {
     "nifty50": {
       "price": 24207.75,
@@ -68,7 +68,7 @@
         24207.75
       ],
       "ok": true,
-      "updated_at": "2026-08-26T10:48:47.975327+00:00"
+      "updated_at": "2026-08-26T11:16:58.249811+00:00"
     },
     "sensex": {
       "price": 77472.94,
@@ -137,7 +137,7 @@
         77472.9375
       ],
       "ok": true,
-      "updated_at": "2026-08-26T10:48:48.139017+00:00"
+      "updated_at": "2026-08-26T11:16:58.358246+00:00"
     },
     "banknifty": {
       "price": 57783.75,
@@ -206,7 +206,7 @@
         57783.75
       ],
       "ok": true,
-      "updated_at": "2026-08-26T10:48:48.302765+00:00"
+      "updated_at": "2026-08-26T11:16:58.466343+00:00"
     },
     "vix": {
       "price": 10.565,
@@ -275,7 +275,7 @@
         10.5649995803833
       ],
       "ok": true,
-      "updated_at": "2026-08-26T10:48:48.532161+00:00"
+      "updated_at": "2026-08-26T11:16:58.571030+00:00"
     },
     "usdinr": {
       "price": 95.402,
@@ -290,19 +290,13 @@
         95.4020004272461
       ],
       "ok": true,
-      "updated_at": "2026-08-26T10:48:48.692207+00:00"
+      "updated_at": "2026-08-26T11:16:58.693634+00:00"
     },
     "gold": {
-      "price": 4677.9,
-      "change": -16.6,
-      "pct": -0.3536,
+      "price": 4674.8,
+      "change": -19.7,
+      "pct": -0.4196,
       "closes": [
-        4695.0,
-        4694.2998046875,
-        4695.5,
-        4697.5,
-        4695.7001953125,
-        4694.2001953125,
         4690.7998046875,
         4684.0,
         4683.60009765625,
@@ -356,22 +350,22 @@
         4670.7998046875,
         4675.39990234375,
         4679.89990234375,
-        4677.89990234375
+        4678.2998046875,
+        4679.5,
+        4678.5,
+        4675.89990234375,
+        4676.5,
+        4673.5,
+        4674.7998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-26T10:48:48.851660+00:00"
+      "updated_at": "2026-08-26T11:16:58.805277+00:00"
     },
     "crude": {
-      "price": 80.17,
-      "change": -2.19,
-      "pct": -2.6591,
+      "price": 80.12,
+      "change": -2.24,
+      "pct": -2.7198,
       "closes": [
-        80.87999725341797,
-        80.80999755859375,
-        80.80000305175781,
-        80.81999969482422,
-        80.87000274658203,
-        80.87999725341797,
         80.7699966430664,
         80.83999633789062,
         80.8499984741211,
@@ -425,10 +419,16 @@
         80.1500015258789,
         80.18000030517578,
         80.08000183105469,
-        80.16999816894531
+        80.19000244140625,
+        80.29000091552734,
+        80.37000274658203,
+        80.2300033569336,
+        80.1500015258789,
+        80.31999969482422,
+        80.12000274658203
       ],
       "ok": true,
-      "updated_at": "2026-08-26T10:48:49.012929+00:00"
+      "updated_at": "2026-08-26T11:16:58.903848+00:00"
     },
     "us10y": {
       "price": 4.639,
@@ -497,13 +497,13 @@
         4.638999938964844
       ],
       "ok": true,
-      "updated_at": "2026-08-26T10:48:49.177262+00:00"
+      "updated_at": "2026-08-26T11:16:59.011985+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-26T10:48:49.390615+00:00",
+      "updated_at": "2026-08-26T11:16:59.267478+00:00",
       "items": [
         {
           "title": "Sensex falls 183 points, Nifty closes below 24,250 as market erases all morning gains. What lies ahead?",
@@ -659,7 +659,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-26T10:48:49.489857+00:00",
+      "updated_at": "2026-08-26T11:16:59.387754+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -740,7 +740,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-26T10:48:49.650617+00:00",
+      "updated_at": "2026-08-26T11:16:59.505307+00:00",
       "items": [
         {
           "title": "Top Gainers &amp; Losers on 26 Aug: SBFC Finance, Capri Global, Hindustan Copper, SAIL, OLA, Vedanta among top gainers",
@@ -896,8 +896,28 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-26T10:48:49.825767+00:00",
+      "updated_at": "2026-08-26T11:16:59.637758+00:00",
       "items": [
+        {
+          "title": "Augmont Enterprises IPO ends with 105.78 times subscription",
+          "link": "https://www.business-standard.com/markets/capital-market-news/augmont-enterprises-ipo-ends-with-105-78-times-subscription-126082600803_1.html",
+          "pubDate": "2026-08-26T16:31:10+05:30"
+        },
+        {
+          "title": "Nifty settles below 24,250 mark; cements shares advance",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-settles-below-24-250-mark-cements-shares-advance-126082600802_1.html",
+          "pubDate": "2026-08-26T16:31:02+05:30"
+        },
+        {
+          "title": "Ajmera Realty & Infra India fixes record date for final dividend",
+          "link": "https://www.business-standard.com/markets/capital-market-news/ajmera-realty-infra-india-fixes-record-date-for-final-dividend-126082600776_1.html",
+          "pubDate": "2026-08-26T16:16:14+05:30"
+        },
+        {
+          "title": "Sensex settles 183 pts lower; Nifty ends below 24,250",
+          "link": "https://www.business-standard.com/markets/capital-market-news/sensex-settles-183-pts-lower-nifty-ends-below-24-250-126082600775_1.html",
+          "pubDate": "2026-08-26T16:16:06+05:30"
+        },
         {
           "title": "Japanese stocks extend gains as oil prices ease",
           "link": "https://www.business-standard.com/markets/capital-market-news/japanese-stocks-extend-gains-as-oil-prices-ease-126082600754_1.html",
@@ -1027,32 +1047,12 @@
           "title": "Adani Energy Solutions bags Rs 4,700 crore transmission project in Maharashtra",
           "link": "https://www.business-standard.com/markets/capital-market-news/adani-energy-solutions-bags-rs-4-700-crore-transmission-project-in-maharashtra-126082600496_1.html",
           "pubDate": "2026-08-26T13:16:01+05:30"
-        },
-        {
-          "title": "Yen snaps two-day slide as markets weigh Fed cuts and BoJ hikes",
-          "link": "https://www.business-standard.com/markets/capital-market-news/yen-snaps-two-day-slide-as-markets-weigh-fed-cuts-and-boj-hikes-126082600487_1.html",
-          "pubDate": "2026-08-26T13:07:28+05:30"
-        },
-        {
-          "title": "Adani Enterprises Ltd soars 0.5%, up for fifth straight session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/adani-enterprises-ltd-soars-0-5-up-for-fifth-straight-session-126082600461_1.html",
-          "pubDate": "2026-08-26T13:05:02+05:30"
-        },
-        {
-          "title": "NMDC Ltd soars 1.49%, gains for fifth straight session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nmdc-ltd-soars-1-49-gains-for-fifth-straight-session-126082600458_1.html",
-          "pubDate": "2026-08-26T13:04:40+05:30"
-        },
-        {
-          "title": "Bharat Petroleum Corporation Ltd up for fifth session",
-          "link": "https://www.business-standard.com/markets/capital-market-news/bharat-petroleum-corporation-ltd-up-for-fifth-session-126082600457_1.html",
-          "pubDate": "2026-08-26T13:04:31+05:30"
         }
       ]
     },
     "rbi": {
-      "ok": false,
-      "updated_at": "2026-08-26T10:02:26.726951+00:00",
+      "ok": true,
+      "updated_at": "2026-08-26T11:17:00.608371+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 27, 2026",

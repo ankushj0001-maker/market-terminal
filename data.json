@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T11:51:50.218092+00:00",
+  "generated_at": "2026-08-26T12:21:27.254560+00:00",
   "indices": {
     "nifty50": {
       "price": 24207.75,
@@ -68,7 +68,7 @@
         24207.75
       ],
       "ok": true,
-      "updated_at": "2026-08-26T11:51:48.302171+00:00"
+      "updated_at": "2026-08-26T12:21:24.884009+00:00"
     },
     "sensex": {
       "price": 77472.94,
@@ -137,7 +137,7 @@
         77472.9375
       ],
       "ok": true,
-      "updated_at": "2026-08-26T11:51:48.357310+00:00"
+      "updated_at": "2026-08-26T12:21:24.952846+00:00"
     },
     "banknifty": {
       "price": 57783.75,
@@ -206,7 +206,7 @@
         57783.75
       ],
       "ok": true,
-      "updated_at": "2026-08-26T11:51:48.418886+00:00"
+      "updated_at": "2026-08-26T12:21:25.093914+00:00"
     },
     "vix": {
       "price": 10.565,
@@ -275,7 +275,7 @@
         10.5649995803833
       ],
       "ok": true,
-      "updated_at": "2026-08-26T11:51:48.479205+00:00"
+      "updated_at": "2026-08-26T12:21:25.166015+00:00"
     },
     "usdinr": {
       "price": 95.402,
@@ -290,19 +290,13 @@
         95.4020004272461
       ],
       "ok": true,
-      "updated_at": "2026-08-26T11:51:48.532735+00:00"
+      "updated_at": "2026-08-26T12:21:25.227410+00:00"
     },
     "gold": {
-      "price": 4674.3,
-      "change": -20.2,
-      "pct": -0.4303,
+      "price": 4681.5,
+      "change": -13.0,
+      "pct": -0.2769,
       "closes": [
-        4689.7998046875,
-        4690.39990234375,
-        4695.2998046875,
-        4691.5,
-        4693.0,
-        4690.2001953125,
         4690.5,
         4687.7001953125,
         4689.7998046875,
@@ -356,22 +350,22 @@
         4674.7998046875,
         4674.0,
         4674.5,
-        4674.2998046875
+        4673.7001953125,
+        4675.0,
+        4680.2998046875,
+        4683.2998046875,
+        4683.10009765625,
+        4681.2001953125,
+        4681.5
       ],
       "ok": true,
-      "updated_at": "2026-08-26T11:51:48.593938+00:00"
+      "updated_at": "2026-08-26T12:21:25.327341+00:00"
     },
     "crude": {
-      "price": 80.4,
-      "change": -1.96,
-      "pct": -2.3798,
+      "price": 80.52,
+      "change": -1.84,
+      "pct": -2.2341,
       "closes": [
-        80.41999816894531,
-        80.47000122070312,
-        80.33999633789062,
-        80.30000305175781,
-        80.27999877929688,
-        80.19999694824219,
         80.29000091552734,
         80.27999877929688,
         80.06999969482422,
@@ -425,85 +419,30 @@
         80.13999938964844,
         80.37000274658203,
         80.38999938964844,
-        80.4000015258789
+        80.51000213623047,
+        80.54000091552734,
+        80.55000305175781,
+        80.58000183105469,
+        80.51000213623047,
+        80.43000030517578,
+        80.5199966430664
       ],
       "ok": true,
-      "updated_at": "2026-08-26T11:51:48.650914+00:00"
+      "updated_at": "2026-08-26T12:21:25.392204+00:00"
     },
     "us10y": {
       "price": 4.639,
       "change": -0.065,
       "pct": -1.3818,
-      "closes": [
-        4.661999702453613,
-        4.659999847412109,
-        4.661999702453613,
-        4.659999847412109,
-        4.656000137329102,
-        4.6579999923706055,
-        4.654000282287598,
-        4.6529998779296875,
-        4.650000095367432,
-        4.64900016784668,
-        4.64900016784668,
-        4.64900016784668,
-        4.650000095367432,
-        4.6529998779296875,
-        4.650000095367432,
-        4.64900016784668,
-        4.647000312805176,
-        4.64900016784668,
-        4.638999938964844,
-        4.638999938964844,
-        4.640999794006348,
-        4.640999794006348,
-        4.64900016784668,
-        4.647000312805176,
-        4.64900016784668,
-        4.647000312805176,
-        4.644999980926514,
-        4.644999980926514,
-        4.644999980926514,
-        4.644999980926514,
-        4.644999980926514,
-        4.644999980926514,
-        4.644999980926514,
-        4.64300012588501,
-        4.644999980926514,
-        4.64300012588501,
-        4.640999794006348,
-        4.64300012588501,
-        4.64300012588501,
-        4.64300012588501,
-        4.644999980926514,
-        4.644999980926514,
-        4.64300012588501,
-        4.640999794006348,
-        4.64300012588501,
-        4.64300012588501,
-        4.64300012588501,
-        4.640999794006348,
-        4.64300012588501,
-        4.64300012588501,
-        4.640999794006348,
-        4.64300012588501,
-        4.64300012588501,
-        4.640999794006348,
-        4.640999794006348,
-        4.64300012588501,
-        4.64300012588501,
-        4.640999794006348,
-        4.640999794006348,
-        4.638999938964844
-      ],
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-08-26T11:51:48.710550+00:00"
+      "updated_at": "2026-08-26T12:21:25.459071+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-26T11:51:48.752658+00:00",
+      "updated_at": "2026-08-26T12:21:25.637152+00:00",
       "items": [
         {
           "title": "Sensex falls 183 points, Nifty closes below 24,250 as market erases all morning gains. What lies ahead?",
@@ -659,7 +598,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-26T11:51:49.080859+00:00",
+      "updated_at": "2026-08-26T12:21:25.987398+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -740,7 +679,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-26T11:51:49.229953+00:00",
+      "updated_at": "2026-08-26T12:21:26.143187+00:00",
       "items": [
         {
           "title": "From ITC, Coal India to Vedanta: 5 dividend stocks investors may want to add to their portfolios; do you own any?",
@@ -896,8 +835,33 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-26T11:51:49.429669+00:00",
+      "updated_at": "2026-08-26T12:21:26.389409+00:00",
       "items": [
+        {
+          "title": "Solar panel maker Avaada Electro files updated DRHP for ₹7,600 crore IPO",
+          "link": "https://www.business-standard.com/companies/news/solar-panel-maker-avaada-electro-files-updated-drhp-for-7-600-crore-ipo-126082600936_1.html",
+          "pubDate": "2026-08-26T17:47:31+05:30"
+        },
+        {
+          "title": "Symbiotec Pharmalab IPO subscribed 5.30 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/symbiotec-pharmalab-ipo-subscribed-5-30-times-126082600906_1.html",
+          "pubDate": "2026-08-26T17:31:02+05:30"
+        },
+        {
+          "title": "Annu Projects IPO subscribed 47%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/annu-projects-ipo-subscribed-47-126082600888_1.html",
+          "pubDate": "2026-08-26T17:16:18+05:30"
+        },
+        {
+          "title": "Skyways Air Services IPO subscribed 5.08 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/skyways-air-services-ipo-subscribed-5-08-times-126082600887_1.html",
+          "pubDate": "2026-08-26T17:16:10+05:30"
+        },
+        {
+          "title": "Hy-Tech Engineers IPO subscribed 50.76 times",
+          "link": "https://www.business-standard.com/markets/capital-market-news/hy-tech-engineers-ipo-subscribed-50-76-times-126082600886_1.html",
+          "pubDate": "2026-08-26T17:16:01+05:30"
+        },
         {
           "title": "Sensex slips 183 points, Nifty slips below 24,250 as IT stocks drag",
           "link": "https://www.business-standard.com/markets/capital-market-news/sensex-slips-183-points-nifty-slips-below-24-250-as-it-stocks-drag-126082600862_1.html",
@@ -1022,37 +986,12 @@
           "title": "EUR/USD under three-month high",
           "link": "https://www.business-standard.com/markets/capital-market-news/eur-usd-under-three-month-high-126082600636_1.html",
           "pubDate": "2026-08-26T15:04:14+05:30"
-        },
-        {
-          "title": "Viyash Scientific Ltd leads losers in 'A' group",
-          "link": "https://www.business-standard.com/markets/capital-market-news/viyash-scientific-ltd-leads-losers-in-a-group-126082600634_1.html",
-          "pubDate": "2026-08-26T15:04:02+05:30"
-        },
-        {
-          "title": "Gabriel India forms strategic JV with South Korea-based HL Klemove",
-          "link": "https://www.business-standard.com/markets/capital-market-news/gabriel-india-forms-strategic-jv-with-south-korea-based-hl-klemove-126082600607_1.html",
-          "pubDate": "2026-08-26T14:50:27+05:30"
-        },
-        {
-          "title": "HAL collaborates with Safran Helicopter Engines and SAFHAL for Aravalli engine programme",
-          "link": "https://www.business-standard.com/markets/capital-market-news/hal-collaborates-with-safran-helicopter-engines-and-safhal-for-aravalli-engine-programme-126082600606_1.html",
-          "pubDate": "2026-08-26T14:50:18+05:30"
-        },
-        {
-          "title": "Nifty trades below 24,300 level; consumer durables share decline",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-below-24-300-level-consumer-durables-share-decline-126082600605_1.html",
-          "pubDate": "2026-08-26T14:50:09+05:30"
-        },
-        {
-          "title": "KPIGreen achieves highest energized capacity of 630+ MW DC in Jun-Aug quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/kpigreen-achieves-highest-energized-capacity-of-630-mw-dc-in-jun-aug-quarter-126082600531_1.html",
-          "pubDate": "2026-08-26T13:50:09+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-26T11:51:50.218072+00:00",
+      "updated_at": "2026-08-26T12:21:27.254542+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 27, 2026",

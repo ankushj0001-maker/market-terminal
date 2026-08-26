@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T11:17:00.608387+00:00",
+  "generated_at": "2026-08-26T11:51:50.218092+00:00",
   "indices": {
     "nifty50": {
       "price": 24207.75,
@@ -68,7 +68,7 @@
         24207.75
       ],
       "ok": true,
-      "updated_at": "2026-08-26T11:16:58.249811+00:00"
+      "updated_at": "2026-08-26T11:51:48.302171+00:00"
     },
     "sensex": {
       "price": 77472.94,
@@ -137,7 +137,7 @@
         77472.9375
       ],
       "ok": true,
-      "updated_at": "2026-08-26T11:16:58.358246+00:00"
+      "updated_at": "2026-08-26T11:51:48.357310+00:00"
     },
     "banknifty": {
       "price": 57783.75,
@@ -206,7 +206,7 @@
         57783.75
       ],
       "ok": true,
-      "updated_at": "2026-08-26T11:16:58.466343+00:00"
+      "updated_at": "2026-08-26T11:51:48.418886+00:00"
     },
     "vix": {
       "price": 10.565,
@@ -275,7 +275,7 @@
         10.5649995803833
       ],
       "ok": true,
-      "updated_at": "2026-08-26T11:16:58.571030+00:00"
+      "updated_at": "2026-08-26T11:51:48.479205+00:00"
     },
     "usdinr": {
       "price": 95.402,
@@ -290,20 +290,13 @@
         95.4020004272461
       ],
       "ok": true,
-      "updated_at": "2026-08-26T11:16:58.693634+00:00"
+      "updated_at": "2026-08-26T11:51:48.532735+00:00"
     },
     "gold": {
-      "price": 4674.8,
-      "change": -19.7,
-      "pct": -0.4196,
+      "price": 4674.3,
+      "change": -20.2,
+      "pct": -0.4303,
       "closes": [
-        4690.7998046875,
-        4684.0,
-        4683.60009765625,
-        4687.60009765625,
-        4687.2998046875,
-        4690.2001953125,
-        4691.5,
         4689.7998046875,
         4690.39990234375,
         4695.2998046875,
@@ -356,23 +349,23 @@
         4675.89990234375,
         4676.5,
         4673.5,
-        4674.7998046875
+        4674.10009765625,
+        4678.0,
+        4672.5,
+        4676.0,
+        4674.7998046875,
+        4674.0,
+        4674.5,
+        4674.2998046875
       ],
       "ok": true,
-      "updated_at": "2026-08-26T11:16:58.805277+00:00"
+      "updated_at": "2026-08-26T11:51:48.593938+00:00"
     },
     "crude": {
-      "price": 80.12,
-      "change": -2.24,
-      "pct": -2.7198,
+      "price": 80.4,
+      "change": -1.96,
+      "pct": -2.3798,
       "closes": [
-        80.7699966430664,
-        80.83999633789062,
-        80.8499984741211,
-        80.69000244140625,
-        80.52999877929688,
-        80.30999755859375,
-        80.33000183105469,
         80.41999816894531,
         80.47000122070312,
         80.33999633789062,
@@ -425,10 +418,17 @@
         80.2300033569336,
         80.1500015258789,
         80.31999969482422,
-        80.12000274658203
+        80.19999694824219,
+        80.13999938964844,
+        80.33999633789062,
+        80.19999694824219,
+        80.13999938964844,
+        80.37000274658203,
+        80.38999938964844,
+        80.4000015258789
       ],
       "ok": true,
-      "updated_at": "2026-08-26T11:16:58.903848+00:00"
+      "updated_at": "2026-08-26T11:51:48.650914+00:00"
     },
     "us10y": {
       "price": 4.639,
@@ -497,13 +497,13 @@
         4.638999938964844
       ],
       "ok": true,
-      "updated_at": "2026-08-26T11:16:59.011985+00:00"
+      "updated_at": "2026-08-26T11:51:48.710550+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-26T11:16:59.267478+00:00",
+      "updated_at": "2026-08-26T11:51:48.752658+00:00",
       "items": [
         {
           "title": "Sensex falls 183 points, Nifty closes below 24,250 as market erases all morning gains. What lies ahead?",
@@ -659,7 +659,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-08-26T11:16:59.387754+00:00",
+      "updated_at": "2026-08-26T11:51:49.080859+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -740,8 +740,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-26T11:16:59.505307+00:00",
+      "updated_at": "2026-08-26T11:51:49.229953+00:00",
       "items": [
+        {
+          "title": "From ITC, Coal India to Vedanta: 5 dividend stocks investors may want to add to their portfolios; do you own any?",
+          "link": "https://www.livemint.com/market/stock-market-news/from-itc-coal-india-to-vedanta-5-dividend-stocks-investors-may-want-to-add-to-their-portfolios-do-you-own-any-11787732672138.html",
+          "pubDate": "2026-08-26T17:04:44+05:30"
+        },
         {
           "title": "Top Gainers &amp; Losers on 26 Aug: SBFC Finance, Capri Global, Hindustan Copper, SAIL, OLA, Vedanta among top gainers",
           "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-26-aug-sbfc-finance-capri-global-hindustan-copper-sail-ola-vedanta-among-top-gainers-11787739634109.html",
@@ -886,18 +891,38 @@
           "title": "Raja Venkatraman recommends three stocks for 26 August",
           "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-26-august-11787669841800.html",
           "pubDate": "2026-08-26T06:00:40+05:30"
-        },
-        {
-          "title": "Gold Holds Five-Day Gain as Oil Drop Eases Inflation Concerns",
-          "link": "https://www.livemint.com/market/gold-holds-five-day-gain-as-oil-drop-eases-inflation-concerns-11787703222112.html",
-          "pubDate": "2026-08-26T05:43:41+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-26T11:16:59.637758+00:00",
+      "updated_at": "2026-08-26T11:51:49.429669+00:00",
       "items": [
+        {
+          "title": "Sensex slips 183 points, Nifty slips below 24,250 as IT stocks drag",
+          "link": "https://www.business-standard.com/markets/capital-market-news/sensex-slips-183-points-nifty-slips-below-24-250-as-it-stocks-drag-126082600862_1.html",
+          "pubDate": "2026-08-26T17:04:48+05:30"
+        },
+        {
+          "title": "Quick Wrap: Nifty IT Index registers a drop of 1.47%",
+          "link": "https://www.business-standard.com/markets/capital-market-news/quick-wrap-nifty-it-index-registers-a-drop-of-1-47-126082600861_1.html",
+          "pubDate": "2026-08-26T17:04:41+05:30"
+        },
+        {
+          "title": "Nifty September futures trade at premium",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-september-futures-trade-at-premium-126082600835_1.html",
+          "pubDate": "2026-08-26T16:51:06+05:30"
+        },
+        {
+          "title": "Board of Mold-Tek Packaging appoints directors",
+          "link": "https://www.business-standard.com/markets/capital-market-news/board-of-mold-tek-packaging-appoints-directors-126082600831_1.html",
+          "pubDate": "2026-08-26T16:50:45+05:30"
+        },
+        {
+          "title": "Hindustan Copper OFS sees strong retail demand; govt sells 6% stake",
+          "link": "https://www.business-standard.com/markets/capital-market-news/hindustan-copper-ofs-sees-strong-retail-demand-govt-sells-6-stake-126082600829_1.html",
+          "pubDate": "2026-08-26T16:50:02+05:30"
+        },
         {
           "title": "Augmont Enterprises IPO ends with 105.78 times subscription",
           "link": "https://www.business-standard.com/markets/capital-market-news/augmont-enterprises-ipo-ends-with-105-78-times-subscription-126082600803_1.html",
@@ -1022,37 +1047,12 @@
           "title": "KPIGreen achieves highest energized capacity of 630+ MW DC in Jun-Aug quarter",
           "link": "https://www.business-standard.com/markets/capital-market-news/kpigreen-achieves-highest-energized-capacity-of-630-mw-dc-in-jun-aug-quarter-126082600531_1.html",
           "pubDate": "2026-08-26T13:50:09+05:30"
-        },
-        {
-          "title": "Zydus Lifesciences incorporates WoS in Gift City",
-          "link": "https://www.business-standard.com/markets/capital-market-news/zydus-lifesciences-incorporates-wos-in-gift-city-126082600508_1.html",
-          "pubDate": "2026-08-26T13:31:06+05:30"
-        },
-        {
-          "title": "Axis Bank sees 'Death Cross' formation on chart; analyst flags key levels",
-          "link": "https://www.business-standard.com/markets/news/axis-bank-sees-death-cross-formation-on-chart-analyst-flags-key-levels-126082600501_1.html",
-          "pubDate": "2026-08-26T13:18:28+05:30"
-        },
-        {
-          "title": "Cyient receives CCI approval for acquisition of Tao Digital Solutions Inc.",
-          "link": "https://www.business-standard.com/markets/capital-market-news/cyient-receives-cci-approval-for-acquisition-of-tao-digital-solutions-inc-126082600498_1.html",
-          "pubDate": "2026-08-26T13:16:37+05:30"
-        },
-        {
-          "title": "Jain Resource Recycling to acquire shares of Jain Ikon on conversion of loan",
-          "link": "https://www.business-standard.com/markets/capital-market-news/jain-resource-recycling-to-acquire-shares-of-jain-ikon-on-conversion-of-loan-126082600497_1.html",
-          "pubDate": "2026-08-26T13:16:29+05:30"
-        },
-        {
-          "title": "Adani Energy Solutions bags Rs 4,700 crore transmission project in Maharashtra",
-          "link": "https://www.business-standard.com/markets/capital-market-news/adani-energy-solutions-bags-rs-4-700-crore-transmission-project-in-maharashtra-126082600496_1.html",
-          "pubDate": "2026-08-26T13:16:01+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-26T11:17:00.608371+00:00",
+      "updated_at": "2026-08-26T11:51:50.218072+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on August 27, 2026",

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-30T01:51:13.772678+00:00",
+  "generated_at": "2026-08-30T07:33:27.942889+00:00",
   "indices": {
     "nifty50": {
       "price": 24175.65,
-      "change": 84.85,
-      "pct": 0.3522,
+      "change": 84.8,
+      "pct": 0.352,
       "closes": [
         24161.94921875,
         24156.150390625,
@@ -12,7 +12,7 @@
         24155.599609375,
         24155.69921875,
         24160.25,
-        24143.0,
+        24142.44921875,
         24160.94921875,
         24151.5,
         24140.5,
@@ -68,11 +68,11 @@
         24175.650390625
       ],
       "ok": true,
-      "updated_at": "2026-08-30T01:51:10.385346+00:00"
+      "updated_at": "2026-08-30T07:33:25.153286+00:00"
     },
     "sensex": {
       "price": 77264.51,
-      "change": 330.91,
+      "change": 330.92,
       "pct": 0.4301,
       "closes": [
         77267.6484375,
@@ -137,12 +137,12 @@
         77264.5078125
       ],
       "ok": true,
-      "updated_at": "2026-08-30T01:51:10.563718+00:00"
+      "updated_at": "2026-08-30T07:33:25.206084+00:00"
     },
     "banknifty": {
       "price": 57496.3,
-      "change": -13.6,
-      "pct": -0.0236,
+      "change": -13.65,
+      "pct": -0.0237,
       "closes": [
         57521.94921875,
         57532.19921875,
@@ -153,7 +153,7 @@
         57482.3984375,
         57522.3515625,
         57478.55078125,
-        57470.1015625,
+        57468.94921875,
         57427.19921875,
         57417.05078125,
         57424.3515625,
@@ -206,12 +206,12 @@
         57496.30078125
       ],
       "ok": true,
-      "updated_at": "2026-08-30T01:51:10.721273+00:00"
+      "updated_at": "2026-08-30T07:33:25.263283+00:00"
     },
     "vix": {
       "price": 10.68,
-      "change": -0.39,
-      "pct": -3.523,
+      "change": -0.3875,
+      "pct": -3.5012,
       "closes": [
         10.782500267028809,
         10.75,
@@ -275,13 +275,14 @@
         10.680000305175781
       ],
       "ok": true,
-      "updated_at": "2026-08-30T01:51:10.913131+00:00"
+      "updated_at": "2026-08-30T07:33:25.363945+00:00"
     },
     "usdinr": {
       "price": 95.38,
       "change": -0.15,
       "pct": -0.157,
       "closes": [
+        95.56500244140625,
         95.55750274658203,
         95.5625,
         95.55750274658203,
@@ -340,149 +341,26 @@
         95.36799621582031,
         95.37000274658203,
         95.36000061035156,
-        95.36000061035156,
-        95.37999725341797
+        95.36000061035156
       ],
       "ok": true,
-      "updated_at": "2026-08-30T01:51:11.151539+00:00"
+      "updated_at": "2026-08-30T07:33:25.489418+00:00"
     },
     "gold": {
       "price": 4529.9,
       "change": -134.1,
       "pct": -2.8752,
-      "closes": [
-        4572.0,
-        4559.89990234375,
-        4549.2998046875,
-        4533.60009765625,
-        4520.2001953125,
-        4531.60009765625,
-        4524.39990234375,
-        4535.39990234375,
-        4519.60009765625,
-        4532.39990234375,
-        4531.2998046875,
-        4529.89990234375,
-        4526.10009765625,
-        4530.89990234375,
-        4531.2998046875,
-        4531.2001953125,
-        4535.60009765625,
-        4528.60009765625,
-        4528.89990234375,
-        4521.7001953125,
-        4517.5,
-        4525.10009765625,
-        4523.0,
-        4519.7001953125,
-        4510.60009765625,
-        4511.89990234375,
-        4511.10009765625,
-        4508.89990234375,
-        4503.7998046875,
-        4506.2001953125,
-        4506.7001953125,
-        4502.2998046875,
-        4501.0,
-        4503.0,
-        4503.7001953125,
-        4506.5,
-        4507.7001953125,
-        4511.7001953125,
-        4506.5,
-        4509.7001953125,
-        4508.60009765625,
-        4512.0,
-        4512.89990234375,
-        4516.10009765625,
-        4514.60009765625,
-        4506.89990234375,
-        4506.10009765625,
-        4507.5,
-        4510.0,
-        4510.10009765625,
-        4507.5,
-        4507.89990234375,
-        4504.0,
-        4507.39990234375,
-        4505.7998046875,
-        4505.2001953125,
-        4506.60009765625,
-        4509.0,
-        4503.89990234375,
-        4504.10009765625
-      ],
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-08-30T01:51:11.359074+00:00"
+      "updated_at": "2026-08-30T07:33:25.537004+00:00"
     },
     "crude": {
       "price": 83.4,
       "change": -0.13,
       "pct": -0.1556,
-      "closes": [
-        83.02999877929688,
-        83.16999816894531,
-        83.13999938964844,
-        83.2300033569336,
-        83.22000122070312,
-        83.11000061035156,
-        83.25,
-        83.29000091552734,
-        83.44999694824219,
-        83.41999816894531,
-        83.41000366210938,
-        83.52999877929688,
-        83.5,
-        83.51000213623047,
-        83.41999816894531,
-        83.3499984741211,
-        83.36000061035156,
-        83.36000061035156,
-        83.37000274658203,
-        83.37000274658203,
-        83.43000030517578,
-        83.44000244140625,
-        83.5,
-        83.45999908447266,
-        83.30000305175781,
-        83.29000091552734,
-        83.31999969482422,
-        83.38999938964844,
-        83.44000244140625,
-        83.37999725341797,
-        83.20999908447266,
-        83.2300033569336,
-        83.2300033569336,
-        83.1500015258789,
-        83.13999938964844,
-        83.18000030517578,
-        83.22000122070312,
-        83.2699966430664,
-        83.30999755859375,
-        83.2699966430664,
-        83.27999877929688,
-        83.29000091552734,
-        83.38999938964844,
-        83.44999694824219,
-        83.44999694824219,
-        83.4000015258789,
-        83.37000274658203,
-        83.38999938964844,
-        83.41999816894531,
-        83.37999725341797,
-        83.44000244140625,
-        83.47000122070312,
-        83.44000244140625,
-        83.43000030517578,
-        83.44999694824219,
-        83.43000030517578,
-        83.38999938964844,
-        83.33000183105469,
-        83.43000030517578,
-        83.4000015258789
-      ],
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-08-30T01:51:11.554549+00:00"
+      "updated_at": "2026-08-30T07:33:25.587018+00:00"
     },
     "us10y": {
       "price": 4.72,
@@ -551,14 +429,44 @@
         4.720000267028809
       ],
       "ok": true,
-      "updated_at": "2026-08-30T01:51:11.703676+00:00"
+      "updated_at": "2026-08-30T07:33:25.643520+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-08-30T01:51:11.896839+00:00",
+      "updated_at": "2026-08-30T07:33:25.735690+00:00",
       "items": [
+        {
+          "title": "Warren Buffett turns 96: Top 10 investing lessons from the Oracle of Omaha",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/warren-buffett-turns-96-top-10-investing-lessons-from-the-oracle-of-omaha/articleshow/133624955.cms",
+          "pubDate": "2026-08-30T12:15:07+05:30"
+        },
+        {
+          "title": "Nifty weekly outlook: Nifty trapped in 23,900-24,750 range; fresh buying should remain selective",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-weekly-outlook-nifty-trapped-in-23900-24750-range-fresh-buying-should-remain-selective/articleshow/133624648.cms",
+          "pubDate": "2026-08-30T11:51:09+05:30"
+        },
+        {
+          "title": "FPIs turn buyers for second straight month, invest Rs 30,919 cr in August",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-buyers-for-second-straight-month-invest-rs-30919-cr-in-august/articleshow/133624069.cms",
+          "pubDate": "2026-08-30T11:23:12+05:30"
+        },
+        {
+          "title": "7 of top 10 firms shed Rs 1.13 lakh cr in m-cap; Airtel, Reliance worst hit",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/7-of-top-10-firms-shed-rs-1-13-lakh-cr-in-m-cap-airtel-reliance-worst-hit/articleshow/133624042.cms",
+          "pubDate": "2026-08-30T11:21:00+05:30"
+        },
+        {
+          "title": "Corporate actions this week: NTPC, Coal India among nearly 90 cos set to hit record dates for dividend payouts, bonus issues &amp; stock splits",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/corporate-actions-this-week-ntpc-coal-india-among-nearly-90-stocks-with-record-dates-for-bonus-issues-stock-splits-and-dividend-payouts-check-full-list/articleshow/133623707.cms",
+          "pubDate": "2026-08-30T10:56:06+05:30"
+        },
+        {
+          "title": "GDP data, crude prices among 7 factors likely to steer D-Street this week",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/gdp-data-crude-prices-among-7-factors-likely-to-steer-d-street-this-week/articleshow/133622736.cms",
+          "pubDate": "2026-08-30T09:30:43+05:30"
+        },
         {
           "title": "Paul Black’s 3 thumb rules for identifying great wealth creators",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/paul-blacks-3-thumb-rules-for-identifying-great-wealth-creators/articleshow/133609700.cms",
@@ -573,21 +481,6 @@
           "title": "Bitcoin falls below $78,000 as crypto market faces correction after Warsh’s Jackson Hole comments",
           "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-falls-below-78000-as-crypto-market-faces-correction-after-warshs-jackson-hole-comments/articleshow/133608563.cms",
           "pubDate": "2026-08-29T14:53:16+05:30"
-        },
-        {
-          "title": "Reliance JIO IPO: 7 risk factors investors should know as firm gets Sebi nod for Rs 37,000-crore offer",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-7-risk-factors-investors-should-know-as-firm-gets-sebi-nod-for-rs-37000-crore-issue/articleshow/133608417.cms",
-          "pubDate": "2026-08-29T14:48:10+05:30"
-        },
-        {
-          "title": "Vedanta, Wipro among 10 stocks that saw biggest jump in retail holders in Q1. See full list",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-wipro-among-10-stocks-that-saw-biggest-jump-in-retail-holders-in-q1-see-full-list/slideshow/133608528.cms",
-          "pubDate": "2026-08-29T14:26:14+05:30"
-        },
-        {
-          "title": "These 12 equity mutual funds turned a Rs 10,000 SIP into over Rs 11 crore",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/these-12-equity-mutual-funds-turned-a-rs-10000-sip-into-over-rs-11-crore/slideshow/133608050.cms",
-          "pubDate": "2026-08-29T13:35:56+05:30"
         },
         {
           "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
@@ -650,11 +543,6 @@
           "pubDate": "2026-07-19T13:55:14+05:30"
         },
         {
-          "title": "Will Sensex, Nifty extend gains on Monday? Q1 earnings, global tech selloff among 6 factors to steer D-St this week",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-extend-gains-on-monday-q1-earnings-global-tech-selloff-among-6-factors-to-steer-d-st-this-week/articleshow/132489722.cms",
-          "pubDate": "2026-07-19T09:37:40+05:30"
-        },
-        {
           "title": "India-UK CETA takes effect: First zero-duty Indian coffee, jewellery consignments reach UK shores",
           "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-uk-ceta-takes-effect-first-zero-duty-indian-coffee-jewellery-consignments-reach-uk-shores/articleshow/132442764.cms",
           "pubDate": "2026-07-16T20:56:34+05:30"
@@ -668,16 +556,6 @@
           "title": "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
           "link": "https://economictimes.indiatimes.com/news/economy/policy/fm-sitharaman-flags-global-crisis-spillovers-unfair-burden-on-developing-nations/articleshow/131668427.cms",
           "pubDate": "2026-06-12T01:07:27+05:30"
-        },
-        {
-          "title": "FPIs pull out Rs 27,000 cr in May; 2026 outflows hit Rs 2.2 lakh cr-mark",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-pull-out-rs-27000-cr-in-may-2026-outflows-hit-rs-2-2-lakh-cr-mark/articleshow/131149440.cms",
-          "pubDate": "2026-05-17T11:15:08+05:30"
-        },
-        {
-          "title": "Oil prices to hit $150? How Indian stock markets may react as Iran war rages on",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/oil-prices-to-hit-150-how-indian-stock-markets-may-react-as-iran-war-rages-on/articleshow/129587020.cms",
-          "pubDate": "2026-03-15T14:11:58+05:30"
         },
         {
           "title": "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls",
@@ -712,7 +590,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-08-30T01:51:12.417302+00:00",
       "items": [
         {
@@ -794,8 +672,28 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-08-30T01:51:12.637382+00:00",
+      "updated_at": "2026-08-30T07:33:26.254579+00:00",
       "items": [
+        {
+          "title": "Upcoming IPOs: Purple Style Labs IPO, Deepa Jewellers IPO among 7 new issues to open next week; full list here",
+          "link": "https://www.livemint.com/market/ipo/upcoming-ipos-purple-style-labs-ipo-deepa-jewellers-ipo-among-7-new-issues-to-open-next-week-full-list-here-11788070544988.html",
+          "pubDate": "2026-08-30T12:40:37+05:30"
+        },
+        {
+          "title": "Stocks under ₹100: Sumeet Bagadia recommends three shares to buy on Monday - 31 August 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/stocks-under-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-31-august-2026-11788069217940.html",
+          "pubDate": "2026-08-30T11:42:01+05:30"
+        },
+        {
+          "title": "Buy or sell: Ganesh Dongre of Anand Rathi recommends 3 stocks to buy on Monday - 31 August 2026",
+          "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-3-stocks-to-buy-on-monday-31-august-2026-11788063157807.html",
+          "pubDate": "2026-08-30T10:27:17+05:30"
+        },
+        {
+          "title": "Stock market prediction for tomorrow, 31 August 2026: Sensex, Nifty outlook for Monday — US, South Korea, Taiwan cues",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-tomorrow-31-august-2026-sensex-nifty-outlook-for-monday-us-south-korea-taiwan-cues-11788059072862.html",
+          "pubDate": "2026-08-30T09:20:56+05:30"
+        },
         {
           "title": "Stocks to watch on August 31: M&amp;M, Cupid, Aurobindo Pharma, OLA, KP Green Engineering among shares in focus",
           "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-on-august-31-m-m-cupid-aurobindo-pharma-ola-kp-green-engineering-among-shares-in-focus-11787932250299.html",
@@ -925,33 +823,28 @@
           "title": "US stocks rise as Kevin Warsh vows to bring inflation under control",
           "link": "https://www.livemint.com/market/stock-market-news/us-stocks-muted-ahead-of-kevin-warsh-s-jackson-hole-speech-11787924447163.html",
           "pubDate": "2026-08-28T19:30:48+05:30"
-        },
-        {
-          "title": "Pulse of the Street: Foreign buying fails to break August stalemate in Indian equities",
-          "link": "https://www.livemint.com/market/stock-market-news/indian-stock-market-sensex-nifty-today-11787920505576.html",
-          "pubDate": "2026-08-28T19:14:48+05:30"
-        },
-        {
-          "title": "Treasury yields hold firm ahead of Kevin Warsh's key Jackson Hole address",
-          "link": "https://www.livemint.com/market/stock-market-news/treasury-yields-hold-firm-ahead-of-kevin-warshs-key-jackson-hole-address-11787922814189.html",
-          "pubDate": "2026-08-28T19:12:56+05:30"
-        },
-        {
-          "title": "Kevin Warsh Jackson Hole speech: Where to watch, timings and what to expect from Fed chief’s address?",
-          "link": "https://www.livemint.com/market/kevin-warsh-jackson-hole-speech-where-to-watch-timing-and-what-to-expect-from-fed-chief-address-check-timings-11787918774883.html",
-          "pubDate": "2026-08-28T18:48:17+05:30"
-        },
-        {
-          "title": "Jackson Hole Symposium Highlights: US Fed Chair Kevin Warsh says inflation ‘too high’, hints at interest rate hike",
-          "link": "https://www.livemint.com/market/stock-market-news/jackson-hole-symposium-live-updates-expectations-high-federal-reserve-us-fed-chair-kevin-warsh-first-speech-28-august-11787920723281.html",
-          "pubDate": "2026-08-28T18:43:51+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-08-30T01:51:12.971467+00:00",
+      "updated_at": "2026-08-30T07:33:27.119310+00:00",
       "items": [
+        {
+          "title": "SBI, SBI Capital Markets to dilute up to 1% stake in NSE via public offer",
+          "link": "https://www.business-standard.com/markets/news/sbi-sbi-capital-markets-to-dilute-up-to-1-stake-in-nse-via-public-offer-126083000175_1.html",
+          "pubDate": "2026-08-30T12:34:25+05:30"
+        },
+        {
+          "title": "GDP data, crude oil prices likely to drive stock markets in week ahead",
+          "link": "https://www.business-standard.com/markets/news/gdp-data-crude-oil-prices-likely-to-drive-stock-markets-in-week-ahead-126083000182_1.html",
+          "pubDate": "2026-08-30T12:23:26+05:30"
+        },
+        {
+          "title": "Mcap of 7 of top 10 most valued firms erodes ₹1.13 trn, Airtel worst hit",
+          "link": "https://www.business-standard.com/markets/news/mcap-of-7-of-top-10-most-valued-firms-erodes-1-13-trn-airtel-worst-hit-126083000140_1.html",
+          "pubDate": "2026-08-30T11:29:19+05:30"
+        },
         {
           "title": "Prataap Snacks completes acquisition of RLOP Food Processing",
           "link": "https://www.business-standard.com/markets/capital-market-news/prataap-snacks-completes-acquisition-of-rlop-food-processing-126082900684_1.html",
@@ -1086,27 +979,12 @@
           "title": "Aurobindo Pharma's Unit-VI completes USFDA inspection",
           "link": "https://www.business-standard.com/markets/capital-market-news/aurobindo-pharma-s-unit-vi-completes-usfda-inspection-126082801089_1.html",
           "pubDate": "2026-08-28T18:50:26+05:30"
-        },
-        {
-          "title": "Coforge expands partnership with Pega",
-          "link": "https://www.business-standard.com/markets/capital-market-news/coforge-expands-partnership-with-pega-126082801088_1.html",
-          "pubDate": "2026-08-28T18:50:19+05:30"
-        },
-        {
-          "title": "Reliance Jio Infocomm standalone net profit rises 6.79% in the June 2026 quarter",
-          "link": "https://www.business-standard.com/markets/capital-market-news/reliance-jio-infocomm-standalone-net-profit-rises-6-79-in-the-june-2026-quarter-126082801012_1.html",
-          "pubDate": "2026-08-28T18:04:08+05:30"
-        },
-        {
-          "title": "Bernstein retains Nifty target of 26,000, flags policy-driven distortions",
-          "link": "https://www.business-standard.com/markets/news/bernstein-retains-nifty-target-at-26-000-flags-policy-led-distortions-126082800997_1.html",
-          "pubDate": "2026-08-28T17:54:06+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-08-30T01:51:13.772658+00:00",
+      "updated_at": "2026-08-30T07:33:27.942874+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

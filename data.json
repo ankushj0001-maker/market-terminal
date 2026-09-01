@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T19:40:01.733146+00:00",
+  "generated_at": "2026-09-01T21:59:09.775927+00:00",
   "indices": {
     "nifty50": {
       "price": 24055.8,
@@ -68,7 +68,7 @@
         24055.80078125
       ],
       "ok": true,
-      "updated_at": "2026-09-01T19:39:59.670829+00:00"
+      "updated_at": "2026-09-01T21:59:08.187926+00:00"
     },
     "sensex": {
       "price": 76944.28,
@@ -137,7 +137,7 @@
         76944.28125
       ],
       "ok": true,
-      "updated_at": "2026-09-01T19:39:59.756413+00:00"
+      "updated_at": "2026-09-01T21:59:08.228161+00:00"
     },
     "banknifty": {
       "price": 57409.6,
@@ -206,7 +206,7 @@
         57409.6015625
       ],
       "ok": true,
-      "updated_at": "2026-09-01T19:39:59.805847+00:00"
+      "updated_at": "2026-09-01T21:59:08.264510+00:00"
     },
     "vix": {
       "price": 11.19,
@@ -275,15 +275,13 @@
         11.1899995803833
       ],
       "ok": true,
-      "updated_at": "2026-09-01T19:39:59.845271+00:00"
+      "updated_at": "2026-09-01T21:59:08.302010+00:00"
     },
     "usdinr": {
       "price": 94.94,
       "change": -0.212,
       "pct": -0.2228,
       "closes": [
-        94.86299896240234,
-        94.86000061035156,
         94.8550033569336,
         94.86499786376953,
         94.86000061035156,
@@ -341,34 +339,18 @@
         94.94000244140625,
         94.94000244140625,
         94.94000244140625,
+        94.94000244140625,
+        94.94000244140625,
         94.94000244140625
       ],
       "ok": true,
-      "updated_at": "2026-09-01T19:39:59.902895+00:00"
+      "updated_at": "2026-09-01T21:59:08.349322+00:00"
     },
     "gold": {
-      "price": 4381.8,
-      "change": -99.7,
-      "pct": -2.2247,
+      "price": 4375.7,
+      "change": -20.7,
+      "pct": -0.4708,
       "closes": [
-        4414.39990234375,
-        4414.7001953125,
-        4410.10009765625,
-        4408.5,
-        4408.7998046875,
-        4406.10009765625,
-        4408.2998046875,
-        4405.2998046875,
-        4411.5,
-        4410.39990234375,
-        4414.2001953125,
-        4411.5,
-        4412.10009765625,
-        4419.10009765625,
-        4419.7001953125,
-        4421.5,
-        4421.7001953125,
-        4420.60009765625,
         4416.60009765625,
         4410.7001953125,
         4407.60009765625,
@@ -410,34 +392,34 @@
         4382.7001953125,
         4381.2998046875,
         4382.0,
-        4381.7998046875
+        4377.60009765625,
+        4370.60009765625,
+        4373.5,
+        4374.5,
+        4375.0,
+        4374.0,
+        4375.10009765625,
+        4376.2001953125,
+        4372.7001953125,
+        4374.7998046875,
+        4374.7001953125,
+        4372.89990234375,
+        4373.0,
+        4374.39990234375,
+        4375.0,
+        4375.2001953125,
+        4375.7001953125,
+        4375.7001953125,
+        4375.7001953125
       ],
       "ok": true,
-      "updated_at": "2026-09-01T19:40:00.002128+00:00"
+      "updated_at": "2026-09-01T21:59:08.392949+00:00"
     },
     "crude": {
-      "price": 90.57,
-      "change": 4.81,
-      "pct": 5.6087,
+      "price": 90.68,
+      "change": 0.46,
+      "pct": 0.5099,
       "closes": [
-        87.93000030517578,
-        87.79000091552734,
-        87.72000122070312,
-        87.75,
-        87.94000244140625,
-        88.0,
-        88.02999877929688,
-        87.87999725341797,
-        88.04000091552734,
-        88.16000366210938,
-        87.95999908447266,
-        88.16000366210938,
-        88.18000030517578,
-        88.20999908447266,
-        88.2699966430664,
-        88.33999633789062,
-        88.33999633789062,
-        88.37000274658203,
         88.47000122070312,
         88.93000030517578,
         89.23999786376953,
@@ -479,10 +461,28 @@
         90.41000366210938,
         90.5199966430664,
         90.56999969482422,
-        90.56999969482422
+        90.5,
+        90.58999633789062,
+        90.55000305175781,
+        90.52999877929688,
+        90.62000274658203,
+        90.63999938964844,
+        90.7699966430664,
+        90.86000061035156,
+        90.93000030517578,
+        90.7699966430664,
+        90.69999694824219,
+        90.75,
+        90.77999877929688,
+        90.76000213623047,
+        90.52999877929688,
+        90.6500015258789,
+        90.63999938964844,
+        90.68000030517578,
+        90.68000030517578
       ],
       "ok": true,
-      "updated_at": "2026-09-01T19:40:00.086694+00:00"
+      "updated_at": "2026-09-01T21:59:08.463510+00:00"
     },
     "us10y": {
       "price": 4.796,
@@ -551,14 +551,19 @@
         4.796000003814697
       ],
       "ok": true,
-      "updated_at": "2026-09-01T19:40:00.127918+00:00"
+      "updated_at": "2026-09-01T21:59:08.503909+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-09-01T19:40:00.533023+00:00",
+      "updated_at": "2026-09-01T21:59:08.684828+00:00",
       "items": [
+        {
+          "title": "S&amp;P Global weighs multibillion-dollar spinout of Capital IQ Pro: Report",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/sp-global-weighs-multibillion-dollar-spinout-of-capital-iq-pro/articleshow/133690470.cms",
+          "pubDate": "2026-09-02T00:25:10+05:30"
+        },
         {
           "title": "Titan Company, Sky Gold, other shares fall up to 6% on PM Modi’s second appeal to avoid gold",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/titan-company-sky-gold-other-shares-fall-up-to-6-on-pm-modis-second-appeal-to-avoid-gold/articleshow/133670706.cms",
@@ -578,11 +583,6 @@
           "title": "ITC shares rise 5%; Happiest Minds falls 8% after FMCG major acquires IT firm. What shareholders must know",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/itc-shares-rise-5-happiest-minds-falls-8-after-fmcg-major-acquires-it-firm-what-shareholders-must-know/articleshow/133668759.cms",
           "pubDate": "2026-09-01T10:29:46+05:30"
-        },
-        {
-          "title": "FPIs stay open to IPO bets despite equity exodus",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/despite-recent-equity-outflows-fpis-show-continued-interest-in-upcoming-ipo-investments/articleshow/133665561.cms",
-          "pubDate": "2026-09-01T06:25:31+05:30"
         },
         {
           "title": "Mid, smallcaps likely to outperform in September; Nifty seen range-bound: Analysts",
@@ -794,7 +794,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-09-01T19:40:00.689351+00:00",
+      "updated_at": "2026-09-01T21:59:08.779275+00:00",
       "items": [
         {
           "title": "US Oil Tops $90 for First Time Since July Amid Fresh Strikes",
@@ -950,7 +950,7 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-09-01T19:40:00.859491+00:00",
+      "updated_at": "2026-09-01T21:59:08.874376+00:00",
       "items": [
         {
           "title": "Symbiotech, Hy-Tech fly high on mkt debut; Skyways Air disappoints",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-09-01T19:40:01.733135+00:00",
+      "updated_at": "2026-09-01T21:59:09.775912+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on September 02, 2026",

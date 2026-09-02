@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T18:48:23.334508+00:00",
+  "generated_at": "2026-09-02T21:22:51.203911+00:00",
   "indices": {
     "nifty50": {
       "price": 23914.45,
@@ -68,7 +68,7 @@
         23914.44921875
       ],
       "ok": true,
-      "updated_at": "2026-09-02T18:48:22.336547+00:00"
+      "updated_at": "2026-09-02T21:22:48.055992+00:00"
     },
     "sensex": {
       "price": 76570.35,
@@ -137,7 +137,7 @@
         76570.3515625
       ],
       "ok": true,
-      "updated_at": "2026-09-02T18:48:22.432742+00:00"
+      "updated_at": "2026-09-02T21:22:48.265168+00:00"
     },
     "banknifty": {
       "price": 57172.0,
@@ -206,7 +206,7 @@
         57172.0
       ],
       "ok": true,
-      "updated_at": "2026-09-02T18:48:22.475913+00:00"
+      "updated_at": "2026-09-02T21:22:48.553414+00:00"
     },
     "vix": {
       "price": 11.592,
@@ -275,14 +275,13 @@
         11.592499732971191
       ],
       "ok": true,
-      "updated_at": "2026-09-02T18:48:22.524450+00:00"
+      "updated_at": "2026-09-02T21:22:48.697712+00:00"
     },
     "usdinr": {
       "price": 94.96,
       "change": 0.02,
       "pct": 0.0211,
       "closes": [
-        94.94999694824219,
         94.95999908447266,
         94.9574966430664,
         94.95999908447266,
@@ -341,44 +340,17 @@
         94.95999908447266,
         94.95999908447266,
         94.95999908447266,
+        94.95999908447266,
         94.95999908447266
       ],
       "ok": true,
-      "updated_at": "2026-09-02T18:48:22.576738+00:00"
+      "updated_at": "2026-09-02T21:22:48.847089+00:00"
     },
     "gold": {
-      "price": 4422.8,
-      "change": 26.4,
-      "pct": 0.6005,
+      "price": 4434.3,
+      "change": 37.9,
+      "pct": 0.8621,
       "closes": [
-        4416.2001953125,
-        4424.5,
-        4433.0,
-        4431.7001953125,
-        4438.0,
-        4434.7998046875,
-        4439.10009765625,
-        4433.7998046875,
-        4434.2998046875,
-        4433.2998046875,
-        4429.7998046875,
-        4432.60009765625,
-        4428.2001953125,
-        4424.2001953125,
-        4424.2001953125,
-        4424.39990234375,
-        4423.5,
-        4419.39990234375,
-        4416.5,
-        4417.10009765625,
-        4419.5,
-        4418.60009765625,
-        4416.7998046875,
-        4413.2001953125,
-        4414.5,
-        4415.39990234375,
-        4419.89990234375,
-        4419.5,
         4417.0,
         4419.10009765625,
         4416.7998046875,
@@ -410,44 +382,44 @@
         4420.0,
         4423.2998046875,
         4423.0,
-        4422.7998046875
+        4419.60009765625,
+        4420.5,
+        4421.10009765625,
+        4420.2998046875,
+        4421.7001953125,
+        4423.60009765625,
+        4425.60009765625,
+        4426.10009765625,
+        4426.7998046875,
+        4427.60009765625,
+        4430.2998046875,
+        4430.5,
+        4434.5,
+        4433.0,
+        4434.10009765625,
+        4437.7001953125,
+        4436.89990234375,
+        4434.5,
+        4432.60009765625,
+        4431.2998046875,
+        4432.5,
+        4433.2001953125,
+        4434.2998046875,
+        4434.2998046875,
+        4434.7998046875,
+        4435.7998046875,
+        4436.0,
+        4434.2998046875,
+        4434.2998046875
       ],
       "ok": true,
-      "updated_at": "2026-09-02T18:48:22.681456+00:00"
+      "updated_at": "2026-09-02T21:22:49.014984+00:00"
     },
     "crude": {
-      "price": 90.79,
-      "change": 0.57,
-      "pct": 0.6318,
+      "price": 90.63,
+      "change": 0.41,
+      "pct": 0.4544,
       "closes": [
-        89.70999908447266,
-        89.54000091552734,
-        89.08000183105469,
-        89.1500015258789,
-        89.61000061035156,
-        89.55999755859375,
-        89.44999694824219,
-        89.80999755859375,
-        89.97000122070312,
-        90.04000091552734,
-        90.11000061035156,
-        90.12000274658203,
-        90.2699966430664,
-        90.37999725341797,
-        90.56999969482422,
-        90.5199966430664,
-        90.70999908447266,
-        90.70999908447266,
-        90.69999694824219,
-        90.69999694824219,
-        90.58000183105469,
-        90.83999633789062,
-        90.63999938964844,
-        90.81999969482422,
-        90.83999633789062,
-        90.70999908447266,
-        90.56999969482422,
-        90.68000030517578,
         90.80000305175781,
         90.66999816894531,
         90.83000183105469,
@@ -479,20 +451,44 @@
         90.95999908447266,
         90.72000122070312,
         90.76000213623047,
-        90.79000091552734
+        90.72000122070312,
+        90.72000122070312,
+        90.77999877929688,
+        90.8499984741211,
+        90.77999877929688,
+        90.76000213623047,
+        90.83999633789062,
+        90.9000015258789,
+        90.94000244140625,
+        90.91999816894531,
+        90.91000366210938,
+        90.97000122070312,
+        90.94999694824219,
+        90.91999816894531,
+        90.80000305175781,
+        90.80000305175781,
+        90.54000091552734,
+        90.44999694824219,
+        90.44999694824219,
+        90.5,
+        90.69999694824219,
+        90.69000244140625,
+        90.72000122070312,
+        90.7300033569336,
+        90.72000122070312,
+        90.66999816894531,
+        90.66000366210938,
+        90.62999725341797,
+        90.62999725341797
       ],
       "ok": true,
-      "updated_at": "2026-09-02T18:48:22.724248+00:00"
+      "updated_at": "2026-09-02T21:22:49.184942+00:00"
     },
     "us10y": {
-      "price": 4.792,
-      "change": -0.004,
-      "pct": -0.0834,
+      "price": 4.796,
+      "change": 0.0,
+      "pct": 0.0,
       "closes": [
-        4.783999919891357,
-        4.791999816894531,
-        4.789999961853027,
-        4.7820000648498535,
         4.783999919891357,
         4.788000106811523,
         4.7860002517700195,
@@ -548,17 +544,56 @@
         4.796000003814697,
         4.796000003814697,
         4.791999816894531,
-        4.791999816894531
+        4.793999671936035,
+        4.796000003814697,
+        4.796000003814697,
+        4.797999858856201,
+        4.796000003814697
       ],
       "ok": true,
-      "updated_at": "2026-09-02T18:48:22.796048+00:00"
+      "updated_at": "2026-09-02T21:22:49.325189+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-09-02T18:48:22.949744+00:00",
+      "updated_at": "2026-09-02T21:22:49.513514+00:00",
       "items": [
+        {
+          "title": "Berkshire Hathaway CEO Greg Abel sees AI, power demand as new engines of growth",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/berkshire-hathaway-ceo-greg-abel-sees-ai-power-demand-as-new-engines-of-growth/articleshow/133717165.cms",
+          "pubDate": "2026-09-02T23:26:17+05:30"
+        },
+        {
+          "title": "Trump $1 coins aka Golden Dollar are here, minus the gold. The US Mint is putting the sitting president’s face on American money for the first time",
+          "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-1-coins-aka-golden-dollar-are-here-minus-the-gold-the-us-mint-is-putting-the-sitting-presidents-face-on-american-money-for-the-first-time/articleshow/133713717.cms",
+          "pubDate": "2026-09-02T20:25:38+05:30"
+        },
+        {
+          "title": "Quant Mutual Fund turns cautious on manufacturing, bets on ‘neglected’ IT Services",
+          "link": "https://economictimes.indiatimes.com/mf/mf-news/quant-mutual-fund-turns-cautious-on-manufacturing-bets-on-neglected-it-services/articleshow/133705592.cms",
+          "pubDate": "2026-09-02T15:04:32+05:30"
+        },
+        {
+          "title": "Global Market: Data centre boom fuels demand for power, cooling equipment suppliers",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-data-centre-boom-fuels-demand-for-power-cooling-equipment-suppliers/articleshow/133703778.cms",
+          "pubDate": "2026-09-02T13:49:41+05:30"
+        },
+        {
+          "title": "Multibaggers: These 9 midcap stocks surged up to 300% in two years. Do you own any?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/multibaggers-these-9-midcap-stocks-surged-up-to-300-in-two-years-do-you-own-any/slideshow/133703134.cms",
+          "pubDate": "2026-09-02T13:18:20+05:30"
+        },
+        {
+          "title": "Explained: How multi-decade high global bond yields spell caution for Indian stock market investors",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/explained-how-multi-decade-high-global-bond-yields-spell-caution-for-indian-stock-market-investors/articleshow/133702453.cms",
+          "pubDate": "2026-09-02T13:15:27+05:30"
+        },
+        {
+          "title": "TBZ shares rally 16%, extending gains for a second session. What's triggering the surge?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tbz-shares-rally-16-extending-gains-for-a-second-session-whats-triggering-the-surge/articleshow/133700844.cms",
+          "pubDate": "2026-09-02T12:11:57+05:30"
+        },
         {
           "title": "MSCI rebalancing on Monday: Adani Energy, Groww set for big inflows; RIL, Jio Financial may face outflows",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/msci-rebalancing-on-monday-adani-energy-groww-set-for-big-inflows-ril-jio-financial-may-face-outflows/articleshow/133626232.cms",
@@ -590,124 +625,89 @@
           "pubDate": "2026-08-09T10:18:25+05:30"
         },
         {
-          "title": "Narendra Modi has his eyes set on boosting business: Joao Cravinho, EU Ambassador",
-          "link": "https://economictimes.indiatimes.com/opinion/interviews/narendra-modi-has-his-eyes-set-on-boosting-business-joao-cravinho-eu-ambassador/articleshow/35973824.cms",
-          "pubDate": "2014-06-03T05:34:35+05:30"
+          "title": "RBI special windows seen big enough to bring in $100B",
+          "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-special-windows-seen-big-enough-to-bring-in-100b/articleshow/132813309.cms",
+          "pubDate": "2026-08-03T00:43:27+05:30"
         },
         {
-          "title": "Confidence level of industry improving: KV Kamath, ICICI Bank",
-          "link": "https://economictimes.indiatimes.com/opinion/interviews/confidence-level-of-industry-improving-kv-kamath-icici-bank/articleshow/35945669.cms",
-          "pubDate": "2014-06-02T14:27:23+05:30"
+          "title": "India, Canada aim to conclude CEPA trade pact by end-2026: MEA",
+          "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-canada-aim-to-conclude-cepa-trade-pact-by-end-2026-mea/articleshow/132813105.cms",
+          "pubDate": "2026-08-03T00:18:07+05:30"
         },
         {
-          "title": "We may see rapid growth over the next few years: Raamdeo Agrawal",
-          "link": "https://economictimes.indiatimes.com/opinion/interviews/we-may-see-rapid-growth-over-the-next-few-years-raamdeo-agrawal/articleshow/35831378.cms",
-          "pubDate": "2014-06-02T08:00:11+05:30"
+          "title": "Govt's urban reset: Centre divides ministry of Housing and Urban Affairs into two specialised verticals",
+          "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/govts-urban-reset-centre-divides-ministry-of-housing-and-urban-affairs-into-two-specialised-verticals/articleshow/132812900.cms",
+          "pubDate": "2026-08-03T00:05:41+05:30"
         },
         {
-          "title": "Every decision of government needn’t be a big reform: Anand Mahindra",
-          "link": "https://economictimes.indiatimes.com/opinion/interviews/every-decision-of-government-neednt-be-a-big-reform-anand-mahindra/articleshow/35919571.cms",
-          "pubDate": "2014-06-02T04:00:07+05:30"
+          "title": "Trump announces a deal for Hamas to disarm in Gaza, but many hurdles and uncertainty remain",
+          "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-announces-a-deal-for-hamas-to-disarm-in-gaza-but-many-hurdles-and-uncertainty-remain/articleshow/132753009.cms",
+          "pubDate": "2026-07-31T06:33:57+05:30"
         },
         {
-          "title": "Our commitment for press freedom, and autonomy of public broadcast is absolute: Prakash Javadekar",
-          "link": "https://economictimes.indiatimes.com/opinion/interviews/our-commitment-for-press-freedom-and-autonomy-of-public-broadcast-is-absolute-prakash-javadekar/articleshow/35803396.cms",
-          "pubDate": "2014-05-31T04:00:25+05:30"
+          "title": "In 1943, US built an entire city, and it didn't exist on a single map",
+          "link": "https://economictimes.indiatimes.com/news/new-updates/in-1943-us-built-an-entire-city-and-it-didnt-exist-on-a-single-map/articleshow/132659427.cms",
+          "pubDate": "2026-07-27T16:34:47+05:30"
         },
         {
-          "title": "There is a leadership vacuum in Infosys, time to get Nandan Nilekani back: Mohandas Pai",
-          "link": "https://economictimes.indiatimes.com/opinion/interviews/there-is-a-leadership-vacuum-in-infosys-time-to-get-nandan-nilekani-back-mohandas-pai/articleshow/35716682.cms",
-          "pubDate": "2014-05-29T12:40:06+05:30"
+          "title": "Humans have a 'third eye' in the brain: Study links it to a 600-million-year-old Cyclops ancestor",
+          "link": "https://economictimes.indiatimes.com/news/new-updates/humans-have-a-third-eye-in-the-brain-study-links-it-to-a-600-million-year-old-cyclops-ancestor/articleshow/132655441.cms",
+          "pubDate": "2026-07-27T14:20:27+05:30"
         },
         {
-          "title": "ET Search",
-          "link": "https://economictimes.indiatimes.com/et-search/articleshow/21646857.cms",
-          "pubDate": "2013-08-06T13:45:00+05:30"
+          "title": "1,500 ships trapped in Gulf of Hormuz is quietly multiplying an underwater army that could unleash World's biggest bioinvasion event",
+          "link": "https://economictimes.indiatimes.com/news/new-updates/1500-ships-trapped-in-gulf-of-hormuz-is-quietly-multiplying-an-underwater-army-that-could-unleash-worlds-biggest-bioinvasion-event/articleshow/132595366.cms",
+          "pubDate": "2026-07-24T09:04:00+05:30"
         },
         {
-          "title": "After the Oscars, what's next for silent stars of The Artist?",
-          "link": "https://economictimes.indiatimes.com/after-the-oscars-whats-next-for-silent-stars-of-the-artist/articleshow/12075465.cms",
-          "pubDate": "2012-02-29T00:42:07+05:30"
+          "title": "Argentina vs Spain FIFA World Cup Final to be replayed? Petition for a rematch crosses 60,000 signatures",
+          "link": "https://economictimes.indiatimes.com/news/new-updates/argentina-vs-spain-fifa-world-cup-final-to-be-replayed-petition-for-a-rematch-crosses-60000-signatures/articleshow/132576024.cms",
+          "pubDate": "2026-07-23T15:03:36+05:30"
         },
         {
-          "title": "Delhi World Book fair: A fair like no other",
-          "link": "https://economictimes.indiatimes.com/delhi-world-book-fair-a-fair-like-no-other/articleshow/12028630.cms",
-          "pubDate": "2012-02-25T07:38:37+05:30"
+          "title": "India-UK CETA takes effect: First zero-duty Indian coffee, jewellery consignments reach UK shores",
+          "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-uk-ceta-takes-effect-first-zero-duty-indian-coffee-jewellery-consignments-reach-uk-shores/articleshow/132442764.cms",
+          "pubDate": "2026-07-16T20:56:34+05:30"
         },
         {
-          "title": "Indian gift makes its way to State Department exhibition",
-          "link": "https://economictimes.indiatimes.com/lk-advanis-gift-makes-its-way-to-state-department-exhibition-hall/articleshow/12017534.cms",
-          "pubDate": "2012-02-24T13:39:49+05:30"
+          "title": "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
+          "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/from-oman-to-tanzania-how-the-iran-war-is-redrawing-indias-trade-map/articleshow/131762760.cms",
+          "pubDate": "2026-06-16T12:51:54+05:30"
         },
         {
-          "title": "IMD to use dynamic models for forecasts",
-          "link": "https://economictimes.indiatimes.com/india-meteorological-department-to-use-dynamic-models-for-forecasts/articleshow/11983844.cms",
-          "pubDate": "2012-02-22T02:19:54+05:30"
+          "title": "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
+          "link": "https://economictimes.indiatimes.com/news/economy/policy/fm-sitharaman-flags-global-crisis-spillovers-unfair-burden-on-developing-nations/articleshow/131668427.cms",
+          "pubDate": "2026-06-12T01:07:27+05:30"
         },
         {
-          "title": "Docs reveal contents of first wire msg between India &amp; Eng",
-          "link": "https://economictimes.indiatimes.com/documents-reveal-contents-of-the-first-telegraph-message-between-india-england/articleshow/11976488.cms",
-          "pubDate": "2012-02-21T15:19:25+05:30"
+          "title": "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls",
+          "link": "https://economictimes.indiatimes.com/news/elections/assembly-elections/assam/done-deal-cm-himanta-biswa-sarma-on-nda-seat-sharing-for-assam-polls/articleshow/128678098.cms",
+          "pubDate": "2026-02-22T19:05:23+05:30"
         },
         {
-          "title": "Worried Amitabh Bachchan fans pray to Lord Shiva for his recovery",
-          "link": "https://economictimes.indiatimes.com/worried-amitabh-bachchan-fans-pray-to-lord-shiva-for-his-recovery/articleshow/11963187.cms",
-          "pubDate": "2012-02-20T16:27:34+05:30"
+          "title": "Rare 'intensive' revision in Bihar four months before polls",
+          "link": "https://economictimes.indiatimes.com/news/elections/assembly-elections/bihar/rare-intensive-revision-in-bihar-four-months-before-polls/articleshow/122167501.cms",
+          "pubDate": "2025-07-01T00:24:22+05:30"
         },
         {
-          "title": "Alfa raises delisting price to Rs 2,850 a share",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/alfa-laval-raises-delisting-price-to-rs-2850-a-share/articleshow/11437373.cms",
-          "pubDate": "2012-01-10T17:49:11+05:30"
+          "title": "BJP accuses Kejriwal of sending voters hoax calls to mislead",
+          "link": "https://economictimes.indiatimes.com/news/elections/assembly-elections/delhi/bjp-accuses-kejriwal-of-sending-voters-hoax-calls-to-mislead/articleshow/117579007.cms",
+          "pubDate": "2025-01-26T17:52:56+05:30"
         },
         {
-          "title": "DB Realty, Unitech stocks rose",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/db-realty-unitech-stocks-rose-after-top-executives-granted-bail-in-2g-scam/articleshow/10925114.cms",
-          "pubDate": "2011-11-30T03:55:23+05:30"
+          "title": "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+          "link": "https://economictimes.indiatimes.com/news/elections/lok-sabha/india/lok-sabha-election-2024-maharashtra-get-interesting-after-splits-in-shiv-sena-ncp/articleshow/108559788.cms",
+          "pubDate": "2024-03-17T12:16:52+05:30"
         },
         {
-          "title": "Fitch withdraws Reliance Capital ratings",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fitch-withdraws-reliance-capital-ratings/articleshow/10430814.cms",
-          "pubDate": "2011-10-20T21:00:11+05:30"
+          "title": "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+          "link": "https://economictimes.indiatimes.com/news/elections/lok-sabha/india/modi-charisma-key-factor-in-bjps-bid-to-retain-all-26-seats-in-gujarat/articleshow/108550858.cms",
+          "pubDate": "2024-03-16T20:35:10+05:30"
         },
         {
-          "title": "'Discoms' poor fin health poses risks for traders'",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/discoms-poor-financial-health-poses-risks-for-power-traders-fitch/articleshow/10430186.cms",
-          "pubDate": "2011-10-20T20:02:51+05:30"
-        },
-        {
-          "title": "Cigarette cos shares outperform benchmark Sensex",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cigarette-companies-price-hikes-with-higher-volumes-hold-promise/articleshow/9277179.cms",
-          "pubDate": "2011-07-19T01:35:28+05:30"
-        },
-        {
-          "title": "Lovable Lingerie's dream run on as traders lap it up",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/lovable-lingeries-dream-run-on-as-traders-lap-it-up/articleshow/8894615.cms",
-          "pubDate": "2011-06-18T00:25:28+05:30"
-        },
-        {
-          "title": "'Big Daddy' laps up Cipla after Q1 nos beat forecast",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/big-daddy-laps-up-cipla-after-q1-nos-beat-forecast/articleshow/6308646.cms",
-          "pubDate": "2010-08-14T03:35:24+05:30"
-        },
-        {
-          "title": "Old Fox has dream run on Dalal Street",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/old-fox-has-dream-run-on-dalal-street/articleshow/6308631.cms",
-          "pubDate": "2010-08-14T03:26:46+05:30"
-        },
-        {
-          "title": "Cairn India hits record high on BSE amid stake sale talks",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cairn-india-hits-record-high-on-bse-amid-stake-sale-talks/articleshow/6306679.cms",
-          "pubDate": "2010-08-13T20:11:07+05:30"
-        },
-        {
-          "title": "Vedanta plunges 5.59% on LSE amid talks to buy Cairn stake",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-plunges-5-59-per-cent-on-lse-amid-talks-to-buy-cairn-stake/articleshow/6306526.cms",
-          "pubDate": "2010-08-13T19:26:27+05:30"
-        },
-        {
-          "title": "SBI shares on gaining spree; hit record high",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-shares-on-gaining-spree-hit-record-high/articleshow/6306241.cms",
-          "pubDate": "2010-08-13T18:47:42+05:30"
+          "title": "Implementation of 'guarantees', decline of BRS favour Congress in Telangana, BJP aiming for better show",
+          "link": "https://economictimes.indiatimes.com/news/elections/lok-sabha/india/implementation-of-guarantees-decline-of-brs-favour-congress-in-telangana-bjp-aiming-for-better-show/articleshow/108548569.cms",
+          "pubDate": "2024-03-16T17:48:48+05:30"
         }
       ]
     },
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-09-02T18:48:23.100889+00:00",
+      "updated_at": "2026-09-02T21:22:49.934142+00:00",
       "items": [
+        {
+          "title": "Yen Surge Keeps Traders on Alert for Further Official Action",
+          "link": "https://www.livemint.com/market/yen-surge-keeps-traders-on-alert-for-further-official-action-11788381875091.html",
+          "pubDate": "2026-09-03T02:14:34+05:30"
+        },
+        {
+          "title": "US yields ease from highs after data as crude prices eyed",
+          "link": "https://www.livemint.com/market/us-yields-ease-from-highs-after-data-as-crude-prices-eyed-11788375805189.html",
+          "pubDate": "2026-09-03T00:33:24+05:30"
+        },
         {
           "title": "Gold rebounds over 1% as US dollar, yields pull back from highs",
           "link": "https://www.livemint.com/market/gold-rebounds-over-1-as-us-dollar-yields-pull-back-from-highs-11788374320488.html",
@@ -935,22 +945,12 @@
           "title": "Swiggy share price down today: Why food delivery stock is delivering 'red' today | Negative trigger explained",
           "link": "https://www.livemint.com/market/stock-market-news/swiggy-share-price-down-today-why-food-delivery-stock-is-delivering-red-today-negative-trigger-explained-11788323868096.html",
           "pubDate": "2026-09-02T10:55:41+05:30"
-        },
-        {
-          "title": "Volume shocker stocks: Why share price of EMS, Expleo Solutions, Windlas Biotech, AKI India, Heritage Foods are up today",
-          "link": "https://www.livemint.com/market/stock-market-news/volume-shocker-stocks-why-share-price-of-ems-expleo-solutions-windlas-biotech-aki-india-heritage-foods-are-up-today-11788325656609.html",
-          "pubDate": "2026-09-02T10:52:41+05:30"
-        },
-        {
-          "title": "Small-cap stock under 50 hits 10% upper circuit despite stock market crash",
-          "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-50-rhetan-tmt-hits-10-upper-circuit-despite-stock-market-crash-11788323557449.html",
-          "pubDate": "2026-09-02T10:23:28+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-09-02T18:48:23.271513+00:00",
+      "updated_at": "2026-09-02T21:22:50.153155+00:00",
       "items": [
         {
           "title": "FCNR (B) haul soars to $127 bn on final sprint exceeding mkt expectations",
@@ -970,7 +970,7 @@
         {
           "title": "Liquidity surplus tops ₹7.75 trillion on strong FCNR (B) mobilisation",
           "link": "https://www.business-standard.com/markets/news/10-year-bond-yield-closes-shy-of-7-as-us-yields-crude-prices-rise-126090201361_1.html",
-          "pubDate": "2026-09-02T19:38:45+05:30"
+          "pubDate": "2026-09-02T19:38:23+05:30"
         },
         {
           "title": "Mutual fund assets surge as households shift to capital markets: Bajaj MF",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-09-02T18:48:23.334497+00:00",
+      "updated_at": "2026-09-02T21:22:51.203894+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on September 03, 2026",

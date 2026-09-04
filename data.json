@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T19:11:35.891584+00:00",
+  "generated_at": "2026-09-04T21:25:26.340794+00:00",
   "indices": {
     "nifty50": {
       "price": 23897.7,
@@ -68,7 +68,7 @@
         23897.69921875
       ],
       "ok": true,
-      "updated_at": "2026-09-04T19:11:33.949123+00:00"
+      "updated_at": "2026-09-04T21:25:24.434735+00:00"
     },
     "sensex": {
       "price": 76515.43,
@@ -137,7 +137,7 @@
         76515.4296875
       ],
       "ok": true,
-      "updated_at": "2026-09-04T19:11:34.073194+00:00"
+      "updated_at": "2026-09-04T21:25:24.482219+00:00"
     },
     "banknifty": {
       "price": 57369.65,
@@ -206,7 +206,7 @@
         57369.6484375
       ],
       "ok": true,
-      "updated_at": "2026-09-04T19:11:34.113131+00:00"
+      "updated_at": "2026-09-04T21:25:24.525022+00:00"
     },
     "vix": {
       "price": 10.68,
@@ -275,15 +275,13 @@
         10.680000305175781
       ],
       "ok": true,
-      "updated_at": "2026-09-04T19:11:34.152927+00:00"
+      "updated_at": "2026-09-04T21:25:24.572092+00:00"
     },
     "usdinr": {
-      "price": 94.475,
-      "change": 0.0,
-      "pct": 0.0,
+      "price": 94.48,
+      "change": 0.005,
+      "pct": 0.0053,
       "closes": [
-        94.49749755859375,
-        94.48999786376953,
         94.48500061035156,
         94.47750091552734,
         94.48249816894531,
@@ -341,39 +339,18 @@
         94.4749984741211,
         94.4749984741211,
         94.4749984741211,
-        94.4749984741211
+        94.4749984741211,
+        94.4800033569336,
+        94.4800033569336
       ],
       "ok": true,
-      "updated_at": "2026-09-04T19:11:34.196631+00:00"
+      "updated_at": "2026-09-04T21:25:24.616365+00:00"
     },
     "gold": {
-      "price": 4471.2,
-      "change": -68.7,
-      "pct": -1.5132,
+      "price": 4477.2,
+      "change": -62.7,
+      "pct": -1.3811,
       "closes": [
-        4481.89990234375,
-        4480.2998046875,
-        4478.10009765625,
-        4476.5,
-        4486.7998046875,
-        4476.5,
-        4476.0,
-        4475.2001953125,
-        4464.39990234375,
-        4474.2998046875,
-        4476.89990234375,
-        4483.39990234375,
-        4490.2998046875,
-        4495.2998046875,
-        4490.5,
-        4487.0,
-        4486.7998046875,
-        4485.2998046875,
-        4490.10009765625,
-        4490.7001953125,
-        4486.60009765625,
-        4483.2998046875,
-        4486.89990234375,
         4480.89990234375,
         4486.2001953125,
         4489.0,
@@ -410,39 +387,39 @@
         4472.2998046875,
         4471.2998046875,
         4471.10009765625,
-        4471.2001953125
+        4472.5,
+        4476.5,
+        4476.0,
+        4478.2001953125,
+        4482.7998046875,
+        4484.89990234375,
+        4483.7001953125,
+        4483.89990234375,
+        4482.5,
+        4483.2998046875,
+        4482.0,
+        4479.89990234375,
+        4479.0,
+        4478.7998046875,
+        4477.89990234375,
+        4477.2998046875,
+        4477.2998046875,
+        4476.60009765625,
+        4477.60009765625,
+        4477.39990234375,
+        4475.89990234375,
+        4478.2998046875,
+        4477.2001953125,
+        4477.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-09-04T19:11:34.239192+00:00"
+      "updated_at": "2026-09-04T21:25:24.659531+00:00"
     },
     "crude": {
-      "price": 91.49,
-      "change": 0.19,
-      "pct": 0.2081,
+      "price": 91.22,
+      "change": -0.08,
+      "pct": -0.0876,
       "closes": [
-        89.20999908447266,
-        89.52999877929688,
-        89.6500015258789,
-        89.62999725341797,
-        89.87000274658203,
-        90.05000305175781,
-        90.29000091552734,
-        90.62999725341797,
-        90.81999969482422,
-        90.87999725341797,
-        90.30999755859375,
-        90.30000305175781,
-        90.33999633789062,
-        90.41000366210938,
-        90.58999633789062,
-        90.6500015258789,
-        90.7699966430664,
-        90.83999633789062,
-        90.7699966430664,
-        90.79000091552734,
-        91.0999984741211,
-        90.97000122070312,
-        90.88999938964844,
         90.88999938964844,
         90.75,
         90.56999969482422,
@@ -479,10 +456,33 @@
         91.58000183105469,
         91.51000213623047,
         91.4800033569336,
-        91.48999786376953
+        91.44000244140625,
+        91.41999816894531,
+        91.47000122070312,
+        91.45999908447266,
+        91.48999786376953,
+        91.4800033569336,
+        91.38999938964844,
+        91.33000183105469,
+        91.3499984741211,
+        91.30999755859375,
+        91.36000061035156,
+        91.43000030517578,
+        91.41000366210938,
+        91.31999969482422,
+        91.27999877929688,
+        91.25,
+        91.23999786376953,
+        91.19999694824219,
+        91.27999877929688,
+        91.2699966430664,
+        91.19999694824219,
+        91.29000091552734,
+        91.22000122070312,
+        91.22000122070312
       ],
       "ok": true,
-      "updated_at": "2026-09-04T19:11:34.309286+00:00"
+      "updated_at": "2026-09-04T21:25:24.714526+00:00"
     },
     "us10y": {
       "price": 4.784,
@@ -551,13 +551,13 @@
         4.783999919891357
       ],
       "ok": true,
-      "updated_at": "2026-09-04T19:11:34.388592+00:00"
+      "updated_at": "2026-09-04T21:25:24.751155+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-09-04T19:11:34.450059+00:00",
+      "updated_at": "2026-09-04T21:25:25.165244+00:00",
       "items": [
         {
           "title": "Strong jobs report fuels Fed rate hike prospects as Trump escalates rate cut pressure",
@@ -794,163 +794,163 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-09-04T19:11:34.684157+00:00",
+      "updated_at": "2026-09-04T21:25:25.446982+00:00",
       "items": [
         {
-          "title": "How 'are we slaves' comment from Kenya President plunged Tata Chemicals share price - What he said and what lies ahead",
-          "link": "https://www.livemint.com/market/stock-market-news/how-are-we-slaves-comment-from-kenya-president-plunged-tata-chemicals-share-price-what-he-said-and-what-lies-ahead-11788494574380.html",
-          "pubDate": "2026-09-04T19:11:34.684148+00:00"
+          "title": "TSX declines after US jobs data fuels rate-hike bets",
+          "link": "https://www.livemint.com/market/tsx-declines-after-us-jobs-data-fuels-rate-hike-bets-11788555277664.html",
+          "pubDate": "2026-09-05T02:24:37+05:30"
         },
         {
-          "title": "BSE share price jumps 4% | extends rally for second day in a row; here's why",
-          "link": "https://www.livemint.com/market/stock-market-news/bse-share-price-jumps-jumps-4-extends-rally-for-second-day-in-a-row-heres-why-11788495813204.html",
-          "pubDate": "2026-09-04T19:11:34.684143+00:00"
+          "title": "Cattle futures fall ahead of long holiday weekend",
+          "link": "https://www.livemint.com/market/cattle-futures-fall-ahead-of-long-holiday-weekend-11788550344745.html",
+          "pubDate": "2026-09-05T01:02:24+05:30"
         },
         {
-          "title": "Lumino Industries share price extends gains after a stellar IPO listing, up 41.5% from issue price: Should you buy?",
-          "link": "https://www.livemint.com/market/stock-market-news/lumino-industries-share-price-extends-gains-after-a-stellar-ipo-listing-up-41-5-from-issue-price-should-you-buy-11788497180293.html",
-          "pubDate": "2026-09-04T19:11:34.684139+00:00"
+          "title": "US yields rise, but inflation data next week seen key to Fed outlook",
+          "link": "https://www.livemint.com/market/us-yields-rise-but-inflation-data-next-week-seen-key-to-fed-outlook-11788550095128.html",
+          "pubDate": "2026-09-05T00:58:14+05:30"
         },
         {
-          "title": "Small-cap stock Ceigall India jumps over 4% after receiving LOI of  ₹5,300 crore | Details here",
-          "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-ceigall-india-jumps-over-4-after-receiving-loi-of-5-300-crore-details-here-11788499225594.html",
-          "pubDate": "2026-09-04T19:11:34.684134+00:00"
+          "title": "Bessent Sees Oil as Low as $40 Post-Iran War, Taking Yields Down",
+          "link": "https://www.livemint.com/market/bessent-sees-oil-as-low-as-40-post-iran-war-taking-yields-down-11788548753614.html",
+          "pubDate": "2026-09-05T00:35:53+05:30"
         },
         {
-          "title": "Adani Ports’ rising volumes, overseas push to keep growth story intact",
-          "link": "https://www.livemint.com/market/mark-to-market/adani-ports-august-cargo-volumes-fy27-growth-nqxt-logistics-11788497806970.html",
-          "pubDate": "2026-09-04T19:11:34.684130+00:00"
+          "title": "Railway stock: RVNL shares to be in focus on Monday after  ₹903 crore order from SJVN",
+          "link": "https://www.livemint.com/market/stock-market-news/railway-stock-rvnl-shares-to-be-in-focus-on-monday-after-rs-903-crore-order-from-sjvn-11788544483468.html",
+          "pubDate": "2026-09-04T23:34:55+05:30"
         },
         {
-          "title": "Puravankara share price surges over 12% - What is driving the realty stock today?",
-          "link": "https://www.livemint.com/market/stock-market-news/puravankara-share-price-surges-over-12-what-is-driving-the-realty-stock-today-11788501251747.html",
-          "pubDate": "2026-09-04T19:11:34.684125+00:00"
+          "title": "SpaceX briefly reclaims $2 trillion market cap: Inside the massive stock rally fuelling Elon Musk’s company",
+          "link": "https://www.livemint.com/market/stock-market-news/spacex-briefly-reclaims-2-trillion-market-cap-inside-the-massive-stock-rally-fuelling-elon-musk-s-company-11788536407672.html",
+          "pubDate": "2026-09-04T22:50:46+05:30"
         },
         {
-          "title": "NSE IPO Impact? IFCI share price jumps over 8% to record high today | What is fuelling the rally in this NBFC PSU stock?",
-          "link": "https://www.livemint.com/market/stock-market-news/nse-ipo-impact-ifci-share-price-jumps-over-8-to-record-high-today-what-is-fuelling-the-rally-in-this-nbfc-psu-stock-11788500335644.html",
-          "pubDate": "2026-09-04T19:11:34.684121+00:00"
+          "title": "NSE IPO: Explained | What is an 'observation letter' issued by Sebi as regulator okays  ₹30,000 cr much-awaited issue",
+          "link": "https://www.livemint.com/market/stock-market-news/nse-ipo-explained-what-is-an-observation-letter-issued-by-sebi-as-regulator-okays-rs-30-000-cr-much-awaited-issue-11788531742764.html",
+          "pubDate": "2026-09-04T21:06:31+05:30"
         },
         {
-          "title": "1500% rally in five years | Multibagger infra stock jumps 5% following stock market rebound; here's why",
-          "link": "https://www.livemint.com/market/stock-market-news/1500-rally-in-five-years-multibagger-infra-stock-jumps-5-following-stock-market-rebound-heres-why-11788500558549.html",
-          "pubDate": "2026-09-04T19:11:34.684116+00:00"
-        },
-        {
-          "title": "ESDS Software IPO: Blockbuster listing! Money doubled today - Buy more, book profit and exit or hold? Guide for investor",
-          "link": "https://www.livemint.com/market/stock-market-news/esds-software-ipo-blockbuster-listing-money-doubled-today-buy-more-book-profit-and-exit-or-hold-guide-for-investor-11788503546971.html",
-          "pubDate": "2026-09-04T19:11:34.684111+00:00"
-        },
-        {
-          "title": "Penny stock under 10 rupees: Upper circuit — Leather share jumps 74% in 4 sessions | Back-to-back surge for third day",
-          "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-10-rupees-upper-circuit-leather-share-jumps-74-in-4-sessions-back-to-back-surge-for-third-day-11788501766213.html",
-          "pubDate": "2026-09-04T19:11:34.684107+00:00"
-        },
-        {
-          "title": "46:1 bonus stock: Record date soon - Check face value and share price performance",
-          "link": "https://www.livemint.com/market/stock-market-news/461-bonus-stock-record-date-soon-check-face-value-and-share-price-performance-11788503774857.html",
-          "pubDate": "2026-09-04T19:11:34.684102+00:00"
-        },
-        {
-          "title": "Ultravolt to power UltraTech, but its current can rattle rivals",
-          "link": "https://www.livemint.com/market/mark-to-market/ultratech-ultravolt-wires-cables-launch-competition-polycab-kei-rr-kabel-11788505009464.html",
-          "pubDate": "2026-09-04T19:11:34.684098+00:00"
-        },
-        {
-          "title": "600% dividend stock: Check amount per share, record date, payment timeline - Do you own?",
-          "link": "https://www.livemint.com/market/stock-market-news/600-dividend-stock-kajaria-ceramics-share-price-check-amount-per-share-record-date-payment-timeline-do-you-own-11788502317637.html",
-          "pubDate": "2026-09-04T19:11:34.684093+00:00"
-        },
-        {
-          "title": "₹94/share dividend stock alert! Last chance to buy today for the special and interim benefit — check payment date",
-          "link": "https://www.livemint.com/market/stock-market-news/rs-94-share-dividend-stock-alert-last-chance-to-buy-today-for-the-special-and-interim-benefit-check-payment-date-11788506428351.html",
-          "pubDate": "2026-09-04T19:11:34.684088+00:00"
-        },
-        {
-          "title": "Rays of Belief IPO allotment in focus today: GMP hints 7% listing pop. Step-by-step guide to check status",
-          "link": "https://www.livemint.com/market/ipo/rays-of-belief-ipo-allotment-in-focus-today-gmp-hints-7-listing-pop-step-by-step-guide-to-check-status-11788508756643.html",
-          "pubDate": "2026-09-04T19:11:34.684080+00:00"
-        },
-        {
-          "title": "SEBI circular on CAS impact: Groww, Angel One, BSE shares jump up to 8% - What regulator said and investors should know",
-          "link": "https://www.livemint.com/market/stock-market-news/sebi-circular-on-cas-impact-groww-angel-one-bse-shares-jump-up-to-8-what-regulator-said-and-investors-should-know-11788508903861.html",
-          "pubDate": "2026-09-04T19:11:34.684076+00:00"
-        },
-        {
-          "title": "PTC India, Coal India to REC: Top 10 dividend stocks | One beats PPF interest rate — check details",
-          "link": "https://www.livemint.com/market/stock-market-news/ptc-india-coal-india-to-rec-top-10-dividend-stocks-one-beats-ppf-interest-rate-check-details-11788508476681.html",
-          "pubDate": "2026-09-04T19:11:34.684071+00:00"
-        },
-        {
-          "title": "Jane Street seeks Sebi-NSE correspondence in market manipulation case; alleges role of UAE-based hedge fund",
-          "link": "https://www.livemint.com/market/stock-market-news/jane-street-market-manipulation-case-sebi-nse-uae-based-hedge-fund-11788511942850.html",
-          "pubDate": "2026-09-04T19:11:34.684066+00:00"
-        },
-        {
-          "title": "Purple Style Labs IPO: Here's what GMP signals ahead of listing on Sept 7; check total subscription and other details",
-          "link": "https://www.livemint.com/market/ipo/purple-style-labs-ipo-heres-what-gmp-signals-ahead-of-listing-on-sept-7-check-total-subscription-and-other-details-11788516542559.html",
-          "pubDate": "2026-09-04T19:11:34.684061+00:00"
-        },
-        {
-          "title": "435% rally in five years | Multibagger small-cap stock under  ₹50 jumps 7.5%",
-          "link": "https://www.livemint.com/market/stock-market-news/435-rally-in-five-years-multibagger-small-cap-stock-under-rs-50-sindhu-trade-links-share-price-jumps-75-11788518098274.html",
-          "pubDate": "2026-09-04T19:11:34.684057+00:00"
-        },
-        {
-          "title": "Stock in a bull trend! New India Assurance shares almost doubled investors' money in five months — do you own?",
-          "link": "https://www.livemint.com/market/stock-market-news/stock-in-a-bull-trend-new-india-assurance-shares-almost-doubled-investors-money-in-five-months-do-you-own-11788514182520.html",
-          "pubDate": "2026-09-04T19:11:34.684052+00:00"
-        },
-        {
-          "title": "How does the world's largest crypto exchange, Binance, keep doing business in Europe without a license? Explained",
-          "link": "https://www.livemint.com/market/cryptocurrency/how-does-the-worlds-largest-crypto-exchange-binance-keep-doing-business-in-europe-without-a-license-explained-11788518577281.html",
-          "pubDate": "2026-09-04T19:11:34.684048+00:00"
-        },
-        {
-          "title": "143% jump in a month - This small-cap stock reaches its highest level since 2008 despite weak stock market",
-          "link": "https://www.livemint.com/market/stock-market-news/143-jump-in-a-month-pushes-this-small-cap-stock-to-its-highest-level-since-2008-key-factors-explained-11788517311966.html",
-          "pubDate": "2026-09-04T19:11:34.684043+00:00"
-        },
-        {
-          "title": "SEBI approves  ₹30,000 crore NSE IPO | Details here",
-          "link": "https://www.livemint.com/market/ipo/sebi-approves-30-000-crore-nse-ipo-details-here-11788522331342.html",
-          "pubDate": "2026-09-04T19:11:34.684039+00:00"
-        },
-        {
-          "title": "Stock to buy for long-term: Motilal Oswal sees 58% upside in this new-age tech stock. Should you buy?",
-          "link": "https://www.livemint.com/market/stock-market-news/stock-to-buy-for-long-term-motilal-oswal-sees-58-upside-in-this-new-age-tech-stock-should-you-buy-11788521460599.html",
-          "pubDate": "2026-09-04T19:11:34.684034+00:00"
-        },
-        {
-          "title": "NSE IPO GMP today: Latest price shows  ₹200 premium per share as SEBI okays much-awaited  ₹30,000 cr public issue",
-          "link": "https://www.livemint.com/market/stock-market-news/nse-ipo-gmp-today-latest-price-shows-rs-200-premium-per-share-as-sebi-okays-much-awaited-rs-30-000-cr-public-issue-11788524858169.html",
-          "pubDate": "2026-09-04T19:11:34.684029+00:00"
-        },
-        {
-          "title": "NSE IPO opportunity: Five stocks holding unlisted NSE shares",
-          "link": "https://www.livemint.com/market/ipo/nse-ipo-opportunity-five-stocks-holding-unlisted-nse-shares-11788524084301.html",
-          "pubDate": "2026-09-04T19:11:34.684024+00:00"
-        },
-        {
-          "title": "NSE clears final Sebi hurdle for long-awaited IPO",
-          "link": "https://www.livemint.com/market/stock-market-news/nse-ipo-gets-sebi-approval-11788524204569.html",
-          "pubDate": "2026-09-04T19:11:34.684019+00:00"
-        },
-        {
-          "title": "Wall Street retreats as strong jobs data raises rate hike bets, credit reporting stocks slump",
-          "link": "https://www.livemint.com/market/wall-street-mixed-after-stronger-than-expected-jobs-data-11788529451652.html",
-          "pubDate": "2026-09-04T19:11:34.684014+00:00"
+          "title": "Pulse of the Street: US bond yields, interest rate jitters drag Indian equities lower this week",
+          "link": "https://www.livemint.com/market/stock-market-news/indian-stock-markets-us-bond-yields-interest-rate-crude-oil-price-11788527556882.html",
+          "pubDate": "2026-09-04T20:04:16+05:30"
         },
         {
           "title": "NSE IPO listing date, timeline: When  ₹30,000 cr issue is expected to hit Indian stock market exchanges",
           "link": "https://www.livemint.com/market/stock-market-news/nse-ipo-listing-date-timeline-when-rs-30-000-cr-issue-is-expected-to-hit-indian-stock-market-exchanges-11788527362527.html",
-          "pubDate": "2026-09-04T19:11:34.684009+00:00"
+          "pubDate": "2026-09-04T20:03:01+05:30"
+        },
+        {
+          "title": "Wall Street retreats as strong jobs data raises rate hike bets, credit reporting stocks slump",
+          "link": "https://www.livemint.com/market/wall-street-mixed-after-stronger-than-expected-jobs-data-11788529451652.html",
+          "pubDate": "2026-09-04T19:25:25+05:30"
+        },
+        {
+          "title": "NSE clears final Sebi hurdle for long-awaited IPO",
+          "link": "https://www.livemint.com/market/stock-market-news/nse-ipo-gets-sebi-approval-11788524204569.html",
+          "pubDate": "2026-09-04T19:23:59+05:30"
+        },
+        {
+          "title": "NSE IPO opportunity: Five stocks holding unlisted NSE shares",
+          "link": "https://www.livemint.com/market/ipo/nse-ipo-opportunity-five-stocks-holding-unlisted-nse-shares-11788524084301.html",
+          "pubDate": "2026-09-04T18:37:33+05:30"
+        },
+        {
+          "title": "NSE IPO GMP today: Latest price shows  ₹200 premium per share as SEBI okays much-awaited  ₹30,000 cr public issue",
+          "link": "https://www.livemint.com/market/stock-market-news/nse-ipo-gmp-today-latest-price-shows-rs-200-premium-per-share-as-sebi-okays-much-awaited-rs-30-000-cr-public-issue-11788524858169.html",
+          "pubDate": "2026-09-04T18:20:18+05:30"
+        },
+        {
+          "title": "Stock to buy for long-term: Motilal Oswal sees 58% upside in this new-age tech stock. Should you buy?",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-to-buy-for-long-term-motilal-oswal-sees-58-upside-in-this-new-age-tech-stock-should-you-buy-11788521460599.html",
+          "pubDate": "2026-09-04T17:37:57+05:30"
+        },
+        {
+          "title": "SEBI approves  ₹30,000 crore NSE IPO | Details here",
+          "link": "https://www.livemint.com/market/ipo/sebi-approves-30-000-crore-nse-ipo-details-here-11788522331342.html",
+          "pubDate": "2026-09-04T17:23:25+05:30"
+        },
+        {
+          "title": "143% jump in a month - This small-cap stock reaches its highest level since 2008 despite weak stock market",
+          "link": "https://www.livemint.com/market/stock-market-news/143-jump-in-a-month-pushes-this-small-cap-stock-to-its-highest-level-since-2008-key-factors-explained-11788517311966.html",
+          "pubDate": "2026-09-04T17:07:59+05:30"
+        },
+        {
+          "title": "How does the world's largest crypto exchange, Binance, keep doing business in Europe without a license? Explained",
+          "link": "https://www.livemint.com/market/cryptocurrency/how-does-the-worlds-largest-crypto-exchange-binance-keep-doing-business-in-europe-without-a-license-explained-11788518577281.html",
+          "pubDate": "2026-09-04T16:33:25+05:30"
+        },
+        {
+          "title": "Stock in a bull trend! New India Assurance shares almost doubled investors' money in five months — do you own?",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-in-a-bull-trend-new-india-assurance-shares-almost-doubled-investors-money-in-five-months-do-you-own-11788514182520.html",
+          "pubDate": "2026-09-04T16:17:57+05:30"
+        },
+        {
+          "title": "435% rally in five years | Multibagger small-cap stock under  ₹50 jumps 7.5%",
+          "link": "https://www.livemint.com/market/stock-market-news/435-rally-in-five-years-multibagger-small-cap-stock-under-rs-50-sindhu-trade-links-share-price-jumps-75-11788518098274.html",
+          "pubDate": "2026-09-04T16:14:55+05:30"
+        },
+        {
+          "title": "Purple Style Labs IPO: Here's what GMP signals ahead of listing on Sept 7; check total subscription and other details",
+          "link": "https://www.livemint.com/market/ipo/purple-style-labs-ipo-heres-what-gmp-signals-ahead-of-listing-on-sept-7-check-total-subscription-and-other-details-11788516542559.html",
+          "pubDate": "2026-09-04T15:48:58+05:30"
+        },
+        {
+          "title": "Jane Street seeks Sebi-NSE correspondence in market manipulation case; alleges role of UAE-based hedge fund",
+          "link": "https://www.livemint.com/market/stock-market-news/jane-street-market-manipulation-case-sebi-nse-uae-based-hedge-fund-11788511942850.html",
+          "pubDate": "2026-09-04T15:32:29+05:30"
+        },
+        {
+          "title": "PTC India, Coal India to REC: Top 10 dividend stocks | One beats PPF interest rate — check details",
+          "link": "https://www.livemint.com/market/stock-market-news/ptc-india-coal-india-to-rec-top-10-dividend-stocks-one-beats-ppf-interest-rate-check-details-11788508476681.html",
+          "pubDate": "2026-09-04T14:23:37+05:30"
+        },
+        {
+          "title": "SEBI circular on CAS impact: Groww, Angel One, BSE shares jump up to 8% - What regulator said and investors should know",
+          "link": "https://www.livemint.com/market/stock-market-news/sebi-circular-on-cas-impact-groww-angel-one-bse-shares-jump-up-to-8-what-regulator-said-and-investors-should-know-11788508903861.html",
+          "pubDate": "2026-09-04T14:05:04+05:30"
+        },
+        {
+          "title": "Rays of Belief IPO allotment in focus today: GMP hints 7% listing pop. Step-by-step guide to check status",
+          "link": "https://www.livemint.com/market/ipo/rays-of-belief-ipo-allotment-in-focus-today-gmp-hints-7-listing-pop-step-by-step-guide-to-check-status-11788508756643.html",
+          "pubDate": "2026-09-04T14:00:48+05:30"
+        },
+        {
+          "title": "₹94/share dividend stock alert! Last chance to buy today for the special and interim benefit — check payment date",
+          "link": "https://www.livemint.com/market/stock-market-news/rs-94-share-dividend-stock-alert-last-chance-to-buy-today-for-the-special-and-interim-benefit-check-payment-date-11788506428351.html",
+          "pubDate": "2026-09-04T13:36:56+05:30"
+        },
+        {
+          "title": "600% dividend stock: Check amount per share, record date, payment timeline - Do you own?",
+          "link": "https://www.livemint.com/market/stock-market-news/600-dividend-stock-kajaria-ceramics-share-price-check-amount-per-share-record-date-payment-timeline-do-you-own-11788502317637.html",
+          "pubDate": "2026-09-04T12:59:26+05:30"
+        },
+        {
+          "title": "Ultravolt to power UltraTech, but its current can rattle rivals",
+          "link": "https://www.livemint.com/market/mark-to-market/ultratech-ultravolt-wires-cables-launch-competition-polycab-kei-rr-kabel-11788505009464.html",
+          "pubDate": "2026-09-04T12:55:41+05:30"
+        },
+        {
+          "title": "46:1 bonus stock: Record date soon - Check face value and share price performance",
+          "link": "https://www.livemint.com/market/stock-market-news/461-bonus-stock-record-date-soon-check-face-value-and-share-price-performance-11788503774857.html",
+          "pubDate": "2026-09-04T12:41:49+05:30"
+        },
+        {
+          "title": "Penny stock under 10 rupees: Upper circuit — Leather share jumps 74% in 4 sessions | Back-to-back surge for third day",
+          "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-10-rupees-upper-circuit-leather-share-jumps-74-in-4-sessions-back-to-back-surge-for-third-day-11788501766213.html",
+          "pubDate": "2026-09-04T12:30:56+05:30"
+        },
+        {
+          "title": "ESDS Software IPO: Blockbuster listing! Money doubled today - Buy more, book profit and exit or hold? Guide for investor",
+          "link": "https://www.livemint.com/market/stock-market-news/esds-software-ipo-blockbuster-listing-money-doubled-today-buy-more-book-profit-and-exit-or-hold-guide-for-investor-11788503546971.html",
+          "pubDate": "2026-09-04T12:27:16+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-09-04T19:11:35.063625+00:00",
+      "updated_at": "2026-09-04T21:25:25.622149+00:00",
       "items": [
         {
           "title": "Mkts regulator presses ahead against Hindenburg, others in Adani case",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-09-04T19:11:35.891567+00:00",
+      "updated_at": "2026-09-04T21:25:26.340773+00:00",
       "items": [
         {
           "title": "RBI to conduct 30-day Variable Rate Reverse Repo (VRRR) auction under LAF",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T23:06:11.226928+00:00",
+  "generated_at": "2026-09-05T00:53:59.143957+00:00",
   "indices": {
     "nifty50": {
       "price": 23897.7,
@@ -68,7 +68,7 @@
         23897.69921875
       ],
       "ok": true,
-      "updated_at": "2026-09-04T23:06:09.622764+00:00"
+      "updated_at": "2026-09-05T00:53:56.624361+00:00"
     },
     "sensex": {
       "price": 76515.43,
@@ -137,7 +137,7 @@
         76515.4296875
       ],
       "ok": true,
-      "updated_at": "2026-09-04T23:06:09.720549+00:00"
+      "updated_at": "2026-09-05T00:53:56.682560+00:00"
     },
     "banknifty": {
       "price": 57369.65,
@@ -206,7 +206,7 @@
         57369.6484375
       ],
       "ok": true,
-      "updated_at": "2026-09-04T23:06:09.769300+00:00"
+      "updated_at": "2026-09-05T00:53:56.733664+00:00"
     },
     "vix": {
       "price": 10.68,
@@ -275,12 +275,12 @@
         10.680000305175781
       ],
       "ok": true,
-      "updated_at": "2026-09-04T23:06:09.825504+00:00"
+      "updated_at": "2026-09-05T00:53:56.796609+00:00"
     },
     "usdinr": {
-      "price": 94.48,
-      "change": 0.005,
-      "pct": 0.0053,
+      "price": 94.475,
+      "change": 0.0,
+      "pct": 0.0,
       "closes": [
         94.48999786376953,
         94.48500061035156,
@@ -344,7 +344,7 @@
         94.4800033569336
       ],
       "ok": true,
-      "updated_at": "2026-09-04T23:06:09.877111+00:00"
+      "updated_at": "2026-09-05T00:53:56.848731+00:00"
     },
     "gold": {
       "price": 4477.2,
@@ -413,7 +413,7 @@
         4477.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-09-04T23:06:09.954686+00:00"
+      "updated_at": "2026-09-05T00:53:56.901175+00:00"
     },
     "crude": {
       "price": 91.22,
@@ -482,7 +482,7 @@
         91.22000122070312
       ],
       "ok": true,
-      "updated_at": "2026-09-04T23:06:10.003754+00:00"
+      "updated_at": "2026-09-05T00:53:56.976030+00:00"
     },
     "us10y": {
       "price": 4.784,
@@ -551,13 +551,13 @@
         4.783999919891357
       ],
       "ok": true,
-      "updated_at": "2026-09-04T23:06:10.050321+00:00"
+      "updated_at": "2026-09-05T00:53:57.026175+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-09-04T23:06:10.134316+00:00",
+      "updated_at": "2026-09-05T00:53:57.125444+00:00",
       "items": [
         {
           "title": "Strong jobs report fuels Fed rate hike prospects as Trump escalates rate cut pressure",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-09-04T23:06:10.330349+00:00",
+      "updated_at": "2026-09-05T00:53:57.388236+00:00",
       "items": [
+        {
+          "title": "RBI curbs push prop traders to tap clients’ shares for derivatives",
+          "link": "https://www.livemint.com/market/stock-market-news/rbi-curbs-prop-traders-client-idle-shares-derivatives-trading-lending-rules-nse-11788495564388.html",
+          "pubDate": "2026-09-05T06:20:57+05:30"
+        },
         {
           "title": "Dollar Posts Weekly Loss as Yen Jumps Amid Shifting Rate Bets",
           "link": "https://www.livemint.com/market/dollar-posts-weekly-loss-as-yen-jumps-amid-shifting-rate-bets-11788559180077.html",
@@ -940,17 +945,12 @@
           "title": "46:1 bonus stock: Record date soon - Check face value and share price performance",
           "link": "https://www.livemint.com/market/stock-market-news/461-bonus-stock-record-date-soon-check-face-value-and-share-price-performance-11788503774857.html",
           "pubDate": "2026-09-04T12:41:49+05:30"
-        },
-        {
-          "title": "Penny stock under 10 rupees: Upper circuit — Leather share jumps 74% in 4 sessions | Back-to-back surge for third day",
-          "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-10-rupees-upper-circuit-leather-share-jumps-74-in-4-sessions-back-to-back-surge-for-third-day-11788501766213.html",
-          "pubDate": "2026-09-04T12:30:56+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-09-04T23:06:10.428175+00:00",
+      "updated_at": "2026-09-05T00:53:58.307229+00:00",
       "items": [
         {
           "title": "Mkts regulator presses ahead against Hindenburg, others in Adani case",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-09-04T23:06:11.226912+00:00",
+      "updated_at": "2026-09-05T00:53:59.143941+00:00",
       "items": [
         {
           "title": "RBI to conduct 30-day Variable Rate Reverse Repo (VRRR) auction under LAF",

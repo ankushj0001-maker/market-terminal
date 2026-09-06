@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T17:41:57.428403+00:00",
+  "generated_at": "2026-09-06T19:29:46.188284+00:00",
   "indices": {
     "nifty50": {
       "price": 23897.7,
@@ -68,7 +68,7 @@
         23897.69921875
       ],
       "ok": true,
-      "updated_at": "2026-09-06T17:41:55.478634+00:00"
+      "updated_at": "2026-09-06T19:29:44.143702+00:00"
     },
     "sensex": {
       "price": 76515.43,
@@ -137,7 +137,7 @@
         76515.4296875
       ],
       "ok": true,
-      "updated_at": "2026-09-06T17:41:55.534883+00:00"
+      "updated_at": "2026-09-06T19:29:44.229236+00:00"
     },
     "banknifty": {
       "price": 57369.65,
@@ -206,7 +206,7 @@
         57369.6484375
       ],
       "ok": true,
-      "updated_at": "2026-09-06T17:41:55.584749+00:00"
+      "updated_at": "2026-09-06T19:29:44.282139+00:00"
     },
     "vix": {
       "price": 10.68,
@@ -275,7 +275,7 @@
         10.680000305175781
       ],
       "ok": true,
-      "updated_at": "2026-09-06T17:41:55.679712+00:00"
+      "updated_at": "2026-09-06T19:29:44.344230+00:00"
     },
     "usdinr": {
       "price": 94.475,
@@ -344,23 +344,23 @@
         94.4800033569336
       ],
       "ok": true,
-      "updated_at": "2026-09-06T17:41:55.747731+00:00"
+      "updated_at": "2026-09-06T19:29:44.444705+00:00"
     },
     "gold": {
       "price": 4476.6,
-      "change": -63.3,
-      "pct": -1.3943,
+      "change": 0.0,
+      "pct": 0.0,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-09-06T17:41:55.799436+00:00"
+      "updated_at": "2026-09-06T19:29:44.493103+00:00"
     },
     "crude": {
       "price": 91.48,
-      "change": 0.18,
-      "pct": 0.1972,
+      "change": 0.0,
+      "pct": 0.0,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-09-06T17:41:55.850635+00:00"
+      "updated_at": "2026-09-06T19:29:44.573686+00:00"
     },
     "us10y": {
       "price": 4.784,
@@ -429,13 +429,13 @@
         4.783999919891357
       ],
       "ok": true,
-      "updated_at": "2026-09-06T17:41:55.908462+00:00"
+      "updated_at": "2026-09-06T19:29:44.628612+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-09-06T17:41:56.120837+00:00",
+      "updated_at": "2026-09-06T19:29:44.893750+00:00",
       "items": [
         {
           "title": "16 IPOs on investors' radar next week. GMPs signal up to 38% returns",
@@ -590,7 +590,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-09-06T17:41:56.205799+00:00",
       "items": [
         {
@@ -672,8 +672,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-09-06T17:41:56.355976+00:00",
+      "updated_at": "2026-09-06T19:29:45.268154+00:00",
       "items": [
+        {
+          "title": "Wall Street Week Ahead: US inflation data and Oracle earnings in focus",
+          "link": "https://www.livemint.com/market/wall-street-week-ahead-us-inflation-data-and-oracle-earnings-in-focus-11788715708966.html",
+          "pubDate": "2026-09-07T00:02:57+05:30"
+        },
         {
           "title": "Expert View: Selective buying under the shell of Homruz &amp; supply constraints, says Vinod Nair",
           "link": "https://www.livemint.com/market/stock-market-news/expert-view-selective-buying-under-the-shell-of-homruz-supply-constraints-says-vinod-nair-11788698810002.html",
@@ -818,17 +823,12 @@
           "title": "NSE IPO: Explained | What is an 'observation letter' issued by Sebi as regulator okays  ₹30,000 cr much-awaited issue",
           "link": "https://www.livemint.com/market/stock-market-news/nse-ipo-explained-what-is-an-observation-letter-issued-by-sebi-as-regulator-okays-rs-30-000-cr-much-awaited-issue-11788531742764.html",
           "pubDate": "2026-09-04T21:06:31+05:30"
-        },
-        {
-          "title": "Pulse of the Street: US bond yields, interest rate jitters drag Indian equities lower this week",
-          "link": "https://www.livemint.com/market/stock-market-news/indian-stock-markets-us-bond-yields-interest-rate-crude-oil-price-11788527556882.html",
-          "pubDate": "2026-09-04T20:04:16+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-09-06T17:41:56.614797+00:00",
+      "updated_at": "2026-09-06T19:29:45.430130+00:00",
       "items": [
         {
           "title": "BVG India receives Sebi approval to raise ₹300 cr via IPO: CEO Rupal Sinha",
@@ -844,11 +844,6 @@
           "title": "West Asia conflict, crude prices likely to drive stock markets this week",
           "link": "https://www.business-standard.com/markets/news/west-asia-conflict-crude-prices-likely-to-drive-stock-markets-this-week-126090600218_1.html",
           "pubDate": "2026-09-06T13:01:42+05:30"
-        },
-        {
-          "title": "Retail investors power direct mutual fund shift as digital access grows",
-          "link": "https://www.business-standard.com/markets/mutual-fund/markets-mutual-fund-retail-investors-direct-plan-mutual-fund-aum-growth-126090600173_1.html",
-          "pubDate": "2026-09-06T11:46:13+05:30"
         },
         {
           "title": "IPO action intensifies as 11 companies set to raise ₹7,055 cr next week",
@@ -979,12 +974,17 @@
           "title": "INR registers a weekly gain of over 1%",
           "link": "https://www.business-standard.com/markets/capital-market-news/inr-registers-a-weekly-gain-of-over-1-126090401011_1.html",
           "pubDate": "2026-09-04T17:31:02+05:30"
+        },
+        {
+          "title": "Sebi, ESMA sign MoU to deepen regulatory cooperation on clearing houses",
+          "link": "https://www.business-standard.com/markets/news/sebi-esma-sign-mou-to-deepen-regulatory-cooperation-on-clearing-houses-126090400993_1.html",
+          "pubDate": "2026-09-04T17:16:31+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-09-06T17:41:57.428386+00:00",
+      "updated_at": "2026-09-06T19:29:46.188267+00:00",
       "items": [
         {
           "title": "RBI to conduct 30-day Variable Rate Reverse Repo (VRRR) auction under LAF",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T23:07:30.390489+00:00",
+  "generated_at": "2026-09-07T00:57:52.633764+00:00",
   "indices": {
     "nifty50": {
       "price": 23897.7,
@@ -68,7 +68,7 @@
         23897.69921875
       ],
       "ok": true,
-      "updated_at": "2026-09-06T23:07:27.873649+00:00"
+      "updated_at": "2026-09-07T00:57:50.934849+00:00"
     },
     "sensex": {
       "price": 76515.43,
@@ -137,7 +137,7 @@
         76515.4296875
       ],
       "ok": true,
-      "updated_at": "2026-09-06T23:07:27.981574+00:00"
+      "updated_at": "2026-09-07T00:57:50.979899+00:00"
     },
     "banknifty": {
       "price": 57369.65,
@@ -206,7 +206,7 @@
         57369.6484375
       ],
       "ok": true,
-      "updated_at": "2026-09-06T23:07:28.128196+00:00"
+      "updated_at": "2026-09-07T00:57:51.034816+00:00"
     },
     "vix": {
       "price": 10.68,
@@ -275,15 +275,18 @@
         10.680000305175781
       ],
       "ok": true,
-      "updated_at": "2026-09-06T23:07:28.295773+00:00"
+      "updated_at": "2026-09-07T00:57:51.072885+00:00"
     },
     "usdinr": {
       "price": 94.475,
       "change": -0.005,
       "pct": -0.0053,
-      "closes": [],
+      "closes": [
+        94.4749984741211,
+        94.4749984741211
+      ],
       "ok": true,
-      "updated_at": "2026-09-06T23:07:28.444382+00:00"
+      "updated_at": "2026-09-07T00:57:51.106729+00:00"
     },
     "gold": {
       "price": 4476.6,
@@ -291,7 +294,7 @@
       "pct": 0.0,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-09-06T23:07:28.539798+00:00"
+      "updated_at": "2026-09-07T00:57:51.140639+00:00"
     },
     "crude": {
       "price": 91.48,
@@ -299,7 +302,7 @@
       "pct": 0.0,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-09-06T23:07:28.637740+00:00"
+      "updated_at": "2026-09-07T00:57:51.184766+00:00"
     },
     "us10y": {
       "price": 4.784,
@@ -368,48 +371,48 @@
         4.783999919891357
       ],
       "ok": true,
-      "updated_at": "2026-09-06T23:07:28.739049+00:00"
+      "updated_at": "2026-09-07T00:57:51.236670+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-09-06T23:07:29.015060+00:00",
+      "updated_at": "2026-09-07T00:57:51.348515+00:00",
       "items": [
+        {
+          "title": "Demat account additions hit 7-month high in August as IPO boom draws investors",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/demat-account-additions-hit-7-month-high-in-august-as-ipo-boom-draws-investors/articleshow/133856460.cms",
+          "pubDate": "2026-09-07T06:09:29+05:30"
+        },
+        {
+          "title": "IPO rush continues: 16 companies to raise over Rs 7,190 crore this week",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-16-issues-to-raise-over-rs-7000-crore-this-week/articleshow/133856257.cms",
+          "pubDate": "2026-09-07T05:56:40+05:30"
+        },
+        {
+          "title": "Pre-market action: Here's the trade setup for today's session",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133857070.cms",
+          "pubDate": "2026-09-07T05:48:54+05:30"
+        },
+        {
+          "title": "NSE IPO set to deliver massive gains to state-run insurance firms",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-set-to-deliver-massive-gains-to-state-run-insurance-firms/articleshow/133857192.cms",
+          "pubDate": "2026-09-07T05:48:39+05:30"
+        },
+        {
+          "title": "AIFs seek status quo as 'foreign control' rules go for a recast",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/aifs-seek-status-quo-as-foreign-control-rules-go-for-a-recast/articleshow/133856980.cms",
+          "pubDate": "2026-09-07T01:00:33+05:30"
+        },
+        {
+          "title": "RBI's liquidity test may set future course",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbis-liquidity-test-may-set-future-course/articleshow/133856932.cms",
+          "pubDate": "2026-09-07T00:54:53+05:30"
+        },
         {
           "title": "Nepal rescuers continue search for missing as identification of dead remains challenge",
           "link": "https://economictimes.indiatimes.com/news/international/world-news/nepal-rescuers-continue-search-for-missing-as-identification-of-dead-remains-challenge/articleshow/133849891.cms",
           "pubDate": "2026-09-07T00:46:19+05:30"
-        },
-        {
-          "title": "16 IPOs on investors' radar next week. GMPs signal up to 38% returns",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/16-ipos-on-investors-radar-next-week-gmps-signal-up-to-38-returns/ipo-frenzy/slideshow/133833526.cms",
-          "pubDate": "2026-09-06T15:48:59+05:30"
-        },
-        {
-          "title": "11 penny stocks plunge up to 81% in 6 months",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/11-penny-stocks-plunge-up-to-81-in-6-months/slideshow/133828234.cms",
-          "pubDate": "2026-09-06T11:44:35+05:30"
-        },
-        {
-          "title": "Largecaps look better as smallcaps price in strong growth: Franklin Templeton’s Arihant Jain",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/largecaps-look-better-as-smallcaps-price-in-strong-growth-franklin-templetons-arihant-jain/articleshow/133827224.cms",
-          "pubDate": "2026-09-06T11:09:16+05:30"
-        },
-        {
-          "title": "Bank of India Flexi Cap among 5 flexi-cap funds that deliver over 15% annualised return in 3 years",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/bank-of-india-flexi-cap-among-5-flexi-cap-funds-that-deliver-over-15-annualised-return-in-3-years/slideshow/133826005.cms",
-          "pubDate": "2026-09-06T10:03:15+05:30"
-        },
-        {
-          "title": "Dividend stocks: Kalyan Jewellers, IREDA among over 150 stocks turning ex-record date this week. Do you own any?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-stocks-kalyan-jewellers-ireda-among-over-150-stocks-turning-ex-record-date-this-week-do-you-own-any/articleshow/133825859.cms",
-          "pubDate": "2026-09-06T10:02:11+05:30"
-        },
-        {
-          "title": "How will Nifty, Sensex behave on Monday? US Fed rate hike bets, among 4 factors to drive D-Street action",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-will-nifty-sensex-behave-on-monday-us-fed-rate-hike-bets-among-4-factors-to-drive-d-street-action/articleshow/133825763.cms",
-          "pubDate": "2026-09-06T09:56:44+05:30"
         },
         {
           "title": "Trump $1 coins aka Golden Dollar are here, minus the gold. The US Mint is putting the sitting president’s face on American money for the first time",
@@ -611,8 +614,48 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-09-06T23:07:29.498919+00:00",
+      "updated_at": "2026-09-07T00:57:51.595992+00:00",
       "items": [
+        {
+          "title": "Nifty’s technical setup weakens; 100-DMA key to recovery",
+          "link": "https://www.livemint.com/market/stock-market-news/niftys-technical-setup-weakens-100-dma-key-to-recovery-11788741820178.html",
+          "pubDate": "2026-09-07T06:19:10+05:30"
+        },
+        {
+          "title": "Raja Venkatraman recommends three stocks for 7 September",
+          "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-7-september-11788585819748.html",
+          "pubDate": "2026-09-07T06:07:37+05:30"
+        },
+        {
+          "title": "Small-cap corrections have narrowed to 25% post-covid: SageOne’s Samir Vartak",
+          "link": "https://www.livemint.com/market/stock-market-news/small-cap-stocks-growth-outlook-samir-vartak-sageone-11788682506621.html",
+          "pubDate": "2026-09-07T06:00:57+05:30"
+        },
+        {
+          "title": "Stock recommendations for 7 September from MarketSmith India",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-7-september-from-marketsmith-india-11788523305762.html",
+          "pubDate": "2026-09-07T06:00:37+05:30"
+        },
+        {
+          "title": "Wheat Falls as Traders Weigh Outlook for Black Sea Shipments",
+          "link": "https://www.livemint.com/market/commodities/wheat-falls-as-traders-weigh-outlook-for-black-sea-shipments-11788740313819.html",
+          "pubDate": "2026-09-07T05:48:33+05:30"
+        },
+        {
+          "title": "CAS fights teething troubles; will VWAP return on expiry days?",
+          "link": "https://www.livemint.com/market/stock-market-news/closing-auction-session-nse-sebi-stock-market-11788679287492.html",
+          "pubDate": "2026-09-07T05:30:56+05:30"
+        },
+        {
+          "title": "Gold Holds Decline as Traders Weigh Prospects for Fed Rate Hike",
+          "link": "https://www.livemint.com/market/gold-holds-decline-as-traders-weigh-prospects-for-fed-rate-hike-11788738919831.html",
+          "pubDate": "2026-09-07T05:25:19+05:30"
+        },
+        {
+          "title": "Goldman’s Moe Sees 80% Upside for Korean Stocks on Memory Boom",
+          "link": "https://www.livemint.com/market/goldmans-moe-sees-80-upside-for-korean-stocks-on-memory-boom-11788738918997.html",
+          "pubDate": "2026-09-07T05:25:18+05:30"
+        },
         {
           "title": "Wall Street Week Ahead: US inflation data and Oracle earnings in focus",
           "link": "https://www.livemint.com/market/wall-street-week-ahead-us-inflation-data-and-oracle-earnings-in-focus-11788715708966.html",
@@ -722,52 +765,12 @@
           "title": "RBI curbs push prop traders to tap clients’ shares for derivatives",
           "link": "https://www.livemint.com/market/stock-market-news/rbi-curbs-prop-traders-client-idle-shares-derivatives-trading-lending-rules-nse-11788495564388.html",
           "pubDate": "2026-09-05T06:20:57+05:30"
-        },
-        {
-          "title": "Dollar Posts Weekly Loss as Yen Jumps Amid Shifting Rate Bets",
-          "link": "https://www.livemint.com/market/dollar-posts-weekly-loss-as-yen-jumps-amid-shifting-rate-bets-11788559180077.html",
-          "pubDate": "2026-09-05T03:29:39+05:30"
-        },
-        {
-          "title": "TSX declines after US jobs data fuels rate-hike bets",
-          "link": "https://www.livemint.com/market/tsx-declines-after-us-jobs-data-fuels-rate-hike-bets-11788555277664.html",
-          "pubDate": "2026-09-05T02:24:37+05:30"
-        },
-        {
-          "title": "Cattle futures fall ahead of long holiday weekend",
-          "link": "https://www.livemint.com/market/cattle-futures-fall-ahead-of-long-holiday-weekend-11788550344745.html",
-          "pubDate": "2026-09-05T01:02:24+05:30"
-        },
-        {
-          "title": "US yields rise, but inflation data next week seen key to Fed outlook",
-          "link": "https://www.livemint.com/market/us-yields-rise-but-inflation-data-next-week-seen-key-to-fed-outlook-11788550095128.html",
-          "pubDate": "2026-09-05T00:58:14+05:30"
-        },
-        {
-          "title": "Bessent Sees Oil as Low as $40 Post-Iran War, Taking Yields Down",
-          "link": "https://www.livemint.com/market/bessent-sees-oil-as-low-as-40-post-iran-war-taking-yields-down-11788548753614.html",
-          "pubDate": "2026-09-05T00:35:53+05:30"
-        },
-        {
-          "title": "Railway stock: RVNL shares to be in focus on Monday after  ₹903 crore order from SJVN",
-          "link": "https://www.livemint.com/market/stock-market-news/railway-stock-rvnl-shares-to-be-in-focus-on-monday-after-rs-903-crore-order-from-sjvn-11788544483468.html",
-          "pubDate": "2026-09-04T23:34:55+05:30"
-        },
-        {
-          "title": "SpaceX briefly reclaims $2 trillion market cap: Inside the massive stock rally fuelling Elon Musk’s company",
-          "link": "https://www.livemint.com/market/stock-market-news/spacex-briefly-reclaims-2-trillion-market-cap-inside-the-massive-stock-rally-fuelling-elon-musk-s-company-11788536407672.html",
-          "pubDate": "2026-09-04T22:50:46+05:30"
-        },
-        {
-          "title": "NSE IPO: Explained | What is an 'observation letter' issued by Sebi as regulator okays  ₹30,000 cr much-awaited issue",
-          "link": "https://www.livemint.com/market/stock-market-news/nse-ipo-explained-what-is-an-observation-letter-issued-by-sebi-as-regulator-okays-rs-30-000-cr-much-awaited-issue-11788531742764.html",
-          "pubDate": "2026-09-04T21:06:31+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-09-06T23:07:29.898637+00:00",
+      "updated_at": "2026-09-07T00:57:51.856772+00:00",
       "items": [
         {
           "title": "BVG India receives Sebi approval to raise ₹300 cr via IPO: CEO Rupal Sinha",
@@ -923,7 +926,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-09-06T23:07:30.390473+00:00",
+      "updated_at": "2026-09-07T00:57:52.633749+00:00",
       "items": [
         {
           "title": "RBI to conduct 30-day Variable Rate Reverse Repo (VRRR) auction under LAF",

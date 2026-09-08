@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T22:19:11.087595+00:00",
+  "generated_at": "2026-09-08T00:31:39.177500+00:00",
   "indices": {
     "nifty50": {
       "price": 23779.15,
@@ -68,7 +68,7 @@
         23779.150390625
       ],
       "ok": true,
-      "updated_at": "2026-09-07T22:19:09.857596+00:00"
+      "updated_at": "2026-09-08T00:31:35.944932+00:00"
     },
     "sensex": {
       "price": 76132.81,
@@ -137,7 +137,7 @@
         76132.8125
       ],
       "ok": true,
-      "updated_at": "2026-09-07T22:19:09.902923+00:00"
+      "updated_at": "2026-09-08T00:31:36.158472+00:00"
     },
     "banknifty": {
       "price": 57088.3,
@@ -206,7 +206,7 @@
         57088.30078125
       ],
       "ok": true,
-      "updated_at": "2026-09-07T22:19:09.951011+00:00"
+      "updated_at": "2026-09-08T00:31:36.393612+00:00"
     },
     "vix": {
       "price": 11.16,
@@ -275,92 +275,31 @@
         11.15999984741211
       ],
       "ok": true,
-      "updated_at": "2026-09-07T22:19:09.996851+00:00"
+      "updated_at": "2026-09-08T00:31:36.591078+00:00"
     },
     "usdinr": {
       "price": 94.475,
-      "change": -0.005,
-      "pct": -0.0053,
-      "closes": [
-        94.44249725341797,
-        94.44249725341797,
-        94.44249725341797,
-        94.45249938964844,
-        94.44999694824219,
-        94.45249938964844,
-        94.44200134277344,
-        94.44999694824219,
-        94.45249938964844,
-        94.45500183105469,
-        94.45249938964844,
-        94.45249938964844,
-        94.4574966430664,
-        94.45500183105469,
-        94.45999908447266,
-        94.45500183105469,
-        94.45500183105469,
-        94.45500183105469,
-        94.4574966430664,
-        94.45999908447266,
-        94.4625015258789,
-        94.45249938964844,
-        94.44999694824219,
-        94.44750213623047,
-        94.44999694824219,
-        94.44000244140625,
-        94.44999694824219,
-        94.45500183105469,
-        94.44999694824219,
-        94.4625015258789,
-        94.47000122070312,
-        94.46749877929688,
-        94.46749877929688,
-        94.46749877929688,
-        94.47000122070312,
-        94.47000122070312,
-        94.47000122070312,
-        94.47000122070312,
-        94.47000122070312,
-        94.47250366210938,
-        94.46499633789062,
-        94.47750091552734,
-        94.47750091552734,
-        94.48249816894531,
-        94.4729995727539,
-        94.48750305175781,
-        94.48500061035156,
-        94.4749984741211,
-        94.4749984741211,
-        94.4749984741211,
-        94.4749984741211,
-        94.4749984741211,
-        94.4749984741211,
-        94.4749984741211,
-        94.4749984741211,
-        94.4749984741211,
-        94.4749984741211,
-        94.4749984741211,
-        94.4749984741211,
-        94.4749984741211
-      ],
+      "change": 0.0,
+      "pct": 0.0,
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-09-07T22:19:10.074573+00:00"
+      "updated_at": "2026-09-08T00:31:36.786440+00:00"
     },
     "gold": {
-      "price": 4476.6,
-      "change": 0.0,
-      "pct": 0.0,
+      "price": 4475.2,
+      "change": -1.4,
+      "pct": -0.0313,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-09-07T22:19:10.132598+00:00"
+      "updated_at": "2026-09-08T00:31:37.015133+00:00"
     },
     "crude": {
-      "price": 91.48,
-      "change": 0.0,
-      "pct": 0.0,
+      "price": 92.52,
+      "change": 1.04,
+      "pct": 1.1369,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-09-07T22:19:10.181730+00:00"
+      "updated_at": "2026-09-08T00:31:37.185370+00:00"
     },
     "us10y": {
       "price": 4.784,
@@ -429,14 +368,19 @@
         4.783999919891357
       ],
       "ok": true,
-      "updated_at": "2026-09-07T22:19:10.242093+00:00"
+      "updated_at": "2026-09-08T00:31:37.386691+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-09-07T22:19:10.306087+00:00",
+      "updated_at": "2026-09-08T00:31:37.542424+00:00",
       "items": [
+        {
+          "title": "Pre-market action: Here's the trade setup for today's session",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133901639.cms",
+          "pubDate": "2026-09-08T05:45:54+05:30"
+        },
         {
           "title": "Copper touches record high, focus on tight supplies outside US",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-price-touches-record-high-focus-on-tight-supplies-outside-us/articleshow/133889161.cms",
@@ -448,6 +392,11 @@
           "pubDate": "2026-09-07T19:52:22+05:30"
         },
         {
+          "title": "Gold loans, consumer durables drive NBFC credit growth to 14.9% in July",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/gold-loans-consumer-durables-drive-nbfc-credit-growth-to-14-9-in-july/articleshow/133901802.cms",
+          "pubDate": "2026-09-07T18:29:38+05:30"
+        },
+        {
           "title": "Sebi eases compliance norms for FPIs investing only in government securities",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-compliance-norms-for-fpis-investing-only-in-government-securities/articleshow/133880514.cms",
           "pubDate": "2026-09-07T17:38:44+05:30"
@@ -456,16 +405,6 @@
           "title": "FIIs raise stakes in 9 midcap stocks for four straight quarters; shares surge up to 70% in a year",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-raise-stakes-in-9-midcap-stocks-for-four-straight-quarters-shares-surge-up-to-70-in-a-year/slideshow/133876469.cms",
           "pubDate": "2026-09-07T15:50:18+05:30"
-        },
-        {
-          "title": "Sebi’s new ETF rules apply today: What changes from September 7 and how they impact investors?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebis-new-etf-rules-apply-today-what-changes-from-september-7-and-how-they-impact-investors/articleshow/133869479.cms",
-          "pubDate": "2026-09-07T12:50:50+05:30"
-        },
-        {
-          "title": "Infosys, HCLTech, TCS, other IT stocks drop up to 3% as Fed rate hike worries return. Here's why",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-hcltech-tcs-other-it-stocks-drop-up-to-3-as-fed-rate-hike-worries-return-heres-why/articleshow/133866433.cms",
-          "pubDate": "2026-09-07T11:32:21+05:30"
         },
         {
           "title": "Nepal rescuers continue search for missing as identification of dead remains challenge",
@@ -672,8 +611,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-09-07T22:19:10.525938+00:00",
+      "updated_at": "2026-09-08T00:31:37.837766+00:00",
       "items": [
+        {
+          "title": "Gold Steadies as Traders Weigh Mideast Tensions and Dollar Moves",
+          "link": "https://www.livemint.com/market/gold-steadies-as-traders-weigh-mideast-tensions-and-dollar-moves-11788824285127.html",
+          "pubDate": "2026-09-08T05:08:04+05:30"
+        },
+        {
+          "title": "Asias next leverage-driven market crash could be brewing: Manishi Raychaudhuri",
+          "link": "https://www.livemint.com/market/asias-next-leverage-driven-market-crash-could-be-brewing-manishi-raychaudhuri-11788822107072.html",
+          "pubDate": "2026-09-08T04:31:46+05:30"
+        },
         {
           "title": "Pernod Ricard India IPO: Four banks appointed as advisors for proposed mega issue: Report",
           "link": "https://www.livemint.com/market/stock-market-news/pernod-ricard-india-ipo-four-banks-appointed-as-advisors-for-proposed-mega-issue-report-11788802980330.html",
@@ -813,22 +762,12 @@
           "title": "Jaiprakash Power Ventures share price jumps 3% after opening in red | What's behind the rally?",
           "link": "https://www.livemint.com/market/stock-market-news/jaiprakash-power-ventures-share-price-jumps-3-after-opening-in-red-whats-behind-the-rally-11788759563141.html",
           "pubDate": "2026-09-07T12:18:45+05:30"
-        },
-        {
-          "title": "Glass Wall Systems IPO vs Prasol Chemicals IPO vs Kanohar Electricals IPO: What GMP signals ahead of these upcoming IPOs",
-          "link": "https://www.livemint.com/market/ipo/glass-wall-systems-ipo-vs-prasol-chemicals-ipo-vs-kanohar-electricals-ipo-what-gmp-signals-ahead-of-these-upcoming-ipos-11788758280198.html",
-          "pubDate": "2026-09-07T11:45:47+05:30"
-        },
-        {
-          "title": "PVR Inox share price falls 8% in trade today: What triggered the sharp sell-off in the multiplex stock?",
-          "link": "https://www.livemint.com/market/stock-market-news/pvr-inox-share-price-falls-8-in-trade-today-what-triggered-the-sharp-sell-off-in-the-multiplex-stock-11788759243316.html",
-          "pubDate": "2026-09-07T11:40:50+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-09-07T22:19:10.581831+00:00",
+      "updated_at": "2026-09-08T00:31:38.281212+00:00",
       "items": [
         {
           "title": "Purple Style Labs makes muted market debut; shares end over 1% lower",
@@ -984,7 +923,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-09-07T22:19:11.087579+00:00",
+      "updated_at": "2026-09-08T00:31:39.177487+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on September 08, 2026",

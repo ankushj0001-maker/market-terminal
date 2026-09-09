@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T19:52:20.557026+00:00",
+  "generated_at": "2026-09-09T22:01:36.143372+00:00",
   "indices": {
     "nifty50": {
       "price": 23431.5,
@@ -68,7 +68,7 @@
         23431.5
       ],
       "ok": true,
-      "updated_at": "2026-09-09T19:52:18.938376+00:00"
+      "updated_at": "2026-09-09T22:01:34.602617+00:00"
     },
     "sensex": {
       "price": 74764.23,
@@ -137,7 +137,7 @@
         74764.2265625
       ],
       "ok": true,
-      "updated_at": "2026-09-09T19:52:18.992873+00:00"
+      "updated_at": "2026-09-09T22:01:34.652274+00:00"
     },
     "banknifty": {
       "price": 56295.55,
@@ -206,7 +206,7 @@
         56295.55078125
       ],
       "ok": true,
-      "updated_at": "2026-09-09T19:52:19.040519+00:00"
+      "updated_at": "2026-09-09T22:01:34.716110+00:00"
     },
     "vix": {
       "price": 11.92,
@@ -275,7 +275,7 @@
         11.920000076293945
       ],
       "ok": true,
-      "updated_at": "2026-09-09T19:52:19.107332+00:00"
+      "updated_at": "2026-09-09T22:01:34.790386+00:00"
     },
     "usdinr": {
       "price": 95.13,
@@ -344,27 +344,13 @@
         95.12999725341797
       ],
       "ok": true,
-      "updated_at": "2026-09-09T19:52:19.187935+00:00"
+      "updated_at": "2026-09-09T22:01:34.882190+00:00"
     },
     "gold": {
-      "price": 4442.9,
-      "change": 3.9,
-      "pct": 0.0879,
+      "price": 4447.2,
+      "change": -13.5,
+      "pct": -0.3026,
       "closes": [
-        4463.60009765625,
-        4463.2001953125,
-        4439.5,
-        4436.0,
-        4434.7998046875,
-        4429.10009765625,
-        4427.7998046875,
-        4438.7001953125,
-        4445.39990234375,
-        4450.5,
-        4447.5,
-        4446.60009765625,
-        4445.7001953125,
-        4442.7001953125,
         4447.2001953125,
         4440.2998046875,
         4442.39990234375,
@@ -410,30 +396,30 @@
         4444.39990234375,
         4442.89990234375,
         4445.2001953125,
-        4442.89990234375
+        4445.60009765625,
+        4444.10009765625,
+        4444.39990234375,
+        4442.2998046875,
+        4442.39990234375,
+        4442.60009765625,
+        4439.7001953125,
+        4440.2001953125,
+        4440.39990234375,
+        4442.89990234375,
+        4445.0,
+        4445.60009765625,
+        4445.60009765625,
+        4445.89990234375,
+        4447.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-09-09T19:52:19.269913+00:00"
+      "updated_at": "2026-09-09T22:01:34.976004+00:00"
     },
     "crude": {
-      "price": 96.47,
-      "change": 3.44,
-      "pct": 3.6977,
+      "price": 96.67,
+      "change": 0.62,
+      "pct": 0.6455,
       "closes": [
-        96.25,
-        96.2300033569336,
-        96.37000274658203,
-        96.38999938964844,
-        96.5199966430664,
-        96.54000091552734,
-        96.54000091552734,
-        96.5,
-        96.47000122070312,
-        96.30999755859375,
-        96.45999908447266,
-        96.33000183105469,
-        96.41000366210938,
-        96.51000213623047,
         96.41000366210938,
         96.66000366210938,
         96.45999908447266,
@@ -479,10 +465,24 @@
         96.29000091552734,
         96.41999816894531,
         96.47000122070312,
-        96.47000122070312
+        96.61000061035156,
+        96.5999984741211,
+        96.66000366210938,
+        96.7699966430664,
+        96.87000274658203,
+        96.87999725341797,
+        96.83999633789062,
+        96.83000183105469,
+        96.73999786376953,
+        96.62999725341797,
+        96.66999816894531,
+        96.63999938964844,
+        96.68000030517578,
+        96.66000366210938,
+        96.66999816894531
       ],
       "ok": true,
-      "updated_at": "2026-09-09T19:52:19.323721+00:00"
+      "updated_at": "2026-09-09T22:01:35.064667+00:00"
     },
     "us10y": {
       "price": 4.837,
@@ -551,13 +551,13 @@
         4.836999893188477
       ],
       "ok": true,
-      "updated_at": "2026-09-09T19:52:19.369875+00:00"
+      "updated_at": "2026-09-09T22:01:35.112625+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-09-09T19:52:19.466820+00:00",
+      "updated_at": "2026-09-09T22:01:35.289672+00:00",
       "items": [
         {
           "title": "Market wrap: Adani Ent, Max Healthcare, Infosys, HDFC Life among top gainers and losers on Nifty and Sensex on Wednesday",
@@ -794,8 +794,28 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-09-09T19:52:19.700897+00:00",
+      "updated_at": "2026-09-09T22:01:35.402267+00:00",
       "items": [
+        {
+          "title": "Australian Property Stocks Vulnerable Following Bathla Collapse",
+          "link": "https://www.livemint.com/market/australian-property-stocks-vulnerable-following-bathla-collapse-11788990835062.html",
+          "pubDate": "2026-09-10T03:23:54+05:30"
+        },
+        {
+          "title": "Copper Hits Fresh All-Time Highs in New York and London",
+          "link": "https://www.livemint.com/market/copper-hits-fresh-all-time-highs-in-new-york-and-london-11788988488948.html",
+          "pubDate": "2026-09-10T02:44:48+05:30"
+        },
+        {
+          "title": "Wall Street dips as $100 oil, inflation worries weigh on investors",
+          "link": "https://www.livemint.com/market/wall-street-dips-as-100-oil-inflation-worries-weigh-on-investors-11788986594338.html",
+          "pubDate": "2026-09-10T02:13:13+05:30"
+        },
+        {
+          "title": "Dollar trades near 7-month low against yen as oil settles above $100",
+          "link": "https://www.livemint.com/market/dollar-trades-near-7-month-low-against-yen-as-oil-settles-above-100-11788985799649.html",
+          "pubDate": "2026-09-10T01:59:59+05:30"
+        },
         {
           "title": "Wheat falls amid profit-taking, Black Sea war headlines",
           "link": "https://www.livemint.com/market/wheat-falls-amid-profit-taking-black-sea-war-headlines-11788979794916.html",
@@ -925,32 +945,12 @@
           "title": "NSE IPO: New India Assurance to sell 1.05 crore shares in the upcoming mega OFS | Details here",
           "link": "https://www.livemint.com/market/stock-market-news/nse-ipo-new-india-assurance-to-sell-1-05-crore-shares-in-the-upcoming-mega-ofs-details-here-11788944435862.html",
           "pubDate": "2026-09-09T14:40:43+05:30"
-        },
-        {
-          "title": "Rekha Jhunjhunwala portfolio stock VA Tech Wabag jumps 9%: here’s what’s driving the rally",
-          "link": "https://www.livemint.com/market/stock-market-news/rekha-jhunjhunwala-portfolio-stock-va-tech-wabag-jumps-9-here-s-what-s-driving-the-rally-11788939535936.html",
-          "pubDate": "2026-09-09T14:20:23+05:30"
-        },
-        {
-          "title": "Bandhan Bank’s credit-card bet: timely move or risky detour?",
-          "link": "https://www.livemint.com/market/mark-to-market/bandhan-bank-credit-cards-mastercard-banking-retail-loans-unsecured-lending-credit-growth-11788940921316.html",
-          "pubDate": "2026-09-09T14:19:19+05:30"
-        },
-        {
-          "title": "ASM Technologies share price hits record high: Radhakishan Damani, Mukul Agrawal back  ₹526 crore preferential issue",
-          "link": "https://www.livemint.com/market/stock-market-news/asm-technologies-share-price-hits-record-high-radhakishan-damani-mukul-agrawal-back-rs-526-crore-preferential-issue-11788939996797.html",
-          "pubDate": "2026-09-09T14:12:52+05:30"
-        },
-        {
-          "title": "Orient Green Power share price rises 9% after this update. Do you own?",
-          "link": "https://www.livemint.com/market/stock-market-news/orient-green-power-share-price-rises-9-after-this-update-do-you-own-11788939305909.html",
-          "pubDate": "2026-09-09T13:45:16+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-09-09T19:52:19.785387+00:00",
+      "updated_at": "2026-09-09T22:01:35.554257+00:00",
       "items": [
         {
           "title": "L&T, IIFL Finance follow REC into India's emerging tokenised bond market",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-09-09T19:52:20.557014+00:00",
+      "updated_at": "2026-09-09T22:01:36.143354+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on September 10, 2026",

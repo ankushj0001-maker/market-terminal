@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T19:37:48.777651+00:00",
+  "generated_at": "2026-09-10T21:51:26.253446+00:00",
   "indices": {
     "nifty50": {
       "price": 23477.8,
@@ -68,7 +68,7 @@
         23477.80078125
       ],
       "ok": true,
-      "updated_at": "2026-09-10T19:37:47.131348+00:00"
+      "updated_at": "2026-09-10T21:51:23.109327+00:00"
     },
     "sensex": {
       "price": 74902.59,
@@ -137,7 +137,7 @@
         74902.59375
       ],
       "ok": true,
-      "updated_at": "2026-09-10T19:37:47.183548+00:00"
+      "updated_at": "2026-09-10T21:51:23.323684+00:00"
     },
     "banknifty": {
       "price": 56471.95,
@@ -206,7 +206,7 @@
         56471.94921875
       ],
       "ok": true,
-      "updated_at": "2026-09-10T19:37:47.223237+00:00"
+      "updated_at": "2026-09-10T21:51:23.481147+00:00"
     },
     "vix": {
       "price": 11.795,
@@ -275,7 +275,7 @@
         11.795000076293945
       ],
       "ok": true,
-      "updated_at": "2026-09-10T19:37:47.262840+00:00"
+      "updated_at": "2026-09-10T21:51:23.641745+00:00"
     },
     "usdinr": {
       "price": 95.44,
@@ -344,31 +344,13 @@
         95.44000244140625
       ],
       "ok": true,
-      "updated_at": "2026-09-10T19:37:47.319462+00:00"
+      "updated_at": "2026-09-10T21:51:23.788890+00:00"
     },
     "gold": {
-      "price": 4370.5,
-      "change": -90.2,
-      "pct": -2.0221,
+      "price": 4358.5,
+      "change": -48.8,
+      "pct": -1.1073,
       "closes": [
-        4405.39990234375,
-        4398.7998046875,
-        4400.10009765625,
-        4397.60009765625,
-        4400.10009765625,
-        4395.7001953125,
-        4397.7001953125,
-        4402.2998046875,
-        4405.10009765625,
-        4408.10009765625,
-        4407.2998046875,
-        4411.2998046875,
-        4410.39990234375,
-        4407.7998046875,
-        4409.0,
-        4407.7998046875,
-        4407.7998046875,
-        4409.60009765625,
         4401.89990234375,
         4400.7998046875,
         4401.10009765625,
@@ -410,34 +392,34 @@
         4362.10009765625,
         4370.5,
         4368.7998046875,
-        4370.5
+        4368.5,
+        4368.0,
+        4365.2998046875,
+        4364.2001953125,
+        4365.10009765625,
+        4365.7001953125,
+        4362.5,
+        4364.39990234375,
+        4364.2998046875,
+        4363.0,
+        4358.0,
+        4359.7998046875,
+        4358.0,
+        4358.2001953125,
+        4359.2001953125,
+        4356.7001953125,
+        4358.39990234375,
+        4358.5,
+        4358.5
       ],
       "ok": true,
-      "updated_at": "2026-09-10T19:37:47.408617+00:00"
+      "updated_at": "2026-09-10T21:51:24.002336+00:00"
     },
     "crude": {
-      "price": 102.54,
-      "change": 6.49,
-      "pct": 6.7569,
+      "price": 103.93,
+      "change": 1.45,
+      "pct": 1.4149,
       "closes": [
-        99.38999938964844,
-        99.6500015258789,
-        99.8499984741211,
-        99.91000366210938,
-        99.7699966430664,
-        100.08999633789062,
-        100.1500015258789,
-        100.08000183105469,
-        100.27999877929688,
-        100.29000091552734,
-        100.3499984741211,
-        100.45999908447266,
-        100.76000213623047,
-        100.73999786376953,
-        101.20999908447266,
-        101.5199966430664,
-        101.66999816894531,
-        101.58999633789062,
         101.58000183105469,
         101.87000274658203,
         101.80000305175781,
@@ -479,10 +461,28 @@
         102.58000183105469,
         102.58999633789062,
         102.69000244140625,
-        102.54000091552734
+        102.69000244140625,
+        102.73999786376953,
+        102.83999633789062,
+        102.69000244140625,
+        102.5999984741211,
+        102.76000213623047,
+        102.94000244140625,
+        102.94000244140625,
+        102.9000015258789,
+        102.91000366210938,
+        103.02999877929688,
+        103.08000183105469,
+        103.43000030517578,
+        103.68000030517578,
+        103.86000061035156,
+        103.91000366210938,
+        103.8499984741211,
+        103.93000030517578,
+        103.93000030517578
       ],
       "ok": true,
-      "updated_at": "2026-09-10T19:37:47.460586+00:00"
+      "updated_at": "2026-09-10T21:51:24.237561+00:00"
     },
     "us10y": {
       "price": 4.944,
@@ -551,13 +551,13 @@
         4.943999767303467
       ],
       "ok": true,
-      "updated_at": "2026-09-10T19:37:47.498877+00:00"
+      "updated_at": "2026-09-10T21:51:24.440206+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-09-10T19:37:47.729022+00:00",
+      "updated_at": "2026-09-10T21:51:24.614414+00:00",
       "items": [
         {
           "title": "Karan Adani settles PMC Projects case with Sebi by paying Rs 13.65 lakh",
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-09-10T19:37:47.914940+00:00",
+      "updated_at": "2026-09-10T21:51:24.991282+00:00",
       "items": [
+        {
+          "title": "Dollar rises, euro slips after ECB rate increase",
+          "link": "https://www.livemint.com/market/dollar-rises-euro-slips-after-ecb-rate-increase-11789073684557.html",
+          "pubDate": "2026-09-11T02:24:44+05:30"
+        },
+        {
+          "title": "German Yield Hits 17-Year High as Traders Up ECB Hike Bets",
+          "link": "https://www.livemint.com/market/german-yield-hits-17-year-high-as-traders-up-ecb-hike-bets-11789072150224.html",
+          "pubDate": "2026-09-11T01:59:09+05:30"
+        },
         {
           "title": "Is copper a new gold? Experts unveil this strategy to make money",
           "link": "https://www.livemint.com/market/stock-market-news/is-copper-a-new-gold-experts-unveil-this-strategy-to-make-money-11789059703371.html",
@@ -935,22 +945,12 @@
           "title": "Kanohar Electricals IPO GMP jumps 36% on last bidding day. Check latest subscription, review. Apply or not?",
           "link": "https://www.livemint.com/market/ipo/kanohar-electricals-ipo-gmp-jumps-36-on-last-bidding-day-check-latest-subscription-review-apply-or-not-11789017602037.html",
           "pubDate": "2026-09-10T13:09:10+05:30"
-        },
-        {
-          "title": "Solar Industries: Defence exposure powers growth, but valuation may be running ahead of earnings",
-          "link": "https://www.livemint.com/market/mark-to-market/solar-industries-share-price-defence-order-book-earnings-growth-11789021603934.html",
-          "pubDate": "2026-09-10T13:02:37+05:30"
-        },
-        {
-          "title": "Is Zerodha down? Brokerage flags BSE F&amp;O issue on Sensex expiry day",
-          "link": "https://www.livemint.com/market/stock-market-news/is-zerodha-down-brokerage-flags-bse-f-o-issue-on-sensex-expiry-day-11789024911548.html",
-          "pubDate": "2026-09-10T12:59:29+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-09-10T19:37:47.976985+00:00",
+      "updated_at": "2026-09-10T21:51:25.258488+00:00",
       "items": [
         {
           "title": "Market's 14-minute swing on expiry day as closing auction sparks volatility",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-09-10T19:37:48.777635+00:00",
+      "updated_at": "2026-09-10T21:51:26.253430+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

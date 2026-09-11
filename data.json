@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T14:59:11.673733+00:00",
+  "generated_at": "2026-09-11T18:09:47.639556+00:00",
   "indices": {
     "nifty50": {
       "price": 23398.1,
@@ -68,7 +68,7 @@
         23398.099609375
       ],
       "ok": true,
-      "updated_at": "2026-09-11T14:59:09.787188+00:00"
+      "updated_at": "2026-09-11T18:09:44.065029+00:00"
     },
     "sensex": {
       "price": 74781.76,
@@ -137,7 +137,7 @@
         74781.7578125
       ],
       "ok": true,
-      "updated_at": "2026-09-11T14:59:09.833417+00:00"
+      "updated_at": "2026-09-11T18:09:44.234833+00:00"
     },
     "banknifty": {
       "price": 56606.55,
@@ -206,7 +206,7 @@
         56606.55078125
       ],
       "ok": true,
-      "updated_at": "2026-09-11T14:59:09.881856+00:00"
+      "updated_at": "2026-09-11T18:09:44.344652+00:00"
     },
     "vix": {
       "price": 12.285,
@@ -275,19 +275,13 @@
         12.28499984741211
       ],
       "ok": true,
-      "updated_at": "2026-09-11T14:59:09.930631+00:00"
+      "updated_at": "2026-09-11T18:09:44.504771+00:00"
     },
     "usdinr": {
       "price": 95.54,
       "change": 0.1,
       "pct": 0.1048,
       "closes": [
-        95.70500183105469,
-        95.69249725341797,
-        95.62999725341797,
-        95.67749786376953,
-        95.7074966430664,
-        95.70500183105469,
         95.68499755859375,
         95.71499633789062,
         95.71749877929688,
@@ -341,54 +335,22 @@
         95.54000091552734,
         95.54000091552734,
         95.54000091552734,
+        95.54000091552734,
+        95.54000091552734,
+        95.55000305175781,
+        95.54000091552734,
+        95.54000091552734,
+        95.54000091552734,
         95.54000091552734
       ],
       "ok": true,
-      "updated_at": "2026-09-11T14:59:09.986816+00:00"
+      "updated_at": "2026-09-11T18:09:44.653166+00:00"
     },
     "gold": {
-      "price": 4420.9,
-      "change": 13.6,
-      "pct": 0.3086,
+      "price": 4400.4,
+      "change": -6.9,
+      "pct": -0.1566,
       "closes": [
-        4388.2001953125,
-        4391.2001953125,
-        4387.39990234375,
-        4388.10009765625,
-        4391.5,
-        4390.39990234375,
-        4391.5,
-        4391.10009765625,
-        4388.7001953125,
-        4386.89990234375,
-        4383.5,
-        4382.7001953125,
-        4379.39990234375,
-        4381.39990234375,
-        4379.2001953125,
-        4380.0,
-        4380.2998046875,
-        4380.2998046875,
-        4378.2001953125,
-        4373.60009765625,
-        4374.60009765625,
-        4376.5,
-        4377.60009765625,
-        4373.5,
-        4375.0,
-        4371.2998046875,
-        4369.10009765625,
-        4369.7001953125,
-        4373.10009765625,
-        4371.10009765625,
-        4382.10009765625,
-        4370.5,
-        4391.5,
-        4395.39990234375,
-        4403.5,
-        4419.7998046875,
-        4430.2998046875,
-        4432.10009765625,
         4424.7998046875,
         4431.2001953125,
         4428.0,
@@ -410,54 +372,54 @@
         4409.60009765625,
         4413.10009765625,
         4421.2998046875,
-        4420.89990234375
+        4419.39990234375,
+        4412.5,
+        4412.60009765625,
+        4405.0,
+        4404.2998046875,
+        4404.2001953125,
+        4407.10009765625,
+        4412.0,
+        4414.39990234375,
+        4415.2001953125,
+        4414.5,
+        4414.7001953125,
+        4410.5,
+        4408.60009765625,
+        4413.60009765625,
+        4408.60009765625,
+        4403.0,
+        4401.0,
+        4394.39990234375,
+        4396.2001953125,
+        4405.7998046875,
+        4401.2001953125,
+        4405.39990234375,
+        4402.2998046875,
+        4403.0,
+        4403.7998046875,
+        4405.2001953125,
+        4405.89990234375,
+        4407.60009765625,
+        4409.7998046875,
+        4411.10009765625,
+        4409.10009765625,
+        4411.5,
+        4404.7001953125,
+        4404.39990234375,
+        4404.0,
+        4405.10009765625,
+        4400.60009765625,
+        4400.39990234375
       ],
       "ok": true,
-      "updated_at": "2026-09-11T14:59:10.036307+00:00"
+      "updated_at": "2026-09-11T18:09:44.789013+00:00"
     },
     "crude": {
-      "price": 99.06,
-      "change": -3.42,
-      "pct": -3.3372,
+      "price": 99.8,
+      "change": -2.68,
+      "pct": -2.6151,
       "closes": [
-        99.80999755859375,
-        99.19999694824219,
-        99.0999984741211,
-        99.16999816894531,
-        99.06999969482422,
-        99.0,
-        99.12999725341797,
-        98.91999816894531,
-        99.08000183105469,
-        99.08000183105469,
-        98.91999816894531,
-        98.87000274658203,
-        98.87999725341797,
-        98.88999938964844,
-        99.18000030517578,
-        99.20999908447266,
-        99.16999816894531,
-        99.30999755859375,
-        99.48999786376953,
-        99.69000244140625,
-        99.41999816894531,
-        99.26000213623047,
-        99.0999984741211,
-        99.26000213623047,
-        99.25,
-        99.54000091552734,
-        99.5199966430664,
-        99.5199966430664,
-        99.25,
-        99.16000366210938,
-        99.20999908447266,
-        99.16000366210938,
-        99.31999969482422,
-        99.55999755859375,
-        99.7300033569336,
-        99.4800033569336,
-        99.38999938964844,
-        98.86000061035156,
         98.94999694824219,
         99.0,
         99.26000213623047,
@@ -479,24 +441,54 @@
         99.79000091552734,
         99.56999969482422,
         99.05000305175781,
-        99.05999755859375
+        99.2699966430664,
+        99.63999938964844,
+        99.66999816894531,
+        99.69999694824219,
+        99.58000183105469,
+        99.33999633789062,
+        99.52999877929688,
+        99.31999969482422,
+        99.04000091552734,
+        99.43000030517578,
+        99.5199966430664,
+        99.41000366210938,
+        99.45999908447266,
+        99.75,
+        99.62000274658203,
+        99.88999938964844,
+        99.7699966430664,
+        99.7300033569336,
+        99.70999908447266,
+        99.95999908447266,
+        99.83999633789062,
+        100.13999938964844,
+        99.69000244140625,
+        99.9000015258789,
+        100.19000244140625,
+        100.11000061035156,
+        100.08999633789062,
+        99.98999786376953,
+        99.58999633789062,
+        99.69999694824219,
+        99.5199966430664,
+        99.48999786376953,
+        99.52999877929688,
+        99.69999694824219,
+        99.94999694824219,
+        99.81999969482422,
+        99.80000305175781,
+        99.81999969482422,
+        99.80000305175781
       ],
       "ok": true,
-      "updated_at": "2026-09-11T14:59:10.142892+00:00"
+      "updated_at": "2026-09-11T18:09:44.933324+00:00"
     },
     "us10y": {
-      "price": 4.932,
-      "change": -0.012,
-      "pct": -0.2427,
+      "price": 4.955,
+      "change": 0.011,
+      "pct": 0.2225,
       "closes": [
-        4.949999809265137,
-        4.949000358581543,
-        4.954999923706055,
-        4.947000026702881,
-        4.947000026702881,
-        4.941999912261963,
-        4.925999641418457,
-        4.918000221252441,
         4.9079999923706055,
         4.921999931335449,
         4.920000076293945,
@@ -517,17 +509,55 @@
         4.934000015258789,
         4.934000015258789,
         4.934000015258789,
+        4.929999828338623,
+        4.924000263214111,
         4.932000160217285,
-        4.932000160217285
+        4.941999912261963,
+        4.938000202178955,
+        4.941999912261963,
+        4.941999912261963,
+        4.935999870300293,
+        4.934000015258789,
+        4.934000015258789,
+        4.934000015258789,
+        4.938000202178955,
+        4.938000202178955,
+        4.935999870300293,
+        4.943999767303467,
+        4.949000358581543,
+        4.947000026702881,
+        4.949999809265137,
+        4.953000068664551,
+        4.954999923706055,
+        4.956999778747559,
+        4.954999923706055,
+        4.947000026702881,
+        4.949999809265137,
+        4.947000026702881,
+        4.949000358581543,
+        4.949999809265137,
+        4.949000358581543,
+        4.954999923706055,
+        4.949999809265137,
+        4.949999809265137,
+        4.947000026702881,
+        4.947000026702881,
+        4.949999809265137,
+        4.949000358581543,
+        4.949000358581543,
+        4.953000068664551,
+        4.953000068664551,
+        4.954999923706055,
+        4.954999923706055
       ],
       "ok": true,
-      "updated_at": "2026-09-11T14:59:10.192898+00:00"
+      "updated_at": "2026-09-11T18:09:45.044818+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-09-11T14:59:10.234819+00:00",
+      "updated_at": "2026-09-11T18:09:45.326006+00:00",
       "items": [
         {
           "title": "Jefferies cuts KEI Industries target price by 11%. Will UltraTech’s entry put the company at risk?",
@@ -682,8 +712,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-09-11T11:13:12.337136+00:00",
+      "ok": true,
+      "updated_at": "2026-09-11T18:09:46.244467+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -764,8 +794,28 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-09-11T14:59:10.834453+00:00",
+      "updated_at": "2026-09-11T18:09:46.471603+00:00",
       "items": [
+        {
+          "title": "SEBI to issue consultation paper on derivatives settlement price methodology on Saturday",
+          "link": "https://www.livemint.com/market/stock-market-news/sebi-to-issue-consultation-paper-on-derivatives-settlement-price-methodology-on-saturday-11789147959576.html",
+          "pubDate": "2026-09-11T23:17:31+05:30"
+        },
+        {
+          "title": "Up 725% in five years: Small-cap stock to be in focus on Monday after  ₹5.12 crore order win",
+          "link": "https://www.livemint.com/market/stock-market-news/up-725-in-five-years-small-cap-stock-to-be-in-focus-on-monday-after-rs-5-12-crore-order-win-11789142510005.html",
+          "pubDate": "2026-09-11T22:29:52+05:30"
+        },
+        {
+          "title": "Fed September meeting: Hike rates to fight inflation or heed Trump’s call for cuts — what should Kevin Warsh do?",
+          "link": "https://www.livemint.com/market/fed-september-meeting-hike-to-fight-inflation-or-heed-trump-s-call-for-cuts-what-should-kevin-warsh-do-11789139960578.html",
+          "pubDate": "2026-09-11T21:36:23+05:30"
+        },
+        {
+          "title": "Hot inflation, $100 oil: Why a Fed rate hike next week now looks almost certain",
+          "link": "https://www.livemint.com/market/stock-market-news/hot-inflation-100-oil-why-a-fed-rate-hike-next-week-now-looks-almost-certain-11789139131738.html",
+          "pubDate": "2026-09-11T21:18:14+05:30"
+        },
         {
           "title": "Pulse of the Street: oil surge and rate hike fears trigger a market sell-off",
           "link": "https://www.livemint.com/market/pulse-of-the-street-oil-surge-and-rate-hike-fears-trigger-a-market-selloff-11789130520769.html",
@@ -895,37 +945,22 @@
           "title": "Orient Tech share surges 17% after this business update | All details here",
           "link": "https://www.livemint.com/market/stock-market-news/orient-tech-share-surges-17-after-this-business-update-all-details-here-11789107926218.html",
           "pubDate": "2026-09-11T12:05:45+05:30"
-        },
-        {
-          "title": "Kirloskar Industries share price rockets 13% on heavy volumes. Do you own?",
-          "link": "https://www.livemint.com/market/stock-market-news/kirloskar-industries-share-price-rockets-13-on-heavy-volumes-do-you-own-11789107380122.html",
-          "pubDate": "2026-09-11T12:01:22+05:30"
-        },
-        {
-          "title": "IPO GMP comparison: Last day alert! LCC Projects vs Karamtara Engineering vs Steamhouse India",
-          "link": "https://www.livemint.com/market/ipo/ipo-gmp-comparison-last-day-alert-lcc-projects-vs-karamtara-engineering-vs-steamhouse-india-11789106232944.html",
-          "pubDate": "2026-09-11T11:33:56+05:30"
-        },
-        {
-          "title": "Godrej Properties share price falls 7%: What triggered the sudden sell-off in trade today?",
-          "link": "https://www.livemint.com/market/stock-market-news/godrej-properties-share-price-falls-7-what-triggered-the-sudden-sell-off-in-trade-today-orris-dispute-clarified-11789105371547.html",
-          "pubDate": "2026-09-11T11:24:51+05:30"
-        },
-        {
-          "title": "Authum Investment share price jumps 9% in a weak market; can it rise further? Experts decode",
-          "link": "https://www.livemint.com/market/stock-market-news/authum-investment-share-price-jumps-9-in-a-weak-market-can-it-rise-further-experts-decode-11789105010967.html",
-          "pubDate": "2026-09-11T11:15:22+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-09-11T14:59:10.883749+00:00",
+      "updated_at": "2026-09-11T18:09:46.735076+00:00",
       "items": [
         {
           "title": "NSE IPO: Exchange eyes revenue diversification beyond options trading",
           "link": "https://www.business-standard.com/markets/news/nse-ipo-exchange-eyes-revenue-diversification-beyond-options-trading-126091101307_1.html",
-          "pubDate": "2026-09-11T20:19:38+05:30"
+          "pubDate": "2026-09-11T20:19:45+05:30"
+        },
+        {
+          "title": "IFSCA pilots Aadhaar face authentication to ease cross-border KYC for NRIs",
+          "link": "https://www.business-standard.com/finance/news/ifsca-pilots-aadhaar-face-authentication-to-ease-cross-border-kyc-for-nris-126091101274_1.html",
+          "pubDate": "2026-09-11T19:59:15+05:30"
         },
         {
           "title": "Distribution expansion, new products to drive HDFC AMC's growth prospects",
@@ -1066,18 +1101,18 @@
           "title": "Allied Blenders & Distillers launches premium whisky 'The India Edit'",
           "link": "https://www.business-standard.com/markets/capital-market-news/allied-blenders-distillers-launches-premium-whisky-the-india-edit-126091100883_1.html",
           "pubDate": "2026-09-11T16:51:02+05:30"
-        },
-        {
-          "title": "IndusInd Bank launches OD/CC-linked Corporate Credit Card",
-          "link": "https://www.business-standard.com/markets/capital-market-news/indusind-bank-launches-od-cc-linked-corporate-credit-card-126091100882_1.html",
-          "pubDate": "2026-09-11T16:50:49+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-09-11T14:59:11.673716+00:00",
+      "updated_at": "2026-09-11T18:09:47.639539+00:00",
       "items": [
+        {
+          "title": "RBI invites comments on the Draft “Reserve Bank of India (Know Your Customer) Amendment Directions, 2026”",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63587",
+          "pubDate": "2026-09-11T21:40:00+00:00"
+        },
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on September 15, 2026",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63586",
@@ -1089,7 +1124,7 @@
           "pubDate": "2026-09-11T17:50:00+00:00"
         },
         {
-          "title": "RBI announces OMO Sale of Government of India Securities (<font color=\"red\">Revised</font>)",
+          "title": "RBI announces OMO Sale of Government of India Securities",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63584",
           "pubDate": "2026-09-11T17:40:00+00:00"
         },
@@ -1122,11 +1157,6 @@
           "title": "Government Stock - Auction Results: Cut-off",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63578",
           "pubDate": "2026-09-11T14:25:00+00:00"
-        },
-        {
-          "title": "Result of the 4-day Variable Rate Reverse Repo (VRRR) auction held on September 11, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63577",
-          "pubDate": "2026-09-11T11:50:00+00:00"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T15:02:51.064578+00:00",
+  "generated_at": "2026-09-13T18:09:08.138145+00:00",
   "indices": {
     "nifty50": {
       "price": 23398.1,
@@ -68,11 +68,11 @@
         23398.099609375
       ],
       "ok": true,
-      "updated_at": "2026-09-13T15:02:48.193231+00:00"
+      "updated_at": "2026-09-13T18:09:06.275195+00:00"
     },
     "sensex": {
       "price": 74781.76,
-      "change": -120.83,
+      "change": -120.84,
       "pct": -0.1613,
       "closes": [
         74369.6015625,
@@ -137,12 +137,12 @@
         74781.7578125
       ],
       "ok": true,
-      "updated_at": "2026-09-13T15:02:48.339739+00:00"
+      "updated_at": "2026-09-13T18:09:06.318115+00:00"
     },
     "banknifty": {
       "price": 56606.55,
-      "change": 134.6,
-      "pct": 0.2383,
+      "change": 134.65,
+      "pct": 0.2384,
       "closes": [
         56033.3984375,
         56041.1484375,
@@ -206,7 +206,7 @@
         56606.55078125
       ],
       "ok": true,
-      "updated_at": "2026-09-13T15:02:48.512919+00:00"
+      "updated_at": "2026-09-13T18:09:06.368958+00:00"
     },
     "vix": {
       "price": 12.285,
@@ -275,12 +275,12 @@
         12.28499984741211
       ],
       "ok": true,
-      "updated_at": "2026-09-13T15:02:48.751793+00:00"
+      "updated_at": "2026-09-13T18:09:06.421944+00:00"
     },
     "usdinr": {
-      "price": 95.55,
-      "change": 0.11,
-      "pct": 0.1153,
+      "price": 95.54,
+      "change": 0.1,
+      "pct": 0.1048,
       "closes": [
         95.70500183105469,
         95.68499755859375,
@@ -344,7 +344,7 @@
         95.54000091552734
       ],
       "ok": true,
-      "updated_at": "2026-09-13T15:02:48.978749+00:00"
+      "updated_at": "2026-09-13T18:09:06.470619+00:00"
     },
     "gold": {
       "price": 4408.9,
@@ -352,7 +352,7 @@
       "pct": 0.0363,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-09-13T15:02:49.148274+00:00"
+      "updated_at": "2026-09-13T18:09:06.515723+00:00"
     },
     "crude": {
       "price": 100.05,
@@ -360,7 +360,7 @@
       "pct": -2.3712,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-09-13T15:02:49.350198+00:00"
+      "updated_at": "2026-09-13T18:09:06.555103+00:00"
     },
     "us10y": {
       "price": 4.975,
@@ -429,13 +429,13 @@
         4.974999904632568
       ],
       "ok": true,
-      "updated_at": "2026-09-13T15:02:49.572454+00:00"
+      "updated_at": "2026-09-13T18:09:06.610681+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-09-13T15:02:49.827360+00:00",
+      "updated_at": "2026-09-13T18:09:06.771240+00:00",
       "items": [
         {
           "title": "Nifty may rebound to 23,800; Rupak De picks Apollo, Laurus Labs and Eternal for the week",
@@ -591,7 +591,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-09-13T15:02:49.968691+00:00",
+      "updated_at": "2026-09-13T18:09:06.966637+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -672,8 +672,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-09-13T15:02:50.236851+00:00",
+      "updated_at": "2026-09-13T18:09:07.177039+00:00",
       "items": [
+        {
+          "title": "Penny stock under  ₹10: Nearly 170% up in 6 months — FMCG share declares expansion of overseas business",
+          "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-nearly-170-up-in-6-months-fmcg-share-declares-expansion-of-overseas-business-11789311265556.html",
+          "pubDate": "2026-09-13T20:54:55+05:30"
+        },
         {
           "title": "Small-cap multibagger stock: 135% return in YTD | Defence subsidiary wins  ₹33 crore aerospace order",
           "link": "https://www.livemint.com/market/stock-market-news/smallcap-multibagger-stock-135-return-in-ytd-defence-subsidiary-wins-rs-33-crore-aerospace-order-11789305522331.html",
@@ -818,22 +823,17 @@
           "title": "Live cattle futures higher on strengthening cash market, short covering",
           "link": "https://www.livemint.com/market/live-cattle-futures-higher-on-strengthening-cash-market-short-covering-11789154750805.html",
           "pubDate": "2026-09-12T00:55:50+05:30"
-        },
-        {
-          "title": "Wall Street rallies as strong inflation data cements rate-hike bets",
-          "link": "https://www.livemint.com/market/wall-street-rallies-as-strong-inflation-data-cements-rate-hike-bets-11789151749335.html",
-          "pubDate": "2026-09-12T00:05:48+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-09-13T15:02:50.462801+00:00",
+      "updated_at": "2026-09-13T18:09:07.333102+00:00",
       "items": [
         {
           "title": "Fed decision, inflation, oil may drive markets in holiday-shortened week",
           "link": "https://www.business-standard.com/markets/news/fed-decision-inflation-oil-may-drive-markets-in-holiday-shortened-week-126091300251_1.html",
-          "pubDate": "2026-09-13T13:47:26+05:30"
+          "pubDate": "2026-09-13T13:47:14+05:30"
         },
         {
           "title": "FPIs withdraw ₹13,138 crore from equities in Sep amid global uncertainty",
@@ -984,7 +984,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-09-13T15:02:51.064473+00:00",
+      "updated_at": "2026-09-13T18:09:08.138130+00:00",
       "items": [
         {
           "title": "RBI invites comments on the Draft “Reserve Bank of India (Know Your Customer) Amendment Directions, 2026”",

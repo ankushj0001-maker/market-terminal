@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T20:44:06.224459+00:00",
+  "generated_at": "2026-09-13T22:36:34.948273+00:00",
   "indices": {
     "nifty50": {
       "price": 23398.1,
@@ -68,7 +68,7 @@
         23398.099609375
       ],
       "ok": true,
-      "updated_at": "2026-09-13T20:44:03.424845+00:00"
+      "updated_at": "2026-09-13T22:36:32.989564+00:00"
     },
     "sensex": {
       "price": 74781.76,
@@ -137,7 +137,7 @@
         74781.7578125
       ],
       "ok": true,
-      "updated_at": "2026-09-13T20:44:03.492913+00:00"
+      "updated_at": "2026-09-13T22:36:33.052082+00:00"
     },
     "banknifty": {
       "price": 56606.55,
@@ -206,7 +206,7 @@
         56606.55078125
       ],
       "ok": true,
-      "updated_at": "2026-09-13T20:44:03.533654+00:00"
+      "updated_at": "2026-09-13T22:36:33.089714+00:00"
     },
     "vix": {
       "price": 12.285,
@@ -275,7 +275,7 @@
         12.28499984741211
       ],
       "ok": true,
-      "updated_at": "2026-09-13T20:44:03.585327+00:00"
+      "updated_at": "2026-09-13T22:36:33.212925+00:00"
     },
     "usdinr": {
       "price": 95.54,
@@ -344,23 +344,35 @@
         95.54000091552734
       ],
       "ok": true,
-      "updated_at": "2026-09-13T20:44:03.645239+00:00"
+      "updated_at": "2026-09-13T22:36:33.293079+00:00"
     },
     "gold": {
-      "price": 4408.9,
-      "change": 0.0,
-      "pct": 0.0,
-      "closes": [],
+      "price": 4373.3,
+      "change": -35.6,
+      "pct": -0.8075,
+      "closes": [
+        4372.0,
+        4374.10009765625,
+        4369.39990234375,
+        4376.89990234375,
+        4373.2998046875
+      ],
       "ok": true,
-      "updated_at": "2026-09-13T20:44:03.687855+00:00"
+      "updated_at": "2026-09-13T22:36:33.339653+00:00"
     },
     "crude": {
-      "price": 100.05,
-      "change": 0.0,
-      "pct": 0.0,
-      "closes": [],
+      "price": 102.84,
+      "change": 2.79,
+      "pct": 2.7886,
+      "closes": [
+        103.16999816894531,
+        102.91999816894531,
+        102.83999633789062,
+        102.81999969482422,
+        102.83999633789062
+      ],
       "ok": true,
-      "updated_at": "2026-09-13T20:44:03.722832+00:00"
+      "updated_at": "2026-09-13T22:36:33.438459+00:00"
     },
     "us10y": {
       "price": 4.975,
@@ -429,13 +441,13 @@
         4.974999904632568
       ],
       "ok": true,
-      "updated_at": "2026-09-13T20:44:03.771668+00:00"
+      "updated_at": "2026-09-13T22:36:33.539707+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-09-13T20:44:05.044063+00:00",
+      "updated_at": "2026-09-13T22:36:33.648116+00:00",
       "items": [
         {
           "title": "Nifty may rebound to 23,800; Rupak De picks Apollo, Laurus Labs and Eternal for the week",
@@ -672,7 +684,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-09-13T20:44:05.293254+00:00",
+      "updated_at": "2026-09-13T22:36:33.958689+00:00",
       "items": [
         {
           "title": "Wall Street Week Ahead: Markets brace for Federal Reserve rate decision",
@@ -828,7 +840,7 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-09-13T20:44:05.431780+00:00",
+      "updated_at": "2026-09-13T22:36:34.137460+00:00",
       "items": [
         {
           "title": "Fed decision, inflation, oil may drive markets in holiday-shortened week",
@@ -984,7 +996,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-09-13T20:44:06.224445+00:00",
+      "updated_at": "2026-09-13T22:36:34.948257+00:00",
       "items": [
         {
           "title": "RBI invites comments on the Draft “Reserve Bank of India (Know Your Customer) Amendment Directions, 2026”",

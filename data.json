@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T01:11:34.016949+00:00",
+  "generated_at": "2026-09-13T06:05:28.581370+00:00",
   "indices": {
     "nifty50": {
       "price": 23398.1,
@@ -68,11 +68,11 @@
         23398.099609375
       ],
       "ok": true,
-      "updated_at": "2026-09-13T01:11:31.878466+00:00"
+      "updated_at": "2026-09-13T06:05:25.259210+00:00"
     },
     "sensex": {
       "price": 74781.76,
-      "change": -120.84,
+      "change": -120.83,
       "pct": -0.1613,
       "closes": [
         74369.6015625,
@@ -137,12 +137,12 @@
         74781.7578125
       ],
       "ok": true,
-      "updated_at": "2026-09-13T01:11:31.926577+00:00"
+      "updated_at": "2026-09-13T06:05:25.386202+00:00"
     },
     "banknifty": {
       "price": 56606.55,
-      "change": 134.65,
-      "pct": 0.2384,
+      "change": 134.6,
+      "pct": 0.2383,
       "closes": [
         56033.3984375,
         56041.1484375,
@@ -206,12 +206,12 @@
         56606.55078125
       ],
       "ok": true,
-      "updated_at": "2026-09-13T01:11:32.186725+00:00"
+      "updated_at": "2026-09-13T06:05:25.528330+00:00"
     },
     "vix": {
       "price": 12.285,
-      "change": 0.485,
-      "pct": 4.1102,
+      "change": 0.49,
+      "pct": 4.1543,
       "closes": [
         12.337499618530273,
         12.375,
@@ -275,13 +275,14 @@
         12.28499984741211
       ],
       "ok": true,
-      "updated_at": "2026-09-13T01:11:32.235643+00:00"
+      "updated_at": "2026-09-13T06:05:25.714696+00:00"
     },
     "usdinr": {
-      "price": 95.54,
-      "change": 0.1,
-      "pct": 0.1048,
+      "price": 95.55,
+      "change": 0.11,
+      "pct": 0.1153,
       "closes": [
+        95.70500183105469,
         95.68499755859375,
         95.71499633789062,
         95.71749877929688,
@@ -340,149 +341,26 @@
         95.55000305175781,
         95.54000091552734,
         95.54000091552734,
-        95.54000091552734,
         95.54000091552734
       ],
       "ok": true,
-      "updated_at": "2026-09-13T01:11:32.284605+00:00"
+      "updated_at": "2026-09-13T06:05:25.883942+00:00"
     },
     "gold": {
       "price": 4408.9,
       "change": 1.6,
       "pct": 0.0363,
-      "closes": [
-        4413.60009765625,
-        4408.60009765625,
-        4403.0,
-        4401.0,
-        4394.39990234375,
-        4396.2001953125,
-        4405.7998046875,
-        4401.2001953125,
-        4405.39990234375,
-        4402.2998046875,
-        4403.0,
-        4403.7998046875,
-        4405.2001953125,
-        4405.89990234375,
-        4407.60009765625,
-        4409.7998046875,
-        4411.10009765625,
-        4409.10009765625,
-        4411.5,
-        4404.7001953125,
-        4404.39990234375,
-        4404.0,
-        4405.10009765625,
-        4400.60009765625,
-        4402.39990234375,
-        4396.2001953125,
-        4389.0,
-        4391.7998046875,
-        4391.39990234375,
-        4392.89990234375,
-        4390.2998046875,
-        4389.2998046875,
-        4389.2001953125,
-        4387.2001953125,
-        4387.2998046875,
-        4389.10009765625,
-        4389.60009765625,
-        4389.2001953125,
-        4394.10009765625,
-        4391.39990234375,
-        4393.7998046875,
-        4389.60009765625,
-        4389.5,
-        4389.10009765625,
-        4388.89990234375,
-        4385.5,
-        4387.60009765625,
-        4391.0,
-        4391.39990234375,
-        4392.7001953125,
-        4391.10009765625,
-        4391.5,
-        4391.7001953125,
-        4390.7998046875,
-        4390.0,
-        4390.60009765625,
-        4388.7001953125,
-        4389.7001953125,
-        4390.60009765625,
-        4408.89990234375
-      ],
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-09-13T01:11:32.332268+00:00"
+      "updated_at": "2026-09-13T06:05:25.985367+00:00"
     },
     "crude": {
       "price": 100.05,
       "change": -2.43,
       "pct": -2.3712,
-      "closes": [
-        99.62000274658203,
-        99.88999938964844,
-        99.7699966430664,
-        99.7300033569336,
-        99.70999908447266,
-        99.95999908447266,
-        99.83999633789062,
-        100.13999938964844,
-        99.69000244140625,
-        99.9000015258789,
-        100.19000244140625,
-        100.11000061035156,
-        100.08999633789062,
-        99.98999786376953,
-        99.58999633789062,
-        99.69999694824219,
-        99.5199966430664,
-        99.48999786376953,
-        99.52999877929688,
-        99.69999694824219,
-        99.94999694824219,
-        99.81999969482422,
-        99.80000305175781,
-        99.81999969482422,
-        99.58000183105469,
-        99.55000305175781,
-        99.80999755859375,
-        99.93000030517578,
-        100.37999725341797,
-        100.08000183105469,
-        100.0,
-        100.04000091552734,
-        100.33000183105469,
-        100.54000091552734,
-        100.48999786376953,
-        100.4800033569336,
-        100.44000244140625,
-        100.45999908447266,
-        100.48999786376953,
-        100.61000061035156,
-        100.56999969482422,
-        100.5999984741211,
-        100.5199966430664,
-        100.6500015258789,
-        100.66999816894531,
-        100.63999938964844,
-        100.68000030517578,
-        100.62000274658203,
-        100.41000366210938,
-        100.31999969482422,
-        100.2300033569336,
-        100.36000061035156,
-        100.25,
-        100.30000305175781,
-        100.25,
-        100.29000091552734,
-        100.30000305175781,
-        100.04000091552734,
-        100.05999755859375,
-        100.05000305175781
-      ],
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-09-13T01:11:32.379493+00:00"
+      "updated_at": "2026-09-13T06:05:26.145061+00:00"
     },
     "us10y": {
       "price": 4.975,
@@ -551,14 +429,24 @@
         4.974999904632568
       ],
       "ok": true,
-      "updated_at": "2026-09-13T01:11:32.422434+00:00"
+      "updated_at": "2026-09-13T06:05:26.263673+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-09-13T01:11:32.876252+00:00",
+      "updated_at": "2026-09-13T06:05:26.594185+00:00",
       "items": [
+        {
+          "title": "11 penny stocks rose up to 156% in just 6 months. Do you own any?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/11-penny-stocks-rose-up-to-156-in-just-6-months-do-you-own-any/slideshow/134179438.cms",
+          "pubDate": "2026-09-13T10:24:27+05:30"
+        },
+        {
+          "title": "Market Outlook: Can Nifty find its footing as crude, Fed policy drive markets?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/weekly-market-outlook-can-nifty-find-its-footing-as-crude-fed-policy-drive-markets/articleshow/134178071.cms",
+          "pubDate": "2026-09-13T10:05:56+05:30"
+        },
         {
           "title": "HDFC Bank submits two candidates to RBI for next CEO",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-submits-names-of-two-ceo-candidates-to-rbi-reports/articleshow/134129717.cms",
@@ -575,19 +463,9 @@
           "pubDate": "2026-09-12T15:28:13+05:30"
         },
         {
-          "title": "F&amp;O Talk: Nifty has slipped below its crucial support, says Sudeep Shah; picks 5 stocks for next week",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-has-slipped-below-its-crucial-support-says-sudeep-shah-picks-5-stocks-for-next-week/articleshow/134119208.cms",
-          "pubDate": "2026-09-12T14:15:44+05:30"
-        },
-        {
           "title": "BSE volumes ease after sharp rebound; CAS remains in focus: Nuvama",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-volumes-ease-after-sharp-rebound-cas-remains-in-focus-nuvama/articleshow/134115840.cms",
           "pubDate": "2026-09-12T13:03:25+05:30"
-        },
-        {
-          "title": "Concurrent Gainers: 9 smallcap stocks gain for 5 days in a row",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-9-smallcap-stocks-gain-for-5-days-in-a-row/slideshow/134112346.cms",
-          "pubDate": "2026-09-12T11:25:00+05:30"
         },
         {
           "title": "Nepal rescuers continue search for missing as identification of dead remains challenge",
@@ -712,8 +590,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-09-12T17:54:06.437296+00:00",
+      "ok": true,
+      "updated_at": "2026-09-13T06:05:27.452765+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +672,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-09-13T01:11:33.084607+00:00",
+      "updated_at": "2026-09-13T06:05:27.593105+00:00",
       "items": [
+        {
+          "title": "Top stocks to buy under  ₹100 by Sumeet Bagadia: Inox Wind, South Indian Bank, Paisalo Digital; check stop-loss, target",
+          "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-under-100-by-sumeet-bagadia-inox-wind-south-indian-bank-paisalo-digital-check-stop-loss-target-11789277605159.html",
+          "pubDate": "2026-09-13T11:25:28+05:30"
+        },
+        {
+          "title": "Sensex, Nifty prediction for Tuesday: NSE, BSE closed tomorrow on Ganesha Chaturthi - Outlook for stock market 15th Sept",
+          "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-prediction-for-tuesday-nse-bse-closed-tomorrow-on-ganesha-chaturthi-outlook-for-stock-market-15th-sept-11789270500682.html",
+          "pubDate": "2026-09-13T10:33:30+05:30"
+        },
         {
           "title": "Korea Tests Global Investor Appetite With Longer Trading Hours",
           "link": "https://www.livemint.com/market/korea-tests-global-investor-appetite-with-longer-trading-hours-11789261530232.html",
@@ -935,23 +823,18 @@
           "title": "Small cap stock: Exporter of stainless-steel washers entering electronic materials space - Choice says buy; target price",
           "link": "https://www.livemint.com/market/stock-market-news/small-cap-stock-exporter-of-stainless-steel-washers-entering-electronic-materials-space-choice-says-buy-target-price-11789129722898.html",
           "pubDate": "2026-09-11T18:15:51+05:30"
-        },
-        {
-          "title": "US market prediction: Dow, S&amp;P 500, Nasdaq futures rise as oil prices retreat ahead of key CPI data",
-          "link": "https://www.livemint.com/market/stock-market-news/us-market-prediction-dow-s-p-500-nasdaq-futures-rise-as-oil-prices-retreat-ahead-of-key-cpi-data-11789123899556.html",
-          "pubDate": "2026-09-11T17:29:11+05:30"
-        },
-        {
-          "title": "NSE IPO: NSE shares not to trade on its own platform? No application filed with SEBI to trade own shares, says CEO",
-          "link": "https://www.livemint.com/market/ipo/nse-ipo-nse-shares-not-to-trade-on-its-own-platform-no-application-filed-with-sebi-to-trade-own-shares-says-ceo-11789127151946.html",
-          "pubDate": "2026-09-11T17:21:22+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-09-13T01:11:33.314778+00:00",
+      "updated_at": "2026-09-13T06:05:27.824265+00:00",
       "items": [
+        {
+          "title": "FPIs withdraw ₹13,138 crore from equities in Sep amid global uncertainty",
+          "link": "https://www.business-standard.com/markets/news/fpis-withdraw-13-138-crore-from-equities-in-sep-amid-global-uncertainty-126091300134_1.html",
+          "pubDate": "2026-09-13T10:58:34+05:30"
+        },
         {
           "title": "NTPC Green Energy adds 6.3 MW capacity",
           "link": "https://www.business-standard.com/markets/capital-market-news/ntpc-green-energy-adds-6-3-mw-capacity-126091200568_1.html",
@@ -1096,66 +979,61 @@
           "title": "Spectrum Electrical Industries raises Rs 324.98 cr via equity issuance",
           "link": "https://www.business-standard.com/markets/capital-market-news/spectrum-electrical-industries-raises-rs-324-98-cr-via-equity-issuance-126091101202_1.html",
           "pubDate": "2026-09-11T19:16:02+05:30"
-        },
-        {
-          "title": "JSW Port Logistics receives LoI for setting up Inland Container Depot at Ballari, Karnataka",
-          "link": "https://www.business-standard.com/markets/capital-market-news/jsw-port-logistics-receives-loi-for-setting-up-inland-container-depot-at-ballari-karnataka-126091101175_1.html",
-          "pubDate": "2026-09-11T19:04:01+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-09-13T01:11:34.016932+00:00",
+      "updated_at": "2026-09-13T06:05:28.581354+00:00",
       "items": [
         {
           "title": "RBI invites comments on the Draft “Reserve Bank of India (Know Your Customer) Amendment Directions, 2026”",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63587",
+          "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63587",
           "pubDate": "2026-09-11T21:40:00+00:00"
         },
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on September 15, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63586",
+          "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63586",
           "pubDate": "2026-09-11T19:05:00+00:00"
         },
         {
           "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63585",
+          "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63585",
           "pubDate": "2026-09-11T17:50:00+00:00"
         },
         {
           "title": "RBI announces OMO Sale of Government of India Securities",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63584",
+          "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63584",
           "pubDate": "2026-09-11T17:40:00+00:00"
         },
         {
           "title": "RBI imposes monetary penalty on Asset Care & Reconstruction Enterprise Limited",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63583",
+          "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63583",
           "pubDate": "2026-09-11T17:35:00+00:00"
         },
         {
           "title": "Money Supply for the fortnight ended on August 31, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63582",
+          "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63582",
           "pubDate": "2026-09-11T17:05:00+00:00"
         },
         {
           "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63581",
+          "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63581",
           "pubDate": "2026-09-11T17:00:00+00:00"
         },
         {
           "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Loknete R.D. (Appa) Kshirsagar Sahakari Bank Ltd., Niphad, Tal. Niphad, Dist. Nashik – Extension of Period",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63580",
+          "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63580",
           "pubDate": "2026-09-11T16:05:00+00:00"
         },
         {
           "title": "Government Stock - Full Auction Results",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63579",
+          "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63579",
           "pubDate": "2026-09-11T16:00:00+00:00"
         },
         {
           "title": "Government Stock - Auction Results: Cut-off",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63578",
+          "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63578",
           "pubDate": "2026-09-11T14:25:00+00:00"
         }
       ]

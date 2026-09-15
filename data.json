@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:53:33.789453+00:00",
+  "generated_at": "2026-09-15T19:53:02.754206+00:00",
   "indices": {
     "nifty50": {
       "price": 23118.6,
@@ -68,7 +68,7 @@
         23118.599609375
       ],
       "ok": true,
-      "updated_at": "2026-09-15T16:53:30.690435+00:00"
+      "updated_at": "2026-09-15T19:52:59.648668+00:00"
     },
     "sensex": {
       "price": 74003.82,
@@ -137,7 +137,7 @@
         74003.8203125
       ],
       "ok": true,
-      "updated_at": "2026-09-15T16:53:30.789600+00:00"
+      "updated_at": "2026-09-15T19:52:59.834099+00:00"
     },
     "banknifty": {
       "price": 55794.75,
@@ -206,7 +206,7 @@
         55794.75
       ],
       "ok": true,
-      "updated_at": "2026-09-15T16:53:30.970740+00:00"
+      "updated_at": "2026-09-15T19:52:59.997403+00:00"
     },
     "vix": {
       "price": 13.432,
@@ -275,15 +275,13 @@
         13.432499885559082
       ],
       "ok": true,
-      "updated_at": "2026-09-15T16:53:31.078539+00:00"
+      "updated_at": "2026-09-15T19:53:00.180665+00:00"
     },
     "usdinr": {
-      "price": 95.945,
-      "change": 0.405,
-      "pct": 0.4239,
+      "price": 95.849,
+      "change": 0.309,
+      "pct": 0.3234,
       "closes": [
-        95.86000061035156,
-        95.86250305175781,
         95.875,
         95.85700225830078,
         95.88200378417969,
@@ -341,52 +339,18 @@
         95.94499969482422,
         95.94499969482422,
         95.94499969482422,
-        95.94499969482422
+        95.8489990234375,
+        95.8489990234375,
+        95.8489990234375
       ],
       "ok": true,
-      "updated_at": "2026-09-15T16:53:31.178030+00:00"
+      "updated_at": "2026-09-15T19:53:00.404804+00:00"
     },
     "gold": {
-      "price": 4335.0,
-      "change": -16.9,
-      "pct": -0.3883,
+      "price": 4337.2,
+      "change": -14.7,
+      "pct": -0.3378,
       "closes": [
-        4322.7998046875,
-        4324.39990234375,
-        4324.2998046875,
-        4317.60009765625,
-        4318.5,
-        4314.0,
-        4313.10009765625,
-        4317.60009765625,
-        4322.5,
-        4318.89990234375,
-        4321.2001953125,
-        4330.39990234375,
-        4333.2998046875,
-        4330.60009765625,
-        4332.7998046875,
-        4325.2998046875,
-        4326.7998046875,
-        4327.2998046875,
-        4332.2001953125,
-        4327.39990234375,
-        4326.5,
-        4326.39990234375,
-        4329.60009765625,
-        4334.7998046875,
-        4335.2998046875,
-        4334.60009765625,
-        4334.7001953125,
-        4337.7998046875,
-        4334.5,
-        4334.0,
-        4328.7998046875,
-        4324.39990234375,
-        4323.89990234375,
-        4317.60009765625,
-        4318.10009765625,
-        4318.10009765625,
         4320.10009765625,
         4316.7998046875,
         4322.7998046875,
@@ -410,52 +374,52 @@
         4333.2001953125,
         4335.60009765625,
         4336.7998046875,
-        4335.0
+        4335.60009765625,
+        4337.7001953125,
+        4335.60009765625,
+        4331.7001953125,
+        4332.89990234375,
+        4335.39990234375,
+        4336.39990234375,
+        4333.39990234375,
+        4333.7001953125,
+        4337.7998046875,
+        4336.2998046875,
+        4333.7998046875,
+        4335.60009765625,
+        4335.7001953125,
+        4335.2998046875,
+        4335.2998046875,
+        4336.7998046875,
+        4342.39990234375,
+        4345.39990234375,
+        4345.0,
+        4345.0,
+        4343.2001953125,
+        4343.7998046875,
+        4344.89990234375,
+        4347.0,
+        4348.7998046875,
+        4348.7001953125,
+        4344.7001953125,
+        4343.7998046875,
+        4339.89990234375,
+        4339.7001953125,
+        4341.0,
+        4340.89990234375,
+        4339.39990234375,
+        4338.5,
+        4336.39990234375,
+        4337.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-09-15T16:53:31.356668+00:00"
+      "updated_at": "2026-09-15T19:53:00.565498+00:00"
     },
     "crude": {
-      "price": 105.98,
-      "change": 4.59,
-      "pct": 4.5271,
+      "price": 105.68,
+      "change": 4.29,
+      "pct": 4.2312,
       "closes": [
-        102.27999877929688,
-        102.3499984741211,
-        102.37999725341797,
-        102.5199966430664,
-        102.58000183105469,
-        102.9000015258789,
-        103.0,
-        103.0,
-        102.86000061035156,
-        102.77999877929688,
-        102.44000244140625,
-        101.33999633789062,
-        101.41000366210938,
-        101.79000091552734,
-        101.31999969482422,
-        101.83000183105469,
-        101.83999633789062,
-        101.68000030517578,
-        102.16000366210938,
-        102.93000030517578,
-        103.69999694824219,
-        103.54000091552734,
-        103.55999755859375,
-        103.2300033569336,
-        102.83999633789062,
-        103.2699966430664,
-        103.5,
-        103.43000030517578,
-        103.5999984741211,
-        103.54000091552734,
-        103.73999786376953,
-        103.7699966430664,
-        104.0999984741211,
-        104.41999816894531,
-        104.12999725341797,
-        104.06999969482422,
         104.30000305175781,
         104.69999694824219,
         104.62000274658203,
@@ -479,36 +443,52 @@
         105.3499984741211,
         105.7699966430664,
         105.97000122070312,
-        105.9800033569336
+        105.91000366210938,
+        106.02999877929688,
+        106.13999938964844,
+        106.06999969482422,
+        106.5199966430664,
+        106.45999908447266,
+        106.37999725341797,
+        106.5199966430664,
+        106.5,
+        106.5199966430664,
+        106.37000274658203,
+        106.41999816894531,
+        106.38999938964844,
+        106.5199966430664,
+        106.47000122070312,
+        106.0999984741211,
+        106.05999755859375,
+        105.95999908447266,
+        105.77999877929688,
+        105.70999908447266,
+        105.81999969482422,
+        105.91000366210938,
+        106.06999969482422,
+        105.9800033569336,
+        105.86000061035156,
+        105.87000274658203,
+        105.69000244140625,
+        105.5199966430664,
+        105.55000305175781,
+        105.66000366210938,
+        105.58000183105469,
+        105.62000274658203,
+        105.56999969482422,
+        105.6500015258789,
+        105.68000030517578,
+        105.7699966430664,
+        105.68000030517578
       ],
       "ok": true,
-      "updated_at": "2026-09-15T16:53:31.492257+00:00"
+      "updated_at": "2026-09-15T19:53:00.798593+00:00"
     },
     "us10y": {
-      "price": 5.0,
-      "change": 0.039,
-      "pct": 0.7861,
+      "price": 4.996,
+      "change": 0.035,
+      "pct": 0.7055,
       "closes": [
-        5.013999938964844,
-        5.008000373840332,
-        4.998000144958496,
-        4.998000144958496,
-        5.0,
-        4.986999988555908,
-        4.990000247955322,
-        4.995999813079834,
-        4.991999626159668,
-        4.99399995803833,
-        4.998000144958496,
-        4.99399995803833,
-        4.995999813079834,
-        5.004000186920166,
-        5.008000373840332,
-        5.004000186920166,
-        5.008000373840332,
-        5.00600004196167,
-        5.001999855041504,
-        5.004000186920166,
         5.00600004196167,
         5.00600004196167,
         5.008000373840332,
@@ -540,47 +520,74 @@
         4.995999813079834,
         4.995999813079834,
         4.998000144958496,
-        4.998000144958496,
-        5.0
+        5.0,
+        5.0,
+        5.0,
+        4.995999813079834,
+        4.995999813079834,
+        5.009999752044678,
+        5.00600004196167,
+        5.001999855041504,
+        5.01200008392334,
+        5.013999938964844,
+        5.01200008392334,
+        5.01200008392334,
+        5.008000373840332,
+        5.008000373840332,
+        5.009999752044678,
+        5.009999752044678,
+        5.01200008392334,
+        5.008000373840332,
+        5.008000373840332,
+        5.00600004196167,
+        5.004000186920166,
+        5.001999855041504,
+        5.0,
+        5.00600004196167,
+        5.00600004196167,
+        5.001999855041504,
+        5.0,
+        5.001999855041504,
+        4.995999813079834
       ],
       "ok": true,
-      "updated_at": "2026-09-15T16:53:31.596693+00:00"
+      "updated_at": "2026-09-15T19:53:00.953945+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-09-15T16:53:31.784672+00:00",
+      "updated_at": "2026-09-15T19:53:01.145771+00:00",
       "items": [
         {
-          "title": "Tata Sons IPO: How 7 group stocks performed in 3 months and their stake in Tata Sons",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-sons-ipo-how-7-group-stocks-performed-in-3-months-and-their-stake-in-tata-sons/slideshow/134255835.cms",
-          "pubDate": "2026-09-15T13:11:16+05:30"
+          "title": "US 10-year Treasury bonds hit 19-year high ahead of Fed rate decision",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-10-year-treasury-bonds-hit-19-year-high-ahead-of-fed-rate-decision/articleshow/134268867.cms",
+          "pubDate": "2026-09-15T22:06:04+05:30"
         },
         {
-          "title": "Cochin Shipyard shares tumble 12% over 2 sessions. Should you buy after multibagger corrects 26% in a year?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cochin-shipyard-shares-tumble-12-over-2-sessions-should-you-buy-after-multibagger-corrects-26-in-a-year/articleshow/134255269.cms",
-          "pubDate": "2026-09-15T12:57:10+05:30"
+          "title": "New charges on UPI payments: Here's what you will be charged for stock market investments",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/new-charges-on-upi-payments-heres-what-you-will-be-charged-for-stock-market-investments/articleshow/134266721.cms",
+          "pubDate": "2026-09-15T19:45:44+05:30"
         },
         {
-          "title": "Paytm shares drop 3% after govt shields UPI payments only up to Rs 2,000 from charges. Should you buy the dip?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-drop-3-after-govt-shields-upi-payments-only-up-to-rs-2000-from-charges-should-you-buy-the-dip/articleshow/134254233.cms",
-          "pubDate": "2026-09-15T12:07:21+05:30"
+          "title": "Sebi plans shorter disaster recovery drills, stronger backup rules for exchanges",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-shorter-disaster-recovery-drills-stronger-backup-rules-for-exchanges/articleshow/134265901.cms",
+          "pubDate": "2026-09-15T19:10:28+05:30"
         },
         {
-          "title": "HDFC Bank share price target: What are Jefferies, 3 other foreign brokerages saying as CEO hunt intensifies?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-share-price-target-what-are-jefferies-3-other-foreign-brokerages-saying-as-ceo-hunt-intensifies/articleshow/134253758.cms",
-          "pubDate": "2026-09-15T11:38:53+05:30"
+          "title": "CAS crash: Nifty plunges 462 points in less than 30 seconds. Will Sebi’s review break trend?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-crash-nifty-plunges-462-points-in-less-than-30-seconds-will-sebis-review-break-trend/articleshow/134260167.cms",
+          "pubDate": "2026-09-15T16:43:03+05:30"
         },
         {
-          "title": "Rs 1.13 lakh crore boom in one corner, a bust in another: What changed in the AI trade?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1-13-lakh-crore-boom-in-one-corner-a-bust-in-another-what-changed-in-the-ai-trade/articleshow/134253480.cms",
-          "pubDate": "2026-09-15T11:33:14+05:30"
+          "title": "Will NSE be allowed to trade on NSE? Stock exchange may seek Sebi’s nod after listing",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/will-nse-be-allowed-to-trade-on-nse-stock-exchange-may-seek-sebis-nod-after-listing/articleshow/134260142.cms",
+          "pubDate": "2026-09-15T16:40:09+05:30"
         },
         {
-          "title": "70% NSE revenue under Sebi shadow: Is F&amp;O risk a key overhang for IPO investors?",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/70-nse-revenue-under-sebi-shadow-is-fo-risk-a-key-overhang-for-ipo-investors/articleshow/134252336.cms",
-          "pubDate": "2026-09-15T10:30:51+05:30"
+          "title": "Broadening inflation, Fed prompts traders to ramp up October India rate hike bets",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/broadening-inflation-fed-prompts-traders-to-ramp-up-october-india-rate-hike-bets/articleshow/134255510.cms",
+          "pubDate": "2026-09-15T13:12:10+05:30"
         },
         {
           "title": "Nepal rescuers continue search for missing as identification of dead remains challenge",
@@ -705,7 +712,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-09-15T16:53:32.118072+00:00",
       "items": [
         {
@@ -787,8 +794,33 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-09-15T16:53:32.394532+00:00",
+      "updated_at": "2026-09-15T19:53:01.423352+00:00",
       "items": [
+        {
+          "title": "Cryptocurrencies Extend Slide With Clarity Act on Track to Fail",
+          "link": "https://www.livemint.com/market/cryptocurrencies-extend-slide-with-clarity-act-on-track-to-fail-11789500966056.html",
+          "pubDate": "2026-09-16T01:06:05+05:30"
+        },
+        {
+          "title": "Dollar higher as oil lifts yields and Fed hike looms",
+          "link": "https://www.livemint.com/market/dollar-higher-as-oil-lifts-yields-and-fed-hike-looms-11789500230618.html",
+          "pubDate": "2026-09-16T00:53:50+05:30"
+        },
+        {
+          "title": "TREASURIES-10-year note climbs to 19-year high with Fed decision on deck",
+          "link": "https://www.livemint.com/market/treasuries10year-note-climbs-to-19-year-high-with-fed-decision-on-deck-11789498155754.html",
+          "pubDate": "2026-09-16T00:19:15+05:30"
+        },
+        {
+          "title": "Brent crude tops $109 as latest drone attacks, Iran tensions threaten key Saudi oil shipping routes",
+          "link": "https://www.livemint.com/market/stock-market-news/brent-crude-tops-109-as-latest-drone-attacks-iran-tensions-threaten-key-saudi-oil-shipping-routes-11789492468986.html",
+          "pubDate": "2026-09-15T23:25:42+05:30"
+        },
+        {
+          "title": "Oracle shares fall for sixth day in a row, drop another 3%; key factors behind slump explained",
+          "link": "https://www.livemint.com/market/stock-market-news/oracle-shares-fall-for-sixth-day-in-a-row-drop-another-3-key-factors-behind-slump-explained-11789490078751.html",
+          "pubDate": "2026-09-15T22:47:19+05:30"
+        },
         {
           "title": "US 10-year Treasury yield rises to highest since 2007 as Fed rate hike bets strengthen",
           "link": "https://www.livemint.com/market/stock-market-news/us-10-year-treasury-yield-rises-to-highest-since-2007-as-fed-rate-hike-bets-strengthen-11789480161708.html",
@@ -800,7 +832,7 @@
           "pubDate": "2026-09-15T19:25:23+05:30"
         },
         {
-          "title": "Top stocks in focus tomorrow: Investors must watch NBCC, BHEL, Bharat Forge shares on Wed, 16 Sept | Triggers",
+          "title": "Top stocks in focus today: Investors must watch NBCC, BHEL, Bharat Forge shares on Wednesday, 16 Sept | Triggers",
           "link": "https://www.livemint.com/market/top-stocks-in-focus-tomorrow-investors-must-watch-nbcc-bhel-bharat-forge-shares-on-wed-16-sept-triggers-11789478026874.html",
           "pubDate": "2026-09-15T19:17:58+05:30"
         },
@@ -850,7 +882,7 @@
           "pubDate": "2026-09-15T16:37:52+05:30"
         },
         {
-          "title": "Stock Market prediction tomorrow: Sensex, Nifty outlook for Wed | Kospi, Taiwan Index, Nikkei cues to watch | 16 Sept",
+          "title": "Stock Market prediction today: Sensex, Nifty outlook for Wed | Kospi, Taiwan Index, Nikkei cues to watch | 16 Sept",
           "link": "https://www.livemint.com/market/stock-market-prediction-tomorrow-sensex-nifty-outlook-for-wed-kospi-taiwan-index-nikkei-cues-to-watch-16-sept-11789465506120.html",
           "pubDate": "2026-09-15T15:54:47+05:30"
         },
@@ -913,38 +945,18 @@
           "title": "Leather stocks down today: Super Tannery, AKI India, Amin Tannery, Euro-Leder Fashion under pressure; Here's why",
           "link": "https://www.livemint.com/market/stock-market-news/leather-stocks-down-today-super-tannery-aki-india-amin-tannery-euro-leder-fashion-under-pressure-heres-why-11789457985924.html",
           "pubDate": "2026-09-15T13:28:31+05:30"
-        },
-        {
-          "title": "Pranav Constructions shares hit 20% lower circuit after strong debut | Buy, sell or hold?",
-          "link": "https://www.livemint.com/market/stock-market-news/pranav-constructions-shares-hit-20-lower-circuit-after-strong-debut-buy-sell-or-hold-11789457002882.html",
-          "pubDate": "2026-09-15T13:19:46+05:30"
-        },
-        {
-          "title": "AI-led digital tech stock Kelton Tech Solutions around 7% | Do you own?",
-          "link": "https://www.livemint.com/market/stock-market-news/ailed-digital-tech-stock-kelton-tech-solutions-around-7-do-you-own-11789455094024.html",
-          "pubDate": "2026-09-15T12:42:46+05:30"
-        },
-        {
-          "title": "Zensar Technologies share price jumps over 13% amid stock market rally. Do you own?",
-          "link": "https://www.livemint.com/market/stock-market-news/zensar-technologies-share-price-jumps-over-13-amid-stock-market-rally-do-you-own-11789452727664.html",
-          "pubDate": "2026-09-15T12:28:42+05:30"
-        },
-        {
-          "title": "ICICI Securities says buy this NBFC stock, sees 59% upside after an 80% jump in 6 months - Check target price",
-          "link": "https://www.livemint.com/market/stock-market-news/icici-securities-says-buy-this-nbfc-stock-sees-59-upside-after-an-80-jump-in-6-months-check-target-price-11789453421587.html",
-          "pubDate": "2026-09-15T12:26:55+05:30"
-        },
-        {
-          "title": "Firstsource Solutions share price jumps 18% after 7-day losing streak | What triggered the comeback?",
-          "link": "https://www.livemint.com/market/stock-market-news/firstsource-solutions-share-price-jumps-18-after-7-day-losing-streak-what-triggered-the-comeback-11789452706679.html",
-          "pubDate": "2026-09-15T12:16:47+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-09-15T16:53:32.552465+00:00",
+      "updated_at": "2026-09-15T19:53:01.628314+00:00",
       "items": [
+        {
+          "title": "Crude oil spike drags rupee to nearly 96 per dollar; Nifty dips 1.2%",
+          "link": "https://www.business-standard.com/markets/news/crude-oil-spike-drags-rupee-to-nearly-96-per-dollar-nifty-dips-1-2-126091501452_1.html",
+          "pubDate": "2026-09-15T23:32:58+05:30"
+        },
         {
           "title": "Bharat Forge collaborates with Pratt & Whitney Canada",
           "link": "https://www.business-standard.com/markets/capital-market-news/bharat-forge-collaborates-with-pratt-whitney-canada-126091501122_1.html",
@@ -981,11 +993,6 @@
           "pubDate": "2026-09-15T17:19:49+05:30"
         },
         {
-          "title": "NSE IPO draws 'unexpectedly large' demand, anchor book tops ₹6,000 cr: CEO",
-          "link": "https://www.business-standard.com/markets/ipo/nse-ipo-draws-unexpectedly-large-demand-anchor-book-tops-6-000-cr-ceo-126091500875_1.html",
-          "pubDate": "2026-09-15T17:16:49+05:30"
-        },
-        {
           "title": "Shares tumble as rising oil prices and bond yields intensify pressure",
           "link": "https://www.business-standard.com/markets/capital-market-news/shares-tumble-as-rising-oil-prices-and-bond-yields-intensify-pressure-126091500871_1.html",
           "pubDate": "2026-09-15T17:16:10+05:30"
@@ -994,6 +1001,11 @@
           "title": "Quick Wrap: Nifty Realty Index registers a drop of 4.04%, NIFTY Crashes  1.19%",
           "link": "https://www.business-standard.com/markets/capital-market-news/quick-wrap-nifty-realty-index-registers-a-drop-of-4-04-nifty-crashes-1-19-126091500870_1.html",
           "pubDate": "2026-09-15T17:16:02+05:30"
+        },
+        {
+          "title": "NSE IPO draws 'unexpectedly large' demand, anchor book tops ₹6,000 cr: CEO",
+          "link": "https://www.business-standard.com/markets/ipo/nse-ipo-draws-unexpectedly-large-demand-anchor-book-tops-6-000-cr-ceo-126091500875_1.html",
+          "pubDate": "2026-09-15T17:16:01+05:30"
         },
         {
           "title": "Foreign investors pull ₹5,109 cr from govt bonds in 3 days amid uncertainty",
@@ -1089,17 +1101,12 @@
           "title": "Aurobindo Pharma receives USFDA approval for Beclomethasone Dipropionate HFA Inhalation Aerosol",
           "link": "https://www.business-standard.com/markets/capital-market-news/aurobindo-pharma-receives-usfda-approval-for-beclomethasone-dipropionate-hfa-inhalation-aerosol-126091500646_1.html",
           "pubDate": "2026-09-15T15:16:01+05:30"
-        },
-        {
-          "title": "eMudhra zooms 20% amid huge volumes in weak market; here's why",
-          "link": "https://www.business-standard.com/markets/news/emudhra-share-price-zooms-20-amid-huge-volumes-in-weak-market-here-s-why-126091500540_1.html",
-          "pubDate": "2026-09-15T15:05:19+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-09-15T16:53:33.789406+00:00",
+      "updated_at": "2026-09-15T19:53:02.754160+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on September 16, 2026",

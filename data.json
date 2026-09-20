@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T20:45:33.402437+00:00",
+  "generated_at": "2026-09-20T22:45:19.804285+00:00",
   "indices": {
     "nifty50": {
       "price": 23346.4,
@@ -68,7 +68,7 @@
         23346.400390625
       ],
       "ok": true,
-      "updated_at": "2026-09-20T20:45:31.566912+00:00"
+      "updated_at": "2026-09-20T22:45:18.119005+00:00"
     },
     "sensex": {
       "price": 74294.96,
@@ -137,7 +137,7 @@
         74294.9609375
       ],
       "ok": true,
-      "updated_at": "2026-09-20T20:45:31.623082+00:00"
+      "updated_at": "2026-09-20T22:45:18.200276+00:00"
     },
     "banknifty": {
       "price": 56358.7,
@@ -206,7 +206,7 @@
         56358.69921875
       ],
       "ok": true,
-      "updated_at": "2026-09-20T20:45:31.661840+00:00"
+      "updated_at": "2026-09-20T22:45:18.323220+00:00"
     },
     "vix": {
       "price": 11.385,
@@ -275,7 +275,7 @@
         11.385000228881836
       ],
       "ok": true,
-      "updated_at": "2026-09-20T20:45:31.707982+00:00"
+      "updated_at": "2026-09-20T22:45:18.420245+00:00"
     },
     "usdinr": {
       "price": 95.863,
@@ -344,23 +344,39 @@
         95.86299896240234
       ],
       "ok": true,
-      "updated_at": "2026-09-20T20:45:31.769171+00:00"
+      "updated_at": "2026-09-20T22:45:18.519733+00:00"
     },
     "gold": {
-      "price": 4424.9,
-      "change": 0.0,
-      "pct": 0.0,
-      "closes": [],
+      "price": 4414.3,
+      "change": -10.6,
+      "pct": -0.2396,
+      "closes": [
+        4417.0,
+        4416.39990234375,
+        4413.0,
+        4414.10009765625,
+        4414.5,
+        4414.89990234375,
+        4414.2998046875
+      ],
       "ok": true,
-      "updated_at": "2026-09-20T20:45:31.839680+00:00"
+      "updated_at": "2026-09-20T22:45:18.587570+00:00"
     },
     "crude": {
-      "price": 96.08,
-      "change": 0.0,
-      "pct": 0.0,
-      "closes": [],
+      "price": 96.44,
+      "change": 0.36,
+      "pct": 0.3747,
+      "closes": [
+        96.62000274658203,
+        96.58999633789062,
+        96.54000091552734,
+        96.4800033569336,
+        96.44000244140625,
+        96.2300033569336,
+        96.44000244140625
+      ],
       "ok": true,
-      "updated_at": "2026-09-20T20:45:31.878899+00:00"
+      "updated_at": "2026-09-20T22:45:18.650891+00:00"
     },
     "us10y": {
       "price": 4.998,
@@ -429,13 +445,13 @@
         4.998000144958496
       ],
       "ok": true,
-      "updated_at": "2026-09-20T20:45:31.921108+00:00"
+      "updated_at": "2026-09-20T22:45:18.770852+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-09-20T20:45:32.087643+00:00",
+      "updated_at": "2026-09-20T22:45:19.096093+00:00",
       "items": [
         {
           "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
@@ -672,8 +688,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-09-20T20:45:32.289492+00:00",
+      "updated_at": "2026-09-20T22:45:19.382797+00:00",
       "items": [
+        {
+          "title": "Gold Edges Higher as Lower Oil, Fed Hike Temper Inflation Fears",
+          "link": "https://www.livemint.com/market/gold-edges-higher-as-lower-oil-fed-hike-temper-inflation-fears-11789944196686.html",
+          "pubDate": "2026-09-21T04:13:16+05:30"
+        },
         {
           "title": "Gold price prediction: Will US-Iran war, crude oil rates impact yellow metal rates? Check technical outlook",
           "link": "https://www.livemint.com/market/commodities/gold-price-prediction-will-us-iran-war-crude-oil-rates-impact-yellow-metal-rates-check-technical-outlook-11789900773882.html",
@@ -818,17 +839,12 @@
           "title": "Lenskart Solutions block deal: ADIA-backed investor likely to offload 1.7% stake: Report",
           "link": "https://www.livemint.com/market/stock-market-news/lenskart-solutions-block-deal-adia-backed-investor-likely-to-offload-1-7-stake-report-11789738853707.html",
           "pubDate": "2026-09-18T19:15:02+05:30"
-        },
-        {
-          "title": "Rediff.com IPO: New UPI MDR rules open an additional revenue stream for the company: Report",
-          "link": "https://www.livemint.com/market/stock-market-news/rediffcom-ipo-new-upi-mdr-rules-open-an-additional-revenue-stream-for-the-company-report-11789732840605.html",
-          "pubDate": "2026-09-18T18:03:59+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-09-20T20:45:32.481721+00:00",
+      "updated_at": "2026-09-20T22:45:19.700656+00:00",
       "items": [
         {
           "title": "Liqvd Digital India issue to open on Sep 23, price band fixed at ₹51-54",
@@ -984,7 +1000,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-09-20T20:45:33.402419+00:00",
+      "updated_at": "2026-09-20T22:45:19.804272+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

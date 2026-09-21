@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T22:45:19.804285+00:00",
+  "generated_at": "2026-09-21T00:34:51.697816+00:00",
   "indices": {
     "nifty50": {
       "price": 23346.4,
@@ -68,7 +68,7 @@
         23346.400390625
       ],
       "ok": true,
-      "updated_at": "2026-09-20T22:45:18.119005+00:00"
+      "updated_at": "2026-09-21T00:34:49.634620+00:00"
     },
     "sensex": {
       "price": 74294.96,
@@ -137,7 +137,7 @@
         74294.9609375
       ],
       "ok": true,
-      "updated_at": "2026-09-20T22:45:18.200276+00:00"
+      "updated_at": "2026-09-21T00:34:49.729703+00:00"
     },
     "banknifty": {
       "price": 56358.7,
@@ -206,7 +206,7 @@
         56358.69921875
       ],
       "ok": true,
-      "updated_at": "2026-09-20T22:45:18.323220+00:00"
+      "updated_at": "2026-09-21T00:34:49.841940+00:00"
     },
     "vix": {
       "price": 11.385,
@@ -275,81 +275,20 @@
         11.385000228881836
       ],
       "ok": true,
-      "updated_at": "2026-09-20T22:45:18.420245+00:00"
+      "updated_at": "2026-09-21T00:34:49.949569+00:00"
     },
     "usdinr": {
       "price": 95.863,
-      "change": -0.057,
-      "pct": -0.0594,
-      "closes": [
-        95.78250122070312,
-        95.78250122070312,
-        95.77749633789062,
-        95.78250122070312,
-        95.78500366210938,
-        95.7874984741211,
-        95.7874984741211,
-        95.7874984741211,
-        95.77999877929688,
-        95.77999877929688,
-        95.79000091552734,
-        95.79499816894531,
-        95.79750061035156,
-        95.81300354003906,
-        95.81749725341797,
-        95.80750274658203,
-        95.80999755859375,
-        95.81999969482422,
-        95.81300354003906,
-        95.84500122070312,
-        95.87750244140625,
-        95.88249969482422,
-        95.87200164794922,
-        95.87999725341797,
-        95.86499786376953,
-        95.87000274658203,
-        95.86000061035156,
-        95.86499786376953,
-        95.86499786376953,
-        95.86750030517578,
-        95.87249755859375,
-        95.87999725341797,
-        95.87999725341797,
-        95.88749694824219,
-        95.87999725341797,
-        95.8550033569336,
-        95.81749725341797,
-        95.83000183105469,
-        95.81500244140625,
-        95.80999755859375,
-        95.82499694824219,
-        95.83000183105469,
-        95.8499984741211,
-        95.83999633789062,
-        95.87000274658203,
-        95.87249755859375,
-        95.86299896240234,
-        95.86299896240234,
-        95.86299896240234,
-        95.86299896240234,
-        95.86299896240234,
-        95.86299896240234,
-        95.86299896240234,
-        95.86299896240234,
-        95.86299896240234,
-        95.86299896240234,
-        95.86299896240234,
-        95.86299896240234,
-        95.86299896240234,
-        95.86299896240234
-      ],
+      "change": 0.0,
+      "pct": 0.0,
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-09-20T22:45:18.519733+00:00"
+      "updated_at": "2026-09-21T00:34:50.002311+00:00"
     },
     "gold": {
-      "price": 4414.3,
-      "change": -10.6,
-      "pct": -0.2396,
+      "price": 4404.4,
+      "change": -20.5,
+      "pct": -0.4633,
       "closes": [
         4417.0,
         4416.39990234375,
@@ -357,15 +296,36 @@
         4414.10009765625,
         4414.5,
         4414.89990234375,
-        4414.2998046875
+        4412.7001953125,
+        4412.7001953125,
+        4413.7998046875,
+        4412.10009765625,
+        4412.5,
+        4411.60009765625,
+        4411.5,
+        4412.10009765625,
+        4411.39990234375,
+        4412.7998046875,
+        4414.0,
+        4413.60009765625,
+        4409.60009765625,
+        4410.2998046875,
+        4409.10009765625,
+        4411.60009765625,
+        4407.2001953125,
+        4405.5,
+        4403.0,
+        4399.10009765625,
+        4404.10009765625,
+        4404.39990234375
       ],
       "ok": true,
-      "updated_at": "2026-09-20T22:45:18.587570+00:00"
+      "updated_at": "2026-09-21T00:34:50.113378+00:00"
     },
     "crude": {
-      "price": 96.44,
-      "change": 0.36,
-      "pct": 0.3747,
+      "price": 95.23,
+      "change": -0.85,
+      "pct": -0.8847,
       "closes": [
         96.62000274658203,
         96.58999633789062,
@@ -373,10 +333,31 @@
         96.4800033569336,
         96.44000244140625,
         96.2300033569336,
-        96.44000244140625
+        96.11000061035156,
+        95.98999786376953,
+        95.97000122070312,
+        95.91000366210938,
+        95.97000122070312,
+        95.87999725341797,
+        95.91000366210938,
+        96.04000091552734,
+        96.26000213623047,
+        96.11000061035156,
+        95.98999786376953,
+        95.95999908447266,
+        95.94000244140625,
+        95.87999725341797,
+        95.93000030517578,
+        95.66000366210938,
+        95.80000305175781,
+        95.70999908447266,
+        95.80999755859375,
+        95.61000061035156,
+        95.26000213623047,
+        95.2300033569336
       ],
       "ok": true,
-      "updated_at": "2026-09-20T22:45:18.650891+00:00"
+      "updated_at": "2026-09-21T00:34:50.149884+00:00"
     },
     "us10y": {
       "price": 4.998,
@@ -445,14 +426,24 @@
         4.998000144958496
       ],
       "ok": true,
-      "updated_at": "2026-09-20T22:45:18.770852+00:00"
+      "updated_at": "2026-09-21T00:34:50.247739+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-09-20T22:45:19.096093+00:00",
+      "updated_at": "2026-09-21T00:34:50.286362+00:00",
       "items": [
+        {
+          "title": "EM local bonds gain favour as dollar debt lags",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/em-local-bonds-gain-favour-as-dollar-debt-lags/articleshow/134377150.cms",
+          "pubDate": "2026-09-21T04:54:23+05:30"
+        },
+        {
+          "title": "India Inc, individuals could soon get to settle fund diversion cases",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-inc-individuals-could-soon-get-to-settle-fund-diversion-cases/articleshow/134377339.cms",
+          "pubDate": "2026-09-21T01:20:02+05:30"
+        },
         {
           "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/134367341.cms",
@@ -472,16 +463,6 @@
           "title": "Rs 4,169 crore IPO rush this week: 19 issues to open for subscription; NSE to lead 12 listings",
           "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/rs-4169-crore-ipo-rush-this-week-19-issues-to-open-for-subscription-nse-to-lead-12-listings/articleshow/134364576.cms",
           "pubDate": "2026-09-20T11:59:13+05:30"
-        },
-        {
-          "title": "$1.5 trillion wealth transfer is coming. How India’s next-gen HNIs are rebuilding family portfolios",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/1-5-trillion-wealth-transfer-is-coming-how-indias-next-gen-hnis-are-rebuilding-family-portfolios/articleshow/134363752.cms",
-          "pubDate": "2026-09-20T10:25:19+05:30"
-        },
-        {
-          "title": "Dividends and stock splits: IRCTC, BEML among 150+ stocks with record dates this week. Check full list",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dividends-and-stock-splits-irctc-beml-among-150-stocks-with-record-dates-this-week-check-full-list/articleshow/134363543.cms",
-          "pubDate": "2026-09-20T09:50:25+05:30"
         },
         {
           "title": "Nepal rescuers continue search for missing as identification of dead remains challenge",
@@ -688,8 +669,38 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-09-20T22:45:19.382797+00:00",
+      "updated_at": "2026-09-21T00:34:50.490244+00:00",
       "items": [
+        {
+          "title": "Nifty may recover after two years of underperformance, says Anand Rathi’s Azeez",
+          "link": "https://www.livemint.com/market/stock-market-news/nifty-may-recover-after-two-years-of-underperformance-says-anand-rathi-s-azeez-11789883934427.html",
+          "pubDate": "2026-09-21T06:00:53+05:30"
+        },
+        {
+          "title": "EMs have a bitter pill to swallow",
+          "link": "https://www.livemint.com/market/mark-to-market/ems-have-a-bitter-pill-to-swallow-11789883644014.html",
+          "pubDate": "2026-09-21T06:00:53+05:30"
+        },
+        {
+          "title": "Stock recommendations for 21 September from MarketSmith India",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-21-september-from-marketsmith-india-11789807133018.html",
+          "pubDate": "2026-09-21T06:00:13+05:30"
+        },
+        {
+          "title": "Raja Venkatraman recommends three stocks for 21 September",
+          "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-21-september-11789806554949.html",
+          "pubDate": "2026-09-21T06:00:13+05:30"
+        },
+        {
+          "title": "Oil Steady as Traders Look to Mideast Supply Risks and Diplomacy",
+          "link": "https://www.livemint.com/market/oil-steady-as-traders-look-to-mideast-supply-risks-and-diplomacy-11789945835765.html",
+          "pubDate": "2026-09-21T04:40:35+05:30"
+        },
+        {
+          "title": "Yen Vulnerable With Japan on Holiday After BOJ Disappoints",
+          "link": "https://www.livemint.com/market/yen-vulnerable-with-japan-on-holiday-after-boj-disappoints-11789945472363.html",
+          "pubDate": "2026-09-21T04:34:31+05:30"
+        },
         {
           "title": "Gold Edges Higher as Lower Oil, Fed Hike Temper Inflation Fears",
           "link": "https://www.livemint.com/market/gold-edges-higher-as-lower-oil-fed-hike-temper-inflation-fears-11789944196686.html",
@@ -809,42 +820,12 @@
           "title": "IPO Tracker: 19 stocks debut this week, raise  ₹7,550 crore despite market volatility",
           "link": "https://www.livemint.com/market/stock-market-news/ipo-tracker-19-stocks-debut-this-week-raise-rs-7-550-crore-despite-market-volatility-11789751470266.html",
           "pubDate": "2026-09-18T23:08:10+05:30"
-        },
-        {
-          "title": "Nifty posts sixth straight weekly loss: Why is Indian stock market under pressure? Explained",
-          "link": "https://www.livemint.com/market/stock-market-news/nifty-posts-sixth-straight-weekly-loss-why-is-indian-stock-market-under-pressure-explained-11789746305019.html",
-          "pubDate": "2026-09-18T22:22:07+05:30"
-        },
-        {
-          "title": "Netflix sell-off deepens as stock drops another 7% to hit two-month low. What is spooking investors?",
-          "link": "https://www.livemint.com/market/stock-market-news/netflix-sell-off-deepens-as-stock-drops-another-7-to-hit-two-month-low-what-is-spooking-investors-11789741143715.html",
-          "pubDate": "2026-09-18T20:53:39+05:30"
-        },
-        {
-          "title": "Tata feud wipes  ₹52,154 crore off listed companies’ market value",
-          "link": "https://www.livemint.com/market/stock-market-news/tata-feud-wipes-52-154-crore-off-listed-companies-market-value-11789737927529.html",
-          "pubDate": "2026-09-18T20:30:15+05:30"
-        },
-        {
-          "title": "Pulse of the Street: Crude retreats, but markets extend losing streak",
-          "link": "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-crude-retreats-but-markets-fail-to-break-losing-streak-11789739627282.html",
-          "pubDate": "2026-09-18T20:25:45+05:30"
-        },
-        {
-          "title": "Wall Street falls amid volatile oil prices and higher Treasury yields, Nucor slips 4.1%, Xenon tanks 27%",
-          "link": "https://www.livemint.com/market/stock-market-news/wall-street-mixed-amid-lower-oil-prices-and-higher-treasury-yields-11789740109962.html",
-          "pubDate": "2026-09-18T19:45:02+05:30"
-        },
-        {
-          "title": "Lenskart Solutions block deal: ADIA-backed investor likely to offload 1.7% stake: Report",
-          "link": "https://www.livemint.com/market/stock-market-news/lenskart-solutions-block-deal-adia-backed-investor-likely-to-offload-1-7-stake-report-11789738853707.html",
-          "pubDate": "2026-09-18T19:15:02+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-09-20T22:45:19.700656+00:00",
+      "updated_at": "2026-09-21T00:34:50.812908+00:00",
       "items": [
         {
           "title": "Liqvd Digital India issue to open on Sep 23, price band fixed at ₹51-54",
@@ -1000,7 +981,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-09-20T22:45:19.804272+00:00",
+      "updated_at": "2026-09-21T00:34:51.697799+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

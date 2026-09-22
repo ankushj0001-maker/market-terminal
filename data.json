@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T23:34:40.419424+00:00",
+  "generated_at": "2026-09-22T01:50:02.883712+00:00",
   "indices": {
     "nifty50": {
       "price": 23414.3,
@@ -68,7 +68,7 @@
         23414.30078125
       ],
       "ok": true,
-      "updated_at": "2026-09-21T23:34:37.817993+00:00"
+      "updated_at": "2026-09-22T01:50:01.264359+00:00"
     },
     "sensex": {
       "price": 74858.99,
@@ -137,7 +137,7 @@
         74858.9921875
       ],
       "ok": true,
-      "updated_at": "2026-09-21T23:34:37.934185+00:00"
+      "updated_at": "2026-09-22T01:50:01.317758+00:00"
     },
     "banknifty": {
       "price": 56470.65,
@@ -206,7 +206,7 @@
         56470.6484375
       ],
       "ok": true,
-      "updated_at": "2026-09-21T23:34:37.998356+00:00"
+      "updated_at": "2026-09-22T01:50:01.398460+00:00"
     },
     "vix": {
       "price": 11.248,
@@ -275,7 +275,7 @@
         11.2475004196167
       ],
       "ok": true,
-      "updated_at": "2026-09-21T23:34:38.057520+00:00"
+      "updated_at": "2026-09-22T01:50:01.448175+00:00"
     },
     "usdinr": {
       "price": 95.805,
@@ -284,43 +284,17 @@
       "closes": [
         95.80500030517578,
         95.80500030517578,
+        95.80500030517578,
         95.80500030517578
       ],
       "ok": true,
-      "updated_at": "2026-09-21T23:34:38.171867+00:00"
+      "updated_at": "2026-09-22T01:50:01.485502+00:00"
     },
     "gold": {
-      "price": 4399.1,
-      "change": 15.2,
-      "pct": 0.3467,
+      "price": 4392.2,
+      "change": 8.3,
+      "pct": 0.1893,
       "closes": [
-        4376.89990234375,
-        4376.89990234375,
-        4379.0,
-        4381.39990234375,
-        4382.2998046875,
-        4383.0,
-        4384.0,
-        4389.0,
-        4388.2998046875,
-        4389.2001953125,
-        4388.7998046875,
-        4388.7998046875,
-        4388.10009765625,
-        4385.7001953125,
-        4385.39990234375,
-        4386.10009765625,
-        4385.89990234375,
-        4384.39990234375,
-        4381.7001953125,
-        4383.7998046875,
-        4383.7998046875,
-        4383.2001953125,
-        4384.0,
-        4387.10009765625,
-        4390.39990234375,
-        4391.0,
-        4386.10009765625,
         4384.2001953125,
         4384.2001953125,
         4383.0,
@@ -353,43 +327,43 @@
         4397.2001953125,
         4399.2001953125,
         4397.60009765625,
-        4399.10009765625
+        4396.7998046875,
+        4397.89990234375,
+        4402.7001953125,
+        4406.39990234375,
+        4405.7001953125,
+        4403.7998046875,
+        4406.7998046875,
+        4410.39990234375,
+        4412.0,
+        4408.2001953125,
+        4398.2998046875,
+        4398.60009765625,
+        4395.89990234375,
+        4395.10009765625,
+        4387.0,
+        4393.0,
+        4393.7001953125,
+        4395.7001953125,
+        4397.7001953125,
+        4398.60009765625,
+        4397.2998046875,
+        4391.10009765625,
+        4391.0,
+        4392.2998046875,
+        4393.60009765625,
+        4392.7998046875,
+        4392.2001953125,
+        4392.2001953125
       ],
       "ok": true,
-      "updated_at": "2026-09-21T23:34:38.305518+00:00"
+      "updated_at": "2026-09-22T01:50:01.544449+00:00"
     },
     "crude": {
-      "price": 92.17,
-      "change": -0.2,
-      "pct": -0.2165,
+      "price": 92.84,
+      "change": 0.47,
+      "pct": 0.5088,
       "closes": [
-        92.02999877929688,
-        92.0199966430664,
-        92.18000030517578,
-        92.2699966430664,
-        92.08999633789062,
-        92.18000030517578,
-        92.25,
-        92.27999877929688,
-        92.22000122070312,
-        92.41999816894531,
-        92.4000015258789,
-        92.36000061035156,
-        92.2699966430664,
-        92.33000183105469,
-        92.38999938964844,
-        92.47000122070312,
-        92.55000305175781,
-        92.4800033569336,
-        92.48999786376953,
-        92.37000274658203,
-        92.43000030517578,
-        92.5199966430664,
-        92.41000366210938,
-        92.05999755859375,
-        92.01000213623047,
-        91.98999786376953,
-        92.02999877929688,
         92.0999984741211,
         92.1500015258789,
         92.13999938964844,
@@ -422,10 +396,37 @@
         92.13999938964844,
         92.12999725341797,
         92.16999816894531,
-        92.16999816894531
+        92.31999969482422,
+        92.30000305175781,
+        92.2300033569336,
+        92.2699966430664,
+        92.22000122070312,
+        92.29000091552734,
+        92.29000091552734,
+        92.2300033569336,
+        92.22000122070312,
+        92.30000305175781,
+        92.44000244140625,
+        92.48999786376953,
+        92.5199966430664,
+        92.58999633789062,
+        92.61000061035156,
+        92.70999908447266,
+        92.72000122070312,
+        92.72000122070312,
+        92.72000122070312,
+        92.77999877929688,
+        92.77999877929688,
+        92.80999755859375,
+        92.76000213623047,
+        92.76000213623047,
+        92.80999755859375,
+        92.79000091552734,
+        92.83999633789062,
+        92.83999633789062
       ],
       "ok": true,
-      "updated_at": "2026-09-21T23:34:38.387494+00:00"
+      "updated_at": "2026-09-22T01:50:01.596331+00:00"
     },
     "us10y": {
       "price": 4.963,
@@ -494,43 +495,43 @@
         4.963000297546387
       ],
       "ok": true,
-      "updated_at": "2026-09-21T23:34:38.454639+00:00"
+      "updated_at": "2026-09-22T01:50:01.639074+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-09-21T23:34:38.726260+00:00",
+      "updated_at": "2026-09-22T01:50:01.714659+00:00",
       "items": [
         {
-          "title": "Landmark NSE IPO threatens to hollow out Dalal Street’s shadow market",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/landmark-nse-ipo-threatens-to-hollow-out-dalal-streets-shadow-market/articleshow/134396017.cms",
-          "pubDate": "2026-09-21T23:43:24+05:30"
+          "title": "Varmora Granito raises Rs 212 crore from anchor investors ahead of Rs 708 crore IPO",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/varmora-granito-raises-rs-212-4-crore-from-anchor-investors-ahead-of-rs-708-crore-ipo/articleshow/134399926.cms",
+          "pubDate": "2026-09-22T06:29:14+05:30"
         },
         {
-          "title": "AMD briefly tops $1 trillion market cap as AI push fuels record rally, shares up 9%",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/amd-briefly-tops-1-trillion-market-cap-as-ai-push-fuels-record-rally-shares-up-9/articleshow/134393413.cms",
-          "pubDate": "2026-09-21T21:49:08+05:30"
+          "title": "Can Varmora Granito IPO deliver long-term growth for high-risk investors?",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-varmora-granito-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/134399879.cms",
+          "pubDate": "2026-09-22T06:21:48+05:30"
         },
         {
-          "title": "Pine Labs block deal: Mastercard Asia may divest 4.3% equity worth Rs 892 crore",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pine-labs-block-deal-mastercard-asia-may-divest-4-3-equity-worth-rs-892-crore/articleshow/134392101.cms",
-          "pubDate": "2026-09-21T20:09:09+05:30"
+          "title": "Global Market Today: Asian stocks climb after tech shares power Wall Street",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-climb-after-tech-shares-power-wall-street/articleshow/134399893.cms",
+          "pubDate": "2026-09-22T06:21:39+05:30"
         },
         {
-          "title": "Chicago Fed President Goolsbee rejects calls for Fed rate cuts to ease US debt burden",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/chicago-fed-president-goolsbee-rejects-calls-for-fed-rate-cuts-to-ease-us-debt-burden/articleshow/134391617.cms",
-          "pubDate": "2026-09-21T19:45:45+05:30"
+          "title": "Explained: 13 reasons why the Nifty could not deliver more in last 5 years",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-13-reasons-why-the-nifty-could-not-deliver-more-in-last-5-years/articleshow/134399807.cms",
+          "pubDate": "2026-09-22T06:01:41+05:30"
         },
         {
-          "title": "RBI issues norms on capital requirements for market risk under Basel III for banks",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-issues-norms-on-capital-requirements-for-market-risk-under-basel-iii-for-banks/articleshow/134391520.cms",
-          "pubDate": "2026-09-21T19:34:46+05:30"
+          "title": "23 firms race to launch IPOs worth Rs 40,775 crore before September 30 deadline",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/the-great-ipo-crush-23-firms-rush-to-launch-rs-40775-crore-ipos-before-september-30-deadline/articleshow/134399560.cms",
+          "pubDate": "2026-09-22T05:07:21+05:30"
         },
         {
-          "title": "Crypto outlook: Why RWA utilization may matter more than issuance, Binance Research explains",
-          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-outlook-why-rwa-utilization-may-matter-more-than-issuance-binance-research-explains/articleshow/134389892.cms",
-          "pubDate": "2026-09-21T18:09:13+05:30"
+          "title": "Bandhan Bank promoter to gradually reduce stake to meet RBI norms",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bandhan-bank-promoter-to-gradually-reduce-stake-to-meet-rbi-norms/articleshow/134399800.cms",
+          "pubDate": "2026-09-22T01:04:18+05:30"
         },
         {
           "title": "Nepal rescuers continue search for missing as identification of dead remains challenge",
@@ -655,8 +656,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-09-21T10:53:41.925209+00:00",
+      "ok": true,
+      "updated_at": "2026-09-22T01:50:01.751416+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -737,8 +738,48 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-09-21T23:34:39.077017+00:00",
+      "updated_at": "2026-09-22T01:50:01.815017+00:00",
       "items": [
+        {
+          "title": "Bitcoin Jumps to Over $84,000 After ETF Flows Turn Positive",
+          "link": "https://www.livemint.com/market/bitcoin-jumps-to-over-84-000-after-etf-flows-turn-positive-11790041281714.html",
+          "pubDate": "2026-09-22T07:11:21+05:30"
+        },
+        {
+          "title": "Prop Shops Pull Back From NSE’s $2 Trillion Derivatives Market",
+          "link": "https://www.livemint.com/market/prop-shops-pull-back-from-nse-s-2-trillion-derivatives-market-11790040120720.html",
+          "pubDate": "2026-09-22T06:52:00+05:30"
+        },
+        {
+          "title": "Sensex, Nifty prediction today: How Asian markets, crude will impact Indian markets? GIFT Nifty, KOSPI, Taiwan signals",
+          "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-prediction-today-how-asian-markets-crude-will-impact-indian-markets-gift-nifty-kospi-taiwan-signals-11790037893806.html",
+          "pubDate": "2026-09-22T06:49:28+05:30"
+        },
+        {
+          "title": "Gold Edges Higher as Lower Oil Prices Damp Chance of Rate Hikes",
+          "link": "https://www.livemint.com/market/gold-edges-higher-as-lower-oil-prices-damp-chance-of-rate-hikes-11790039506795.html",
+          "pubDate": "2026-09-22T06:41:46+05:30"
+        },
+        {
+          "title": "Yen squeezed as hawkish turn grips central banks",
+          "link": "https://www.livemint.com/market/yen-squeezed-as-hawkish-turn-grips-central-banks-11790038403638.html",
+          "pubDate": "2026-09-22T06:23:23+05:30"
+        },
+        {
+          "title": "Nifty logs longest winning streak since CAS rollout; Can the recovery continue?",
+          "link": "https://www.livemint.com/market/stock-market-news/nifty-logs-longest-winning-streak-since-cas-rollout-can-the-recovery-continue-11790037409172.html",
+          "pubDate": "2026-09-22T06:13:40+05:30"
+        },
+        {
+          "title": "Stock recommendations for 22 September from MarketSmith India",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-22-september-from-marketsmith-india-11789990893778.html",
+          "pubDate": "2026-09-22T06:00:53+05:30"
+        },
+        {
+          "title": "Raja Venkatraman recommends three stocks for 22 September",
+          "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-22-september-11789998167681.html",
+          "pubDate": "2026-09-22T06:00:53+05:30"
+        },
         {
           "title": "TSX gains powered by tech, financial stocks",
           "link": "https://www.livemint.com/market/tsx-gains-powered-by-tech-financial-stocks-11790023147485.html",
@@ -848,52 +889,12 @@
           "title": "Pine Labs vs Paytm: Is this new-age payments stock the next big bet? MOSL initiates coverage, check target, stop loss",
           "link": "https://www.livemint.com/market/stock-market-news/pine-labs-vs-paytm-is-this-new-age-payments-stock-the-next-big-bet-mosl-initiates-coverage-check-target-stop-loss-11789978489611.html",
           "pubDate": "2026-09-21T14:12:58+05:30"
-        },
-        {
-          "title": "London Bankers Stock Up on Gilts to Juice Personal Portfolios",
-          "link": "https://www.livemint.com/market/london-bankers-stock-up-on-gilts-to-juice-personal-portfolios-11789980127501.html",
-          "pubDate": "2026-09-21T14:12:07+05:30"
-        },
-        {
-          "title": "Nearly 50% return in less than three months | Small-cap stock under  ₹100 hits 5% upper circuit",
-          "link": "https://www.livemint.com/market/stock-market-news/nearly-50-return-in-less-than-three-months-small-cap-stock-under-100-lords-mark-hits-5-upper-circuit-11789976313440.html",
-          "pubDate": "2026-09-21T13:59:36+05:30"
-        },
-        {
-          "title": "Adani Total Gas: Why investor preference for the stock is intriguing",
-          "link": "https://www.livemint.com/market/mark-to-market/adani-total-gas-share-price-valuation-igl-mgl-city-gas-distribution-11789974534573.html",
-          "pubDate": "2026-09-21T13:57:18+05:30"
-        },
-        {
-          "title": "Nifty Auto looks set to snap a 5-month winning streak - Should you buy the dip in auto, auto ancillary stocks?",
-          "link": "https://www.livemint.com/market/stock-market-news/nifty-auto-looks-set-to-snap-a-5-month-winning-streak-should-you-buy-the-dip-in-auto-auto-ancillary-stocks-11789976254551.html",
-          "pubDate": "2026-09-21T13:47:43+05:30"
-        },
-        {
-          "title": "125% rally in six months | Apparel stock retraces after hitting 52-week high",
-          "link": "https://www.livemint.com/market/stock-market-news/125-rally-in-six-months-apparel-stock-iris-clothing-share-price-retraces-after-hitting-52-week-high-11789975567320.html",
-          "pubDate": "2026-09-21T13:05:55+05:30"
-        },
-        {
-          "title": "GAIL Gas begins process to appoint bankers for up to  ₹3,100 crore IPO",
-          "link": "https://www.livemint.com/market/ipo/gail-gas-ipo-rs-3100-crore-investment-banks-city-gas-distribution-11789970175845.html",
-          "pubDate": "2026-09-21T12:57:31+05:30"
-        },
-        {
-          "title": "Oracle Financial Services share price falls 6.5% today | What's behind the plunge?",
-          "link": "https://www.livemint.com/market/stock-market-news/oracle-financial-services-share-price-falls-6-5-today-whats-behind-the-plunge-11789970827243.html",
-          "pubDate": "2026-09-21T12:43:46+05:30"
-        },
-        {
-          "title": "JSW Cement’s regional diversification is comforting, but costs are more important now",
-          "link": "https://www.livemint.com/market/mark-to-market/jsw-cement-north-india-expansion-nagaur-capacity-growth-stock-outlook-11789970222688.html",
-          "pubDate": "2026-09-21T12:37:25+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-09-21T23:34:39.401618+00:00",
+      "updated_at": "2026-09-22T01:50:02.013889+00:00",
       "items": [
         {
           "title": "SP Group bonds offered at premium on Tata Sons stake-sale plan: Report",
@@ -1049,7 +1050,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-09-21T23:34:40.419407+00:00",
+      "updated_at": "2026-09-22T01:50:02.883695+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on September 22, 2026",

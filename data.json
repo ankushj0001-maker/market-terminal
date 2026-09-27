@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T00:42:36.654844+00:00",
+  "generated_at": "2026-09-27T05:44:56.811752+00:00",
   "indices": {
     "nifty50": {
       "price": 23140.5,
@@ -68,11 +68,11 @@
         23140.5
       ],
       "ok": true,
-      "updated_at": "2026-09-27T00:42:33.137241+00:00"
+      "updated_at": "2026-09-27T05:44:55.129440+00:00"
     },
     "sensex": {
       "price": 73895.74,
-      "change": 315.24,
+      "change": 315.2,
       "pct": 0.4284,
       "closes": [
         73651.6484375,
@@ -137,7 +137,7 @@
         73895.7421875
       ],
       "ok": true,
-      "updated_at": "2026-09-27T00:42:33.244621+00:00"
+      "updated_at": "2026-09-27T05:44:55.179819+00:00"
     },
     "banknifty": {
       "price": 55580.4,
@@ -206,12 +206,12 @@
         55580.3984375
       ],
       "ok": true,
-      "updated_at": "2026-09-27T00:42:33.349290+00:00"
+      "updated_at": "2026-09-27T05:44:55.233940+00:00"
     },
     "vix": {
       "price": 12.16,
-      "change": -0.53,
-      "pct": -4.1765,
+      "change": -0.5275,
+      "pct": -4.1576,
       "closes": [
         12.59749984741211,
         12.647500038146973,
@@ -275,13 +275,14 @@
         12.15999984741211
       ],
       "ok": true,
-      "updated_at": "2026-09-27T00:42:33.449093+00:00"
+      "updated_at": "2026-09-27T05:44:55.288091+00:00"
     },
     "usdinr": {
       "price": 95.82,
       "change": -0.125,
       "pct": -0.1303,
       "closes": [
+        95.8949966430664,
         95.89250183105469,
         95.88999938964844,
         95.88999938964844,
@@ -340,149 +341,26 @@
         95.802001953125,
         95.802001953125,
         95.802001953125,
-        95.802001953125,
-        95.81999969482422
+        95.802001953125
       ],
       "ok": true,
-      "updated_at": "2026-09-27T00:42:33.616699+00:00"
+      "updated_at": "2026-09-27T05:44:55.349214+00:00"
     },
     "gold": {
       "price": 4321.2,
       "change": 23.2,
       "pct": 0.5398,
-      "closes": [
-        4330.2001953125,
-        4329.2001953125,
-        4325.39990234375,
-        4324.0,
-        4323.5,
-        4327.39990234375,
-        4319.10009765625,
-        4322.7998046875,
-        4322.5,
-        4318.39990234375,
-        4320.2001953125,
-        4321.5,
-        4326.0,
-        4328.10009765625,
-        4326.7001953125,
-        4325.89990234375,
-        4327.2001953125,
-        4321.2998046875,
-        4320.10009765625,
-        4319.2001953125,
-        4320.7001953125,
-        4319.2998046875,
-        4318.89990234375,
-        4318.10009765625,
-        4318.10009765625,
-        4320.60009765625,
-        4319.7998046875,
-        4323.2001953125,
-        4323.7998046875,
-        4322.2001953125,
-        4327.2998046875,
-        4322.60009765625,
-        4326.7998046875,
-        4329.7001953125,
-        4329.60009765625,
-        4329.7998046875,
-        4324.60009765625,
-        4328.7001953125,
-        4331.7001953125,
-        4327.7998046875,
-        4325.10009765625,
-        4324.10009765625,
-        4324.2001953125,
-        4328.60009765625,
-        4327.7001953125,
-        4328.0,
-        4326.5,
-        4326.60009765625,
-        4326.89990234375,
-        4327.10009765625,
-        4326.5,
-        4325.60009765625,
-        4324.39990234375,
-        4323.10009765625,
-        4322.2001953125,
-        4321.7001953125,
-        4320.60009765625,
-        4321.39990234375,
-        4321.2001953125,
-        4321.2001953125
-      ],
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-09-27T00:42:33.748856+00:00"
+      "updated_at": "2026-09-27T05:44:55.397055+00:00"
     },
     "crude": {
       "price": 92.41,
       "change": -2.2,
       "pct": -2.3253,
-      "closes": [
-        91.95999908447266,
-        91.7300033569336,
-        91.61000061035156,
-        91.80999755859375,
-        92.30000305175781,
-        91.58999633789062,
-        92.20999908447266,
-        92.23999786376953,
-        92.0199966430664,
-        92.2699966430664,
-        92.08000183105469,
-        92.23999786376953,
-        92.12999725341797,
-        92.05000305175781,
-        92.2300033569336,
-        92.2300033569336,
-        92.20999908447266,
-        92.12999725341797,
-        92.27999877929688,
-        92.33999633789062,
-        92.2699966430664,
-        92.22000122070312,
-        92.25,
-        92.1500015258789,
-        92.30000305175781,
-        92.30999755859375,
-        91.98999786376953,
-        92.11000061035156,
-        92.26000213623047,
-        92.23999786376953,
-        92.08000183105469,
-        92.27999877929688,
-        92.13999938964844,
-        92.1500015258789,
-        92.08000183105469,
-        92.2699966430664,
-        92.44000244140625,
-        92.45999908447266,
-        92.51000213623047,
-        92.62000274658203,
-        92.70999908447266,
-        92.66000366210938,
-        92.5999984741211,
-        92.38999938964844,
-        92.36000061035156,
-        92.33999633789062,
-        92.29000091552734,
-        92.2300033569336,
-        92.44999694824219,
-        92.6500015258789,
-        92.86000061035156,
-        92.68000030517578,
-        92.62999725341797,
-        92.68000030517578,
-        92.81999969482422,
-        92.69000244140625,
-        92.54000091552734,
-        92.41000366210938,
-        92.44999694824219,
-        92.41000366210938
-      ],
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-09-27T00:42:33.885806+00:00"
+      "updated_at": "2026-09-27T05:44:55.441955+00:00"
     },
     "us10y": {
       "price": 5.184,
@@ -551,13 +429,13 @@
         5.184000015258789
       ],
       "ok": true,
-      "updated_at": "2026-09-27T00:42:33.986432+00:00"
+      "updated_at": "2026-09-27T05:44:55.495130+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-09-27T00:42:35.105290+00:00",
+      "updated_at": "2026-09-27T05:44:55.611982+00:00",
       "items": [
         {
           "title": "J Infratech files IPO papers; eyes Rs 600 cr via fresh issue",
@@ -712,8 +590,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-09-26T17:25:29.113508+00:00",
+      "ok": true,
+      "updated_at": "2026-09-27T05:44:55.730882+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +672,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-09-27T00:42:35.366152+00:00",
+      "updated_at": "2026-09-27T05:44:55.803974+00:00",
       "items": [
+        {
+          "title": "Stock market prediction for tomorrow: Sensex, Nifty Monday, 28 Sept triggers | GIFT Nifty, Nikkei, Taiwan, Kospi cues",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-tomorrow-sensex-nifty-monday-28-sept-triggers-gift-nifty-nikkei-taiwan-kospi-cues-11790480062165.html",
+          "pubDate": "2026-09-27T09:52:56+05:30"
+        },
         {
           "title": "Rate Market Fear Gauge Is Warning for Corporates: Credit Weekly",
           "link": "https://www.livemint.com/market/rate-market-fear-gauge-is-warning-for-corporates-credit-weekly-11790451266734.html",
@@ -940,18 +823,18 @@
           "title": "Govt approves voluntary retirement of MD Dinesh Pant; shares edge higher",
           "link": "https://www.livemint.com/market/stock-market-news/govt-approves-voluntary-retirement-of-md-dinesh-pant-shares-edge-higher-11790336161690.html",
           "pubDate": "2026-09-25T17:29:17+05:30"
-        },
-        {
-          "title": "60% rally in FY27! Ventura Securities sees 32% more upside in short term | Technical outlook, target, stoploss",
-          "link": "https://www.livemint.com/market/stock-market-news/60-rally-in-fy27-ventura-securities-sees-32-more-upside-in-short-term-technical-outlook-target-stoploss-11790334304008.html",
-          "pubDate": "2026-09-25T17:25:40+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-09-27T00:42:35.563506+00:00",
+      "updated_at": "2026-09-27T05:44:55.950637+00:00",
       "items": [
+        {
+          "title": "Muted demand, higher oil prices to cloud paints sector outlook in near term",
+          "link": "https://www.business-standard.com/markets/news/markets-news-weak-demand-input-costs-to-hit-paints-sector-in-near-term-126092700054_1.html",
+          "pubDate": "2026-09-27T07:23:12+05:30"
+        },
         {
           "title": "J Infratech files draft IPO papers for ₹600 crore fresh issue, 1 crore OFS",
           "link": "https://www.business-standard.com/markets/ipo/j-infratech-files-drhp-for-600-crore-ipo-1-crore-ofs-126092600541_1.html",
@@ -1096,17 +979,12 @@
           "title": "One 97 Communications hikes stake in its subsidiary - Little Internet",
           "link": "https://www.business-standard.com/markets/capital-market-news/one-97-communications-hikes-stake-in-its-subsidiary-little-internet-126092501013_1.html",
           "pubDate": "2026-09-25T19:12:45+05:30"
-        },
-        {
-          "title": "Lumax Auto Technologies announces change in senior management",
-          "link": "https://www.business-standard.com/markets/capital-market-news/lumax-auto-technologies-announces-change-in-senior-management-126092500997_1.html",
-          "pubDate": "2026-09-25T18:58:04+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-09-27T00:42:36.654830+00:00",
+      "updated_at": "2026-09-27T05:44:56.811736+00:00",
       "items": [
         {
           "title": "RBI Bulletin – September 2026",

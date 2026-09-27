@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T15:24:42.373882+00:00",
+  "generated_at": "2026-09-27T19:05:14.899817+00:00",
   "indices": {
     "nifty50": {
       "price": 23140.5,
@@ -68,11 +68,11 @@
         23140.5
       ],
       "ok": true,
-      "updated_at": "2026-09-27T15:24:40.035321+00:00"
+      "updated_at": "2026-09-27T19:05:13.448621+00:00"
     },
     "sensex": {
       "price": 73895.74,
-      "change": 315.2,
+      "change": 315.24,
       "pct": 0.4284,
       "closes": [
         73651.6484375,
@@ -137,7 +137,7 @@
         73895.7421875
       ],
       "ok": true,
-      "updated_at": "2026-09-27T15:24:40.083580+00:00"
+      "updated_at": "2026-09-27T19:05:13.498010+00:00"
     },
     "banknifty": {
       "price": 55580.4,
@@ -206,7 +206,7 @@
         55580.3984375
       ],
       "ok": true,
-      "updated_at": "2026-09-27T15:24:40.127965+00:00"
+      "updated_at": "2026-09-27T19:05:13.543161+00:00"
     },
     "vix": {
       "price": 12.16,
@@ -275,7 +275,7 @@
         12.15999984741211
       ],
       "ok": true,
-      "updated_at": "2026-09-27T15:24:40.173039+00:00"
+      "updated_at": "2026-09-27T19:05:13.591876+00:00"
     },
     "usdinr": {
       "price": 95.802,
@@ -344,7 +344,7 @@
         95.802001953125
       ],
       "ok": true,
-      "updated_at": "2026-09-27T15:24:40.233226+00:00"
+      "updated_at": "2026-09-27T19:05:13.685588+00:00"
     },
     "gold": {
       "price": 4321.2,
@@ -352,7 +352,7 @@
       "pct": 0.5398,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-09-27T15:24:40.266138+00:00"
+      "updated_at": "2026-09-27T19:05:13.804636+00:00"
     },
     "crude": {
       "price": 92.41,
@@ -360,7 +360,7 @@
       "pct": -2.3253,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-09-27T15:24:40.319387+00:00"
+      "updated_at": "2026-09-27T19:05:13.842130+00:00"
     },
     "us10y": {
       "price": 5.184,
@@ -429,13 +429,13 @@
         5.184000015258789
       ],
       "ok": true,
-      "updated_at": "2026-09-27T15:24:40.372874+00:00"
+      "updated_at": "2026-09-27T19:05:13.915720+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-09-27T15:24:40.839007+00:00",
+      "updated_at": "2026-09-27T19:05:14.033695+00:00",
       "items": [
         {
           "title": "J Infratech files IPO papers; eyes Rs 600 cr via fresh issue",
@@ -590,7 +590,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-09-27T15:24:41.199904+00:00",
       "items": [
         {
@@ -672,8 +672,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-09-27T15:24:41.782078+00:00",
+      "updated_at": "2026-09-27T19:05:14.164245+00:00",
       "items": [
+        {
+          "title": "IPO rush: 9 companies, including Trans ACNR Solutions, submit draft IPO papers to SEBI | Check list",
+          "link": "https://www.livemint.com/market/ipo/ipo-rush-trans-acnr-solutions-among-9-companies-to-file-preliminary-papers-with-sebi-check-list-11790521805527.html",
+          "pubDate": "2026-09-27T20:55:57+05:30"
+        },
         {
           "title": "India investment future: FIIs remain net sellers in Sept 2026 but these 5 factors can bring them back - Experts decode",
           "link": "https://www.livemint.com/market/stock-market-news/india-investment-future-fiis-remain-net-sellers-in-sept-2026-but-these-5-factors-can-bring-them-back-experts-decode-11790500863005.html",
@@ -818,18 +823,18 @@
           "title": "Cocoa Market Supply Disruptions to Linger as Ghana Raises Price",
           "link": "https://www.livemint.com/market/cocoa-market-supply-disruptions-to-linger-as-ghana-raises-price-11790363066838.html",
           "pubDate": "2026-09-26T00:34:26+05:30"
-        },
-        {
-          "title": "Gold price outlook: MCX gold slips for the week as US Fed rate hike bets rise; what’s next for the yellow metal?",
-          "link": "https://www.livemint.com/market/stock-market-news/gold-price-outlook-mcx-gold-slips-for-the-week-as-us-fed-rate-hike-bets-rise-what-s-next-for-the-yellow-metal-11790354545598.html",
-          "pubDate": "2026-09-25T23:57:57+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-09-27T15:24:41.950377+00:00",
+      "updated_at": "2026-09-27T19:05:14.262615+00:00",
       "items": [
+        {
+          "title": "'Brace for more correction': Mkt outlook cautious after 7 weeks of decline",
+          "link": "https://www.business-standard.com/markets/news/nifty-falls-for-seventh-week-as-oil-us-yields-deepen-market-pressure-126092700635_1.html",
+          "pubDate": "2026-09-27T23:58:57+05:30"
+        },
         {
           "title": "Trans ACNR, Maharashtra Oil among nine firms filing IPO papers with Sebi",
           "link": "https://www.business-standard.com/markets/ipo/trans-acnr-maharashtra-oil-among-nine-firms-filing-ipo-papers-with-sebi-126092700435_1.html",
@@ -844,11 +849,6 @@
           "title": "Geopolitical developments, crude oil likely to steer stock market this week",
           "link": "https://www.business-standard.com/markets/news/geopolitical-developments-crude-oil-likely-to-steer-stock-market-this-week-126092700221_1.html",
           "pubDate": "2026-09-27T12:51:25+05:30"
-        },
-        {
-          "title": "Sebi settlement overhaul may improve recovery in fund-diversion cases",
-          "link": "https://www.business-standard.com/markets/news/markets-news-sebi-settlement-overhaul-may-aid-recovery-of-diverted-funds-126092700204_1.html",
-          "pubDate": "2026-09-27T12:17:38+05:30"
         },
         {
           "title": "Cars24 expects to file IPO papers by April after reverse flip to India: CFO",
@@ -984,7 +984,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-09-27T15:24:42.373867+00:00",
+      "updated_at": "2026-09-27T19:05:14.899801+00:00",
       "items": [
         {
           "title": "RBI Bulletin – September 2026",

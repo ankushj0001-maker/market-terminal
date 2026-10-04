@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-04T15:25:45.464366+00:00",
+  "generated_at": "2026-10-04T18:41:27.807215+00:00",
   "indices": {
     "nifty50": {
       "price": 22421.95,
-      "change": -198.5,
-      "pct": -0.8775,
+      "change": -198.45,
+      "pct": -0.8773,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-10-04T15:25:43.206394+00:00"
+      "updated_at": "2026-10-04T18:41:25.668936+00:00"
     },
     "sensex": {
       "price": 71909.7,
-      "change": -570.59,
+      "change": -570.6,
       "pct": -0.7872,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-10-04T15:25:43.306696+00:00"
+      "updated_at": "2026-10-04T18:41:25.765506+00:00"
     },
     "banknifty": {
       "price": 54450.75,
-      "change": -182.3,
-      "pct": -0.3337,
+      "change": -182.35,
+      "pct": -0.3338,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-10-04T15:25:43.403507+00:00"
+      "updated_at": "2026-10-04T18:41:25.863588+00:00"
     },
     "vix": {
       "price": 14.455,
@@ -31,7 +31,7 @@
       "pct": 7.1534,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-10-04T15:25:43.502864+00:00"
+      "updated_at": "2026-10-04T18:41:25.961299+00:00"
     },
     "usdinr": {
       "price": 96.3,
@@ -56,7 +56,7 @@
         96.30000305175781
       ],
       "ok": true,
-      "updated_at": "2026-10-04T15:25:43.605756+00:00"
+      "updated_at": "2026-10-04T18:41:26.143705+00:00"
     },
     "gold": {
       "price": 4162.3,
@@ -64,7 +64,7 @@
       "pct": -0.9519,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-10-04T15:25:43.702218+00:00"
+      "updated_at": "2026-10-04T18:41:26.240143+00:00"
     },
     "crude": {
       "price": 91.11,
@@ -72,7 +72,7 @@
       "pct": -1.8951,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-10-04T15:25:43.799285+00:00"
+      "updated_at": "2026-10-04T18:41:26.404628+00:00"
     },
     "us10y": {
       "price": 5.277,
@@ -141,13 +141,13 @@
         5.2769999504089355
       ],
       "ok": true,
-      "updated_at": "2026-10-04T15:25:43.902401+00:00"
+      "updated_at": "2026-10-04T18:41:26.510029+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-10-04T15:25:44.016360+00:00",
+      "updated_at": "2026-10-04T18:41:26.622012+00:00",
       "items": [
         {
           "title": "ET Alpha Wealth Summit 2.0: Date, venue &amp; other key details",
@@ -302,7 +302,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-10-04T15:25:44.360267+00:00",
       "items": [
         {
@@ -384,7 +384,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-10-04T15:25:44.484794+00:00",
+      "updated_at": "2026-10-04T18:41:26.857950+00:00",
       "items": [
         {
           "title": "Why Oil Is Still Stuck Near $100 a Barrel",
@@ -540,8 +540,13 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-10-04T15:25:44.680631+00:00",
+      "updated_at": "2026-10-04T18:41:27.015478+00:00",
       "items": [
+        {
+          "title": "SME listings sink as mainboard IPO index delivers over 10% annual return",
+          "link": "https://www.business-standard.com/markets/news/sme-listings-sink-as-mainboard-ipo-index-delivers-over-10-annual-return-126100400367_1.html",
+          "pubDate": "2026-10-04T23:50:25+05:30"
+        },
         {
           "title": "Bullion faces choppy week as dollar, US-Iran risks test sentiment: Analysts",
           "link": "https://www.business-standard.com/markets/commodities/bullion-faces-choppy-week-as-dollar-us-iran-risks-test-sentiment-analysts-126100400484_1.html",
@@ -558,11 +563,6 @@
           "pubDate": "2026-10-04T15:11:52+05:30"
         },
         {
-          "title": "Foreign investors are short on Indian markets as global risks weigh",
-          "link": "https://www.business-standard.com/markets/news/markets-news-foreign-investors-short-on-indian-markets-as-global-risks-weigh-126100400229_1.html",
-          "pubDate": "2026-10-04T13:44:44+05:30"
-        },
-        {
           "title": "B2B commerce firm OfBusiness plan IPO next year, DRHP likely in Nov",
           "link": "https://www.business-standard.com/companies/start-ups/companies-start-ups-ofbusiness-plans-600-800-million-ipo-drhp-in-november-126100400194_1.html",
           "pubDate": "2026-10-04T12:52:45+05:30"
@@ -571,11 +571,6 @@
           "title": "Jio IPO likely by Oct end at enterprise valuation of above ₹12 trillion",
           "link": "https://www.business-standard.com/markets/ipo/jio-ipo-likely-by-oct-end-at-enterprise-valuation-of-above-12-trillion-126100400146_1.html",
           "pubDate": "2026-10-04T11:41:44+05:30"
-        },
-        {
-          "title": "Sebi CAS review draws over 20K responses; traders resist VWAP shift",
-          "link": "https://www.business-standard.com/markets/news/markets-news-sebi-cas-review-draws-over-20k-responses-traders-resist-vwap-shift-126100400056_1.html",
-          "pubDate": "2026-10-04T08:47:56+05:30"
         },
         {
           "title": "Parliamentary panel may recommend govt for action on monitoring crypto",
@@ -691,12 +686,17 @@
           "title": "At 52-week lows: RIL, ONGC, M&M, Airtel, PB Fintech, 69 other BSE500 stocks",
           "link": "https://www.business-standard.com/markets/news/at-52-week-lows-ril-ongc-m-m-airtel-pb-fintech-69-other-bse500-stocks-on-thursday-126100100567_1.html",
           "pubDate": "2026-10-01T14:10:56+05:30"
+        },
+        {
+          "title": "Market crash: Sensex sinks 1,280 pts intraday, at 2026 low; Nifty at 22,200",
+          "link": "https://www.business-standard.com/markets/news/why-are-markets-falling-today-sensex-crashes-1-000-pts-intraday-hits-2026-low-nifty-at-22-300-126100100568_1.html",
+          "pubDate": "2026-10-01T13:49:39+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-10-04T15:25:45.464349+00:00",
+      "updated_at": "2026-10-04T18:41:27.807200+00:00",
       "items": [
         {
           "title": "RBI appoints Shri Sudhakar Malli as new Executive Director",

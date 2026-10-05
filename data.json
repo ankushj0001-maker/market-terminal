@@ -1,117 +1,259 @@
 {
-  "generated_at": "2026-10-05T00:16:17.743684+00:00",
+  "generated_at": "2026-10-05T05:56:58.664922+00:00",
   "indices": {
     "nifty50": {
-      "price": 22421.95,
-      "change": -198.45,
-      "pct": -0.8773,
-      "closes": [],
+      "price": 22472.5,
+      "change": 50.55,
+      "pct": 0.2254,
+      "closes": [
+        22553.19921875,
+        22543.30078125,
+        22568.849609375,
+        22590.099609375,
+        22584.05078125,
+        22582.5,
+        22610.30078125,
+        22603.25,
+        22567.05078125,
+        22551.0,
+        22562.650390625,
+        22543.80078125,
+        22552.349609375,
+        22504.849609375,
+        22513.349609375,
+        22531.0,
+        22473.55078125,
+        22487.5,
+        22486.94921875,
+        22472.900390625,
+        22502.55078125,
+        22499.75,
+        22495.25,
+        22487.55078125,
+        22482.44921875,
+        22471.75,
+        22479.25,
+        22472.5
+      ],
       "ok": true,
-      "updated_at": "2026-10-05T00:16:15.063467+00:00"
+      "updated_at": "2026-10-05T05:56:57.835518+00:00"
     },
     "sensex": {
-      "price": 71909.7,
-      "change": -570.6,
-      "pct": -0.7872,
-      "closes": [],
+      "price": 72151.53,
+      "change": 241.83,
+      "pct": 0.3363,
+      "closes": [
+        72359.7890625,
+        72347.2265625,
+        72429.46875,
+        72517.046875,
+        72504.1015625,
+        72495.53125,
+        72605.328125,
+        72565.453125,
+        72445.09375,
+        72381.046875,
+        72404.296875,
+        72357.1171875,
+        72381.4609375,
+        72227.203125,
+        72256.296875,
+        72301.953125,
+        72129.140625,
+        72151.15625,
+        72144.0390625,
+        72099.859375,
+        72181.2265625,
+        72160.328125,
+        72145.421875,
+        72161.078125,
+        72151.53125
+      ],
       "ok": true,
-      "updated_at": "2026-10-05T00:16:15.186113+00:00"
+      "updated_at": "2026-10-05T05:56:57.874676+00:00"
     },
     "banknifty": {
-      "price": 54450.75,
-      "change": -182.35,
-      "pct": -0.3338,
-      "closes": [],
+      "price": 54571.95,
+      "change": 121.2,
+      "pct": 0.2226,
+      "closes": [
+        55135.5,
+        55127.55078125,
+        55111.6484375,
+        55120.69921875,
+        55054.25,
+        55023.25,
+        55102.1015625,
+        55085.3984375,
+        54928.3515625,
+        54879.8515625,
+        54901.55078125,
+        54886.8984375,
+        54917.94921875,
+        54814.1015625,
+        54857.5,
+        54868.5,
+        54744.05078125,
+        54781.75,
+        54769.05078125,
+        54661.3515625,
+        54703.69921875,
+        54685.55078125,
+        54639.8984375,
+        54598.6484375,
+        54628.05078125,
+        54588.1015625,
+        54594.1484375,
+        54571.94921875
+      ],
       "ok": true,
-      "updated_at": "2026-10-05T00:16:15.311132+00:00"
+      "updated_at": "2026-10-05T05:56:57.913791+00:00"
     },
     "vix": {
-      "price": 14.455,
-      "change": 0.965,
-      "pct": 7.1534,
-      "closes": [],
+      "price": 14.922,
+      "change": 0.467,
+      "pct": 3.2307,
+      "closes": [
+        14.270000457763672,
+        14.390000343322754,
+        14.297499656677246,
+        14.354999542236328,
+        14.380000114440918,
+        14.354999542236328,
+        14.335000038146973,
+        14.444999694824219,
+        14.515000343322754,
+        14.612500190734863,
+        14.515000343322754,
+        14.529999732971191,
+        14.5024995803833,
+        14.600000381469727,
+        14.600000381469727,
+        14.537500381469727,
+        14.729999542236328,
+        14.78499984741211,
+        14.835000038146973,
+        14.882499694824219,
+        14.782500267028809,
+        14.819999694824219,
+        14.837499618530273,
+        14.852499961853027,
+        14.867500305175781,
+        14.917499542236328,
+        14.899999618530273,
+        14.922499656677246
+      ],
       "ok": true,
-      "updated_at": "2026-10-05T00:16:15.431012+00:00"
+      "updated_at": "2026-10-05T05:56:57.950953+00:00"
     },
     "usdinr": {
-      "price": 96.3,
-      "change": 0.0,
-      "pct": 0.0,
+      "price": 96.27,
+      "change": -0.03,
+      "pct": -0.0312,
       "closes": [
         96.30000305175781,
         96.30000305175781,
-        96.30000305175781
+        96.30000305175781,
+        96.30000305175781,
+        96.31500244140625,
+        96.22750091552734,
+        96.23500061035156,
+        96.23999786376953,
+        96.24749755859375,
+        96.25,
+        96.23999786376953,
+        96.23750305175781,
+        96.23999786376953,
+        96.24749755859375,
+        96.25,
+        96.25250244140625,
+        96.25499725341797,
+        96.26249694824219,
+        96.25,
+        96.25250244140625,
+        96.25250244140625,
+        96.25,
+        96.24500274658203,
+        96.25250244140625,
+        96.25,
+        96.23999786376953,
+        96.26000213623047,
+        96.26000213623047,
+        96.26249694824219,
+        96.26249694824219,
+        96.26750183105469,
+        96.26499938964844,
+        96.26499938964844,
+        96.2750015258789,
+        96.2750015258789,
+        96.2699966430664
       ],
       "ok": true,
-      "updated_at": "2026-10-05T00:16:15.551189+00:00"
+      "updated_at": "2026-10-05T05:56:57.987997+00:00"
     },
     "gold": {
-      "price": 4178.2,
-      "change": 15.9,
-      "pct": 0.382,
+      "price": 4167.7,
+      "change": 5.4,
+      "pct": 0.1297,
       "closes": [
-        4169.0,
-        4168.0,
+        4167.5,
         4167.2998046875,
-        4169.2001953125,
-        4171.39990234375,
-        4170.60009765625,
-        4171.39990234375,
-        4176.10009765625,
-        4175.7998046875,
-        4176.0,
-        4172.7998046875,
-        4172.7001953125,
-        4173.2998046875,
-        4174.5,
-        4173.39990234375,
-        4174.10009765625,
-        4172.89990234375,
-        4173.2001953125,
-        4172.60009765625,
-        4169.5,
-        4170.0,
-        4171.60009765625,
-        4178.60009765625,
-        4178.2998046875,
-        4178.2001953125
+        4162.7001953125,
+        4161.10009765625,
+        4159.7001953125,
+        4153.89990234375,
+        4157.2001953125,
+        4159.2001953125,
+        4161.10009765625,
+        4161.5,
+        4159.7998046875,
+        4158.7998046875,
+        4159.0,
+        4164.0,
+        4166.39990234375,
+        4166.2001953125,
+        4165.2998046875,
+        4165.0,
+        4162.10009765625,
+        4164.5,
+        4168.2001953125,
+        4165.89990234375,
+        4167.7001953125
       ],
       "ok": true,
-      "updated_at": "2026-10-05T00:16:15.677697+00:00"
+      "updated_at": "2026-10-05T05:56:58.023822+00:00"
     },
     "crude": {
-      "price": 90.59,
-      "change": -0.52,
-      "pct": -0.5707,
+      "price": 89.94,
+      "change": -1.17,
+      "pct": -1.2842,
       "closes": [
-        91.38999938964844,
-        91.37999725341797,
-        91.36000061035156,
-        91.29000091552734,
-        91.16999816894531,
-        91.16999816894531,
-        91.02999877929688,
-        91.02999877929688,
-        91.0199966430664,
-        91.05000305175781,
-        91.12000274658203,
-        91.16000366210938,
-        91.11000061035156,
-        91.06999969482422,
-        91.08999633789062,
-        91.06999969482422,
-        91.12000274658203,
-        91.08000183105469,
-        90.9800033569336,
-        90.9000015258789,
-        90.8499984741211,
-        90.8499984741211,
-        90.55999755859375,
-        90.54000091552734,
-        90.58999633789062
+        89.97000122070312,
+        89.94000244140625,
+        89.94999694824219,
+        89.8499984741211,
+        89.73999786376953,
+        89.91000366210938,
+        90.11000061035156,
+        90.25,
+        90.31999969482422,
+        90.2300033569336,
+        90.29000091552734,
+        90.33000183105469,
+        90.1500015258789,
+        89.97000122070312,
+        89.94000244140625,
+        89.95999908447266,
+        89.94999694824219,
+        90.12000274658203,
+        90.23999786376953,
+        90.2699966430664,
+        90.05999755859375,
+        89.86000061035156,
+        89.94000244140625
       ],
       "ok": true,
-      "updated_at": "2026-10-05T00:16:15.808866+00:00"
+      "updated_at": "2026-10-05T05:56:58.060984+00:00"
     },
     "us10y": {
       "price": 5.277,
@@ -180,43 +322,43 @@
         5.2769999504089355
       ],
       "ok": true,
-      "updated_at": "2026-10-05T00:16:15.942015+00:00"
+      "updated_at": "2026-10-05T05:56:58.114595+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-10-05T00:16:16.317617+00:00",
+      "updated_at": "2026-10-05T05:56:58.341750+00:00",
       "items": [
         {
-          "title": "ET Alpha Wealth Summit 2.0: Date, venue &amp; other key details",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-2026-date-venue-speakers-agenda-and-registration/articleshow/134671923.cms",
-          "pubDate": "2026-10-04T13:52:46+05:30"
+          "title": "Negative Breakout: These 7 stocks cross below their 200 DMAs",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-7-stocks-cross-below-their-200-dmas/downside-ahead/slideshow/134683932.cms",
+          "pubDate": "2026-10-05T07:36:31+05:30"
         },
         {
-          "title": "This Nifty outperformer could reward investors in a muted mkt. Here’s why",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-why-this-rare-nifty-outperformer-is-likely-to-reward-investors-in-a-muted-market/articleshow/134671703.cms",
-          "pubDate": "2026-10-04T13:27:09+05:30"
+          "title": "Nifty under pressure after 8-week losing streak, but technical rebound may be near",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-under-pressure-after-8-week-losing-streak-but-technical-rebound-may-be-near/articleshow/134683776.cms",
+          "pubDate": "2026-10-05T07:35:30+05:30"
         },
         {
-          "title": "Will FPIs return to Dalal Street? 5 cues that could spur a return",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/what-will-bring-foreign-investors-back-to-indian-stock-market-5-things-that-should-go-right/articleshow/134671265.cms",
-          "pubDate": "2026-10-04T12:44:52+05:30"
+          "title": "These stocks defy market volatility, extend rally beyond US-Iran ceasefire",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/these-stocks-defy-market-volatility-extend-rally-beyond-us-iran-ceasefire/articleshow/134683559.cms",
+          "pubDate": "2026-10-05T07:11:58+05:30"
         },
         {
-          "title": "After Nifty’s longest losing run in 25 years. What lies next?",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/afterniftys-longest-losing-streak-in-25-years-what-should-investors-do-now/articleshow/134670772.cms",
-          "pubDate": "2026-10-04T12:07:35+05:30"
+          "title": "Largecaps bear brunt of selloff as 84% of Nifty 50 stocks slip below 200-DMA",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/largecaps-bear-brunt-of-selloff-as-84-of-nifty-50-stocks-slip-below-200-dma/articleshow/134683107.cms",
+          "pubDate": "2026-10-05T06:03:25+05:30"
         },
         {
-          "title": "Axis Direct picks 5 smallcap stocks with up to 40% upside",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-direct-picks-5-smallcap-stocks-with-up-to-40-upside-potential-how-many-do-you-have/slideshow/134670761.cms",
-          "pubDate": "2026-10-04T11:51:39+05:30"
+          "title": "September IPO rush draws $1 billion FPI money even as listed stocks see record outflows",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/september-ipo-rush-draws-1-billion-fpi-money-even-as-listed-stocks-see-record-outflows/articleshow/134683037.cms",
+          "pubDate": "2026-10-05T05:57:17+05:30"
         },
         {
-          "title": "7 midcap stocks with rising EPS for four straight quarters. Are they in your portfolio?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/7-midcap-stocks-with-rising-eps-for-four-straight-quarters-are-they-in-your-portfolio/slideshow/134670681.cms",
-          "pubDate": "2026-10-04T11:34:50+05:30"
+          "title": "National Housing Bank set to conduct forensic audit of SRG Housing Finance",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/national-housing-bank-set-to-conduct-forensic-audit-of-srg-housing-finance/articleshow/134683279.cms",
+          "pubDate": "2026-10-04T23:32:41+05:30"
         },
         {
           "title": "Nepal rescuers continue search for missing as identification of dead remains challenge",
@@ -341,8 +483,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-10-04T15:25:44.360267+00:00",
+      "ok": true,
+      "updated_at": "2026-10-05T05:56:58.413869+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -423,164 +565,239 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-10-05T00:16:16.625778+00:00",
+      "updated_at": "2026-10-05T05:56:58.535847+00:00",
       "items": [
         {
-          "title": "Why Oil Is Still Stuck Near $100 a Barrel",
-          "link": "https://www.livemint.com/market/why-oil-is-still-stuck-near-100-a-barrel-11791121957103.html",
-          "pubDate": "2026-10-04T19:22:36+05:30"
+          "title": "Avenue Supermarts shares fall despite strong Q2 update | What’s weighing on DMart?",
+          "link": "https://www.livemint.com/market/stock-market-news/avenue-supermarts-shares-fall-despite-strong-q2-update-what-s-weighing-on-dmart-11791178356690.html",
+          "pubDate": "2026-10-05T11:16:50+05:30"
         },
         {
-          "title": "Top stocks to watch tomorrow: HDFC Bank, Yes Bank, RVNL, Bajaj Finance shares in focus on Monday, 5 Oct | Full list",
-          "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-tomorrow-hdfc-bank-yes-bank-rvnl-bajaj-finance-shares-in-focus-on-monday-5-oct-full-list-11791113905735.html",
-          "pubDate": "2026-10-04T18:06:09+05:30"
+          "title": "Novartis India share price jumps 10% | What lies ahead for the stock?",
+          "link": "https://www.livemint.com/market/stock-market-news/novartis-india-share-price-jumps-10-what-lies-ahead-for-the-stock-11791174924429.html",
+          "pubDate": "2026-10-05T10:52:08+05:30"
         },
         {
-          "title": "LTM, Cyient, Zen, Birlasoft share price target, stop-loss - IT stocks to buy for over 32% returns ahead of Q2 results",
-          "link": "https://www.livemint.com/market/stock-market-news/ltm-cyient-zen-birlasoft-share-price-target-stop-loss-it-stocks-to-buy-for-over-32-returns-ahead-of-q2-results-11791111110434.html",
-          "pubDate": "2026-10-04T17:06:21+05:30"
+          "title": "HDFC Bank, YES Bank, AU SFB: Bank stocks jump; Bank Nifty up over 1% - Q2 business updates, share price rally explained",
+          "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-yes-bank-au-sfb-bank-stocks-jump-bank-nifty-up-over-1-q2-business-updates-share-price-rally-explained-11791175983951.html",
+          "pubDate": "2026-10-05T10:33:41+05:30"
         },
         {
-          "title": "Sensex, Nifty, Bank Nifty prediction: What will happen in the Indian stock market on Monday? 3 reasons tell the scene",
-          "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-bank-nifty-prediction-what-will-happen-in-the-indian-stock-market-on-monday-3-reasons-tell-the-scene-11791107343487.html",
-          "pubDate": "2026-10-04T16:48:12+05:30"
+          "title": "Adani Energy Solutions share price rally: From  ₹990 to  ₹1,350 in just 6 months: Know why the stock has surged 43%",
+          "link": "https://www.livemint.com/market/stock-market-news/adani-energy-solutions-share-price-rally-from-rs-990-to-rs-1-350-in-just-6-months-know-why-the-stock-has-surged-43-11791175775004.html",
+          "pubDate": "2026-10-05T10:24:06+05:30"
         },
         {
-          "title": "Tata Comms, Siemens, Aadhar Housing, Styrenix, Sudarshan — Top 5 stocks to buy on Monday | Target, SL by Sumeet Bagadia",
-          "link": "https://www.livemint.com/market/stock-market-news/top-5-breakout-stocks-to-buy-enrin-aadhar-hfc-styrenix-tata-comm-sudarschem-by-sumeet-bagadia-target-stoploss-11791105297463.html",
-          "pubDate": "2026-10-04T16:30:31+05:30"
+          "title": "NSE vs BSE: Which is a better exchange stock to buy ahead of Q2 results - What experts suggest | Target price, stop-loss",
+          "link": "https://www.livemint.com/market/stock-market-news/nse-vs-bse-which-is-a-better-exchange-stock-to-buy-ahead-of-q2-results-what-experts-suggest-target-price-stoploss-11791173950455.html",
+          "pubDate": "2026-10-05T10:19:34+05:30"
         },
         {
-          "title": "TCS, Tech Mahindra, Coforge, Mphasis: IT stocks picks and investment ideas after Accenture results ahead of Q2 earnings",
-          "link": "https://www.livemint.com/market/stock-market-news/tcs-tech-mahindra-coforge-mphasis-it-stocks-picks-and-investment-ideas-after-accenture-results-ahead-of-q2-earnings-11791106363192.html",
-          "pubDate": "2026-10-04T16:07:16+05:30"
+          "title": "116% up in 5 years! Shipping Corporation of India share price jumps 4% today | What should investors do?",
+          "link": "https://www.livemint.com/market/stock-market-news/116-up-in-5-years-shipping-corporation-of-india-share-price-jumps-4-today-heres-why-and-what-should-investors-do-11791173242399.html",
+          "pubDate": "2026-10-05T10:16:06+05:30"
         },
         {
-          "title": "CAS update: Sebi gets 20k comments on Closing Auction Session, Timings, Derivates Contracts Settlement Methodologies",
-          "link": "https://www.livemint.com/market/stock-market-news/cas-update-sebi-gets-20k-comments-on-closing-auction-session-timings-derivates-contracts-settlement-methodologies-11791103696405.html",
-          "pubDate": "2026-10-04T15:00:36+05:30"
+          "title": "SGX Loses $4.2 Billion in Value as Analysts Balk at Valuation",
+          "link": "https://www.livemint.com/market/sgx-loses-4-2-billion-in-value-as-analysts-balk-at-valuation-11791175418510.html",
+          "pubDate": "2026-10-05T10:13:38+05:30"
         },
         {
-          "title": "Top 3 stocks to buy: HDFC Bank, Infosys, BEL by Ganesh Dongre | Target price, stop-loss for IT, defence and bank shares",
-          "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-hdfc-bank-infosys-bel-by-ganesh-dongre-target-price-stop-loss-for-it-defence-and-bank-shares-11791102137574.html",
-          "pubDate": "2026-10-04T14:26:36+05:30"
+          "title": "V2 Retail shares plunge 19% after Q2 business update | What lies ahead for investors?",
+          "link": "https://www.livemint.com/market/stock-market-news/v2-retail-shares-plunge-19-after-q2-business-update-what-lies-ahead-for-investors-11791173055240.html",
+          "pubDate": "2026-10-05T09:53:57+05:30"
         },
         {
-          "title": "OPEC  Set to Keep Quotas Steady in November, Delegates Say",
-          "link": "https://www.livemint.com/market/opec-set-to-keep-quotas-steady-in-november-delegates-say-11791103809779.html",
-          "pubDate": "2026-10-04T14:20:09+05:30"
+          "title": "Why Bajaj Finance needs to raise the bar for diluting equity",
+          "link": "https://www.livemint.com/market/mark-to-market/bajaj-finance-stock-price-bajaj-finserv-equity-fundraise-bajaj-housing-finance-11791170599622.html",
+          "pubDate": "2026-10-05T09:41:29+05:30"
         },
         {
-          "title": "D-Mart Q2 business update: Multibagger Avenue Supermarts - How ace investor Damani's firm grew in revenue, store count",
-          "link": "https://www.livemint.com/market/stock-market-news/dmart-q2-business-update-multibagger-avenue-supermarts-how-ace-investor-damanis-firm-grew-in-revenue-store-count-11791098609384.html",
-          "pubDate": "2026-10-04T14:08:33+05:30"
+          "title": "Why is stock market up today? Top 3 factors behind the rally in Sensex, Nifty today",
+          "link": "https://www.livemint.com/market/stock-market-news/why-is-stock-market-up-today-top-3-factors-behind-the-rally-in-sensex-nifty-today-11791172549641.html",
+          "pubDate": "2026-10-05T09:33:17+05:30"
         },
         {
-          "title": "RBI MPC Meeting October 2026: Repo rate hike will be decided by these 5 factors | Explained",
-          "link": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-october-2026-repo-rate-hike-will-be-decided-by-these-5-factors-explained-11791093642745.html",
-          "pubDate": "2026-10-04T12:34:35+05:30"
+          "title": "Stock split, spin-off: Last chance to buy these stocks today ahead of record date - Ratio, stock performance, other info",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-split-spin-off-action-last-chance-to-buy-these-two-stocks-today-ahead-of-record-dates-check-ratio-stock-perfo-11791170008807.html",
+          "pubDate": "2026-10-05T09:11:05+05:30"
         },
         {
-          "title": "Another big development in Tata Boardroom Battle; Noel Tata seeks video recording and minutes of Sept 17 meeting",
-          "link": "https://www.livemint.com/market/another-big-development-in-tata-boardroom-battle-noel-tata-seeks-video-recording-and-minutes-of-sept-17-meeting-11791095186384.html",
-          "pubDate": "2026-10-04T12:11:18+05:30"
+          "title": "Top stocks to buy for short term: Jigar Patel suggests Omnitech Eng, IT BEES, Laxmi Organic - Target price, stop loss",
+          "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-for-short-term-jigar-patel-suggests-omnitech-eng-it-bees-laxmi-organic-target-price-stop-loss-11791170523362.html",
+          "pubDate": "2026-10-05T09:10:49+05:30"
         },
         {
-          "title": "Best Vedanta share to buy amid Q2 results? Vedanta Power vs Hindustan Zinc vs Vedanta Aluminium vs Vedanta Oil &amp; Gas",
-          "link": "https://www.livemint.com/market/stock-market-news/best-vedanta-share-to-buy-amid-q2-results-vedanta-power-vs-hindustan-zinc-vs-vedanta-aluminium-vs-vedanta-oil-gas-11791089427498.html",
-          "pubDate": "2026-10-04T11:10:08+05:30"
+          "title": "Stock market today LIVE: Sensex up 500 points, Nifty up 150 points; HDFC Bank, RIL, Bajaj Finance shares gain",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-live-gift-nifty-signals-relief-rally-for-sensex-nifty-rbi-mpc-it-hdfc-bank-omc-stocks-in-focus-11791169559540.html",
+          "pubDate": "2026-10-05T09:00:39+05:30"
         },
         {
-          "title": "Stock market prediction for tomorrow, 5 Oct Monday: Sensex, Nifty outlook; Dow Jones, Nasdaq, Kospi, Nikkei, Taiwan cues",
-          "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-tomorrow-5-oct-monday-sensex-nifty-outlook-dow-jones-nasdaq-kospi-nikkei-taiwan-cues-11791044203935.html",
-          "pubDate": "2026-10-04T10:09:44+05:30"
+          "title": "IPO GMP comparison: Vishal Nirmiti vs Nityas Gems &amp; Jewellery | Here's allotment date, listing share price prediction",
+          "link": "https://www.livemint.com/market/ipo/ipo-gmp-comparison-vishal-nirmiti-vs-nityas-gems-jewellery-heres-allotment-listing-share-price-prediction-11791168068520.html",
+          "pubDate": "2026-10-05T08:56:44+05:30"
         },
         {
-          "title": "HDFC Bank gets new MD-CEO; stock is Jefferies India's top pick — 22% upside despite 27% dip in YTD | Target price, ratio",
-          "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-gets-new-md-ceo-stock-is-jefferies-indias-top-pick-22-upside-despite-27-dip-in-ytd-target-price-ratio-11791043530085.html",
-          "pubDate": "2026-10-04T09:00:25+05:30"
+          "title": "Saudis Slash Oil Prices to Asia in Battle for Market Share",
+          "link": "https://www.livemint.com/market/saudis-slash-oil-prices-to-asia-in-battle-for-market-share-11791170751462.html",
+          "pubDate": "2026-10-05T08:55:51+05:30"
         },
         {
-          "title": "Upcoming dividend, stock split, bonus shares this week: NMDC, PH Capital, MoldTek, GTV and others - Record date, ratio",
-          "link": "https://www.livemint.com/market/upcoming-dividend-stock-split-bonus-shares-this-week-nmdc-ph-capital-moldtek-gtv-and-others-record-date-ratio-11790967535671.html",
-          "pubDate": "2026-10-04T09:00:05+05:30"
+          "title": "SEBI’s investor awareness campaign grabs investors’ attention | Here's social media post by BSE, NSE, MCX, CDSL &amp; NSDL",
+          "link": "https://www.livemint.com/market/stock-market-news/sebis-investor-awareness-campaign-grabs-investors-attention-heres-social-media-post-by-bse-nse-mcx-csdl-11791165733372.html",
+          "pubDate": "2026-10-05T08:08:00+05:30"
         },
         {
-          "title": "Chinese savers want to invest in US stocks. Now there’s an easier way.",
-          "link": "https://www.livemint.com/market/stock-market-news/chinese-savers-want-to-invest-in-us-stocks-now-there-s-an-easier-way-11791080630692.html",
-          "pubDate": "2026-10-04T07:56:14+05:30"
+          "title": "Top pick: Despite negative YTD return, Jefferies India says buy this hotel stock for 15% upside; Target price, rationale",
+          "link": "https://www.livemint.com/market/stock-market-news/top-pick-despite-negative-ytd-return-jefferies-india-says-buy-this-hotel-stock-for-15-upside-target-price-rationale-11791119094520.html",
+          "pubDate": "2026-10-05T08:01:24+05:30"
         },
         {
-          "title": "Tanvi Exports files for IPO: 5 key highlights from gold jewellery maker’s DRHP",
-          "link": "https://www.livemint.com/market/tanvi-exports-files-for-ipo-5-key-highlights-from-gold-jewellery-maker-s-drhp-11791050208188.html",
-          "pubDate": "2026-10-03T23:58:47+05:30"
+          "title": "Gold gains as October Fed rate hike prospects fade",
+          "link": "https://www.livemint.com/market/gold-gains-as-october-fed-rate-hike-prospects-fade-11791166334138.html",
+          "pubDate": "2026-10-05T07:42:13+05:30"
         },
         {
-          "title": "Sebi gets 3,500+ comments on Closing Auction Session rules: Circular likely soon, says Tuhin Kanta Pandey",
-          "link": "https://www.livemint.com/market/stock-market-news/sebi-gets-3-500-comments-on-closing-auction-session-rules-circular-likely-soon-says-tuhin-kanta-pandey-11791029104228.html",
-          "pubDate": "2026-10-03T18:35:53+05:30"
+          "title": "Top stocks to watch and why today: Ola, HDFC Bank, Nykaa, Infosys shares in focus on Monday, 5 Oct | Full list",
+          "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-and-why-today-ola-hdfc-bank-nykaa-infosys-shares-in-focus-on-monday-5-oct-full-list-11791163751403.html",
+          "pubDate": "2026-10-05T07:29:40+05:30"
         },
         {
-          "title": "Nvidia on fire again after massive $1 trn wipe out recently - what’s boosting stock of world’s most valuable company",
-          "link": "https://www.livemint.com/market/stock-market-news/nvidia-on-fire-again-after-massive-1-trn-wipe-out-recently-what-s-boosting-stock-of-world-s-most-valuable-company-11791027856530.html",
-          "pubDate": "2026-10-03T17:50:28+05:30"
+          "title": "Booming Leverage in Indian Stocks Fuels $33 Billion Debt Binge",
+          "link": "https://www.livemint.com/market/booming-leverage-in-indian-stocks-fuels-33-billion-debt-binge-11791165418152.html",
+          "pubDate": "2026-10-05T07:26:57+05:30"
         },
         {
-          "title": "Global AI stock correction may benefit India, but RBI Governor flags market risks",
-          "link": "https://www.livemint.com/market/stock-market-news/global-ai-stock-correction-may-benefit-india-but-rbi-governor-flags-market-risks-11791023745748.html",
-          "pubDate": "2026-10-03T17:48:28+05:30"
+          "title": "Stock market outlook today, 5 Oct: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Nikkei, Taiwan cues",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-5-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-nikkei-taiwan-cues-11791161339435.html",
+          "pubDate": "2026-10-05T06:58:24+05:30"
         },
         {
-          "title": "TCS, Infosys, Wipro shares ahead of Q2 results: Explained | What Accenture's strong earnings mean for Indian IT stocks",
-          "link": "https://www.livemint.com/market/stock-market-news/tcs-infosys-wipro-shares-ahead-of-q2-results-explained-what-accentures-strong-earnings-mean-for-indian-it-stocks-11791014052622.html",
-          "pubDate": "2026-10-03T17:08:25+05:30"
+          "title": "China Fund Closures Head for Eight-Year High as Demand Fades",
+          "link": "https://www.livemint.com/market/china-fund-closures-head-for-eight-year-high-as-demand-fades-11791161739875.html",
+          "pubDate": "2026-10-05T06:25:39+05:30"
         },
         {
-          "title": "Vaishali Parekh's top 3 stocks to buy: HDFC Bank, NRB Bearings, Lalithaa Jewellery | Target, stop-loss, market outlook",
-          "link": "https://www.livemint.com/market/stock-market-news/vaishali-parekhs-top-3-stocks-to-buy-hdfc-bank-nrb-bearings-lalithaa-jewellery-target-stop-loss-market-outlook-11791013240687.html",
-          "pubDate": "2026-10-03T17:00:11+05:30"
+          "title": "The stock market is looking ahead to earnings season—and it likes what it sees",
+          "link": "https://www.livemint.com/market/the-stock-market-is-looking-ahead-to-earnings-season-and-it-likes-what-it-sees-11791161226575.html",
+          "pubDate": "2026-10-05T06:18:10+05:30"
         },
         {
-          "title": "FPIs pull out over  ₹35,000 cr in Indian stocks in Sept: Why SEBI’s easier access reforms alone may not help",
-          "link": "https://www.livemint.com/market/stock-market-news/fpis-pull-out-over-rs-35-000-cr-in-indian-stocks-in-sept-why-sebi-s-easier-access-reforms-alone-may-not-help-11791021166199.html",
-          "pubDate": "2026-10-03T16:06:27+05:30"
+          "title": "Nifty prediction today: Oversold conditions raise rebound chances; how RBI policy will impact | Cupid top stock to watch",
+          "link": "https://www.livemint.com/market/stock-market-news/nifty-prediction-today-oversold-conditions-raise-rebound-chances-how-rbi-policy-will-impact-cupid-top-stock-to-watch-11791160722285.html",
+          "pubDate": "2026-10-05T06:17:58+05:30"
         },
         {
-          "title": "Bajaj Finance shares: Jefferies India's top stock pick — 35% upside seen despite negative YTD return | Target price",
-          "link": "https://www.livemint.com/market/stock-market-news/bajaj-finance-shares-jefferies-indias-top-stock-pick-35-upside-seen-despite-negative-ytd-return-target-price-11791015309415.html",
-          "pubDate": "2026-10-03T15:37:43+05:30"
+          "title": "Stock recommendations for 5 October from MarketSmith India",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-5-october-from-marketsmith-india-11790855503054.html",
+          "pubDate": "2026-10-05T06:01:02+05:30"
         },
         {
-          "title": "After Sept, bond yields to peak in Oct too? Experts decode future of Indian bond market; RBI's next move holds key",
-          "link": "https://www.livemint.com/market/bonds/after-sept-bond-yields-to-peak-in-oct-too-experts-decode-future-of-indian-bond-market-rbis-next-move-holds-key-11790928652341.html",
-          "pubDate": "2026-10-03T15:17:28+05:30"
+          "title": "New-age firms seek to reallocate IPO proceeds for better returns",
+          "link": "https://www.livemint.com/market/ipo/newage-firms-seek-to-reallocate-ipo-proceeds-for-better-returns-11791093212466.html",
+          "pubDate": "2026-10-05T06:00:42+05:30"
         },
         {
-          "title": "Robinhood pushes toward 24/7 trading: When does one trading day end and another begin?",
-          "link": "https://www.livemint.com/market/stock-market-news/robinhood-pushes-toward-24-7-trading-when-does-one-trading-day-end-and-another-begin-11791014947200.html",
-          "pubDate": "2026-10-03T13:49:17+05:30"
+          "title": "Capex is happening across sectors but will intensify once external issues ease: Abakkus Asset's Sunil Singhania",
+          "link": "https://www.livemint.com/market/capex-is-happening-across-sectors-but-will-intensify-once-external-issues-ease-abakkus-assets-sunil-singhania-11791093171709.html",
+          "pubDate": "2026-10-05T06:00:42+05:30"
         },
         {
-          "title": "Greed and Fear Report: Chris Wood-led Jefferies sees IT earnings soaring 65% on AI boom but flags this as a key risk",
-          "link": "https://www.livemint.com/market/stock-market-news/greed-and-fear-report-chris-wood-led-jefferies-sees-it-earnings-soaring-65-on-ai-boom-but-flags-this-as-a-key-risk-11791011466156.html",
-          "pubDate": "2026-10-03T13:10:48+05:30"
+          "title": "Top 5 IT stocks to buy today: TCS, Infosys, Mphasis, Coforge, Persistent Systems | Experts' view; Nifty FPI 150 heatmap",
+          "link": "https://www.livemint.com/market/stock-market-news/top-5-it-stocks-to-buy-today-tcs-infy-mphasis-coforge-persistent-systems-experts-view-nifty-fpi-150-heatmap-11791131315605.html",
+          "pubDate": "2026-10-05T06:00:42+05:30"
         },
         {
-          "title": "Sumeet Bagadia's top 5 stocks to buy under  ₹100 | Sagility, Ujjivan, NTPC Green, Bajaj HFL, JAYNECO; target, stoploss",
-          "link": "https://www.livemint.com/market/stock-market-news/sumeet-bagadias-top-5-stocks-to-buy-under-rs-100-sagility-ujjivan-ntpc-green-bajaj-hfl-jayneco-target-stoploss-11791009764369.html",
-          "pubDate": "2026-10-03T12:56:27+05:30"
+          "title": "IT firms' Q2 reality check: growth recovery still out of sight",
+          "link": "https://www.livemint.com/market/mark-to-market/it-sector-q2-results-2026-27-tcs-infosys-hcltech-11791095158698.html",
+          "pubDate": "2026-10-05T06:00:22+05:30"
         },
         {
-          "title": "Copper boom stocks: Hindustan Copper, Vedanta Aluminium, Hindustan Zinc, Vedanta, NALCO - Experts views on metal shares",
-          "link": "https://www.livemint.com/market/stock-market-news/copper-boom-stocks-hindustan-copper-vedanta-aluminium-hindustan-zinc-vedanta-nalco-experts-views-on-metal-shares-11790966320438.html",
-          "pubDate": "2026-10-03T12:01:48+05:30"
+          "title": "Cash, derivatives volumes sink as oil, yields roil sentiment",
+          "link": "https://www.livemint.com/market/cash-derivatives-volumes-sink-as-oil-yields-roil-sentiment-11791100948351.html",
+          "pubDate": "2026-10-05T05:51:02+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-10-05T00:16:16.903264+00:00",
+      "updated_at": "2026-10-05T05:56:58.618144+00:00",
       "items": [
+        {
+          "title": "HDFC Bank gets new CEO: Stock down 25% thus far in 2026; what charts say?",
+          "link": "https://www.business-standard.com/markets/news/hdfc-bank-share-price-new-ceo-27-ytd-fall-what-charts-say-126100500233_1.html",
+          "pubDate": "2026-10-05T11:04:34+05:30"
+        },
+        {
+          "title": "German Green Steel shares reverse listing gains, down 8% from IPO price",
+          "link": "https://www.business-standard.com/markets/news/german-green-steel-shares-reverse-listing-gains-down-8-from-ipo-price-126100500203_1.html",
+          "pubDate": "2026-10-05T10:42:46+05:30"
+        },
+        {
+          "title": "Q2 biz update, ₹17,500-crore fundraise plan drive Bajaj Finance 4% higher",
+          "link": "https://www.business-standard.com/markets/news/q2-biz-update-17-500-crore-fundraise-plan-drive-bajaj-finance-4-higher-126100500187_1.html",
+          "pubDate": "2026-10-05T10:31:33+05:30"
+        },
+        {
+          "title": "Here's why V2 Retail shed 19%; DMart slipped 4% to near 52-wk low on Monday",
+          "link": "https://www.business-standard.com/markets/news/here-s-why-v2-retail-stock-tanked-19-dmart-slipped-4-to-near-52-week-low-on-monday-126100500172_1.html",
+          "pubDate": "2026-10-05T10:22:41+05:30"
+        },
+        {
+          "title": "Gold falls ₹965 after firm start, silver gains ₹923 as global prices rise",
+          "link": "https://www.business-standard.com/markets/commodities/gold-falls-965-after-firm-start-silver-gains-923-as-global-prices-rise-126100500173_1.html",
+          "pubDate": "2026-10-05T10:09:23+05:30"
+        },
+        {
+          "title": "Snapdeal-parent Acevector shares list at nearly 12% discount to IPO price",
+          "link": "https://www.business-standard.com/markets/news/snapdeal-parent-acevector-shares-list-at-nearly-12-discount-to-ipo-price-126100500162_1.html",
+          "pubDate": "2026-10-05T10:01:32+05:30"
+        },
+        {
+          "title": "Orient Cables shares make strong debut, yield over 65% listing gains",
+          "link": "https://www.business-standard.com/markets/news/orient-cables-shares-make-strong-debut-yield-over-65-listing-gains-126100500075_1.html",
+          "pubDate": "2026-10-05T10:00:55+05:30"
+        },
+        {
+          "title": "HDFC Bank reverses gains, falls 2% after Anup Bagchi's CEO appointment",
+          "link": "https://www.business-standard.com/markets/news/hdfc-bank-shares-rise-2-as-street-cheers-anup-bagchi-s-appointment-as-ceo-126100500106_1.html",
+          "pubDate": "2026-10-05T09:21:15+05:30"
+        },
+        {
+          "title": "HDFC Bank: Anup Bagchi at helm lifts overhang; brokerages share outlook",
+          "link": "https://www.business-standard.com/markets/news/hdfc-bank-share-price-anup-bagchi-at-helm-lifts-overhang-brokerages-share-outlook-126100500103_1.html",
+          "pubDate": "2026-10-05T09:11:41+05:30"
+        },
+        {
+          "title": "India's bond yield curve poised to flatten as RBI drains surplus cash",
+          "link": "https://www.business-standard.com/markets/news/india-s-bond-yield-curve-poised-to-flatten-as-rbi-drains-surplus-cash-126100500084_1.html",
+          "pubDate": "2026-10-05T08:48:55+05:30"
+        },
+        {
+          "title": "Oil prices slip as West Asia crude exports rise, G7 to release stocks",
+          "link": "https://www.business-standard.com/markets/commodities/oil-prices-climb-after-yemen-s-houthi-rebels-attack-saudi-aramco-sites-126100500046_1.html",
+          "pubDate": "2026-10-05T07:57:30+05:30"
+        },
+        {
+          "title": "Stocks to watch: HDFC Bank, Ola Electric, D-Mart, YES Bank, Bajaj Finance",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-october-5-hdfc-bank-ola-electric-d-mart-yes-bank-bajaj-finance-126100500058_1.html",
+          "pubDate": "2026-10-05T07:56:27+05:30"
+        },
+        {
+          "title": "Angel One sees Nifty support at 22,200-22,000; identifies 3 bullish stocks",
+          "link": "https://www.business-standard.com/markets/news/angel-one-sees-nifty-support-at-22-200-22-000-identifies-3-bullish-stocks-126100500060_1.html",
+          "pubDate": "2026-10-05T07:54:45+05:30"
+        },
+        {
+          "title": "Stock Market LIVE: Sensex off 500 points from day's high, Nifty below 22,500; IT, auto shares weigh",
+          "link": "https://www.business-standard.com/markets/news/stock-market-live-october-5-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-snapdeal-listing-today-rvnl-share-price-today-ipo-today-126100500057_1.html",
+          "pubDate": "2026-10-05T07:49:00+05:30"
+        },
+        {
+          "title": "IDBI Bank, Lal PathLabs, Welspun Living: Top stock ideas by Choice Broking",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-buy-today-idbi-bank-lal-pathlabs-welspun-living-top-stock-ideas-by-choice-broking-126100500055_1.html",
+          "pubDate": "2026-10-05T07:35:31+05:30"
+        },
         {
           "title": "SME listings sink as mainboard IPO index delivers over 10% annual return",
           "link": "https://www.business-standard.com/markets/news/sme-listings-sink-as-mainboard-ipo-index-delivers-over-10-annual-return-126100400367_1.html",
@@ -594,7 +811,7 @@
         {
           "title": "CDMO players to maintain outperformance on multiple growth triggers",
           "link": "https://www.business-standard.com/markets/news/markets-news-cdmo-players-to-maintain-outperformance-on-growth-triggers-126100400339_1.html",
-          "pubDate": "2026-10-04T15:24:32+05:30"
+          "pubDate": "2026-10-04T15:24:49+05:30"
         },
         {
           "title": "RBI MPC policy, oil prices, bond yields may drive market this week",
@@ -604,7 +821,7 @@
         {
           "title": "B2B commerce firm OfBusiness plan IPO next year, DRHP likely in Nov",
           "link": "https://www.business-standard.com/companies/start-ups/companies-start-ups-ofbusiness-plans-600-800-million-ipo-drhp-in-november-126100400194_1.html",
-          "pubDate": "2026-10-04T12:52:45+05:30"
+          "pubDate": "2026-10-04T12:52:06+05:30"
         },
         {
           "title": "Jio IPO likely by Oct end at enterprise valuation of above ₹12 trillion",
@@ -655,88 +872,28 @@
           "title": "Accenture beats Q4 revenue guidance, projects 3-6% growth for FY27",
           "link": "https://www.business-standard.com/companies/news/accenture-beats-q4-revenue-guidance-projects-3-6-growth-for-fy27-126100101493_1.html",
           "pubDate": "2026-10-01T22:26:04+05:30"
-        },
-        {
-          "title": "Indian firms defy market slump with record $25 bn equity fundraise in H1",
-          "link": "https://www.business-standard.com/markets/news/indian-firms-defy-market-slump-with-record-25-bn-equity-fundraise-in-h1-126100101190_1.html",
-          "pubDate": "2026-10-01T22:07:19+05:30"
-        },
-        {
-          "title": "Sebi revamps document verification system to curb fake letters and notices",
-          "link": "https://www.business-standard.com/markets/news/sebi-revamps-document-verification-system-to-curb-fake-letters-and-notices-126100101462_1.html",
-          "pubDate": "2026-10-01T22:02:30+05:30"
-        },
-        {
-          "title": "Nifty's eight-week slide puts 2001 low back in sight amid oil spike",
-          "link": "https://www.business-standard.com/markets/news/nifty-s-eight-week-slide-puts-2001-record-back-in-sight-as-brent-bites-126100101089_1.html",
-          "pubDate": "2026-10-01T20:24:19+05:30"
-        },
-        {
-          "title": "Sindhuja raises ₹100 crore via NCDs; Carlsberg gets Sebi approval for IPO",
-          "link": "https://www.business-standard.com/markets/news/sindhuja-raises-100-crore-via-ncds-carlsberg-gets-sebi-approval-for-ipo-126100101273_1.html",
-          "pubDate": "2026-10-01T20:10:41+05:30"
-        },
-        {
-          "title": "September IPO fundraising highest so far in CY26 amid Nifty's big fall",
-          "link": "https://www.business-standard.com/markets/news/september-fundraising-highest-for-any-month-this-year-amid-nifty-s-big-fall-126100101167_1.html",
-          "pubDate": "2026-10-01T20:03:49+05:30"
-        },
-        {
-          "title": "Foreign capital shuns India despite strong growth: S&P-Crisil report",
-          "link": "https://www.business-standard.com/markets/news/foreign-capital-shuns-india-despite-strong-growth-s-p-crisil-report-126100101257_1.html",
-          "pubDate": "2026-10-01T19:59:19+05:30"
-        },
-        {
-          "title": "Rupee, bonds face pressure as US Treasury yields rise and crude tops $100",
-          "link": "https://www.business-standard.com/markets/news/rupee-bonds-face-pressure-as-us-treasury-yields-rise-and-crude-tops-100-126100101136_1.html",
-          "pubDate": "2026-10-01T19:18:20+05:30"
-        },
-        {
-          "title": "Sebi to make investor awareness messages mandatory on broker apps, sites",
-          "link": "https://www.business-standard.com/markets/news/sebi-to-make-investor-awareness-messages-mandatory-on-broker-apps-sites-126100100962_1.html",
-          "pubDate": "2026-10-01T19:04:01+05:30"
-        },
-        {
-          "title": "IPOs lap up record ₹94,205 crore in April-September FY27: Report",
-          "link": "https://www.business-standard.com/markets/news/ipos-lap-up-record-94-205-crore-in-april-september-fy27-report-126100100972_1.html",
-          "pubDate": "2026-10-01T18:53:31+05:30"
-        },
-        {
-          "title": "Airtel Money to raise £529 million in LSE IPO at £5.3 billion valuation",
-          "link": "https://www.business-standard.com/markets/ipo/airtel-money-to-raise-529-million-in-lse-ipo-at-5-3-billion-valuation-126100100836_1.html",
-          "pubDate": "2026-10-01T16:26:17+05:30"
-        },
-        {
-          "title": "Morepen Labs hits new high on huge volume; stock up 191% in 4 months",
-          "link": "https://www.business-standard.com/markets/news/morepen-labs-hits-new-high-on-huge-volume-stock-up-191-in-4-months-126100100727_1.html",
-          "pubDate": "2026-10-01T15:37:02+05:30"
-        },
-        {
-          "title": "Who is Adam Back, the Bitcoin pioneer behind Blockstream and Liquid?",
-          "link": "https://www.business-standard.com/markets/cryptocurrency/who-is-adam-back-the-bitcoin-pioneer-behind-blockstream-and-liquid-126100100684_1.html",
-          "pubDate": "2026-10-01T15:07:52+05:30"
-        },
-        {
-          "title": "Anarock Property Consultants files DRHP to raise ₹1,000 cr via IPO",
-          "link": "https://www.business-standard.com/markets/ipo/anarock-property-consultants-files-drhp-to-raise-1-000-cr-via-ipo-126100100644_1.html",
-          "pubDate": "2026-10-01T14:46:49+05:30"
-        },
-        {
-          "title": "At 52-week lows: RIL, ONGC, M&M, Airtel, PB Fintech, 69 other BSE500 stocks",
-          "link": "https://www.business-standard.com/markets/news/at-52-week-lows-ril-ongc-m-m-airtel-pb-fintech-69-other-bse500-stocks-on-thursday-126100100567_1.html",
-          "pubDate": "2026-10-01T14:10:56+05:30"
-        },
-        {
-          "title": "Market crash: Sensex sinks 1,280 pts intraday, at 2026 low; Nifty at 22,200",
-          "link": "https://www.business-standard.com/markets/news/why-are-markets-falling-today-sensex-crashes-1-000-pts-intraday-hits-2026-low-nifty-at-22-300-126100100568_1.html",
-          "pubDate": "2026-10-01T13:49:39+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-10-05T00:16:17.743667+00:00",
+      "updated_at": "2026-10-05T05:56:58.664898+00:00",
       "items": [
+        {
+          "title": "RBI to conduct Second Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on October 05, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63722",
+          "pubDate": "2026-10-05T10:55:00+00:00"
+        },
+        {
+          "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on October 05, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63721",
+          "pubDate": "2026-10-05T10:20:00+00:00"
+        },
+        {
+          "title": "Money Market Operations as on October 01, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63720",
+          "pubDate": "2026-10-05T09:00:00+00:00"
+        },
         {
           "title": "RBI appoints Shri Sudhakar Malli as new Executive Director",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63719",
@@ -771,21 +928,6 @@
           "title": "Rate of Interest on Government of India Floating Rate Bond 2028",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63713",
           "pubDate": "2026-10-01T17:30:00+00:00"
-        },
-        {
-          "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63712",
-          "pubDate": "2026-10-01T17:25:00+00:00"
-        },
-        {
-          "title": "RBI issues Amendment Directions on ‘Simplified approval process for subsequent acquisitions of major shareholding in a banking company by mutual funds, insurance companies and pension funds’",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63711",
-          "pubDate": "2026-10-01T17:20:00+00:00"
-        },
-        {
-          "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) – The Industrial Co-operative Bank Ltd., Guwahati – Extension of period",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63710",
-          "pubDate": "2026-10-01T17:00:00+00:00"
         }
       ]
     }

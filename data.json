@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T13:29:59.758105+00:00",
+  "generated_at": "2026-10-11T18:17:59.505259+00:00",
   "indices": {
     "nifty50": {
       "price": 22520.45,
@@ -12,11 +12,11 @@
         22485.650390625,
         22510.599609375,
         22496.80078125,
-        22486.5,
+        22487.349609375,
         22496.400390625,
         22527.55078125,
         22518.150390625,
-        22509.69921875,
+        22509.5,
         22496.0,
         22491.69921875,
         22486.69921875,
@@ -25,10 +25,10 @@
         22450.05078125,
         22464.55078125,
         22494.30078125,
-        22470.099609375,
+        22469.75,
         22465.849609375,
         22473.05078125,
-        22467.349609375,
+        22467.19921875,
         22473.05078125,
         22479.900390625,
         22477.349609375,
@@ -37,7 +37,7 @@
         22511.94921875,
         22486.44921875,
         22502.94921875,
-        22503.05078125,
+        22503.400390625,
         22497.44921875,
         22509.80078125,
         22502.44921875,
@@ -46,7 +46,7 @@
         22526.150390625,
         22533.25,
         22520.599609375,
-        22548.5,
+        22548.650390625,
         22536.150390625,
         22558.19921875,
         22544.400390625,
@@ -68,12 +68,12 @@
         22520.44921875
       ],
       "ok": true,
-      "updated_at": "2026-10-11T13:29:57.903374+00:00"
+      "updated_at": "2026-10-11T18:17:57.244624+00:00"
     },
     "sensex": {
       "price": 72472.33,
-      "change": 879.09,
-      "pct": 1.2279,
+      "change": 879.13,
+      "pct": 1.228,
       "closes": [
         72333.4921875,
         72410.5625,
@@ -137,12 +137,12 @@
         72472.328125
       ],
       "ok": true,
-      "updated_at": "2026-10-11T13:29:58.052610+00:00"
+      "updated_at": "2026-10-11T18:17:57.309356+00:00"
     },
     "banknifty": {
       "price": 55256.65,
-      "change": 741.6,
-      "pct": 1.3604,
+      "change": 741.55,
+      "pct": 1.3603,
       "closes": [
         55150.5,
         55185.5,
@@ -150,8 +150,8 @@
         55141.05078125,
         55174.94921875,
         55153.19921875,
-        55099.8515625,
-        55126.44921875,
+        55102.0,
+        55125.1015625,
         55217.3984375,
         55168.05078125,
         55152.3984375,
@@ -160,8 +160,8 @@
         55095.25,
         55086.1484375,
         55054.69921875,
-        55043.05078125,
-        55086.05078125,
+        55044.05078125,
+        55085.44921875,
         55174.3984375,
         55124.25,
         55130.25,
@@ -170,7 +170,7 @@
         55144.94921875,
         55126.8515625,
         55099.0,
-        55140.55078125,
+        55142.8515625,
         55160.1484375,
         55184.5,
         55139.80078125,
@@ -180,7 +180,7 @@
         55229.8515625,
         55210.05078125,
         55225.19921875,
-        55244.6015625,
+        55244.0,
         55296.25,
         55285.3515625,
         55247.1484375,
@@ -206,7 +206,7 @@
         55256.6484375
       ],
       "ok": true,
-      "updated_at": "2026-10-11T13:29:58.218923+00:00"
+      "updated_at": "2026-10-11T18:17:57.370816+00:00"
     },
     "vix": {
       "price": 14.375,
@@ -275,12 +275,12 @@
         14.375
       ],
       "ok": true,
-      "updated_at": "2026-10-11T13:29:58.366550+00:00"
+      "updated_at": "2026-10-11T18:17:57.462690+00:00"
     },
     "usdinr": {
-      "price": 96.73,
-      "change": -0.05,
-      "pct": -0.0517,
+      "price": 96.78,
+      "change": 0.0,
+      "pct": 0.0,
       "closes": [
         96.59249877929688,
         96.60749816894531,
@@ -344,7 +344,7 @@
         96.77999877929688
       ],
       "ok": true,
-      "updated_at": "2026-10-11T13:29:58.567248+00:00"
+      "updated_at": "2026-10-11T18:17:57.647291+00:00"
     },
     "gold": {
       "price": 4216.3,
@@ -352,7 +352,7 @@
       "pct": 1.4265,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-10-11T13:29:58.698740+00:00"
+      "updated_at": "2026-10-11T18:17:57.707211+00:00"
     },
     "crude": {
       "price": 91.85,
@@ -360,7 +360,7 @@
       "pct": 0.3935,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-10-11T13:29:58.832467+00:00"
+      "updated_at": "2026-10-11T18:17:57.897614+00:00"
     },
     "us10y": {
       "price": 5.244,
@@ -429,13 +429,13 @@
         5.24399995803833
       ],
       "ok": true,
-      "updated_at": "2026-10-11T13:29:58.906109+00:00"
+      "updated_at": "2026-10-11T18:17:58.005908+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-10-11T13:29:59.052567+00:00",
+      "updated_at": "2026-10-11T18:17:58.055570+00:00",
       "items": [
         {
           "title": "Ashish Kacholia, Mukul Agrawal, others invest Rs 120 crore in IPO-bound Fusion CX",
@@ -590,7 +590,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-10-11T13:29:59.168904+00:00",
       "items": [
         {
@@ -672,8 +672,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-10-11T13:29:59.299824+00:00",
+      "updated_at": "2026-10-11T18:17:58.684443+00:00",
       "items": [
+        {
+          "title": "Arab Spring, Hong Kong protests, Greece anti-austerity unrest: How historic mass protests shook stock markets?",
+          "link": "https://www.livemint.com/market/stock-market-news/arab-spring-hong-kong-protests-greece-anti-austerity-unrest-how-historic-mass-protests-shook-stock-markets-11791736652123.html",
+          "pubDate": "2026-10-11T22:13:18+05:30"
+        },
+        {
+          "title": "Food delivery stock to buy: Eternal shares - 36% returns in 6 months by Zomato parent | 22% more upside ahead?",
+          "link": "https://www.livemint.com/market/stock-market-news/food-delivery-stock-to-buy-eternal-shares-36-returns-in-6-months-by-zomato-parent-22-more-upside-ahead-11791726764938.html",
+          "pubDate": "2026-10-11T19:26:40+05:30"
+        },
         {
           "title": "EV stock to buy: Ather Energy shares - 130% returns in a year, Bank of Baroda Caps sees 19% more upside | Target price",
           "link": "https://www.livemint.com/market/stock-market-news/ev-stock-to-buy-ather-energy-shares-134-returns-in-a-year-bank-of-baroda-caps-sees-19-more-upside-target-price-11791724539573.html",
@@ -813,23 +823,23 @@
           "title": "SBI, HCL Tech, Eicher Motors: Top 3 stock picks by Sumeet Bagadia | Target, stop-loss, Nifty, Bank Nifty outlook",
           "link": "https://www.livemint.com/market/stock-market-news/sbi-hcl-tech-eicher-motors-top-3-stock-picks-by-sumeet-bagadia-target-stop-loss-nifty-bank-nifty-outlook-11791630697637.html",
           "pubDate": "2026-10-10T17:21:10+05:30"
-        },
-        {
-          "title": "Why market cap of India's top 20 stocks dipped from 44% to 27% since 2020? Chris Wood of Jefferies explains",
-          "link": "https://www.livemint.com/market/stock-market-news/why-nifty-sensex-under-pressure-despite-resilient-indian-economy-chris-wood-of-jefferies-explains-11791625227421.html",
-          "pubDate": "2026-10-10T16:08:26+05:30"
-        },
-        {
-          "title": "Avenue Supermarts Q2 Results: DMart parent net profit jumps 8.5% to  ₹742.98 crore, revenue up 18%",
-          "link": "https://www.livemint.com/market/stock-market-news/avenue-supermarts-q2-results-dmart-parent-net-profit-jumps-8-5-to-rs-742-98-crore-revneue-up-18-11791626484306.html",
-          "pubDate": "2026-10-10T15:38:50+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-10-11T13:29:59.534137+00:00",
+      "updated_at": "2026-10-11T18:17:58.716148+00:00",
       "items": [
+        {
+          "title": "1,000 ex-Flipkart staffers approach Walmart over stock option liquidity",
+          "link": "https://www.business-standard.com/companies/news/around-1-000-ex-flipkart-staff-approach-walmart-over-stock-option-liquidity-126101100585_1.html",
+          "pubDate": "2026-10-11T19:13:20+05:30"
+        },
+        {
+          "title": "Around 1,000 ex-Flipkart staff approach Walmart over stock option liquidity",
+          "link": "https://www.business-standard.com/companies/news/around-1-000-ex-flipkart-staff-approach-walmart-over-stock-option-liquidity-126101100587_1.html",
+          "pubDate": "2026-10-11T19:13:05+05:30"
+        },
         {
           "title": "Crude oil futures brace for volatility amid geopolitical uncertainties",
           "link": "https://www.business-standard.com/markets/commodities/crude-oil-futures-brace-for-volatility-amid-geopolitical-uncertainties-126101100308_1.html",
@@ -841,9 +851,9 @@
           "pubDate": "2026-10-11T15:18:39+05:30"
         },
         {
-          "title": "Nifty lags global peers as Korea, Taiwan markets surge on AI boom",
+          "title": "Nifty 50 trails Asian peers; Kospi and Taiex nearly double, shows data",
           "link": "https://www.business-standard.com/markets/news/markets-news-nifty-trails-asian-global-peers-as-kospi-taiex-nearly-double-126101100332_1.html",
-          "pubDate": "2026-10-11T15:10:14+05:30"
+          "pubDate": "2026-10-11T15:10:54+05:30"
         },
         {
           "title": "IPO rush continues: Jio, Zetwerk among cos set to tap primary market in Oct",
@@ -969,22 +979,12 @@
           "title": "Hexaware Technologies share price zooms 12% on Anthropic tie-up",
           "link": "https://www.business-standard.com/markets/news/hexaware-technologies-share-price-zooms-12-on-anthropic-tie-up-126100900243_1.html",
           "pubDate": "2026-10-09T09:58:25+05:30"
-        },
-        {
-          "title": "Fusion CX fixes IPO price band at ₹275-289 per share, issue size at ₹702 cr",
-          "link": "https://www.business-standard.com/markets/ipo/fusion-cx-fixes-ipo-price-band-at-275-289-per-share-issue-size-at-702-cr-126100900212_1.html",
-          "pubDate": "2026-10-09T09:51:46+05:30"
-        },
-        {
-          "title": "WazirX futures trading volume jumps 236% in Q3 as exchange expands AI tools",
-          "link": "https://www.business-standard.com/companies/news/wazirx-futures-trading-volume-jumps-236-in-q3-as-exchange-expands-ai-tools-126100900174_1.html",
-          "pubDate": "2026-10-09T09:49:04+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-10-11T13:29:59.758090+00:00",
+      "updated_at": "2026-10-11T18:17:59.505244+00:00",
       "items": [
         {
           "title": "RBI announces special window for Public Sector Oil Marketing Companies to meet dollar requirements",

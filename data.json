@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:28:54.959879+00:00",
+  "generated_at": "2026-10-16T22:56:17.726808+00:00",
   "indices": {
     "nifty50": {
       "price": 23146.15,
@@ -68,7 +68,7 @@
         23146.150390625
       ],
       "ok": true,
-      "updated_at": "2026-10-16T20:28:53.784288+00:00"
+      "updated_at": "2026-10-16T22:56:15.281213+00:00"
     },
     "sensex": {
       "price": 74729.27,
@@ -137,7 +137,7 @@
         74729.2734375
       ],
       "ok": true,
-      "updated_at": "2026-10-16T20:28:53.828462+00:00"
+      "updated_at": "2026-10-16T22:56:15.387726+00:00"
     },
     "banknifty": {
       "price": 55844.0,
@@ -206,7 +206,7 @@
         55844.0
       ],
       "ok": true,
-      "updated_at": "2026-10-16T20:28:53.888596+00:00"
+      "updated_at": "2026-10-16T22:56:15.498161+00:00"
     },
     "vix": {
       "price": 14.025,
@@ -275,18 +275,13 @@
         14.024999618530273
       ],
       "ok": true,
-      "updated_at": "2026-10-16T20:28:53.942221+00:00"
+      "updated_at": "2026-10-16T22:56:15.603188+00:00"
     },
     "usdinr": {
       "price": 94.95,
       "change": -0.095,
       "pct": -0.1,
       "closes": [
-        95.0250015258789,
-        95.05750274658203,
-        95.05000305175781,
-        95.0625,
-        95.0374984741211,
         95.04000091552734,
         95.0250015258789,
         95.0199966430664,
@@ -341,24 +336,21 @@
         94.94999694824219,
         94.94999694824219,
         94.94999694824219,
+        94.94999694824219,
+        94.94999694824219,
+        94.94999694824219,
+        94.94999694824219,
+        94.94999694824219,
         94.94999694824219
       ],
       "ok": true,
-      "updated_at": "2026-10-16T20:28:54.004776+00:00"
+      "updated_at": "2026-10-16T22:56:15.745899+00:00"
     },
     "gold": {
-      "price": 4188.7,
-      "change": 18.6,
-      "pct": 0.446,
+      "price": 4186.7,
+      "change": 16.6,
+      "pct": 0.3981,
       "closes": [
-        4196.7001953125,
-        4197.39990234375,
-        4198.2998046875,
-        4194.0,
-        4192.7001953125,
-        4192.0,
-        4188.39990234375,
-        4187.10009765625,
         4185.2001953125,
         4189.7998046875,
         4185.89990234375,
@@ -410,24 +402,24 @@
         4188.10009765625,
         4188.39990234375,
         4188.2001953125,
-        4188.7001953125
+        4188.60009765625,
+        4189.60009765625,
+        4188.89990234375,
+        4188.7998046875,
+        4189.2998046875,
+        4188.0,
+        4185.39990234375,
+        4186.7001953125,
+        4186.7001953125
       ],
       "ok": true,
-      "updated_at": "2026-10-16T20:28:54.188394+00:00"
+      "updated_at": "2026-10-16T22:56:15.873517+00:00"
     },
     "crude": {
-      "price": 98.91,
-      "change": 2.41,
-      "pct": 2.4974,
+      "price": 99.04,
+      "change": 2.54,
+      "pct": 2.6321,
       "closes": [
-        95.69999694824219,
-        95.56999969482422,
-        95.91000366210938,
-        95.98999786376953,
-        96.5,
-        96.43000030517578,
-        96.80999755859375,
-        96.9000015258789,
         97.18000030517578,
         97.04000091552734,
         97.6500015258789,
@@ -479,10 +471,18 @@
         98.88999938964844,
         98.94999694824219,
         98.88999938964844,
-        98.91000366210938
+        99.0199966430664,
+        98.9800033569336,
+        98.9800033569336,
+        98.87999725341797,
+        98.98999786376953,
+        98.9800033569336,
+        99.01000213623047,
+        99.04000091552734,
+        99.04000091552734
       ],
       "ok": true,
-      "updated_at": "2026-10-16T20:28:54.243880+00:00"
+      "updated_at": "2026-10-16T22:56:16.017005+00:00"
     },
     "us10y": {
       "price": 5.098,
@@ -551,14 +551,19 @@
         5.0980000495910645
       ],
       "ok": true,
-      "updated_at": "2026-10-16T20:28:54.299115+00:00"
+      "updated_at": "2026-10-16T22:56:16.126085+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-10-16T20:28:54.540427+00:00",
+      "updated_at": "2026-10-16T22:56:16.316094+00:00",
       "items": [
+        {
+          "title": "US stocks: US market ends down sharply; worries about AI trade and high oil prices weigh",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-sharply-worries-about-ai-trade-and-high-oil-prices-weigh/articleshow/135003266.cms",
+          "pubDate": "2026-10-17T01:38:41+05:30"
+        },
         {
           "title": "Big US bank stocks head for longest weekly losing streak since 2008",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/big-us-bank-stocks-head-for-longest-weekly-losing-streak-since-2008/articleshow/135002546.cms",
@@ -573,11 +578,6 @@
           "title": "10 stocks held by 100+ MF schemes in September rally up to 205% in CY26; 6 turn multibaggers",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-stocks-held-by-100-mf-schemes-in-september-rally-up-to-205-in-cy26-6-turn-multibaggers/slideshow/134987505.cms",
           "pubDate": "2026-10-16T13:36:31+05:30"
-        },
-        {
-          "title": "From worst to best: How IT stocks staged a Rs 2.6 lakh crore revival this week",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-worst-to-best-how-it-stocks-staged-a-rs-2-6-lakh-crore-revival-this-week/articleshow/134986472.cms",
-          "pubDate": "2026-10-16T13:07:33+05:30"
         },
         {
           "title": "Rupee relief comes with disruptions in financial markets",
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-10-16T20:28:54.758242+00:00",
+      "updated_at": "2026-10-16T22:56:16.567161+00:00",
       "items": [
+        {
+          "title": "Foreign Holdings of US Treasuries Rise From Almost One-Year Low",
+          "link": "https://www.livemint.com/market/foreign-holdings-of-us-treasuries-rise-from-almost-one-year-low-11792184534641.html",
+          "pubDate": "2026-10-17T02:32:14+05:30"
+        },
+        {
+          "title": "ITC sets board meeting date to declare Q2 results 2026; net profit may decline due to cigarette taxation — share outlook",
+          "link": "https://www.livemint.com/market/stock-market-news/itc-sets-board-meeting-date-to-declare-q2-results-2026-net-profit-may-decline-due-to-cigarette-taxation-share-outlook-11792178741965.html",
+          "pubDate": "2026-10-17T01:59:50+05:30"
+        },
         {
           "title": "Funding Markets Diverge as T-Bills Cheapen, Overnight Repo Calm",
           "link": "https://www.livemint.com/market/funding-markets-diverge-as-t-bills-cheapen-overnight-repo-calm-11792179755736.html",
@@ -935,22 +945,12 @@
           "title": "Tech Mahindra dividend, bonus share 2026: Double delight for investors this Diwali | Should you buy ahead of record date",
           "link": "https://www.livemint.com/market/stock-market-news/tech-mahindra-dividend-bonus-share-2026-double-delight-for-investors-this-diwali-should-you-buy-ahead-of-record-date-11792139485359.html",
           "pubDate": "2026-10-16T14:36:32+05:30"
-        },
-        {
-          "title": "31% rally in 2 weeks: Orient Electric share price surges post Q2 results - ICICI Sec sees 22% upside | Target price",
-          "link": "https://www.livemint.com/market/stock-market-news/31-rally-in-2-weeks-orient-electric-share-price-surges-post-q2-results-icici-sec-sees-22-upside-target-price-11792137011730.html",
-          "pubDate": "2026-10-16T14:23:58+05:30"
-        },
-        {
-          "title": "US Fed rate hike: US inflation heats up — experts decode impact on Indian stock market, gold rates; recommend 10 stocks",
-          "link": "https://www.livemint.com/market/stock-market-news/us-fed-rate-hike-buzz-american-inflation-highest-since-covid-what-does-it-mean-for-nifty-sensex-gold-rates-decoded-11792135225649.html",
-          "pubDate": "2026-10-16T14:08:48+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-10-16T20:28:54.924545+00:00",
+      "updated_at": "2026-10-16T22:56:16.687148+00:00",
       "items": [
         {
           "title": "Indian IT stocks post best weekly gain in 18 years amid global AI sell-off",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-10-16T20:28:54.959863+00:00",
+      "updated_at": "2026-10-16T22:56:17.726793+00:00",
       "items": [
         {
           "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2020-21 Series VII due on October 19, 2026 (October 20, 2026, being a holiday)",

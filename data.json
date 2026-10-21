@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T19:23:24.632046+00:00",
+  "generated_at": "2026-10-21T22:30:24.513963+00:00",
   "indices": {
     "nifty50": {
       "price": 22811.35,
@@ -68,7 +68,7 @@
         22811.349609375
       ],
       "ok": true,
-      "updated_at": "2026-10-21T19:23:23.339205+00:00"
+      "updated_at": "2026-10-21T22:30:22.592207+00:00"
     },
     "sensex": {
       "price": 73709.69,
@@ -137,7 +137,7 @@
         73709.6875
       ],
       "ok": true,
-      "updated_at": "2026-10-21T19:23:23.397742+00:00"
+      "updated_at": "2026-10-21T22:30:22.739635+00:00"
     },
     "banknifty": {
       "price": 54976.9,
@@ -206,7 +206,7 @@
         54976.8984375
       ],
       "ok": true,
-      "updated_at": "2026-10-21T19:23:23.455763+00:00"
+      "updated_at": "2026-10-21T22:30:22.870298+00:00"
     },
     "vix": {
       "price": 15.675,
@@ -275,17 +275,13 @@
         15.675000190734863
       ],
       "ok": true,
-      "updated_at": "2026-10-21T19:23:23.518331+00:00"
+      "updated_at": "2026-10-21T22:30:23.004228+00:00"
     },
     "usdinr": {
       "price": 94.45,
       "change": -0.32,
       "pct": -0.3377,
       "closes": [
-        94.6875,
-        94.69999694824219,
-        94.7125015258789,
-        94.70500183105469,
         94.69499969482422,
         94.69000244140625,
         94.69000244140625,
@@ -341,42 +337,20 @@
         94.44999694824219,
         94.44999694824219,
         94.44999694824219,
+        94.44999694824219,
+        94.44999694824219,
+        94.44999694824219,
+        94.44999694824219,
         94.44999694824219
       ],
       "ok": true,
-      "updated_at": "2026-10-21T19:23:23.628694+00:00"
+      "updated_at": "2026-10-21T22:30:23.241152+00:00"
     },
     "gold": {
-      "price": 4134.0,
-      "change": -8.6,
-      "pct": -0.2076,
+      "price": 4154.3,
+      "change": 4.3,
+      "pct": 0.1036,
       "closes": [
-        4147.7001953125,
-        4151.7998046875,
-        4148.7001953125,
-        4149.10009765625,
-        4148.2001953125,
-        4150.39990234375,
-        4147.5,
-        4148.5,
-        4147.10009765625,
-        4145.5,
-        4145.5,
-        4146.0,
-        4152.60009765625,
-        4157.39990234375,
-        4155.7998046875,
-        4157.0,
-        4149.7998046875,
-        4151.60009765625,
-        4150.7001953125,
-        4150.10009765625,
-        4150.39990234375,
-        4149.10009765625,
-        4148.89990234375,
-        4150.0,
-        4151.2998046875,
-        4151.2001953125,
         4147.7998046875,
         4155.7998046875,
         4152.7001953125,
@@ -410,42 +384,42 @@
         4129.89990234375,
         4132.5,
         4134.7998046875,
-        4134.0
+        4136.7001953125,
+        4134.7998046875,
+        4144.10009765625,
+        4146.10009765625,
+        4153.2001953125,
+        4151.39990234375,
+        4150.2998046875,
+        4151.5,
+        4152.5,
+        4152.2001953125,
+        4152.2998046875,
+        4153.10009765625,
+        4151.7001953125,
+        4152.10009765625,
+        4151.39990234375,
+        4151.5,
+        4150.89990234375,
+        4156.5,
+        4158.89990234375,
+        4157.5,
+        4159.5,
+        4156.39990234375,
+        4154.89990234375,
+        4155.60009765625,
+        4154.2001953125,
+        4154.7998046875,
+        4154.2998046875
       ],
       "ok": true,
-      "updated_at": "2026-10-21T19:23:23.714920+00:00"
+      "updated_at": "2026-10-21T22:30:23.403125+00:00"
     },
     "crude": {
-      "price": 98.06,
-      "change": 0.24,
-      "pct": 0.2453,
+      "price": 97.88,
+      "change": 0.73,
+      "pct": 0.7514,
       "closes": [
-        97.9000015258789,
-        97.66000366210938,
-        97.86000061035156,
-        97.91000366210938,
-        97.80999755859375,
-        97.7300033569336,
-        97.70999908447266,
-        97.93000030517578,
-        97.86000061035156,
-        97.95999908447266,
-        97.8499984741211,
-        97.69000244140625,
-        97.69000244140625,
-        96.93000030517578,
-        96.77999877929688,
-        96.97000122070312,
-        97.26000213623047,
-        97.20999908447266,
-        97.01000213623047,
-        96.97000122070312,
-        97.0199966430664,
-        97.12000274658203,
-        97.30999755859375,
-        97.2300033569336,
-        97.2300033569336,
-        97.30999755859375,
         97.27999877929688,
         96.41999816894531,
         96.70999908447266,
@@ -479,10 +453,36 @@
         98.31999969482422,
         98.37999725341797,
         98.08999633789062,
-        98.05999755859375
+        97.94999694824219,
+        97.8499984741211,
+        97.55999755859375,
+        97.55999755859375,
+        97.47000122070312,
+        97.58000183105469,
+        97.62000274658203,
+        97.55000305175781,
+        97.69999694824219,
+        97.87999725341797,
+        97.83999633789062,
+        97.80000305175781,
+        97.73999786376953,
+        97.79000091552734,
+        97.69999694824219,
+        97.5999984741211,
+        97.4800033569336,
+        97.5199966430664,
+        97.5,
+        97.69999694824219,
+        97.70999908447266,
+        98.01000213623047,
+        97.80999755859375,
+        97.77999877929688,
+        97.86000061035156,
+        97.87999725341797,
+        97.87999725341797
       ],
       "ok": true,
-      "updated_at": "2026-10-21T19:23:23.784609+00:00"
+      "updated_at": "2026-10-21T22:30:23.582018+00:00"
     },
     "us10y": {
       "price": 5.146,
@@ -548,17 +548,22 @@
         5.115000247955322,
         5.130000114440918,
         5.130000114440918,
-        5.1479997634887695
+        5.145999908447266
       ],
       "ok": true,
-      "updated_at": "2026-10-21T19:23:24.210856+00:00"
+      "updated_at": "2026-10-21T22:30:23.662712+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-10-21T19:23:24.265974+00:00",
+      "updated_at": "2026-10-21T22:30:23.802977+00:00",
       "items": [
+        {
+          "title": "BlackRock expands AI push with new robotics ETF as investor enthusiasm cools",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/blackrock-expands-ai-push-with-new-robotics-etf-as-investor-enthusiasm-cools/articleshow/135099678.cms",
+          "pubDate": "2026-10-22T00:56:44+05:30"
+        },
         {
           "title": "US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction",
           "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-slip-as-ai-concern-boost-safe-haven-demand-ahead-of-20-year-auction/articleshow/135097932.cms",
@@ -583,11 +588,6 @@
           "title": "Want exposure to India's biggest banks? Zerodha launches new ETF",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/want-exposure-to-indias-biggest-banks-zerodha-launches-new-etf/articleshow/135090790.cms",
           "pubDate": "2026-10-21T16:54:00+05:30"
-        },
-        {
-          "title": "MFs raise stakes in 10 stocks in Q2; shares rally up to 130% in FY27, including 3 multibaggers",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-raise-stakes-in-10-stocks-in-q2-shares-rally-up-to-130-in-fy27-including-3-multibaggers/slideshow/135089578.cms",
-          "pubDate": "2026-10-21T16:01:44+05:30"
         },
         {
           "title": "Nepal rescuers continue search for missing as identification of dead remains challenge",
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-10-21T19:23:24.423825+00:00",
+      "updated_at": "2026-10-21T22:30:24.189544+00:00",
       "items": [
+        {
+          "title": "Gold Swings as Traders Assess Fed Rate Path Amid Mideast Worries",
+          "link": "https://www.livemint.com/market/gold-swings-as-traders-assess-fed-rate-path-amid-mideast-worries-11792615559253.html",
+          "pubDate": "2026-10-22T02:15:58+05:30"
+        },
+        {
+          "title": "Treasuries Slide After Middle East Strife Report Spurs Oil Gains",
+          "link": "https://www.livemint.com/market/treasuries-slide-after-middle-east-strife-report-spurs-oil-gains-11792613769755.html",
+          "pubDate": "2026-10-22T01:46:09+05:30"
+        },
         {
           "title": "Dollar dips as traders wait on Fed; Aussie gains",
           "link": "https://www.livemint.com/market/dollar-dips-as-traders-wait-on-fed-aussie-gains-11792610330595.html",
@@ -935,22 +945,12 @@
           "title": "Reliance Jio IPO creates history with fastest-ever full subscription - Will listing set more records? Check latest GMP",
           "link": "https://www.livemint.com/market/ipo/reliance-jio-ipo-creates-history-with-record-of-fastest-ever-subscribed-offer-will-listing-create-more-records-latest-11792572666968.html",
           "pubDate": "2026-10-21T14:30:12+05:30"
-        },
-        {
-          "title": "Paras Healthcare IPO: Can higher occupancy deliver lasting profit?",
-          "link": "https://www.livemint.com/market/ipo/paras-healthcare-ipo-review-price-band-valuation-11792564829352.html",
-          "pubDate": "2026-10-21T14:03:32+05:30"
-        },
-        {
-          "title": "HDFC Bank share price: 29% down in 2026, Anand Rathi says ‘Long road to catch-up’ | Check stock target price, reasons",
-          "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-29-down-in-2026-anand-rathi-says-long-road-to-catch-up-check-stock-target-price-reasons-11792568438527.html",
-          "pubDate": "2026-10-21T14:00:24+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-10-21T19:23:24.534590+00:00",
+      "updated_at": "2026-10-21T22:30:24.438736+00:00",
       "items": [
         {
           "title": "Sundaram MF enters SIF space; Choice MF launches first active equity fund",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-10-21T19:23:24.632029+00:00",
+      "updated_at": "2026-10-21T22:30:24.513952+00:00",
       "items": [
         {
           "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on October 22, 2026",

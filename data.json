@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T19:27:07.792107+00:00",
+  "generated_at": "2026-10-22T22:32:50.661719+00:00",
   "indices": {
     "nifty50": {
       "price": 22687.65,
@@ -68,7 +68,7 @@
         22687.650390625
       ],
       "ok": true,
-      "updated_at": "2026-10-22T19:27:05.206165+00:00"
+      "updated_at": "2026-10-22T22:32:35.319694+00:00"
     },
     "sensex": {
       "price": 73249.39,
@@ -137,7 +137,7 @@
         73249.390625
       ],
       "ok": true,
-      "updated_at": "2026-10-22T19:27:05.321559+00:00"
+      "updated_at": "2026-10-22T22:32:35.512998+00:00"
     },
     "banknifty": {
       "price": 54925.7,
@@ -206,7 +206,7 @@
         54925.69921875
       ],
       "ok": true,
-      "updated_at": "2026-10-22T19:27:05.428658+00:00"
+      "updated_at": "2026-10-22T22:32:35.620406+00:00"
     },
     "vix": {
       "price": 15.762,
@@ -275,18 +275,13 @@
         15.762499809265137
       ],
       "ok": true,
-      "updated_at": "2026-10-22T19:27:05.540737+00:00"
+      "updated_at": "2026-10-22T22:32:35.745838+00:00"
     },
     "usdinr": {
       "price": 94.808,
       "change": 0.358,
       "pct": 0.379,
       "closes": [
-        94.68000030517578,
-        94.66500091552734,
-        94.67250061035156,
-        94.68499755859375,
-        94.70249938964844,
         94.69000244140625,
         94.67500305175781,
         94.67500305175781,
@@ -341,41 +336,21 @@
         94.80799865722656,
         94.80799865722656,
         94.80799865722656,
+        94.80799865722656,
+        94.80799865722656,
+        94.80799865722656,
+        94.80799865722656,
+        94.80799865722656,
         94.80799865722656
       ],
       "ok": true,
-      "updated_at": "2026-10-22T19:27:05.663670+00:00"
+      "updated_at": "2026-10-22T22:32:35.887815+00:00"
     },
     "gold": {
-      "price": 4042.9,
-      "change": -107.1,
-      "pct": -2.5807,
+      "price": 4043.6,
+      "change": -16.8,
+      "pct": -0.4138,
       "closes": [
-        4064.89990234375,
-        4070.199951171875,
-        4072.60009765625,
-        4074.89990234375,
-        4076.5,
-        4077.699951171875,
-        4074.89990234375,
-        4077.699951171875,
-        4073.39990234375,
-        4070.5,
-        4073.699951171875,
-        4072.699951171875,
-        4067.300048828125,
-        4068.5,
-        4065.89990234375,
-        4065.800048828125,
-        4068.39990234375,
-        4069.39990234375,
-        4066.89990234375,
-        4063.5,
-        4062.60009765625,
-        4062.89990234375,
-        4060.0,
-        4062.60009765625,
-        4063.300048828125,
         4059.60009765625,
         4059.60009765625,
         4057.5,
@@ -410,41 +385,41 @@
         4042.89990234375,
         4042.199951171875,
         4043.800048828125,
-        4042.89990234375
+        4043.800048828125,
+        4047.0,
+        4040.39990234375,
+        4038.699951171875,
+        4038.89990234375,
+        4040.0,
+        4043.5,
+        4044.39990234375,
+        4044.10009765625,
+        4041.300048828125,
+        4039.39990234375,
+        4039.89990234375,
+        4037.89990234375,
+        4038.39990234375,
+        4037.699951171875,
+        4038.10009765625,
+        4039.300048828125,
+        4038.10009765625,
+        4039.0,
+        4039.800048828125,
+        4043.10009765625,
+        4042.300048828125,
+        4042.10009765625,
+        4044.5,
+        4044.60009765625,
+        4043.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-10-22T19:27:05.811785+00:00"
+      "updated_at": "2026-10-22T22:32:36.095055+00:00"
     },
     "crude": {
-      "price": 99.41,
-      "change": 2.26,
-      "pct": 2.3263,
+      "price": 99.05,
+      "change": -0.42,
+      "pct": -0.4222,
       "closes": [
-        98.6500015258789,
-        98.31999969482422,
-        98.30999755859375,
-        98.37999725341797,
-        98.30000305175781,
-        98.37000274658203,
-        98.55999755859375,
-        98.79000091552734,
-        98.66999816894531,
-        98.47000122070312,
-        98.26000213623047,
-        97.98999786376953,
-        98.13999938964844,
-        98.12999725341797,
-        98.27999877929688,
-        98.38999938964844,
-        98.37999725341797,
-        98.44000244140625,
-        98.4800033569336,
-        98.68000030517578,
-        98.80999755859375,
-        98.73999786376953,
-        98.73999786376953,
-        98.77999877929688,
-        98.68000030517578,
         98.73999786376953,
         98.87999725341797,
         98.94000244140625,
@@ -479,10 +454,35 @@
         99.5,
         99.45999908447266,
         99.45999908447266,
-        99.41000366210938
+        99.43000030517578,
+        99.33999633789062,
+        99.37999725341797,
+        99.3499984741211,
+        99.22000122070312,
+        99.27999877929688,
+        99.30999755859375,
+        99.37000274658203,
+        99.41000366210938,
+        99.30999755859375,
+        99.2699966430664,
+        99.2300033569336,
+        99.2699966430664,
+        99.0999984741211,
+        99.0199966430664,
+        99.01000213623047,
+        99.04000091552734,
+        99.12000274658203,
+        99.1500015258789,
+        99.0999984741211,
+        99.1500015258789,
+        99.08000183105469,
+        99.06999969482422,
+        99.02999877929688,
+        99.05000305175781,
+        99.05000305175781
       ],
       "ok": true,
-      "updated_at": "2026-10-22T19:27:05.947241+00:00"
+      "updated_at": "2026-10-22T22:32:36.229967+00:00"
     },
     "us10y": {
       "price": 4.953,
@@ -551,13 +551,13 @@
         4.953000068664551
       ],
       "ok": true,
-      "updated_at": "2026-10-22T19:27:06.120215+00:00"
+      "updated_at": "2026-10-22T22:32:36.343882+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-10-22T19:27:06.252517+00:00",
+      "updated_at": "2026-10-22T22:32:36.637243+00:00",
       "items": [
         {
           "title": "Neocloud short sellers rack up $6 billion as AI debt fears deepen",
@@ -794,8 +794,23 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-10-22T19:27:06.463802+00:00",
+      "updated_at": "2026-10-22T22:32:49.714696+00:00",
       "items": [
+        {
+          "title": "Oil Tankers Sailing the US-China Route Are Commanding $60 Million and It’s Crushing Demand",
+          "link": "https://www.livemint.com/market/oil-tankers-sailing-the-us-china-route-are-commanding-60-million-and-it-s-crushing-demand-11792703194471.html",
+          "pubDate": "2026-10-23T02:36:33+05:30"
+        },
+        {
+          "title": "TSX falls 1% as tech and gold mining shares slide",
+          "link": "https://www.livemint.com/market/tsx-falls-1-as-tech-and-gold-mining-shares-slide-11792700912983.html",
+          "pubDate": "2026-10-23T01:58:32+05:30"
+        },
+        {
+          "title": "DoubleLine’s Sherman Stays Bearish on Long-Term Treasuries",
+          "link": "https://www.livemint.com/market/doublelines-sherman-stays-bearish-on-long-term-treasuries-11792699995666.html",
+          "pubDate": "2026-10-23T01:43:15+05:30"
+        },
         {
           "title": "Yields plummet as fears about AI boom sustainability flare",
           "link": "https://www.livemint.com/market/yields-plummet-as-fears-about-ai-boom-sustainability-flare-11792695822319.html",
@@ -930,27 +945,12 @@
           "title": "Cement stocks: Nuvama stays neutral as rising costs cloud outlook; JK Cement top pick — key things to know",
           "link": "https://www.livemint.com/market/stock-market-news/cement-stocks-nuvama-stays-neutral-as-rising-costs-cloud-outlook-jk-cement-top-pick-key-things-to-know-11792656357070.html",
           "pubDate": "2026-10-22T14:06:44+05:30"
-        },
-        {
-          "title": "Vishal Mega Mart needs a strong Q3 recovery after a worn-out Q2",
-          "link": "https://www.livemint.com/market/mark-to-market/vishal-mega-mart-q2-results-share-price-falls-11792654924086.html",
-          "pubDate": "2026-10-22T14:05:37+05:30"
-        },
-        {
-          "title": "Crude oil above $100, US election uncertainty: Will global factors keep Sensex, Nifty 50 under pressure? Experts decode",
-          "link": "https://www.livemint.com/market/stock-market-news/crude-oil-above-100-us-election-uncertainty-will-global-factors-keep-sensex-nifty-50-under-pressure-experts-decode-11792654365472.html",
-          "pubDate": "2026-10-22T14:05:33+05:30"
-        },
-        {
-          "title": "Eternal's growth engines are firing, as it doubles down on Blinkit expansion",
-          "link": "https://www.livemint.com/market/mark-to-market/eternal-q2-results-blinkit-growth-dark-ai-launch-11792653186363.html",
-          "pubDate": "2026-10-22T13:56:33+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-10-22T19:27:06.717718+00:00",
+      "updated_at": "2026-10-22T22:32:49.897215+00:00",
       "items": [
         {
           "title": "Jio Platforms IPO subscribed 5.57x on day 2; QIBs led with 13.29x bids",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-10-22T19:27:07.792092+00:00",
+      "updated_at": "2026-10-22T22:32:50.661703+00:00",
       "items": [
         {
           "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on October 23, 2026",

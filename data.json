@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:22:01.316629+00:00",
+  "generated_at": "2026-10-23T15:13:33.210029+00:00",
   "indices": {
     "nifty50": {
       "price": 22600.0,
@@ -12,8 +12,8 @@
         22474.30078125,
         22426.349609375,
         22434.599609375,
-        22461.849609375,
-        22479.25,
+        22461.599609375,
+        22479.55078125,
         22507.900390625,
         22492.650390625,
         22469.44921875,
@@ -22,17 +22,17 @@
         22457.599609375,
         22446.44921875,
         22438.94921875,
-        22427.5,
+        22427.30078125,
         22421.0,
-        22419.55078125,
+        22419.650390625,
         22443.80078125,
         22456.75,
         22425.0,
-        22417.099609375,
+        22417.25,
         22418.349609375,
         22419.05078125,
         22409.69921875,
-        22395.099609375,
+        22395.75,
         22393.5,
         22424.05078125,
         22429.349609375,
@@ -43,12 +43,12 @@
         22411.44921875,
         22429.099609375,
         22512.80078125,
-        22579.44921875,
-        22558.19921875,
+        22579.30078125,
+        22558.900390625,
         22502.05078125,
         22520.599609375,
         22560.599609375,
-        22543.55078125,
+        22542.94921875,
         22553.94921875,
         22564.0,
         22543.599609375,
@@ -68,7 +68,7 @@
         22600.0
       ],
       "ok": true,
-      "updated_at": "2026-10-23T10:21:58.785201+00:00"
+      "updated_at": "2026-10-23T15:13:28.734946+00:00"
     },
     "sensex": {
       "price": 73123.83,
@@ -137,7 +137,7 @@
         73123.828125
       ],
       "ok": true,
-      "updated_at": "2026-10-23T10:21:58.866556+00:00"
+      "updated_at": "2026-10-23T15:13:28.871683+00:00"
     },
     "banknifty": {
       "price": 54287.35,
@@ -147,9 +147,9 @@
         54206.3984375,
         54268.75,
         54232.19921875,
-        54247.3984375,
+        54247.55078125,
         54163.5,
-        54174.05078125,
+        54172.44921875,
         54257.5,
         54278.80078125,
         54346.1484375,
@@ -186,7 +186,7 @@
         54174.8515625,
         54215.44921875,
         54318.80078125,
-        54273.55078125,
+        54274.0,
         54297.05078125,
         54290.3984375,
         54206.5,
@@ -198,7 +198,7 @@
         54048.19921875,
         54067.8515625,
         54024.05078125,
-        54046.25,
+        54046.80078125,
         54106.1484375,
         54111.55078125,
         54111.55078125,
@@ -206,7 +206,7 @@
         54287.3515625
       ],
       "ok": true,
-      "updated_at": "2026-10-23T10:21:58.989098+00:00"
+      "updated_at": "2026-10-23T15:13:29.001631+00:00"
     },
     "vix": {
       "price": 16.86,
@@ -275,17 +275,13 @@
         16.860000610351562
       ],
       "ok": true,
-      "updated_at": "2026-10-23T10:21:59.065111+00:00"
+      "updated_at": "2026-10-23T15:13:29.132498+00:00"
     },
     "usdinr": {
-      "price": 94.94,
-      "change": 0.132,
-      "pct": 0.1392,
+      "price": 94.93,
+      "change": 0.122,
+      "pct": 0.1287,
       "closes": [
-        94.86499786376953,
-        94.87249755859375,
-        94.87000274658203,
-        94.87249755859375,
         94.9000015258789,
         94.89299774169922,
         94.92749786376953,
@@ -341,224 +337,206 @@
         94.91999816894531,
         94.93499755859375,
         94.94249725341797,
-        94.94000244140625
+        94.94000244140625,
+        94.93000030517578,
+        94.93000030517578,
+        94.93000030517578,
+        94.93000030517578
       ],
       "ok": true,
-      "updated_at": "2026-10-23T10:21:59.162231+00:00"
+      "updated_at": "2026-10-23T15:13:29.306589+00:00"
     },
     "gold": {
-      "price": 4037.8,
-      "change": -22.6,
-      "pct": -0.5566,
+      "price": 4015.1,
+      "change": -45.3,
+      "pct": -1.1157,
       "closes": [
-        4028.800048828125,
-        4025.5,
-        4034.89990234375,
-        4035.60009765625,
-        4037.60009765625,
-        4036.60009765625,
-        4035.699951171875,
-        4035.699951171875,
-        4034.300048828125,
-        4031.300048828125,
-        4033.0,
-        4036.10009765625,
-        4031.199951171875,
-        4029.699951171875,
-        4027.60009765625,
-        4028.60009765625,
-        4029.0,
-        4029.89990234375,
-        4027.5,
-        4026.89990234375,
-        4028.89990234375,
-        4028.39990234375,
-        4029.5,
-        4027.0,
-        4030.10009765625,
-        4030.199951171875,
-        4033.5,
-        4033.0,
-        4033.5,
-        4032.89990234375,
-        4028.300048828125,
-        4025.699951171875,
-        4025.10009765625,
-        4024.60009765625,
-        4027.800048828125,
-        4027.800048828125,
-        4030.300048828125,
-        4029.60009765625,
-        4031.39990234375,
-        4029.800048828125,
-        4036.89990234375,
-        4038.10009765625,
-        4038.39990234375,
-        4037.199951171875,
-        4039.800048828125,
-        4042.300048828125,
-        4040.800048828125,
-        4042.800048828125,
-        4042.699951171875,
-        4040.89990234375,
-        4039.89990234375,
-        4037.5,
-        4037.89990234375,
-        4040.10009765625,
-        4036.699951171875,
-        4038.10009765625,
-        4036.5,
-        4038.39990234375,
         4038.699951171875,
-        4037.800048828125
+        4039.300048828125,
+        4037.300048828125,
+        4040.10009765625,
+        4036.5,
+        4036.60009765625,
+        4038.300048828125,
+        4039.699951171875,
+        4036.39990234375,
+        4037.699951171875,
+        4039.89990234375,
+        4041.5,
+        4043.0,
+        4043.89990234375,
+        4044.39990234375,
+        4042.0,
+        4039.10009765625,
+        4037.800048828125,
+        4039.0,
+        4040.89990234375,
+        4040.60009765625,
+        4038.800048828125,
+        4042.39990234375,
+        4037.800048828125,
+        4036.39990234375,
+        4038.699951171875,
+        4042.300048828125,
+        4041.800048828125,
+        4040.300048828125,
+        4040.89990234375,
+        4041.60009765625,
+        4043.0,
+        4040.39990234375,
+        4040.300048828125,
+        4040.39990234375,
+        4042.89990234375,
+        4047.10009765625,
+        4046.800048828125,
+        4045.60009765625,
+        4040.39990234375,
+        4039.39990234375,
+        4038.300048828125,
+        4037.800048828125,
+        4036.199951171875,
+        4036.89990234375,
+        4037.0,
+        4032.300048828125,
+        4027.5,
+        4021.89990234375,
+        4007.800048828125,
+        4006.0,
+        3991.39990234375,
+        3997.699951171875,
+        4008.60009765625,
+        4014.60009765625,
+        4018.0,
+        4017.89990234375,
+        4014.39990234375,
+        4011.39990234375,
+        4015.10009765625
       ],
       "ok": true,
-      "updated_at": "2026-10-23T10:21:59.277528+00:00"
+      "updated_at": "2026-10-23T15:13:29.437646+00:00"
     },
     "crude": {
-      "price": 100.96,
-      "change": 1.49,
-      "pct": 1.4979,
+      "price": 101.99,
+      "change": 2.52,
+      "pct": 2.5334,
       "closes": [
-        100.38999938964844,
-        100.58999633789062,
-        100.55000305175781,
-        100.44000244140625,
-        100.44999694824219,
-        100.43000030517578,
-        100.62999725341797,
-        100.7300033569336,
-        100.79000091552734,
-        100.7699966430664,
-        100.8499984741211,
-        100.80000305175781,
-        100.77999877929688,
-        100.8499984741211,
-        100.94000244140625,
-        100.83999633789062,
-        100.80999755859375,
-        100.61000061035156,
-        100.73999786376953,
-        100.7699966430664,
-        100.81999969482422,
-        100.75,
-        100.79000091552734,
-        100.76000213623047,
-        100.7300033569336,
-        100.73999786376953,
-        100.55000305175781,
-        100.41000366210938,
-        100.45999908447266,
-        100.58000183105469,
-        100.79000091552734,
-        100.68000030517578,
-        100.5999984741211,
-        100.58999633789062,
-        100.63999938964844,
-        100.51000213623047,
-        100.29000091552734,
-        100.73999786376953,
-        100.29000091552734,
-        100.38999938964844,
-        100.11000061035156,
-        100.08999633789062,
-        100.23999786376953,
-        100.23999786376953,
-        100.23999786376953,
-        100.30999755859375,
-        100.5,
-        100.66000366210938,
+        101.0199966430664,
+        101.08000183105469,
         101.02999877929688,
-        100.83999633789062,
-        101.19999694824219,
-        101.2300033569336,
-        101.11000061035156,
-        101.0199966430664,
-        101.08999633789062,
-        101.20999908447266,
+        101.05999755859375,
+        101.05000305175781,
+        100.95999908447266,
+        101.02999877929688,
+        100.87000274658203,
+        101.12999725341797,
+        101.12999725341797,
+        101.22000122070312,
         101.0999984741211,
-        101.06999969482422,
-        101.0199966430664,
-        100.95999908447266
+        101.05000305175781,
+        101.08999633789062,
+        100.97000122070312,
+        100.98999786376953,
+        100.91999816894531,
+        100.95999908447266,
+        100.68000030517578,
+        100.69000244140625,
+        100.69999694824219,
+        100.75,
+        101.05999755859375,
+        101.56999969482422,
+        101.44999694824219,
+        101.43000030517578,
+        101.3499984741211,
+        101.30000305175781,
+        101.25,
+        101.16000366210938,
+        101.20999908447266,
+        101.22000122070312,
+        101.27999877929688,
+        101.19999694824219,
+        100.95999908447266,
+        101.29000091552734,
+        101.45999908447266,
+        101.75,
+        101.5199966430664,
+        101.58999633789062,
+        101.98999786376953,
+        102.0,
+        102.4000015258789,
+        102.51000213623047,
+        102.36000061035156,
+        102.36000061035156,
+        102.3499984741211,
+        102.4000015258789,
+        102.54000091552734,
+        102.56999969482422,
+        102.25,
+        102.22000122070312,
+        102.51000213623047,
+        102.43000030517578,
+        102.41000366210938,
+        102.31999969482422,
+        102.33000183105469,
+        102.27999877929688,
+        102.0999984741211,
+        101.98999786376953
       ],
       "ok": true,
-      "updated_at": "2026-10-23T10:21:59.394657+00:00"
+      "updated_at": "2026-10-23T15:13:29.592311+00:00"
     },
     "us10y": {
-      "price": 4.953,
-      "change": -0.193,
-      "pct": -3.7505,
+      "price": 4.99,
+      "change": 0.037,
+      "pct": 0.747,
       "closes": [
-        5.029000282287598,
-        5.0269999504089355,
-        5.0269999504089355,
-        5.025000095367432,
-        5.020999908447266,
-        5.019000053405762,
-        5.013000011444092,
-        5.008999824523926,
-        5.013000011444092,
-        5.011000156402588,
-        5.008999824523926,
-        5.0169997215271,
-        5.006999969482422,
-        5.006999969482422,
-        5.006999969482422,
-        5.011000156402588,
-        5.013000011444092,
-        5.011000156402588,
-        5.008999824523926,
-        4.998000144958496,
-        4.998000144958496,
-        4.995999813079834,
-        4.991999626159668,
-        4.995999813079834,
-        5.002999782562256,
-        4.998000144958496,
-        4.99399995803833,
-        4.99399995803833,
-        4.99399995803833,
-        4.995999813079834,
-        4.98799991607666,
         4.986000061035156,
-        4.973999977111816,
-        4.970000267028809,
-        4.965000152587891,
+        4.98199987411499,
         4.977999687194824,
-        4.965000152587891,
-        4.970999717712402,
-        4.965000152587891,
-        4.965000152587891,
-        4.965000152587891,
-        4.965000152587891,
-        4.963000297546387,
-        4.965000152587891,
-        4.965000152587891,
-        4.960999965667725,
-        4.956999778747559,
-        4.949000358581543,
-        4.942999839782715,
+        4.9720001220703125,
+        4.970000267028809,
+        4.970000267028809,
+        4.9639997482299805,
         4.954999923706055,
-        4.959000110626221,
-        4.956999778747559,
-        4.954999923706055,
-        4.949000358581543,
-        4.949000358581543,
-        4.950999736785889,
-        4.953000068664551,
-        4.953000068664551,
-        4.950999736785889,
-        4.953000068664551
+        4.970000267028809,
+        4.9679999351501465,
+        4.970000267028809,
+        4.970000267028809,
+        4.9679999351501465,
+        4.9679999351501465,
+        4.9720001220703125,
+        4.970000267028809,
+        4.977999687194824,
+        4.98799991607666,
+        4.98199987411499,
+        4.990000247955322,
+        4.997000217437744,
+        4.990000247955322,
+        4.990000247955322,
+        4.98799991607666,
+        4.98799991607666,
+        4.98799991607666,
+        4.991999626159668,
+        4.994999885559082,
+        4.991999626159668,
+        4.990000247955322,
+        4.994999885559082,
+        4.990000247955322,
+        4.990000247955322
       ],
       "ok": true,
-      "updated_at": "2026-10-23T10:21:59.511972+00:00"
+      "updated_at": "2026-10-23T15:13:29.728008+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-10-23T10:21:59.769227+00:00",
+      "updated_at": "2026-10-23T15:13:30.290069+00:00",
       "items": [
+        {
+          "title": "Infosys dividend alert! IT major announces Rs 26 per share dividend. Check record date",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/infosys-dividend-alert-it-major-announces-rs-26-per-share-dividend-check-record-date/articleshow/135143574.cms",
+          "pubDate": "2026-10-23T16:36:19+05:30"
+        },
         {
           "title": "Hindustan Zinc shares drop 4% as India allows large silver imports despite weak demand",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-shares-drop-4-as-india-allows-large-silver-imports-despite-weak-demand/articleshow/135135402.cms",
@@ -583,11 +561,6 @@
           "title": "Swiggy shares crash 14%, hit 52-week low after Q2 results. Here’s why Jefferies, Nomura, Bernstein cut target price",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-tumble-over-8-after-q2-results-heres-why-jefferies-nomura-bernstein-cut-target-price/articleshow/135133939.cms",
           "pubDate": "2026-10-23T09:33:20+05:30"
-        },
-        {
-          "title": "IPO-bound companies defer launches to avoid Jio mega issue",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-bound-companies-defer-launches-to-avoid-jio-mega-issue/articleshow/135130261.cms",
-          "pubDate": "2026-10-23T05:47:11+05:30"
         },
         {
           "title": "Nepal rescuers continue search for missing as identification of dead remains challenge",
@@ -713,7 +686,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-10-23T10:22:00.135923+00:00",
+      "updated_at": "2026-10-23T15:13:30.954683+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +767,68 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-10-23T10:22:00.257182+00:00",
+      "updated_at": "2026-10-23T15:13:31.590982+00:00",
       "items": [
+        {
+          "title": "Reliance Jio IPO overall subscription status, GMP: Day 1, 2, 3 details; allotment, listing date, share price prediction",
+          "link": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-overall-subscription-status-gmp-day-1-2-3-details-allotment-listing-date-share-price-prediction-11792766738298.html",
+          "pubDate": "2026-10-23T20:21:06+05:30"
+        },
+        {
+          "title": "Pulse of the Street: earnings strengthen, but stocks lose ground",
+          "link": "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-earnings-strengthen-but-stocks-lose-ground-11792761423089.html",
+          "pubDate": "2026-10-23T20:13:08+05:30"
+        },
+        {
+          "title": "Silver crashes  ₹56000/kg from August peak; gold slides 23000/10 grams. What’s driving the selloff in precious metals",
+          "link": "https://www.livemint.com/market/stock-market-news/silver-crashes-rs-56000-kg-from-august-peak-gold-slides-23000-10-grams-what-s-driving-the-selloff-in-precious-metals-11792763090890.html",
+          "pubDate": "2026-10-23T19:59:42+05:30"
+        },
+        {
+          "title": "1647% return in 5 years: Welspun Corp wins  ₹5,500 cr US gas pipeline order - What's next for this multibagger stock?",
+          "link": "https://www.livemint.com/market/stock-market-news/1647-return-in-5-years-welspun-corp-wins-rs-5-500-crore-us-gas-pipeline-order-whats-next-for-this-multibagger-stock-11792756720441.html",
+          "pubDate": "2026-10-23T19:33:29+05:30"
+        },
+        {
+          "title": "Infosys ADRs plunge 7.5% in pre-market after company trims annual revenue growth forecast; Q2 net profit rises 6%",
+          "link": "https://www.livemint.com/market/infosys-adrs-plunge-7-5-in-pre-market-after-company-trims-annual-revenue-growth-forecast-11792758831738.html",
+          "pubDate": "2026-10-23T18:48:11+05:30"
+        },
+        {
+          "title": "NBFC stock crashes 25% in month, but ICICI Securities sees a potential 50% rally - Do you own it? Check target price",
+          "link": "https://www.livemint.com/market/stock-market-news/nbfc-stock-crashes-25-in-month-but-icici-securities-sees-a-potential-50-rally-do-you-own-it-check-target-price-11792757924909.html",
+          "pubDate": "2026-10-23T18:04:20+05:30"
+        },
+        {
+          "title": "UBS acquires 4.8% stake in 360 ONE WAM: What the warrant conversion means for India's wealth market - Decoded",
+          "link": "https://www.livemint.com/market/stock-market-news/ubs-acquires-4-8-stake-in-360-one-wam-what-the-warrant-conversion-means-for-indias-wealth-market-decoded-11792757365857.html",
+          "pubDate": "2026-10-23T18:02:40+05:30"
+        },
+        {
+          "title": "Yes Bank AT1 bonds: Supreme Court overturns write-off, but will investors get coupon payments? What's the entire matter",
+          "link": "https://www.livemint.com/market/stock-market-news/yes-bank-at1-bonds-supreme-court-overturns-write-off-but-will-investors-get-coupon-payments-11792752412594.html",
+          "pubDate": "2026-10-23T17:47:50+05:30"
+        },
+        {
+          "title": "FMCG stocks to buy: Anand Rathi names Marico, GCPL, Asian Paints, Mrs Bector Food - check ratings and target prices",
+          "link": "https://www.livemint.com/market/stock-market-news/fmcg-stocks-to-buy-now-anand-rathi-names-marico-gcpl-asian-paints-mrs-bector-food-check-ratings-and-target-prices-11792751055004.html",
+          "pubDate": "2026-10-23T17:32:09+05:30"
+        },
+        {
+          "title": "Small-cap stock under  ₹50 with 1:5 stock split, 1:1 bonus share history: Rights issue announced for  ₹160 crore value",
+          "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-with-1-5-stock-split-1-1-bonus-share-history-rights-issue-announced-for-rs-160-crore-value-11792753365094.html",
+          "pubDate": "2026-10-23T17:14:04+05:30"
+        },
+        {
+          "title": "Infosys Q2 results, dividend 2026 amount announced:  ₹26 per share payout, profit jumps 6.23% YoY - Check record date",
+          "link": "https://www.livemint.com/market/stock-market-news/infosys-q2-results-dividend-2026-amount-announced-rs-25-per-share-payout-profit-jumps-6-23-yoy-check-record-date-11792754002819.html",
+          "pubDate": "2026-10-23T16:47:18+05:30"
+        },
+        {
+          "title": "Himadri Speciality Chemical share price: Why did this multibagger stock suffer its biggest weekly fall since 2008?",
+          "link": "https://www.livemint.com/market/stock-market-news/himadri-speciality-chemical-share-price-why-did-this-multibagger-stock-suffer-its-biggest-weekly-fall-since-2008-11792750458242.html",
+          "pubDate": "2026-10-23T16:10:29+05:30"
+        },
         {
           "title": "Swiggy vs Eternal shares compared: Which is better stock to buy post Q2 results? Jefferies India explains | Target price",
           "link": "https://www.livemint.com/market/stock-market-news/swiggy-vs-eternal-shares-compared-which-is-better-stock-to-buy-post-q2-results-jefferies-india-explains-target-price-11792745304355.html",
@@ -852,7 +885,7 @@
           "pubDate": "2026-10-23T12:45:04+05:30"
         },
         {
-          "title": "Jio Platforms IPO lures investors as bids surge on final day",
+          "title": "Jio Plaforms IPO is most subscribed in India's history as bids total $77.1 billion",
           "link": "https://www.livemint.com/market/ipo/jio-platforms-ipo-lures-investors-as-bids-surge-on-final-day-11792737737745.html",
           "pubDate": "2026-10-23T12:30:26+05:30"
         },
@@ -885,73 +918,18 @@
           "title": "Nippon Life AMC shares crash 9%, down 19% in 5 days - Why? Dividend, record date, Q2 results, Yes Bank bond settlement",
           "link": "https://www.livemint.com/market/stock-market-news/nippon-life-amc-shares-crash-9-down-19-in-5-days-why-dividend-record-date-q2-results-yes-bank-bond-settlement-11792732703770.html",
           "pubDate": "2026-10-23T11:01:46+05:30"
-        },
-        {
-          "title": "Indigo Q2 results 2026 date &amp; time: Interglobe Aviation Quarterly earnings preview, announcement schedule | Details here",
-          "link": "https://www.livemint.com/market/stock-market-news/indigo-q2-results-2026-date-time-interglobe-aviation-quarterly-earnings-preview-announcement-schedule-details-11792729454353.html",
-          "pubDate": "2026-10-23T10:56:55+05:30"
-        },
-        {
-          "title": "Top stocks to buy: IT stocks soar! TCS, Infosys, HCL Tech, Wipro - Nifty IT up over 3% today, jumps 22% from July low",
-          "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-it-stocks-soar-tcs-infosys-hcl-tech-wipro-nifty-it-up-over-3-today-jumps-22-from-july-low-11792729456440.html",
-          "pubDate": "2026-10-23T10:34:05+05:30"
-        },
-        {
-          "title": "OMC stocks in troubled waters? BPCL, HPCL, IOCL shares slump up to 2%; Brent at $114/barrel | What should investors do?",
-          "link": "https://www.livemint.com/market/stock-market-news/bpcl-hpcl-to-iocl-omc-stocks-dip-up-to-2-as-brent-crude-price-touches-114-per-barrel-what-should-investors-do-11792728952014.html",
-          "pubDate": "2026-10-23T10:14:26+05:30"
-        },
-        {
-          "title": "Tata Teleservices shares crash 11% after Q2 result 2026 - What's next for the stock? Expert view",
-          "link": "https://www.livemint.com/market/stock-market-news/tata-teleservices-shares-crash-11-after-q2-result-2026-whats-next-for-the-stock-expert-view-11792664691866.html",
-          "pubDate": "2026-10-23T10:10:46+05:30"
-        },
-        {
-          "title": "Infosys share price: IT major jumps 4% ahead of its Q2 results, dividend 2026 announcement today: What to expect?",
-          "link": "https://www.livemint.com/market/stock-market-news/infosys-share-price-it-major-jumps-4-ahead-of-its-q2-results-dividend-2026-announcement-today-what-to-expect-11792728504386.html",
-          "pubDate": "2026-10-23T09:51:02+05:30"
-        },
-        {
-          "title": "Reliance Jio IPO oversubscribed | Should investors apply or avoid or buy shares after listing? What experts suggest",
-          "link": "https://www.livemint.com/market/reliance-jio-ipo-oversubscribed-should-investors-apply-or-avoid-or-buy-shares-after-listing-what-experts-suggest-11792663479297.html",
-          "pubDate": "2026-10-23T09:16:10+05:30"
-        },
-        {
-          "title": "Jindal Stainless shares: Down 17% in YTD! Jefferies India sees 32% upside after Q2 results 2026 | Target, rationale",
-          "link": "https://www.livemint.com/market/stock-market-news/jindal-stainless-shares-down-17-in-ytd-jefferies-india-sees-32-upside-after-q2-results-2026-target-rationale-11792725084850.html",
-          "pubDate": "2026-10-23T09:13:48+05:30"
-        },
-        {
-          "title": "IPO GMP comparison: Reliance Jio Platforms IPO vs Paras Healthcare - Last day to apply today - Listing price prediction",
-          "link": "https://www.livemint.com/market/ipo/ipo-gmp-comparison-reliance-jio-platforms-ipo-vs-paras-healthcare-last-day-to-apply-today-listing-price-prediction-11792723513212.html",
-          "pubDate": "2026-10-23T08:57:05+05:30"
-        },
-        {
-          "title": "AI Tech Fears Push Global Credit Spreads to 17-Month High",
-          "link": "https://www.livemint.com/market/ai-tech-fears-push-global-credit-spreads-to-17-month-high-11792723317299.html",
-          "pubDate": "2026-10-23T08:11:56+05:30"
-        },
-        {
-          "title": "Infosys Q2 results, dividend 2026 amount, record date announcement today: Time, preview; buy, sell, hold amid earnings?",
-          "link": "https://www.livemint.com/market/stock-market-news/infosys-q2-results-dividend-2026-amount-record-date-announcement-today-time-preview-buy-sell-hold-amid-earnings-11792721404616.html",
-          "pubDate": "2026-10-23T08:10:58+05:30"
-        },
-        {
-          "title": "'AI-trade' bust will aid India only partially; don’t tweak LTCG, says Madhavi Arora of Emkay Global",
-          "link": "https://www.livemint.com/market/mark-to-market/ai-trade-india-ltcg-stt-foreign-funds-growth-china-forex-liquidity-fta-11792668124017.html",
-          "pubDate": "2026-10-23T08:01:09+05:30"
-        },
-        {
-          "title": "Indian shares subdued as rising crude prices eclipse IT gains",
-          "link": "https://www.livemint.com/market/indian-shares-seen-opening-higher-after-3-session-drop-oil-surge-clouds-outlook-11792722512784.html",
-          "pubDate": "2026-10-23T08:00:29+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-10-23T10:22:00.512044+00:00",
+      "updated_at": "2026-10-23T15:13:32.275894+00:00",
       "items": [
+        {
+          "title": "Govt bonds log worst losing streak in 30 years as crude, US yields rise",
+          "link": "https://www.business-standard.com/economy/news/govt-bonds-log-worst-losing-streak-in-30-years-as-crude-us-yields-rise-126102301399_1.html",
+          "pubDate": "2026-10-23T19:45:27+05:30"
+        },
         {
           "title": "BlueStone Jewellery stock plunges 13% as firm swings back to losses in Q2",
           "link": "https://www.business-standard.com/markets/news/bluestone-jewellery-stock-plunges-13-as-firm-swings-back-to-losses-in-q2-126102300774_1.html",
@@ -970,7 +948,7 @@
         {
           "title": "Nifty Midcap 100, Smallcap 100 slide 4%, down 10-13% from 52-week high",
           "link": "https://www.business-standard.com/markets/news/nifty-midcap-100-smallcap-100-slide-4-down-over-10-from-52-week-high-126102300683_1.html",
-          "pubDate": "2026-10-23T14:25:59+05:30"
+          "pubDate": "2026-10-23T14:25:26+05:30"
         },
         {
           "title": "Two-fold jump in Q2 PAT, ₹25 dividend lift CPCL stock 5% in weak market",
@@ -1093,70 +1071,65 @@
           "pubDate": "2026-10-23T08:00:30+05:30"
         },
         {
-          "title": "Stock Market Close: Sensex falls for 4th day, ends 126 pts lower; Nifty at 22,600; VIX rises 8%",
+          "title": "Stock Market Close: Sensex falls for 4th day, ends 126 pts lower; Nifty at 22,600; VIX rises 6%",
           "link": "https://www.business-standard.com/markets/news/stock-market-live-october-23-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-jio-ipo-q2-results-today-126102300078_1.html",
-          "pubDate": "2026-10-23T07:55:15+05:30"
-        },
-        {
-          "title": "Nifty logs third-longest technical correction; shallowest in its history",
-          "link": "https://www.business-standard.com/markets/news/nifty-logs-third-longest-technical-correction-shallowest-in-its-history-126102300066_1.html",
-          "pubDate": "2026-10-23T07:10:32+05:30"
+          "pubDate": "2026-10-23T07:55:47+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-10-23T10:22:01.316613+00:00",
+      "updated_at": "2026-10-23T15:13:33.210014+00:00",
       "items": [
+        {
+          "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on October 26, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63861",
+          "pubDate": "2026-10-23T19:25:00+00:00"
+        },
+        {
+          "title": "Auction of State Government Securities",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63860",
+          "pubDate": "2026-10-23T18:40:00+00:00"
+        },
+        {
+          "title": "RBI Bulletin – October 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63859",
+          "pubDate": "2026-10-23T17:50:00+00:00"
+        },
+        {
+          "title": "RBI issues Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 on Minimum Capital Requirements for Operational Risk",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63858",
+          "pubDate": "2026-10-23T17:30:00+00:00"
+        },
+        {
+          "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63857",
+          "pubDate": "2026-10-23T17:20:00+00:00"
+        },
+        {
+          "title": "Money Supply for the fortnight ended on October 15, 2026",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63856",
+          "pubDate": "2026-10-23T17:05:00+00:00"
+        },
+        {
+          "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63855",
+          "pubDate": "2026-10-23T17:00:00+00:00"
+        },
+        {
+          "title": "RBI issues guidelines on the implementation of Leverage Ratio 2017 Standard",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63854",
+          "pubDate": "2026-10-23T16:30:00+00:00"
+        },
+        {
+          "title": "Government Stock - Full Auction Results",
+          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63853",
+          "pubDate": "2026-10-23T16:20:00+00:00"
+        },
         {
           "title": "Government Stock - Auction Results: Cut-off",
           "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63852",
           "pubDate": "2026-10-23T14:05:00+00:00"
-        },
-        {
-          "title": "Result of the 3-day Variable Rate Repo (VRR)  auction held on October 23, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63851",
-          "pubDate": "2026-10-23T10:25:00+00:00"
-        },
-        {
-          "title": "Result of Underwriting Auction conducted on October 23, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63850",
-          "pubDate": "2026-10-23T09:55:00+00:00"
-        },
-        {
-          "title": "Money Market Operations as on October 22, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63849",
-          "pubDate": "2026-10-23T09:00:00+00:00"
-        },
-        {
-          "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on October 23, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63848",
-          "pubDate": "2026-10-22T19:10:00+00:00"
-        },
-        {
-          "title": "Final redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for final redemption of SGB 2018-19 Series-II due on October 23, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63847",
-          "pubDate": "2026-10-22T18:30:00+00:00"
-        },
-        {
-          "title": "Reserve Money for the fortnight ended on October 15, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63846",
-          "pubDate": "2026-10-22T17:05:00+00:00"
-        },
-        {
-          "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Suri Friends’ Union Co-operative Bank Ltd., Suri, West Bengal – Extension of period",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63845",
-          "pubDate": "2026-10-22T17:00:00+00:00"
-        },
-        {
-          "title": "Underwriting Auction for sale of Government Securities for &#8377;33,000 crore on October 23, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63844",
-          "pubDate": "2026-10-22T11:45:00+00:00"
-        },
-        {
-          "title": "Result of the Overnight Variable Rate Repo (VRR)  auction held on October 22, 2026",
-          "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63843",
-          "pubDate": "2026-10-22T10:25:00+00:00"
         }
       ]
     }

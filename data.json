@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-24T04:59:45.527695+00:00",
+  "generated_at": "2026-10-24T09:18:17.008947+00:00",
   "indices": {
     "nifty50": {
       "price": 22600.0,
-      "change": -87.65,
-      "pct": -0.3863,
+      "change": -87.7,
+      "pct": -0.3866,
       "closes": [
         22472.55078125,
         22503.5,
@@ -12,8 +12,8 @@
         22474.30078125,
         22426.349609375,
         22434.599609375,
-        22461.599609375,
-        22479.55078125,
+        22461.849609375,
+        22479.25,
         22507.900390625,
         22492.650390625,
         22469.44921875,
@@ -22,17 +22,17 @@
         22457.599609375,
         22446.44921875,
         22438.94921875,
-        22427.30078125,
+        22427.5,
         22421.0,
-        22419.650390625,
+        22419.55078125,
         22443.80078125,
         22456.75,
         22425.0,
-        22417.25,
+        22417.099609375,
         22418.349609375,
         22419.05078125,
         22409.69921875,
-        22395.75,
+        22395.099609375,
         22393.5,
         22424.05078125,
         22429.349609375,
@@ -43,12 +43,12 @@
         22411.44921875,
         22429.099609375,
         22512.80078125,
-        22579.30078125,
-        22558.900390625,
+        22579.44921875,
+        22558.19921875,
         22502.05078125,
         22520.599609375,
         22560.599609375,
-        22542.94921875,
+        22543.55078125,
         22553.94921875,
         22564.0,
         22543.599609375,
@@ -68,11 +68,11 @@
         22600.0
       ],
       "ok": true,
-      "updated_at": "2026-10-24T04:59:43.479381+00:00"
+      "updated_at": "2026-10-24T09:18:14.078781+00:00"
     },
     "sensex": {
       "price": 73123.83,
-      "change": -125.56,
+      "change": -125.57,
       "pct": -0.1714,
       "closes": [
         72757.46875,
@@ -137,7 +137,7 @@
         73123.828125
       ],
       "ok": true,
-      "updated_at": "2026-10-24T04:59:43.535606+00:00"
+      "updated_at": "2026-10-24T09:18:14.219908+00:00"
     },
     "banknifty": {
       "price": 54287.35,
@@ -147,9 +147,9 @@
         54206.3984375,
         54268.75,
         54232.19921875,
-        54247.55078125,
+        54247.3984375,
         54163.5,
-        54172.44921875,
+        54174.05078125,
         54257.5,
         54278.80078125,
         54346.1484375,
@@ -186,7 +186,7 @@
         54174.8515625,
         54215.44921875,
         54318.80078125,
-        54274.0,
+        54273.55078125,
         54297.05078125,
         54290.3984375,
         54206.5,
@@ -198,7 +198,7 @@
         54048.19921875,
         54067.8515625,
         54024.05078125,
-        54046.80078125,
+        54046.25,
         54106.1484375,
         54111.55078125,
         54111.55078125,
@@ -206,12 +206,12 @@
         54287.3515625
       ],
       "ok": true,
-      "updated_at": "2026-10-24T04:59:43.583129+00:00"
+      "updated_at": "2026-10-24T09:18:14.406625+00:00"
     },
     "vix": {
       "price": 16.86,
-      "change": 1.0975,
-      "pct": 6.9627,
+      "change": 1.1,
+      "pct": 6.9797,
       "closes": [
         16.860000610351562,
         16.86750030517578,
@@ -275,7 +275,7 @@
         16.860000610351562
       ],
       "ok": true,
-      "updated_at": "2026-10-24T04:59:43.693568+00:00"
+      "updated_at": "2026-10-24T09:18:14.537594+00:00"
     },
     "usdinr": {
       "price": 94.94,
@@ -344,7 +344,7 @@
         94.93000030517578
       ],
       "ok": true,
-      "updated_at": "2026-10-24T04:59:43.781266+00:00"
+      "updated_at": "2026-10-24T09:18:14.700562+00:00"
     },
     "gold": {
       "price": 4007.9,
@@ -364,8 +364,8 @@
         4013.5,
         4014.39990234375,
         4013.39990234375,
-        4011.199951171875,
-        4010.800048828125,
+        4011.10009765625,
+        4010.699951171875,
         4007.39990234375,
         4006.39990234375,
         4007.39990234375,
@@ -381,7 +381,7 @@
         4012.10009765625,
         4012.300048828125,
         4015.699951171875,
-        4015.10009765625,
+        4015.0,
         4009.300048828125,
         4010.699951171875,
         4010.60009765625,
@@ -410,10 +410,10 @@
         4007.800048828125,
         4007.300048828125,
         4011.300048828125,
-        4010.0
+        4007.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-10-24T04:59:43.837000+00:00"
+      "updated_at": "2026-10-24T09:18:14.893223+00:00"
     },
     "crude": {
       "price": 103.27,
@@ -423,7 +423,7 @@
         102.87000274658203,
         102.87999725341797,
         102.95999908447266,
-        103.16000366210938,
+        103.16999816894531,
         103.0999984741211,
         103.08999633789062,
         102.91999816894531,
@@ -431,9 +431,9 @@
         102.75,
         102.6500015258789,
         102.83000183105469,
-        102.91999816894531,
+        102.91000366210938,
         102.95999908447266,
-        102.8499984741211,
+        102.83999633789062,
         102.8499984741211,
         102.87999725341797,
         102.9800033569336,
@@ -443,7 +443,7 @@
         103.08999633789062,
         102.91999816894531,
         103.0199966430664,
-        102.83999633789062,
+        102.8499984741211,
         102.98999786376953,
         103.01000213623047,
         102.97000122070312,
@@ -478,11 +478,11 @@
         103.30999755859375,
         103.33999633789062,
         103.19000244140625,
-        103.25,
-        103.44000244140625
+        103.26000213623047,
+        103.2699966430664
       ],
       "ok": true,
-      "updated_at": "2026-10-24T04:59:43.901325+00:00"
+      "updated_at": "2026-10-24T09:18:15.065493+00:00"
     },
     "us10y": {
       "price": 4.988,
@@ -551,43 +551,43 @@
         4.98799991607666
       ],
       "ok": true,
-      "updated_at": "2026-10-24T04:59:43.950793+00:00"
+      "updated_at": "2026-10-24T09:18:15.230990+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-10-24T04:59:44.140251+00:00",
+      "updated_at": "2026-10-24T09:18:15.353173+00:00",
       "items": [
         {
-          "title": "Invesco India Mid Cap among 5 midcap funds that delivered upto 21% CAGR in 3 years. Do you own any?",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/invesco-india-mid-cap-among-5-midcap-funds-that-delivered-upto-21-cagr-in-3-years-do-you-own-any/top-mid-cap-mutual-funds-for-3-year-horizon/slideshow/135162083.cms",
-          "pubDate": "2026-10-24T10:10:44+05:30"
+          "title": "Kotak Mahindra Bank Q2 results: Consolidated PAT rises 26% YoY to Rs 5,645 crore; lender's NII up 16%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q2-results-consolidated-pat-rises-26-yoy-to-rs-5645-crore-lenders-nii-up-16/articleshow/135165924.cms",
+          "pubDate": "2026-10-24T13:54:37+05:30"
         },
         {
-          "title": "Where should conservative investors invest Rs 10 lakh in a volatile market? Experts weigh in",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/where-should-conservative-investors-invest-rs-10-lakh-in-a-volatile-market-experts-weigh-in/a-volatile-ride/slideshow/135161994.cms",
-          "pubDate": "2026-10-24T10:03:51+05:30"
+          "title": "FIIs dump Indian stocks for 10th straight week as markets slide: Is the worst over or more pain ahead?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-indian-stocks-for-10th-straight-week-as-markets-slide-is-the-worst-over-or-more-pain-ahead/articleshow/135165684.cms",
+          "pubDate": "2026-10-24T13:41:14+05:30"
         },
         {
-          "title": "Explained: What are rolling returns in mutual funds and how do you calculate them?",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/explained-what-are-rolling-returns-in-mutual-funds-and-how-do-you-calculate-them/articleshow/135161811.cms",
-          "pubDate": "2026-10-24T09:55:50+05:30"
+          "title": "Smallcap mutual funds attract 44% of equity inflows despite stretched valuations. Should investors be cautious?",
+          "link": "https://economictimes.indiatimes.com/mf/mf-news/smallcap-mutual-funds-attract-44-of-equity-inflows-despite-stretched-valuations-should-investors-be-cautious/articleshow/135165538.cms",
+          "pubDate": "2026-10-24T13:34:56+05:30"
         },
         {
-          "title": "Radhakishan Damani portfolio: Top 10 stock holdings of the ace investor",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/radhakishan-damani-portfolio-top-10-stock-holdings-of-the-ace-investor/portfolio-watch/slideshow/135161767.cms",
-          "pubDate": "2026-10-24T09:46:54+05:30"
+          "title": "Bitcoin hovers near $80,000 and Ethereum at $2,370 as macro uncertainty and weak institutional flows weigh on crypto markets",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hovers-near-80000-and-ethereum-at-2370-as-macro-uncertainty-and-weak-institutional-flows-weigh-on-crypto-markets/articleshow/135164499.cms",
+          "pubDate": "2026-10-24T12:22:52+05:30"
         },
         {
-          "title": "Gross FDI inflows to India fall to $11 billion in August",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-net-fdi-inflows-falls-to-3-billion-in-august/articleshow/135160936.cms",
-          "pubDate": "2026-10-24T08:54:13+05:30"
+          "title": "Concurrent Losers: 13 stocks decline for 5 consecutive sessions",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-13-stocks-decline-for-5-consecutive-sessions/consistent-decline/slideshow/135164244.cms",
+          "pubDate": "2026-10-24T12:04:31+05:30"
         },
         {
-          "title": "Small and midcap indices post worst weekly decline in two years",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/small-and-midcap-indices-post-worst-weekly-decline-in-two-years/articleshow/135160009.cms",
-          "pubDate": "2026-10-24T08:06:47+05:30"
+          "title": "Jio IPO GMP today: Grey market signals over 22% listing gains; check allotment, listing date",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-gmp-today-grey-market-signals-over-22-listing-gains-check-allotment-listing-date/articleshow/135163795.cms",
+          "pubDate": "2026-10-24T11:42:41+05:30"
         },
         {
           "title": "Nepal rescuers continue search for missing as identification of dead remains challenge",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-10-24T04:59:44.288323+00:00",
+      "updated_at": "2026-10-24T09:18:15.663106+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,33 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-10-24T04:59:44.510943+00:00",
+      "updated_at": "2026-10-24T09:18:15.778083+00:00",
       "items": [
+        {
+          "title": "Dividend, split, rights issue, buyback next week: Hexaware Tech, Cyient, RailTel to Sagility - Check record dates",
+          "link": "https://www.livemint.com/market/stock-market-news/dividend-split-rights-issue-buyback-next-week-hexaware-tech-cyient-railtel-to-sagility-check-record-dates-11792826529111.html",
+          "pubDate": "2026-10-24T13:43:33+05:30"
+        },
+        {
+          "title": "Infosys shares: Should you buy the IT stock after Q2 results, dividend 2026 announcement? Expert view on what to do",
+          "link": "https://www.livemint.com/market/stock-market-news/infosys-shares-should-you-buy-the-it-stock-after-q2-results-dividend-2026-announcement-experts-views-on-what-to-do-11792825142690.html",
+          "pubDate": "2026-10-24T13:07:16+05:30"
+        },
+        {
+          "title": "Gold rates in Chennai city crash this week: Can yellow metal rebound ahead of Diwali - Key levels to watch in future?",
+          "link": "https://www.livemint.com/market/commodities/gold-rates-in-chennai-city-crash-this-week-can-yellow-metal-rebound-ahead-of-diwali-key-levels-to-watch-in-future-11792820547953.html",
+          "pubDate": "2026-10-24T12:07:55+05:30"
+        },
+        {
+          "title": "Reliance Jio Platforms IPO allotment status check online by PAN number on NSE India, BSE websites: Direct link, steps",
+          "link": "https://www.livemint.com/market/stock-market-news/reliance-jio-platforms-ipo-allotment-status-check-online-by-pan-number-on-nse-india-bse-websites-direct-link-steps-11792816097296.html",
+          "pubDate": "2026-10-24T11:05:46+05:30"
+        },
+        {
+          "title": "Goldman Sachs Ola Electric Downgrade: Why stock rating changed to sell; 23% downside seen - New target price, rationale",
+          "link": "https://www.livemint.com/market/stock-market-news/goldman-sachs-ola-electric-downgrade-why-stock-rating-changed-to-sell-23-downside-seen-new-target-price-rationale-11792817294346.html",
+          "pubDate": "2026-10-24T10:50:11+05:30"
+        },
         {
           "title": "Reliance Jio Platforms IPO GMP, allotment date, listing date, time, overall subscription status; QIB, NII, Retail, RIL",
           "link": "https://www.livemint.com/market/ipo/reliance-jio-platforms-ipo-gmp-allotment-date-listing-date-time-overall-subscription-status-qib-nii-retail-ril-11792812938496.html",
@@ -920,38 +945,18 @@
           "title": "Already jumped 55% in 2026, PL Capital sees more returns in Sai Lifesciences shares | Check target, upside",
           "link": "https://www.livemint.com/market/stock-market-news/already-jumped-55-in-2026-pl-capital-sees-more-returns-in-sai-lifesciences-shares-check-target-upside-11792742770583.html",
           "pubDate": "2026-10-23T14:20:55+05:30"
-        },
-        {
-          "title": "Why are mid, small-caps bleeding? Indices crash up to 4% - Swiggy, Meesho, Vedanta Aluminium, MCX lose big",
-          "link": "https://www.livemint.com/market/stock-market-news/why-are-mid-small-caps-bleeding-indices-crash-up-to-4-swiggy-meesho-vedanta-aluminium-mcx-lose-big-11792737065942.html",
-          "pubDate": "2026-10-23T13:52:37+05:30"
-        },
-        {
-          "title": "Silver rate today at 11-month low; slips below  ₹2 lakh in India — where will it go? Should you buy for good returns?",
-          "link": "https://www.livemint.com/market/commodities/silver-rate-today-at-11-month-low-slips-below-rs-2-lakh-in-india-where-will-it-go-should-you-buy-for-good-returns-11792739270797.html",
-          "pubDate": "2026-10-23T13:41:32+05:30"
-        },
-        {
-          "title": "Reliance Jio IPO Global Record: Another feather in cap! History created - 1st IPO worldwide to cross 1 cr applications",
-          "link": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-global-record-another-feather-in-cap-history-created-1st-ipo-worldwide-to-cross-1-cr-applications-11792741256369.html",
-          "pubDate": "2026-10-23T13:26:04+05:30"
-        },
-        {
-          "title": "Reliance Jio IPO: What today's GMP signals; last few hours to apply; latest grey market premium and subscription status",
-          "link": "https://www.livemint.com/market/ipo/reliance-jio-ipo-what-todays-gmp-signals-last-few-hours-to-apply-latest-grey-market-premium-and-subscription-status-11792740992082.html",
-          "pubDate": "2026-10-23T13:09:25+05:30"
-        },
-        {
-          "title": "IPO listings, share price today: Tonbo Imaging vs Zetwerk vs Bonfiglioli vs Sahajanand - Who won debut race on NSE, BSE?",
-          "link": "https://www.livemint.com/market/stock-market-news/ipo-listings-share-price-today-tonbo-imaging-vs-zetwerk-vs-bonfiglioli-vs-sahajanand-who-won-debut-race-on-nse-bse-11792733810920.html",
-          "pubDate": "2026-10-23T13:05:55+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-10-24T04:59:44.647419+00:00",
+      "updated_at": "2026-10-24T09:18:16.077797+00:00",
       "items": [
+        {
+          "title": "NSE reviewing network vulnerabilities as AI cyber threats rise: Chauhan",
+          "link": "https://www.business-standard.com/markets/news/nse-ai-cybersecurity-network-vulnerabilities-ashishkumar-chauhan-126102400408_1.html",
+          "pubDate": "2026-10-24T12:37:16+05:30"
+        },
         {
           "title": "WazirX shifts focus to recovery, AI after year of rebuilding: Shetty",
           "link": "https://www.business-standard.com/companies/people/wazirx-shifts-focus-to-recovery-ai-after-year-of-rebuilding-shetty-126102301053_1.html",
@@ -1096,17 +1101,12 @@
           "title": "Zetwerk shares debut at 5% premium over IPO price, beat expectations",
           "link": "https://www.business-standard.com/markets/news/zetwerk-shares-debut-at-5-premium-over-ipo-price-beat-expectations-126102300231_1.html",
           "pubDate": "2026-10-23T10:01:56+05:30"
-        },
-        {
-          "title": "Tonbo Imaging shares make strong debut, list at 66% premium over IPO price",
-          "link": "https://www.business-standard.com/markets/news/tonbo-imaging-shares-make-strong-debut-list-at-66-premium-over-ipo-price-126102300219_1.html",
-          "pubDate": "2026-10-23T10:00:17+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-10-24T04:59:45.527679+00:00",
+      "updated_at": "2026-10-24T09:18:17.008937+00:00",
       "items": [
         {
           "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on October 26, 2026",

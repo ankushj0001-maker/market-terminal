@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T09:18:17.008947+00:00",
+  "generated_at": "2026-10-24T13:24:42.980824+00:00",
   "indices": {
     "nifty50": {
       "price": 22600.0,
@@ -12,8 +12,8 @@
         22474.30078125,
         22426.349609375,
         22434.599609375,
-        22461.849609375,
-        22479.25,
+        22461.599609375,
+        22479.55078125,
         22507.900390625,
         22492.650390625,
         22469.44921875,
@@ -22,17 +22,17 @@
         22457.599609375,
         22446.44921875,
         22438.94921875,
-        22427.5,
+        22427.30078125,
         22421.0,
-        22419.55078125,
+        22419.650390625,
         22443.80078125,
         22456.75,
         22425.0,
-        22417.099609375,
+        22417.25,
         22418.349609375,
         22419.05078125,
         22409.69921875,
-        22395.099609375,
+        22395.75,
         22393.5,
         22424.05078125,
         22429.349609375,
@@ -43,12 +43,12 @@
         22411.44921875,
         22429.099609375,
         22512.80078125,
-        22579.44921875,
-        22558.19921875,
+        22579.30078125,
+        22558.900390625,
         22502.05078125,
         22520.599609375,
         22560.599609375,
-        22543.55078125,
+        22542.94921875,
         22553.94921875,
         22564.0,
         22543.599609375,
@@ -68,7 +68,7 @@
         22600.0
       ],
       "ok": true,
-      "updated_at": "2026-10-24T09:18:14.078781+00:00"
+      "updated_at": "2026-10-24T13:24:40.769360+00:00"
     },
     "sensex": {
       "price": 73123.83,
@@ -137,7 +137,7 @@
         73123.828125
       ],
       "ok": true,
-      "updated_at": "2026-10-24T09:18:14.219908+00:00"
+      "updated_at": "2026-10-24T13:24:40.882712+00:00"
     },
     "banknifty": {
       "price": 54287.35,
@@ -147,9 +147,9 @@
         54206.3984375,
         54268.75,
         54232.19921875,
-        54247.3984375,
+        54247.55078125,
         54163.5,
-        54174.05078125,
+        54172.44921875,
         54257.5,
         54278.80078125,
         54346.1484375,
@@ -186,7 +186,7 @@
         54174.8515625,
         54215.44921875,
         54318.80078125,
-        54273.55078125,
+        54274.0,
         54297.05078125,
         54290.3984375,
         54206.5,
@@ -198,7 +198,7 @@
         54048.19921875,
         54067.8515625,
         54024.05078125,
-        54046.25,
+        54046.80078125,
         54106.1484375,
         54111.55078125,
         54111.55078125,
@@ -206,7 +206,7 @@
         54287.3515625
       ],
       "ok": true,
-      "updated_at": "2026-10-24T09:18:14.406625+00:00"
+      "updated_at": "2026-10-24T13:24:40.989106+00:00"
     },
     "vix": {
       "price": 16.86,
@@ -275,7 +275,7 @@
         16.860000610351562
       ],
       "ok": true,
-      "updated_at": "2026-10-24T09:18:14.537594+00:00"
+      "updated_at": "2026-10-24T13:24:41.096608+00:00"
     },
     "usdinr": {
       "price": 94.94,
@@ -344,7 +344,7 @@
         94.93000030517578
       ],
       "ok": true,
-      "updated_at": "2026-10-24T09:18:14.700562+00:00"
+      "updated_at": "2026-10-24T13:24:41.225655+00:00"
     },
     "gold": {
       "price": 4007.9,
@@ -364,8 +364,8 @@
         4013.5,
         4014.39990234375,
         4013.39990234375,
-        4011.10009765625,
-        4010.699951171875,
+        4011.199951171875,
+        4010.800048828125,
         4007.39990234375,
         4006.39990234375,
         4007.39990234375,
@@ -381,7 +381,7 @@
         4012.10009765625,
         4012.300048828125,
         4015.699951171875,
-        4015.0,
+        4015.10009765625,
         4009.300048828125,
         4010.699951171875,
         4010.60009765625,
@@ -413,7 +413,7 @@
         4007.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-10-24T09:18:14.893223+00:00"
+      "updated_at": "2026-10-24T13:24:41.433894+00:00"
     },
     "crude": {
       "price": 103.27,
@@ -423,7 +423,7 @@
         102.87000274658203,
         102.87999725341797,
         102.95999908447266,
-        103.16999816894531,
+        103.16000366210938,
         103.0999984741211,
         103.08999633789062,
         102.91999816894531,
@@ -431,9 +431,9 @@
         102.75,
         102.6500015258789,
         102.83000183105469,
-        102.91000366210938,
+        102.91999816894531,
         102.95999908447266,
-        102.83999633789062,
+        102.8499984741211,
         102.8499984741211,
         102.87999725341797,
         102.9800033569336,
@@ -443,7 +443,7 @@
         103.08999633789062,
         102.91999816894531,
         103.0199966430664,
-        102.8499984741211,
+        102.83999633789062,
         102.98999786376953,
         103.01000213623047,
         102.97000122070312,
@@ -478,11 +478,11 @@
         103.30999755859375,
         103.33999633789062,
         103.19000244140625,
-        103.26000213623047,
-        103.2699966430664
+        103.25,
+        103.44000244140625
       ],
       "ok": true,
-      "updated_at": "2026-10-24T09:18:15.065493+00:00"
+      "updated_at": "2026-10-24T13:24:41.568660+00:00"
     },
     "us10y": {
       "price": 4.988,
@@ -551,14 +551,29 @@
         4.98799991607666
       ],
       "ok": true,
-      "updated_at": "2026-10-24T09:18:15.230990+00:00"
+      "updated_at": "2026-10-24T13:24:41.682790+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-10-24T09:18:15.353173+00:00",
+      "updated_at": "2026-10-24T13:24:41.777156+00:00",
       "items": [
+        {
+          "title": "AU Small Finance Bank Q2 profit jumps 53% to Rs 858 crore",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/au-small-finance-bank-q2-profit-jumps-53-to-rs-858-crore/articleshow/135169847.cms",
+          "pubDate": "2026-10-24T17:21:56+05:30"
+        },
+        {
+          "title": "Govt of Singapore’s India portfolio: 10 stocks rally up to 100% in FY27 so far",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/govt-of-singapores-india-portfolio-10-stocks-rally-up-to-100-in-fy27-so-far/portfolio-watch/slideshow/135167433.cms",
+          "pubDate": "2026-10-24T15:19:56+05:30"
+        },
+        {
+          "title": "Portfolio Killers: 10 US stocks that wiped out up to 66% of investors’ wealth in 2026",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/portfolio-killers-10-us-stocks-that-wiped-out-up-to-66-of-investors-wealth-in-2026/wall-street-losers/slideshow/135167355.cms",
+          "pubDate": "2026-10-24T15:15:34+05:30"
+        },
         {
           "title": "Kotak Mahindra Bank Q2 results: Consolidated PAT rises 26% YoY to Rs 5,645 crore; lender's NII up 16%",
           "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q2-results-consolidated-pat-rises-26-yoy-to-rs-5645-crore-lenders-nii-up-16/articleshow/135165924.cms",
@@ -573,21 +588,6 @@
           "title": "Smallcap mutual funds attract 44% of equity inflows despite stretched valuations. Should investors be cautious?",
           "link": "https://economictimes.indiatimes.com/mf/mf-news/smallcap-mutual-funds-attract-44-of-equity-inflows-despite-stretched-valuations-should-investors-be-cautious/articleshow/135165538.cms",
           "pubDate": "2026-10-24T13:34:56+05:30"
-        },
-        {
-          "title": "Bitcoin hovers near $80,000 and Ethereum at $2,370 as macro uncertainty and weak institutional flows weigh on crypto markets",
-          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hovers-near-80000-and-ethereum-at-2370-as-macro-uncertainty-and-weak-institutional-flows-weigh-on-crypto-markets/articleshow/135164499.cms",
-          "pubDate": "2026-10-24T12:22:52+05:30"
-        },
-        {
-          "title": "Concurrent Losers: 13 stocks decline for 5 consecutive sessions",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-13-stocks-decline-for-5-consecutive-sessions/consistent-decline/slideshow/135164244.cms",
-          "pubDate": "2026-10-24T12:04:31+05:30"
-        },
-        {
-          "title": "Jio IPO GMP today: Grey market signals over 22% listing gains; check allotment, listing date",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-gmp-today-grey-market-signals-over-22-listing-gains-check-allotment-listing-date/articleshow/135163795.cms",
-          "pubDate": "2026-10-24T11:42:41+05:30"
         },
         {
           "title": "Nepal rescuers continue search for missing as identification of dead remains challenge",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-10-24T09:18:15.663106+00:00",
+      "updated_at": "2026-10-24T13:24:41.889463+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,38 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-10-24T09:18:15.778083+00:00",
+      "updated_at": "2026-10-24T13:24:41.971436+00:00",
       "items": [
+        {
+          "title": "Silver price has broken below  ₹2 lakh for the first time since December 2025: Is this the right time to buy for returns?",
+          "link": "https://www.livemint.com/market/stock-market-news/silver-price-has-broken-below-2-lakh-for-the-first-time-since-december-2025-is-this-the-right-time-to-buy-for-returns-11792841534411.html",
+          "pubDate": "2026-10-24T17:35:14+05:30"
+        },
+        {
+          "title": "Crisil shareholders alerts!  ₹17 per share dividend, record date announced in Q2 results; stock gained 7% in 2 weeks",
+          "link": "https://www.livemint.com/market/stock-market-news/crisil-shareholders-alerts-rs-17-per-share-dividend-record-date-announced-in-q2-results-stock-gained-7-in-2-weeks-11792841666173.html",
+          "pubDate": "2026-10-24T17:33:12+05:30"
+        },
+        {
+          "title": "Godrej Properties Q2 profit plunges 62% to  ₹154 crore, real estate stock down 6.5% in 1 week - What next for investors",
+          "link": "https://www.livemint.com/market/stock-market-news/godrej-properties-q2-profit-falls-62-to-rs-154-crore-real-estate-stock-down-6-5-in-1-week-what-s-next-for-investors-11792839670974.html",
+          "pubDate": "2026-10-24T16:37:13+05:30"
+        },
+        {
+          "title": "IT stocks Q2 results analysis: Infosys vs TCS vs Wipro vs HCL vs TechM: Who wins profit, revenue, dividend, AI race?",
+          "link": "https://www.livemint.com/market/stock-market-news/it-stocks-q2-results-analysis-infosys-vs-tcs-vs-wipro-vs-hcl-vs-techm-who-wins-profit-revenue-dividend-ai-race-11792836774239.html",
+          "pubDate": "2026-10-24T16:22:04+05:30"
+        },
+        {
+          "title": "Cables and wires stock turned multibagger with 318% return in 5 years; InCred sees 29% upside - Do you own? Target price",
+          "link": "https://www.livemint.com/market/stock-market-news/cables-and-wires-stock-turned-multibagger-with-318-return-in-5-years-incred-sees-29-upside-do-you-own-target-price-11792836482555.html",
+          "pubDate": "2026-10-24T15:43:50+05:30"
+        },
+        {
+          "title": "Power stock to buy: Despite almost 20% fall in 1 month, Deven Choksey Research sees 72% returns ahead - Do you own?",
+          "link": "https://www.livemint.com/market/stock-market-news/power-stock-to-buy-despite-almost-20-fall-in-1-month-deven-choksey-research-sees-72-returns-ahead-do-you-own-11792833005751.html",
+          "pubDate": "2026-10-24T15:41:40+05:30"
+        },
         {
           "title": "Dividend, split, rights issue, buyback next week: Hexaware Tech, Cyient, RailTel to Sagility - Check record dates",
           "link": "https://www.livemint.com/market/stock-market-news/dividend-split-rights-issue-buyback-next-week-hexaware-tech-cyient-railtel-to-sagility-check-record-dates-11792826529111.html",
@@ -915,43 +945,18 @@
           "title": "Small-cap stock under  ₹50 with 1:5 stock split, 1:1 bonus share history: Rights issue announced for  ₹160 crore value",
           "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-with-1-5-stock-split-1-1-bonus-share-history-rights-issue-announced-for-rs-160-crore-value-11792753365094.html",
           "pubDate": "2026-10-23T17:14:04+05:30"
-        },
-        {
-          "title": "Infosys Q2 results, dividend 2026 amount announced:  ₹26 per share payout, profit jumps 6.23% YoY - Check record date",
-          "link": "https://www.livemint.com/market/stock-market-news/infosys-q2-results-dividend-2026-amount-announced-rs-25-per-share-payout-profit-jumps-6-23-yoy-check-record-date-11792754002819.html",
-          "pubDate": "2026-10-23T16:47:18+05:30"
-        },
-        {
-          "title": "Himadri Speciality Chemical share price: Why did this multibagger stock suffer its biggest weekly fall since 2008?",
-          "link": "https://www.livemint.com/market/stock-market-news/himadri-speciality-chemical-share-price-why-did-this-multibagger-stock-suffer-its-biggest-weekly-fall-since-2008-11792750458242.html",
-          "pubDate": "2026-10-23T16:10:29+05:30"
-        },
-        {
-          "title": "Swiggy vs Eternal shares compared: Which is better stock to buy post Q2 results? Jefferies India explains | Target price",
-          "link": "https://www.livemint.com/market/stock-market-news/swiggy-vs-eternal-shares-compared-which-is-better-stock-to-buy-post-q2-results-jefferies-india-explains-target-price-11792745304355.html",
-          "pubDate": "2026-10-23T15:44:51+05:30"
-        },
-        {
-          "title": "Top telecom shares to buy: Bharti Airtel, Vodafone Idea, Indus Towers by Ambit Capital with new stock target price",
-          "link": "https://www.livemint.com/market/stock-market-news/top-telecom-shares-to-buy-bharti-airtel-vodafone-idea-indus-towers-by-ambit-capital-with-new-stock-target-price-11792743892509.html",
-          "pubDate": "2026-10-23T15:25:59+05:30"
-        },
-        {
-          "title": "Ather Energy, TVS Motor, Bajaj Auto, Tata Motors PV shares: Can Delhi’s pollution curbs change game for auto-EV stocks?",
-          "link": "https://www.livemint.com/market/stock-market-news/ather-tvs-motor-bajaj-auto-tmpv-can-delhi-s-pollution-curbs-be-a-game-changer-for-auto-ev-stocks-experts-weigh-in-11792745756272.html",
-          "pubDate": "2026-10-23T15:19:18+05:30"
-        },
-        {
-          "title": "Already jumped 55% in 2026, PL Capital sees more returns in Sai Lifesciences shares | Check target, upside",
-          "link": "https://www.livemint.com/market/stock-market-news/already-jumped-55-in-2026-pl-capital-sees-more-returns-in-sai-lifesciences-shares-check-target-upside-11792742770583.html",
-          "pubDate": "2026-10-23T14:20:55+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-10-24T09:18:16.077797+00:00",
+      "updated_at": "2026-10-24T13:24:42.125444+00:00",
       "items": [
+        {
+          "title": "Sebi reviews short selling, SLB rules; plans AI sandbox, bond market-making",
+          "link": "https://www.business-standard.com/markets/news/sebi-short-selling-slb-ai-sandbox-market-making-tuhin-kanta-pandey-126102400650_1.html",
+          "pubDate": "2026-10-24T14:51:21+05:30"
+        },
         {
           "title": "NSE reviewing network vulnerabilities as AI cyber threats rise: Chauhan",
           "link": "https://www.business-standard.com/markets/news/nse-ai-cybersecurity-network-vulnerabilities-ashishkumar-chauhan-126102400408_1.html",
@@ -1096,17 +1101,12 @@
           "title": "Sahajanand Medical shares make positive debut, list at 8% premium",
           "link": "https://www.business-standard.com/markets/news/sahajanand-medical-shares-make-positive-debut-list-at-8-premium-126102300224_1.html",
           "pubDate": "2026-10-23T10:03:32+05:30"
-        },
-        {
-          "title": "Zetwerk shares debut at 5% premium over IPO price, beat expectations",
-          "link": "https://www.business-standard.com/markets/news/zetwerk-shares-debut-at-5-premium-over-ipo-price-beat-expectations-126102300231_1.html",
-          "pubDate": "2026-10-23T10:01:56+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-10-24T09:18:17.008937+00:00",
+      "updated_at": "2026-10-24T13:24:42.980808+00:00",
       "items": [
         {
           "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on October 26, 2026",

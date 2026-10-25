@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T16:07:43.996848+00:00",
+  "generated_at": "2026-10-25T18:58:17.956140+00:00",
   "indices": {
     "nifty50": {
       "price": 22600.0,
@@ -12,8 +12,8 @@
         22474.30078125,
         22426.349609375,
         22434.599609375,
-        22461.599609375,
-        22479.55078125,
+        22461.849609375,
+        22479.25,
         22507.900390625,
         22492.650390625,
         22469.44921875,
@@ -22,17 +22,17 @@
         22457.599609375,
         22446.44921875,
         22438.94921875,
-        22427.30078125,
+        22427.5,
         22421.0,
-        22419.650390625,
+        22419.55078125,
         22443.80078125,
         22456.75,
         22425.0,
-        22417.25,
+        22417.099609375,
         22418.349609375,
         22419.05078125,
         22409.69921875,
-        22395.75,
+        22395.099609375,
         22393.5,
         22424.05078125,
         22429.349609375,
@@ -43,12 +43,12 @@
         22411.44921875,
         22429.099609375,
         22512.80078125,
-        22579.30078125,
-        22558.900390625,
+        22579.44921875,
+        22558.19921875,
         22502.05078125,
         22520.599609375,
         22560.599609375,
-        22542.94921875,
+        22543.55078125,
         22553.94921875,
         22564.0,
         22543.599609375,
@@ -68,11 +68,11 @@
         22600.0
       ],
       "ok": true,
-      "updated_at": "2026-10-25T16:07:42.315174+00:00"
+      "updated_at": "2026-10-25T18:58:16.289950+00:00"
     },
     "sensex": {
       "price": 73123.83,
-      "change": -125.56,
+      "change": -125.57,
       "pct": -0.1714,
       "closes": [
         72757.46875,
@@ -137,7 +137,7 @@
         73123.828125
       ],
       "ok": true,
-      "updated_at": "2026-10-25T16:07:42.424616+00:00"
+      "updated_at": "2026-10-25T18:58:16.420122+00:00"
     },
     "banknifty": {
       "price": 54287.35,
@@ -147,9 +147,9 @@
         54206.3984375,
         54268.75,
         54232.19921875,
-        54247.55078125,
+        54247.3984375,
         54163.5,
-        54172.44921875,
+        54174.05078125,
         54257.5,
         54278.80078125,
         54346.1484375,
@@ -186,7 +186,7 @@
         54174.8515625,
         54215.44921875,
         54318.80078125,
-        54274.0,
+        54273.55078125,
         54297.05078125,
         54290.3984375,
         54206.5,
@@ -198,7 +198,7 @@
         54048.19921875,
         54067.8515625,
         54024.05078125,
-        54046.80078125,
+        54046.25,
         54106.1484375,
         54111.55078125,
         54111.55078125,
@@ -206,7 +206,7 @@
         54287.3515625
       ],
       "ok": true,
-      "updated_at": "2026-10-25T16:07:42.548220+00:00"
+      "updated_at": "2026-10-25T18:58:16.539601+00:00"
     },
     "vix": {
       "price": 16.86,
@@ -275,7 +275,7 @@
         16.860000610351562
       ],
       "ok": true,
-      "updated_at": "2026-10-25T16:07:42.661203+00:00"
+      "updated_at": "2026-10-25T18:58:16.696720+00:00"
     },
     "usdinr": {
       "price": 94.93,
@@ -344,7 +344,7 @@
         94.93000030517578
       ],
       "ok": true,
-      "updated_at": "2026-10-25T16:07:42.791021+00:00"
+      "updated_at": "2026-10-25T18:58:16.799786+00:00"
     },
     "gold": {
       "price": 4007.9,
@@ -352,7 +352,7 @@
       "pct": -1.293,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-10-25T16:07:42.899206+00:00"
+      "updated_at": "2026-10-25T18:58:16.884761+00:00"
     },
     "crude": {
       "price": 103.27,
@@ -360,7 +360,7 @@
       "pct": 3.8202,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-10-25T16:07:43.009173+00:00"
+      "updated_at": "2026-10-25T18:58:16.965133+00:00"
     },
     "us10y": {
       "price": 4.988,
@@ -429,13 +429,13 @@
         4.98799991607666
       ],
       "ok": true,
-      "updated_at": "2026-10-25T16:07:43.186863+00:00"
+      "updated_at": "2026-10-25T18:58:17.054551+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-10-25T16:07:43.447542+00:00",
+      "updated_at": "2026-10-25T18:58:17.259005+00:00",
       "items": [
         {
           "title": "Mcap of 8 of top-10 firms erodes by Rs 1.55L cr",
@@ -590,7 +590,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-10-25T16:07:43.632860+00:00",
       "items": [
         {
@@ -672,8 +672,23 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-10-25T16:07:43.713329+00:00",
+      "updated_at": "2026-10-25T18:58:17.629266+00:00",
       "items": [
+        {
+          "title": "US Stock Markets this week: Wall Street gears up for Fed rate decision; Q3 earnings from Alphabet, Microsoft, Amazon",
+          "link": "https://www.livemint.com/market/us-stock-markets-this-week-wall-street-gears-up-for-fed-rate-decision-q3-earnings-from-alphabet-microsoft-amazon-11792944787786.html",
+          "pubDate": "2026-10-25T23:30:39+05:30"
+        },
+        {
+          "title": "PSU Q2 results 2026 preview: BEL, Coal India, IGL - Earnings estimate, brokerage target price, returns potential",
+          "link": "https://www.livemint.com/market/stock-market-news/psu-q2-results-2026-preview-bel-coal-india-igl-earnings-estimate-brokerage-target-price-returns-potential-11792946740816.html",
+          "pubDate": "2026-10-25T22:18:48+05:30"
+        },
+        {
+          "title": "Dividend buzz: Dalmia Bharat, Mazagon Dock, Coal India, NTPC, others to consider payouts this week - Check full list",
+          "link": "https://www.livemint.com/market/stock-market-news/dividend-buzz-dalmia-bharat-mazagon-dock-coal-india-ntpc-2-others-to-consider-payouts-this-week-11792943992658.html",
+          "pubDate": "2026-10-25T21:49:37+05:30"
+        },
         {
           "title": "IT stocks dividend record date this week: Cyient, LT Tech, Hexaware, Hypersoft, Sagility - Who pays most? Amount, return",
           "link": "https://www.livemint.com/market/stock-market-news/it-stocks-dividend-record-date-this-week-cyient-lt-tech-hexaware-hypersoft-sagility-who-pays-most-amount-return-11792938159348.html",
@@ -808,27 +823,12 @@
           "title": "Reliance Jio Platforms IPO GMP, listing date and time, share price prediction for NSE, BSE debut - Details",
           "link": "https://www.livemint.com/market/ipo/reliance-jio-platforms-ipo-gmp-listing-date-and-time-share-price-prediction-for-nse-bse-debut-details-11792848439962.html",
           "pubDate": "2026-10-24T19:01:25+05:30"
-        },
-        {
-          "title": "Silver price has broken below  ₹2 lakh for the first time since December 2025: Is this the right time to buy for returns?",
-          "link": "https://www.livemint.com/market/stock-market-news/silver-price-has-broken-below-2-lakh-for-the-first-time-since-december-2025-is-this-the-right-time-to-buy-for-returns-11792841534411.html",
-          "pubDate": "2026-10-24T17:35:14+05:30"
-        },
-        {
-          "title": "Crisil shareholders alerts!  ₹17 per share dividend, record date announced in Q2 results; stock gained 7% in 2 weeks",
-          "link": "https://www.livemint.com/market/stock-market-news/crisil-shareholders-alerts-rs-17-per-share-dividend-record-date-announced-in-q2-results-stock-gained-7-in-2-weeks-11792841666173.html",
-          "pubDate": "2026-10-24T17:33:12+05:30"
-        },
-        {
-          "title": "Godrej Properties Q2 profit plunges 62% to  ₹154 crore, real estate stock down 6.5% in 1 week - What next for investors",
-          "link": "https://www.livemint.com/market/stock-market-news/godrej-properties-q2-profit-falls-62-to-rs-154-crore-real-estate-stock-down-6-5-in-1-week-what-s-next-for-investors-11792839670974.html",
-          "pubDate": "2026-10-24T16:37:13+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-10-25T16:07:43.952381+00:00",
+      "updated_at": "2026-10-25T18:58:17.905160+00:00",
       "items": [
         {
           "title": "Senco Gold to acquire 68% stake in August Jewellery for ₹68 crore",
@@ -858,7 +858,7 @@
         {
           "title": "Q2 results, US Fed decision, crude oil may drive stock markets this week",
           "link": "https://www.business-standard.com/markets/news/q2-results-us-fed-decision-crude-oil-may-drive-stock-markets-this-week-126102500192_1.html",
-          "pubDate": "2026-10-25T12:20:40+05:30"
+          "pubDate": "2026-10-25T12:20:28+05:30"
         },
         {
           "title": "FPIs withdraw ₹48,056 crore from equities in Oct amid elevated oil prices",
@@ -984,7 +984,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-10-25T16:07:43.996834+00:00",
+      "updated_at": "2026-10-25T18:58:17.956127+00:00",
       "items": [
         {
           "title": "Hon’ble Prime Minister of India inaugurates the Reserve Bank of India’s Data Centre and Cybersecurity Training Institute in Bhubaneswar, Odisha",

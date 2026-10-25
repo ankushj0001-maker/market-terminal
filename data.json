@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T21:21:40.392710+00:00",
+  "generated_at": "2026-10-25T23:21:40.663834+00:00",
   "indices": {
     "nifty50": {
       "price": 22600.0,
@@ -68,7 +68,7 @@
         22600.0
       ],
       "ok": true,
-      "updated_at": "2026-10-25T21:21:37.710602+00:00"
+      "updated_at": "2026-10-25T23:21:37.978142+00:00"
     },
     "sensex": {
       "price": 73123.83,
@@ -137,7 +137,7 @@
         73123.828125
       ],
       "ok": true,
-      "updated_at": "2026-10-25T21:21:37.821438+00:00"
+      "updated_at": "2026-10-25T23:21:38.116313+00:00"
     },
     "banknifty": {
       "price": 54287.35,
@@ -206,7 +206,7 @@
         54287.3515625
       ],
       "ok": true,
-      "updated_at": "2026-10-25T21:21:37.928649+00:00"
+      "updated_at": "2026-10-25T23:21:38.258252+00:00"
     },
     "vix": {
       "price": 16.86,
@@ -275,7 +275,7 @@
         16.860000610351562
       ],
       "ok": true,
-      "updated_at": "2026-10-25T21:21:38.040357+00:00"
+      "updated_at": "2026-10-25T23:21:38.407235+00:00"
     },
     "usdinr": {
       "price": 94.93,
@@ -344,23 +344,53 @@
         94.93000030517578
       ],
       "ok": true,
-      "updated_at": "2026-10-25T21:21:38.184678+00:00"
+      "updated_at": "2026-10-25T23:21:38.565528+00:00"
     },
     "gold": {
-      "price": 4007.9,
-      "change": 0.0,
-      "pct": 0.0,
-      "closes": [],
+      "price": 4009.7,
+      "change": 1.8,
+      "pct": 0.0449,
+      "closes": [
+        4007.60009765625,
+        4016.800048828125,
+        4010.39990234375,
+        4011.699951171875,
+        4014.199951171875,
+        4014.10009765625,
+        4016.89990234375,
+        4016.5,
+        4015.300048828125,
+        4014.0,
+        4013.5,
+        4009.699951171875,
+        4012.199951171875,
+        4009.699951171875
+      ],
       "ok": true,
-      "updated_at": "2026-10-25T21:21:38.294361+00:00"
+      "updated_at": "2026-10-25T23:21:38.699645+00:00"
     },
     "crude": {
-      "price": 103.27,
-      "change": 0.0,
-      "pct": 0.0,
-      "closes": [],
+      "price": 102.21,
+      "change": -1.06,
+      "pct": -1.0264,
+      "closes": [
+        101.80000305175781,
+        101.66999816894531,
+        102.11000061035156,
+        101.81999969482422,
+        101.94999694824219,
+        101.93000030517578,
+        102.0,
+        102.01000213623047,
+        102.08000183105469,
+        102.05999755859375,
+        102.19999694824219,
+        102.29000091552734,
+        102.25,
+        102.20999908447266
+      ],
       "ok": true,
-      "updated_at": "2026-10-25T21:21:38.400088+00:00"
+      "updated_at": "2026-10-25T23:21:38.830216+00:00"
     },
     "us10y": {
       "price": 4.988,
@@ -429,13 +459,13 @@
         4.98799991607666
       ],
       "ok": true,
-      "updated_at": "2026-10-25T21:21:38.515433+00:00"
+      "updated_at": "2026-10-25T23:21:38.963098+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-10-25T21:21:38.802619+00:00",
+      "updated_at": "2026-10-25T23:21:39.202059+00:00",
       "items": [
         {
           "title": "Mcap of 8 of top-10 firms erodes by Rs 1.55L cr",
@@ -672,7 +702,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-10-25T21:21:38.983828+00:00",
+      "updated_at": "2026-10-25T23:21:39.561912+00:00",
       "items": [
         {
           "title": "US Stock Markets this week: Wall Street gears up for Fed rate decision; Q3 earnings from Alphabet, Microsoft, Amazon",
@@ -828,8 +858,13 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-10-25T21:21:39.182147+00:00",
+      "updated_at": "2026-10-25T23:21:39.777055+00:00",
       "items": [
+        {
+          "title": "SI Arena debuts at BFSI Summit: Bringing market experts closer to investors",
+          "link": "https://www.business-standard.com/specials/bs-events/si-arena-debuts-at-bfsi-summit-bringing-market-experts-closer-to-investors-126102301279_1.html",
+          "pubDate": "2026-10-26T06:30:19+05:30"
+        },
         {
           "title": "Senco Gold to acquire 68% stake in August Jewellery for ₹68 crore",
           "link": "https://www.business-standard.com/companies/news/senco-gold-to-acquire-68-stake-in-august-jewellery-for-68-crore-126102500549_1.html",
@@ -974,17 +1009,12 @@
           "title": "Crude oil up 85% in 2026 poses threat to global economy; Brent may hit $120",
           "link": "https://www.business-standard.com/markets/news/crude-oil-up-85-in-2026-poses-threat-to-global-economy-brent-may-hit-120-126102300498_1.html",
           "pubDate": "2026-10-23T12:21:03+05:30"
-        },
-        {
-          "title": "Gold outlook bleak; avoid aggressive selling without stop loss: Analyst",
-          "link": "https://www.business-standard.com/markets/news/gold-outlook-bleak-avoid-aggressive-selling-without-stop-loss-analyst-126102300470_1.html",
-          "pubDate": "2026-10-23T12:16:28+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-10-25T21:21:40.392696+00:00",
+      "updated_at": "2026-10-25T23:21:40.663818+00:00",
       "items": [
         {
           "title": "Hon’ble Prime Minister of India inaugurates the Reserve Bank of India’s Data Centre and Cybersecurity Training Institute in Bhubaneswar, Odisha",

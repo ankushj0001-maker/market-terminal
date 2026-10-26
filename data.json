@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T23:21:40.663834+00:00",
+  "generated_at": "2026-10-26T01:22:26.361935+00:00",
   "indices": {
     "nifty50": {
       "price": 22600.0,
@@ -12,8 +12,8 @@
         22474.30078125,
         22426.349609375,
         22434.599609375,
-        22461.599609375,
-        22479.55078125,
+        22461.849609375,
+        22479.25,
         22507.900390625,
         22492.650390625,
         22469.44921875,
@@ -22,17 +22,17 @@
         22457.599609375,
         22446.44921875,
         22438.94921875,
-        22427.30078125,
+        22427.5,
         22421.0,
-        22419.650390625,
+        22419.55078125,
         22443.80078125,
         22456.75,
         22425.0,
-        22417.25,
+        22417.099609375,
         22418.349609375,
         22419.05078125,
         22409.69921875,
-        22395.75,
+        22395.099609375,
         22393.5,
         22424.05078125,
         22429.349609375,
@@ -43,12 +43,12 @@
         22411.44921875,
         22429.099609375,
         22512.80078125,
-        22579.30078125,
-        22558.900390625,
+        22579.44921875,
+        22558.19921875,
         22502.05078125,
         22520.599609375,
         22560.599609375,
-        22542.94921875,
+        22543.55078125,
         22553.94921875,
         22564.0,
         22543.599609375,
@@ -68,7 +68,7 @@
         22600.0
       ],
       "ok": true,
-      "updated_at": "2026-10-25T23:21:37.978142+00:00"
+      "updated_at": "2026-10-26T01:22:25.062882+00:00"
     },
     "sensex": {
       "price": 73123.83,
@@ -137,7 +137,7 @@
         73123.828125
       ],
       "ok": true,
-      "updated_at": "2026-10-25T23:21:38.116313+00:00"
+      "updated_at": "2026-10-26T01:22:25.125937+00:00"
     },
     "banknifty": {
       "price": 54287.35,
@@ -147,9 +147,9 @@
         54206.3984375,
         54268.75,
         54232.19921875,
-        54247.55078125,
+        54247.3984375,
         54163.5,
-        54172.44921875,
+        54174.05078125,
         54257.5,
         54278.80078125,
         54346.1484375,
@@ -186,7 +186,7 @@
         54174.8515625,
         54215.44921875,
         54318.80078125,
-        54274.0,
+        54273.55078125,
         54297.05078125,
         54290.3984375,
         54206.5,
@@ -198,7 +198,7 @@
         54048.19921875,
         54067.8515625,
         54024.05078125,
-        54046.80078125,
+        54046.25,
         54106.1484375,
         54111.55078125,
         54111.55078125,
@@ -206,7 +206,7 @@
         54287.3515625
       ],
       "ok": true,
-      "updated_at": "2026-10-25T23:21:38.258252+00:00"
+      "updated_at": "2026-10-26T01:22:25.185128+00:00"
     },
     "vix": {
       "price": 16.86,
@@ -275,81 +275,23 @@
         16.860000610351562
       ],
       "ok": true,
-      "updated_at": "2026-10-25T23:21:38.407235+00:00"
+      "updated_at": "2026-10-26T01:22:25.242175+00:00"
     },
     "usdinr": {
       "price": 94.93,
-      "change": 0.122,
-      "pct": 0.1287,
+      "change": 0.0,
+      "pct": 0.0,
       "closes": [
-        94.93000030517578,
-        94.94499969482422,
-        94.94249725341797,
-        94.9375,
-        94.92749786376953,
-        94.93000030517578,
-        94.94750213623047,
-        94.95249938964844,
-        94.95500183105469,
-        94.94000244140625,
-        94.92749786376953,
-        94.92749786376953,
-        94.92500305175781,
-        94.91500091552734,
-        94.91000366210938,
-        94.91799926757812,
-        94.91999816894531,
-        94.91999816894531,
-        94.92749786376953,
-        94.92500305175781,
-        94.9229965209961,
-        94.93000030517578,
-        94.92250061035156,
-        94.93250274658203,
-        94.93499755859375,
-        94.9375,
-        94.94750213623047,
-        94.94499969482422,
-        94.94499969482422,
-        94.94000244140625,
-        94.94249725341797,
-        94.95500183105469,
-        94.95999908447266,
-        94.95249938964844,
-        94.94499969482422,
-        94.94499969482422,
-        94.94999694824219,
-        94.95999908447266,
-        94.95500183105469,
-        94.94999694824219,
-        94.94000244140625,
-        94.94000244140625,
-        94.93000030517578,
-        94.90750122070312,
-        94.91999816894531,
-        94.91999816894531,
-        94.91999816894531,
-        94.91999816894531,
-        94.93499755859375,
-        94.94249725341797,
-        94.94000244140625,
-        94.93000030517578,
-        94.93000030517578,
-        94.93000030517578,
-        94.93000030517578,
-        94.93000030517578,
-        94.93000030517578,
-        94.93000030517578,
         94.93000030517578,
         94.93000030517578
       ],
       "ok": true,
-      "updated_at": "2026-10-25T23:21:38.565528+00:00"
+      "updated_at": "2026-10-26T01:22:25.299019+00:00"
     },
     "gold": {
-      "price": 4009.7,
-      "change": 1.8,
-      "pct": 0.0449,
+      "price": 4009.6,
+      "change": 1.7,
+      "pct": 0.0424,
       "closes": [
         4007.60009765625,
         4016.800048828125,
@@ -364,15 +306,39 @@
         4013.5,
         4009.699951171875,
         4012.199951171875,
-        4009.699951171875
+        4010.199951171875,
+        4010.89990234375,
+        4012.89990234375,
+        4014.39990234375,
+        4016.199951171875,
+        4011.5,
+        4008.0,
+        4007.0,
+        4011.199951171875,
+        4002.300048828125,
+        4001.5,
+        4002.60009765625,
+        4006.5,
+        3999.5,
+        4003.300048828125,
+        4004.300048828125,
+        3998.800048828125,
+        4003.60009765625,
+        4000.60009765625,
+        3997.39990234375,
+        3998.300048828125,
+        3994.39990234375,
+        4007.10009765625,
+        4010.10009765625,
+        4009.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-10-25T23:21:38.699645+00:00"
+      "updated_at": "2026-10-26T01:22:25.355626+00:00"
     },
     "crude": {
-      "price": 102.21,
-      "change": -1.06,
-      "pct": -1.0264,
+      "price": 101.54,
+      "change": -1.73,
+      "pct": -1.6752,
       "closes": [
         101.80000305175781,
         101.66999816894531,
@@ -384,13 +350,37 @@
         102.01000213623047,
         102.08000183105469,
         102.05999755859375,
-        102.19999694824219,
+        102.19000244140625,
         102.29000091552734,
         102.25,
-        102.20999908447266
+        102.36000061035156,
+        102.38999938964844,
+        102.16999816894531,
+        102.0,
+        102.2300033569336,
+        102.2300033569336,
+        102.19999694824219,
+        102.12999725341797,
+        102.12999725341797,
+        102.16999816894531,
+        101.94000244140625,
+        101.73999786376953,
+        101.80000305175781,
+        101.76000213623047,
+        101.79000091552734,
+        101.7699966430664,
+        101.79000091552734,
+        101.73999786376953,
+        101.80999755859375,
+        101.80999755859375,
+        101.69999694824219,
+        101.75,
+        101.52999877929688,
+        101.47000122070312,
+        101.54000091552734
       ],
       "ok": true,
-      "updated_at": "2026-10-25T23:21:38.830216+00:00"
+      "updated_at": "2026-10-26T01:22:25.412235+00:00"
     },
     "us10y": {
       "price": 4.988,
@@ -459,43 +449,43 @@
         4.98799991607666
       ],
       "ok": true,
-      "updated_at": "2026-10-25T23:21:38.963098+00:00"
+      "updated_at": "2026-10-26T01:22:25.510973+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-10-25T23:21:39.202059+00:00",
+      "updated_at": "2026-10-26T01:22:25.644567+00:00",
       "items": [
         {
-          "title": "Mcap of 8 of top-10 firms erodes by Rs 1.55L cr",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-firms-erodes-by-rs-1-55-lakh-cr-hdfc-bank-bajaj-fin-biggest-laggards/articleshow/135186713.cms",
-          "pubDate": "2026-10-25T13:57:13+05:30"
+          "title": "G-Sec yields at three-year peak, could climb to 7.75% by December",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/g-sec-yields-at-three-year-peak-could-climb-to-7-75-by-december/articleshow/135200262.cms",
+          "pubDate": "2026-10-26T06:35:24+05:30"
         },
         {
-          "title": "Warren Buffett’s 6 golden rules for investors after retirement",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/warren-buffetts-6-golden-rules-for-investors-after-retirement/articleshow/135186407.cms",
-          "pubDate": "2026-10-25T13:38:20+05:30"
+          "title": "Double-digit growth seen on corporate scoreboard in Q2, but bank, IT, pharma lag",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/double-digit-growth-seen-on-corporate-scoreboard-in-q2-but-bank-it-pharma-lags/articleshow/135200205.cms",
+          "pubDate": "2026-10-26T06:26:52+05:30"
         },
         {
-          "title": "FPIs withdraw Rs 48,056 cr from D-St in Oct",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-withdraw-rs-48056-cr-from-equities-in-oct-so-far-amid-elevated-crude-oil-prices/articleshow/135185267.cms",
-          "pubDate": "2026-10-25T12:03:10+05:30"
+          "title": "India valuations hit 6-year low, but stocks still expensive than EM peers",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-valuations-hit-six-year-low-but-more-expensive-than-em-peers/articleshow/135200136.cms",
+          "pubDate": "2026-10-26T06:07:25+05:30"
         },
         {
-          "title": "Swiggy might rebound, but charts tell a different story",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/swiggymayrebound-to-rs-190-butchartsdonotsignal-a-trendreversal-lkps-vatsalbhuva/articleshow/135184363.cms",
-          "pubDate": "2026-10-25T11:11:46+05:30"
+          "title": "BlackRock stays cautious on Indian equities despite cheaper valuations",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/blackrock-stays-cautious-on-indian-equities-despite-cheaper-valuations/articleshow/135200058.cms",
+          "pubDate": "2026-10-26T05:53:31+05:30"
         },
         {
-          "title": "Equity mutual funds lose up to 9% in a week, international funds among biggest laggards",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/equity-mutual-funds-lose-up-to-9-in-a-week-international-funds-among-biggest-laggards/slideshow/135183063.cms",
-          "pubDate": "2026-10-25T09:41:08+05:30"
+          "title": "IPO rush continues: 9 issues to raise Rs 2,768 crore this week",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-9-issues-to-raise-rs-2768-crore-this-week/articleshow/135199752.cms",
+          "pubDate": "2026-10-26T05:41:58+05:30"
         },
         {
-          "title": "Nifty bears tighten grip as crude, geopolitical risks, FII outflows mount: 5 factors to decide D-Street’s fate next week",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bears-tighten-grip-as-crude-geopolitical-risks-fii-outflows-mount-5-factors-to-decide-d-streets-fate-next-week/articleshow/135182716.cms",
-          "pubDate": "2026-10-25T09:18:39+05:30"
+          "title": "Nifty outlook bearish, but near-term recovery in sight: Analysts",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-outlook-can-the-index-rebound-despite-bearish-signals/articleshow/135199446.cms",
+          "pubDate": "2026-10-26T05:31:01+05:30"
         },
         {
           "title": "Nepal rescuers continue search for missing as identification of dead remains challenge",
@@ -702,8 +692,33 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-10-25T23:21:39.561912+00:00",
+      "updated_at": "2026-10-26T01:22:25.834985+00:00",
       "items": [
+        {
+          "title": "Capital shifting from secondary market to  ₹5 trillion IPO pipeline: Madhu Lunawat",
+          "link": "https://www.livemint.com/market/stock-market-news/capital-secondary-market-to-5-trillion-ipo-pipeline-madhu-lunawat-11792907791369.html",
+          "pubDate": "2026-10-26T06:30:39+05:30"
+        },
+        {
+          "title": "Infosys’s huge deal wins fail to give it an edge over peers",
+          "link": "https://www.livemint.com/market/mark-to-market/infosys-q2-fy27-quarterly-results-review-11792904482073.html",
+          "pubDate": "2026-10-26T06:30:19+05:30"
+        },
+        {
+          "title": "Stock recommendations for 26 October from MarketSmith India",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-26-october-from-marketsmith-india-11792823161033.html",
+          "pubDate": "2026-10-26T06:00:53+05:30"
+        },
+        {
+          "title": "Raja Venkatraman recommends two stocks for 26 October",
+          "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-26-october-11792826087895.html",
+          "pubDate": "2026-10-26T06:00:40+05:30"
+        },
+        {
+          "title": "Nifty slide brings 18 month old support back to the fore",
+          "link": "https://www.livemint.com/market/stock-market-news/nifty-50-slide-brings-18-month-old-support-level-back-to-the-fore-11792905951012.html",
+          "pubDate": "2026-10-26T05:30:13+05:30"
+        },
         {
           "title": "US Stock Markets this week: Wall Street gears up for Fed rate decision; Q3 earnings from Alphabet, Microsoft, Amazon",
           "link": "https://www.livemint.com/market/us-stock-markets-this-week-wall-street-gears-up-for-fed-rate-decision-q3-earnings-from-alphabet-microsoft-amazon-11792944787786.html",
@@ -828,37 +843,12 @@
           "title": "Upcoming IPO: MK Sons Fine Jewels’  ₹275 cr opening next week – Company profile, key dates, share price band and more",
           "link": "https://www.livemint.com/market/ipo/upcoming-ipo-mk-sons-fine-jewels-rs-275-cr-opening-next-week-company-profile-key-dates-share-price-band-and-more-11792858838153.html",
           "pubDate": "2026-10-24T22:45:07+05:30"
-        },
-        {
-          "title": "High dividend, low price: 4 stocks under  ₹200 with high yield - IOCL, PTC India, Central Bank, PTL Enterprises",
-          "link": "https://www.livemint.com/market/stock-market-news/high-dividend-low-price-4-stocks-under-rs-200-with-high-yield-iocl-ptc-india-central-bank-ptl-enterprises-11792860259451.html",
-          "pubDate": "2026-10-24T22:19:50+05:30"
-        },
-        {
-          "title": "413% returns in 1 year: Gold jewellery stock offers bonus shares - Do you own? Check Ratio, record date",
-          "link": "https://www.livemint.com/market/stock-market-news/413-returns-in-1-year-gold-jewellery-stock-offers-bonus-shares-do-you-own-check-ratio-record-date-11792858197650.html",
-          "pubDate": "2026-10-24T21:47:27+05:30"
-        },
-        {
-          "title": "Reliance Jio IPO listing on Oct 28: Will Mukesh Ambani's firm be in top 5 m-cap? RIL to hold top spot",
-          "link": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-listing-on-oct-28-will-mukesh-ambanis-firm-be-in-top-5-m-cap-ril-to-hold-top-spot-11792854254054.html",
-          "pubDate": "2026-10-24T21:19:15+05:30"
-        },
-        {
-          "title": "Big action! Who is Avadhut Sathe? Why SEBI ordered Avadhut Sathe Trading Academy to refund  ₹546 cr - What he did?",
-          "link": "https://www.livemint.com/market/stock-market-news/big-action-who-is-avadhut-sathe-why-sebi-ordered-avadhut-sathe-trading-academy-to-refund-rs-546-cr-what-he-did-11792848745624.html",
-          "pubDate": "2026-10-24T20:11:07+05:30"
-        },
-        {
-          "title": "Reliance Jio Platforms IPO GMP, listing date and time, share price prediction for NSE, BSE debut - Details",
-          "link": "https://www.livemint.com/market/ipo/reliance-jio-platforms-ipo-gmp-listing-date-and-time-share-price-prediction-for-nse-bse-debut-details-11792848439962.html",
-          "pubDate": "2026-10-24T19:01:25+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-10-25T23:21:39.777055+00:00",
+      "updated_at": "2026-10-26T01:22:26.054249+00:00",
       "items": [
         {
           "title": "SI Arena debuts at BFSI Summit: Bringing market experts closer to investors",
@@ -1014,7 +1004,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-10-25T23:21:40.663818+00:00",
+      "updated_at": "2026-10-26T01:22:26.361921+00:00",
       "items": [
         {
           "title": "Hon’ble Prime Minister of India inaugurates the Reserve Bank of India’s Data Centre and Cybersecurity Training Institute in Bhubaneswar, Odisha",

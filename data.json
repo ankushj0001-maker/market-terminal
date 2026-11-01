@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T23:56:01.391690+00:00",
+  "generated_at": "2026-11-01T03:01:05.077765+00:00",
   "indices": {
     "nifty50": {
       "price": 23053.1,
@@ -8,28 +8,28 @@
       "closes": [
         22934.94921875,
         22955.69921875,
-        22928.150390625,
+        22928.349609375,
         22962.30078125,
         22971.650390625,
         22988.80078125,
-        23001.650390625,
-        23006.25,
+        23001.69921875,
+        23007.5,
         23022.900390625,
         23020.44921875,
         23038.80078125,
         23047.0,
         23052.69921875,
-        23044.44921875,
-        23072.150390625,
+        23044.80078125,
+        23072.19921875,
         23068.80078125,
         23097.650390625,
         23101.25,
-        23095.94921875,
+        23095.650390625,
         23075.099609375,
         23096.80078125,
-        23090.75,
-        23086.400390625,
-        23093.55078125,
+        23090.44921875,
+        23086.25,
+        23093.69921875,
         23085.80078125,
         23102.80078125,
         23097.150390625,
@@ -68,7 +68,7 @@
         23053.099609375
       ],
       "ok": true,
-      "updated_at": "2026-10-31T23:55:58.764997+00:00"
+      "updated_at": "2026-11-01T03:01:01.970943+00:00"
     },
     "sensex": {
       "price": 74459.53,
@@ -137,7 +137,7 @@
         74459.53125
       ],
       "ok": true,
-      "updated_at": "2026-10-31T23:55:58.877032+00:00"
+      "updated_at": "2026-11-01T03:01:02.149423+00:00"
     },
     "banknifty": {
       "price": 54686.95,
@@ -163,7 +163,7 @@
         55028.8984375,
         55033.19921875,
         55001.44921875,
-        54909.0,
+        54907.69921875,
         54962.05078125,
         54929.25,
         54936.44921875,
@@ -183,7 +183,7 @@
         54722.0,
         54712.44921875,
         54705.8515625,
-        54699.8984375,
+        54699.75,
         54607.30078125,
         54639.69921875,
         54636.6484375,
@@ -206,7 +206,7 @@
         54686.94921875
       ],
       "ok": true,
-      "updated_at": "2026-10-31T23:55:58.988653+00:00"
+      "updated_at": "2026-11-01T03:01:02.286351+00:00"
     },
     "vix": {
       "price": 15.302,
@@ -275,14 +275,13 @@
         15.302499771118164
       ],
       "ok": true,
-      "updated_at": "2026-10-31T23:55:59.097454+00:00"
+      "updated_at": "2026-11-01T03:01:02.524319+00:00"
     },
     "usdinr": {
       "price": 94.95,
       "change": -0.26,
       "pct": -0.2731,
       "closes": [
-        95.23500061035156,
         95.23249816894531,
         95.2249984741211,
         95.20999908447266,
@@ -341,10 +340,11 @@
         94.94000244140625,
         94.94000244140625,
         94.94000244140625,
-        94.94000244140625
+        94.94000244140625,
+        94.94999694824219
       ],
       "ok": true,
-      "updated_at": "2026-10-31T23:55:59.239320+00:00"
+      "updated_at": "2026-11-01T03:01:02.780996+00:00"
     },
     "gold": {
       "price": 3898.9,
@@ -356,7 +356,7 @@
         3905.300048828125,
         3906.10009765625,
         3906.0,
-        3909.60009765625,
+        3909.699951171875,
         3909.89990234375,
         3907.0,
         3904.5,
@@ -364,8 +364,8 @@
         3901.89990234375,
         3905.800048828125,
         3903.699951171875,
-        3898.800048828125,
-        3898.39990234375,
+        3898.89990234375,
+        3898.5,
         3900.199951171875,
         3901.89990234375,
         3899.0,
@@ -375,9 +375,9 @@
         3891.5,
         3892.0,
         3893.10009765625,
-        3888.300048828125,
+        3888.199951171875,
         3890.699951171875,
-        3889.60009765625,
+        3889.89990234375,
         3889.699951171875,
         3888.89990234375,
         3889.39990234375,
@@ -386,17 +386,17 @@
         3891.800048828125,
         3889.800048828125,
         3889.300048828125,
-        3889.199951171875,
+        3889.39990234375,
         3886.89990234375,
         3887.89990234375,
         3887.800048828125,
         3886.60009765625,
         3889.60009765625,
-        3885.0,
+        3884.89990234375,
         3885.300048828125,
         3886.60009765625,
         3879.89990234375,
-        3884.800048828125,
+        3884.60009765625,
         3891.699951171875,
         3892.800048828125,
         3891.60009765625,
@@ -406,14 +406,14 @@
         3886.89990234375,
         3889.5,
         3885.10009765625,
-        3883.699951171875,
+        3883.800048828125,
         3882.5,
         3883.300048828125,
-        3886.10009765625,
+        3886.199951171875,
         3898.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-10-31T23:55:59.366158+00:00"
+      "updated_at": "2026-11-01T03:01:02.956226+00:00"
     },
     "crude": {
       "price": 104.12,
@@ -422,7 +422,7 @@
       "closes": [
         104.05999755859375,
         104.12000274658203,
-        104.2300033569336,
+        104.25,
         104.44999694824219,
         104.33999633789062,
         104.1500015258789,
@@ -438,9 +438,9 @@
         104.87000274658203,
         104.8499984741211,
         104.8499984741211,
-        104.83000183105469,
+        104.81999969482422,
         104.62999725341797,
-        104.45999908447266,
+        104.44000244140625,
         104.69999694824219,
         104.56999969482422,
         104.30000305175781,
@@ -466,7 +466,7 @@
         103.22000122070312,
         103.01000213623047,
         103.02999877929688,
-        103.08999633789062,
+        103.08000183105469,
         103.13999938964844,
         102.87000274658203,
         102.9800033569336,
@@ -482,7 +482,7 @@
         104.12000274658203
       ],
       "ok": true,
-      "updated_at": "2026-10-31T23:55:59.568695+00:00"
+      "updated_at": "2026-11-01T03:01:03.136318+00:00"
     },
     "us10y": {
       "price": 4.929,
@@ -551,13 +551,13 @@
         4.928999900817871
       ],
       "ok": true,
-      "updated_at": "2026-10-31T23:55:59.743745+00:00"
+      "updated_at": "2026-11-01T03:01:03.286501+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-10-31T23:55:59.900667+00:00",
+      "updated_at": "2026-11-01T03:01:03.497537+00:00",
       "items": [
         {
           "title": "Sebi to release FII compliance consultation paper within weeks, says chairman Tuhin Kanta Pandey",
@@ -712,8 +712,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-10-31T17:59:24.756559+00:00",
+      "ok": true,
+      "updated_at": "2026-11-01T03:01:03.906911+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,18 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-10-31T23:56:00.206583+00:00",
+      "updated_at": "2026-11-01T03:01:04.049948+00:00",
       "items": [
+        {
+          "title": "Binance crypto theft: Here's how North Korean hackers perfected the heist, stole $6.3 billion in 20 minutes | Details",
+          "link": "https://www.livemint.com/market/cryptocurrency/binance-crypto-theft-heres-how-north-korean-hackers-perfected-the-heist-stole-6-3-billion-in-20-minutes-details-11793500918241.html",
+          "pubDate": "2026-11-01T08:19:30+05:30"
+        },
+        {
+          "title": "Best stocks to buy under  ₹100: Sumeet Bagadia recommends 3 shares to buy — SJVN, NHPC, Bank of Maharashtra | Targets",
+          "link": "https://www.livemint.com/market/stock-market-news/best-stocks-to-buy-under-rs-100-sumeet-bagadia-recommends-3-shares-to-buy-sjvn-nhpc-bank-of-maharashtra-targets-11793466108474.html",
+          "pubDate": "2026-11-01T06:30:39+05:30"
+        },
         {
           "title": "Carlyle, KKR Get Ready to Snatch Up Bargain Loans",
           "link": "https://www.livemint.com/market/carlyle-kkr-get-ready-to-snatch-up-bargain-loans-11793474974693.html",
@@ -935,22 +945,12 @@
           "title": "Vijay Kedia's portfolio stock under  ₹150: This textile stock adds  ₹3.7 crore to his wealth since IPO; Do you own?",
           "link": "https://www.livemint.com/market/stock-market-news/vijay-kedias-portfolio-stock-under-rs-150-this-textile-stock-adds-rs-3-7-crore-to-his-wealth-since-ipo-do-you-own-11793366185526.html",
           "pubDate": "2026-10-30T20:35:36+05:30"
-        },
-        {
-          "title": "Silver price crash deepens as Oct losses hit  ₹45,000/kg; gold falls to 7-month low: Why are precious metals sinking?",
-          "link": "https://www.livemint.com/market/stock-market-news/silver-price-crash-deepens-as-oct-losses-hit-rs-45-000-kg-gold-falls-to-7-month-low-why-are-precious-metals-sinking-11793368770318.html",
-          "pubDate": "2026-10-30T20:24:18+05:30"
-        },
-        {
-          "title": "Reliance Industries Q2 results 2026: RIL quarterly earnings announced - check profit, revenue, EBITDA",
-          "link": "https://www.livemint.com/market/stock-market-news/reliance-industries-q2-results-2026-ril-quarterly-earnings-announced-check-profit-revenue-ebitda-11793369864628.html",
-          "pubDate": "2026-10-30T20:07:20+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-10-31T23:56:00.521016+00:00",
+      "updated_at": "2026-11-01T03:01:04.225996+00:00",
       "items": [
         {
           "title": "Sebi bars EKI Energy, MD Dabkara, others from market; imposes penalty",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-10-31T23:56:01.391676+00:00",
+      "updated_at": "2026-11-01T03:01:05.077748+00:00",
       "items": [
         {
           "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2021-22 Series VII due on November 02, 2026",

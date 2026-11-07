@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T23:18:29.527170+00:00",
+  "generated_at": "2026-11-07T02:56:33.915389+00:00",
   "indices": {
     "nifty50": {
       "price": 25030.35,
@@ -68,7 +68,7 @@
         25030.349609375
       ],
       "ok": true,
-      "updated_at": "2026-11-06T23:18:27.752279+00:00"
+      "updated_at": "2026-11-07T02:56:31.291334+00:00"
     },
     "sensex": {
       "price": 81028.02,
@@ -137,7 +137,7 @@
         81028.0234375
       ],
       "ok": true,
-      "updated_at": "2026-11-06T23:18:27.892241+00:00"
+      "updated_at": "2026-11-07T02:56:31.419421+00:00"
     },
     "banknifty": {
       "price": 59086.0,
@@ -206,7 +206,7 @@
         59086.0
       ],
       "ok": true,
-      "updated_at": "2026-11-06T23:18:28.025900+00:00"
+      "updated_at": "2026-11-07T02:56:31.515451+00:00"
     },
     "vix": {
       "price": 17.465,
@@ -275,13 +275,14 @@
         17.46500015258789
       ],
       "ok": true,
-      "updated_at": "2026-11-06T23:18:28.155162+00:00"
+      "updated_at": "2026-11-07T02:56:31.670918+00:00"
     },
     "usdinr": {
       "price": 93.895,
       "change": -0.57,
       "pct": -0.6034,
       "closes": [
+        94.13749694824219,
         94.12000274658203,
         94.13999938964844,
         94.13249969482422,
@@ -340,11 +341,10 @@
         93.8949966430664,
         93.9000015258789,
         93.8949966430664,
-        93.8949966430664,
         93.8949966430664
       ],
       "ok": true,
-      "updated_at": "2026-11-06T23:18:28.322108+00:00"
+      "updated_at": "2026-11-07T02:56:31.772406+00:00"
     },
     "gold": {
       "price": 4079.5,
@@ -413,7 +413,7 @@
         4079.5
       ],
       "ok": true,
-      "updated_at": "2026-11-06T23:18:28.483742+00:00"
+      "updated_at": "2026-11-07T02:56:31.879733+00:00"
     },
     "crude": {
       "price": 90.34,
@@ -482,7 +482,7 @@
         90.33999633789062
       ],
       "ok": true,
-      "updated_at": "2026-11-06T23:18:28.640852+00:00"
+      "updated_at": "2026-11-07T02:56:32.036018+00:00"
     },
     "us10y": {
       "price": 4.859,
@@ -551,13 +551,13 @@
         4.859000205993652
       ],
       "ok": true,
-      "updated_at": "2026-11-06T23:18:28.813452+00:00"
+      "updated_at": "2026-11-07T02:56:32.156977+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-11-06T23:18:29.066108+00:00",
+      "updated_at": "2026-11-07T02:56:32.262555+00:00",
       "items": [
         {
           "title": "NY Fed's John Williams flags need to gather more information on inflation risks before rate decisions",
@@ -712,8 +712,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-11-06T18:24:58.236083+00:00",
+      "ok": true,
+      "updated_at": "2026-11-07T02:56:32.477926+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,13 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-11-06T23:18:29.316044+00:00",
+      "updated_at": "2026-11-07T02:56:32.557480+00:00",
       "items": [
+        {
+          "title": "Three warship manufacturing stocks to watch in India",
+          "link": "https://www.livemint.com/market/stock-market-news/three-warship-manufacturing-stocks-to-watch-in-india-11793980065116.html",
+          "pubDate": "2026-11-07T07:01:05+05:30"
+        },
         {
           "title": "Arini’s Hedge Fund Losses Grow to 32% as It Sells Some Positions",
           "link": "https://www.livemint.com/market/arinis-hedge-fund-losses-grow-to-32-as-it-sells-some-positions-11794005315599.html",
@@ -940,17 +945,12 @@
           "title": "M&amp;M in top gear even as margin compression, weak tractor sales woes linger",
           "link": "https://www.livemint.com/market/mark-to-market/mm-top-gear-margin-compression-weak-tractor-sales-woes-11793943490311.html",
           "pubDate": "2026-11-06T12:12:59+05:30"
-        },
-        {
-          "title": "Gold ETFs performance on Dhanteras 2026 today 6 Nov 2026: Check how Nippon India, Tata Gold, ICICI Prudential fared",
-          "link": "https://www.livemint.com/market/stock-market-news/gold-etfs-performance-on-dhanteras-2026-today-6-nov-2026-check-how-nippon-india-tata-gold-icici-prudential-fared-11793943055301.html",
-          "pubDate": "2026-11-06T11:39:41+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-11-06T23:18:29.464299+00:00",
+      "updated_at": "2026-11-07T02:56:32.822507+00:00",
       "items": [
         {
           "title": "Samvat 2082: Commodities witness sharp volatility as crude surges",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-11-06T23:18:29.527155+00:00",
+      "updated_at": "2026-11-07T02:56:33.915376+00:00",
       "items": [
         {
           "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on November 09, 2026",

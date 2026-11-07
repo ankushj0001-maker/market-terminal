@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T09:25:07.031522+00:00",
+  "generated_at": "2026-11-07T15:46:42.126384+00:00",
   "indices": {
     "nifty50": {
       "price": 25030.35,
@@ -68,7 +68,7 @@
         25030.349609375
       ],
       "ok": true,
-      "updated_at": "2026-11-07T09:25:05.639299+00:00"
+      "updated_at": "2026-11-07T15:46:40.981958+00:00"
     },
     "sensex": {
       "price": 81028.02,
@@ -137,7 +137,7 @@
         81028.0234375
       ],
       "ok": true,
-      "updated_at": "2026-11-07T09:25:05.692923+00:00"
+      "updated_at": "2026-11-07T15:46:41.045247+00:00"
     },
     "banknifty": {
       "price": 59086.0,
@@ -206,7 +206,7 @@
         59086.0
       ],
       "ok": true,
-      "updated_at": "2026-11-07T09:25:05.746802+00:00"
+      "updated_at": "2026-11-07T15:46:41.129232+00:00"
     },
     "vix": {
       "price": 17.465,
@@ -275,7 +275,7 @@
         17.46500015258789
       ],
       "ok": true,
-      "updated_at": "2026-11-07T09:25:05.798978+00:00"
+      "updated_at": "2026-11-07T15:46:41.181947+00:00"
     },
     "usdinr": {
       "price": 93.91,
@@ -344,7 +344,7 @@
         93.8949966430664
       ],
       "ok": true,
-      "updated_at": "2026-11-07T09:25:05.864426+00:00"
+      "updated_at": "2026-11-07T15:46:41.254901+00:00"
     },
     "gold": {
       "price": 4074.9,
@@ -410,10 +410,10 @@
         4074.199951171875,
         4075.800048828125,
         4079.5,
-        4079.5
+        4074.89990234375
       ],
       "ok": true,
-      "updated_at": "2026-11-07T09:25:05.917958+00:00"
+      "updated_at": "2026-11-07T15:46:41.332538+00:00"
     },
     "crude": {
       "price": 90.83,
@@ -479,10 +479,10 @@
         90.5,
         90.44999694824219,
         90.37000274658203,
-        90.33999633789062
+        90.83000183105469
       ],
       "ok": true,
-      "updated_at": "2026-11-07T09:25:05.982716+00:00"
+      "updated_at": "2026-11-07T15:46:41.408465+00:00"
     },
     "us10y": {
       "price": 4.859,
@@ -551,14 +551,34 @@
         4.859000205993652
       ],
       "ok": true,
-      "updated_at": "2026-11-07T09:25:06.037454+00:00"
+      "updated_at": "2026-11-07T15:46:41.612528+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-11-07T09:25:06.259487+00:00",
+      "updated_at": "2026-11-07T15:46:41.662193+00:00",
       "items": [
+        {
+          "title": "Websol Energy Q2 Results: PAT jumps 73% YoY to Rs 80 crore; revenue more than doubles to Rs 361 crore",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/websol-energy-q2-results-pat-jumps-73-yoy-to-rs-80-crore-revenue-more-than-doubles-to-rs-361-crore/articleshow/135632371.cms",
+          "pubDate": "2026-11-07T14:56:22+05:30"
+        },
+        {
+          "title": "Divi's Labs Q2 Results: PAT surges 64% YoY to Rs 1,127 crore; revenue jumps 35%",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/divis-labs-q2-results-pat-surges-64-yoy-to-rs-1127-crore-revenue-jumps-35/articleshow/135632058.cms",
+          "pubDate": "2026-11-07T14:55:14+05:30"
+        },
+        {
+          "title": "Samir Arora backed Helios Mid Cap Fund adds Aurobindo Pharma, 2 others, increase stake in Paytm, MCX and 16 others",
+          "link": "https://economictimes.indiatimes.com/mf/analysis/samir-arora-backed-helios-mid-cap-fund-adds-aurobindo-pharma-2-others-increase-stake-in-paytm-mcx-and-16-others/articleshow/135631989.cms",
+          "pubDate": "2026-11-07T14:50:19+05:30"
+        },
+        {
+          "title": "Bitcoin trades near $76K, Ethereum at $2,240 as tech selloff, strong US jobs data weigh on crypto markets",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-trades-near-76k-ethereum-at-2240-as-tech-selloff-strong-us-jobs-data-weigh-on-crypto-markets/articleshow/135632154.cms",
+          "pubDate": "2026-11-07T14:49:08+05:30"
+        },
         {
           "title": "FIIs pump Rs 45,960 crore into Indian stocks in a week; is the tide finally turning for Dalal Street?",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-pump-rs-45960-crore-into-indian-stocks-in-a-week-is-the-tide-finally-turning-for-dalal-street/articleshow/135631663.cms",
@@ -568,26 +588,6 @@
           "title": "Planning to invest in gold and silver this Diwali? 7 experts decode the risks, outlook and allocation strategy",
           "link": "https://economictimes.indiatimes.com/mf/analysis/planning-to-invest-in-gold-and-silver-this-diwali-7-experts-decode-the-risks-outlook-and-allocation-strategy/articleshow/135631354.cms",
           "pubDate": "2026-11-07T14:07:36+05:30"
-        },
-        {
-          "title": "NSE overhauls closing price discovery, changes F&amp;O expiry settlement rules from December 7",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-overhauls-closing-price-discovery-changes-fo-expiry-settlement-rules-from-december-7/articleshow/135631400.cms",
-          "pubDate": "2026-11-07T14:01:32+05:30"
-        },
-        {
-          "title": "Concurrent Gainers: 9 stocks gain for 5 days in a row",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-9-stocks-gain-for-5-days-in-a-row/winning-streak/slideshow/135631187.cms",
-          "pubDate": "2026-11-07T13:48:50+05:30"
-        },
-        {
-          "title": "Muhurat Trading 2026: How to trade during the special session tomorrow to welcome Samvat 2083?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-2026-how-to-trade-during-the-special-session-tomorrow-to-welcome-samvat-2083/articleshow/135630865.cms",
-          "pubDate": "2026-11-07T13:39:37+05:30"
-        },
-        {
-          "title": "Stocks vs Gold: Which asset could create more wealth in the Samvat 2083?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-vs-gold-which-asset-could-create-more-wealth-in-the-samvat-2083/articleshow/135629827.cms",
-          "pubDate": "2026-11-07T12:51:54+05:30"
         },
         {
           "title": "ET Wealth Expo: How should investors deploy Rs 10 lakh over next 10 years? Prateek Agrawal of Motilal Oswal AMC explains",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-11-07T09:25:06.664443+00:00",
+      "updated_at": "2026-11-07T15:46:41.732312+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,68 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-11-07T09:25:06.783044+00:00",
+      "updated_at": "2026-11-07T15:46:41.815529+00:00",
       "items": [
+        {
+          "title": "₹90 dividend per share: This stock announces 900% payout - Do you own? Payment, record date, returns",
+          "link": "https://www.livemint.com/market/stock-market-news/rs-90-dividend-per-share-this-stock-announces-900-payout-do-you-own-payment-record-date-returns-11794063019136.html",
+          "pubDate": "2026-11-07T20:23:10+05:30"
+        },
+        {
+          "title": "Q2 results race: Samvardhana Motherson vs Uno Minda - Which auto ancillary stock scores better? Revenue, profit, target",
+          "link": "https://www.livemint.com/market/stock-market-news/q2-results-race-samvardhana-motherson-vs-uno-minda-which-auto-ancillary-stock-scores-better-revenue-profit-target-11794054095084.html",
+          "pubDate": "2026-11-07T19:52:01+05:30"
+        },
+        {
+          "title": "Dividend dhamaka: 4 high yield stocks from brokerages' Diwali stock picks for Samvat 2083- Annual return, target price",
+          "link": "https://www.livemint.com/market/stock-market-news/dividend-dhamaka-4-high-yield-stocks-from-brokerages-diwali-stock-picks-for-samvat-2083-annual-return-target-price-11794058869190.html",
+          "pubDate": "2026-11-07T19:16:43+05:30"
+        },
+        {
+          "title": "Diwali cheer missing? Nifty lights up, but your portfolio may be burning; what's driving the disconnect? SAMCO explains",
+          "link": "https://www.livemint.com/market/stock-market-news/diwali-cheer-missing-nifty-lights-up-but-your-portfolio-may-be-burning-whats-driving-the-disconnect-samco-explains-11794050891575.html",
+          "pubDate": "2026-11-07T18:00:24+05:30"
+        },
+        {
+          "title": "Diwali 2026 Muhurat trading: Why do NSE, BSE break the holiday rule for special live trading session? Explained",
+          "link": "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-why-do-nse-bse-break-the-holiday-rule-for-special-live-trading-session-explained-11794054250580.html",
+          "pubDate": "2026-11-07T17:57:10+05:30"
+        },
+        {
+          "title": "ONGC shares: Venezuela oil project hopes lift focus after Q2 results | Should you buy? Key levels to watch",
+          "link": "https://www.livemint.com/market/stock-market-news/ongc-shares-venezuela-oil-project-hopes-lift-focus-after-q2-results-should-you-buy-key-levels-to-watch-11794051814943.html",
+          "pubDate": "2026-11-07T17:43:09+05:30"
+        },
+        {
+          "title": "Muhurat trading, Diwali 2026: Stocks to buy in Samvat 2083 - Blue Star, CESC, Delhivery, Ingersoll - check share price",
+          "link": "https://www.livemint.com/market/stock-market-news/nse-overhauls-key-trading-rules-closing-auction-session-f-o-expiry-trading-hours-revised-what-changes-for-invest-11794044306255.html",
+          "pubDate": "2026-11-07T17:39:43+05:30"
+        },
+        {
+          "title": "Muhurat trading 2026: 80% to 90% — will Sensex, Nifty improve decadal strike rate on ceremonial Diwali session?",
+          "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-80-to-90-will-sensex-nifty-improve-decadal-strike-rate-on-ceremonial-diwali-session-11794049934692.html",
+          "pubDate": "2026-11-07T17:36:39+05:30"
+        },
+        {
+          "title": "From Diwali 2025 to Diwali 2026: How Sensex, Nifty 50, rupee, crude oil changed in Samvat 2082 | What lies ahead?",
+          "link": "https://www.livemint.com/market/stock-market-news/from-diwali-2025-to-diwali-2026-how-sensex-nifty-50-rupee-crude-oil-changed-in-samvat-2082-what-lies-ahead-11794043761591.html",
+          "pubDate": "2026-11-07T16:48:52+05:30"
+        },
+        {
+          "title": "NSE overhauls key trading rules: CAS, F&amp;O expiry trading hours revised - What changes from December 7?",
+          "link": "https://www.livemint.com/market/stock-market-news/nse-overhauls-key-trading-rules-closing-auction-session-f-o-expiry-trading-hours-revised-what-changes-from-dec-7-11794047384672.html",
+          "pubDate": "2026-11-07T16:05:22+05:30"
+        },
+        {
+          "title": "Muhurat trading 2026 guide: Gold ETF vs Silver ETF on Diwali day — what to buy for higher returns in Samvat 2083?",
+          "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-guide-gold-etf-vs-silver-etf-on-diwali-day-what-to-buy-for-higher-returns-in-samvat-2083-11794042037235.html",
+          "pubDate": "2026-11-07T15:49:45+05:30"
+        },
+        {
+          "title": "Diwali 2026 Muhurat Trading Stocks: HDFC Sec lists BPCL, HCL Tech, Zensar, and more to buy for Nov 8- targets, stop loss",
+          "link": "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-stocks-hdfc-sec-lists-bpcl-hcl-tech-zensar-and-more-to-buy-for-nov-8-targets-stop-loss-11794042906368.html",
+          "pubDate": "2026-11-07T15:10:15+05:30"
+        },
         {
           "title": "Diwali 2026: Stock market enters Samvat 2083 with Nifty 50 above 25,000: Key support, resistance levels. Targets to know",
           "link": "https://www.livemint.com/market/diwali-2026-stock-market-enters-samvat-2083-with-nifty-50-above-25-000-key-support-resistance-levels-targets-to-know-11794037933505.html",
@@ -885,73 +945,23 @@
           "title": "Muhurat Trading 2026 Stocks to buy on Diwali Day Nov 8: From Eternal to MCX - Chandan Taparia of MOFSL shares 4 picks",
           "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-stocks-to-buy-on-diwali-day-nov-8-from-eternal-to-mcx-chandan-taparia-of-mofsl-shares-4-picks-11794023535359.html",
           "pubDate": "2026-11-07T09:47:33+05:30"
-        },
-        {
-          "title": "Three warship manufacturing stocks to watch in India",
-          "link": "https://www.livemint.com/market/stock-market-news/three-warship-manufacturing-stocks-to-watch-in-india-11793980065116.html",
-          "pubDate": "2026-11-07T07:01:05+05:30"
-        },
-        {
-          "title": "Arini’s Hedge Fund Losses Grow to 32% as It Sells Some Positions",
-          "link": "https://www.livemint.com/market/arinis-hedge-fund-losses-grow-to-32-as-it-sells-some-positions-11794005315599.html",
-          "pubDate": "2026-11-07T04:18:35+05:30"
-        },
-        {
-          "title": "Gold Extends Drop on Stronger-Than-Expected US Employment Data",
-          "link": "https://www.livemint.com/market/gold-extends-drop-on-stronger-than-expected-us-employment-data-11794000796269.html",
-          "pubDate": "2026-11-07T03:03:15+05:30"
-        },
-        {
-          "title": "Quick Mart IPO Draws Strong Demand as Kenyan Listings Pick Up",
-          "link": "https://www.livemint.com/market/quick-mart-ipo-draws-strong-demand-as-kenyan-listings-pick-up-11793993964421.html",
-          "pubDate": "2026-11-07T01:09:24+05:30"
-        },
-        {
-          "title": "Gold, silver turn volatile after strong US jobs data, but remain on track to snap multi-week losing streaks",
-          "link": "https://www.livemint.com/market/stock-market-news/gold-silver-turn-volatile-after-strong-us-jobs-data-but-remain-on-track-to-snap-multi-week-losing-streaks-11793985166600.html",
-          "pubDate": "2026-11-06T22:55:16+05:30"
-        },
-        {
-          "title": "Dhanteras special: Gold beats stocks or Nifty takes the lead? Gold vs Nifty 50 returns in Samvat 2082 compared",
-          "link": "https://www.livemint.com/market/stock-market-news/dhanteras-diwali-gold-beats-stocks-or-nifty-takes-the-lead-gold-vs-nifty-50-returns-in-samvat-2082-compared-11793983947279.html",
-          "pubDate": "2026-11-06T22:29:09+05:30"
-        },
-        {
-          "title": "Nvidia shares rebound over 7% after biggest single-day crash in nearly 2 years; what led to the sentiment reversal?",
-          "link": "https://www.livemint.com/market/stock-market-news/nvidia-shares-rebound-over-7-after-biggest-single-day-crash-in-nearly-2-years-what-led-to-the-sentiment-reversal-11793980720704.html",
-          "pubDate": "2026-11-06T21:37:30+05:30"
-        },
-        {
-          "title": "Hunting for next defence stock winners? Raymond, PTC, Axiscades, Rossell - Experts decode opportunity, share targets",
-          "link": "https://www.livemint.com/market/stock-market-news/hunting-for-next-defence-stock-winners-raymond-ptc-axiscades-rossell-experts-decode-opportunity-share-targets-11793971143436.html",
-          "pubDate": "2026-11-06T21:19:53+05:30"
-        },
-        {
-          "title": "Muhurat Trading 2026: Equirus Prive's 16 Diwali picks include HDFC Bank, M&amp;M, ESFB Voltas; upside seen up to 54%",
-          "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-equirus-prives-16-diwali-picks-include-hdfc-bank-m-m-esfb-voltas-upside-seen-up-to-54-11793974438126.html",
-          "pubDate": "2026-11-06T20:36:31+05:30"
-        },
-        {
-          "title": "Pulse of the Street: Dalal Street shines before Diwali. Can the rally last?",
-          "link": "https://www.livemint.com/market/pulse-of-the-street-dalal-street-shines-before-diwali-can-the-rally-last-11793965614339.html",
-          "pubDate": "2026-11-06T19:43:35+05:30"
-        },
-        {
-          "title": "Diwali stock picks: 4 large cap stocks to buy for Samvat 2083 - PL Capital bullish on BEL, Britannia to ICICI | Target",
-          "link": "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-4-large-cap-stocks-to-buy-for-samvat-2083-pl-capital-bullish-on-bel-britannia-to-icici-target-11793974105149.html",
-          "pubDate": "2026-11-06T19:41:52+05:30"
-        },
-        {
-          "title": "Upcoming IPO: Coal India’s Mahanadi Coalfields gets Sebi nod for public issue; top things to know about PSU public offer",
-          "link": "https://www.livemint.com/market/ipo/upcoming-ipo-coal-india-s-mahanadi-coalfields-gets-sebi-nod-for-public-issue-top-things-to-know-about-psu-public-offer-11793970259119.html",
-          "pubDate": "2026-11-06T19:31:04+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-11-07T09:25:06.958694+00:00",
+      "updated_at": "2026-11-07T15:46:41.910985+00:00",
       "items": [
+        {
+          "title": "Coca-Cola's India bottling arm HCCH files DRHP for 997.5 million-share IPO",
+          "link": "https://www.business-standard.com/markets/ipo/coca-cola-india-bottling-arm-hcch-files-drhp-ipo-99-75-crore-shares-126110700766_1.html",
+          "pubDate": "2026-11-07T16:08:14+05:30"
+        },
+        {
+          "title": "Hindustan Coca-Cola Holdings files draft papers with Sebi for IPO",
+          "link": "https://www.business-standard.com/markets/ipo/hindustan-coca-cola-holdings-files-draft-papers-with-sebi-for-ipo-126110700650_1.html",
+          "pubDate": "2026-11-07T15:13:49+05:30"
+        },
         {
           "title": "Amber Enterprises arm IL JIN Electronics files DRHP for ₹2,500 crore IPO",
           "link": "https://www.business-standard.com/markets/ipo/amber-enterprises-arm-il-jin-electronics-files-drhp-for-2-500-crore-ipo-126110700332_1.html",
@@ -1035,7 +1045,7 @@
         {
           "title": "Investing in US stocks from India: Check how these 5 platforms stack up",
           "link": "https://www.business-standard.com/markets/news/investing-in-us-stocks-from-india-check-how-these-5-platforms-stack-up-126110601421_1.html",
-          "pubDate": "2026-11-06T17:43:49+05:30"
+          "pubDate": "2026-11-06T17:43:01+05:30"
         },
         {
           "title": "Pharma stocks rally: Aurobindo, Divi's, Glenmark, Symbiotec hit new highs",
@@ -1091,22 +1101,12 @@
           "title": "Inflation, rate-hike woes to limit gains in silver, may retest $48: Analyst",
           "link": "https://www.business-standard.com/markets/news/inflation-rate-hike-woes-to-limit-gains-in-silver-may-retest-48-analyst-126110600692_1.html",
           "pubDate": "2026-11-06T12:10:40+05:30"
-        },
-        {
-          "title": "Global investing should not come with extra paperwork: Ashish Kashyap",
-          "link": "https://www.business-standard.com/markets/interviews/global-investing-should-not-come-with-extra-paperwork-ashish-kashyap-126110600650_1.html",
-          "pubDate": "2026-11-06T12:04:56+05:30"
-        },
-        {
-          "title": "US midterm outcome mildly positive for gold, but Fed risks persist: Analyst",
-          "link": "https://www.business-standard.com/markets/news/us-midterm-outcome-mildly-positive-for-gold-but-fed-risks-persist-analyst-126110600639_1.html",
-          "pubDate": "2026-11-06T11:49:43+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-11-07T09:25:07.031511+00:00",
+      "updated_at": "2026-11-07T15:46:42.126370+00:00",
       "items": [
         {
           "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on November 09, 2026",

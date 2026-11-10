@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-09T20:54:24.053597+00:00",
+  "generated_at": "2026-11-10T02:59:58.866859+00:00",
   "indices": {
     "nifty50": {
       "price": 25044.65,
-      "change": 58.25,
-      "pct": 0.2331,
+      "change": 14.35,
+      "pct": 0.0573,
       "closes": [
         24902.25,
         24845.75,
@@ -68,7 +68,7 @@
         25044.650390625
       ],
       "ok": true,
-      "updated_at": "2026-11-09T20:54:22.119837+00:00"
+      "updated_at": "2026-11-10T02:59:57.313997+00:00"
     },
     "sensex": {
       "price": 81106.65,
@@ -137,7 +137,7 @@
         81106.6484375
       ],
       "ok": true,
-      "updated_at": "2026-11-09T20:54:22.272015+00:00"
+      "updated_at": "2026-11-10T02:59:57.405431+00:00"
     },
     "banknifty": {
       "price": 59741.25,
@@ -206,7 +206,7 @@
         59741.25
       ],
       "ok": true,
-      "updated_at": "2026-11-09T20:54:22.398311+00:00"
+      "updated_at": "2026-11-10T02:59:57.468243+00:00"
     },
     "vix": {
       "price": 17.42,
@@ -275,214 +275,153 @@
         17.420000076293945
       ],
       "ok": true,
-      "updated_at": "2026-11-09T20:54:22.550738+00:00"
+      "updated_at": "2026-11-10T02:59:57.534138+00:00"
     },
     "usdinr": {
       "price": 93.92,
-      "change": 0.025,
-      "pct": 0.0266,
-      "closes": [
-        93.85250091552734,
-        93.82499694824219,
-        93.83000183105469,
-        93.83499908447266,
-        93.8499984741211,
-        93.84750366210938,
-        93.83999633789062,
-        93.84750366210938,
-        93.84249877929688,
-        93.85250091552734,
-        93.86250305175781,
-        93.86499786376953,
-        93.85749816894531,
-        93.86000061035156,
-        93.83499908447266,
-        93.822998046875,
-        93.8324966430664,
-        93.82749938964844,
-        93.90799713134766,
-        94.07499694824219,
-        94.07749938964844,
-        94.05000305175781,
-        94.04499816894531,
-        94.04499816894531,
-        94.05750274658203,
-        94.0824966430664,
-        94.09249877929688,
-        94.06999969482422,
-        94.08000183105469,
-        94.07250213623047,
-        94.08000183105469,
-        94.06999969482422,
-        94.05000305175781,
-        94.01750183105469,
-        93.98999786376953,
-        93.9625015258789,
-        93.94249725341797,
-        93.96749877929688,
-        93.9175033569336,
-        93.94499969482422,
-        93.94999694824219,
-        93.94999694824219,
-        93.96499633789062,
-        93.9800033569336,
-        93.98750305175781,
-        93.9800033569336,
-        93.9800033569336,
-        93.98999786376953,
-        93.97250366210938,
-        93.95999908447266,
-        93.91799926757812,
-        93.93499755859375,
-        93.92749786376953,
-        93.91799926757812,
-        93.91799926757812,
-        93.91799926757812,
-        93.91799926757812,
-        93.91799926757812,
-        93.91999816894531,
-        93.91999816894531
-      ],
+      "change": 0.0,
+      "pct": 0.0,
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-11-09T20:54:22.642066+00:00"
+      "updated_at": "2026-11-10T02:59:57.588268+00:00"
     },
     "gold": {
-      "price": 4148.1,
-      "change": 73.2,
-      "pct": 1.7964,
+      "price": 4119.4,
+      "change": 4.9,
+      "pct": 0.1191,
       "closes": [
-        4129.2998046875,
-        4130.0,
-        4134.0,
+        4148.60009765625,
+        4149.0,
+        4146.60009765625,
+        4147.7001953125,
+        4148.39990234375,
+        4154.10009765625,
+        4149.7998046875,
+        4146.7001953125,
+        4144.60009765625,
+        4148.89990234375,
+        4150.0,
+        4149.60009765625,
+        4149.5,
+        4145.7998046875,
+        4147.60009765625,
+        4154.10009765625,
+        4153.10009765625,
+        4151.0,
+        4151.7998046875,
+        4148.89990234375,
+        4146.60009765625,
+        4147.2001953125,
+        4148.60009765625,
+        4148.2998046875,
+        4148.2998046875,
+        4145.39990234375,
+        4146.7001953125,
+        4144.5,
+        4138.10009765625,
+        4138.10009765625,
+        4137.7998046875,
+        4131.39990234375,
+        4133.5,
+        4136.7998046875,
+        4135.2001953125,
+        4132.39990234375,
+        4132.39990234375,
+        4141.2001953125,
+        4143.60009765625,
+        4141.60009765625,
+        4140.10009765625,
+        4143.0,
+        4148.7998046875,
+        4140.2001953125,
+        4143.7001953125,
+        4142.2001953125,
         4135.10009765625,
-        4136.39990234375,
-        4133.2998046875,
-        4127.60009765625,
-        4123.2998046875,
-        4126.5,
-        4124.2998046875,
-        4123.2001953125,
-        4118.2001953125,
-        4115.0,
-        4119.2001953125,
-        4119.7001953125,
-        4117.10009765625,
-        4114.39990234375,
-        4112.89990234375,
-        4114.2998046875,
-        4114.2001953125,
-        4114.5,
-        4113.0,
-        4112.10009765625,
-        4111.7998046875,
-        4110.7001953125,
-        4110.60009765625,
-        4111.89990234375,
-        4113.7001953125,
-        4112.7998046875,
-        4110.2001953125,
-        4112.2998046875,
-        4115.0,
-        4116.7998046875,
-        4114.7998046875,
-        4113.0,
-        4114.10009765625,
-        4115.5,
-        4113.10009765625,
-        4112.39990234375,
-        4111.5,
-        4111.89990234375,
-        4113.60009765625,
-        4115.2001953125,
-        4119.5,
-        4122.5,
-        4138.7001953125,
-        4138.5,
-        4138.39990234375,
-        4136.60009765625,
-        4145.5,
-        4144.39990234375,
-        4148.0,
-        4151.60009765625,
-        4150.2998046875,
-        4157.10009765625,
-        4154.2001953125,
-        4154.2998046875,
-        4151.2001953125,
-        4146.89990234375,
-        4148.10009765625
+        4134.89990234375,
+        4137.7001953125,
+        4131.7001953125,
+        4134.2998046875,
+        4132.2998046875,
+        4131.2998046875,
+        4133.89990234375,
+        4136.2001953125,
+        4125.7998046875,
+        4124.39990234375,
+        4125.39990234375,
+        4119.89990234375,
+        4119.39990234375
       ],
       "ok": true,
-      "updated_at": "2026-11-09T20:54:22.738060+00:00"
+      "updated_at": "2026-11-10T02:59:57.646847+00:00"
     },
     "crude": {
-      "price": 87.08,
-      "change": -3.75,
-      "pct": -4.1286,
+      "price": 86.07,
+      "change": -0.78,
+      "pct": -0.8981,
       "closes": [
-        88.18000030517578,
-        88.27999877929688,
-        88.20999908447266,
-        88.0999984741211,
-        87.9000015258789,
-        87.80999755859375,
-        87.79000091552734,
-        87.58999633789062,
-        87.52999877929688,
-        87.72000122070312,
-        87.80999755859375,
-        87.91999816894531,
-        87.83000183105469,
-        87.63999938964844,
-        87.6500015258789,
-        87.70999908447266,
-        87.77999877929688,
-        87.83000183105469,
-        87.7699966430664,
-        87.58000183105469,
-        87.51000213623047,
-        87.6500015258789,
-        87.5199966430664,
-        87.5999984741211,
-        87.51000213623047,
-        87.7300033569336,
-        87.72000122070312,
-        87.7300033569336,
-        87.6500015258789,
-        87.66999816894531,
-        87.66000366210938,
-        87.66000366210938,
-        87.70999908447266,
-        87.63999938964844,
-        87.7300033569336,
-        87.76000213623047,
-        87.6500015258789,
-        87.62000274658203,
-        87.51000213623047,
-        87.51000213623047,
-        87.68000030517578,
-        87.61000061035156,
-        87.3499984741211,
-        86.9000015258789,
-        87.08999633789062,
-        85.56999969482422,
-        85.7699966430664,
-        85.56999969482422,
-        85.79000091552734,
-        85.94000244140625,
-        86.02999877929688,
-        86.0999984741211,
-        86.0199966430664,
-        86.19000244140625,
-        86.30000305175781,
-        86.55000305175781,
+        87.05999755859375,
+        87.05000305175781,
+        86.94999694824219,
+        87.0199966430664,
+        86.9800033569336,
+        87.12000274658203,
+        86.93000030517578,
+        86.73999786376953,
         86.66000366210938,
-        86.88999938964844,
-        87.1500015258789,
-        87.08000183105469
+        86.73999786376953,
+        86.62000274658203,
+        86.4000015258789,
+        86.37999725341797,
+        86.55999755859375,
+        86.23999786376953,
+        86.19999694824219,
+        86.12999725341797,
+        86.18000030517578,
+        86.30000305175781,
+        86.47000122070312,
+        86.43000030517578,
+        86.47000122070312,
+        86.4800033569336,
+        86.47000122070312,
+        86.44000244140625,
+        86.44999694824219,
+        86.4000015258789,
+        86.33999633789062,
+        86.45999908447266,
+        86.4800033569336,
+        86.44999694824219,
+        86.55000305175781,
+        86.61000061035156,
+        86.62999725341797,
+        86.61000061035156,
+        86.61000061035156,
+        86.68000030517578,
+        86.45999908447266,
+        86.5199966430664,
+        86.41999816894531,
+        86.23999786376953,
+        86.30000305175781,
+        86.19999694824219,
+        86.13999938964844,
+        85.7300033569336,
+        85.94000244140625,
+        85.93000030517578,
+        86.0199966430664,
+        86.01000213623047,
+        86.29000091552734,
+        86.30000305175781,
+        86.29000091552734,
+        86.27999877929688,
+        86.11000061035156,
+        86.08000183105469,
+        86.2300033569336,
+        86.25,
+        86.0999984741211,
+        86.06999969482422,
+        86.06999969482422
       ],
       "ok": true,
-      "updated_at": "2026-11-09T20:54:22.862998+00:00"
+      "updated_at": "2026-11-10T02:59:57.727169+00:00"
     },
     "us10y": {
       "price": 4.864,
@@ -551,43 +490,43 @@
         4.863999843597412
       ],
       "ok": true,
-      "updated_at": "2026-11-09T20:54:22.939972+00:00"
+      "updated_at": "2026-11-10T02:59:57.784093+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-11-09T20:54:23.018950+00:00",
+      "updated_at": "2026-11-10T02:59:57.935418+00:00",
       "items": [
         {
-          "title": "Citi downgrades US stocks to 'neutral' as AI sell-off, regulatory risks mount",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/citi-downgrades-us-stocks-to-neutral-as-ai-sell-off-regulatory-risks-mount/articleshow/135691943.cms",
-          "pubDate": "2026-11-10T00:42:29+05:30"
+          "title": "Oil Price Today (November 10): Crude oil falls below $92 as Trump says Iran war is effectively over. What lies ahead?",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-november-10-crude-oil-falls-below-92-as-trump-says-iran-war-is-effectively-over-what-lies-ahead/articleshow/135696913.cms",
+          "pubDate": "2026-11-10T07:53:49+05:30"
         },
         {
-          "title": "US stocks: Dow Jones rallies 500 points, Nasdaq over 2% as chip stocks rebound; Nvidia probe weighs",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-last-weeks-ai-rout/articleshow/135685663.cms",
-          "pubDate": "2026-11-09T20:35:56+05:30"
+          "title": "Rupee among Asia's top performing currencies as AI trade cools",
+          "link": "https://economictimes.indiatimes.com/markets/forex/rupee-among-asias-top-3-as-india-turns-ai-hedge/articleshow/135696371.cms",
+          "pubDate": "2026-11-10T07:06:44+05:30"
         },
         {
-          "title": "Sebi approves 6 IPOs including Mahanadi Coalfields, Veritas Finance and Sagar Defence. Check details",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-approves-6-ipos-including-mahanadi-coalfields-veritas-finance-and-sagar-defence-check-details/articleshow/135684603.cms",
-          "pubDate": "2026-11-09T19:41:56+05:30"
+          "title": "Stock Market Holiday 2026: Are NSE, BSE closed today on account of Diwali-Balipratipada? Check remaining holidays for the year",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-are-nse-bse-closed-today-on-account-of-diwali-balipratipada-check-remaining-holidays-for-the-year/articleshow/135695905.cms",
+          "pubDate": "2026-11-10T07:00:00+05:30"
         },
         {
-          "title": "US market remains tied to tech stocks despite sharp AI sell-off",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-still-reliant-on-tech-stocks-despite-ai-selloff-and-democrat-win-triggered-political-risks/articleshow/135679992.cms",
-          "pubDate": "2026-11-09T16:46:25+05:30"
+          "title": "Q2 Earnings Scorecard: Which sectors outperformed and which fell behind?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/corporate-india-keeps-bottom-line-strong-with-price-hikes-and-premiumisation-as-costs-rise/articleshow/135696251.cms",
+          "pubDate": "2026-11-10T06:45:16+05:30"
         },
         {
-          "title": "Nithin Kamath says speculative craziness brought more people into US markets: ‘Nothing expands markets like greed, FOMO",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-says-speculative-craziness-brought-more-people-into-us-markets-nothing-expands-markets-like-greed-fomo/articleshow/135675516.cms",
-          "pubDate": "2026-11-09T13:34:30+05:30"
+          "title": "Foreign investors keep faith in 83 stocks despite prolonged India selloff",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-keep-faith-in-83-stocks-despite-28-billion-selloff/articleshow/135696068.cms",
+          "pubDate": "2026-11-10T06:21:53+05:30"
         },
         {
-          "title": "Bumper returns is the call! How can investors make money in Samvat 2083 after a year of stagnation?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bumper-returns-is-the-call-how-can-investors-make-money-next-samvat-after-a-year-of-stagnation/articleshow/135670490.cms",
-          "pubDate": "2026-11-09T09:38:47+05:30"
+          "title": "Global brokerages turn bullish on Indian equities as market rebounds",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-turn-bullish-on-india-as-inflows-fuel-rally/articleshow/135696007.cms",
+          "pubDate": "2026-11-10T06:15:55+05:30"
         },
         {
           "title": "US asks Iraq to shut most Iran border crossings, Iraqi foreign minister says",
@@ -712,8 +651,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-11-09T10:27:54.494058+00:00",
+      "ok": true,
+      "updated_at": "2026-11-10T02:59:57.977472+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +733,33 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-11-09T20:54:23.175330+00:00",
+      "updated_at": "2026-11-10T02:59:58.047740+00:00",
       "items": [
+        {
+          "title": "Stock market holiday: Closed today on Tuesday 10 November 2026 on Diwali-Balipratipada; no trading in NSE, BSE exchanges",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-market-holiday-closed-today-on-tuesday-10-november-2026-on-diwali-balipratipada-no-trading-in-nse-bse-exchanges-11794275379042.html",
+          "pubDate": "2026-11-10T07:47:28+05:30"
+        },
+        {
+          "title": "Stock recommendations for 11 November from MarketSmith India",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-11-november-from-marketsmith-india-11794226262086.html",
+          "pubDate": "2026-11-10T06:00:57+05:30"
+        },
+        {
+          "title": "JPMorgan Weighs Big Discount to Lure Lenders for Software Debt",
+          "link": "https://www.livemint.com/market/jpmorgan-weighs-big-discount-to-lure-lenders-for-software-debt-11794262406093.html",
+          "pubDate": "2026-11-10T03:43:25+05:30"
+        },
+        {
+          "title": "EIB’s Calvino Says US Turmoil Is Driving Capital to Europe",
+          "link": "https://www.livemint.com/market/eibs-calvino-says-us-turmoil-is-driving-capital-to-europe-11794262213745.html",
+          "pubDate": "2026-11-10T03:40:13+05:30"
+        },
+        {
+          "title": "Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows",
+          "link": "https://www.livemint.com/market/top-yen-forecaster-predicts-147-per-dollar-as-rate-gap-narrows-11794259355721.html",
+          "pubDate": "2026-11-10T02:52:35+05:30"
+        },
         {
           "title": "Viking Loses 1.2% in October After Eschewing Many Big AI Bets",
           "link": "https://www.livemint.com/market/viking-loses-1-2-in-october-after-eschewing-many-big-ai-bets-11794256428481.html",
@@ -920,38 +884,18 @@
           "title": "Persistent cost inflation delays the treat for Britannia investors",
           "link": "https://www.livemint.com/market/mark-to-market/britannia-industries-biscuit-industry-input-cost-inflation-gross-margin-ebitda-margin-grammage-cuts-price-hikes-11794211688592.html",
           "pubDate": "2026-11-09T14:31:27+05:30"
-        },
-        {
-          "title": "European Power Prices Shoot Above €600 as Wind Generation Slumps",
-          "link": "https://www.livemint.com/market/european-power-prices-shoot-above-600-as-wind-generation-slumps-11794214647817.html",
-          "pubDate": "2026-11-09T14:27:27+05:30"
-        },
-        {
-          "title": "From family offices to affluent individuals, SIFs widen their appeal",
-          "link": "https://www.livemint.com/market/stock-market-news/specialized-investment-funds-sifs-individual-investors-11794198309627.html",
-          "pubDate": "2026-11-09T14:23:03+05:30"
-        },
-        {
-          "title": "Aarti Drugs shares defy weak market sentiment; skyrocket 11% today | Here's why; stock returns, performance",
-          "link": "https://www.livemint.com/market/stock-market-news/aarti-drugs-shares-defy-weak-market-sentiment-skyrocket-11-today-heres-why-stock-returns-performance-11794210277705.html",
-          "pubDate": "2026-11-09T14:22:02+05:30"
-        },
-        {
-          "title": "CAS weighs on NSE, BSE Q2 earnings; MCX rides gold, silver volatility",
-          "link": "https://www.livemint.com/market/cas-weighs-on-nse-bse-q2-earnings-mcx-rides-gold-silver-volatility-11794206165459.html",
-          "pubDate": "2026-11-09T14:07:48+05:30"
-        },
-        {
-          "title": "Alembic shares: Big 15% jump after Q2 results, gains 27% in two weeks: Can the rally continue? What experts say",
-          "link": "https://www.livemint.com/market/stock-market-news/alembic-share-price-jumps-15-after-q2-results-gains-27-in-two-weeks-can-the-rally-continue-expert-weighs-in-11794211767420.html",
-          "pubDate": "2026-11-09T13:57:12+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-11-09T20:54:23.401527+00:00",
+      "updated_at": "2026-11-10T02:59:58.191567+00:00",
       "items": [
+        {
+          "title": "Stock market holiday: NSE, BSE to remain closed for Diwali-Balipratipada",
+          "link": "https://www.business-standard.com/markets/news/stock-market-holiday-today-nse-bse-to-remain-closed-for-diwali-balipratipada-126111000071_1.html",
+          "pubDate": "2026-11-10T07:47:22+05:30"
+        },
         {
           "title": "HSBC upgrades Indian equities to 'overweight', cuts China to 'neutral'",
           "link": "https://www.business-standard.com/markets/news/hsbc-upgrades-indian-equities-to-overweight-cuts-china-to-neutral-126110901244_1.html",
@@ -1096,17 +1040,12 @@
           "title": "AI selloff rejuvenates Asia's forgotten investment trades",
           "link": "https://www.business-standard.com/markets/news/ai-selloff-rejuvenates-asia-s-forgotten-investment-trades-126110800604_1.html",
           "pubDate": "2026-11-08T21:43:41+05:30"
-        },
-        {
-          "title": "Samvat 2083 off to a tepid start; Sensex, Nifty slip, smaller cos up",
-          "link": "https://www.business-standard.com/markets/news/samvat-2083-off-to-a-tepid-start-sensex-nifty-slip-smaller-cos-up-126110800423_1.html",
-          "pubDate": "2026-11-08T20:19:26+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-11-09T20:54:24.053580+00:00",
+      "updated_at": "2026-11-10T02:59:58.866842+00:00",
       "items": [
         {
           "title": "Auction of Government of India Dated Security",

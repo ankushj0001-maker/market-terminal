@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T23:34:42.895752+00:00",
+  "generated_at": "2026-11-11T02:58:59.302034+00:00",
   "indices": {
     "nifty50": {
       "price": 25044.65,
@@ -68,7 +68,7 @@
         25044.650390625
       ],
       "ok": true,
-      "updated_at": "2026-11-10T23:34:40.404608+00:00"
+      "updated_at": "2026-11-11T02:58:55.900388+00:00"
     },
     "sensex": {
       "price": 81106.65,
@@ -137,7 +137,7 @@
         81106.6484375
       ],
       "ok": true,
-      "updated_at": "2026-11-10T23:34:40.529393+00:00"
+      "updated_at": "2026-11-11T02:58:56.109798+00:00"
     },
     "banknifty": {
       "price": 59741.25,
@@ -206,7 +206,7 @@
         59741.25
       ],
       "ok": true,
-      "updated_at": "2026-11-10T23:34:40.622023+00:00"
+      "updated_at": "2026-11-11T02:58:56.278726+00:00"
     },
     "vix": {
       "price": 17.42,
@@ -275,75 +275,26 @@
         17.420000076293945
       ],
       "ok": true,
-      "updated_at": "2026-11-10T23:34:40.729858+00:00"
+      "updated_at": "2026-11-11T02:58:56.445648+00:00"
     },
     "usdinr": {
       "price": 93.918,
-      "change": -0.002,
-      "pct": -0.0021,
+      "change": 0.0,
+      "pct": 0.0,
       "closes": [
-        93.91799926757812,
-        93.91799926757812,
-        93.91799926757812,
-        93.91799926757812,
-        93.91799926757812,
-        93.91799926757812,
-        93.91799926757812,
-        93.91799926757812,
         93.91799926757812,
         93.91799926757812,
         93.91799926757812,
         93.91799926757812
       ],
       "ok": true,
-      "updated_at": "2026-11-10T23:34:40.825422+00:00"
+      "updated_at": "2026-11-11T02:58:56.617583+00:00"
     },
     "gold": {
-      "price": 4043.1,
-      "change": 12.9,
-      "pct": 0.3201,
+      "price": 4051.3,
+      "change": 21.1,
+      "pct": 0.5235,
       "closes": [
-        4027.199951171875,
-        4024.300048828125,
-        4028.0,
-        4028.5,
-        4027.0,
-        4026.10009765625,
-        4025.199951171875,
-        4026.60009765625,
-        4025.89990234375,
-        4027.39990234375,
-        4028.5,
-        4030.699951171875,
-        4034.699951171875,
-        4037.5,
-        4040.699951171875,
-        4036.5,
-        4036.300048828125,
-        4035.0,
-        4035.199951171875,
-        4038.300048828125,
-        4037.60009765625,
-        4037.39990234375,
-        4039.60009765625,
-        4037.89990234375,
-        4035.5,
-        4033.10009765625,
-        4037.199951171875,
-        4039.60009765625,
-        4038.699951171875,
-        4037.39990234375,
-        4035.10009765625,
-        4036.5,
-        4040.0,
-        4040.10009765625,
-        4041.10009765625,
-        4042.800048828125,
-        4041.89990234375,
-        4037.60009765625,
-        4039.300048828125,
-        4042.10009765625,
-        4041.699951171875,
         4038.800048828125,
         4038.10009765625,
         4038.699951171875,
@@ -362,57 +313,57 @@
         4038.300048828125,
         4042.10009765625,
         4044.0,
-        4043.10009765625
+        4042.699951171875,
+        4044.300048828125,
+        4042.39990234375,
+        4043.10009765625,
+        4043.39990234375,
+        4043.800048828125,
+        4046.199951171875,
+        4047.300048828125,
+        4047.800048828125,
+        4048.60009765625,
+        4048.89990234375,
+        4046.5,
+        4046.699951171875,
+        4041.39990234375,
+        4041.5,
+        4044.699951171875,
+        4040.89990234375,
+        4040.0,
+        4040.39990234375,
+        4042.0,
+        4038.300048828125,
+        4034.800048828125,
+        4038.800048828125,
+        4040.89990234375,
+        4044.699951171875,
+        4053.300048828125,
+        4055.300048828125,
+        4059.39990234375,
+        4056.0,
+        4053.10009765625,
+        4052.60009765625,
+        4052.199951171875,
+        4049.10009765625,
+        4049.60009765625,
+        4049.5,
+        4047.89990234375,
+        4052.60009765625,
+        4054.0,
+        4051.300048828125,
+        4054.10009765625,
+        4051.39990234375,
+        4051.300048828125
       ],
       "ok": true,
-      "updated_at": "2026-11-10T23:34:40.913325+00:00"
+      "updated_at": "2026-11-11T02:58:56.831244+00:00"
     },
     "crude": {
-      "price": 86.21,
-      "change": 0.17,
-      "pct": 0.1976,
+      "price": 86.72,
+      "change": 0.68,
+      "pct": 0.7903,
       "closes": [
-        86.41999816894531,
-        86.41000366210938,
-        86.27999877929688,
-        86.30000305175781,
-        86.43000030517578,
-        86.44000244140625,
-        86.26000213623047,
-        86.38999938964844,
-        86.31999969482422,
-        86.2300033569336,
-        86.18000030517578,
-        86.1500015258789,
-        86.18000030517578,
-        85.9000015258789,
-        86.0199966430664,
-        86.06999969482422,
-        86.08000183105469,
-        86.12000274658203,
-        86.0199966430664,
-        85.91000366210938,
-        85.80999755859375,
-        85.83999633789062,
-        86.05999755859375,
-        86.11000061035156,
-        86.20999908447266,
-        86.27999877929688,
-        86.26000213623047,
-        86.20999908447266,
-        86.30000305175781,
-        86.31999969482422,
-        86.33000183105469,
-        86.31999969482422,
-        86.33999633789062,
-        86.41000366210938,
-        86.38999938964844,
-        86.36000061035156,
-        86.44999694824219,
-        86.44000244140625,
-        86.41999816894531,
-        86.37999725341797,
-        86.37000274658203,
         86.33999633789062,
         86.2300033569336,
         86.30000305175781,
@@ -431,10 +382,51 @@
         86.23999786376953,
         86.19999694824219,
         86.19000244140625,
-        86.20999908447266
+        86.29000091552734,
+        86.30000305175781,
+        86.33000183105469,
+        86.30999755859375,
+        86.27999877929688,
+        86.2699966430664,
+        86.18000030517578,
+        86.19999694824219,
+        86.22000122070312,
+        86.26000213623047,
+        86.22000122070312,
+        86.22000122070312,
+        86.2300033569336,
+        86.2699966430664,
+        86.33000183105469,
+        86.27999877929688,
+        86.27999877929688,
+        86.5,
+        86.33999633789062,
+        86.55000305175781,
+        86.62999725341797,
+        86.61000061035156,
+        86.5,
+        86.38999938964844,
+        86.29000091552734,
+        86.25,
+        86.2300033569336,
+        86.25,
+        86.2300033569336,
+        86.27999877929688,
+        86.20999908447266,
+        86.2699966430664,
+        86.37000274658203,
+        86.44000244140625,
+        86.45999908447266,
+        86.5999984741211,
+        86.5199966430664,
+        86.5999984741211,
+        86.66000366210938,
+        86.72000122070312,
+        86.7300033569336,
+        86.72000122070312
       ],
       "ok": true,
-      "updated_at": "2026-11-10T23:34:41.051503+00:00"
+      "updated_at": "2026-11-11T02:58:57.063179+00:00"
     },
     "us10y": {
       "price": 4.983,
@@ -503,43 +495,43 @@
         4.9830002784729
       ],
       "ok": true,
-      "updated_at": "2026-11-10T23:34:41.159045+00:00"
+      "updated_at": "2026-11-11T02:58:57.239764+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-11-10T23:34:41.283188+00:00",
+      "updated_at": "2026-11-11T02:58:57.408157+00:00",
       "items": [
         {
-          "title": "US stocks: US market falls as hot inflation, hawkish Fed fuel rate-hike fears",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries/articleshow/135719918.cms",
-          "pubDate": "2026-11-11T02:45:32+05:30"
+          "title": "India’s rich pivot to real estate after stock returns falter",
+          "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-rich-pivot-to-real-estate-after-stock-returns-falter/articleshow/135723008.cms",
+          "pubDate": "2026-11-11T08:04:49+05:30"
         },
         {
-          "title": "Wells Fargo upgrades US AI infrastructure stocks to neutral after chip rout",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wells-fargo-lifts-us-ai-infrastructure-stocks-to-neutral-after-chip-rout/articleshow/135719900.cms",
-          "pubDate": "2026-11-11T02:36:02+05:30"
+          "title": "Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-from-two-month-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes/articleshow/135722819.cms",
+          "pubDate": "2026-11-11T07:39:13+05:30"
         },
         {
-          "title": "Fed’s Christopher Waller opens door to 50-basis-point December rate hike after hot CPI",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-christopher-waller-opens-door-to-50-basis-point-december-rate-hike-after-hot-cpi/articleshow/135718143.cms",
-          "pubDate": "2026-11-10T23:42:40+05:30"
+          "title": "Global Market Today: Asian stocks rise on CoreWeave results, bonds drop",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-on-coreweave-results-bonds-drop/articleshow/135721939.cms",
+          "pubDate": "2026-11-11T06:23:06+05:30"
         },
         {
-          "title": "Microsoft market cap beats Nvidia's for first time since June 2025",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/microsoft-market-cap-beats-nvidias-for-first-time-since-june-2025/articleshow/135717250.cms",
-          "pubDate": "2026-11-10T22:44:49+05:30"
+          "title": "Cochin Shipyard net profit falls 50% to Rs 54 crore in Q2",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/cochin-shipyard-net-profit-falls-50-to-rs-54-crore-in-q2/articleshow/135721922.cms",
+          "pubDate": "2026-11-11T06:06:59+05:30"
         },
         {
-          "title": "Traders raise odds of 50 bps Fed rate hike as CPI rise exceeds expectations",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/traders-raise-odds-of-50-bps-fed-rate-hike-as-cpi-rise-exceeds-expectations/articleshow/135714586.cms",
-          "pubDate": "2026-11-10T20:45:45+05:30"
+          "title": "Anthropic targets $90 billion IPO at $1.4 trillion valuation",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-targets-90-billion-ipo-at-1-4-trillion-valuation/articleshow/135721872.cms",
+          "pubDate": "2026-11-11T05:57:03+05:30"
         },
         {
-          "title": "Anthropic's potential mega IPO joins ranks of world's biggest stock market listings",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-potential-mega-ipo-joins-ranks-of-worlds-biggest-stock-market-listings/articleshow/135714028.cms",
-          "pubDate": "2026-11-10T20:25:20+05:30"
+          "title": "Titan bets on studded jewellery, premium watches and eyewear to drive growth",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/titan-bets-on-studded-jewellery-premium-watches-and-eyewear-to-drive-growth/articleshow/135721823.cms",
+          "pubDate": "2026-11-11T05:42:48+05:30"
         },
         {
           "title": "US asks Iraq to shut most Iran border crossings, Iraqi foreign minister says",
@@ -664,8 +656,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-11-10T18:19:47.111492+00:00",
+      "ok": true,
+      "updated_at": "2026-11-11T02:58:57.802363+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -746,8 +738,28 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-11-10T23:34:41.620572+00:00",
+      "updated_at": "2026-11-11T02:58:57.988167+00:00",
       "items": [
+        {
+          "title": "Trump says Iran war ‘effectively over’: How's it likely to impact Sensex, Nifty, gold and silver prices? Experts' views",
+          "link": "https://www.livemint.com/market/stock-market-news/trump-says-iran-war-effectively-over-hows-it-likely-to-impact-sensex-nifty-gold-and-silver-prices-experts-views-11794362432588.html",
+          "pubDate": "2026-11-11T07:51:52+05:30"
+        },
+        {
+          "title": "Top stocks to watch today: Cochin Shipyard, MRF, Tata Power shares in focus on Wednesday, 11 November | Full list",
+          "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-cochin-shipyard-mrf-tata-power-shares-in-focus-on-wednesday-11-november-full-list-11794360457800.html",
+          "pubDate": "2026-11-11T07:26:58+05:30"
+        },
+        {
+          "title": "Stock market outlook today, 11 Nov: Sensex, Nifty prediction - DJIA, S&amp;P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+          "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-11-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11794357789353.html",
+          "pubDate": "2026-11-11T06:47:54+05:30"
+        },
+        {
+          "title": "Raja Venkatraman recommends three stocks for 11 November",
+          "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-11-november-11794313913047.html",
+          "pubDate": "2026-11-11T06:00:58+05:30"
+        },
         {
           "title": "Defaults Rattle Brazil’s Shadow Banks, Spark Regulatory Scrutiny",
           "link": "https://www.livemint.com/market/defaults-rattle-brazil-s-shadow-banks-spark-regulatory-scrutiny-11794343869632.html",
@@ -877,33 +889,43 @@
           "title": "FPIs return to India stock markets with  ₹53.7k cr inflows in Nov so far - Attraction point for investors? What's next?",
           "link": "https://www.livemint.com/market/stock-market-news/fpis-return-to-india-stock-markets-with-rs-53-7k-cr-inflows-in-nov-so-far-attraction-point-for-investors-whats-next-11794297257316.html",
           "pubDate": "2026-11-10T13:55:55+05:30"
-        },
-        {
-          "title": "Why Gokaldas Exports shares will be in top focus tomorrow; what it said in exchange filing? Stock down over 5% in 5 days",
-          "link": "https://www.livemint.com/market/stock-market-news/why-gokaldas-exports-shares-will-be-in-top-focus-tomorrow-what-it-said-in-exchange-filing-stock-down-over-5-in-5-days-11794295409461.html",
-          "pubDate": "2026-11-10T13:28:17+05:30"
-        },
-        {
-          "title": "Dividend Stocks Record Date Alert 12 Nov Thursday: Bayer CropScience, HUL, ONGC, more; full list | Amount, key dates",
-          "link": "https://www.livemint.com/market/stock-market-news/dividend-stocks-record-date-alert-12-nov-thursday-bayer-cropscience-hul-ongc-more-full-list-amount-key-dates-11794291448718.html",
-          "pubDate": "2026-11-10T13:22:52+05:30"
-        },
-        {
-          "title": "Retail investors shed stocks, but crowd into Reliance, HDFC Bank",
-          "link": "https://www.livemint.com/market/stock-market-news/retail-investors-reliance-hdfc-bank-fpis-stock-markets-india-11794288650697.html",
-          "pubDate": "2026-11-10T12:51:45+05:30"
-        },
-        {
-          "title": "Data Patterns shares surge 55% in 2026: Should you buy stock after Q2 results? What brokerages say: check target price",
-          "link": "https://www.livemint.com/market/stock-market-news/data-patterns-shares-surge-55-in-2026-should-you-buy-stock-after-q2-results-what-brokerages-say-check-target-price-11794290061612.html",
-          "pubDate": "2026-11-10T12:50:04+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-11-10T23:34:41.918476+00:00",
+      "updated_at": "2026-11-11T02:58:58.287962+00:00",
       "items": [
+        {
+          "title": "What next for Nifty after a gap-up open on Wed? Analysts decode strategy",
+          "link": "https://www.business-standard.com/markets/news/stock-market-outlook-what-next-for-nifty-after-a-gap-up-open-on-wednesday-analysts-decode-strategy-126111100093_1.html",
+          "pubDate": "2026-11-11T08:09:31+05:30"
+        },
+        {
+          "title": "Stocks to watch: Kalyan Jewellers, MTNL, Dabur, IIFL Finance, MRF, NBCC",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-kalyan-jewellers-mtnl-dabur-iifl-finance-mrf-nbcc-126111100092_1.html",
+          "pubDate": "2026-11-11T08:06:38+05:30"
+        },
+        {
+          "title": "Stock Market LIVE: GIFT Nifty jumps 300 pts; Asia markets advance; Brent below $92",
+          "link": "https://www.business-standard.com/markets/news/stock-market-live-november-11-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126111100079_1.html",
+          "pubDate": "2026-11-11T07:59:40+05:30"
+        },
+        {
+          "title": "Festive demand, export recovery drive auto sector growth, says MOFSL",
+          "link": "https://www.business-standard.com/markets/news/festive-demand-export-recovery-drive-auto-sector-growth-says-mofsl-126111100087_1.html",
+          "pubDate": "2026-11-11T07:52:17+05:30"
+        },
+        {
+          "title": "Hindalco, Airtel among 2 stock recommendations by Kotak's Shrikant Chouhan",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-buy-today-hindalco-airtel-among-2-stock-recommendations-by-kotak-s-shrikant-chouhan-126111100077_1.html",
+          "pubDate": "2026-11-11T07:40:48+05:30"
+        },
+        {
+          "title": "PB Fintech: Retailers buy, FPIs turn wary in Q2; who got right end of deal?",
+          "link": "https://www.business-standard.com/markets/news/pb-fintech-retailers-buy-fpis-turn-wary-in-q2-who-got-right-end-of-deal-126111100075_1.html",
+          "pubDate": "2026-11-11T07:14:22+05:30"
+        },
         {
           "title": "The turn of the tide: Foreign investors return, signalling longer India bet",
           "link": "https://www.business-standard.com/markets/news/the-turn-of-the-tide-foreign-investors-return-signalling-longer-india-bet-126111000761_1.html",
@@ -1023,42 +1045,12 @@
           "title": "Jubilant FoodWorks dips 5% post Q2, but brokerages remain firm; here's why",
           "link": "https://www.business-standard.com/markets/news/jubilant-foodworks-share-price-dips-5-post-q2-but-brokerages-remain-firm-here-s-why-126110900280_1.html",
           "pubDate": "2026-11-09T11:24:15+05:30"
-        },
-        {
-          "title": "PSU Banks in focus; SBI, BOI, PNB, Indian Bank, Canara, UBI gain up to 3%",
-          "link": "https://www.business-standard.com/markets/news/psu-banks-in-focus-sbi-boi-pnb-indian-bank-canara-ubi-gain-up-to-3-126110900233_1.html",
-          "pubDate": "2026-11-09T11:02:22+05:30"
-        },
-        {
-          "title": "Voltas dips 8% in two sessions post Q2 earnings; Emkay retains 'Buy' rating",
-          "link": "https://www.business-standard.com/markets/news/voltas-dips-8-in-two-sessions-post-q2-earnings-emkay-retains-buy-rating-126110900238_1.html",
-          "pubDate": "2026-11-09T10:42:33+05:30"
-        },
-        {
-          "title": "Citi, HSBC turn bullish on India as oil slide, AI rotation lift markets",
-          "link": "https://www.business-standard.com/markets/stock-market-news/citi-bullish-on-indian-equities-sees-nifty-at-28-000-by-end-2027-126110900222_1.html",
-          "pubDate": "2026-11-09T10:39:56+05:30"
-        },
-        {
-          "title": "Divis joins ₹3 trn market cap club; rallies 15% in 2 days post Q2 results",
-          "link": "https://www.business-standard.com/markets/news/divis-joins-3-trn-market-cap-club-rallies-15-in-2-days-post-q2-results-126110900182_1.html",
-          "pubDate": "2026-11-09T10:02:24+05:30"
-        },
-        {
-          "title": "Honasa Consumer gains 5% as brokerages raise target, earnings post Q2",
-          "link": "https://www.business-standard.com/markets/news/honasa-consumer-share-price-gains-5-as-brokerages-raise-target-earnings-post-q2-126110900201_1.html",
-          "pubDate": "2026-11-09T10:00:40+05:30"
-        },
-        {
-          "title": "Tata Steel dips 1.5% after 5-day rally; brokerages stay upbeat on India biz",
-          "link": "https://www.business-standard.com/markets/news/tata-steel-dips-1-5-after-5-day-rally-brokerages-stay-upbeat-on-india-biz-126110900194_1.html",
-          "pubDate": "2026-11-09T09:58:50+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-11-10T23:34:42.895736+00:00",
+      "updated_at": "2026-11-11T02:58:59.302017+00:00",
       "items": [
         {
           "title": "Auction of Government of India Dated Security",

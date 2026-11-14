@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T09:07:41.258946+00:00",
+  "generated_at": "2026-11-14T15:45:06.303600+00:00",
   "indices": {
     "nifty50": {
       "price": 25144.3,
@@ -17,12 +17,12 @@
         25174.650390625,
         25180.150390625,
         25173.05078125,
-        25173.44921875,
+        25173.400390625,
         25167.44921875,
         25160.30078125,
         25149.349609375,
         25145.0,
-        25146.599609375,
+        25146.55078125,
         25133.849609375,
         25117.94921875,
         25097.150390625,
@@ -31,7 +31,7 @@
         25112.30078125,
         25110.099609375,
         25120.849609375,
-        25109.55078125,
+        25109.5,
         25097.44921875,
         25106.69921875,
         25111.849609375,
@@ -61,14 +61,14 @@
         25109.099609375,
         25108.5,
         25117.19921875,
-        25140.650390625,
+        25140.55078125,
         25139.25,
         25139.25,
         25144.30078125,
         25144.30078125
       ],
       "ok": true,
-      "updated_at": "2026-11-14T09:07:39.266790+00:00"
+      "updated_at": "2026-11-14T15:45:03.807600+00:00"
     },
     "sensex": {
       "price": 81592.45,
@@ -137,7 +137,7 @@
         81592.453125
       ],
       "ok": true,
-      "updated_at": "2026-11-14T09:07:39.320828+00:00"
+      "updated_at": "2026-11-14T15:45:03.920430+00:00"
     },
     "banknifty": {
       "price": 61034.1,
@@ -184,14 +184,14 @@
         60963.6484375,
         60917.3984375,
         60893.94921875,
-        60926.8515625,
+        60925.30078125,
         60885.55078125,
         60906.5,
         60906.8515625,
         60904.44921875,
         60917.8515625,
         60943.30078125,
-        60985.8984375,
+        60985.8515625,
         60989.80078125,
         60984.0,
         61009.3984375,
@@ -206,7 +206,7 @@
         61034.1015625
       ],
       "ok": true,
-      "updated_at": "2026-11-14T09:07:39.375245+00:00"
+      "updated_at": "2026-11-14T15:45:04.035822+00:00"
     },
     "vix": {
       "price": 15.495,
@@ -275,7 +275,7 @@
         15.494999885559082
       ],
       "ok": true,
-      "updated_at": "2026-11-14T09:07:39.430585+00:00"
+      "updated_at": "2026-11-14T15:45:04.149460+00:00"
     },
     "usdinr": {
       "price": 94.24,
@@ -344,7 +344,7 @@
         94.2300033569336
       ],
       "ok": true,
-      "updated_at": "2026-11-14T09:07:39.486824+00:00"
+      "updated_at": "2026-11-14T15:45:04.290423+00:00"
     },
     "gold": {
       "price": 3886.3,
@@ -365,18 +365,18 @@
         3888.800048828125,
         3885.89990234375,
         3886.60009765625,
-        3887.60009765625,
+        3887.5,
         3890.300048828125,
         3888.800048828125,
         3886.199951171875,
         3885.10009765625,
         3884.800048828125,
-        3883.199951171875,
+        3883.0,
         3882.39990234375,
         3885.0,
         3884.300048828125,
         3883.60009765625,
-        3883.199951171875,
+        3883.300048828125,
         3882.0,
         3884.699951171875,
         3882.0,
@@ -386,19 +386,19 @@
         3879.0,
         3878.5,
         3877.10009765625,
-        3878.5,
+        3878.60009765625,
         3878.0,
         3879.800048828125,
         3878.699951171875,
         3879.60009765625,
         3879.699951171875,
-        3881.699951171875,
+        3881.39990234375,
         3880.0,
         3876.10009765625,
-        3876.89990234375,
-        3877.39990234375,
+        3876.699951171875,
+        3877.5,
         3882.800048828125,
-        3881.800048828125,
+        3881.5,
         3879.60009765625,
         3874.5,
         3876.0,
@@ -410,10 +410,10 @@
         3880.699951171875,
         3883.300048828125,
         3883.5,
-        3887.60009765625
+        3886.300048828125
       ],
       "ok": true,
-      "updated_at": "2026-11-14T09:07:39.496306+00:00"
+      "updated_at": "2026-11-14T15:45:04.416451+00:00"
     },
     "crude": {
       "price": 88.56,
@@ -439,7 +439,7 @@
         88.62000274658203,
         88.80000305175781,
         88.91000366210938,
-        88.93000030517578,
+        88.94000244140625,
         88.91999816894531,
         88.70999908447266,
         88.7699966430664,
@@ -447,8 +447,8 @@
         88.54000091552734,
         88.56999969482422,
         88.69000244140625,
-        88.56999969482422,
-        88.45999908447266,
+        88.55999755859375,
+        88.44999694824219,
         88.56999969482422,
         88.58000183105469,
         88.63999938964844,
@@ -473,16 +473,16 @@
         89.0199966430664,
         89.05999755859375,
         89.05000305175781,
-        89.13999938964844,
+        89.12999725341797,
         89.2300033569336,
         89.19000244140625,
         89.06999969482422,
         88.97000122070312,
-        88.93000030517578,
-        88.91999816894531
+        88.91999816894531,
+        88.55999755859375
       ],
       "ok": true,
-      "updated_at": "2026-11-14T09:07:39.585935+00:00"
+      "updated_at": "2026-11-14T15:45:04.545131+00:00"
     },
     "us10y": {
       "price": 5.154,
@@ -551,43 +551,48 @@
         5.154000282287598
       ],
       "ok": true,
-      "updated_at": "2026-11-14T09:07:39.644849+00:00"
+      "updated_at": "2026-11-14T15:45:04.684836+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-11-14T09:07:39.676035+00:00",
+      "updated_at": "2026-11-14T15:45:04.860086+00:00",
       "items": [
         {
-          "title": "Debt mutual funds see Rs 1.13 lakh crore inflows in October after two months of outflows. What drove the turnaround?",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/debt-mutual-funds-see-rs-1-13-lakh-crore-inflows-in-october-after-two-months-of-outflows-what-drove-the-turnaround/inflows-after-two-months/slideshow/135826054.cms",
-          "pubDate": "2026-11-14T12:47:06+05:30"
+          "title": "What happened to US airlines today? Over 15,000 flights cancelled after longest nationwide ground stop in 25 years",
+          "link": "https://economictimes.indiatimes.com/news/international/world-news/what-happened-to-us-airlines-today-over-15000-flights-cancelled-after-longest-nationwide-ground-stop-in-25-years/articleshow/135831552.cms",
+          "pubDate": "2026-11-14T17:32:13+05:30"
         },
         {
-          "title": "When should you sell a stock? Donald Cassidy's 5 lessons on making profitable sell decisions",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/when-should-you-sell-a-stock-donald-cassidys-5-lessons-on-making-profitable-sell-decisions/articleshow/135825501.cms",
-          "pubDate": "2026-11-14T12:27:57+05:30"
+          "title": "Yes Bank moves SC seeking review of order on writing off of Rs 8,415 cr AT-1 bonds",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-moves-sc-seeking-review-of-order-on-writing-off-of-rs-8415-cr-at-1-bonds/articleshow/135830873.cms",
+          "pubDate": "2026-11-14T16:40:38+05:30"
         },
         {
-          "title": "6 out of 10 top performing largecap stocks in November delivered multibagger returns in long run. Do you own any?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/6-out-of-10-top-performing-largecap-stocks-in-november-delivered-multibagger-returns-in-long-run-do-you-own-any/top-performers/slideshow/135824732.cms",
-          "pubDate": "2026-11-14T11:40:38+05:30"
+          "title": "Sammaan Capital Q2 Results: Net profit rises to Rs 312 crore, AUM up 5% QoQ to Rs 59,188 crore",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sammaan-capital-q2-results-net-profit-rises-to-rs-312-crore-aum-up-5-qoq-to-rs-59188-crore/articleshow/135829624.cms",
+          "pubDate": "2026-11-14T15:47:52+05:30"
         },
         {
-          "title": "Parag Parikh Flexi Cap Fund leads as 9 equity mutual funds cross Rs 70,000 crore AUM; top 4 manage over Rs 1 lakh crore each",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/parag-parikh-flexi-cap-fund-leads-as-9-equity-mutual-funds-cross-rs-70000-crore-aum-top-4-manage-over-rs-1-lakh-crore-each/select-club/slideshow/135824300.cms",
-          "pubDate": "2026-11-14T11:20:00+05:30"
+          "title": "Mahanadi Coalfields files RHP for proposed IPO worth nearly Rs 9,500 crore",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-rs-9500-crore/articleshow/135829640.cms",
+          "pubDate": "2026-11-14T15:42:53+05:30"
         },
         {
-          "title": "Tenbaggers on Dalal Street! These 17 stocks delivered over 1,000% returns in 5 years. What Peter Lynch’s rules say to find the next?",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tenbaggers-on-dalal-street-these-17-stocks-delivered-over-1000-returns-in-5-years-what-peter-lynchs-rules-say-to-find-the-next/articleshow/135824115.cms",
-          "pubDate": "2026-11-14T11:13:23+05:30"
+          "title": "Dalal Street Week Ahead: Can Nifty bulls overcome key resistance levels?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-can-nifty-bulls-overcome-key-resistance-levels/articleshow/135829497.cms",
+          "pubDate": "2026-11-14T15:38:04+05:30"
         },
         {
-          "title": "HDFC Mutual Fund announces launch of Hybrid Long-Short Fund through its SIF platform H-SIF",
-          "link": "https://economictimes.indiatimes.com/mf/mf-news/hdfc-mutual-fund-announces-launch-of-hybrid-long-short-fund-through-its-sif-platform-h-sif/articleshow/135824158.cms",
-          "pubDate": "2026-11-14T11:12:05+05:30"
+          "title": "Jefferies' Chris Wood sees fresh US-Iran tensions as biggest risk to India, sees this sector as the best hedge",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-chris-wood-sees-fresh-us-iran-tensions-as-biggest-risk-to-india-sees-this-sector-as-the-best-hedge/articleshow/135828570.cms",
+          "pubDate": "2026-11-14T14:56:35+05:30"
+        },
+        {
+          "title": "Softbank continues to offload Indian equities, sells Meesho shares worth Rs 1,885 cr. Which other stocks did it sell this year?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/softbank-continues-to-offload-indian-equities-sells-meesho-shares-worth-rs-1885-cr-which-other-stocks-did-it-sell-this-year/articleshow/135827766.cms",
+          "pubDate": "2026-11-14T14:23:26+05:30"
         },
         {
           "title": "US asks Iraq to shut most Iran border crossings, Iraqi foreign minister says",
@@ -660,11 +665,6 @@
           "pubDate": "2026-07-27T16:34:47+05:30"
         },
         {
-          "title": "Humans have a 'third eye' in the brain: Study links it to a 600-million-year-old Cyclops ancestor",
-          "link": "https://economictimes.indiatimes.com/news/new-updates/humans-have-a-third-eye-in-the-brain-study-links-it-to-a-600-million-year-old-cyclops-ancestor/articleshow/132655441.cms",
-          "pubDate": "2026-07-27T14:20:27+05:30"
-        },
-        {
           "title": "India-UK CETA takes effect: First zero-duty Indian coffee, jewellery consignments reach UK shores",
           "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-uk-ceta-takes-effect-first-zero-duty-indian-coffee-jewellery-consignments-reach-uk-shores/articleshow/132442764.cms",
           "pubDate": "2026-07-16T20:56:34+05:30"
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-11-14T09:07:40.179955+00:00",
+      "updated_at": "2026-11-14T15:45:04.995446+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,38 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-11-14T09:07:40.220296+00:00",
+      "updated_at": "2026-11-14T15:45:05.132323+00:00",
       "items": [
+        {
+          "title": "Small-cap stock rallies 70% in a year: Motilal Oswal sees another 47% upside | Should you buy? Check target price",
+          "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-rallies-70-in-a-year-motilal-oswal-sees-another-47-upside-should-you-buy-check-target-price-11794666328017.html",
+          "pubDate": "2026-11-14T20:46:36+05:30"
+        },
+        {
+          "title": "Dividend king PSU stock: Down 23% in 6 months! Nuvama sees 42% upside; target price, rationale",
+          "link": "https://www.livemint.com/market/stock-market-news/dividend-king-psu-stock-down-23-in-6-months-nuvama-sees-42-upside-target-price-rationale-11794660044292.html",
+          "pubDate": "2026-11-14T19:41:10+05:30"
+        },
+        {
+          "title": "NVIDIA shareholder Leo KoGuan backs Jensen Huang! Explains why he will not add more stake in flagship AI stock",
+          "link": "https://www.livemint.com/market/stock-market-news/nvidia-shareholder-leo-koguan-backs-jensen-huang-explains-why-he-will-not-add-more-stake-in-flagship-ai-stock-11794652278596.html",
+          "pubDate": "2026-11-14T17:19:39+05:30"
+        },
+        {
+          "title": "Microsoft shares defy massive global outage, close higher on Friday; Outlook, Teams services recover - Things to know",
+          "link": "https://www.livemint.com/market/stock-market-news/microsoft-shares-defy-massive-global-outage-close-higher-on-friday-outlook-teams-services-recover-things-to-know-11794647299206.html",
+          "pubDate": "2026-11-14T16:39:47+05:30"
+        },
+        {
+          "title": "Tata Sons Listing: Noel Tata decodes why there should be no tinkering; what he said at Hindustan Times Leadership Summit",
+          "link": "https://www.livemint.com/market/stock-market-news/tata-sons-listing-noel-tata-decodes-why-there-should-be-no-tinkering-what-he-said-at-hindustan-times-leadership-summit-11794643211510.html",
+          "pubDate": "2026-11-14T16:38:41+05:30"
+        },
+        {
+          "title": "Dividend stock to buy: TD Power shares rally 369% in 3 years, more upside ahead? Check target price before record date",
+          "link": "https://www.livemint.com/market/stock-market-news/dividend-stock-to-buy-td-power-shares-rally-369-in-3-years-more-upside-ahead-check-target-price-before-record-date-11794648803654.html",
+          "pubDate": "2026-11-14T15:57:17+05:30"
+        },
         {
           "title": "Upcoming dividend, stock split, buyback record date next week, 16-20 Nov: MRF, SCI, PFC, Power Grid, Venus Pipes, more",
           "link": "https://www.livemint.com/market/stock-market-news/upcoming-dividend-stock-split-buyback-record-date-next-week-16-20-nov-mrf-sci-pfc-power-grid-venus-pipes-more-11794644624084.html",
@@ -915,42 +945,12 @@
           "title": "Paytm shares cross  ₹1,955 IPO listing-day high after five years; what's boosting investor confidence?",
           "link": "https://www.livemint.com/market/stock-market-news/paytm-shares-cross-rs-1-955-ipo-listing-day-high-after-nearly-five-years-whats-boosting-investor-confidence-11794575989775.html",
           "pubDate": "2026-11-13T19:05:29+05:30"
-        },
-        {
-          "title": "Microsoft shares fall nearly 3% in pre-market as global outage hits Outlook, Teams and Copilot; what went wrong?",
-          "link": "https://www.livemint.com/market/stock-market-news/microsoft-shares-fall-nearly-3-in-pre-market-as-global-outage-hits-outlook-teams-and-copilot-what-went-wrong-11794570500283.html",
-          "pubDate": "2026-11-13T17:53:53+05:30"
-        },
-        {
-          "title": "ideaForge Technology shares: Drone stock gains 53% in a year, but should you buy now? Check targets, support, stop loss",
-          "link": "https://www.livemint.com/market/stock-market-news/ideaforge-technology-shares-drone-stock-gains-53-in-a-year-but-should-you-buy-now-check-targets-support-stop-loss-11794564183048.html",
-          "pubDate": "2026-11-13T17:39:31+05:30"
-        },
-        {
-          "title": "Haldiram IPO in making: Namkeen to D-Street, snack giant eyes stock market debut - Check listing timeline, valuation",
-          "link": "https://www.livemint.com/market/ipo/haldiram-ipo-in-making-namkeen-to-d-street-snack-giant-eyes-stock-market-debut-check-listing-timeline-valuation-11794562224305.html",
-          "pubDate": "2026-11-13T17:26:12+05:30"
-        },
-        {
-          "title": "Dividend stocks Shipping Corporation vs Cochin Shipyard: Record date on Nov 16 - what to buy? Amount, yield, returns",
-          "link": "https://www.livemint.com/market/stock-market-news/dividend-stocks-shipping-corporation-vs-cochin-shipyard-record-date-on-nov-16-what-to-buy-amount-yield-returns-11794567075247.html",
-          "pubDate": "2026-11-13T17:10:03+05:30"
-        },
-        {
-          "title": "Diwali gains often last. Will this year’s Sensex rally hold?",
-          "link": "https://www.livemint.com/market/stock-market-news/diwali-gains-this-year-sensex-rally-muhurat-11794459314013.html",
-          "pubDate": "2026-11-13T16:42:33+05:30"
-        },
-        {
-          "title": "Nifty PSU Bank logs biggest weekly surge in 7 months; PNB, Bank of India, Bank of Baroda among top performers",
-          "link": "https://www.livemint.com/market/stock-market-news/nifty-psu-bank-logs-biggest-weekly-surge-in-two-years-pnb-bank-of-india-bank-of-baroda-among-top-performers-11794563569958.html",
-          "pubDate": "2026-11-13T16:19:00+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-11-14T09:07:40.255891+00:00",
+      "updated_at": "2026-11-14T15:45:05.331180+00:00",
       "items": [
         {
           "title": "Bitcoin's billion-dollar wipeouts becoming an increasingly familiar sight",
@@ -1106,7 +1106,7 @@
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-11-14T09:07:41.258931+00:00",
+      "updated_at": "2026-11-14T15:45:06.303585+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

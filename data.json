@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-14T02:22:02.603500+00:00",
+  "generated_at": "2026-11-14T09:07:41.258946+00:00",
   "indices": {
     "nifty50": {
       "price": 25144.3,
-      "change": -110.8,
-      "pct": -0.4387,
+      "change": -155.0,
+      "pct": -0.6127,
       "closes": [
         25207.55078125,
         25229.44921875,
@@ -68,12 +68,12 @@
         25144.30078125
       ],
       "ok": true,
-      "updated_at": "2026-11-14T02:22:00.945650+00:00"
+      "updated_at": "2026-11-14T09:07:39.266790+00:00"
     },
     "sensex": {
       "price": 81592.45,
-      "change": -286.95,
-      "pct": -0.3505,
+      "change": -318.55,
+      "pct": -0.3889,
       "closes": [
         81745.09375,
         81828.9765625,
@@ -137,12 +137,12 @@
         81592.453125
       ],
       "ok": true,
-      "updated_at": "2026-11-14T02:22:01.000073+00:00"
+      "updated_at": "2026-11-14T09:07:39.320828+00:00"
     },
     "banknifty": {
       "price": 61034.1,
-      "change": 241.7,
-      "pct": 0.3976,
+      "change": -484.4,
+      "pct": -0.7874,
       "closes": [
         61058.75,
         61145.44921875,
@@ -206,12 +206,12 @@
         61034.1015625
       ],
       "ok": true,
-      "updated_at": "2026-11-14T02:22:01.056712+00:00"
+      "updated_at": "2026-11-14T09:07:39.375245+00:00"
     },
     "vix": {
       "price": 15.495,
-      "change": -2.065,
-      "pct": -11.7597,
+      "change": -1.125,
+      "pct": -6.769,
       "closes": [
         16.290000915527344,
         16.264999389648438,
@@ -275,12 +275,12 @@
         15.494999885559082
       ],
       "ok": true,
-      "updated_at": "2026-11-14T02:22:01.119641+00:00"
+      "updated_at": "2026-11-14T09:07:39.430585+00:00"
     },
     "usdinr": {
-      "price": 94.23,
-      "change": 0.19,
-      "pct": 0.202,
+      "price": 94.24,
+      "change": 0.2,
+      "pct": 0.2127,
       "closes": [
         94.22250366210938,
         94.24749755859375,
@@ -344,13 +344,14 @@
         94.2300033569336
       ],
       "ok": true,
-      "updated_at": "2026-11-14T02:22:01.179471+00:00"
+      "updated_at": "2026-11-14T09:07:39.486824+00:00"
     },
     "gold": {
-      "price": 3887.6,
-      "change": 2.3,
-      "pct": 0.0592,
+      "price": 3886.3,
+      "change": 1.0,
+      "pct": 0.0257,
       "closes": [
+        3882.5,
         3888.699951171875,
         3888.10009765625,
         3885.699951171875,
@@ -409,16 +410,15 @@
         3880.699951171875,
         3883.300048828125,
         3883.5,
-        3887.60009765625,
         3887.60009765625
       ],
       "ok": true,
-      "updated_at": "2026-11-14T02:22:01.255432+00:00"
+      "updated_at": "2026-11-14T09:07:39.496306+00:00"
     },
     "crude": {
-      "price": 88.92,
-      "change": 0.18,
-      "pct": 0.2028,
+      "price": 88.56,
+      "change": -0.18,
+      "pct": -0.2028,
       "closes": [
         88.5,
         88.5,
@@ -482,7 +482,7 @@
         88.91999816894531
       ],
       "ok": true,
-      "updated_at": "2026-11-14T02:22:01.333627+00:00"
+      "updated_at": "2026-11-14T09:07:39.585935+00:00"
     },
     "us10y": {
       "price": 5.154,
@@ -551,43 +551,43 @@
         5.154000282287598
       ],
       "ok": true,
-      "updated_at": "2026-11-14T02:22:01.391911+00:00"
+      "updated_at": "2026-11-14T09:07:39.644849+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-11-14T02:22:01.485824+00:00",
+      "updated_at": "2026-11-14T09:07:39.676035+00:00",
       "items": [
         {
-          "title": "US stocks: S&amp;P 500, Nasdaq close lower as Nvidia woes and rate-hike bets pressure US market",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-nasdaq-close-lower-as-rate-hike-bets-pressure-tech-shares/articleshow/135815984.cms",
-          "pubDate": "2026-11-14T02:42:21+05:30"
+          "title": "Debt mutual funds see Rs 1.13 lakh crore inflows in October after two months of outflows. What drove the turnaround?",
+          "link": "https://economictimes.indiatimes.com/mf/analysis/debt-mutual-funds-see-rs-1-13-lakh-crore-inflows-in-october-after-two-months-of-outflows-what-drove-the-turnaround/inflows-after-two-months/slideshow/135826054.cms",
+          "pubDate": "2026-11-14T12:47:06+05:30"
         },
         {
-          "title": "Fed officials signal further rate hikes as inflation remains elevated",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-officials-signal-further-rate-hikes-as-inflation-remains-elevated/articleshow/135816363.cms",
-          "pubDate": "2026-11-14T02:39:16+05:30"
+          "title": "When should you sell a stock? Donald Cassidy's 5 lessons on making profitable sell decisions",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/when-should-you-sell-a-stock-donald-cassidys-5-lessons-on-making-profitable-sell-decisions/articleshow/135825501.cms",
+          "pubDate": "2026-11-14T12:27:57+05:30"
         },
         {
-          "title": "Jensen Huang controversy puts Southeast Asia’s AI chip trade under scrutiny",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jensen-huang-controversy-puts-southeast-asias-ai-chip-trade-under-scrutiny/articleshow/135814366.cms",
-          "pubDate": "2026-11-14T00:16:52+05:30"
+          "title": "6 out of 10 top performing largecap stocks in November delivered multibagger returns in long run. Do you own any?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/6-out-of-10-top-performing-largecap-stocks-in-november-delivered-multibagger-returns-in-long-run-do-you-own-any/top-performers/slideshow/135824732.cms",
+          "pubDate": "2026-11-14T11:40:38+05:30"
         },
         {
-          "title": "Cerebras stock jumps 23% on surprise profit, forecast hike, easing AI spending worries",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/cerebras-stock-jumps-23-on-surprise-profit-forecast-hike-easing-ai-spending-worries/articleshow/135808868.cms",
-          "pubDate": "2026-11-13T21:32:49+05:30"
+          "title": "Parag Parikh Flexi Cap Fund leads as 9 equity mutual funds cross Rs 70,000 crore AUM; top 4 manage over Rs 1 lakh crore each",
+          "link": "https://economictimes.indiatimes.com/mf/analysis/parag-parikh-flexi-cap-fund-leads-as-9-equity-mutual-funds-cross-rs-70000-crore-aum-top-4-manage-over-rs-1-lakh-crore-each/select-club/slideshow/135824300.cms",
+          "pubDate": "2026-11-14T11:20:00+05:30"
         },
         {
-          "title": "Razorpay moves closer to public market debut as Sebi gives green signal to IPO",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/razorpay-moves-closer-to-public-market-debut-as-sebi-gives-green-signal-to-ipo/articleshow/135804850.cms",
-          "pubDate": "2026-11-13T18:46:58+05:30"
+          "title": "Tenbaggers on Dalal Street! These 17 stocks delivered over 1,000% returns in 5 years. What Peter Lynch’s rules say to find the next?",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tenbaggers-on-dalal-street-these-17-stocks-delivered-over-1000-returns-in-5-years-what-peter-lynchs-rules-say-to-find-the-next/articleshow/135824115.cms",
+          "pubDate": "2026-11-14T11:13:23+05:30"
         },
         {
-          "title": "Mutlibaggers: 7 stocks held by 100+ MF schemes in October rally up to 300% in FY27",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mutlibaggers-7-stocks-held-by-100-mf-schemes-in-october-rally-up-to-300-in-fy27/slideshow/135802136.cms",
-          "pubDate": "2026-11-13T17:05:39+05:30"
+          "title": "HDFC Mutual Fund announces launch of Hybrid Long-Short Fund through its SIF platform H-SIF",
+          "link": "https://economictimes.indiatimes.com/mf/mf-news/hdfc-mutual-fund-announces-launch-of-hybrid-long-short-fund-through-its-sif-platform-h-sif/articleshow/135824158.cms",
+          "pubDate": "2026-11-14T11:12:05+05:30"
         },
         {
           "title": "US asks Iraq to shut most Iran border crossings, Iraqi foreign minister says",
@@ -713,7 +713,7 @@
     },
     "mc": {
       "ok": true,
-      "updated_at": "2026-11-14T02:22:01.580463+00:00",
+      "updated_at": "2026-11-14T09:07:40.179955+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,63 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-11-14T02:22:01.671968+00:00",
+      "updated_at": "2026-11-14T09:07:40.220296+00:00",
       "items": [
+        {
+          "title": "Upcoming dividend, stock split, buyback record date next week, 16-20 Nov: MRF, SCI, PFC, Power Grid, Venus Pipes, more",
+          "link": "https://www.livemint.com/market/stock-market-news/upcoming-dividend-stock-split-buyback-record-date-next-week-16-20-nov-mrf-sci-pfc-power-grid-venus-pipes-more-11794644624084.html",
+          "pubDate": "2026-11-14T14:26:49+05:30"
+        },
+        {
+          "title": "Mahanadi Coalfields IPO: Coal India subsidiary files RHP - Latest GMP at  ₹12.5; check key dates, size, valuation, more",
+          "link": "https://www.livemint.com/market/ipo/mahanadi-coalfields-ipo-coal-india-subsidiary-files-rhp-latest-gmp-at-rs-12-5-check-key-dates-size-valuation-more-11794640652111.html",
+          "pubDate": "2026-11-14T13:39:25+05:30"
+        },
+        {
+          "title": "182% multibagger 1 yr return ! This Ice-cream maker announces bonus, stock split - Do you own? Ratio, record date detail",
+          "link": "https://www.livemint.com/market/stock-market-news/182-multibagger-1-yr-return-this-ice-cream-maker-announces-bonus-stock-split-do-you-own-ratio-record-date-detail-11794640256610.html",
+          "pubDate": "2026-11-14T13:35:04+05:30"
+        },
+        {
+          "title": "Up 325% in 4 years! Multibagger brewery stock with 1:10 stock split history declares Q2 Results 2026; revenue up 103%",
+          "link": "https://www.livemint.com/market/stock-market-news/up-325-in-4-years-multibagger-brewery-stock-with-1-10-stock-split-history-declares-q2-results-2026-revenue-up-203-11794638711855.html",
+          "pubDate": "2026-11-14T12:38:43+05:30"
+        },
+        {
+          "title": "Rekha Jhunjhunwala stock VA Tech Wabag:  ₹2,400 cr Saudi project cancelled - Should you buy after 18% rise in 6 months?",
+          "link": "https://www.livemint.com/market/stock-market-news/rekha-jhunjhunwala-stock-va-tech-wabag-rs-2-400-cr-saudi-project-cancelled-should-you-buy-after-18-rise-in-6-months-11794636173819.html",
+          "pubDate": "2026-11-14T11:53:18+05:30"
+        },
+        {
+          "title": "Germany Has an Edge in a Lower Oil Price World: Taking Stock",
+          "link": "https://www.livemint.com/market/germany-has-an-edge-in-a-lower-oil-price-world-taking-stock-11794636529660.html",
+          "pubDate": "2026-11-14T11:38:49+05:30"
+        },
+        {
+          "title": "₹4K cr Ramayana movie VFX maker parent Prime Focus shares in focus after 14x profit jump in Q2; stock up 61% in a year",
+          "link": "https://www.livemint.com/market/stock-market-news/rs-4k-cr-ramayana-movie-vfx-maker-parent-prime-focus-shares-in-focus-after-14x-profit-jump-in-q2-stock-up-61-in-a-year-11794632446134.html",
+          "pubDate": "2026-11-14T11:21:55+05:30"
+        },
+        {
+          "title": "Around 600% jump in 5 years: Citi maintains 'buy' on Maharatna defence PSU HAL for up to 28% - Check target, rationale",
+          "link": "https://www.livemint.com/market/stock-market-news/around-600-jump-in-5-years-citi-maintains-buy-on-maharatna-defence-psu-hal-for-up-to-28-check-target-rationale-11794630844431.html",
+          "pubDate": "2026-11-14T10:28:42+05:30"
+        },
+        {
+          "title": "₹150 Dividend Alert! Record date next week of Jockey firm for biggest payout declared in Q2 - check key dates, history",
+          "link": "https://www.livemint.com/market/stock-market-news/rs-150-dividend-alert-record-date-next-week-of-jockey-firm-for-biggest-payout-declared-in-q2-check-key-dates-history-11794628701443.html",
+          "pubDate": "2026-11-14T09:52:20+05:30"
+        },
+        {
+          "title": "Ramayana effect? Prime Focus Q2 results: Revenue rises to  ₹1,410.17 crore; PAT climbs to  ₹91.04 crore from  ₹5.8 crore",
+          "link": "https://www.livemint.com/market/ramayana-effect-prime-focus-q2-results-revenue-rises-to-1-410-17-crore-pat-climbs-to-91-04-crore-from-5-8-crore-11794627104139.html",
+          "pubDate": "2026-11-14T09:12:42+05:30"
+        },
+        {
+          "title": "Top 3 stocks to buy: Bharti Airtel, Bajaj Finance, Nestle by Sumeet Bagadia | Targets, stop-loss, market prediction",
+          "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-bharti-airtel-bajaj-finance-nestle-by-sumeet-bagadia-targets-stop-loss-market-prediction-11794622858676.html",
+          "pubDate": "2026-11-14T08:41:12+05:30"
+        },
         {
           "title": "Three fast-growing water infra stocks",
           "link": "https://www.livemint.com/market/stock-market-news/three-fast-growing-water-infra-stocks-11794577248207.html",
@@ -890,68 +945,23 @@
           "title": "Nifty PSU Bank logs biggest weekly surge in 7 months; PNB, Bank of India, Bank of Baroda among top performers",
           "link": "https://www.livemint.com/market/stock-market-news/nifty-psu-bank-logs-biggest-weekly-surge-in-two-years-pnb-bank-of-india-bank-of-baroda-among-top-performers-11794563569958.html",
           "pubDate": "2026-11-13T16:19:00+05:30"
-        },
-        {
-          "title": "Circuit-to-circuit stock SC Agrotech declares 4:5 bonus, 1:10 stock split, dividend update; record date, other details",
-          "link": "https://www.livemint.com/market/stock-market-news/circuittocircuit-stock-sc-agrotech-declares-4-5-bonus-1-10-stock-split-dividend-update-record-date-other-details-11794564352785.html",
-          "pubDate": "2026-11-13T15:40:51+05:30"
-        },
-        {
-          "title": "Looking for stocks to buy for 2027? HDFC Bank, Meesho, Paytm, Park Medi, LG Electronics - Ventura's top picks revealed",
-          "link": "https://www.livemint.com/market/stock-market-news/looking-for-stocks-to-buy-for-2027-hdfc-bank-meesho-paytm-park-medi-lg-electronics-venturas-top-picks-revealed-11794556121055.html",
-          "pubDate": "2026-11-13T15:31:48+05:30"
-        },
-        {
-          "title": "Up 17% in YTD! Small-cap hotel stock under  ₹200 jumps 4% after Q2 Results 2026; do you own?",
-          "link": "https://www.livemint.com/market/stock-market-news/up-17-in-ytd-small-cap-hotel-stock-under-rs-200-jumps-4-after-q2-results-2026-do-you-own-11794558406332.html",
-          "pubDate": "2026-11-13T14:42:05+05:30"
-        },
-        {
-          "title": "Dividend stock: This multibagger share declares dividend of  ₹20 | Check record date, history, yield, returns",
-          "link": "https://www.livemint.com/market/stock-market-news/dividend-stock-multibagger-share-ingersoll-rand-india-declares-dividend-of-20-check-record-date-history-yield-11794557139856.html",
-          "pubDate": "2026-11-13T14:41:50+05:30"
-        },
-        {
-          "title": "Microsoft outage gums up markets, forces traders to use phones",
-          "link": "https://www.livemint.com/market/stock-market-news/microsoft-outage-gums-up-markets-forces-traders-to-use-phones-11794560680458.html",
-          "pubDate": "2026-11-13T14:41:49+05:30"
-        },
-        {
-          "title": "23% return in 3 months: PL Capital sees 12.6% upside potential in Welspun Enterprises - Check target price, rationale",
-          "link": "https://www.livemint.com/market/stock-market-news/23-return-in-3-months-pl-capital-sees-12-6-upside-potential-in-welspun-enterprises-check-target-price-rationale-11794556377827.html",
-          "pubDate": "2026-11-13T13:57:05+05:30"
-        },
-        {
-          "title": "Apollo Micro Systems shares: Why experts bet high on this multibagger defence stock after MSCI rejig? Target, stop-loss",
-          "link": "https://www.livemint.com/market/stock-market-news/apollo-micro-systems-shares-why-experts-bet-high-on-this-multibagger-defence-stock-after-msci-rejig-target-stoploss-11794555639681.html",
-          "pubDate": "2026-11-13T13:41:20+05:30"
-        },
-        {
-          "title": "Promoter holding at 3-year high, FII ownership at 14-year low: Did insiders buy what FIIs sold?",
-          "link": "https://www.livemint.com/market/stock-market-news/promoter-holding-at-3-year-high-fii-ownership-at-14-year-low-did-insiders-buy-what-fiis-sold-11794545962669.html",
-          "pubDate": "2026-11-13T13:35:39+05:30"
-        },
-        {
-          "title": "Can Ola Electric’s pivot to dealership model hedge revenue decline?",
-          "link": "https://www.livemint.com/market/mark-to-market/ola-electric-pivot-dealership-model-revenue-decline-11794551578116.html",
-          "pubDate": "2026-11-13T13:24:02+05:30"
-        },
-        {
-          "title": "Mega AI Anthropic IPO details: Share price band, valuation, listing date - All you need to know about the upcoming issue",
-          "link": "https://www.livemint.com/market/stock-market-news/mega-ai-anthropic-ipo-details-share-price-band-valuation-listing-date-all-you-need-to-know-about-the-upcoming-issue-11794552663877.html",
-          "pubDate": "2026-11-13T13:11:56+05:30"
-        },
-        {
-          "title": "IRCTC, RVNL, IRFC, RailTel to IRCON: Railway stocks fall up to 3%; opportunity to buy on dip? Experts' views, target, SL",
-          "link": "https://www.livemint.com/market/stock-market-news/irctc-rvnl-irfc-railtel-to-ircon-railway-stocks-fall-up-to-3-opportunity-to-buy-on-dip-experts-views-target-sl-11794553579136.html",
-          "pubDate": "2026-11-13T13:04:08+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-11-14T02:22:01.772460+00:00",
+      "updated_at": "2026-11-14T09:07:40.255891+00:00",
       "items": [
+        {
+          "title": "Bitcoin's billion-dollar wipeouts becoming an increasingly familiar sight",
+          "link": "https://www.business-standard.com/markets/cryptocurrency/bitcoin-s-billion-dollar-wipeouts-becoming-an-increasingly-familiar-sight-126111400176_1.html",
+          "pubDate": "2026-11-14T09:10:30+05:30"
+        },
+        {
+          "title": "Softbank further trims India exposure, sells Meesho shares worth ₹1,885 cr",
+          "link": "https://www.business-standard.com/markets/news/softbank-further-trims-india-exposure-sells-meesho-shares-worth-1-885-cr-126111400069_1.html",
+          "pubDate": "2026-11-14T08:36:48+05:30"
+        },
         {
           "title": "NSE IX Global Access expands investment offerings into 7 European markets",
           "link": "https://www.business-standard.com/markets/news/nse-ix-global-access-expands-investment-offerings-into-7-european-markets-126111301892_1.html",
@@ -1091,22 +1101,12 @@
           "title": "How to invest abroad through GIFT City: A step-by-step guide",
           "link": "https://www.business-standard.com/markets/news/how-to-invest-abroad-through-gift-city-a-step-by-step-guide-126111201694_1.html",
           "pubDate": "2026-11-12T20:26:36+05:30"
-        },
-        {
-          "title": "Wall Street edges up, Nvidia drops after CEO Jensen Huang resigns",
-          "link": "https://www.business-standard.com/world-news/wall-street-opens-lower-as-nvidia-ceo-huang-steps-down-tech-stocks-slide-126111201681_1.html",
-          "pubDate": "2026-11-12T20:15:13+05:30"
-        },
-        {
-          "title": "Oct SIP openings at 18-month low, closures highest since April 2025",
-          "link": "https://www.business-standard.com/markets/mutual-fund/sip-openings-hit-18-month-low-in-october-closures-rise-to-18-month-high-126111201475_1.html",
-          "pubDate": "2026-11-12T18:41:15+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-11-14T02:22:02.603481+00:00",
+      "updated_at": "2026-11-14T09:07:41.258931+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

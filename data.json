@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T23:51:56.147133+00:00",
+  "generated_at": "2026-11-15T03:17:45.698741+00:00",
   "indices": {
     "nifty50": {
       "price": 25144.3,
@@ -68,7 +68,7 @@
         25144.30078125
       ],
       "ok": true,
-      "updated_at": "2026-11-14T23:51:54.590318+00:00"
+      "updated_at": "2026-11-15T03:17:44.423701+00:00"
     },
     "sensex": {
       "price": 81592.45,
@@ -137,7 +137,7 @@
         81592.453125
       ],
       "ok": true,
-      "updated_at": "2026-11-14T23:51:54.650561+00:00"
+      "updated_at": "2026-11-15T03:17:44.480034+00:00"
     },
     "banknifty": {
       "price": 61034.1,
@@ -206,7 +206,7 @@
         61034.1015625
       ],
       "ok": true,
-      "updated_at": "2026-11-14T23:51:54.703094+00:00"
+      "updated_at": "2026-11-15T03:17:44.537585+00:00"
     },
     "vix": {
       "price": 15.495,
@@ -275,14 +275,13 @@
         15.494999885559082
       ],
       "ok": true,
-      "updated_at": "2026-11-14T23:51:54.756549+00:00"
+      "updated_at": "2026-11-15T03:17:44.631188+00:00"
     },
     "usdinr": {
       "price": 94.24,
       "change": 0.2,
       "pct": 0.2127,
       "closes": [
-        94.22250366210938,
         94.24749755859375,
         94.25,
         94.24500274658203,
@@ -341,10 +340,11 @@
         94.2300033569336,
         94.2300033569336,
         94.2300033569336,
-        94.2300033569336
+        94.2300033569336,
+        94.23999786376953
       ],
       "ok": true,
-      "updated_at": "2026-11-14T23:51:54.824338+00:00"
+      "updated_at": "2026-11-15T03:17:44.685506+00:00"
     },
     "gold": {
       "price": 3886.3,
@@ -413,7 +413,7 @@
         3886.300048828125
       ],
       "ok": true,
-      "updated_at": "2026-11-14T23:51:54.838023+00:00"
+      "updated_at": "2026-11-15T03:17:44.748326+00:00"
     },
     "crude": {
       "price": 88.56,
@@ -482,7 +482,7 @@
         88.55999755859375
       ],
       "ok": true,
-      "updated_at": "2026-11-14T23:51:54.984801+00:00"
+      "updated_at": "2026-11-15T03:17:44.856875+00:00"
     },
     "us10y": {
       "price": 5.154,
@@ -551,13 +551,13 @@
         5.154000282287598
       ],
       "ok": true,
-      "updated_at": "2026-11-14T23:51:55.041372+00:00"
+      "updated_at": "2026-11-15T03:17:44.936889+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-11-14T23:51:55.073372+00:00",
+      "updated_at": "2026-11-15T03:17:45.045296+00:00",
       "items": [
         {
           "title": "What happened to US airlines today? Over 15,000 flights cancelled after longest nationwide ground stop in 25 years",
@@ -712,8 +712,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-11-14T15:45:04.995446+00:00",
+      "ok": true,
+      "updated_at": "2026-11-15T03:17:45.314206+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +794,28 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-11-14T23:51:55.139994+00:00",
+      "updated_at": "2026-11-15T03:17:45.370837+00:00",
       "items": [
+        {
+          "title": "Top 3 stocks to buy: Redington, Aster DM, Canara Bank by Ganesh Dongre of Anand Rathi | Targets, stop-loss, market view",
+          "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-redington-aster-dm-canara-bank-by-ganesh-dongre-of-anand-rathi-targets-stop-loss-market-view-11794710212072.html",
+          "pubDate": "2026-11-15T08:31:01+05:30"
+        },
+        {
+          "title": "How to ensure that AI disruption doesn’t leave workers behind",
+          "link": "https://www.livemint.com/market/how-to-ensure-that-ai-disruption-doesn-t-leave-workers-behind-11794708119550.html",
+          "pubDate": "2026-11-15T07:34:11+05:30"
+        },
+        {
+          "title": "Best stocks to buy under  ₹100: Lloyds Engineering, Niva Bupa, Vedanta Power by Sumeet Bagadia | Targets, stop-loss",
+          "link": "https://www.livemint.com/market/stock-market-news/best-stocks-to-buy-under-rs-100-lloyds-engineering-niva-bupa-vedanta-power-by-sumeet-bagadia-targets-stoploss-11794674607528.html",
+          "pubDate": "2026-11-15T06:30:17+05:30"
+        },
+        {
+          "title": "Bitcoin Tumbles to Three-Month Low as Liquidations Accelerate",
+          "link": "https://www.livemint.com/market/bitcoin-tumbles-to-three-month-low-as-liquidations-accelerate-11794702675152.html",
+          "pubDate": "2026-11-15T06:01:14+05:30"
+        },
         {
           "title": "Beyond Coal India, ONGC: 10 lesser-known dividend stocks with up to 19.6% yield - Premco, GOCL, Accelya to D-Link | List",
           "link": "https://www.livemint.com/market/stock-market-news/beyond-coal-india-ongc-10-lesser-known-dividend-stocks-with-up-to-19-yield-premco-gocl-accelya-to-d-link-list-11794671719253.html",
@@ -925,33 +945,18 @@
           "title": "Upcoming IPO: Razorpay gets SEBI nod for IPO launch: Top things to know about the issue",
           "link": "https://www.livemint.com/market/stock-market-news/upcoming-ipo-razorpay-gets-sebi-nod-for-ipo-launch-top-things-to-know-about-the-issue-11794586427364.html",
           "pubDate": "2026-11-13T21:49:54+05:30"
-        },
-        {
-          "title": "BEML share price falls after hitting 52-week high: ICICI Direct sees 39% upside in defence PSU stock—should you buy?",
-          "link": "https://www.livemint.com/market/stock-market-news/beml-share-price-falls-after-hitting-52-week-high-icici-direct-sees-39-upside-in-the-defence-psu-stock-should-you-buy-11794580770478.html",
-          "pubDate": "2026-11-13T21:41:32+05:30"
-        },
-        {
-          "title": "Reliance Industries shares rebound 15% in November, add  ₹2.38 lakh crore in market value; what's changed?",
-          "link": "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-rebound-15-in-november-add-rs-2-38-lakh-crore-in-market-value-whats-changed-11794580881169.html",
-          "pubDate": "2026-11-13T21:09:36+05:30"
-        },
-        {
-          "title": "Warships, aircraft or missiles? GRSE vs HAL vs BDL: Which defence PSU wins the post-Q2 results race? Technical outlook",
-          "link": "https://www.livemint.com/market/stock-market-news/warships-aircraft-or-missiles-grse-vs-hal-vs-bdl-which-defence-psu-wins-the-post-q2-results-race-technical-outlook-11794571751718.html",
-          "pubDate": "2026-11-13T19:35:17+05:30"
-        },
-        {
-          "title": "Pulse of the Street: Dalal Street’s winning streak faces an inflation test",
-          "link": "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-dalal-street-s-winning-streak-faces-an-inflation-test-11794572591011.html",
-          "pubDate": "2026-11-13T19:23:34+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-11-14T23:51:55.223466+00:00",
+      "updated_at": "2026-11-15T03:17:45.641084+00:00",
       "items": [
+        {
+          "title": "Bitcoin tumbles to four-month low as leveraged bets face mass liquidations",
+          "link": "https://www.business-standard.com/markets/cryptocurrency/bitcoin-tumbles-to-four-month-low-as-leveraged-bets-face-mass-liquidations-126111500058_1.html",
+          "pubDate": "2026-11-15T08:12:09+05:30"
+        },
         {
           "title": "Bitcoin's billion-dollar wipeouts becoming an increasingly familiar sight",
           "link": "https://www.business-standard.com/markets/cryptocurrency/bitcoin-s-billion-dollar-wipeouts-becoming-an-increasingly-familiar-sight-126111400176_1.html",
@@ -1096,17 +1101,12 @@
           "title": "Standard Chartered brings four Signature CIO Funds from GIFT City",
           "link": "https://www.business-standard.com/markets/news/standard-chartered-brings-four-signature-cio-funds-from-gift-city-126111201886_1.html",
           "pubDate": "2026-11-12T22:44:56+05:30"
-        },
-        {
-          "title": "How to invest abroad through GIFT City: A step-by-step guide",
-          "link": "https://www.business-standard.com/markets/news/how-to-invest-abroad-through-gift-city-a-step-by-step-guide-126111201694_1.html",
-          "pubDate": "2026-11-12T20:26:36+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-11-14T23:51:56.147118+00:00",
+      "updated_at": "2026-11-15T03:17:45.698726+00:00",
       "items": [
         {
           "title": "Auction of State Government Securities",

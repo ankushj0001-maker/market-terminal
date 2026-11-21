@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T18:42:00.753968+00:00",
+  "generated_at": "2026-11-21T00:13:00.621148+00:00",
   "indices": {
     "nifty50": {
       "price": 25800.6,
@@ -68,7 +68,7 @@
         25800.599609375
       ],
       "ok": true,
-      "updated_at": "2026-11-20T18:41:58.271110+00:00"
+      "updated_at": "2026-11-21T00:12:46.695039+00:00"
     },
     "sensex": {
       "price": 83919.71,
@@ -137,7 +137,7 @@
         83919.7109375
       ],
       "ok": true,
-      "updated_at": "2026-11-20T18:41:58.379644+00:00"
+      "updated_at": "2026-11-21T00:12:46.745461+00:00"
     },
     "banknifty": {
       "price": 64635.2,
@@ -206,7 +206,7 @@
         64635.19921875
       ],
       "ok": true,
-      "updated_at": "2026-11-20T18:41:58.508448+00:00"
+      "updated_at": "2026-11-21T00:12:46.801412+00:00"
     },
     "vix": {
       "price": 17.32,
@@ -275,16 +275,13 @@
         17.31999969482422
       ],
       "ok": true,
-      "updated_at": "2026-11-20T18:41:58.616108+00:00"
+      "updated_at": "2026-11-21T00:12:46.853809+00:00"
     },
     "usdinr": {
-      "price": 92.67,
-      "change": -0.61,
-      "pct": -0.6539,
+      "price": 92.66,
+      "change": -0.62,
+      "pct": -0.6647,
       "closes": [
-        92.98249816894531,
-        92.97750091552734,
-        93.0199966430664,
         93.01249694824219,
         93.03500366210938,
         93.00250244140625,
@@ -341,57 +338,19 @@
         92.66000366210938,
         92.66000366210938,
         92.66000366210938,
-        92.66999816894531
+        92.66999816894531,
+        92.66000366210938,
+        92.66000366210938,
+        92.66000366210938
       ],
       "ok": true,
-      "updated_at": "2026-11-20T18:41:58.763606+00:00"
+      "updated_at": "2026-11-21T00:12:46.928626+00:00"
     },
     "gold": {
-      "price": 3514.9,
-      "change": -170.6,
-      "pct": -4.629,
+      "price": 3539.0,
+      "change": -146.5,
+      "pct": -3.975,
       "closes": [
-        3557.199951171875,
-        3562.699951171875,
-        3569.300048828125,
-        3573.5,
-        3567.39990234375,
-        3571.300048828125,
-        3580.800048828125,
-        3582.300048828125,
-        3577.300048828125,
-        3570.0,
-        3572.800048828125,
-        3578.300048828125,
-        3568.300048828125,
-        3576.199951171875,
-        3575.199951171875,
-        3579.199951171875,
-        3573.800048828125,
-        3567.89990234375,
-        3559.60009765625,
-        3543.10009765625,
-        3535.39990234375,
-        3537.10009765625,
-        3547.5,
-        3562.0,
-        3554.800048828125,
-        3557.800048828125,
-        3553.0,
-        3551.89990234375,
-        3540.10009765625,
-        3551.0,
-        3555.60009765625,
-        3548.10009765625,
-        3542.39990234375,
-        3544.10009765625,
-        3547.60009765625,
-        3549.10009765625,
-        3545.699951171875,
-        3543.10009765625,
-        3540.10009765625,
-        3547.5,
-        3536.699951171875,
         3539.0,
         3536.5,
         3532.0,
@@ -409,58 +368,58 @@
         3525.0,
         3524.39990234375,
         3514.5,
-        3517.60009765625,
-        3514.89990234375
+        3517.199951171875,
+        3515.60009765625,
+        3506.89990234375,
+        3507.0,
+        3519.5,
+        3535.60009765625,
+        3527.199951171875,
+        3523.5,
+        3518.800048828125,
+        3517.89990234375,
+        3517.10009765625,
+        3513.60009765625,
+        3513.89990234375,
+        3529.0,
+        3532.699951171875,
+        3525.699951171875,
+        3520.10009765625,
+        3524.699951171875,
+        3518.0,
+        3517.5,
+        3514.89990234375,
+        3521.199951171875,
+        3517.39990234375,
+        3515.89990234375,
+        3506.60009765625,
+        3513.800048828125,
+        3506.800048828125,
+        3526.39990234375,
+        3520.699951171875,
+        3526.0,
+        3525.60009765625,
+        3523.199951171875,
+        3519.300048828125,
+        3517.89990234375,
+        3521.300048828125,
+        3523.800048828125,
+        3524.60009765625,
+        3526.699951171875,
+        3526.699951171875,
+        3533.300048828125,
+        3535.10009765625,
+        3539.0,
+        3539.0
       ],
       "ok": true,
-      "updated_at": "2026-11-20T18:41:58.876289+00:00"
+      "updated_at": "2026-11-21T00:12:46.991532+00:00"
     },
     "crude": {
-      "price": 82.95,
-      "change": 0.51,
-      "pct": 0.6186,
+      "price": 83.62,
+      "change": 1.18,
+      "pct": 1.4313,
       "closes": [
-        82.30999755859375,
-        82.47000122070312,
-        82.27999877929688,
-        82.38999938964844,
-        82.25,
-        82.31999969482422,
-        82.30999755859375,
-        81.94999694824219,
-        81.95999908447266,
-        82.19000244140625,
-        81.80999755859375,
-        81.7699966430664,
-        81.48999786376953,
-        81.41000366210938,
-        81.63999938964844,
-        81.66999816894531,
-        81.97000122070312,
-        81.81999969482422,
-        81.76000213623047,
-        81.4800033569336,
-        81.37999725341797,
-        81.63999938964844,
-        81.45999908447266,
-        81.6500015258789,
-        81.61000061035156,
-        81.87999725341797,
-        81.91999816894531,
-        81.9800033569336,
-        81.72000122070312,
-        82.0,
-        82.08999633789062,
-        81.83000183105469,
-        81.8499984741211,
-        81.66000366210938,
-        81.77999877929688,
-        81.9000015258789,
-        82.08000183105469,
-        82.05000305175781,
-        82.08000183105469,
-        82.16000366210938,
-        82.47000122070312,
         82.58999633789062,
         82.62999725341797,
         82.52999877929688,
@@ -479,33 +438,57 @@
         83.04000091552734,
         83.0,
         82.95999908447266,
-        82.94999694824219
+        82.95999908447266,
+        83.02999877929688,
+        83.04000091552734,
+        83.19000244140625,
+        83.08000183105469,
+        83.08999633789062,
+        83.25,
+        83.20999908447266,
+        83.16999816894531,
+        83.43000030517578,
+        83.2699966430664,
+        82.9000015258789,
+        83.0999984741211,
+        83.16999816894531,
+        83.1500015258789,
+        83.08999633789062,
+        83.01000213623047,
+        82.9800033569336,
+        83.18000030517578,
+        83.12999725341797,
+        83.22000122070312,
+        83.55999755859375,
+        83.66000366210938,
+        83.68000030517578,
+        83.73999786376953,
+        83.72000122070312,
+        84.04000091552734,
+        84.0,
+        83.97000122070312,
+        83.87000274658203,
+        83.73999786376953,
+        83.80999755859375,
+        83.69000244140625,
+        83.77999877929688,
+        83.7300033569336,
+        83.72000122070312,
+        83.62999725341797,
+        83.62000274658203,
+        83.58000183105469,
+        83.58999633789062,
+        83.62000274658203,
+        83.62000274658203
       ],
       "ok": true,
-      "updated_at": "2026-11-20T18:41:59.019671+00:00"
+      "updated_at": "2026-11-21T00:12:47.057914+00:00"
     },
     "us10y": {
-      "price": 4.944,
-      "change": -0.108,
-      "pct": -2.1378,
+      "price": 4.912,
+      "change": -0.14,
+      "pct": -2.7712,
       "closes": [
-        4.970000267028809,
-        4.9679999351501465,
-        4.977999687194824,
-        4.97599983215332,
-        4.98199987411499,
-        4.984000205993652,
-        4.990000247955322,
-        4.98799991607666,
-        4.986000061035156,
-        4.986000061035156,
-        4.991999626159668,
-        4.980000019073486,
-        4.98199987411499,
-        4.9720001220703125,
-        4.984000205993652,
-        4.991999626159668,
-        4.991999626159668,
         4.98799991607666,
         4.97599983215332,
         4.973999977111816,
@@ -547,18 +530,40 @@
         4.934000015258789,
         4.946000099182129,
         4.946000099182129,
+        4.943999767303467,
         4.946000099182129,
-        4.943999767303467
+        4.947999954223633,
+        4.943999767303467,
+        4.941999912261963,
+        4.947999954223633,
+        4.946000099182129,
+        4.941999912261963,
+        4.940000057220459,
+        4.938000202178955,
+        4.935999870300293,
+        4.935999870300293,
+        4.920000076293945,
+        4.909999847412109,
+        4.920000076293945,
+        4.918000221252441,
+        4.914000034332275,
+        4.918000221252441,
+        4.911999702453613
       ],
       "ok": true,
-      "updated_at": "2026-11-20T18:41:59.134765+00:00"
+      "updated_at": "2026-11-21T00:12:47.120232+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-11-20T18:41:59.261914+00:00",
+      "updated_at": "2026-11-21T00:12:47.315673+00:00",
       "items": [
+        {
+          "title": "Nasdaq crashes 1,200 pts at close, erasing 2026 gains; S&amp;P 500, Dow enter correction",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-crashes-1200-pts-at-close-erasing-2026-gains-sp-500-dow-enter-correction/articleshow/136039067.cms",
+          "pubDate": "2026-11-21T02:46:21+05:30"
+        },
         {
           "title": "NSE becomes world’s 5th-largest listed stock exchange, surpasses NASDAQ and HKEX",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-becomes-worlds-5th-largest-listed-stock-exchange-surpasses-nasdaq-and-hkex/articleshow/136017928.cms",
@@ -583,11 +588,6 @@
           "title": "Tips Films shares rally 16% as firm proposes voluntary delisting from NSE, BSE",
           "link": "https://economictimes.indiatimes.com/markets/stocks/news/tips-films-shares-rally-16-as-firm-proposes-voluntary-delisting-from-nse-bse-what-happens-to-8300-shareholders-money/articleshow/136012961.cms",
           "pubDate": "2026-11-20T09:52:40+05:30"
-        },
-        {
-          "title": "Metals losing their shine? Tata Steel, Vedanta, other stocks fall up to 7% in 5 days as metals hit multi-month lows. What analysts say",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/metal-stocks-fall-up-to-7-in-5-days-as-rising-fed-rate-hike-worries-push-metals-to-multi-month-lows-more-downside-ahead/articleshow/136012778.cms",
-          "pubDate": "2026-11-20T09:37:11+05:30"
         },
         {
           "title": "What happened to US airlines today? Over 15,000 flights cancelled after longest nationwide ground stop in 25 years",
@@ -794,8 +794,33 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-11-20T18:41:59.516379+00:00",
+      "updated_at": "2026-11-21T00:12:59.565494+00:00",
       "items": [
+        {
+          "title": "Gold Logs Worst Week Since March on Hawkish Fed, AI Selloff",
+          "link": "https://www.livemint.com/market/gold-logs-worst-week-since-march-on-hawkish-fed-ai-selloff-11795214360197.html",
+          "pubDate": "2026-11-21T04:09:19+05:30"
+        },
+        {
+          "title": "Asset-Backed Debt Sales Top Post-GFC Record on AI Strength",
+          "link": "https://www.livemint.com/market/assetbacked-debt-sales-top-post-gfc-record-on-ai-strength-11795205853665.html",
+          "pubDate": "2026-11-21T01:47:33+05:30"
+        },
+        {
+          "title": "Dollar weaker as Fed-fueled rally stalls; lower US yields help yen",
+          "link": "https://www.livemint.com/market/dollar-weaker-as-fed-fueled-rally-stalls-lower-us-yields-help-yen-11795205355081.html",
+          "pubDate": "2026-11-21T01:39:14+05:30"
+        },
+        {
+          "title": "AI tech rout prompts US investors to rush into value stocks",
+          "link": "https://www.livemint.com/market/ai-tech-rout-prompts-us-investors-to-rush-into-value-stocks-11795205292642.html",
+          "pubDate": "2026-11-21T01:38:12+05:30"
+        },
+        {
+          "title": "Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees",
+          "link": "https://www.livemint.com/market/wall-street-banks-set-for-banner-year-as-anthropic-spacex-ipos-generate-1-billion-in-fees-11795201100809.html",
+          "pubDate": "2026-11-21T00:28:20+05:30"
+        },
         {
           "title": "Smallcap dividend stars: 5 stocks under  ₹100 with high dividend yield - Jagran Prakashan, Radiant Cash, and more",
           "link": "https://www.livemint.com/market/stock-market-news/smallcap-dividend-stars-5-stocks-under-rs-100-with-high-dividend-yield-jagran-prakashan-radiant-cash-and-more-11795193828075.html",
@@ -920,37 +945,12 @@
           "title": "On top lane! Highway Infrastructure shares on cusp of breakout after rising 55% in one month; should you buy? Target, SL",
           "link": "https://www.livemint.com/market/stock-market-news/on-top-lane-highway-infrastructure-shares-on-cusp-of-breakout-after-rising-55-in-one-month-should-you-buy-target-sl-11795157158582.html",
           "pubDate": "2026-11-20T13:04:02+05:30"
-        },
-        {
-          "title": "IPO GMP race: Mahanadi Coalfields vs Crystal Crop Protection vs Watrana Rentals - Check grey market winner | Key dates",
-          "link": "https://www.livemint.com/market/stock-market-news/ipo-gmp-race-mahanadi-coalfields-vs-crystal-crop-protection-vs-watrana-rentals-check-grey-market-winner-key-dates-11795159118707.html",
-          "pubDate": "2026-11-20T13:02:07+05:30"
-        },
-        {
-          "title": "India’s ‘no AI play’ remains a bother for fund managers even as foreign investors return",
-          "link": "https://www.livemint.com/market/mark-to-market/indias-no-ai-play-remains-a-bother-for-fund-managers-even-as-foreign-investors-return-11795149415163.html",
-          "pubDate": "2026-11-20T12:44:31+05:30"
-        },
-        {
-          "title": "PC Jeweller, Kalyan Jewellers to Senco Gold: Jewellery stocks fall 5% as gold prices slips below  ₹1.25 lakh;buy or sell?",
-          "link": "https://www.livemint.com/market/stock-market-news/pc-jeweller-kalyan-jewellers-to-senco-gold-jewellery-stocks-fall-5-as-gold-prices-slips-below-1-25-lakh-buy-or-sell-11795152566909.html",
-          "pubDate": "2026-11-20T12:37:58+05:30"
-        },
-        {
-          "title": "Hindustan Zinc vs Tata Steel vs JSW Steel: Which metal stock to buy amid big fall in the metal stocks | Targets",
-          "link": "https://www.livemint.com/market/stock-market-news/hindustan-zinc-vs-tata-steel-vs-jsw-steel-which-metal-stock-to-buy-amid-big-fall-in-the-metal-stocks-targets-11795153441565.html",
-          "pubDate": "2026-11-20T12:15:30+05:30"
-        },
-        {
-          "title": "Why Tips Films' shares jump 15% after the announcement of voluntary delisting? Experts's views, target price, stop-loss",
-          "link": "https://www.livemint.com/market/stock-market-news/why-tips-films-shares-jump-15-after-the-announcement-of-voluntary-delisting-expertss-views-target-price-stoploss-11795146325237.html",
-          "pubDate": "2026-11-20T11:40:41+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-11-20T18:42:00.672161+00:00",
+      "updated_at": "2026-11-21T00:12:59.797178+00:00",
       "items": [
         {
           "title": "Oil prices set for 3rd straight week of decline on West Asia export flows",
@@ -986,6 +986,11 @@
           "title": "Industry body GJC alerts BIS over gold adulteration using Rhenium, Iridium",
           "link": "https://www.business-standard.com/markets/commodities/industry-body-gjc-alerts-bis-over-gold-adulteration-using-rhenium-iridium-126112000985_1.html",
           "pubDate": "2026-11-20T18:44:29+05:30"
+        },
+        {
+          "title": "Bitcoin nears USD 60,000: What traders should watch, according to WazirX",
+          "link": "https://www.business-standard.com/content/press-releases-ani/bitcoin-nears-usd-60-000-what-traders-should-watch-according-to-wazirx-126112000892_1.html",
+          "pubDate": "2026-11-20T17:35:24+05:30"
         },
         {
           "title": "IndusInd Bank shares jump 8% on volume surge, near 52-week high",
@@ -1096,17 +1101,12 @@
           "title": "Ashoka Buildcon shares tank 6% as ₹846-cr Saudi Arabia project cancelled",
           "link": "https://www.business-standard.com/markets/news/ashoka-buildcon-shares-tank-6-as-846-cr-saudi-arabia-project-cancelled-126112000220_1.html",
           "pubDate": "2026-11-20T09:48:35+05:30"
-        },
-        {
-          "title": "Asian stocks head for worst week since 2020 as AI rally loses steam",
-          "link": "https://www.business-standard.com/markets/news/asian-stocks-head-for-worst-week-since-2020-as-ai-rally-loses-steam-126112000154_1.html",
-          "pubDate": "2026-11-20T09:20:11+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-11-20T18:42:00.753954+00:00",
+      "updated_at": "2026-11-21T00:13:00.621133+00:00",
       "items": [
         {
           "title": "Conversion/Switch of State Government Securities",

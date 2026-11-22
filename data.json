@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T15:39:18.280171+00:00",
+  "generated_at": "2026-11-22T21:14:12.044966+00:00",
   "indices": {
     "nifty50": {
       "price": 25800.6,
@@ -34,7 +34,7 @@
         25704.099609375,
         25724.400390625,
         25720.05078125,
-        25705.69921875,
+        25706.19921875,
         25728.0,
         25733.099609375,
         25715.25,
@@ -43,7 +43,7 @@
         25696.05078125,
         25702.400390625,
         25726.849609375,
-        25730.650390625,
+        25731.5,
         25729.349609375,
         25736.55078125,
         25744.94921875,
@@ -68,7 +68,7 @@
         25800.599609375
       ],
       "ok": true,
-      "updated_at": "2026-11-22T15:39:16.436780+00:00"
+      "updated_at": "2026-11-22T21:14:11.006115+00:00"
     },
     "sensex": {
       "price": 83919.71,
@@ -137,7 +137,7 @@
         83919.7109375
       ],
       "ok": true,
-      "updated_at": "2026-11-22T15:39:16.552776+00:00"
+      "updated_at": "2026-11-22T21:14:11.062541+00:00"
     },
     "banknifty": {
       "price": 64635.2,
@@ -206,7 +206,7 @@
         64635.19921875
       ],
       "ok": true,
-      "updated_at": "2026-11-22T15:39:16.663804+00:00"
+      "updated_at": "2026-11-22T21:14:11.115460+00:00"
     },
     "vix": {
       "price": 17.32,
@@ -275,7 +275,7 @@
         17.31999969482422
       ],
       "ok": true,
-      "updated_at": "2026-11-22T15:39:16.777458+00:00"
+      "updated_at": "2026-11-22T21:14:11.180501+00:00"
     },
     "usdinr": {
       "price": 92.66,
@@ -344,23 +344,23 @@
         92.66000366210938
       ],
       "ok": true,
-      "updated_at": "2026-11-22T15:39:16.938951+00:00"
+      "updated_at": "2026-11-22T21:14:11.249296+00:00"
     },
     "gold": {
       "price": 3515.4,
-      "change": -170.1,
-      "pct": -4.6154,
+      "change": 0.0,
+      "pct": 0.0,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-11-22T15:39:17.047193+00:00"
+      "updated_at": "2026-11-22T21:14:11.319120+00:00"
     },
     "crude": {
       "price": 83.41,
-      "change": 0.97,
-      "pct": 1.1766,
+      "change": 0.0,
+      "pct": 0.0,
       "closes": [],
       "ok": true,
-      "updated_at": "2026-11-22T15:39:17.153963+00:00"
+      "updated_at": "2026-11-22T21:14:11.410118+00:00"
     },
     "us10y": {
       "price": 4.912,
@@ -429,13 +429,13 @@
         4.911999702453613
       ],
       "ok": true,
-      "updated_at": "2026-11-22T15:39:17.265198+00:00"
+      "updated_at": "2026-11-22T21:14:11.464207+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-11-22T15:39:17.471309+00:00",
+      "updated_at": "2026-11-22T21:14:11.514095+00:00",
       "items": [
         {
           "title": "IPO Calendar: Issues worth Rs 3,300 crore lined up this week; Mahanadi Coalfields set for listing",
@@ -590,7 +590,7 @@
       ]
     },
     "mc": {
-      "ok": true,
+      "ok": false,
       "updated_at": "2026-11-22T15:39:17.612524+00:00",
       "items": [
         {
@@ -672,7 +672,7 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-11-22T15:39:17.697601+00:00",
+      "updated_at": "2026-11-22T21:14:11.590277+00:00",
       "items": [
         {
           "title": "Taiwan Mulls Lowering Margin Requirement to Support Stock Market",
@@ -828,27 +828,17 @@
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-11-22T15:39:17.936243+00:00",
+      "updated_at": "2026-11-22T21:14:11.616107+00:00",
       "items": [
         {
           "title": "FPI, crude oil, global trends to to steer markets in holiday-shortened week",
           "link": "https://www.business-standard.com/markets/news/fpi-crude-oil-global-trends-to-to-steer-markets-in-holiday-shortened-week-126112200353_1.html",
-          "pubDate": "2026-11-22T15:17:11+05:30"
-        },
-        {
-          "title": "Anthropic stock slides 8.5%, but is its AI risk warning the reason?",
-          "link": "https://www.business-standard.com/markets/stock-market-news/markets-stock-market-anthropic-shares-fall-ai-doomsday-warning-ipo-valuation-126112200333_1.html",
-          "pubDate": "2026-11-22T14:12:49+05:30"
+          "pubDate": "2026-11-22T15:17:13+05:30"
         },
         {
           "title": "InvIT IPO rush gathers pace, 4-5 trusts likely to go public by Mar 2027",
           "link": "https://www.business-standard.com/markets/ipo/invit-ipo-rush-gathers-pace-4-5-trusts-likely-to-go-public-by-mar-2027-126112200225_1.html",
           "pubDate": "2026-11-22T12:26:08+05:30"
-        },
-        {
-          "title": "Paint companies eye stronger Q3 demand on festival shift, weddings",
-          "link": "https://www.business-standard.com/markets/stock-market-news/markets-stock-market-paint-sector-demand-q3fy27-asian-paints-berger-kansai-nerolac-outlook-126112200081_1.html",
-          "pubDate": "2026-11-22T07:43:46+05:30"
         },
         {
           "title": "Oil prices set for 3rd straight week of decline on West Asia export flows",
@@ -979,12 +969,22 @@
           "title": "Nifty Metal drops 3% as firm dollar dents base metals; APL Apollo top loser",
           "link": "https://www.business-standard.com/markets/news/nifty-metal-drops-3-as-firm-dollar-dents-base-metals-apl-apollo-top-loser-126112000276_1.html",
           "pubDate": "2026-11-20T10:29:19+05:30"
+        },
+        {
+          "title": "Titan, Muthoot Finance, Kalyan Jewellers fall up to 4% as Gold prices slide",
+          "link": "https://www.business-standard.com/markets/news/titan-muthoot-finance-kalyan-jewellers-fall-up-to-4-as-gold-prices-slide-126112000238_1.html",
+          "pubDate": "2026-11-20T10:04:55+05:30"
+        },
+        {
+          "title": "Dilip Buildcon share price surges 7% on ₹419-crore Gurugram Metro order win",
+          "link": "https://www.business-standard.com/markets/news/dilip-buildcon-share-price-surges-7-on-419-crore-gurugram-metro-order-win-126112000240_1.html",
+          "pubDate": "2026-11-20T09:59:05+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-11-22T15:39:18.280154+00:00",
+      "updated_at": "2026-11-22T21:14:12.044950+00:00",
       "items": [
         {
           "title": "Conversion/Switch of State Government Securities",

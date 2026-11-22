@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-22T00:46:47.037897+00:00",
+  "generated_at": "2026-11-22T07:33:17.155801+00:00",
   "indices": {
     "nifty50": {
       "price": 25800.6,
-      "change": 286.3,
-      "pct": 1.1221,
+      "change": 572.7,
+      "pct": 2.2701,
       "closes": [
         25534.599609375,
         25551.0,
@@ -68,7 +68,7 @@
         25800.599609375
       ],
       "ok": true,
-      "updated_at": "2026-11-22T00:46:45.475702+00:00"
+      "updated_at": "2026-11-22T07:33:15.610396+00:00"
     },
     "sensex": {
       "price": 83919.71,
@@ -137,12 +137,12 @@
         83919.7109375
       ],
       "ok": true,
-      "updated_at": "2026-11-22T00:46:45.534275+00:00"
+      "updated_at": "2026-11-22T07:33:15.691592+00:00"
     },
     "banknifty": {
       "price": 64635.2,
-      "change": 1572.2,
-      "pct": 2.4931,
+      "change": 2596.6,
+      "pct": 4.1855,
       "closes": [
         63227.05078125,
         63279.69921875,
@@ -206,7 +206,7 @@
         64635.19921875
       ],
       "ok": true,
-      "updated_at": "2026-11-22T00:46:45.590813+00:00"
+      "updated_at": "2026-11-22T07:33:15.742140+00:00"
     },
     "vix": {
       "price": 17.32,
@@ -275,13 +275,14 @@
         17.31999969482422
       ],
       "ok": true,
-      "updated_at": "2026-11-22T00:46:45.650756+00:00"
+      "updated_at": "2026-11-22T07:33:15.800750+00:00"
     },
     "usdinr": {
       "price": 92.67,
       "change": -0.61,
       "pct": -0.6539,
       "closes": [
+        93.01249694824219,
         93.03500366210938,
         93.00250244140625,
         92.98999786376953,
@@ -340,149 +341,26 @@
         92.66999816894531,
         92.66000366210938,
         92.66000366210938,
-        92.66000366210938,
-        92.66999816894531
+        92.66000366210938
       ],
       "ok": true,
-      "updated_at": "2026-11-22T00:46:45.776014+00:00"
+      "updated_at": "2026-11-22T07:33:15.861237+00:00"
     },
     "gold": {
       "price": 3515.4,
       "change": -170.1,
       "pct": -4.6154,
-      "closes": [
-        3536.699951171875,
-        3539.0,
-        3536.5,
-        3532.0,
-        3530.699951171875,
-        3530.5,
-        3531.0,
-        3528.39990234375,
-        3527.699951171875,
-        3525.10009765625,
-        3529.0,
-        3531.699951171875,
-        3528.199951171875,
-        3526.89990234375,
-        3522.10009765625,
-        3525.0,
-        3524.39990234375,
-        3514.5,
-        3517.60009765625,
-        3515.800048828125,
-        3506.89990234375,
-        3507.0,
-        3519.5,
-        3535.60009765625,
-        3527.199951171875,
-        3523.5,
-        3518.800048828125,
-        3518.199951171875,
-        3517.10009765625,
-        3513.60009765625,
-        3513.89990234375,
-        3529.0,
-        3532.60009765625,
-        3525.699951171875,
-        3520.10009765625,
-        3524.699951171875,
-        3518.0,
-        3517.5,
-        3514.89990234375,
-        3521.199951171875,
-        3517.39990234375,
-        3515.699951171875,
-        3506.60009765625,
-        3514.10009765625,
-        3506.800048828125,
-        3526.39990234375,
-        3520.5,
-        3526.199951171875,
-        3525.60009765625,
-        3523.199951171875,
-        3519.300048828125,
-        3517.89990234375,
-        3521.300048828125,
-        3523.800048828125,
-        3524.60009765625,
-        3526.699951171875,
-        3526.699951171875,
-        3533.300048828125,
-        3535.10009765625,
-        3515.39990234375
-      ],
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-11-22T00:46:45.846544+00:00"
+      "updated_at": "2026-11-22T07:33:15.915188+00:00"
     },
     "crude": {
       "price": 83.41,
       "change": 0.97,
       "pct": 1.1766,
-      "closes": [
-        82.47000122070312,
-        82.58999633789062,
-        82.63999938964844,
-        82.52999877929688,
-        82.41000366210938,
-        82.30000305175781,
-        82.58000183105469,
-        82.44999694824219,
-        82.4800033569336,
-        82.54000091552734,
-        82.70999908447266,
-        82.77999877929688,
-        82.56999969482422,
-        82.62000274658203,
-        82.61000061035156,
-        83.0999984741211,
-        83.04000091552734,
-        83.0,
-        82.95999908447266,
-        82.95999908447266,
-        83.02999877929688,
-        83.04000091552734,
-        83.19000244140625,
-        83.08000183105469,
-        83.08999633789062,
-        83.25,
-        83.20999908447266,
-        83.16999816894531,
-        83.43000030517578,
-        83.27999877929688,
-        82.9000015258789,
-        83.0999984741211,
-        83.16999816894531,
-        83.1500015258789,
-        83.08999633789062,
-        83.01000213623047,
-        82.9800033569336,
-        83.18000030517578,
-        83.12999725341797,
-        83.22000122070312,
-        83.55999755859375,
-        83.66000366210938,
-        83.68000030517578,
-        83.73999786376953,
-        83.72000122070312,
-        84.04000091552734,
-        83.98999786376953,
-        83.97000122070312,
-        83.87000274658203,
-        83.73999786376953,
-        83.80999755859375,
-        83.69000244140625,
-        83.77999877929688,
-        83.73999786376953,
-        83.72000122070312,
-        83.63999938964844,
-        83.62000274658203,
-        83.58000183105469,
-        83.58999633789062,
-        83.41000366210938
-      ],
+      "closes": [],
       "ok": true,
-      "updated_at": "2026-11-22T00:46:45.906937+00:00"
+      "updated_at": "2026-11-22T07:33:15.965050+00:00"
     },
     "us10y": {
       "price": 4.912,
@@ -551,14 +429,24 @@
         4.911999702453613
       ],
       "ok": true,
-      "updated_at": "2026-11-22T00:46:45.963657+00:00"
+      "updated_at": "2026-11-22T07:33:16.044449+00:00"
     }
   },
   "feeds": {
     "et": {
       "ok": true,
-      "updated_at": "2026-11-22T00:46:46.043799+00:00",
+      "updated_at": "2026-11-22T07:33:16.114250+00:00",
       "items": [
+        {
+          "title": "Wall Street asks what can save AI trade after Anthropic wipeout",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout/articleshow/136067463.cms",
+          "pubDate": "2026-11-22T10:13:54+05:30"
+        },
+        {
+          "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-post-debut-stumble-delivers-reality-check-for-ai-trade/articleshow/136066633.cms",
+          "pubDate": "2026-11-22T09:00:15+05:30"
+        },
         {
           "title": "PPFAS Mutual Fund has no plans to expand its 7-scheme portfolio for now, says Neil Parikh",
           "link": "https://economictimes.indiatimes.com/mf/mf-news/ppfas-mutual-fund-has-no-plans-to-expand-its-7-scheme-portfolio-for-now-says-neil-parikh/articleshow/136054584.cms",
@@ -575,19 +463,9 @@
           "pubDate": "2026-11-21T16:08:54+05:30"
         },
         {
-          "title": "PPFAS and Quant Mutual Fund among 6 mutual funds with over Rs 10,000 crore cash in their portfolio in October",
-          "link": "https://economictimes.indiatimes.com/mf/analysis/ppfas-and-quant-mutual-fund-among-6-mutual-funds-with-over-rs-10000-crore-cash-in-their-portfolio-in-october/total-cash-holding/slideshow/136050157.cms",
-          "pubDate": "2026-11-21T14:52:25+05:30"
-        },
-        {
           "title": "Top sectors that witnessed high levels of selling by mutual funds in October 2026",
           "link": "https://economictimes.indiatimes.com/mf/analysis/top-sectors-that-witnessed-high-levels-of-selling-by-mutual-funds-in-october-2026/top-sells/slideshow/136048940.cms",
           "pubDate": "2026-11-21T13:49:49+05:30"
-        },
-        {
-          "title": "NRI Talk | NRIs are moving beyond deposits to mutual funds and global investing; Belong manages $20 million in AUM: Ankur Choudhary",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nri-talk-nris-are-moving-beyond-deposits-to-mutual-funds-and-global-investing-belong-manages-20-million-in-aum-ankur-choudhary/articleshow/136048307.cms",
-          "pubDate": "2026-11-21T13:23:31+05:30"
         },
         {
           "title": "What happened to US airlines today? Over 15,000 flights cancelled after longest nationwide ground stop in 25 years",
@@ -712,8 +590,8 @@
       ]
     },
     "mc": {
-      "ok": false,
-      "updated_at": "2026-11-21T15:17:31.325414+00:00",
+      "ok": true,
+      "updated_at": "2026-11-22T07:33:16.202389+00:00",
       "items": [
         {
           "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
@@ -794,8 +672,38 @@
     },
     "lm": {
       "ok": true,
-      "updated_at": "2026-11-22T00:46:46.206864+00:00",
+      "updated_at": "2026-11-22T07:33:16.304736+00:00",
       "items": [
+        {
+          "title": "What is future of gold rates? Price crash continues as AI selloff, Fed rate-hike concerns weigh on investors' sentiment",
+          "link": "https://www.livemint.com/market/commodities/what-is-future-of-gold-rates-price-crash-continues-as-ai-selloff-fed-rate-hike-concerns-weigh-on-investors-sentiment-11795325490076.html",
+          "pubDate": "2026-11-22T12:24:55+05:30"
+        },
+        {
+          "title": "Top 3 stocks to buy: Swiggy, Tata Chemicals, Amber Enterprises by Ganesh Dongre of Anand Rathi | Targets, stop-loss",
+          "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-swiggy-tata-chemicals-amber-enterprises-by-ganesh-dongre-of-anand-rathi-targets-stoploss-11795312924053.html",
+          "pubDate": "2026-11-22T10:44:39+05:30"
+        },
+        {
+          "title": "31% returns in 2026 so far! This stock is giving 4 shares on every share - you too can get it; check record date",
+          "link": "https://www.livemint.com/market/stock-market-news/31-return-in-2026-so-far-smallcap-textile-stock-is-giving-4-shares-for-every-1-held-record-date-ahead-do-you-own-11795275604076.html",
+          "pubDate": "2026-11-22T10:13:16+05:30"
+        },
+        {
+          "title": "Penny stock under  ₹10 with strong fundamentals, high book value; do you own this Reliance Group share? Target, SL",
+          "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-with-strong-fundamentals-high-book-value-do-you-own-this-reliance-group-share-target-sl-11795316117383.html",
+          "pubDate": "2026-11-22T09:20:25+05:30"
+        },
+        {
+          "title": "Wall Street sell-off: Is the worst over? Goldman Sachs warns of fresh selling wave, flags 3 recovery triggers",
+          "link": "https://www.livemint.com/market/stock-market-news/wall-street-sell-off-is-the-worst-over-goldman-sachs-warns-of-fresh-selling-wave-flags-3-recovery-triggers-11795316021375.html",
+          "pubDate": "2026-11-22T09:03:53+05:30"
+        },
+        {
+          "title": "Best 3 stocks to buy under  ₹100: IDFC First Bank, Jayaswal Neco Industries, Sagility by Sumeet Bagadia | Targets, SL",
+          "link": "https://www.livemint.com/market/stock-market-news/best-3-stocks-to-buy-under-rs-100-idfc-first-bank-jayaswal-neco-industries-sagility-by-sumeet-bagadia-targets-sl-11795278599364.html",
+          "pubDate": "2026-11-22T06:30:13+05:30"
+        },
         {
           "title": "Gold rate today in India at 14-month low; will it hit  ₹1 lakh? Experts list out 3 reasons for gold price drop in 2026",
           "link": "https://www.livemint.com/market/commodities/gold-rate-today-in-india-at-14-month-low-will-it-hit-rs-1-lakh-experts-list-out-3-reasons-for-gold-price-drop-in-2026-11795283484060.html",
@@ -915,43 +823,23 @@
           "title": "Dollar weaker as Fed-fueled rally stalls; lower US yields help yen",
           "link": "https://www.livemint.com/market/dollar-weaker-as-fed-fueled-rally-stalls-lower-us-yields-help-yen-11795205355081.html",
           "pubDate": "2026-11-21T01:39:14+05:30"
-        },
-        {
-          "title": "AI tech rout prompts US investors to rush into value stocks",
-          "link": "https://www.livemint.com/market/ai-tech-rout-prompts-us-investors-to-rush-into-value-stocks-11795205292642.html",
-          "pubDate": "2026-11-21T01:38:12+05:30"
-        },
-        {
-          "title": "Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees",
-          "link": "https://www.livemint.com/market/wall-street-banks-set-for-banner-year-as-anthropic-spacex-ipos-generate-1-billion-in-fees-11795201100809.html",
-          "pubDate": "2026-11-21T00:28:20+05:30"
-        },
-        {
-          "title": "Smallcap dividend stars: 5 stocks under  ₹100 with high dividend yield - Jagran Prakashan, Radiant Cash, and more",
-          "link": "https://www.livemint.com/market/stock-market-news/smallcap-dividend-stars-5-stocks-under-rs-100-with-high-dividend-yield-jagran-prakashan-radiant-cash-and-more-11795193828075.html",
-          "pubDate": "2026-11-20T22:32:19+05:30"
-        },
-        {
-          "title": "Pulse of the Street: Dalal Street extends winning run as global markets slide",
-          "link": "https://www.livemint.com/market/pulse-of-the-street-dalal-street-extends-winning-run-as-global-markets-slide-11795181421343.html",
-          "pubDate": "2026-11-20T21:56:49+05:30"
-        },
-        {
-          "title": "SEBI proposes big relief for FPIs: Additional disclosure rules may go - What it means for NSE and BSE",
-          "link": "https://www.livemint.com/market/stock-market-news/gold-prices-near-14-month-low-what-does-sharp-price-crash-mean-for-titan-kalyan-pc-jeweller-other-jewellery-stocksg-11795184261882.html",
-          "pubDate": "2026-11-20T21:28:10+05:30"
-        },
-        {
-          "title": "Anthropic shares tumble 10% after blockbuster IPO, erase debut gains; why are investors turning cautious on AI?",
-          "link": "https://www.livemint.com/market/stock-market-news/anthropic-shares-tumble-10-after-blockbuster-ipo-erase-debut-gains-why-are-investors-turning-cautious-on-ai-11795184887970.html",
-          "pubDate": "2026-11-20T20:32:38+05:30"
         }
       ]
     },
     "bs": {
       "ok": true,
-      "updated_at": "2026-11-22T00:46:46.336878+00:00",
+      "updated_at": "2026-11-22T07:33:16.418928+00:00",
       "items": [
+        {
+          "title": "InvIT IPO rush gathers pace, 4-5 trusts likely to go public by Mar 2027",
+          "link": "https://www.business-standard.com/markets/ipo/invit-ipo-rush-gathers-pace-4-5-trusts-likely-to-go-public-by-mar-2027-126112200225_1.html",
+          "pubDate": "2026-11-22T12:26:08+05:30"
+        },
+        {
+          "title": "Paint companies eye stronger Q3 demand on festival shift, weddings",
+          "link": "https://www.business-standard.com/markets/stock-market-news/markets-stock-market-paint-sector-demand-q3fy27-asian-paints-berger-kansai-nerolac-outlook-126112200081_1.html",
+          "pubDate": "2026-11-22T07:43:46+05:30"
+        },
         {
           "title": "Oil prices set for 3rd straight week of decline on West Asia export flows",
           "link": "https://www.business-standard.com/markets/news/oil-prices-set-for-3rd-straight-week-of-decline-on-west-asia-export-flows-126112001415_1.html",
@@ -973,11 +861,6 @@
           "pubDate": "2026-11-20T20:45:33+05:30"
         },
         {
-          "title": "Sebi proposes removing additional disclosure framework for FPIs",
-          "link": "https://www.business-standard.com/markets/news/sebi-proposes-removing-additional-disclosure-framework-for-fpis-126112001177_1.html",
-          "pubDate": "2026-11-20T20:09:59+05:30"
-        },
-        {
           "title": "Markets gain 2.6% on FPI inflows, rupee rally and cooling crude oil prices",
           "link": "https://www.business-standard.com/markets/news/markets-gain-2-6-on-fpi-inflows-rupee-rally-and-cooling-crude-oil-prices-126112000973_1.html",
           "pubDate": "2026-11-20T19:24:39+05:30"
@@ -991,11 +874,6 @@
           "title": "Industry body GJC alerts BIS over gold adulteration using Rhenium, Iridium",
           "link": "https://www.business-standard.com/markets/commodities/industry-body-gjc-alerts-bis-over-gold-adulteration-using-rhenium-iridium-126112000985_1.html",
           "pubDate": "2026-11-20T18:44:29+05:30"
-        },
-        {
-          "title": "Margins to remain under pressure for Siemens in near term amid volatility",
-          "link": "https://www.business-standard.com/markets/news/margins-to-remain-under-pressure-for-siemens-in-near-term-amid-volatility-126112000992_1.html",
-          "pubDate": "2026-11-20T18:33:37+05:30"
         },
         {
           "title": "Bitcoin nears USD 60,000: What traders should watch, according to WazirX",
@@ -1068,11 +946,6 @@
           "pubDate": "2026-11-20T12:02:55+05:30"
         },
         {
-          "title": "Trading still anchors NSE's business as clearing section gains share",
-          "link": "https://www.business-standard.com/markets/news/trading-still-anchors-nse-s-business-as-clearing-section-gains-share-126112000366_1.html",
-          "pubDate": "2026-11-20T11:52:38+05:30"
-        },
-        {
           "title": "Rupee rises past 93/USD, hits 7-month high on FPI inflows, softer oil",
           "link": "https://www.business-standard.com/markets/news/rupee-rises-past-93-usd-hits-7-month-high-on-fpi-inflows-softer-oil-126112000354_1.html",
           "pubDate": "2026-11-20T11:51:19+05:30"
@@ -1101,12 +974,17 @@
           "title": "Titan, Muthoot Finance, Kalyan Jewellers fall up to 4% as Gold prices slide",
           "link": "https://www.business-standard.com/markets/news/titan-muthoot-finance-kalyan-jewellers-fall-up-to-4-as-gold-prices-slide-126112000238_1.html",
           "pubDate": "2026-11-20T10:04:55+05:30"
+        },
+        {
+          "title": "Dilip Buildcon share price surges 7% on ₹419-crore Gurugram Metro order win",
+          "link": "https://www.business-standard.com/markets/news/dilip-buildcon-share-price-surges-7-on-419-crore-gurugram-metro-order-win-126112000240_1.html",
+          "pubDate": "2026-11-20T09:59:05+05:30"
         }
       ]
     },
     "rbi": {
       "ok": true,
-      "updated_at": "2026-11-22T00:46:47.037882+00:00",
+      "updated_at": "2026-11-22T07:33:17.155783+00:00",
       "items": [
         {
           "title": "Conversion/Switch of State Government Securities",
